@@ -11,11 +11,11 @@
 
 정식 작업 루트:
 
-- `C:\Users\DanKim\Desktop\blank-app\youtube-benchmark-dashboard-mvp`
-
-사용자 미러 폴더:
-
 - `C:\Users\DanKim\Desktop\Wealth\ai project\0. youtube benchmark dashboard`
+
+예전 작업 루트:
+
+- `C:\Users\DanKim\Desktop\blank-app\youtube-benchmark-dashboard-mvp`
 
 ## 현재 구현된 범위
 

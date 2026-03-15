@@ -16,9 +16,9 @@
 - 저장소: `https://github.com/Davidsteakhouse/youtube-insider-dashboard`
 - Pages: `https://davidsteakhouse.github.io/youtube-insider-dashboard/`
 - 정식 작업 루트:
-  `C:\Users\DanKim\Desktop\blank-app\youtube-benchmark-dashboard-mvp`
-- 사용자가 직접 열어보는 미러 폴더:
   `C:\Users\DanKim\Desktop\Wealth\ai project\0. youtube benchmark dashboard`
+- 예전 작업 루트:
+  `C:\Users\DanKim\Desktop\blank-app\youtube-benchmark-dashboard-mvp`
 - Notion 채널 리스트:
   `https://www.notion.so/1c61ff0d0be880d39d6dd9faf563ed5c?v=1c61ff0d0be880d3b12d000c5768d1c9&source=copy_link`
 
@@ -90,7 +90,7 @@
 2. 공개 Notion import는 row 응답이 흔들릴 수 있다.
 3. GitHub Pages는 읽기 전용이라, 업데이트 실행/Notion 다시 가져오기는 로컬 API 모드에서만 된다.
 4. 텔레그램 봇 토큰은 대화에 노출된 적이 있으므로 추후 재발급 권장.
-5. `Wealth` 폴더는 배포/사용용 미러라서, 기본 수정 대상은 아니다.
+5. 예전 `blank-app` 폴더는 복사본으로 남아 있을 수 있으니, 새 작업은 `Wealth` 폴더 기준으로 이어간다.
 
 ## 다음 작업자에게 권장하는 순서
 

@@ -14,12 +14,13 @@
 
 ## 현재 운영 구조
 
-- 정식 작업 루트: `C:\Users\DanKim\Desktop\blank-app\youtube-benchmark-dashboard-mvp`
-- 사용자가 직접 열어보는 미러 폴더:
+- 정식 작업 루트:
   `C:\Users\DanKim\Desktop\Wealth\ai project\0. youtube benchmark dashboard`
+- 예전 작업 루트:
+  `C:\Users\DanKim\Desktop\blank-app\youtube-benchmark-dashboard-mvp`
 - 기본 원칙:
-  - 코드 수정과 Git 작업은 `blank-app` 저장소 기준으로 한다.
-  - 필요할 때만 `Wealth` 폴더로 결과물을 동기화한다.
+  - 앞으로 코드 수정과 Git 작업은 `Wealth` 폴더 기준으로 한다.
+  - `blank-app` 폴더는 이전 작업 복사본으로 보고, 새 작업 기준으로 사용하지 않는다.
 - GitHub 저장소: `https://github.com/Davidsteakhouse/youtube-insider-dashboard`
 - GitHub Pages: `https://davidsteakhouse.github.io/youtube-insider-dashboard/`
 - 자동 실행: GitHub Actions `YouTube Insider Daily`
