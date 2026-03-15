@@ -5,7 +5,7 @@
 구성:
 
 - `YouTube Insider Daily`
-  - 매일 `오전 8시 KST`
+  - 매일 `오전 8:07 KST`
   - 파이프라인 실행
   - 텔레그램 전송
   - 최신 `data/*.json`, `data_bundle.js` 갱신 후 커밋

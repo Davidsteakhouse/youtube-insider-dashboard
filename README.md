@@ -3,6 +3,20 @@
 이 프로젝트는 `정적 HTML 대시보드 + Python 로컬 API 서버 + SQLite 누적 저장소` 구조로 동작합니다.  
 핵심 목적은 `최근 24시간 경쟁 채널 분석`만 보는 것이 아니라, `누적 벤치마킹 기록을 검색하고 날짜별로 다시 꺼내보는 운영 콘솔`을 만드는 것입니다.
 
+먼저 읽을 문서:
+
+- [CLAUDE.md](./CLAUDE.md)
+- [PROJECT_STATUS.md](./PROJECT_STATUS.md)
+- [GITHUB_ACTIONS_SETUP.md](./GITHUB_ACTIONS_SETUP.md)
+
+정식 작업 루트:
+
+- `C:\Users\DanKim\Desktop\blank-app\youtube-benchmark-dashboard-mvp`
+
+사용자 미러 폴더:
+
+- `C:\Users\DanKim\Desktop\Wealth\ai project\0. youtube benchmark dashboard`
+
 ## 현재 구현된 범위
 
 - `SQLite` 기반 누적 저장
