@@ -116,6 +116,7 @@ C:\Users\DanKim\anaconda3\python.exe .\scripts\run_pipeline.py --no-sync-watchli
 - `WATCHLIST_IMPORT_FILE`
 - `NOTION_TOKEN_V2`
 - `APIFY_YOUTUBE_TRANSCRIPT_ACTOR_ID`
+- `PUBLIC_DASHBOARD_URL`
 
 ## 메모
 
@@ -149,3 +150,4 @@ C:\Users\DanKim\anaconda3\python.exe .\scripts\run_pipeline.py --no-sync-watchli
 - 읽기 전용 모바일 대시보드는 GitHub Pages로 보는 구조
 - `업데이트 실행`, `Notion 다시 가져오기`는 여전히 로컬 API 모드에서만 동작
 - SQLite는 로컬 전용이고, GitHub Actions에서는 JSON export를 읽어 매 실행마다 다시 복원
+- `PUBLIC_DASHBOARD_URL`을 넣으면 텔레그램 브리프 하단에 모바일 대시보드 링크가 같이 붙음

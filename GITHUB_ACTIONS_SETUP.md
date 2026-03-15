@@ -56,6 +56,7 @@ git push -u origin main
 - `LLM_PROVIDER=gemini`
 - `GEMINI_MODEL=gemini-2.5-flash-lite`
 - `NOTION_SOURCE_URL=https://www.notion.so/1c61ff0d0be880d39d6dd9faf563ed5c?v=1c61ff0d0be880d3b12d000c5768d1c9&source=copy_link`
+- `PUBLIC_DASHBOARD_URL=https://davidsteakhouse.github.io/youtube-insider-dashboard/`
 
 노션 URL을 바꾸고 싶으면 workflow 파일이나 코드 기본값을 수정하면 됩니다.
 
@@ -66,6 +67,12 @@ git push -u origin main
 - `Source`: `GitHub Actions`
 
 설정 후 `Deploy Dashboard Pages` 워크플로우가 읽기 전용 사이트를 배포합니다.
+
+처음에는 404가 보일 수 있습니다. 아래 순서로 맞추면 해결됩니다.
+
+1. `Settings -> Pages -> Source`를 `GitHub Actions`로 설정
+2. `Actions -> Deploy Dashboard Pages`를 한 번 수동 실행
+3. 1~2분 뒤 다시 접속
 
 ## 4. 자동 실행 시간
 

@@ -2,6 +2,7 @@ from __future__ import annotations
 
 from collections import Counter, defaultdict
 from datetime import datetime, timedelta, timezone
+import os
 import re
 from typing import Any
 
@@ -534,7 +535,8 @@ def build_telegram_preview(
         else "주제 클러스터를 아직 계산하지 못했습니다."
     )
     top_title = title_suggestions[0] if title_suggestions else "오늘은 최고 실적 주제를 내 채널 포맷으로 바꿔보세요."
-    return (
+    dashboard_url = str(os.getenv("PUBLIC_DASHBOARD_URL", "") or "").strip()
+    message = (
         "📡 YouTube Insider _ v2\n\n"
         f"🗓 최근 24시간 영상 {len(videos)}개\n\n"
         f"🏆 오늘 최고 실적 영상\n"
@@ -547,6 +549,9 @@ def build_telegram_preview(
         f"📌 오늘 최고 실적 주제\n• {topic_line}\n\n"
         f"💡 추천 제목\n• {top_title}"
     )
+    if dashboard_url:
+        message += f"\n\n🔎 자세히 보기\n{dashboard_url}"
+    return message
 
 
 def build_digest(videos: list[dict[str, Any]], watchlist: list[dict[str, Any]]) -> dict[str, Any]:

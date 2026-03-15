@@ -31,6 +31,7 @@ jobs:
       LLM_PROVIDER: gemini
       GEMINI_MODEL: gemini-2.5-flash-lite
       APIFY_YOUTUBE_TRANSCRIPT_ACTOR_ID: futurizerush~youtube-transcript-scraper
+      PUBLIC_DASHBOARD_URL: https://davidsteakhouse.github.io/youtube-insider-dashboard/
     steps:
       - name: Checkout repository
         uses: actions/checkout@v5
