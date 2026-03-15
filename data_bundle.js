@@ -1,6 +1,6 @@
 window.__DASHBOARD_DATA__ = {
   "watchlist": {
-    "generated_at": "2026-03-15T04:42:09+00:00",
+    "generated_at": "2026-03-15T05:16:24+00:00",
     "source": "sqlite_export",
     "channels": [
       {
@@ -519,7 +519,7 @@ window.__DASHBOARD_DATA__ = {
     ]
   },
   "videos": {
-    "generated_at": "2026-03-15T04:42:09+00:00",
+    "generated_at": "2026-03-15T05:16:24+00:00",
     "source": "sqlite_export",
     "video_count": 5,
     "videos": [
