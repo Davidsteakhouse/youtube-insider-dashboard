@@ -3,7 +3,7 @@ name: YouTube Insider Daily
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 23 * * *"
+    - cron: "7 23 * * *"
 
 permissions:
   contents: write

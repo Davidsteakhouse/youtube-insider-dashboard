@@ -132,7 +132,7 @@ C:\Users\DanKim\anaconda3\python.exe .\scripts\run_pipeline.py --no-sync-watchli
 
 가장 단순하고 무료로 유지하려면 `public repository` 기준이 좋습니다.
 
-- 매일 `오전 8시 KST` 자동 실행
+- 매일 `오전 8:07 KST` 자동 실행
 - Telegram 브리프 전송
 - 최신 `data/*.json`, `data_bundle.js` 갱신
 - GitHub Pages 읽기 전용 대시보드 자동 배포
@@ -146,7 +146,7 @@ C:\Users\DanKim\anaconda3\python.exe .\scripts\run_pipeline.py --no-sync-watchli
 
 핵심 포인트:
 
-- GitHub Actions cron은 UTC 기준이라 `오전 8시 KST = 전날 23:00 UTC`
+- GitHub Actions cron은 UTC 기준이라 `오전 8:07 KST = 전날 23:07 UTC`
 - 읽기 전용 모바일 대시보드는 GitHub Pages로 보는 구조
 - `업데이트 실행`, `Notion 다시 가져오기`는 여전히 로컬 API 모드에서만 동작
 - SQLite는 로컬 전용이고, GitHub Actions에서는 JSON export를 읽어 매 실행마다 다시 복원
