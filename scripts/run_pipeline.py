@@ -7,7 +7,7 @@ from typing import Any
 
 from analyzer import enrich_videos_with_analysis
 from build_static_bundle import write_bundle
-from common import DATA_DIR, load_env_file, read_json
+from common import DATA_DIR, load_env_file, read_json, within_lookback_hours
 from digest_builder import build_digest
 from notion_importer import import_watchlist, normalize_channel
 from storage import (
@@ -135,7 +135,11 @@ def build_video_pipeline(args: argparse.Namespace, watchlist: list[dict[str, Any
         print(f"YouTube 수집 완료: 최근 24시간 영상 {len(recent_videos)}개")
     elif existing_videos:
         print("YOUTUBE_API_KEY가 없어 DB에 저장된 기존 영상으로 digest를 재계산합니다.")
-        recent_videos = [video for video in existing_videos if video.get("is_recent") is not False]
+        recent_videos = [
+            video
+            for video in existing_videos
+            if within_lookback_hours(video.get("published_at"), lookback_hours=24)
+        ]
     else:
         raise RuntimeError("YOUTUBE_API_KEY가 없고 기존 저장 영상도 없어 파이프라인을 진행할 수 없습니다.")
 

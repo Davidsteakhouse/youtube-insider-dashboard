@@ -6,7 +6,7 @@ import os
 import re
 from typing import Any
 
-from common import parse_datetime, utcnow_iso
+from common import parse_datetime, utcnow_iso, within_lookback_hours
 
 GENERIC_TOPIC_LABELS = {
     "ai",
@@ -95,14 +95,9 @@ def truncate_text(value: str, max_length: int = 110) -> str:
 
 
 def pick_recent_videos(videos: list[dict[str, Any]], *, lookback_hours: int = 24) -> list[dict[str, Any]]:
-    cutoff = datetime.now(timezone.utc) - timedelta(hours=lookback_hours)
     recent: list[dict[str, Any]] = []
     for video in videos:
-        published_at = parse_datetime(video.get("published_at"))
-        if video.get("is_recent") is True:
-            recent.append(video)
-            continue
-        if published_at and published_at.astimezone(timezone.utc) >= cutoff:
+        if within_lookback_hours(video.get("published_at"), lookback_hours=lookback_hours):
             recent.append(video)
     return sorted(recent, key=lambda item: item.get("published_at") or "", reverse=True)
 

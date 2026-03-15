@@ -6,7 +6,7 @@ import re
 import urllib.error
 import urllib.parse
 import urllib.request
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from statistics import median
 from typing import Any, Iterable
@@ -15,6 +15,7 @@ from typing import Any, Iterable
 ROOT_DIR = Path(__file__).resolve().parent.parent
 DATA_DIR = ROOT_DIR / "data"
 ENV_FILE = ROOT_DIR / ".env"
+KST = timezone(timedelta(hours=9))
 
 
 def load_env_file(path: Path = ENV_FILE) -> None:
@@ -32,6 +33,21 @@ def load_env_file(path: Path = ENV_FILE) -> None:
 
 def utcnow_iso() -> str:
     return datetime.now(timezone.utc).replace(microsecond=0).isoformat()
+
+
+def within_lookback_hours(value: str | None, *, lookback_hours: int = 24, now: datetime | None = None) -> bool:
+    parsed = parse_datetime(value)
+    if not parsed:
+        return False
+    reference = now or datetime.now(timezone.utc)
+    age = reference.astimezone(timezone.utc) - parsed.astimezone(timezone.utc)
+    return age <= timedelta(hours=lookback_hours)
+
+
+def kst_date_key(value: str | None = None) -> str:
+    parsed = parse_datetime(value)
+    target = parsed.astimezone(KST) if parsed else datetime.now(KST)
+    return target.date().isoformat()
 
 
 def read_json(path: Path, default: Any) -> Any:

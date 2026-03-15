@@ -8,7 +8,7 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Any
 
-from common import DATA_DIR, parse_datetime, slugify, utcnow_iso, write_json
+from common import DATA_DIR, kst_date_key, parse_datetime, slugify, utcnow_iso, write_json
 
 
 DB_PATH = DATA_DIR / "youtube_insider.db"
@@ -429,7 +429,7 @@ def replace_video_comments(connection: sqlite3.Connection, video_id: str, commen
 
 def upsert_digest(digest: dict[str, Any]) -> None:
     generated_at = digest.get("generated_at", utcnow_iso())
-    digest_date = generated_at[:10]
+    digest_date = kst_date_key(generated_at)
     with get_connection() as connection:
         connection.execute(
             """

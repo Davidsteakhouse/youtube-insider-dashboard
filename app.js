@@ -113,6 +113,18 @@ function formatDuration(value) {
   return `${Math.max(minutes, 1)}분`;
 }
 
+function isWithinRecentWindow(value, lookbackHours = 24) {
+  if (!value) {
+    return false;
+  }
+  const date = new Date(value);
+  if (Number.isNaN(date.getTime())) {
+    return false;
+  }
+  const now = new Date();
+  return (now.getTime() - date.getTime()) <= lookbackHours * 60 * 60 * 1000;
+}
+
 function transcriptStatusText(video) {
   const status = video.transcript_status || "unknown";
   const source = video.transcript_source && video.transcript_source !== "none" ? ` · ${video.transcript_source}` : "";
@@ -320,7 +332,7 @@ function normalizeVideoPayload(payload) {
     transcript_source: video.transcript_source || "none",
     transcript_language: video.transcript_language || "",
     transcript_text: video.transcript_text || "",
-    is_recent: video.is_recent !== false,
+    is_recent: isWithinRecentWindow(video.published_at),
   }));
 }
 
@@ -500,7 +512,7 @@ async function loadBootstrap() {
   appData.channels = normalizeWatchlistPayload(watchlist);
   appData.videos = hydrateVideos(normalizeVideoPayload(videos));
   appData.groupedHistory = groupVideosByDate(appData.videos);
-  appData.todayVideos = appData.videos.filter((video) => video.is_recent !== false).slice(0, 200);
+  appData.todayVideos = appData.videos.filter((video) => video.is_recent).slice(0, 200);
   appData.digest = normalizeDigestPayload(digest);
 
   if (!state.loadWarnings.length) {
