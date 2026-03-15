@@ -1,6 +1,6 @@
 window.__DASHBOARD_DATA__ = {
   "watchlist": {
-    "generated_at": "2026-03-15T05:16:24+00:00",
+    "generated_at": "2026-03-15T05:23:53+00:00",
     "source": "sqlite_export",
     "channels": [
       {
@@ -519,7 +519,7 @@ window.__DASHBOARD_DATA__ = {
     ]
   },
   "videos": {
-    "generated_at": "2026-03-15T05:16:24+00:00",
+    "generated_at": "2026-03-15T05:23:53+00:00",
     "source": "sqlite_export",
     "video_count": 5,
     "videos": [
@@ -1014,7 +1014,7 @@ window.__DASHBOARD_DATA__ = {
     ]
   },
   "digest": {
-    "digest_date": "2026-03-14",
+    "digest_date": "2026-03-15",
     "generated_at": "2026-03-14T15:38:58+00:00",
     "summary": "최근 24시간 영상 2개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'OpenAI'입니다. 특히 'GPT-5.4 Full Breakdown & AI News You Can Use'는 조회수 6.3K, 참여율 6.4%로 가장 강하게 반응했습니다.",
     "creator_takeaway": "오늘은 'OpenAI' 주제를 단순 뉴스 요약으로 따라가기보다, 'GPT-5.4 Full Breakdown & AI News You Can Use'처럼 실제 사용 장면과 결과를 앞쪽에 배치하는 쪽이 유리합니다. 특히 문제 해결 훅과 뉴스 분석 포맷 조합을 눈여겨보세요.",
