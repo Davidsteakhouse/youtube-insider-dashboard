@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>YouTube Insider _ v2</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="data_bundle.js"></script>
+  <script defer src="app.js"></script>
+</head>
+<body>
+  <div class="app-shell">
+    <header class="topbar">
+      <div class="topbar-copy">
+        <p class="eyebrow">YouTube Insider _ v2</p>
+        <h1>YouTube Insider _ v2</h1>
+        <p class="topbar-description">
+          매일 당신의 관심사에 맞는 글로벌 유튜브 채널 분석을 받아보세요.
+        </p>
+      </div>
+      <div class="topbar-meta meta-row">
+        <article class="meta-card">
+          <span class="meta-label">브리프 기준일</span>
+          <strong id="digest-date">데이터 로딩 중</strong>
+          <small id="sync-status">최근 24시간 기준</small>
+        </article>
+        <article class="meta-card">
+          <span class="meta-label">활성 채널</span>
+          <strong id="active-channel-count">0개</strong>
+          <small id="watchlist-status">워치리스트 로딩 중</small>
+        </article>
+        <article class="meta-card">
+          <span class="meta-label">최근 24시간 영상</span>
+          <strong id="recent-video-count">0개</strong>
+          <small id="focus-scope-label">수집 범위 계산 중</small>
+        </article>
+      </div>
+    </header>
+
+    <nav class="notion-tabs" aria-label="대시보드 화면 전환">
+      <button class="tab-button is-active" data-view-target="summary">일별 종합</button>
+      <button class="tab-button" data-view-target="detail">누적 영상 기록</button>
+      <button class="tab-button" data-view-target="watchlist">모니터링 리스트</button>
+    </nav>
+
+    <div id="data-status" class="status-banner" hidden></div>
+
+    <main class="main-layout">
+      <section id="summary-view" class="view-section is-active">
+        <div id="summary-kpis" class="summary-kpis"></div>
+
+        <div class="summary-layout">
+          <section class="panel">
+            <div class="panel-header">
+              <div>
+                <p class="panel-kicker">일별 종합</p>
+                <h2>오늘 무엇을 봐야 하는가</h2>
+              </div>
+            </div>
+            <div class="summary-note">
+              <p id="summary-text" class="summary-headline"></p>
+              <ul id="summary-points-list" class="summary-points"></ul>
+              <div id="action-chip-list" class="action-chip-list"></div>
+              <p id="creator-takeaway" class="takeaway"></p>
+            </div>
+
+            <div class="summary-block">
+              <div class="summary-block-header">
+                <h3>오늘 많이 겹친 주제</h3>
+                <span>최근 24시간 기준</span>
+              </div>
+              <div id="topic-summary-table"></div>
+            </div>
+          </section>
+
+          <aside class="panel">
+            <div class="panel-header">
+              <div>
+                <p class="panel-kicker">상위 체크</p>
+                <h2>오늘 최고 실적 영상</h2>
+              </div>
+            </div>
+            <div id="top-video-list" class="top-video-list"></div>
+          </aside>
+        </div>
+
+        <div class="summary-bottom-grid">
+          <section class="panel">
+            <div class="panel-header">
+              <div>
+                <p class="panel-kicker">지금 만들면 좋은 제목</p>
+                <h2>바로 써먹는 제목 아이디어</h2>
+              </div>
+            </div>
+            <ol id="title-suggestion-list" class="title-suggestion-list"></ol>
+          </section>
+
+          <section class="panel">
+            <div class="panel-header">
+              <div>
+                <p class="panel-kicker">추천 액션</p>
+                <h2>내 채널 적용 포인트</h2>
+              </div>
+            </div>
+            <div id="recommendation-list" class="recommendation-list"></div>
+          </section>
+        </div>
+      </section>
+
+      <section id="detail-view" class="view-section">
+        <div class="toolbar toolbar-grid">
+          <label class="toolbar-field toolbar-search">
+            <span>검색</span>
+            <input id="keyword-filter" type="search" placeholder="채널명, 제목, 키워드, 자막 검색">
+          </label>
+          <label class="toolbar-field">
+            <span>날짜</span>
+            <select id="date-filter"></select>
+          </label>
+          <label class="toolbar-field">
+            <span>채널</span>
+            <select id="channel-filter"></select>
+          </label>
+          <label class="toolbar-field">
+            <span>카테고리</span>
+            <select id="category-filter"></select>
+          </label>
+          <label class="toolbar-field">
+            <span>정렬</span>
+            <select id="sort-filter">
+              <option value="published_desc">업로드 최신순</option>
+              <option value="views_desc">조회수 높은순</option>
+              <option value="engagement_desc">참여율 높은순</option>
+              <option value="comments_desc">댓글 많은순</option>
+            </select>
+          </label>
+          <button id="reset-filters" class="ghost-button" type="button">초기화</button>
+        </div>
+
+        <div class="detail-layout">
+          <section class="panel table-panel">
+            <div class="panel-header">
+              <div>
+                <p class="panel-kicker">일별 상세</p>
+                <h2>누적 영상 기록</h2>
+              </div>
+              <div class="panel-meta">
+                <strong id="detail-count">0개</strong>
+                <span>검색/필터 결과</span>
+              </div>
+            </div>
+            <div id="history-groups" class="history-groups"></div>
+          </section>
+
+          <aside class="panel detail-panel">
+            <div class="panel-header">
+              <div>
+                <p class="panel-kicker">선택 항목</p>
+                <h2>영상 상세</h2>
+              </div>
+            </div>
+            <div id="detail-panel-body"></div>
+          </aside>
+        </div>
+      </section>
+
+      <section id="watchlist-view" class="view-section">
+        <section class="panel">
+          <div class="panel-header">
+            <div>
+              <p class="panel-kicker">모니터링 리스트</p>
+              <h2>채널 기준표</h2>
+            </div>
+            <div class="watchlist-actions">
+              <button id="import-notion-button" class="ghost-button" type="button">Notion 다시 가져오기</button>
+              <button id="run-pipeline-button" class="ghost-button primary-button" type="button">업데이트 실행</button>
+            </div>
+          </div>
+          <div class="panel-meta watchlist-inline-meta">
+            <strong id="watchlist-count">0개</strong>
+            <span>등록 채널</span>
+          </div>
+          <div class="table-scroll">
+            <table class="notion-table">
+              <thead>
+                <tr>
+                  <th>채널명</th>
+                  <th>카테고리</th>
+                  <th>상태</th>
+                  <th>구독자</th>
+                  <th>총 조회수</th>
+                  <th>영상 수</th>
+                  <th>최근 동기화</th>
+                  <th>URL</th>
+                </tr>
+              </thead>
+              <tbody id="watchlist-table-body"></tbody>
+            </table>
+          </div>
+        </section>
+      </section>
+    </main>
+  </div>
+</body>
+</html>

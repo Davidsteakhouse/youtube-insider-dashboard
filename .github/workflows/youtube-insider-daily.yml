@@ -1,0 +1,61 @@
+name: YouTube Insider Daily
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 23 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: youtube-insider-daily
+  cancel-in-progress: false
+
+jobs:
+  run-daily-pipeline:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+      APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      NOTION_TOKEN_V2: ${{ secrets.NOTION_TOKEN_V2 }}
+      NOTION_SOURCE_URL: https://www.notion.so/1c61ff0d0be880d39d6dd9faf563ed5c?v=1c61ff0d0be880d3b12d000c5768d1c9&source=copy_link
+      LLM_PROVIDER: gemini
+      GEMINI_MODEL: gemini-2.5-flash-lite
+      APIFY_YOUTUBE_TRANSCRIPT_ACTOR_ID: futurizerush~youtube-transcript-scraper
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run pipeline and notify Telegram
+        run: python scripts/run_pipeline.py --notify-telegram
+
+      - name: Commit updated data
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/watchlist.json data/videos.json data/digest.json data_bundle.js
+          if git diff --cached --quiet; then
+            echo "변경 사항이 없어 커밋을 건너뜁니다."
+            exit 0
+          fi
+          git commit -m "chore: daily youtube insider update"
+          git push

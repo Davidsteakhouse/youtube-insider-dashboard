@@ -1,0 +1,107 @@
+{
+  "digest_date": "2026-03-14",
+  "generated_at": "2026-03-14T15:38:58+00:00",
+  "summary": "최근 24시간 영상 2개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'OpenAI'입니다. 특히 'GPT-5.4 Full Breakdown & AI News You Can Use'는 조회수 6.3K, 참여율 6.4%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "오늘은 'OpenAI' 주제를 단순 뉴스 요약으로 따라가기보다, 'GPT-5.4 Full Breakdown & AI News You Can Use'처럼 실제 사용 장면과 결과를 앞쪽에 배치하는 쪽이 유리합니다. 특히 문제 해결 훅과 뉴스 분석 포맷 조합을 눈여겨보세요.",
+  "telegram_preview": "📡 YouTube Insider _ v2\n\n🗓 최근 24시간 영상 2개\n\n🏆 오늘 최고 실적 영상\n• The AI Advantage\n• GPT-5.4 Full Breakdown & AI News You Can Use\n• 조회수 6.3K · 좋아요 334 · 댓글 68 · 참여율 6.4%\n\n📌 오늘 최고 실적 주제\n• OpenAI · 1개 · 평균 조회수 6.3K · 평균 참여율 6.4%\n\n💡 추천 제목\n• OpenAI 주제를 내 채널 관점으로 다시 잘라보자",
+  "video_count": 2,
+  "total_recent_video_count": 3,
+  "focus_scope": "ai_creator_priority",
+  "average_view_count": 3178.0,
+  "average_engagement_rate": 0.1414784978437949,
+  "average_like_count": 176.0,
+  "average_comment_count": 35.0,
+  "best_video_id": "ITWcvB1AZtk",
+  "best_topic": "OpenAI",
+  "summary_points": [
+    "가장 겹친 주제는 'OpenAI'이며 1개 영상, 평균 조회수 6.3K, 평균 참여율 6.4%입니다.",
+    "최고 실적 영상은 'GPT-5.4 Full Breakdown & AI News You Can Use'이며 문제 해결 훅과 뉴스 분석 포맷 조합이 강했습니다.",
+    "반복 노출된 툴은 Claude 2회, OpenAI 1회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
+  ],
+  "action_chips": [
+    "주제: OpenAI",
+    "훅: 문제 해결",
+    "포맷: 뉴스 분석",
+    "기준 채널: The AI Advantage"
+  ],
+  "title_suggestions": [
+    "OpenAI 주제를 내 채널 관점으로 다시 잘라보자",
+    "GPT-5.4 Full Breakdown & AI News You Can Use에서 바로 뽑아온 후속 콘텐츠 아이디어",
+    "OpenAI를 지금 찍는다면 이렇게 포장하면 됩니다"
+  ],
+  "recommendations": [
+    {
+      "title": "OpenAI 주제를 내 채널 관점으로 다시 잘라보자",
+      "hook": "첫 15초에 '이번 업데이트에서 진짜 써볼 만한 것만 추려준다'는 약속을 분명하게 주는 구조",
+      "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
+      "thumbnail_copy": "OpenAI 바로 해결",
+      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
+      "source_video_id": "ITWcvB1AZtk",
+      "source": "GPT-5.4 Full Breakdown & AI News You Can Use"
+    }
+  ],
+  "topic_clusters": [
+    {
+      "label": "OpenAI",
+      "count": 1,
+      "avg_view_count": 6261,
+      "avg_engagement_rate": 0.06420699568758984,
+      "avg_like_count": 334,
+      "avg_comment_count": 68,
+      "source_titles": [
+        "GPT-5.4 Full Breakdown & AI News You Can Use"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/ITWcvB1AZtk/hqdefault.jpg",
+      "representative_video_id": "ITWcvB1AZtk",
+      "representative_title": "GPT-5.4 Full Breakdown & AI News You Can Use"
+    },
+    {
+      "label": "Claude",
+      "count": 1,
+      "avg_view_count": 96,
+      "avg_engagement_rate": 0.21875,
+      "avg_like_count": 19,
+      "avg_comment_count": 2,
+      "source_titles": [
+        "Claude Code Remote Control Full Workflow Setup"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/1FAoyTUxrHQ/hqdefault.jpg",
+      "representative_video_id": "1FAoyTUxrHQ",
+      "representative_title": "Claude Code Remote Control Full Workflow Setup"
+    }
+  ],
+  "video_highlights": [
+    {
+      "video_id": "ITWcvB1AZtk",
+      "channel_name": "The AI Advantage",
+      "title": "GPT-5.4 Full Breakdown & AI News You Can Use",
+      "thumbnail_url": "https://i.ytimg.com/vi/ITWcvB1AZtk/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=ITWcvB1AZtk",
+      "published_at": "2026-03-13T20:36:10Z",
+      "view_count": 6261,
+      "like_count": 334,
+      "comment_count": 68,
+      "engagement_rate": 0.06420699568758984,
+      "topic_cluster": "OpenAI",
+      "summary": "이 영상은 automation 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "AI Igor is pretty good. He just needs to cool it with the hands lol",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "1FAoyTUxrHQ",
+      "channel_name": "AI Andy",
+      "title": "Claude Code Remote Control Full Workflow Setup",
+      "thumbnail_url": "https://i.ytimg.com/vi/1FAoyTUxrHQ/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=1FAoyTUxrHQ",
+      "published_at": "2026-03-14T14:28:47Z",
+      "view_count": 96,
+      "like_count": 19,
+      "comment_count": 2,
+      "engagement_rate": 0.21875,
+      "topic_cluster": "Claude",
+      "summary": "Claude Code의 '원격 제어' 기능을 활용해서 봇 없이 60초 만에 휴대폰에서 데스크톱 수준의 AI 경험을 구현하고 업무 효율을 극대화하는 방법을 소개합니다.",
+      "comment_signal": "please stop wasting earths resources on this non-creative bs",
+      "hook_type": "문제 해결"
+    }
+  ]
+}

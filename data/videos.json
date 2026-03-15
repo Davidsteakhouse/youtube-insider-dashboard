@@ -1,0 +1,495 @@
+{
+  "generated_at": "2026-03-14T15:43:11+00:00",
+  "source": "sqlite_export",
+  "video_count": 5,
+  "videos": [
+    {
+      "video_id": "1FAoyTUxrHQ",
+      "channel_key": "ucn2rjfaa1ndipnvjsyawwow",
+      "title": "Claude Code Remote Control Full Workflow Setup",
+      "description": "📥 Download The Full AI Clone Automation for Free! https://skool.com/ai-mate/about\n🤙 Book an AI Strategy Call: https://calendly.com/aiandy/1on1\n\nThis is the full breakdown of how to build and automate your personal brand using AI — from idea sourcing to publishing across every major platform.\n\nHere's what I cover:\nUnderstanding why Slack, Telegram, and Discord bots give you a broken version of Claude Code — no memory, 30-second response times, and zero access to your files\nDiscovering the hidden cost trap that has you paying twice for a worse experience than what you already have\nSetting up Claude Remote Control in 60 seconds with four steps — no code, no API key, no extra cost\nControlling your full Claude Code session from your phone with the same memory, same files, and same speed as your desktop\nChecking your content plan, reading your notes, updating files, and running real tasks — all from your couch, on your phone\nReplacing days of bot building with one command that should have been the answer from the start\n\nIf you're a creator, founder, or entrepreneur trying to use Claude Code on the go, this video shows you exactly why bots always feel broken — and the built-in feature that fixes everything without paying extra. I break down the exact setup, the real reason chat bots fail, and the mistakes I made so you don't have to.\nTools & Platforms Covered:\nClaude Code — the full agentic AI experience, now on your phone\nClaude Remote Control — the built-in feature that replaces every bot you've ever built\nCLAUDE.md — how your phone session picks up exactly where your desktop left off\nStop building bots that don't work. One command gives you the full Claude Code experience from anywhere — included in what you're already paying for.\n\nLINKS\n↓\n\nClick Here to Start AI Agent Building (New Free):\nhttps://skool.com/ai-mate/about\n\n- - - \n0:00 // Intro\n1:22 // The Problem\n2:50 // The Real Bottleneck\n4:53 // What I found before this?\n6:43 // The Real Answer\n8:00 // Setting It Up\n10:19 // What You Can Actually Do With It\n- - -\n\nFollow me on Twitter: https://twitter.com/itsaiandy\n\nFollow on Tiktok: https://www.tiktok.com/@andyhafell\n\nFollow on Instagram: https://www.instagram.com/itsaiandy\n\nFollow on Facebook: https://www.facebook.com/Andyhafell\n\nEmail for Business Inquiries: biz@aiandy.ai",
+      "published_at": "2026-03-14T14:28:47Z",
+      "duration_seconds": 715,
+      "view_count": 96,
+      "like_count": 19,
+      "comment_count": 2,
+      "engagement_rate": 0.21875,
+      "thumbnail_url": "https://i.ytimg.com/vi/1FAoyTUxrHQ/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=1FAoyTUxrHQ",
+      "format": "워크플로우 튜토리얼",
+      "hook_type": "문제 해결",
+      "title_pattern": "핵심 포인트 직설형",
+      "one_line_summary": "Claude Code의 '원격 제어' 기능을 활용해서 봇 없이 60초 만에 휴대폰에서 데스크톱 수준의 AI 경험을 구현하고 업무 효율을 극대화하는 방법을 소개합니다.",
+      "why_it_works": "이 영상은 AI 봇의 느린 응답, 메모리 부족, 파일 접근 불가 등 실질적인 문제점을 명확히 짚어내고, Claude Code의 숨겨진 '원격 제어' 기능을 해결책으로 제시합니다. 기존 구독으로 추가 비용 없이 모든 기능을 사용할 수 있다는 점을 강조하며 시청자의 클릭을 유도합니다. 또한, 60초 안에 설정이 완료되는 과정을 보여주며 즉각적인 활용 가능성을 어필합니다.",
+      "recommendation": "• AI 봇 사용 시 겪는 불편함에 공감하는 문제 제기로 시작하세요. • Claude Code의 '원격 제어' 기능을 '봇 빌딩의 대안'으로 명확히 포지셔닝하고, 시간 및 비용 절감 효과를 강조하세요. • 60초 설정 과정을 시각적으로 명확하게 보여주며 '간편함'과 '즉시성'을 어필하세요. • 썸네일에 '휴대폰으로 AI 제어', '60초 설정 완료' 등 핵심 키워드를 넣어 클릭률을 높이세요. • 영상 후반부에 'Claude.md' 활용법을 간략히 소개하여 AI 개인화 및 성능 향상 가능성을 제시하세요.",
+      "transcript_status": "available",
+      "transcript_source": "apify",
+      "transcript_language": "en",
+      "transcript_text": "If you're trying to get clawed code into\nSlack, Telegram, or Discord, stop. I\njust spent three days building the\nperfect AI assistant I could message\nfrom my phone. And every single message\nstill took 30 seconds. No memory of what\nI just said, no access to my files,\ncompletely useless for real work. And\nthe worst part, the only way to make it\nfast was to pay for API access on top of\nthe $100 subscription that I was already\npaying for. So I got to literally pay\ntwice for a worse experience. Then I\nfound one command that replaced the\nentire build. Full clawed code on my\nphone. Same memory, same files, same\ntools included in what you're already\npaying for. 60 seconds to set up. I'll\nshow you exactly how so by the end you\nalso got this set up on your phone.\nWelcome to the Build Your AI employee\nseries episode 3. Hey, if you don't know\nwho I am, my name is Andy Afel. I help\nfounders go from doing everything\nmanually to building a business that\ngrows without them. Real results, no\ncode, no grind. Members are already\nautomating full video pipelines and\nbuilding tools to save them thousands.\nAnd if that sounds like something you're\ninterested in, subscribe because freedom\nis the actual goal. Now, let me tell you\nabout the problem. So, here's what I\nwanted. I wanted to use Claude code from\nmy phone. The same AI assistant that I\nuse on my computer, the one that knows\nmy projects, remembers our\nconversations, and can read my file,\nupdate my databases, check my to-do\nlists. I just wanted to do that on my\nphone so I could check everything on the\ngo. And the obvious answer that everyone\nsuggests, build a bot in Telegram,\nSlack, or Discord. So that's what I did.\nAnd on the surface, it sounds great. You\nmessage the bot. It talks to Claude.\nClaude responds. Simple. Here's what\nactually happens. Every single message\nyou send starts a brand new\nconversation. Claude has zero memory of\nwhat you asked just 5 seconds ago. You\nsay, \"Show me my content plan.\" It\nresponds. You say, \"Now update step\nthree.\" And it has no idea what step\nthree is, no idea what content plan, no\nidea who you are. Every message is like\ntalking to a stranger. On top of that,\nit's slow. Like painfully slow. 30\nseconds for a simple response. The same\nthing that takes 2 seconds on your\ncomputer takes 30 seconds through a bot.\nAnd this isn't a Telegram problem. Slack\ndoes the exact same thing, and Discord\ndoes, too. Every messaging platform has\nthe exact same issue because the problem\nisn't the platform, it's the whole\napproach of trying to pipe Claude\nthrough a chat app. The real bottleneck.\nSo why is the desktop experience so good\nand the bot experience so bad? Let me\nexplain this simply because once you\nunderstand this, everything clicks. When\nyou use Claude code on your computer,\nyou're in a live session. Claude\nremembers everything you've said. It can\nsee your project files. It loads your\ninstructions. It's fast. Two to three\nseconds for a response. And it's all\nincluded in your Clawed Max\nsubscription. You're already paying for\nthis. The problem is that the experience\nonly lives on your computer. The moment\nyou try to move it to Slack, Telegram,\nor Discord, you break it because those\nplatforms can't keep a live Claude\nsession running. Every time you send a\nmessage, it has to start a brand new\nClaude session from scratch. That's why\nthere's no memory. Each message is\nliterally a different conversation.\nThat's why it's slow. It takes time to\nstart a new session every single time.\nNow, here's the part that really\nfrustrated me. There is a way to make\nbots faster. You can use an API key.\nBasically, a direct line to Claude that\nbypasses all the startup overhead.\nResponses drop to two to three seconds.\nSounds great, right? except it costs\nmoney per message on top of the\nsubscription you're already paying for.\nI'm paying for Claude Max, which gives\nme almost unlimited Claude code on my\ndesktop. Fast, full memory. Everything\nworks. But to get that same experience\non my phone through a bot, I'd have to\npay again per message through the API.\nand I can't even access the files,\npaying twice for a verse version that I\nalready have. And that's the trap. And\nthat's exactly where I was stuck for 3\ndays. I kept thinking there had to be a\nway to get my desktop cloud experience\non my phone without paying extra. And\nspoiler, there is, but it's not a bot.\nWhat I found before this, if you've\ntried, you may relate to this solution.\nI spent three days trying to fix the bot\napproach. I figured out the butt is so\nslow and dumb. Maybe I can make it\nsmarter and faster. So, the first thing\nI tried, I gave Claude more instructions\nup front. I wrote out all my database\nideas that are my air tables, my common\ncommands, the skills, everything it\nwould need to know. That way, it\nwouldn't have to figure out this out\nfrom scratch every time. Did it help? a\nlittle responses went from 36 seconds to\nmaybe 25. Still way too slow. Then I\ntried giving it a conversation history.\nThere's a way to load previous messages\nto Claude that can see what you actually\ntalked about before. In theory, that\ngives you memory between messages. In\npractice, it loaded so much more old\nconversation data that got it even\nslower. 40 seconds just on the prompt,\ncan you give me my content doc? It made\nit worse. The one thing that actually\nworked was shortcuts. Instead of asking\nClaude, show me my content plan, I built\na direct shortcut that goes directly to\nmy database and pulls the data. No\nClaude code involved 2 seconds. And that\nwas great for simple lookups, but the\nwhole point is to have Claude in the\nthinking, the reasoning, connecting the\ndots around my projects and stuff like\nthat. You can't shortcut that. So, I was\nstuck. The bot approach was\nfundamentally broken. Shortcuts only\ncovered the simple stuff and the API fix\nmeant paying twice. And that's when I\nfound what I should have been using from\nthe start, the real answer. Claude Code\nhas a builtin feature called remote\ncontrol. One command that you type in\nyour terminal, it gives you a QR code.\nYou scan that QR code with your phone\nand you're in. Not a bot, not a watered\ndown version. The actual claw code\nexperience on your phone. The same\nconversation memory, same project file,\nsame instructions, same tools, the same\npersonality. It can read files, make\nchanges, search the web, run commands.\nBut here is why it works. Your computer\nis doing all the work. Your phone is\njust a window into that session. Think\nof it like a security camera. The camera\nis on your computer and your phone is\njust watching the feed and sending\ncommands. There are no middlemen, no new\nsessions, every message, no startup\ndelay. You pick up exactly where you\nleft off, even if you were working on\nsomething at your desk and then walk\naway. And the best part, it's included\nin your Max plan. No API key, no extra\ncost. You're not paying twice. You're\nusing what you're already paying for\njust from a different screen. I set this\nup in about 60 seconds and it replaced 3\ndays of building bot. So, let me show\nyou exactly how. Here's how to set it\nup. It takes four steps, about 60\nseconds. Works on Mac and Windows. Step\nnumber one, make sure your Claude code\nis up to date. So, just open your\nterminal and type claude dash dash\nversion. You need the version 2.1.51\nor later. If you're below that, just\ntype npm update-gropic-ai/codcode\nand it will update. Step two, open the\nfolder you want Claude to work in. This\nmatters because Claude loads its own\ninstructions from this folder. If you\nhave a claw.md file, which is basically\na cheat sheet that tells Claude about\nyour project, your tools, your\npreferences, it picks that up\nautomatically. To do this, you write cd\nand path to your project folder. This is\nhow it looks like to me. Enter. And\nwe're now in the cloud folder. Step\nnumber three, type claud space remote\ncontrol. Click on enter. And as you can\nsee, it's connected. You can see the\ncapacity right here. You can continue by\nusing the app or this link right here.\nAnd then I'm going to click on space and\nthe QR code pops up in the terminal.\nStep number four, scan that QR code with\nyour phone. If you have the Claude app,\nit opens directly in the Cloud app. If\nnot, you can also go to the browser.\nWorks the same way. I'll just scan it\nnow. It opened the claw app. I just have\nto click on code. And you'll now see\nthat there are some processes running on\nmy computer. And if I tap on it, it\nopens a completely new chat. Here I can\nask it, for example, can you send me a\nlink to the master content doc? Click on\nsend and it just sent me the link\nexactly like I was using it on my\ncomputer. That's it. You're in claw code\non your phone. Your computer needs to\nstay on. But if you're already using it\nas a workstation, it probably already\nis. And if your computer goes to sleep\nand wakes back up, it reconnects\nautomatically. You don't have to scan it\nagain. It shows up in the history in\nyour app. What you can actually do with\nit? Let me show you what this actually\nlooks like dayto-day. I'm sitting on the\ncouch and I want to check where I am in\nmy content plan. I open the Cloud app on\nmy phone. Type show me my work progress.\nAnd within 2 seconds, it pulls\neverything from my database. It knows\nexactly where to look because my Claude\nMD file has all those details. I didn't\nhave to explain anything. It's the same\nsession, same context. I can ask it to\nread my to-do list and tell me what I\nhave planned today. I can ask it to\ncheck my YouTube analytics. I can even\nask it to make changes to my files in my\nprojects from my phone. The conversation\njust carries over completely. If I was\nworking on a content dock at my desk, I\nwalk over to eat ramen. I just pick up\nmy phone and I keep going. If I say\nupdate step three to include the pricing\nsection, it knows exactly what I'm\ntalking about because it's the same\nthing. Compare this to the bot\nexperience, 30 seconds per response, no\nmemory, start from scratch every time.\nNow it's 2 to 3 seconds, full memory. I\ncan do anything I do on my computer.\nThis is the setup I wish I had from day\none. It would have saved me 3 days of\nbuilding bots that never worked right.\nAnd now you know how to do it, too. If\nyou want to build Claude code, right,\ncheck out the free community. If you're\nan online business that want to get more\nhands-on with this and me, book a call\ndown below. Subscribe for the next\nepisode of this series, and I'll see you\ntomorrow at",
+      "analysis_date": "2026-03-14T15:37:42+00:00",
+      "channel_name": "AI Andy",
+      "topic_tags": [
+        "Claude",
+        "에이전트",
+        "자동화",
+        "코딩",
+        "수익화"
+      ],
+      "keywords": [
+        "ClaudeCode",
+        "AI봇",
+        "자동화",
+        "원격제어",
+        "업무효율",
+        "AI활용",
+        "생산성",
+        "창작자도구"
+      ],
+      "tools": [
+        "Claude"
+      ],
+      "flow": [
+        "{\"time\": \"0:00\", \"description\": \"인트로: 휴대폰에서 Claude Code 사용 시 겪는 어려움과 비효율적인 봇 빌딩 경험으로 문제 제기\"}",
+        "{\"time\": \"1:22\", \"description\": \"문제점: Slack, Telegram, Discord 봇의 한계(느린 속도, 메모리 부재, 파일 접근 불가) 및 추가 비용 문제 설명\"}",
+        "{\"time\": \"2:50\", \"description\": \"진짜 병목: 봇 방식의 근본적인 문제점과 데스크톱 Claude Code 경험과의 차이점 설명\"}",
+        "{\"time\": \"4:53\", \"description\": \"이전 시도들: 봇 개선 노력(지침 추가, 대화 기록 로드)의 실패 경험 공유\"}",
+        "{\"time\": \"6:43\", \"description\": \"진짜 해결책: Claude Code '원격 제어' 기능 소개 및 봇 빌딩 없이 모든 문제를 해결할 수 있음을 강조\"}"
+      ],
+      "claims": [
+        "Slack, Telegram, Discord 봇은 Claude Code의 비효율적인 버전입니다.",
+        "봇 방식은 메모리 부족, 느린 응답, 파일 접근 불가 문제를 겪습니다.",
+        "API 접근은 추가 비용을 발생시키며, 기존 구독보다 못한 경험을 제공할 수 있습니다.",
+        "Claude Code의 '원격 제어' 기능은 60초 안에 설정 가능하며 추가 비용이 없습니다.",
+        "원격 제어를 통해 휴대폰에서 데스크톱과 동일한 AI 경험(메모리, 파일 접근, 속도)을 할 수 있습니다."
+      ],
+      "transcript_highlights": [
+        "Slack, Telegram, Discord에 Claude Code를 연동하려 한다면 멈추세요.",
+        "모든 메시지가 30초씩 걸렸고, 방금 한 말을 기억 못 하고, 파일 접근도 안 되고, 실제 업무에는 완전히 쓸모없었습니다.",
+        "속도를 높이는 유일한 방법은 이미 내고 있는 100달러 구독료에 더해 API 사용료를 내는 것이었습니다.",
+        "그러다 전체 빌드를 대체하는 명령어를 하나 찾았습니다. 휴대폰에서 Claude Code 전체를 사용할 수 있습니다. 이미 내고 있는 구독료에 포함된 동일한 메모리, 동일한 파일, 동일한 도구를 사용할 수 있습니다.",
+        "설정하는 데 60초가 걸립니다. 정확히 어떻게 하는지 보여드리겠습니다."
+      ],
+      "top_comments": [
+        {
+          "video_id": "1FAoyTUxrHQ",
+          "comment_id": "UgxY9HI83SXWUYxk3oJ4AaABAg",
+          "author": "@loljeffe9995",
+          "text": "please stop wasting earths resources on this non-creative bs",
+          "like_count": 0,
+          "reply_count": 0,
+          "published_at": "2026-03-14T14:30:03Z"
+        },
+        {
+          "video_id": "1FAoyTUxrHQ",
+          "comment_id": "UgyCyU6DoFATcaFQxSF4AaABAg",
+          "author": "@TheAIAndy",
+          "text": "📥 Download The Full AI Clone Automation for Free! https://skool.com/ai-mate/about\r\n🤙 Book an AI Strategy Call: https://calendly.com/aiandy/1on1",
+          "like_count": 0,
+          "reply_count": 0,
+          "published_at": "2026-03-14T14:29:04Z"
+        }
+      ]
+    },
+    {
+      "video_id": "s1R4VUkrayw",
+      "channel_key": "ucb11saf7wsn4grcqukoohrw",
+      "title": "우리집 강아지를 갤럭시로 찍어야 하는 이유ㅋㅋㅋ(귀여움 주의)",
+      "description": "",
+      "published_at": "2026-03-14T09:15:25Z",
+      "duration_seconds": 31,
+      "view_count": 7269,
+      "like_count": 90,
+      "comment_count": 5,
+      "engagement_rate": 0.013069197963956527,
+      "thumbnail_url": "https://i.ytimg.com/vi/s1R4VUkrayw/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=s1R4VUkrayw",
+      "format": "뉴스 분석",
+      "hook_type": "문제 해결",
+      "title_pattern": "핵심 포인트 직설형",
+      "one_line_summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "why_it_works": "문제 해결 훅으로 관심을 끌고, 뉴스 분석 형식으로 내용을 빠르게 정리해 시청자가 '바로 써먹을 수 있다'고 느끼게 만듭니다.",
+      "recommendation": "훅 구조: 도입 15초 안에 '문제 해결' 관점으로 문제를 못 박고, 왜 지금 봐야 하는지 먼저 선언합니다. • 복제할 포장 요소: 뉴스 분석 형식을 유지하되 뉴스 분석를 실제 사용 장면 1개와 결과 변화 2개로 더 좁혀 설명합니다. • 비어 있는 콘텐츠 영역: '뉴스 분석가 내 작업 흐름에서 어디에 꽂히는가'를 사례 중심으로 보여주는 후속 영상이 비어 있습니다. • 추천 제목: 뉴스 분석 이슈를 내 채널 관점으로 다시 정리해보자 • 썸네일 카피 힌트: 뉴스 분석 지금 봐야 할 3가지",
+      "transcript_status": "available",
+      "transcript_source": "apify",
+      "transcript_language": "ko",
+      "transcript_text": "요 어한 효과를 딱 넣으면 이렇게\n너무 귀여 반려 동물 반려견 키우시는\n분들 꼭 써 보면 좋을 거 같은데\n여러 스타일 적용하는게 이번에 추가가\n됐어요. 사진 누르고 AI 기능으로\n들어가서 보시면은 스타일 버튼이\n있는데요. 근데 특히 좋은 점 반려\n동물. 동물 사진을 넣으면 여기에\n뜨는 효과 중에 너무너무 귀여운 어한\n효과라는게 있는데요 어한 효과를 딱\n넣으면 이렇게 너무 귀여운 사진이\n완성이 되니까 여러분의 반려동물 제발\n이거 한번 해 보세요. 진",
+      "analysis_date": "2026-03-14T15:37:43+00:00",
+      "channel_name": "주연 ZUYONI",
+      "topic_tags": [],
+      "keywords": [
+        "우리집",
+        "강아지를",
+        "갤럭시로",
+        "찍어야"
+      ],
+      "tools": [],
+      "flow": [
+        "처음 15초 안에 문제를 선명하게 정의하고 왜 지금 봐야 하는지 못 박는다.",
+        "중간 구간에서 툴, 사례, 비교 포인트를 빠르게 제시해 정보 밀도를 높인다.",
+        "마지막에는 시청자가 바로 따라할 수 있는 다음 액션과 적용 예시로 닫는다."
+      ],
+      "claims": [
+        "단순 소개보다 실제 사용 장면을 바로 보여주는 구조가 반응을 만든다.",
+        "큰 담론보다 작은 병목 하나를 해결해주는 포장 방식이 클릭으로 이어지기 쉽다."
+      ],
+      "transcript_highlights": [
+        "요 어한 효과를 딱 넣으면 이렇게",
+        "너무 귀여 반려 동물 반려견 키우시는",
+        "분들 꼭 써 보면 좋을 거 같은데",
+        "요 어한 효과를 딱 넣으면 이렇게 너무 귀여 반려 동물 반려견 키우시는 분들 꼭 써 보면 좋을 거 같은데 여러 스타일 적용하는게 이번에 추가가 됐어요.",
+        "사진 누르고 AI 기능으로 들어가서 보시면은 스타일 버튼이 있는데요."
+      ],
+      "top_comments": [
+        {
+          "video_id": "s1R4VUkrayw",
+          "comment_id": "UgyFY1uDPPRsb9nUFIV4AaABAg",
+          "author": "@성이름-y5d1k",
+          "text": "주연님도 댕댕이파??",
+          "like_count": 2,
+          "reply_count": 0,
+          "published_at": "2026-03-14T09:23:31Z"
+        },
+        {
+          "video_id": "s1R4VUkrayw",
+          "comment_id": "UgyVUXiX2XNf3nN4wqx4AaABAg",
+          "author": "@coaster783",
+          "text": "써보고싶다👍",
+          "like_count": 0,
+          "reply_count": 0,
+          "published_at": "2026-03-14T15:34:54Z"
+        },
+        {
+          "video_id": "s1R4VUkrayw",
+          "comment_id": "UgzQ6wNRxUIigV7zOnx4AaABAg",
+          "author": "@1000플랜트",
+          "text": "길고양이 찍은걸로 해봤는데 너무 귀엽네요",
+          "like_count": 0,
+          "reply_count": 0,
+          "published_at": "2026-03-14T13:56:51Z"
+        },
+        {
+          "video_id": "s1R4VUkrayw",
+          "comment_id": "UgwwrUnWoELYs1zybXN4AaABAg",
+          "author": "@김진-m8l",
+          "text": "와 울트라 사길잘했다",
+          "like_count": 0,
+          "reply_count": 0,
+          "published_at": "2026-03-14T10:52:11Z"
+        }
+      ]
+    },
+    {
+      "video_id": "ITWcvB1AZtk",
+      "channel_key": "uchhyxslbevvnbvsq57n1mtq",
+      "title": "GPT-5.4 Full Breakdown & AI News You Can Use",
+      "description": "Come join Igor on March 26th for a live webinar teaching you AI in collaboration with IBM! 👉 https://ibm.biz/graniteaicopilot\n\nIn this video, we did something a little special, as Igor was out of commission for a week due to surgery. Instead of skipping the week in AI news, we put some of the best modern AI tools to the test to see what we could create. So we're proud to present our guest host AI Igor, who will only be filling in this week while Igor rests his voice. AI Igor covers the results of the testing we've been doing on the top models for the past week, talks about the new Copilot Cowork coming to Microsoft 365 users, discusses the disappointing release from Luma with Uni-1, and more. Enjoy this special edition and Igor will be back next week!\n\nLinks:\n🔑  Free ChatGPT Prompt Templates: https://bit.ly/newsletter-aia\n🧑‍💻 Igor Pogany on LinkedIn: https://bit.ly/IgorLinkedIn\n🐦Twitter/X: https://bit.ly/AIAonTwitter\n📸 Instagram: https://bit.ly/AIAinsta\nRift Vox Experiment: https://developers.openai.com/showcase/rift-vox\nSVG Animations: https://x.com/petergostev/status/2029707484781253069?s=20 and https://x.com/developedbyed/status/2031019550490206488?s=20\nTheme Park Sim: https://x.com/chatgpt21/status/2029631487067234395?s=20\nMS Paint Drawing: https://x.com/Clad3815/status/2031386834064785489?s=20\nCanva Magic Layers: https://www.canva.com/help/editable-magic-layers/\nMicrosoft's Copilot Cowork: https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/09/copilot-cowork-a-new-way-of-getting-work-done/\nNotebookLM Custom Infographics: https://x.com/NotebookLM/status/2028556861050630632?s=20\nNotebookLM Cinematic Overviews: https://x.com/NotebookLM/status/2029240601334436080?s=20\nLuma Uni-1: https://lumalabs.ai/uni-1\nChatGPT Uninstall News: https://techcrunch.com/2026/03/02/chatgpt-uninstalls-surged-by-295-after-dod-deal/\nOpenAI's Learning Study: https://openai.com/index/understanding-ai-and-learning-outcomes/\nNetflix Acquire InterPositive: https://about.netflix.com/en/news/why-interpositive-is-joining-netflix\nAnthropic's Early Warning Plan for AI: https://www.anthropic.com/research/labor-market-impacts\n\nChapters:\n0:00 Introducing Our Surprise Host\n0:31GPT-5.4 Follow-Up & Testing Results\n4:24 IBM Invitation\n5:40 Canva Magic Layers\n6:44 Microsoft Copilot Cowork\n8:02 NotebookLM Updates\n9:41 Luma Uni-1\n10:30 ChatGPT Pentagon Fallout\n11:19 OpenAI's Study on Learning with AI\n12:06 Netflix Acquiring InterPositive\n12:50 Anthropic's Early Warning for Jobs\n13:17 Outro",
+      "published_at": "2026-03-13T20:36:10Z",
+      "duration_seconds": 820,
+      "view_count": 6261,
+      "like_count": 334,
+      "comment_count": 68,
+      "engagement_rate": 0.06420699568758984,
+      "thumbnail_url": "https://i.ytimg.com/vi/ITWcvB1AZtk/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=ITWcvB1AZtk",
+      "format": "뉴스 분석",
+      "hook_type": "문제 해결",
+      "title_pattern": "핵심 포인트 직설형",
+      "one_line_summary": "이 영상은 automation 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "why_it_works": "문제 해결 훅으로 관심을 끌고, 뉴스 분석 형식으로 내용을 빠르게 정리해 시청자가 '바로 써먹을 수 있다'고 느끼게 만듭니다.",
+      "recommendation": "훅 구조: 도입 15초 안에 '문제 해결' 관점으로 문제를 못 박고, 왜 지금 봐야 하는지 먼저 선언합니다. • 복제할 포장 요소: 뉴스 분석 형식을 유지하되 automation를 실제 사용 장면 1개와 결과 변화 2개로 더 좁혀 설명합니다. • 비어 있는 콘텐츠 영역: 'automation가 내 작업 흐름에서 어디에 꽂히는가'를 사례 중심으로 보여주는 후속 영상이 비어 있습니다. • 추천 제목: automation 이슈를 내 채널 관점으로 다시 정리해보자 • 썸네일 카피 힌트: automation 지금 봐야 할 3가지",
+      "transcript_status": "available",
+      "transcript_source": "apify",
+      "transcript_language": "en",
+      "transcript_text": "Welcome to another week in generative\nAI. And hold up, actually this week's\nepisode is a little different. So, as\nyou might know, I've been uploading for\nover five years. Every week, I haven't\nmissed a single one. But a few days ago,\nI had a surgery. Nothing serious. I just\nhad my tonsils removed. But you're\nlooking at a pre-recorded clip. And what\nwe're doing this week is we're going to\nstill do the news episode. I'm going to\nstill work on it, but because I'm not\nallowed to speak, we're going to have\nAIore, this guy. Hello there. Present\nthe episode to you. The writing still\ncomes from me. I just wanted to let you\nknow that this is a onetime thing. And I\nhope you enjoy this. AI powered\nexperiment. Let's begin. So, here's the\ndeal. Last week, we gave you a really\nquick update right before the video went\nlive because OpenAI dropped GPT5.4\nright at the end of the week after we'd\nalready wrapped up the production on our\nFriday video. But now, we've had a full\nweek to test it out. And today, we're\nlooking at what the community is doing\nwith it and then showing you the results\nfrom some of our own benchmarks to see\nhow it stacks up against Gemini 3.1 Pro\nand Claude Opus 4.6. Let's start by\nlooking at what people are already\nbuilding. First up, OpenAI launched a\ndeveloper showcase site that shows off\nsome stuff people have created with\ncodecs running GPT5.4\nand it's interactive. You can actually\nclick on examples to test them out.\nThere's the Rift Vox, which is an entire\nfirsterson shooter based right in your\nbrowser. It's no Call of Duty, but it's\nan impressive example nonetheless. Next\nup, we've got some impressive SVG\nanimations from Peter Gstiff and Dev\nover on X. Peters is maybe the most\nvisually impressive animation I've seen\nany AI create yet, but I really like\nDevad's post because he's got the\ncomparison to Opus 4.6 right there. So,\nyou can actually study the differences\nbetween how the models handle it. Next\nup, we have this theme park simulation\ngame made by Chris. It's basically one\nof those clicker games, but it also\nreminds me a bit of Roller Coaster\nTycoon with the ability to actually\nplace the buildings wherever you want\nand see how it affects the flow of\ntraffic. And finally, a really funny\none. A user named clad3815\nasked GPT5.4\nto draw the OpenAI logo in Microsoft\nPaint to test its computer usabilities.\nThe first drawing was awful and GPT\nactually recognized that. So it opened\nthe browser, went to Bing images, found\nan OpenAI logo and then used the Windows\nscreenshot shortcut to just snip the\nlogo and paste it into Paint. So it\ncompletely cheated, but ultimately it\ndid get the job done. Now all of that is\nimpressive, but the best way to figure\nout how good these tools are is to put\nthem to the test. So that's what we did.\nLet's start with our design test where\nwe asked the top models to create a\nvisually stunning design website for a\nstudio that would impress web front-end\ndevelopers. In practice, Gemini 3.1 Pro\nand Opus 4.6 kind of tied for first\nplace here. GPT 5.4 was clearly a step\nbehind them on this one. Next up, SVG\ngeneration, a Death Star over LA. Claude\nwon this by a mile, nailing the entire\nscene. GPT 5.4 and Gemini both\ncompletely messed up the Death Star with\nGemini also missing the city lights.\nThen we tried creative writing. In\npractice, Gemini was straight up bad and\nboring. GPT 5.4 and Opus 4.6 both wrote\ngenuinely interesting stories.\nObviously, this is subjective, but I\nenjoyed GPT 5.4s more, so it takes the\nwin. Now, let's talk about research. We\nasked for intensive research on the\ncurrent state of copyright law regarding\nworks created with AI tools, explicitly\nasking for a massive report, and GPT 5.4\ntook this seriously. It spent 4 minutes\njust thinking and then 4 minutes\nwriting. It checked sources across the\ninternet for worldwide context and\ndelivered exactly the massive report we\nasked for. Opus 4.6 didn't spend quite\nas long thinking, but it still delivered\na comprehensive report and came to\nbasically the same conclusions. Gemini\nunfortunately spent the least amount of\ntime thinking and gave the shortest\nreport, which I consider a failure in\nprompt adherence since we specifically\nasked for something massive. And\nfinally, coding a game. We asked them\nfor a 3D synth wave spaceship game in a\nsingle prompt. Impressively, all three\nactually made playable games, but Claude\nis the clear winner here by a mile,\ndelivering a functioning game with\nobstacles and a score. GPT 5.4 and\nGemini kind of tied for second. GPT 5.4\nhad more detail, but messed up the\nship's orientation, and Gemini was just\ntoo basic. The bottom line is this. GPT\n5.4 is incredibly capable, especially\nwhen it comes to deep research,\nreasoning, and creative writing. Claude\nOpus 4.6 6 is holding its own and\ncompletely dominating when it comes to\nspecific coding tasks and SVG\ngeneration. Gemini 3.1 Pro had some good\nmoments, especially in design, but it\ndefinitely struggled to keep up in the\nheavier text and logic benchmarks. If\nyou have not tried running your own\nsideby-side tests yet, I strongly\nrecommend it. It's really worth\nexploring to figure out which one fits\nyour specific workflow best. All right,\nnow let's see what's next. Hey there, I\nwould love to invite you to an event\nthat I'm hosting in March. IBM invited\nme to teach in an upcoming AI webinar.\nSo, if you're interested in AI and don't\nconsider yourself an advanced user, then\nthis is designed exactly for you. Heck,\neven people who are deeper into it can\nbenefit from a refresher on context\nengineering. Because the title of the\nsession is context engineering for\nstudents, making IBM Granite your\nacademic co-pilot, and it will be a\ntight 60-minute session teaching you the\nfoundational concepts around context\nengineering, and that is the most\nessential skill when it comes to working\nwith AI. Understanding context is\nabsolutely critical with modern AI\ntools. and I'll be sharing what I\nlearned over the years. In the webinar,\nwe'll also be showing off some IBM tools\nlike Watson X and Granite. Plus, I'll be\nsharing a bunch of free resources from\nIBM's skill build. So, if you're a\nstudent looking to get the most out of\nAI, you should totally come check it\nout. But also, if you're not a student,\nmaybe you're 30 years into your career\nor you're a student of a new topic,\nyou're also more than welcome to come.\nIt's going to benefit anybody who's\nlooking to upskill and wants to use AI\non that journey, which let's be honest,\nin this day and age, how do you not use\nAI on a learning journey. So, come join\nme on March 26th, 2026 at 5:30 Central\nEuropean time, which is 11:30 a.m.\nEastern time. And the link is in the\ndescription below. Hope to see you all\nthere. Next up, we've got a new feature\non Canva called Magic Layers that lets\nyou turn any image into easily editable\nlayers. This is an incredibly powerful\ntool if you're doing any kind of design\nwork like creating social media posts or\nYouTube thumbnails. And since Canva is\nprimarily used by designers, it's a\nperfect fit for the platform. The\ntechnology itself isn't new. In\nDecember, we covered a tool on this show\ncalled Quen image layered that does the\nexact same thing, but we haven't seen\nthis tech integrated into any popular\nplatforms until now. And once you see it\nin action and start using it, it starts\nto feel like one of those things we'll\nlook back on in 10 years and wonder, how\ndid we ever do design work without this\ntool? I do want to mention that Magic\nLayers is incredibly good with\ninfographics and digital design in\ngeneral, but it struggles when you ask\nit to work with realistic images. So,\nmake sure you understand what you should\nand shouldn't be using this tool for and\nthen go give it a shot. You can test\nMagic Layers for free on Canva, but if\nyou want to use it long-term, you'll\nhave to sign up for at least their\nbottom tier paid plan, which isn't too\nbad at only $15 per month. So, go check\nout Canva Magic Layers if you're\ninterested. And now, let's see what's\nnext. Okay, so let's move on to\nMicrosoft, who just introduced C-Pilot\nCo-work, which is a new Microsoft 365\nfeature built directly on Anthropic's\nClaude system. If you're not familiar,\ncloud code was very cool, but far too\ntechnical and complicated for most\npeople. Then Anthropic made claude\nco-work as the next step and it was more\nuseful for more people but still fairly\nlimited to your desktop. The idea here\nis that this release from Microsoft is\nthe next step in that process. You get\nthe exact same capabilities as claude\nco-work but wrapped in Microsoft 365's\nenterprise security and it isn't limited\nto your local files. It operates in the\ncloud and runs tasks in the background\npulling from your emails, meetings,\nfiles, and chats. You just describe an\noutcome and co-work breaks it into steps\nto produce actual deliverables across\ndifferent apps like slide decks,\nbriefing docs, and workbooks. Right now,\nthis is available in a limited research\npreview and it comes tied to a new $99\nper user enterprise bundle. But since\nmany businesses worldwide use Microsoft\n365, a lot of people are using Copilot,\neven if it isn't one of the best AI\nsystems, and this is going to be a\nmassive upgrade for those people. So, if\nyou're using Copilot for work already or\nyou're interested in adding this kind of\nsystem to your business, go check it\nout. Hey, if you're enjoying these\nstories, make sure to subscribe. It\nreally helps the channel and it only\ntakes a second. Okay, now let's\ncontinue. All right, so next up, we've\ngot two updates to Google's Notebook LM.\nThis first one is available for\neverybody, even people on a free plan,\nand it's an upgrade to the existing\ninfographic function that they added\nlast year. Now, in addition to creating\nan infographic based on your notebook\nsources, you can change the style of the\ninfographics. You just open up\ninfographic options. Choose a visual\nstyle like sketch note and hit generate.\nIf you don't like one of the preset\noptions, you can create your own by just\ntyping out a description of what you\nwant to see and it will make that too.\nSo, not a massive update, but Notebook\nLM is continuing to grow in popularity.\nAnd they're adding upgrades like this\nall the time. So, this is your reminder\nto go check Notebook LM out if you\nhaven't already. Next, we've got another\nNotebook LM update with the launch of\ncinematic video overviews, which\nbasically turn your source material into\nmore polished explainer style videos.\nAnd I really like what Google built\nhere. It doesn't rely on pre-made\ntemplates, but instead it approaches\nvisual creation more like a director\nwith the system analyzing and evaluating\nthe material to decide on the most\nappropriate narrative structure. Then,\nit decides which models like Nano Banana\n2 or VO3 should be used for each part of\nthe task. As you can see from these\nexamples from Ethan Mllik on X, it\ncreates some beautiful videos all based\non the source info he provided. Robert\nScobble also posted an example and kind\nof said it best with how he closed the\npost. Do you all get how insane this is\nfor learning about new things? He's\nright, but as of right now, it's only\navailable for those on the expensive\nGoogle AI Ultra plan, which runs you\n$250 a month. So, if you really want to\ntest this out, feel free to drop the\nmoney on it. But my honest\nrecommendation would be to wait to see\nif they make this available on the\ncheaper Google AI Pro plan at $20 a\nmonth. All right, on to the next one.\nThis one was slightly disappointing.\nLuma just released Uni1, which is their\nfirst model that combines reasoning and\nimage generation into a single\narchitecture. Luma has been doing\nawesome work in the multimedia AI space\nover the past 3 years, but this\nparticular release doesn't quite hit the\nmark for me. They claim that benchmarks\nshow it performing better than Nano\nBanana 2. But if you take a look at the\nexamples Luma put directly on the Uni1\nwebsite, it's clear that it just isn't\non the level of Nano Banana 2. Companies\nalways cherrypick their absolute best\nexamples when they release something.\nAnd if these examples aren't impressive,\nthe standard outputs are definitely not\ngoing to be impressive either. So at\nthis point, we can't recommend Uni1, but\nit's an interesting concept, and it\ndoesn't mean that Uni 2 or Uni3 won't be\namazing. Every system starts out as the\nworst version of itself, and Luma has\nproven they know what they're doing in\nAI. We will keep an eye on how this\ndevelops. Okay, so I want to do a quick\nfollow-up on the Anthropic versus OpenAI\nsituation. Long story short, the US\nDepartment of War wanted to use\nanthropics technology and Anthropic\nagreed as long as the Pentagon respected\ntwo red lines, no autonomous kill\nsystems and no mass surveillance of the\nAmerican public. The deal fell apart as\nthe US Department of War wanted no\nrestrictions on the use of anthropics\ntech. Days later, OpenAI stepped in and\nagreed to their own deal with the\nDepartment of War. And this deal is\nturning into a real mess for OpenAI. The\nday after the deal was announced,\nuninstalls of CGPT's mobile app jumped\n295%\nin the US. At the exact same time, US\ndownloads of Anthropics Claude app\njumped 51%. A lot of people are unhappy\nwith OpenAI's decision, and if you're\none of the people looking for a chat GPT\nalternative, I strongly recommend\nchecking out the standalone video we\nmade on how to switch from chat GPT to\nClaude. Next up is another quick\nfollow-up to last week's story where we\ntalked about kids using AI to cheat on\nhomework. So, OpenAI just published a\nstudy in collaboration with Stanford\nUniversity and Estonia's University of\nTartu that is designed to measure how\nchat GPT impacts student learning and\nknowledge retention over time. They ran\na trial with over 300 students and found\nthat microeconomic students who use Chat\nGPT study mode actually scored about 15%\nhigher on their exams compared to those\nwho didn't. To be fair, the results in\nother subjects weren't quite as\nstatistically significant yet, but in\npractice, it shows a lot of promise. I\njust wanted to share this because this\ndata shows that if students use these\ntools the right way, it is arguably more\neffective than the ways we used to\nstudy. Just another piece of evidence to\nshow that outlawing AI tools for kids\nisn't the answer. Teaching them how to\nuse them properly is. All right. Next,\nwe have Netflix buying a stealth AI\nfilmmaking company called Interpositive\nthat Ben Affleck actually started back\nin 2022. We've been hearing for years\nthat AI is going to change film making\nforever. And a lot of people think that\nmeans we're going to be feeding two\nsentence prompts into a computer and\ngetting entire movies out of it that go\ndirectly to theaters, but it will be\nmore along the lines of what\nInterpositive does, handling really\ntedious post-production stuff like\nrelighting, swapping backgrounds,\nremoving items to fix continuity errors.\nSo anyway, I just wanted to share this\none as it's a good counterbalance to the\nnarrative that AI will replace artistic\ntalent in Hollywood. At least for the\nnear future, it's going to look a lot\nmore like this. creative talent doing\nwhat they do best and new AI tools\nspeeding up boring background processes.\nAnd finally, we have a really practical\nstudy from Anthropic about how AI is\nactually impacting the labor market.\nLong story short, they built this early\nwarning system to see what jobs are\ngenuinely getting automated rather than\njust guessing. If you're worried about\nhow AI might impact your job prospects,\nyou should go check this study out. And\nhere is what I recommend. Download the\nentire PDF, toss it into your chatbot of\nchoice, tell it your exact profession,\nand ask it what you should be doing to\nprepare for how AI is changing things.\nAnd that's pretty much everything we\nhave for this week's episode of News You\nCan Use. I would love to hear which one\nof these was your favorite. And other\nthan that, I hope you have a wonderful\nrest of the week. I'm AI Eigor, and the\nreal Eigor will see you very soon.",
+      "analysis_date": "2026-03-14T15:37:51+00:00",
+      "channel_name": "The AI Advantage",
+      "topic_tags": [
+        "automation",
+        "research",
+        "coding",
+        "comparison",
+        "news"
+      ],
+      "keywords": [
+        "automation",
+        "research",
+        "coding",
+        "comparison",
+        "news",
+        "OpenAI",
+        "ChatGPT",
+        "Claude"
+      ],
+      "tools": [
+        "OpenAI",
+        "ChatGPT",
+        "Claude",
+        "Gemini",
+        "Arc"
+      ],
+      "flow": [
+        "처음 15초 안에 문제를 선명하게 정의하고 왜 지금 봐야 하는지 못 박는다.",
+        "중간 구간에서 툴, 사례, 비교 포인트를 빠르게 제시해 정보 밀도를 높인다.",
+        "마지막에는 시청자가 바로 따라할 수 있는 다음 액션과 적용 예시로 닫는다."
+      ],
+      "claims": [
+        "단순 소개보다 실제 사용 장면을 바로 보여주는 구조가 반응을 만든다.",
+        "큰 담론보다 작은 병목 하나를 해결해주는 포장 방식이 클릭으로 이어지기 쉽다."
+      ],
+      "transcript_highlights": [
+        "Welcome to another week in generative",
+        "AI. And hold up, actually this week's",
+        "episode is a little different. So, as",
+        "Welcome to another week in generative AI.",
+        "And hold up, actually this week's episode is a little different."
+      ],
+      "top_comments": [
+        {
+          "video_id": "ITWcvB1AZtk",
+          "comment_id": "UgzGuNoDp2oDUFBPCQ14AaABAg",
+          "author": "@lilwoodzey2013",
+          "text": "AI Igor is pretty good. He just needs to cool it with the hands lol",
+          "like_count": 16,
+          "reply_count": 2,
+          "published_at": "2026-03-13T21:14:40Z"
+        },
+        {
+          "video_id": "ITWcvB1AZtk",
+          "comment_id": "UgxcbGsnDrUgxw9EhVV4AaABAg",
+          "author": "@FutureStatesWithIkem",
+          "text": "AI Igor is an upgrade! Srsly though, we are not offended at all. It's still kind of you. Get well soon - and \"I hope you have a wonderful week.\"",
+          "like_count": 9,
+          "reply_count": 1,
+          "published_at": "2026-03-13T21:01:06Z"
+        },
+        {
+          "video_id": "ITWcvB1AZtk",
+          "comment_id": "UgyTofjT8IMIMxyYrQ94AaABAg",
+          "author": "@stefrance2",
+          "text": "The Voice cloning is superb !!!!!",
+          "like_count": 5,
+          "reply_count": 0,
+          "published_at": "2026-03-13T21:16:00Z"
+        },
+        {
+          "video_id": "ITWcvB1AZtk",
+          "comment_id": "Ugwn4h4V4zDPbRQZE1t4AaABAg",
+          "author": "@ssdeaglez",
+          "text": "Ngl after 1 minute into the video, I didn't even notice it was AI and not you",
+          "like_count": 4,
+          "reply_count": 0,
+          "published_at": "2026-03-14T09:54:25Z"
+        },
+        {
+          "video_id": "ITWcvB1AZtk",
+          "comment_id": "UgwUruEM3_w4S9qoJP14AaABAg",
+          "author": "@TonyZdor",
+          "text": "wish you fast recovery!",
+          "like_count": 1,
+          "reply_count": 0,
+          "published_at": "2026-03-14T09:50:49Z"
+        }
+      ]
+    },
+    {
+      "video_id": "j-nmef9zIHk",
+      "channel_key": "ucwv2uy79topb1bk8hnq1ngw",
+      "title": "2008년과 놀랍도록 닮았다...역사는 반복되는가?",
+      "description": "email : waltechguy@gmail.com",
+      "published_at": "2026-03-13T13:15:51Z",
+      "duration_seconds": 1042,
+      "view_count": 7546,
+      "like_count": 246,
+      "comment_count": 39,
+      "engagement_rate": 0.03776835409488471,
+      "thumbnail_url": "https://i.ytimg.com/vi/j-nmef9zIHk/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=j-nmef9zIHk",
+      "format": "뉴스 분석",
+      "hook_type": "성과 약속",
+      "title_pattern": "핵심 포인트 직설형",
+      "one_line_summary": "2008년 금융 위기와 유사하게, 대형 사모 펀드들의 환매 중단 사태와 AI로 인한 소프트웨어 기업의 가치 하락이 복합적으로 작용하며 금융 시장 전반에 불안감이 확산되고 있습니다.",
+      "why_it_works": "2008년 금융 위기와의 유사성을 강조하며 시청자의 호기심을 자극하고, 블랙스톤, 블랙록 등 거대 금융기관의 문제를 구체적인 수치와 함께 제시하여 신뢰도를 높입니다. 또한 AI라는 미래 트렌드를 금융 위기 요인과 연결하여 시의성을 확보하고, 복잡한 금융 용어를 쉽게 설명하려는 노력이 돋보입니다.",
+      "recommendation": "2008년 금융 위기를 연상시키는 제목과 '역사는 반복되는가?'라는 질문으로 시청자의 궁금증을 유발합니다. '충격', '놀랍도록 닮았다'와 같은 자극적인 문구를 사용하여 클릭을 유도하며, 거대 금융기관들의 위기 상황을 다룬다는 점에서 시청자들의 높은 관심을 끌 수 있습니다. AI가 금융 시장을 붕괴시킨다? 2008년 IMF 외환위기보다 더 심각한 사태 발생! 심각한 표정의 사람 얼굴 옆에 2008년 금융 위기를 상징하는 그래프와 AI 로봇 이미지를 배치하여 위기감을 극대화. 'AI 쇼크!', '역사상 최악의 위기?'와 같은 문구 추가.",
+      "transcript_status": "available",
+      "transcript_source": "apify",
+      "transcript_language": "ko",
+      "transcript_text": "여러분 진짜 충격적입니다. 사모 대출\n관련 근융주들 주가가요. 한 달 만에\n거의 반토막이 나기 시작했어요. 그럼\n오늘 들릴 얘기는 나랑 상관없고\n어렵다라고 그냥 넘기실 수도 있는데\n2008년에 미번 브러졌을 때랑 아주\n비슷한 일이 일어나고 있거든요.\n그니까 망한다라고 하는 말은 절대\n아닙니다. 그런데 이번에 한번 짓고\n넘어가야 될 일들이 좀 생겼어요.\n제가 봤을 때이 영상 끝까지 안\n보시고 그냥 리스크 무시하시면 정말\n후회할 수도 있다라고 생각하고\n있습니다. 왜냐? 세계에서 지금 가장\n큰 사모 펀드들, 가장 안전하다고\n믿었던 금융 기관들이 투자자들한테\n돈을 못 돌려 주고 있단 말이에요.\n지금 한 곳만 그런게 아니라요.\n블랙스톤, 블랙락심즈 모건 스탠리까지\n야, 이거는 지금 하룻밤 사이에 대형\n금융 기관들까지 야, 우리 돈 못\n돌려 주겠다.이 얘기가 나오고 있단\n말이에요. 2008년에 전처를 밟는\n것이 아니냐 그런 음모론까지 지금\n월가에서 돌고 있을 정도로 상당히 좀\n큰 이슈가 되고 있습니다. 그래서\n제가 오늘 이걸 최대한 쉽게\n여러분들께 설명드려 볼게요. 끝까지\n보시면 지금 시장에서 어떤 일이\n일어나는지 이게 또 일한 전쟁인가\n무슨 연관이 있는지 여러분 스스로\n판단하실 수가 있게 되겠습니다. 세계\n최고 최대 자산 운용사들이 돈을 못\n돌려 주겠다 야 배째라 하고 나오고\n있다라는 건데 자세히 봐야 될 거\n같아요. 자 하룻밤 사이에 문네 개가\n다쳤습니다.이네 개 기업들이\n블루하울, 블랙스톤, 블랙록 모건\n스탠리 여기 플러스 JP 모건까지\n사실은 다섯 개죠. 충격적인 사태가\n아닐 수 없는데 이거 아무리 제가\n유튜버고 과장하려고 말한다라고 하지만\n이거는 저는 조금 많이 위험하다라고\n생각을 했어요. 처음에는이 정도는\n아니었는데 가면 갈수록 심각해지는게\n여러 가지 부정 사기 사건들이 같이\n얽혀 있더라고요. 일단은이 3호\n펀드에 대해서 좀 알아봐야겠죠.\n3호펀드 PE 혹은 PF라고 우리가\n말을 하는데 정확히 말하면요 내용도\n약간의 차이는 있지만 일단 3호 펀드\n이거는 이제 공모 펀드랑 구분을\n하셔야 돼요. 공모 펀드는 누구나 살\n수 있는 펀드 여러분이 사 사 사고\n있는 ETF는 전부 다 공모\n펀드입니다. 그런데 이제 소수의 사모\n펀드 같은 경우는요. 소수의 자산가\n플러스 금융 기간만 진입을 하게\n돼요. 일단 최소 투자금이 단위라\n나와 있는데 미국에서는 한 몇십억\n단위는 최소 받아야 되고 49인\n이하로 운영이 되고 있어요. 그리고\n공시 의무가 최소가 됩니다.이 말이\n무슨 말이냐면 뭐에 투자하는지 안\n알려 줘도 된다. 공시를 할 필요가\n없다는 뜻이에요. 그러니까 비상장\n기업이라든지 부동산 혹은 개인 대출\nP2P 대출이라는데 돈을 넣었는데\n내부에서 서류 조작이 벌어져도요.\n외부에서 알기가 힘듭니다. 그렇기\n때문에 지금 이게 그림자 금융이라고\n불리게 되고 문제가 점점점 커져서\n이제 버블이 되고 있는 거죠. 자,\n그러면은 환매가 무슨 뜻이냐? 요것도\n아셔야 됩니다. 환매는 쉽게 말하면\n환불입니다. 내 돈 돌려 줘. 내가\n툭 펀드 투자했는데 어 내 돈 돌려\n줘라고 요구하는 거예요. 그런데\n넷플릭스 구독은 끊으면 다음 달\n끊기잖아요. 이건 그런게 아닙니다.\n펀드마다 규칙이 있어요. 이거를 두\n가지 펀드로 나눕니다. 폐쇄형 펀드와\n개방형 펀드. 보통 폐쇄형 펀드는요.\n약정 기간 예를 들면 3년이면 3년,\n5년이면 5년 동안 인출이 불가능하고\n근데 이번에 문제가 된 건 개방형\n펀드입니다. 군기에 최대 5%까지는\n인출이 가능한 펀드들이 있어요.\n그런데 지금 문제는 투자자들이이\n5%를 넘게 야, 돈 내나라고\n몰려들면서 난리가 나는 거죠. 도대체\n왜 그랬을까요? 다 이유가 있습니다.\n문제의 시작은 바로 블루아울\n캐피털입니다. 최근 뉴스 기사에 정말\n많이 등장하는 녀석들이라고 할 수가\n있는데요.요 블루아울 캐피탈 대략\n하나로 운용 자금이 430조원입니다.\n그런데 여기서 이제 환매를 완전히\n중단합니다. 이게 무슨 말이냐면 돈을\n못 준다는 걸 그냥 공식적으로 인정해\n버린 거예요. 처음에는 이제 환매\n요청이 늘어나는 걸 받아 줬겠죠.\n5%까지는 받아 줬습니다. 그런데\n어느 2026년 2월에어야 우리 돈\n못 돌려 주겠어. 이제 완전 중단을\n외쳐 버리니까이 사람들이 어떤 생각이\n나겠습니까? 야, 우리 금고에 저돈\n다 갖췄다. 이러면서 주가가 40%\n폭락을 하게 되는 거예요. 이건 진짜\n심각한 사태가 왔구나라는 그런 인식이\n저변에 퍼지게 된 거죠. 여기에 또\n하나 블루 아울의 기술 섹터에 편중된\n펀드가 하나 있어요. 오틱 펀드라고\n하는데 여기에 무려 15% 15%라는\n아주 높은 환매 요청 비율이\n들어옵니다. 그러니까 5% 줄 수\n있는데 15% 당연히 못 주겠죠.\n그래서 주가는 반토막 났습니다.\n아니, 블루 아울 이거 뭐 득보자\n회사냐? 또 괜히 오바 떠는 거\n아니냐 생각하실 텐데요. 여러분,\n블루 아울뿐만 아니라 문제는 다른\n곳에서도 일어나기 시작했다는 거예요.\n솔직히 말해서 저도 블루 아울까지는\n그렇다고 생각했어요. 뭐 별 거 아닐\n수 있지. 그런데 세계 최대의 대체\n투자, 부동산 운용사인 블랙스톤까지의\n불이 옮겨 붙었다는 거예요. 여기는\n이제 부동산을 사서 개발하고 매각하고\n전문적으로 하는 업체인데 우리가는\n힐튼 호텔 뭐 요런 거를 사고\n판다라고 보시면 돼요. 정말 큽니다.\n그리고요 간판 펀드인 820억 달러\n한 수십조 규모의 BCRED\n펀드라는데도 환매 요청이 무려\n7.9%가 9%가 올려들게 됩니다.\n자, 그런데요 BCED 펀드는 좀\n특별해요. 어디다가 돈을 넣었냐면\n사스 기업, 소프트웨어 기업이\n26%를 투자하고 있었어요. 자,\n여러 가지 사스 회사들이 있잖아요.\n그 사스 회사들은 뭘 담보로 대출을\n빌리냐면요. 우동 매출이라는 걸\n담보로 빌립니다. 예를 들어 구독자가\n100명이 있어요. 100명에 만\n원씩을 지불하게 되면 100만\n원이라는 안정적인 현금 흐름이 담보가\n되잖아요. 그걸 바탕으로 돈을\n빌려온단 말이에요. 이게 어떻게 보면\n사스는 부동산처럼 안정적인 현금흐름이\n확보가 된다라는 점에서 높은 담보\n가치를 인정받을 수가 있었단\n말이에요. 그런데 지금 무슨 사태가\n벌어지게 됐냐? AI가 등장했다는\n거예요.이 AI 에이전틱 AI가\n등장하면서 소프트웨어 구독 이거\n가능하냐라는 의문이 들기 시작한\n거죠. 솔직히 이거 저도 그렇게\n생각합니다. 왜? 지금 나노바나\n구글의 나노 바나나가 포토샵을\n대체하고 있어요. 그다음 에이전틱\nAI가 회사의 모든 업무를 자동화하고\n있어요. 저만 해도 제가 필요한\n소프트웨어를 만들어서 클로드 코드로\n만들어서 쓰는 지경에 이르렀거든요.\n그래서 저는 솔직히 말해서 소프트웨어\n기업들 5년 안에 어 70%는\n70%는 뭐 끝날 것이다라고 생각을\n하고 있습니다. 이렇게 되니까 엄청\n큰 문제가 발생을 하는 거죠.\n여러분들이 월마트를 생각해 보세요.\n월마트는 공장이라도 있고 부동산이라도\n있어서 팔아서 담보를 청산을 해 줄\n수가 있단 말이죠. 그런데 립션 구독\n매출로만 있는 소프트웨어 기업들은\n이거 어떡합니까? 이거 못 팔\n거예요. 기껏해 봐야 사무실 한 칸에\n컴퓨터 몇 대가 끝인데 물리적 담보가\n없고이 핵심 비즈니스 모델이 순식간에\nAI로 인해 대체된단 말이죠.\n그러니까 정말 무서운 일이 벌어지는\n거예요. 자, 이렇게 되면 엑셀\n시트상에이 소프트웨어 회사 주가가\n거의 뭐 70%, 80% 박살 나게\n돼 있거든요. 그래서 지금 소프트웨어\n기업들 주가 떨어지는 거고요. 그렇게\n되면은이 펀드에 투자한 입장에서는 내\n돈 내놔라는 말이 절로 나오겠죠.\n그래서 지금 모든 사태가 여기서 지금\n발생을 하고 있는 거예요. 그래서\n블랙스톤이요 한도를 5%에서요.\n판매를 7%까지 하게 해 줍니다.\n그래도 뭐가 부족합니까? 0.9%가\n부족하죠. 자, 이걸 어떻게 해결을\n했냐면요. 임직원 25명이요. 사비를\n털어서 펀드를 메꿨습니다. 이게\n얼마나 웃긴 일이냐면요. 세계 최고\n규모의 사모 펀드에서 이런 일이\n발생한다.이 물론 신뢰는 돼요. 아,\n임직원이 사비를 털 정도로\n안전하구나라는 신뢰를 할 수 있는데\n자, 우리가 조금 여기서 생각을 바꿔\n보면 아니, 세계 최대 3호 펀드가\n임직원이 사비를 털어야 될 정도로\n심각한 상황이야라는 말이 절로 나오게\n되는 거죠. 여러분들이 투자자라면 더\n빼고 싶을까요, 안 빼고 싶을까요?\n지금 여기서는 아 난리가 났을\n겁니다. 고객들한테 전화해서 야 우리\n그런 거 아니다. 충분히 있다라고\n계속해서 여러 항변을 하고 있겠지만\n고객들 입장에서선 이미 안 들리는\n거예요. 제가이 펀드에 투자했으면\n무조건 한매 요청할 것 같거든요.\n근데 여기서 끝냈으면 끈나마\n다행입니다.이 더 큰 놈이 등장해요.\n블랙락 유대계 자본의 끝판왕. 사실상\n세계를 지배하는 수준의 금융사. 가장\n큰 세계 1등의 자산 용사죠. 물무려\n14조 달러. 이게 얼마야? 우리나라\n돈으로 이경 수준의 돈을 굴리는\n회사입니다. 한국 GDP에 일곱배가\n넘는 규모예요. M비디아, 애플,\n구글 요걸 사고도 삼성전자를 세 개를\n더 살만큼 큰 압도적인 금융회사 그냥\n어더 레벨이라고 볼 수 있는이\n블랙락에서도요.이 블랙락 안에 있는\n펀드 중에서 AC랜드라는 펀드의\n환명이 9.3%까지 올라갑니다.\n그다음 여기도 아, 우리 5%가\n원칙이니까 5%만 먼저 줄게라고 해\n버린 거예요. 아, 블랙락도 못\n버티는 거 아니냐? 이래서 7%가\n떨었습니다.이 거대한 금융 그룹이요.\n사실이 블랙락 자체는요. 상당히\n견고한 포트폴리오를 가지고 있기\n때문에 큰 문제는 되지 않을 거예요.\n그런데이 시장이라는게 그렇게\n이성적이지 않아요.이 공포가 막\n전염이 되는 거죠. 플랭락도\n위험하대. 그다음은 누굴까? 또 찾는\n겁니다. 아유, 너무 무서워요. 자,\n그런데 여기서 진짜 막장인 이야기가\n나와요. 블랙이요. 2024년에\n120억 달러를 주고 투자한\nHPS라는 회사가 있어요.요 회사에서\n가짜 고객, 가짜 인보이스, 가짜\n이메일 만들어서이 사기를 쳤단\n말이죠. 이게 블랙락이 가지고 있던\n건데이 블랙락에서 이걸 어떻게\n했겠습니까? 4억 달러 그냥 전액\n손실 처리를 해 버렸습니다. 이게 뭐\n돈으로 치면요. 블랙락의 규모에는\n진짜 발톱 때만도 못한 규모인데 이제\n이런 얘기가 도는 거죠. 야, 이거\n시스템에 문제 있는 거 아니냐? 자,\n이게 왜 그러냐면 JP목은 임원이\n짜고 쳤다라는 거거든요.이 개인의\n문제라고 생각할 수도 있는데 이거를\n몰랐다는 겁니다. 시스템 자체가\n이거를 발각해 내지 못했다. 야,\n이거는 되게 큰 문제인데라는 생각이든\n거예요. 제가 말씀드렸잖아요. 돈으로\n치면은 엄청난 큰 규모는 아닌데이\n시스템이 잘못됐다라고 말하는 거예요.\n왜냐면요.이 3호 펀드 시장에서는\n운용사가 직접 자산 가치를 매깁니다.\n물론 이것도 엄밀하게 감사를 받기는\n하지만 그 규제가 일반 금융\n기관들보다는 현저하게 약한 거죠.\n그러니까 내 장부에요. 자산 가치가\n100억이라고 되어 있는데이\n100억이 진짜 그 100억인지\n실제로는 그 밸루에이션을 판단할\n근거가 애매하다는 거죠. 난 장부가치\n100억인데 이거 우기는데 이걸 몇\n년 동안 우겼냐면요. 5년 동안\n우겼다는 거예요. 야 이거 엄청나게\n큰 문제지 않습니까? 5년 동안\n실제로는 거의 뭐 제로가 된 건데\n100억이라고 우기고 있으니까 이거를\n그대로 시장에 믿고 여기다가 투자를\n했다. 이러니까 이제 시스템의\n문제라는 말이 계속 나고 있죠.\n그래서 이게 좀 어떤 문제로까지\n이어지느냐? 3호펀드 전체가 지금\n문제가 있다라는 그런 얘기까지 들리게\n되는 거예요. 물론 저는 조금\n과장됐다라고 생각을 하지만 어쨌든\n이런 얘기가 돌면서 지금 호펀드들\n주가가 다 날아가고 있습니다. 사실\n또 여기서 끝났다면 끊나마 또 괜찮을\n수도 있는데 어디까지 나왔냐? 이제\n모건 스탠리. 모건 스탠리가 운영하는\n노세이븐 프라이빗 이퀄티 펀드가\n있습니다. 여기 이제 투자자들이요.\n편지 하나를 받게 되는데 그 내용이\n뭐라고 되어 있냐면 야 10.9%\n9% 들어왔다. 우리 이거 환요청\n들어온 거 못 받겠다. 5%만\n줄게요라는 그런 투자 서신을 받게\n되는 거예요. 야, 큰일 났죠. 큰일\n났어. 이거 말고도요. 이제 여러\n군데 환매 요청이 들어가는 거예요.\n야, 지금 월가의 대형 기관들이\n환매를 못 해 준다네라는 소문을\n들으면 여러분들이 자산가면 뭘\n하겠습니까? 저도 바로 콜\n때리거든요. 펀드 매니저한테 콜\n때려서 야, 우리 나도 판매할래.\n야, 나 돈 내나? 내 돈 내나? 할\n거 아니에요. 연세적으로 지금 뱅크런\n일어나듯이 3호 펀드에 런이 일어나고\n있는 상황인 거죠. 그래서 며칠 만에\n벌어진 일이에요. 블루 아울 환매\n아의 중단. 블랙스톤은 임직원들이\n지금 돌려게 하고 있다. 블랙록도\n동결했다. 모건 스탠리마저 절반만\n지급한다더라라는\n엄청난 루머 아니 루머가 아니라\n팩트가 되면서요. 3호 펀드\nETF들은 거의 작살이 나고 있다라고\n보시면 되고 여기서 끝나면 그나마\n다행이었는데 이게 어디까지 가냐면요.\n독일까지 수출됩니다.이 위기가 독일로\n넘어가는 거예요. 사모신용을 지금\n핵심 위험으로 분류하기 시작했습니다.\n어디가요? 독일의 최대 은행인 도이치\n뱅크가요. 이때도 도이치 뱅크가 하루\n만에 7% 떨어집니다. 이때는 이제\n3호 펀드만의 문제가 아니라요.\n금융권 전반적으로 지금 폭락을 하고\n있는 상황입니다. 이때서야 이제\n시장이 뭔가 위험을 느꼈어요. 어\n대형은행의 대차 대조표. 대형은행에\n있는이 자산 3호 펀드의 밸런스\n시세에 있는요 자산. 어 이거 알고\n보니 같은 거 아니야? 야 너희 둘이\n같은 거네라는 생각이 들기 시작한\n거죠. 자, 보니까 우리 은행도\n소프트웨어 사무대출이 사실 엄청\n많네. 투자할 만 하에 해서 가장\n높은 비중으로 투자를 하고 있었단\n말이죠. 이게 예전에이 정도까지\n아니었는데 소프트웨어 기업들이\n2010년 이후로 워낙 잘 나가니까\n점점 점점점 비중을 늘려서 이제 최고\n비중이 되었단 말이에요. 이렇게\n보니까 대형은행이 가지고 있는 사모\n대출이나 저 사모 펀드들이 하는 사모\n대출이나 야 이거 둘이 똑같은 거\n아니야? 똑같이 소프트웨어를 지금\n위험한 거 아니야? 되면서 금융주\n전반적으로 위기가 지금 번지고 있는\n그런 그림인 거예요. 정말 무섭죠.\n그런데 제가 더 무선 얘기를 좀 해\n드릴게요. 숨겨진 소프트웨어 대출이\n더 있다라는 거예요. 무려 하나로\n14조원이 넘는 그 정도 투자 자산이\n소프트웨어 대출로 분류가 되어야\n된다는 겁니다. 자, 사례를 보면요.\n레스토랑 36을 하는 회사가 있어요.\n여러분들 이거 딱 보셨을 때 어떤\n느낌이 드시나요? 이거 식품 서비스\n같지 않나요? 그냥 식품으로 분류되어\n있습니다. 실제로는요. 레스토랑에\n들어가는 서비스 파는 회사거든요.\n그리고 뭐 화학으로 분류돼 있는\n케이스도 있고요. 이런 식으로 여러\n군대로 그냥 소프트웨어가 아닌 것처럼\n어디다 숨겨 놨단 말이에요. 약간\n틀림 그림 찾게 하듯이 그냥 막\n어디다가 숨겨 놨습니다. 이게 가능한\n이유는요. 얘네가 모펀드라서 그런\n거예요. 호펀드 애들이 레이블링을\n그냥 자기 멋대로 이름 붙여서\n소프트웨어 대출을 막 이런 식으로\n숨겨 놓은게 지금 블룸버그가 찾아냈단\n말이죠. 그러니까 야 이거 어디선가\n바퀴벌레가 더 기어나오지 않을까라는\n그런 지금 우려에 빠지고 있다라는\n겁니다. 그러다 보니까 이제 JP\n모목건이 여기다가 그냥 쇠기를 박아\n버렸어요. 이제 JP원 이태를 보고는\n야 안 되겠어. 너희 산소 호흡기 다\n떼 버릴 거야. 소프트웨어 기업을\n담보로 잡은 녀석들 가치를\n하향시키겠다. 자 그러니까 소프트웨어\n기업의 자산 가치가 100억이라고\n쓰시면요. 옛날에는 여기에 80%\n80억을 대출을 해 줬다면 이제 담보\n가치는 너인 50%야. 이렇게 되면\n50억밖에 못 빌리는 거예요.\n그러면은 이제 만기가 돌아올 때\n80억을 빌렸다가 50억만 빌릴 수\n있게 되니까 나머지 30억은\n어떡하죠? 아, 자금 줄이\n끊기겠구나. 이게 진짜 유동성이\n없어지면 없어질수록이 소프트웨어를\n담보로이 소프트웨어 기업에 투자한\n사호 펀드들은 상당히 위험에 처할\n수가 있다라는 겁니다. 그냥 JP\n보건이 말 그대로 산소기를 뗐다.\n쇠기를 박았다라고 생각하시면 돼요.\n자, 그리고 이런 사모신용 펀드런이\n일어나고 있잖아요. 이건 뱅크런이랑\n조금 다르게 봐야 되는게 일단 환매를\n하려면요. 펀드 안에 있는 자산을\n매각을 해야 됩니다. 그런데 자산을\n매각한다는게 무슨 말이냐면 잘 팔리는\n우량 자산을 먼저 매각을 한다는\n뜻이에요. 안 팔리는 녀석들은 어떻게\n되겠습니까? 계속 썩고 있겠죠. 예를\n들어 여러분들이요. 주식을 판다\n생각해 보세요. 이거 팔면은 그대로\n바로 3일 안에 내 계좌로 현금으로\n넣을 수 있잖아요. 근데 여러분이 어\n미술품을 판다 생각해 보세요.\n예술품을 판다 생각해 보세요. 그러면\n감정 평가해야 되고 뭐 협회에 등록도\n해야 되고 여러 가지 규제가 많을 거\n아니에요. 거기다가 이제 비용도\n지불해야 됩니다. 그러면은 이제 또\n비용과 시간이 많이 들게 됩니다.\n그런 자산들은요. 필연적으로 가치가\n낮아져요.이 어쩔 수가 없는 겁니다.\n이게 유동성 프리미엄이라는 건데이\n유동적이지 않은 자산들 특히 부동산\n담보부 채권 같은 것들은 야 이거\n팔리는데 정말 시간이 많이 걸리거나\n아니면 뭐 반값 후리쳐서 팔아야 된단\n말이에요. 그렇게 되면 어떻게\n되겠습니까? 판매가 일어나면\n일어날수록 점점점 낮아질 수밖에 없는\n거예요. 그럼 그 펀드는 그냥 개판이\n되겠죠. 실제로는 뭐 한 100억\n가치의 규모로라도 어 팔 때 보면은\n막 40억 30억이 되어 있을 수도\n있다는 거죠. 그런데 이게 공교롭게도\n2008년에 MBS 서브라임 모기집\n팔 때랑 좀 비슷한 느낌이 나는\n거예요. 물론 근본적으로는 조금 다른\n성격입니다만이 사람들이 봤을 때\n불안한 거 아니냐라고 생각은 조금 할\n수가 있겠죠. 자, 그리고 어,\n요렇게 비교하긴 좀 어렵긴 한데\n숫자로 딱 비교해 봤을 때 2008년\n서버프라임 모기지는 1.3조\n규모였습니다. 근데 3호 신용은요.\n무려 3조 규모 2.3배니까 도미노가\n얼마나 커질지 이게 예측이 안 된다는\n거예요. 당연히 저는 뭐 이게 다\n분량이다라고 말하는 건 절대\n아니에요. 아주 일부분일 뿐인데\n공포는요. 아까도 말씀드렸잖아요.\n뭐가 됩니까? 계속 전염이 되고\n있다는 거예요. 그렇게까지 심각한\n문제가 아닐 수도 있는데 사실\n소프트웨어 기업들이 다시 어 가치를\n회복할 수도 있는 거고이 전쟁만\n끝나면 어느 정도 유동성이 풀리면서\n시장이 안정화될 수가 있다는 거예요.\n그런데 자꾸만 이게 사람들이 안 믿는\n거죠. 뱅크런 사태랑 똑같다고\n봅니다. 예전에 2022년에 실리콘\n밸리 은행이 안 했잖아요. 요거 망한\n것처럼 저는 뭐 한두 개는 망할 수도\n있다 생각해요. 그럼 당연히 정부에서\n이제 구제금융이 들어오겠죠. 그러면\n어느 정도 봉합을 하고 마무리할 순\n있겠지만 누군가는요 결국엔 책임을\n져야 된다라는 점. 본보기로 처형이\n돼야지 좀 정신을 차린 차릴 수가\n있지 않을까? 시장이 무섭다라고\n말씀을 좀 드리는 거고 지금 뭐\n전쟁까지 하고 있으니까 육가 지금\n튀는 거 어 답이 없습니다. 지금\n육가 튀는 거 보면 정말 답이 없죠.\n그래서 조금 더 사람들이 무서워하는\n경향이 있는 거 같아요. 결론적으로\n요렇게 말씀드릴 수가 있겠어요.\n사모신용은 지금 좋은게 없다. 나쁜\n소식은 한 번에 터지는 경향이\n있습니다.이 JP 모건의 말인데 또\n요런 말도 했잖아요. JP 모건의\n회장님이 바퀴벌레 한 마리가 보이면\n뒤에는 훨씬 더 많다. 저도 이게\n공감하는 말이고 이거 뭐 제 어떻게\n보면 전문 분야기 때문에 야 이거 좀\n심각할 수도 있겠는데라는 생각도\n하면서 그래도 분명히 망하지는 않을\n거라는게 또 제 생각입니다.\n실리콘밸리 은행을 살렸던 것처럼\n누군가는 또 살려 줄 거기 때문에\n그렇게까지 막 2008년에 금융위기가\n온다라고 말하는 건 아니에요. 그래도\n지금 상황이 너무 안 좋기 때문에\n조심은 하셔라.이 부분을 알고 있어야\n리스크 해증을 할 수 있지 않을까라고\n계속해서 말씀을 드리는 거고요.\n패닉셀를 하시라는 말도 아닙니다.\n그런데 이제 뭐 테마주 같은 경우는\n시장이 막 조금이라도 안 좋으면\n금방금방 빠지기 때문에 그런 것보다는\n좀 펀더멘탈 위주로 들고 가시는게\n낫지 않을까? 지금은 차라리 원유와\n관련된 에너지 주식이라든지 원유\n선물이라든지 약간의 해질를 하는 것도\n좋은 방법일 수 있다라고 생각을\n합니다. 어, 그리고이 시리즈 여기서\n끝이 아닙니다. 이야기는 끝나지\n않았어요. 다음 분기에 또 수치들이\n나오면 후석 분석을 해 드리겠습니다.\n구독, 알림 설정해 주시면 실제로요\n사태들이 얼마나 여러분들 포트폴리오에\n영향을 미치는지 빨리 받아보실 수\n있도록 영상 준비하겠습니다. 지금까지\n월스트리트 테크남이었습니다.",
+      "analysis_date": "2026-03-14T13:09:41+00:00",
+      "channel_name": "월텍남 - 월스트리트 테크남",
+      "topic_tags": [
+        "금융위기",
+        "사모펀드",
+        "블랙스톤",
+        "블랙록",
+        "모건스탠리",
+        "2008년금융위기"
+      ],
+      "keywords": [
+        "사모펀드환매중단",
+        "블랙스톤환매",
+        "블랙록펀드문제",
+        "모건스탠리사모펀드",
+        "AI가소프트웨어기업에미치는영향",
+        "2008년금융위기와비교",
+        "그림자금융",
+        "부동산투자리스크"
+      ],
+      "tools": [],
+      "flow": [
+        "최근 사모 대출 관련 금융주 주가 폭락 소식 언급 및 2008년 위기와의 유사성 제기",
+        "블랙스톤, 블랙록, 모건 스탠리 등 대형 금융기관들의 환매 중단 및 자금 미반환 사태 소개",
+        "사모 펀드의 개념, 공모 펀드와의 차이점, 그림자 금융으로서의 위험성 설명"
+      ],
+      "claims": [
+        "사모 대출 관련 금융주 주가가 한 달 만에 거의 반토막 났다.",
+        "2008년 리먼 브라더스 사태와 유사한 일이 일어나고 있다.",
+        "세계에서 가장 큰 사모 펀드들과 안전하다고 믿었던 금융 기관들이 투자자에게 돈을 못 돌려주고 있다."
+      ],
+      "transcript_highlights": [
+        "여러분 진짜 충격적입니다. 사모 대출 관련 금융주들 주가가요. 한 달 만에 거의 반토막이 나기 시작했어요.",
+        "2008년에 미번 브러졌을 때랑 아주 비슷한 일이 일어나고 있거든요.",
+        "세계에서 지금 가장 큰 사모 펀드들, 가장 안전하다고 믿었던 금융 기관들이 투자자들한테 돈을 못 돌려 주고 있단 말이에요."
+      ],
+      "top_comments": [
+        {
+          "video_id": "j-nmef9zIHk",
+          "comment_id": "UgyCjvi4ENXOZnP84lp4AaABAg",
+          "author": "@Abwjwkwkksjbdbm",
+          "text": "유튜버도 알고 너도 알고 나도 알고 옆집 할아버지도 아는거는 더이상 리스크가 아니다\n리스크란 있는지도 모르게 터지는게 리스크다",
+          "like_count": 57,
+          "reply_count": 1,
+          "published_at": "2026-03-13T14:54:45Z"
+        },
+        {
+          "video_id": "j-nmef9zIHk",
+          "comment_id": "UgxaKrCVEjWHsJbI5Lh4AaABAg",
+          "author": "@보라개미-i2d",
+          "text": "원래 환매 기준이 분기당 5%인거고, 투자자들이 원래 원칙보다 많은걸 요구해서 이런 상황이 된건데 규칙을 정해놓은 금융사가 잘못한건가요?... 좀 이해가 안되네. 본인들도 그걸 알고 투자시작했을텐데 말이죠.",
+          "like_count": 22,
+          "reply_count": 2,
+          "published_at": "2026-03-13T13:25:42Z"
+        },
+        {
+          "video_id": "j-nmef9zIHk",
+          "comment_id": "UgxC6LdWl02KCr-XuDF4AaABAg",
+          "author": "@비바-n9f",
+          "text": "5프로 까지 환매되는걸 더 달라고 하니 당연 안주는거 아닌가? 내가 잘못 이해했나",
+          "like_count": 13,
+          "reply_count": 2,
+          "published_at": "2026-03-13T23:30:50Z"
+        },
+        {
+          "video_id": "j-nmef9zIHk",
+          "comment_id": "UgzgT-mAvhtXM_cO-sN4AaABAg",
+          "author": "@yi-sp5vd",
+          "text": "서브프라임하고는 다른데 ㅋㅋ",
+          "like_count": 9,
+          "reply_count": 0,
+          "published_at": "2026-03-13T15:37:27Z"
+        },
+        {
+          "video_id": "j-nmef9zIHk",
+          "comment_id": "UgwUesk0KFWtg6ZNquF4AaABAg",
+          "author": "@youngunan8226",
+          "text": "일단 경험치 빈약한 젊은 애널리스트들 말은 신뢰  하기 어렵다",
+          "like_count": 4,
+          "reply_count": 0,
+          "published_at": "2026-03-14T05:14:18Z"
+        }
+      ]
+    },
+    {
+      "video_id": "ekerS_cwqtw",
+      "channel_key": "ucwv2uy79topb1bk8hnq1ngw",
+      "title": "월가가 주목하는 26년 \"압도적 성장 테마\"",
+      "description": "email : waltechguy@gmail.com",
+      "published_at": "2026-03-13T07:44:31Z",
+      "duration_seconds": 816,
+      "view_count": 5756,
+      "like_count": 191,
+      "comment_count": 20,
+      "engagement_rate": 0.036657400972897845,
+      "thumbnail_url": "https://i.ytimg.com/vi/ekerS_cwqtw/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=ekerS_cwqtw",
+      "format": "뉴스 분석",
+      "hook_type": "문제 해결",
+      "title_pattern": "핵심 포인트 직설형",
+      "one_line_summary": "월가가 주목하는 26년 \"압도적 성장 테마\" 영상을 바탕으로 뉴스 분석 관점에서 핵심 메시지를 압축한 자동 요약입니다.",
+      "why_it_works": "문제 해결 훅과 뉴스 분석 포맷이 결합되어 클릭 이유와 시청 유지 이유가 동시에 만들어집니다.",
+      "recommendation": "뉴스 분석 관점을 더 좁게 가져와서 실제 크리에이터 운영 업무에 연결하는 후속 영상을 추천합니다.",
+      "transcript_status": "pending",
+      "transcript_source": "none",
+      "transcript_language": "",
+      "transcript_text": "",
+      "analysis_date": "2026-03-14T06:03:46+00:00",
+      "channel_name": "월텍남 - 월스트리트 테크남",
+      "topic_tags": [],
+      "keywords": [
+        "월가가",
+        "주목하는",
+        "26년",
+        "압도적"
+      ],
+      "tools": [],
+      "flow": [
+        "문제를 먼저 정의하고 왜 지금 봐야 하는지 보여준다.",
+        "툴 또는 사례를 통해 해결 구조를 설명한다.",
+        "시청자가 바로 따라할 수 있는 다음 행동으로 마무리한다."
+      ],
+      "claims": [
+        "주제 소개보다 실제 운영 적용 포인트가 더 중요하다.",
+        "작은 병목 하나를 해결하는 구조가 반응을 만들기 쉽다."
+      ],
+      "transcript_highlights": [
+        "자막을 확보하지 못해 제목·댓글·메타데이터 기준으로 분석했습니다."
+      ],
+      "top_comments": [
+        {
+          "video_id": "ekerS_cwqtw",
+          "comment_id": "UgzYVTIsYPebdos4jh54AaABAg",
+          "author": "@HolaHola-jl4od",
+          "text": "그냥 엔비사면되나요?",
+          "like_count": 12,
+          "reply_count": 0,
+          "published_at": "2026-03-13T09:23:04Z"
+        },
+        {
+          "video_id": "ekerS_cwqtw",
+          "comment_id": "UgyETR9zkItO_--y4jZ4AaABAg",
+          "author": "@132-h7v",
+          "text": "lite vs crdo 껄껄",
+          "like_count": 2,
+          "reply_count": 0,
+          "published_at": "2026-03-13T08:09:28Z"
+        },
+        {
+          "video_id": "ekerS_cwqtw",
+          "comment_id": "Ugxj3-8uk4s58YvAD2p4AaABAg",
+          "author": "@Money_printing",
+          "text": "루멘텀 일찍알려줘야지 개비삼지금",
+          "like_count": 1,
+          "reply_count": 0,
+          "published_at": "2026-03-14T01:47:19Z"
+        },
+        {
+          "video_id": "ekerS_cwqtw",
+          "comment_id": "UgzRpksLUF1ACffCTKB4AaABAg",
+          "author": "@흠흠-n2p",
+          "text": "크리도,루멘텀,코히런트",
+          "like_count": 0,
+          "reply_count": 0,
+          "published_at": "2026-03-14T03:31:43Z"
+        },
+        {
+          "video_id": "ekerS_cwqtw",
+          "comment_id": "Ugyi0v20cGopuZOyUFB4AaABAg",
+          "author": "@qwer-f7i",
+          "text": "나 죽기전에 되것냐? ㅋ",
+          "like_count": 0,
+          "reply_count": 0,
+          "published_at": "2026-03-14T02:07:04Z"
+        }
+      ]
+    }
+  ]
+}
