@@ -1,83 +1,409 @@
 {
-  "generated_at": "2026-03-15T05:23:53+00:00",
+  "generated_at": "2026-03-15T05:47:02+00:00",
   "source": "sqlite_export",
-  "video_count": 5,
+  "video_count": 8,
   "videos": [
     {
-      "video_id": "1FAoyTUxrHQ",
-      "channel_key": "ucn2rjfaa1ndipnvjsyawwow",
-      "title": "Claude Code Remote Control Full Workflow Setup",
-      "description": "📥 Download The Full AI Clone Automation for Free! https://skool.com/ai-mate/about\n🤙 Book an AI Strategy Call: https://calendly.com/aiandy/1on1\n\nThis is the full breakdown of how to build and automate your personal brand using AI — from idea sourcing to publishing across every major platform.\n\nHere's what I cover:\nUnderstanding why Slack, Telegram, and Discord bots give you a broken version of Claude Code — no memory, 30-second response times, and zero access to your files\nDiscovering the hidden cost trap that has you paying twice for a worse experience than what you already have\nSetting up Claude Remote Control in 60 seconds with four steps — no code, no API key, no extra cost\nControlling your full Claude Code session from your phone with the same memory, same files, and same speed as your desktop\nChecking your content plan, reading your notes, updating files, and running real tasks — all from your couch, on your phone\nReplacing days of bot building with one command that should have been the answer from the start\n\nIf you're a creator, founder, or entrepreneur trying to use Claude Code on the go, this video shows you exactly why bots always feel broken — and the built-in feature that fixes everything without paying extra. I break down the exact setup, the real reason chat bots fail, and the mistakes I made so you don't have to.\nTools & Platforms Covered:\nClaude Code — the full agentic AI experience, now on your phone\nClaude Remote Control — the built-in feature that replaces every bot you've ever built\nCLAUDE.md — how your phone session picks up exactly where your desktop left off\nStop building bots that don't work. One command gives you the full Claude Code experience from anywhere — included in what you're already paying for.\n\nLINKS\n↓\n\nClick Here to Start AI Agent Building (New Free):\nhttps://skool.com/ai-mate/about\n\n- - - \n0:00 // Intro\n1:22 // The Problem\n2:50 // The Real Bottleneck\n4:53 // What I found before this?\n6:43 // The Real Answer\n8:00 // Setting It Up\n10:19 // What You Can Actually Do With It\n- - -\n\nFollow me on Twitter: https://twitter.com/itsaiandy\n\nFollow on Tiktok: https://www.tiktok.com/@andyhafell\n\nFollow on Instagram: https://www.instagram.com/itsaiandy\n\nFollow on Facebook: https://www.facebook.com/Andyhafell\n\nEmail for Business Inquiries: biz@aiandy.ai",
-      "published_at": "2026-03-14T14:28:47Z",
-      "duration_seconds": 715,
-      "view_count": 96,
-      "like_count": 19,
-      "comment_count": 2,
-      "engagement_rate": 0.21875,
-      "thumbnail_url": "https://i.ytimg.com/vi/1FAoyTUxrHQ/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=1FAoyTUxrHQ",
-      "format": "워크플로우 튜토리얼",
+      "video_id": "StiEQQcMusY",
+      "channel_key": "ucen2yejcbcrjoxgzf-ou3qw",
+      "title": "AI 때문에 진짜 소프트웨어 기업들이 무너지나... 누가 무너지고 누가 더 강해지는가 | OpenClaw | Claude Cowork | NanoBanana 2",
+      "description": "요즘 AI 업계는 단순히 모델 성능 경쟁을 넘어, 실제로 일을 수행하는 에이전트 단계로 빠르게 넘어가고 있습니다.\n이번 영상에서는 Claude Cowork와 OpenClaw를 사례로, 왜 시장이 단순한 기능 진화가 아니라 구조 변화로 받아들이는지를 짚었습니다.\n핵심은 AI가 더 똑똑해졌다는 것보다, 실제 권한을 가지고 행동하기 시작했다는 점입니다.\n이 변화는 사람을 바로 대체하기보다, 먼저 사람이 사용하던 소프트웨어와 SaaS 구조를 흔들고 있습니다.\n특히 UI 중심의 소프트웨어와 데이터 중심의 소프트웨어가 에이전트 시대에 어떻게 다르게 평가받을 수 있는지도 함께 살펴봤습니다.\nMicrosoft, Salesforce 같은 기업들이 왜 에이전트를 위협이 아니라 내재화 전략으로 받아들이는지도 정리했습니다.\n반대로 반복 클릭 중심, 자동화 가능한 정형 업무 위주의 서비스가 왜 압박받을 수밖에 없는지도 설명했습니다.\n또한 핀테크, ERP, 결제, 계약 같은 고위험 영역에서 AI가 어디까지 가능하고 어디서 멈추는지도 현실적으로 다뤘습니다.\n마지막으로 OpenClaw 사태를 통해, 에이전트 시대에 왜 보안과 권한 통제 산업이 더 중요해지는지도 함께 분석했습니다.\nAI는 단순한 버블인지, 아니면 이미 생산성을 증명한 혁신인지 궁금하셨다면 이번 영상이 그 판단에 도움이 될 수 있을 것입니다.\n\nWritten by Error\nEdited by 이지호\n\nunrealtech2021@gmail.com",
+      "published_at": "2026-03-15T03:00:25Z",
+      "duration_seconds": 350,
+      "view_count": 3769,
+      "like_count": 193,
+      "comment_count": 24,
+      "engagement_rate": 0.05757495356858583,
+      "thumbnail_url": "https://i.ytimg.com/vi/StiEQQcMusY/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=StiEQQcMusY",
+      "format": "뉴스 분석",
       "hook_type": "문제 해결",
       "title_pattern": "핵심 포인트 직설형",
-      "one_line_summary": "Claude Code의 '원격 제어' 기능을 활용해서 봇 없이 60초 만에 휴대폰에서 데스크톱 수준의 AI 경험을 구현하고 업무 효율을 극대화하는 방법을 소개합니다.",
-      "why_it_works": "이 영상은 AI 봇의 느린 응답, 메모리 부족, 파일 접근 불가 등 실질적인 문제점을 명확히 짚어내고, Claude Code의 숨겨진 '원격 제어' 기능을 해결책으로 제시합니다. 기존 구독으로 추가 비용 없이 모든 기능을 사용할 수 있다는 점을 강조하며 시청자의 클릭을 유도합니다. 또한, 60초 안에 설정이 완료되는 과정을 보여주며 즉각적인 활용 가능성을 어필합니다.",
-      "recommendation": "• AI 봇 사용 시 겪는 불편함에 공감하는 문제 제기로 시작하세요. • Claude Code의 '원격 제어' 기능을 '봇 빌딩의 대안'으로 명확히 포지셔닝하고, 시간 및 비용 절감 효과를 강조하세요. • 60초 설정 과정을 시각적으로 명확하게 보여주며 '간편함'과 '즉시성'을 어필하세요. • 썸네일에 '휴대폰으로 AI 제어', '60초 설정 완료' 등 핵심 키워드를 넣어 클릭률을 높이세요. • 영상 후반부에 'Claude.md' 활용법을 간략히 소개하여 AI 개인화 및 성능 향상 가능성을 제시하세요.",
+      "one_line_summary": "AI 에이전트의 등장으로 단순한 기능 진화를 넘어 실제 권한을 가지고 행동하게 되면서, 소프트웨어 산업 구조가 근본적으로 흔들리고 있으며, 데이터와 API 중심 기업은 AI를 내재화하여 성장하지만 UI 중심 및 정형 업무 기업은 위협받을 수 있음을 분석합니다.",
+      "why_it_works": "AI 에이전트라는 시의성 있는 주제와 Claude Cowork, OpenClaw라는 구체적인 사례를 결합하여, AI가 단순히 똑똑해지는 것을 넘어 실제 업무 수행 및 권한 실행 단계로 진화했음을 명확히 보여줍니다. 이로 인해 기존 소프트웨어 및 SaaS 구조가 어떻게 흔들리고, 어떤 기업이 생존하며 어떤 기업이 도태될 것인지에 대한 명확한 기준을 제시하여 시청자의 궁금증을 자극하고 정보 탐색 욕구를 충족시킵니다.",
+      "recommendation": "• 'AI 에이전트'라는 미래 트렌드를 '기존 산업 생존'이라는 현실적 위협과 연결하여 시청자의 불안감과 호기심을 동시에 자극하는 제목과 썸네일 구성. • Claude Cowork, OpenClaw 사례를 통해 AI의 '권한 획득'과 '실질적 업무 수행' 가능성을 구체적으로 시각화하여 보여주기. • UI 중심 SaaS와 데이터/API 중심 기업의 AI 시대 생존 전략을 대비시키는 명확한 기준 제시 및 향후 유망 산업(보안, 권한 통제) 언급. • AI를 '위협'이 아닌 '레버리지'로 활용하여 성장하는 기업들의 전략을 심층 분석하고, 해당 기업들의 핵심 경쟁력(데이터, API, 통합 역량)을 명확히 설명.",
       "transcript_status": "available",
       "transcript_source": "apify",
-      "transcript_language": "en",
-      "transcript_text": "If you're trying to get clawed code into\nSlack, Telegram, or Discord, stop. I\njust spent three days building the\nperfect AI assistant I could message\nfrom my phone. And every single message\nstill took 30 seconds. No memory of what\nI just said, no access to my files,\ncompletely useless for real work. And\nthe worst part, the only way to make it\nfast was to pay for API access on top of\nthe $100 subscription that I was already\npaying for. So I got to literally pay\ntwice for a worse experience. Then I\nfound one command that replaced the\nentire build. Full clawed code on my\nphone. Same memory, same files, same\ntools included in what you're already\npaying for. 60 seconds to set up. I'll\nshow you exactly how so by the end you\nalso got this set up on your phone.\nWelcome to the Build Your AI employee\nseries episode 3. Hey, if you don't know\nwho I am, my name is Andy Afel. I help\nfounders go from doing everything\nmanually to building a business that\ngrows without them. Real results, no\ncode, no grind. Members are already\nautomating full video pipelines and\nbuilding tools to save them thousands.\nAnd if that sounds like something you're\ninterested in, subscribe because freedom\nis the actual goal. Now, let me tell you\nabout the problem. So, here's what I\nwanted. I wanted to use Claude code from\nmy phone. The same AI assistant that I\nuse on my computer, the one that knows\nmy projects, remembers our\nconversations, and can read my file,\nupdate my databases, check my to-do\nlists. I just wanted to do that on my\nphone so I could check everything on the\ngo. And the obvious answer that everyone\nsuggests, build a bot in Telegram,\nSlack, or Discord. So that's what I did.\nAnd on the surface, it sounds great. You\nmessage the bot. It talks to Claude.\nClaude responds. Simple. Here's what\nactually happens. Every single message\nyou send starts a brand new\nconversation. Claude has zero memory of\nwhat you asked just 5 seconds ago. You\nsay, \"Show me my content plan.\" It\nresponds. You say, \"Now update step\nthree.\" And it has no idea what step\nthree is, no idea what content plan, no\nidea who you are. Every message is like\ntalking to a stranger. On top of that,\nit's slow. Like painfully slow. 30\nseconds for a simple response. The same\nthing that takes 2 seconds on your\ncomputer takes 30 seconds through a bot.\nAnd this isn't a Telegram problem. Slack\ndoes the exact same thing, and Discord\ndoes, too. Every messaging platform has\nthe exact same issue because the problem\nisn't the platform, it's the whole\napproach of trying to pipe Claude\nthrough a chat app. The real bottleneck.\nSo why is the desktop experience so good\nand the bot experience so bad? Let me\nexplain this simply because once you\nunderstand this, everything clicks. When\nyou use Claude code on your computer,\nyou're in a live session. Claude\nremembers everything you've said. It can\nsee your project files. It loads your\ninstructions. It's fast. Two to three\nseconds for a response. And it's all\nincluded in your Clawed Max\nsubscription. You're already paying for\nthis. The problem is that the experience\nonly lives on your computer. The moment\nyou try to move it to Slack, Telegram,\nor Discord, you break it because those\nplatforms can't keep a live Claude\nsession running. Every time you send a\nmessage, it has to start a brand new\nClaude session from scratch. That's why\nthere's no memory. Each message is\nliterally a different conversation.\nThat's why it's slow. It takes time to\nstart a new session every single time.\nNow, here's the part that really\nfrustrated me. There is a way to make\nbots faster. You can use an API key.\nBasically, a direct line to Claude that\nbypasses all the startup overhead.\nResponses drop to two to three seconds.\nSounds great, right? except it costs\nmoney per message on top of the\nsubscription you're already paying for.\nI'm paying for Claude Max, which gives\nme almost unlimited Claude code on my\ndesktop. Fast, full memory. Everything\nworks. But to get that same experience\non my phone through a bot, I'd have to\npay again per message through the API.\nand I can't even access the files,\npaying twice for a verse version that I\nalready have. And that's the trap. And\nthat's exactly where I was stuck for 3\ndays. I kept thinking there had to be a\nway to get my desktop cloud experience\non my phone without paying extra. And\nspoiler, there is, but it's not a bot.\nWhat I found before this, if you've\ntried, you may relate to this solution.\nI spent three days trying to fix the bot\napproach. I figured out the butt is so\nslow and dumb. Maybe I can make it\nsmarter and faster. So, the first thing\nI tried, I gave Claude more instructions\nup front. I wrote out all my database\nideas that are my air tables, my common\ncommands, the skills, everything it\nwould need to know. That way, it\nwouldn't have to figure out this out\nfrom scratch every time. Did it help? a\nlittle responses went from 36 seconds to\nmaybe 25. Still way too slow. Then I\ntried giving it a conversation history.\nThere's a way to load previous messages\nto Claude that can see what you actually\ntalked about before. In theory, that\ngives you memory between messages. In\npractice, it loaded so much more old\nconversation data that got it even\nslower. 40 seconds just on the prompt,\ncan you give me my content doc? It made\nit worse. The one thing that actually\nworked was shortcuts. Instead of asking\nClaude, show me my content plan, I built\na direct shortcut that goes directly to\nmy database and pulls the data. No\nClaude code involved 2 seconds. And that\nwas great for simple lookups, but the\nwhole point is to have Claude in the\nthinking, the reasoning, connecting the\ndots around my projects and stuff like\nthat. You can't shortcut that. So, I was\nstuck. The bot approach was\nfundamentally broken. Shortcuts only\ncovered the simple stuff and the API fix\nmeant paying twice. And that's when I\nfound what I should have been using from\nthe start, the real answer. Claude Code\nhas a builtin feature called remote\ncontrol. One command that you type in\nyour terminal, it gives you a QR code.\nYou scan that QR code with your phone\nand you're in. Not a bot, not a watered\ndown version. The actual claw code\nexperience on your phone. The same\nconversation memory, same project file,\nsame instructions, same tools, the same\npersonality. It can read files, make\nchanges, search the web, run commands.\nBut here is why it works. Your computer\nis doing all the work. Your phone is\njust a window into that session. Think\nof it like a security camera. The camera\nis on your computer and your phone is\njust watching the feed and sending\ncommands. There are no middlemen, no new\nsessions, every message, no startup\ndelay. You pick up exactly where you\nleft off, even if you were working on\nsomething at your desk and then walk\naway. And the best part, it's included\nin your Max plan. No API key, no extra\ncost. You're not paying twice. You're\nusing what you're already paying for\njust from a different screen. I set this\nup in about 60 seconds and it replaced 3\ndays of building bot. So, let me show\nyou exactly how. Here's how to set it\nup. It takes four steps, about 60\nseconds. Works on Mac and Windows. Step\nnumber one, make sure your Claude code\nis up to date. So, just open your\nterminal and type claude dash dash\nversion. You need the version 2.1.51\nor later. If you're below that, just\ntype npm update-gropic-ai/codcode\nand it will update. Step two, open the\nfolder you want Claude to work in. This\nmatters because Claude loads its own\ninstructions from this folder. If you\nhave a claw.md file, which is basically\na cheat sheet that tells Claude about\nyour project, your tools, your\npreferences, it picks that up\nautomatically. To do this, you write cd\nand path to your project folder. This is\nhow it looks like to me. Enter. And\nwe're now in the cloud folder. Step\nnumber three, type claud space remote\ncontrol. Click on enter. And as you can\nsee, it's connected. You can see the\ncapacity right here. You can continue by\nusing the app or this link right here.\nAnd then I'm going to click on space and\nthe QR code pops up in the terminal.\nStep number four, scan that QR code with\nyour phone. If you have the Claude app,\nit opens directly in the Cloud app. If\nnot, you can also go to the browser.\nWorks the same way. I'll just scan it\nnow. It opened the claw app. I just have\nto click on code. And you'll now see\nthat there are some processes running on\nmy computer. And if I tap on it, it\nopens a completely new chat. Here I can\nask it, for example, can you send me a\nlink to the master content doc? Click on\nsend and it just sent me the link\nexactly like I was using it on my\ncomputer. That's it. You're in claw code\non your phone. Your computer needs to\nstay on. But if you're already using it\nas a workstation, it probably already\nis. And if your computer goes to sleep\nand wakes back up, it reconnects\nautomatically. You don't have to scan it\nagain. It shows up in the history in\nyour app. What you can actually do with\nit? Let me show you what this actually\nlooks like dayto-day. I'm sitting on the\ncouch and I want to check where I am in\nmy content plan. I open the Cloud app on\nmy phone. Type show me my work progress.\nAnd within 2 seconds, it pulls\neverything from my database. It knows\nexactly where to look because my Claude\nMD file has all those details. I didn't\nhave to explain anything. It's the same\nsession, same context. I can ask it to\nread my to-do list and tell me what I\nhave planned today. I can ask it to\ncheck my YouTube analytics. I can even\nask it to make changes to my files in my\nprojects from my phone. The conversation\njust carries over completely. If I was\nworking on a content dock at my desk, I\nwalk over to eat ramen. I just pick up\nmy phone and I keep going. If I say\nupdate step three to include the pricing\nsection, it knows exactly what I'm\ntalking about because it's the same\nthing. Compare this to the bot\nexperience, 30 seconds per response, no\nmemory, start from scratch every time.\nNow it's 2 to 3 seconds, full memory. I\ncan do anything I do on my computer.\nThis is the setup I wish I had from day\none. It would have saved me 3 days of\nbuilding bots that never worked right.\nAnd now you know how to do it, too. If\nyou want to build Claude code, right,\ncheck out the free community. If you're\nan online business that want to get more\nhands-on with this and me, book a call\ndown below. Subscribe for the next\nepisode of this series, and I'll see you\ntomorrow at",
-      "analysis_date": "2026-03-14T15:37:42+00:00",
-      "channel_name": "AI Andy",
+      "transcript_language": "ko",
+      "transcript_text": "요즘 기술 업계가 조금 묘하게\n흔들리고 있습니다. 클러드 코워크가\n공개되고 오픈 클로우가 그 바이러를\n타고 그리고 동시에 보안 이슈가\n터지면서 많은 사람들이 이렇게\n말합니다. 이제 진짜 AI가 다\n바꾸는 거 아니야? 충격의 포인트는\n단순히 AI가 똑똑해졌다는게\n아닙니다. 클러드 코워크는 단순한\n채봇이 아니라 파일에 접근하고 업무를\n여러 단계로 나누고 실제로 작업을\n끝까지 수행하려는 디지털 동료\n컨셉입니다. 즉 말 잘하는 AI가\n아니라 일을 대신하는 AI라는 거죠.\n그리고 오픈 클론은 더\n극단적이었습니다. 로컬에서 돌아가고\n메신저와 연결되고 사용자 개정 권한을\n활용해서 직접 행동하는 구조. 그런데\n문제도 발생했는데요. 외부 노출\n인스턴스 인증 설정 미흡 권한 과다\n부여들이 충격을 받은 이유는 AI가\n똑똑해져서가 아니라 AI에게 고난을\n저어 버리니까 뭐든지 다 해내면서도\n동시에 위험성이 나타났다라는 것이죠.\nAI가 사람을 대체한다면서 왜\n소프트웨어 주가가 먼저 떨어지지?이\n이 질문이 핵심입니다. AI는 사람을\n바로 대체하지 않습니다. 먼저\n압박하는 건 사람이 쓰던\n소프트웨어죠. 왜냐하면 사스의 본질은\n사람이 화면에서 클릭하고 입력하는\n구조이기 때문입니다. 본질적으로\n사스는 사람의 손을 인터페이스에\n연결하는 산업이죠. 물론 여기에\n중요한 방어막이 있습니다. 그\n인터페이스 위에 데이터가 쌓이면서\n전환 비용이 생기는데요. 이게 바로\n사스의 해자입니다. 하지만 에이전트가\n등장하면 상황이 달라지는 거죠.\nAI는 모델이 아닙니다. AI는\n권한을 가진 실행자가 되는 거죠.\n읽기 권한만 생기면 비서가 되는 거고\n쓰기 권한까지 생기면 대리인. 더나가\n결제 권한까지 열리면 이미 직원이\n되는 거죠. 클로드 코워크가 던진\n메시지는 명확했습니다. AI는 이제\n읽고 요약하는 단계가 아니라 업모를\n끝까지 밀어붙일 수 있다. 오픈 클로\n사태가 보여준 건 역시 그 권한이\n통제되지 않으면 위험해진다. 그러나\n잘 쓰면 너무너무 좋다. 문서 정리,\n매일 자동 분류, 보고서 생상까지는\n이미 현실입니다. 마이크로소프트\n코파일러 같은 경우에도 엑셀 팀즈 아\n위에서 사용자의 클릭을 줄여주죠.\n세이즈 포스는 에이전트 포스를 통해\nCRM 내부에 에이전트를 심고\n있습니다. 이건 방어 전략인 거죠.\n그런데 기업이 멈추는 지점이\n있습니다. ERP 수정, 결제 실행,\n계약 체결 여기서 제동이 걸립니다.\n왜냐하면 AI는 확률 모델이기\n때문이죠. 99% 정확하면 1%는\n틀리죠. 99.9% 정확해도\n0.1%는 틀립니다. 금융 시스템은\n그 0.1%를 못 버티는데요. 그래서\n현실에서는 제하는 AI가 승인은\n사람이 하는 거죠. 지금 기업 AI는\n자율주행 레벨 3와 같다라고 볼 수가\n있습니다. 여기서 중요한 해석\n포인트가 하나 있습니다. 지금\n시장에는 AI 버블이다라는 말이\n많은데요. 하지만 역으로 이렇게 볼\n수도 있습니다. 기존 사스를 대체할\n수 있다는 논의 자체가 AI의\n생산성을 증명한 것 아닐까요? 과거\nLRM은 요약을 잘하는 도구였습니다.\n지금은 워크플로우를 실행합니다.\nUI를 거치지 않고 업무를 완료하는\n거죠. 이건 단순한 기술 시현이\n아니라 실제 소프트웨어 수요를 건드린\n겁니다.이 지점에서 평가가 갈립니다.\nAI가 등장했다고 해서 모든 사스가\n무너지는 건 아니라는 거죠. 오히려\n기업 가치는 두 부류로 갈립니다.\n자체 데이터가 강력한 기업 API\n중심 구조를 갖춘 기업 AI를 내부에\n통합해 워크플로를 재설계할 수 있는\n기업. 사실이 기업들은 AI가 위협이\n아니라 레버리지입니다. AI가 UI를\n대체해도 그 데이터와 인프라는 그대로\n남기 때문이죠. 오히려 AI가\n붙으면서 사용자당 생산성이 올라가고\nARPU가 상승할 수 있죠.\n마이크로소프트와 세일즈 포스가 공격이\n아니라 내제하를 선택한 이유라고 볼\n수 있습니다. 그런데 반복 클릭 기반\n데이터 락이 약하고 자동화 가능한\n정형 업무가 핵심 가치인 기업은이\n구조는 압박받을 수밖에 없습니다.\n에이전트라고 하는 것은 사람이 쓰는\nUI를 건너뛰기 때문이죠. 즉 UI\n위에서 있는 사스와 데이터 위에서\n있는 사스는 에이전트 시대에 다르게\n움직입니다. AI 버블론이 맞느냐\n틀리느냐의 문제가 아니라 AI를\n흡수해 부가 가치를 올릴 수 있는\n기업인지 아니면 AI에 의해 기능이\n대체되는 기업인지가 평가를 가르는\n기준이 되는 거죠. 특히 소비 분석,\n상품 비교, 서류 정리 이러한 UI\n영역은 압박을 받을 수 있겠죠.\n하지만 결제 네트워크, 은행 원장,\n신용 평가 모델은 조금 다른데요.\n이건 면허 산업이라서 대체가 아니라\n부착이 일어납니다. 에이전트는 그\n위에 얹치는 거죠. 오픈 클로 사태가\n보여준 건 권한이 늘어나면 공격 면도\n늘어난다는 사실인데요. 에이전트\n하나당 API 키, 세션 토큰, 접근\n권한이 필요한데요. 관리 대상은 기하\n급수적으로 늘어납니다. 권한 관리\n감사로그 세션 통제 기술은 더\n중요해지는 거죠. 어쩌면 에이전트\n시대에 보안 산업의 황금기 수위가\n있다라는 거죠. 클러드 코워크가 던진\n메시지 오픈클로 사태가 보여준 경고.\nAI는 똑똑해지기도 했지만 권한을\n얻기 시작했습니다. 그리고 이제\n질문은 이것입니다. AI가 과연\n버블인가 아니면 생산성 혁신인가?\n여기에 정확한 정답을 저도 내릴 순\n없겠지만 AI는 이미 생산성을\n증명하고 있다는 점에서 다만 그\n가치가 모든 기업에 동일하게 돌아가지\n않을 뿐이라는 점을 어른도 알아차릴\n수가 있습니다. 승패는 누가 AI를\n흡수해 부가 가치를 올릴 것이냐 누가\nAI에 의해 기능이 대체될 것이냐\n어디까지 권한을 열고 통제할 것이냐\n여기서 갈립니다. AI가 무서운\n이유는 똑똑해 서가 아니라 권난을\n받으면 손이 되기 때문입니다. 그리고\n지금 그 손이 소프트웨어 산업을\n재편하기 시작했는데요. 강력하고\n새로운 기술에 등장으로 산업 전체가\n흔들리고 있는 현상항 속에서 혁신의\n최전선에서 기회를 찾고 있는 수많은\n사람들에게 화이팅을 보내며 다음\n시대를 준비하기 위해 자그마한 도움을\n드리고자 저 역시도 여러분과 함께\n성장하고 있는 안대공화 에로였습니다.\n니다.",
+      "analysis_date": "2026-03-15T05:45:42+00:00",
+      "channel_name": "안될공학 - IT 테크 신기술",
       "topic_tags": [
-        "Claude",
-        "에이전트",
-        "자동화",
-        "코딩",
-        "수익화"
+        "Claude"
       ],
       "keywords": [
-        "ClaudeCode",
-        "AI봇",
-        "자동화",
-        "원격제어",
-        "업무효율",
-        "AI활용",
-        "생산성",
-        "창작자도구"
+        "AI에이전트",
+        "ClaudeCowork",
+        "OpenClaw",
+        "SaaS",
+        "소프트웨어기업",
+        "산업재편",
+        "AI보안",
+        "권한통제"
       ],
       "tools": [
         "Claude"
       ],
       "flow": [
-        "{\"time\": \"0:00\", \"description\": \"인트로: 휴대폰에서 Claude Code 사용 시 겪는 어려움과 비효율적인 봇 빌딩 경험으로 문제 제기\"}",
-        "{\"time\": \"1:22\", \"description\": \"문제점: Slack, Telegram, Discord 봇의 한계(느린 속도, 메모리 부재, 파일 접근 불가) 및 추가 비용 문제 설명\"}",
-        "{\"time\": \"2:50\", \"description\": \"진짜 병목: 봇 방식의 근본적인 문제점과 데스크톱 Claude Code 경험과의 차이점 설명\"}",
-        "{\"time\": \"4:53\", \"description\": \"이전 시도들: 봇 개선 노력(지침 추가, 대화 기록 로드)의 실패 경험 공유\"}",
-        "{\"time\": \"6:43\", \"description\": \"진짜 해결책: Claude Code '원격 제어' 기능 소개 및 봇 빌딩 없이 모든 문제를 해결할 수 있음을 강조\"}"
+        "1. AI 업계의 현재 상황 진단 (Claude Cowork, OpenClaw 이슈)",
+        "2. AI 에이전트의 핵심 변화: '일하는 AI'로의 진화 (단순 똑똑함 → 권한 획득 및 실행)",
+        "3. AI가 소프트웨어 산업을 흔드는 메커니즘: SaaS 구조 변화와 UI의 역할 축소",
+        "4. AI 생존 기업 vs. 위협받는 기업 분류 기준: 데이터, API, 통합 역량 vs. 반복 클릭, 정형 업무",
+        "5. Microsoft, Salesforce 사례: AI 내재화 전략 분석"
       ],
       "claims": [
-        "Slack, Telegram, Discord 봇은 Claude Code의 비효율적인 버전입니다.",
-        "봇 방식은 메모리 부족, 느린 응답, 파일 접근 불가 문제를 겪습니다.",
-        "API 접근은 추가 비용을 발생시키며, 기존 구독보다 못한 경험을 제공할 수 있습니다.",
-        "Claude Code의 '원격 제어' 기능은 60초 안에 설정 가능하며 추가 비용이 없습니다.",
-        "원격 제어를 통해 휴대폰에서 데스크톱과 동일한 AI 경험(메모리, 파일 접근, 속도)을 할 수 있습니다."
+        "AI는 더 이상 단순한 모델이 아니라 실제 권한을 가지고 일을 수행하는 에이전트 단계로 진화했다.",
+        "AI 에이전트는 사람을 직접 대체하기보다, 사람이 사용하던 소프트웨어와 SaaS 구조를 먼저 흔들고 있다.",
+        "데이터 중심의 기업과 API 중심 구조를 가진 기업은 AI를 내재화하여 더 강해질 수 있다.",
+        "반복 클릭 및 정형 업무 중심의 서비스는 AI 에이전트 시대에 압박받을 수밖에 없다.",
+        "AI는 확률 모델이기에 고위험 영역(금융, 계약 등)에서는 승인 등 최종 결정 권한은 사람에게 맡겨지는 형태가 될 것이다."
       ],
       "transcript_highlights": [
-        "Slack, Telegram, Discord에 Claude Code를 연동하려 한다면 멈추세요.",
-        "모든 메시지가 30초씩 걸렸고, 방금 한 말을 기억 못 하고, 파일 접근도 안 되고, 실제 업무에는 완전히 쓸모없었습니다.",
-        "속도를 높이는 유일한 방법은 이미 내고 있는 100달러 구독료에 더해 API 사용료를 내는 것이었습니다.",
-        "그러다 전체 빌드를 대체하는 명령어를 하나 찾았습니다. 휴대폰에서 Claude Code 전체를 사용할 수 있습니다. 이미 내고 있는 구독료에 포함된 동일한 메모리, 동일한 파일, 동일한 도구를 사용할 수 있습니다.",
-        "설정하는 데 60초가 걸립니다. 정확히 어떻게 하는지 보여드리겠습니다."
+        "클러드 코워크는 단순한 채봇이 아니라 파일에 접근하고 업무를 여러 단계로 나누고 실제로 작업을 끝까지 수행하려는 디지털 동료 컨셉입니다. 즉 말 잘하는 AI가 아니라 일을 대신하는 AI라는 거죠.",
+        "오픈 클론은 더 극단적이었습니다. 로컬에서 돌아가고 메신저와 연결되고 사용자 개정 권한을 활용해서 직접 행동하는 구조.",
+        "AI가 사람을 대체한다면서 왜 소프트웨어 주가가 먼저 떨어지지? 이 질문이 핵심입니다. AI는 사람을 바로 대체하지 않습니다. 먼저 압박하는 건 사람이 쓰던 소프트웨어죠.",
+        "AI는 이제 읽고 요약하는 단계가 아니라 업모를 끝까지 밀어붙일 수 있다.",
+        "마이크로소프트 코파일러 같은 경우에도 엑셀 팀즈 아 위에서 사용자의 클릭을 줄여주죠. 세이즈 포스는 에이전트 포스를 통해 CRM 내부에 에이전트를 심고 있습니다. 이건 방어 전략인 거죠."
+      ],
+      "top_comments": [
+        {
+          "video_id": "StiEQQcMusY",
+          "comment_id": "UgzDDZovs_HVgVJDU5d4AaABAg",
+          "author": "@턴-s3o",
+          "text": "API 비싸서 내가 함",
+          "like_count": 12,
+          "reply_count": 0,
+          "published_at": "2026-03-15T03:02:23Z"
+        },
+        {
+          "video_id": "StiEQQcMusY",
+          "comment_id": "UgwinEzia15pJQnsXCd4AaABAg",
+          "author": "@enslow",
+          "text": "아직까진 AI는 그냥 어시스트 정도.",
+          "like_count": 3,
+          "reply_count": 0,
+          "published_at": "2026-03-15T04:17:24Z"
+        },
+        {
+          "video_id": "StiEQQcMusY",
+          "comment_id": "UgzWqIoVtdli39n-Q5d4AaABAg",
+          "author": "@제빵사-l3v",
+          "text": "소프트웨어 업체들은 발 빠르게  대처 하지 않으면 끝장나겠지  소프트웨어 업체라고 항상 혁신적이고 빠르게 발전 하지 않듯이 도태되거나 사라질 업체들은 많은 듯\n이제 예전에 항성 AI전문가 들이나 업체의 CEO 들이 말했듯이 진짜베기 업체들 만 남을거고 거기에 돈이 몰리게 될거다 했으니까",
+          "like_count": 2,
+          "reply_count": 0,
+          "published_at": "2026-03-15T03:16:49Z"
+        },
+        {
+          "video_id": "StiEQQcMusY",
+          "comment_id": "UgzNvv3uhsRGnDdg9Ll4AaABAg",
+          "author": "@1DollarPacer_SY",
+          "text": "요즘 SAAS 투자 사모펀드 문제도 심각한데 공학 분야 기술적 내용 잘 배워갑니다 😊",
+          "like_count": 1,
+          "reply_count": 0,
+          "published_at": "2026-03-15T03:29:38Z"
+        },
+        {
+          "video_id": "StiEQQcMusY",
+          "comment_id": "UgwW6Hnr8FVp1FAJ98B4AaABAg",
+          "author": "@galsys",
+          "text": "참 좋은 해석입니다. ❤",
+          "like_count": 0,
+          "reply_count": 0,
+          "published_at": "2026-03-15T04:58:12Z"
+        }
+      ]
+    },
+    {
+      "video_id": "TU9tV2EF-64",
+      "channel_key": "uc3nktpxh9de0md3hvcpb7sw",
+      "title": "AI Makes Pokémon",
+      "description": "This video is straight to the point. I made the 3 most POWERFUL AI currently (ChatGPT 5.4, Gemini 3.1, Claude Opus 4.6) work together and make a Pokémon clone game within 60 minutes.\n\nDesign.com: https://www.design.com/\nMini Monster Quest (Pokémon clone game): https://minimonsterquest.netlify.app/\n\n0:00 Intro\n0:29 ChatGPT 5.4\n4:23 Gemini 3.1 Pro (Google AI Studio)\n8:13 Claude Opus 4.6\n8:59 Design.com \n10:00 Results: 3 AIs Make Pokémon From Scratch",
+      "published_at": "2026-03-14T23:55:05Z",
+      "duration_seconds": 673,
+      "view_count": 3016,
+      "like_count": 288,
+      "comment_count": 92,
+      "engagement_rate": 0.1259946949602122,
+      "thumbnail_url": "https://i.ytimg.com/vi/TU9tV2EF-64/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=TU9tV2EF-64",
+      "format": "뉴스 분석",
+      "hook_type": "문제 해결",
+      "title_pattern": "핵심 포인트 직설형",
+      "one_line_summary": "3가지 강력한 AI(ChatGPT, Gemini, Claude)를 협력시켜 60분 안에 포켓몬 클론 게임 '미니 몬스터 퀘스트'를 만드는 과정을 보여줍니다.",
+      "why_it_works": "AI 기술의 최신 동향과 흥미로운 게임인 포켓몬을 결합하여 시청자의 호기심을 자극합니다. '60분 안에 완성'이라는 명확한 도전 과제와 3가지 AI의 각기 다른 역할을 보여주며 기술 시연과 함께 흥미를 유발합니다. 포켓몬이라는 대중적인 IP를 활용하여 높은 관심도를 이끌어내고, AI가 실제 게임을 만들어내는 과정을 시각적으로 보여주는 것이 매력적입니다.",
+      "recommendation": "• AI 3종 조합의 역할 분담 명확화: 각 AI가 구체적으로 어떤 역할을 했는지, 어떤 부분에서 강점을 보였는지 좀 더 명확하게 설명하면 기술적 깊이를 더할 수 있습니다. • 결과물에 대한 비평적 분석 추가: 단순히 '만들어졌다'를 넘어, 완성된 게임의 장단점, 상업적 가능성 등에 대한 비평적 시각을 덧붙여 콘텐츠의 깊이를 더하세요. • 썸네일: 'AI 3종 최강 조합으로 60분 컷! 닌텐도도 놀란 포켓몬 클론 탄생?!' 와 같이 강력한 AI와 결과물에 대한 기대감, 그리고 경쟁사(닌텐도)를 은근히 언급하며 호기심을 유발하는 문구를 사용하세요. • 다음 단계 제시: 완성된 게임을 스팀에 출시하겠다는 언급처럼, 프로젝트의 다음 단계를 구체적으로 제시하여 시청자들의 지속적인 관심을 유도하세요. • 챌린지 시간 관리 시각화: 60분이라는 시간 제한을 더욱 강조하기 위해, 각 AI별 작업 시간이나 남은 시간을 시각적으로 보여주는 타이머 효과 등을 추가하는 것을 고려해보세요.",
+      "transcript_status": "available",
+      "transcript_source": "apify",
+      "transcript_language": "en",
+      "transcript_text": "The premise of this video is I want to\nmake Pokemon in 60 minutes with three AI\nthat I think are the strongest\ncurrently, which is Chad GBT 5.4\nThinking Model, Google AI Studio with\nGemini 3.1 Pro, and Claude Opus 4.6\nextended version. And with these three\nAIs, I will have an hour to make Pokemon\npretty much. And if this Pokemon clone\nis actually good, I will publish it to\nSteam and we're going to see how far\nthat goes. Like and subscribe, bro, cuz\nthis is about to be a uh interesting\nvideo to say the least. All right, the\nclock is ticking. First, I was thinking\nof acting Chad GBT to actually give me\nan outline on how I can do this with\nthese three AI. So, let me just ask it.\nHow can I make\nPokemon in 60? Oh my god, my grammar,\nbro. Holy moly. All right, Chadbt, give\nme the game plan. I don't even want to\nbe thinking here. Obviously, I'll give,\nyou know, some creative edge. Uh, I\ndefinitely want my Pokemon battle\nmonsters to be creative looking. But\nalso, we're on a time crunch here. 60\nminutes. I want to see what these three\nAI's got cuz they will be pretty much\nworking together. And while it's\nloading, I do want to give some lore on\nmyself. My first game console I ever got\nwas a 3DS. And my first game I ever\nbooted up on that 3DS was Pokemon\nYellow. Some little lore, you know, some\nte lore. Okay, so Chad GBT will be the\ndirector. Interesting. Gemini will make\nthe building, the first build, the full\nstack runtimes, npm support, blah blah\nblah. Okay, Claude will be the polisher,\nrefactor, and finisher. Okay, so it\nwants me to paste this in ChadBt. And\nthen Gemini will take that and create\nthe first playable version. Okay, and\nthen after that, Claude will fix and\npolish the generated game. Okay. And\nthen Chad GBT will be like the checker\nagain, I guess, and just identify like\nthe bugs at the end. Anyways, let's just\nget right into it. Honestly, it's pretty\nmuch just telling me use ChadBt as a\nbase game and then try to develop it\nmore with Gemini. All right, let's just\npaste in what Chad gave me. is basically\njust telling it to make a Pokemon style\ngame that is realistic under 60 minutes.\nSo, it will be the most simple model.\nAnd let's really try to further develop\nit with Gemini. I really don't want this\ngame to be bad. So, that's why I'm\nactually like doing it in this format.\nIf you notice, this is different from\nother videos. I'm using three strong AIs\ninstead of like the typical 10 AIS or\nsix AIs. AI makes Pokémon. That's that's\nwhat this video is about. I want AI to\nmake a actual good playable Pokemon. All\nright. So, Chad just gave me a basic\nlayout of how the Pokemon game should be\nstructured. So, I'm going to tell it to\nmake the game as best as it can. You\nknow what I mean? I want to see how far\nChadvt itself can take this and spit it\nback to me. So, make me this Pokemon\ngame the best you can. Take your time.\nAll right. Give me your best shot here.\nSo, this will be the first iteration of\nour Pokemon game. Obviously, we cannot\nuse actual Pokemon. We're not trying to\nget copyright around here. I don't even\nthink Chad can produce that. They can\nprobably use the names, but not the\nimages. With Gemini though, I do want to\ncreate the images of my own special\nmonsters that we'll get there. We're\ngoing to get there. This is going to be\na good Pokemon game that we make from\nthis video. I promise you that. I will\nnot fail on one of my favorite games.\nBro, I really like this new chatbt. Is\nit like as it's thinking, it gives you a\nlittle update every single time it's\nlike done with the section. That's\nthat's really cool. Mini Monster Quest\nis what it called it. Okay, that's\ninteresting. So, it's finishing up the\ncode now. It's just so impressive every\nsingle time like I make one of these\nvideos and I could just see how much\ndifferent these AIs operate from when I\nfirst started making these AI game\ndevelopment videos cuz I feel like the\nbest way to really show how an AI is\nimproved is to make a game because it's\none of the biggest creative expressions\nyou can do. Tattoo is done coding the\nPokemon clone game or should I call it\nmini monster quest. Let's copy this and\nlet's paste it in here. Now let's run\nit. All right, here's Mini Monster.\nOkay, this is me. I guess my starter is\nember cub. A fire type ember cub is\ncrazy. Don't do my goat charmander like\nthat, bro. Wild creatures that generated\nso far is Sprattlele and Bubbleoo. So,\nthis is the patches of grass, I guess.\nSo, let's go inside of it and let's see\nif Okay, we have encountered Bubbleoo.\nYou know, this is not that bad. I'll be\nhonest. I was about to make fun of it,\nbut this is not that bad for not giving\nit any images. Chad GBT did pretty good\njob. This is better than what it would\nhave done like months ago. Oh, just\nattacking just does damage. Okay, I'm\nlevel five. It's level three. So, yeah,\nI'm wiping that. Okay, that's that's\npretty cool. Let's try to find a\nSproutle. Oh, another bubble. Okay, I'm\nI'm kind of low. I think I might die\nhere. Yeah, I died. Okay, so this is\nfirst iteration of Pokémon. It's not bad\nat all, actually. There's not much to\nimprove except for giving it images. So,\nthank you TajT for the base game. Now,\nlet's go to something a bit more\nprofessional. Google AI Studio. Here\nwe're going to we're going to take it to\nthe next level. Okay, so I pasted in the\nHTML file that that TajT made us. And\nI'm actually going to use the regular\nGemini to make some Pokemon for me. So\nI'm going to tell it to adapt it in AI\nStudio. So we can use make a super cool\nfire type Pokemon. It will be called\nFire Cub. So the name will be\nFire Cub. All right. I'm going to tell\nit to uh to create our image. Let's\nlet's see if Gemini can make us\nsomething cool here. And we will be\ndoing the same exact thing for the water\ntype and the grass type. Okay, this is\nfire. No pun intended. Yo, this is fire\ncup. All right. Um, let's download this.\nI actually really like this. What the\nheck? Let's do the same for our water\ntype, which is bubble, I'm pretty sure.\nWait, what was it called?\nUnpopular opinion. By the way, this\nmight make some of you mad. I love\nSquirtle, don't get me wrong, but I\ndon't like Blastoise. I don't know. I\njust don't like the design of Blastoise.\nThey They could have went somewhere else\nwith it. Okay, Gemini. I'm not going to\nlie, bro. What is this, man? Okay, so\nhere's what it made me. This is Bubble.\nIt definitely looks aggressive. Uh, it\nlooks like a ripoff of this bear cup.\nThis is our Gen One monsters, so I'll\ntake it. You know what I mean? It looks\nlike Squirtle, but if it had like\na terrible disease that I'm not going to\nsay. And then now, let's make our grass\ntype.\nThis is literally just a Pokemon. Yo,\nlet's reverse image search this. Yo,\nguys, look at this. I just reverse image\nsearch this. This is just a Pokemon,\nbro. Gemini, why did you copy Turwig?\nTurwig. This is a crazy name. Hey, this\nis something I can get behind. This is\ndefinitely not some level one Pokémon,\nthough. All right, whatever. We're We're\nusing it. This is like the most unique\nfreaking one of them all. Hey, let's\npaste all of our Pokemons that Gemini\njust made. I'm just going to tell AI\nStudio implement these Pokemon\nthat I just generated. Sorry, not\nPokemon. These monsters into my Pokemon\nclone game attached game to have a\nsimilar\nonboarding\nand game play\nfeel\nstyle like Pokemon Yellow. You know what\nI mean? I feel like that's best because\nPokemon Yellow could really run on a\nGame Boy. I want it to have like similar\ngameplay style like Pokemon Yellow. Make\nour Pokemon main character too. Kind of\nlike a red. Okay, this is definitely a\nlittle bit too much. All right, let's do\nit. Run. Gemini AI Studio. Please give\nus something good here. Hey, uh Gemini\nis done at It took 98 seconds to make\nthis. Okay, mini monster quest. Okay, we\nhave Professor. We have some dialogue\nhere. Weaken wild monsters before you\ntry to cast them. Good luck on your\nquest. Thank you, Professor. I'm\ncontrolling my character. Oh, okay. The\nsprites are not loading. Okay, that's\ndefinitely a problem. Let's let's let's\nrun this back. Interesting. So, Gemini\nfinally finished after I told her to\ncontinue. So, let's paste this in and uh\nlet's run this bad boy. Apparently, I\ndon't even need images. Gemini embedded\nthe image into the code. So, uh let's\nsee. Okay. Wa. They took this to heart.\nThey really made it Game Boy inspired\nhere. Welcome to the world of mini\nmonsters. Your own legend is about to\nunfold here. Take this ember cub. It\nwill protect you in the tall grass.\nOkay. The blue H pad heals your team.\nGood luck. Okay. So, this is me and this\nheals my team. So, this is the grass.\nOkay. Okay. I like where this is going.\nThis actually looks like Pokemon. I want\nthis zoomed in, though. While Spra\nappear, go Ember Cup. Okay. Sprattle's\nnot loading, but my Ember Cup is finally\nloaded in kind of. Okay, so this is not\nbad at all. Okay, you can use this as\ncontrol. So, you can play this on\nmobile. So, actually, I might keep this\ncuz you can play it on mobile. And I\nknow a lot of you guys out here like to\nplay my games on mobile. So, I guess\nI'll keep it. We have 6 minutes left of\nthe hour. I think we're going to go to\nClaude now cuz we need to give Claude\nsome time, bro. Basically, I'm just\ntelling Claude to update the models and\nthings like that cuz I want a more\nPokemon Yellowesque Pokemon game cuz\nthat's personally my favorite.\nObviously, the new ones are very good,\nbut I don't think it can create that.\nLet's be honest. So, Opus 4.6, go ahead\nand do your thing. I'm not going to lie.\nLet's be honest here. Opus 4.6 on\nextended thinking mode is likely going\nto go past 4 minutes. So, yes,\ntechnically speaking, we use more than\nan hour to develop our Pokémon game, but\nwe did develop it under an hour\ntechnically since I sent this prompt\nunder an hour. So, uh I'll just get back\nto you when Opus is done and I'll let\nyou know how much more time it took. Ben\nis due. So, here's a quick word from our\nsponsor today. Quick sponsor. If you\never tried starting an AI side hustle\nand your brand looks kind of cooked,\nlike the logo's mid, the banner doesn't\nmatch, and your Instagram posts look\nlike five different people made them,\nthis fixes that. This isdesign.com. It's\nnot a template site that AI slapped on.\nThis is a AI design platform that\ngenerates professional brand ready\ndesigns from the jump. It's got a\nmassive AI powered library, 400K plus\nlogos, and 1 million plus designs. So,\nyou're not stuck generating generic\nlooking stuff. And my favorite part, you\ncan literally edit with a chat prompt.\nLike, I wanted to change the skeleton to\na little boy. And it just does it. No\ndesign skills needed. Then it carries\nyour branding across everything. social\nmedia posts, business cards, even\npresentations, so your whole brand stays\nconsistent. Like look at this logo I\ndesigned for my YouTube channel. This\njust goes to show how many applications\nyou can use design.com for. Whether you\nwant to start a YouTube channel, grow\nyour business, design.com will get you\nright. If you're launching anything this\nyear, don't fumble the branding. Hit my\nlink in the description and try\ndesign.com. All right, now back to the\nvideo. All right, guys. Here is our\nfinal Pokemon game. I love this already,\nbro. Look at this, bro. Mini Monster\nQuest. I may actually fully develop this\nthing. This is awesome. All right, so\nlet's press start. Professor Elm,\nwelcome to the world of mini monsters.\nOkay, your very own legend is about to\nunfold. Here, take this fire cup plus\nheal. So, here's our character model.\nLooks way better than uh the one it had.\nSo, these are the patches of grass, I\nassume. So, okay. Wa. Why is there so\nmany fire cups? Yeah. Okay. Wait, let me\ntell Claw to fix our sprites. Okay, so\nit fixed it. So, let's press start\nagain. And now, let's run back into the\ngrass and Okay. Yep, it fixed it. So,\nthis is Firecub, our new model. And this\nis Sproutle Claw just made his own pixel\nart pretty much. And it's simpler. It\nIt's It's to the root of Pokemon, and\nthat's what I like. We're just going to\nkeep spamming Ender Ember until this guy\ndies. And okay, Fire Cub beat Sproutle.\nThat's what I like to see. Okay, this is\na successful Pokemon clone. Actually,\nhere it is. I actually just published\nmany Monster Quest for you guys to play.\nLink will be in the description. You\nguys can test out this Pokemon clone\nthat I just made in this video. And\nwhile you're down there testing out the\ngame I just made, why don't you uh hit\nthat sub button so we get 100K. Okay,\nhere is a random funny photo that I\nfound in my camera roll. So, I'll just\nleave you guys to think with this while\nI end the",
+      "analysis_date": "2026-03-15T05:45:34+00:00",
+      "channel_name": "tef",
+      "topic_tags": [
+        "Gemini",
+        "Claude"
+      ],
+      "keywords": [
+        "AI포켓몬만들기",
+        "60분게임개발",
+        "AI게임클론",
+        "ChatGPT게임개발",
+        "Gemini게임디자인",
+        "Claude게임완성",
+        "AI게임프로젝트",
+        "미니몬스터퀘스트"
+      ],
+      "tools": [
+        "ChatGPT",
+        "Claude",
+        "Gemini"
+      ],
+      "flow": [
+        "영상 소개 및 60분 내 포켓몬 클론 게임 제작 목표 제시",
+        "ChatGPT에게 게임 개발 개요 및 역할 분담 지시",
+        "ChatGPT를 활용하여 게임 기본 코드 생성 ('Mini Monster Quest' 명명)",
+        "Gemini(Google AI Studio)를 통해 몬스터 이미지 생성 및 게임 통합 시도",
+        "Claude Opus를 통해 게임 폴리싱 및 디테일 개선 작업 진행"
+      ],
+      "claims": [
+        "3가지 강력한 AI(ChatGPT 5.4, Gemini 3.1 Pro, Claude Opus 4.6)를 협력시켜 포켓몬 클론 게임을 60분 안에 만들 수 있다.",
+        "ChatGPT는 게임의 기본 구조와 코드를 생성하는 데 사용되었다.",
+        "Gemini는 독창적인 몬스터 이미지를 생성하고 게임 플레이를 개선하는 데 기여했다.",
+        "Claude Opus는 게임의 완성도를 높이고 퀄리티를 향상시키는 역할을 했다.",
+        "최종 결과물은 'Mini Monster Quest'라는 이름의 플레이 가능한 포켓몬 스타일 게임이다."
+      ],
+      "transcript_highlights": [
+        "The premise of this video is I want to",
+        "make Pokemon in 60 minutes with three AI",
+        "that I think are the strongest",
+        "The premise of this video is I want to make Pokemon in 60 minutes with three AI that I think are the strongest currently, which is Chad GBT 5.4 Thinking Model, Google AI Studio with Gemini 3.1 Pro, and Claude Opus 4.6 extended version.",
+        "And with these three AIs, I will have an hour to make Pokemon pretty much."
+      ],
+      "top_comments": [
+        {
+          "video_id": "TU9tV2EF-64",
+          "comment_id": "UgwToiEmKlDeDDjZPr14AaABAg",
+          "author": "@tef-AI",
+          "text": "Claude literally cooked so hard. My Goat 🥹",
+          "like_count": 21,
+          "reply_count": 8,
+          "published_at": "2026-03-14T23:56:39Z"
+        },
+        {
+          "video_id": "TU9tV2EF-64",
+          "comment_id": "UgxM7bjDnsZyXDTIAPp4AaABAg",
+          "author": "@Ethanproductionz",
+          "text": "The nintendo ninja are coming to your house",
+          "like_count": 11,
+          "reply_count": 1,
+          "published_at": "2026-03-15T00:00:38Z"
+        },
+        {
+          "video_id": "TU9tV2EF-64",
+          "comment_id": "Ugx5gAXkoxhIYnU1IDJ4AaABAg",
+          "author": "@spooky_455",
+          "text": "Lengedary refresh pull 🥹✌️",
+          "like_count": 4,
+          "reply_count": 0,
+          "published_at": "2026-03-15T00:18:09Z"
+        },
+        {
+          "video_id": "TU9tV2EF-64",
+          "comment_id": "UgzlI9uIAgIxM3IRcg54AaABAg",
+          "author": "@lexusupraisntfamous",
+          "text": "holy refresh pull",
+          "like_count": 3,
+          "reply_count": 0,
+          "published_at": "2026-03-15T01:09:08Z"
+        },
+        {
+          "video_id": "TU9tV2EF-64",
+          "comment_id": "UgxYK3TqTNwPI4uJghR4AaABAg",
+          "author": "@Tocen",
+          "text": "this video about to boom",
+          "like_count": 3,
+          "reply_count": 0,
+          "published_at": "2026-03-15T00:05:00Z"
+        }
+      ]
+    },
+    {
+      "video_id": "t6EKvMbXhK4",
+      "channel_key": "ucaberhdn6enbgyco2g98k-w",
+      "title": "Gemini Makes Roblox In Scratch vs From Scratch",
+      "description": "Gemini Makes Roblox 2x, first from scratch (with real code), then in scratch (with scratch blocks) 😖\n\nhttps://codewisp.ai/\n\ntry out the game here - https://codewisp.ai/p/9bcc8731-7d70-497b-bd70-47a06fe20c1e\n\nsubscribe if you like sloppy joe/\n\n00:00 Intro\n00:18 Gemini Makes Roblox From Scratch (Codewisp)\n07:14 Gemini Makes Roblox In Scratch",
+      "published_at": "2026-03-14T16:15:11Z",
+      "duration_seconds": 680,
+      "view_count": 11862,
+      "like_count": 457,
+      "comment_count": 56,
+      "engagement_rate": 0.04324734446130501,
+      "thumbnail_url": "https://i.ytimg.com/vi/t6EKvMbXhK4/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=t6EKvMbXhK4",
+      "format": "비교",
+      "hook_type": "문제 해결",
+      "title_pattern": "핵심 포인트 직설형",
+      "one_line_summary": "이 영상은 코딩 이슈를 비교 형식으로 압축해서, 지금 왜 이걸 봐야 하는지와 실제 활용 맥락을 보여주는 콘텐츠입니다.",
+      "why_it_works": "시청자의 흥미를 유발하는 문제 해결 훅과 비교 형식을 통해 내용을 빠르게 정리하여 '바로 써먹을 수 있다'는 느낌을 줍니다.",
+      "recommendation": "훅 구조: 도입부 15초 안에 '문제 해결' 관점으로 이슈를 명확히 하고, 왜 지금 봐야 하는지 먼저 제시하세요. • 활용할 포장 요소: 비교 형식을 유지하되, 코딩 관련 내용을 실제 사용 장면 1개와 결과 변화 2개로 좁혀 설명합니다. • 보완할 콘텐츠 영역: '코딩이 내 작업 흐름에 어떻게 적용되는가'를 사례 중심으로 보여주는 후속 영상이 필요합니다. • 추천 제목: '코딩 이슈, 내 채널 관점으로 다시 파헤치기' • 썸네일 카피 힌트: '지금 당장 코딩을 봐야 하는 3가지 이유!'",
+      "transcript_status": "available",
+      "transcript_source": "apify",
+      "transcript_language": "en",
+      "transcript_text": "Today I'm forcing Gemini to build Roblox\ntwice. First from scratch with real\ncode, then inside of the Scratch game\nengine. Let's see which one is better.\nNow for the first game, we're going to\nbe using a platform called Codewisp.\nIt's an AI game creation tool where\nGemini is going to build Roblox from\nscratch with real HTML and JavaScript.\nHuge thanks to Code Whisp for sponsoring\ntoday's video. I had Gemini create the\nstarting prompt for the game. We're just\ngoing to be starting off with an obby\ngame mode for now, but I have a couple\nother Roblox games I want to add to this\nafter the first prompt. Yeah, let's just\npaste this aside of Code Wisp. And we\ncan press next. This is going to be a 3D\ngame. And here we can select Gemini or\nOpus. Yeah, today we're just going to be\nusing Gemini. All right, so let's let's\nget it. Create the game. Yeah, right\nhere we can see exactly what the AI is\nthinking as it develops this game. All\nright, save. The game is ready to be\nplayed.\n>> Ooh. Okay, this first jump doesn't look\nvery possible, but I'm going to try my\nbest. I don't I don't think there's like\ncoyote time or anything, so it's really\nhard to it's really hard to get past\nthis. Wait, now the first jump is\nimpossible. If you could make the\ndistance between the first platform\nslightly short, make the menu more\nRoblox and make the character look like\nRoblox. All right, bet. Now we're\ntalking. I believe it's actually like\nthe Roblox font. Like this looks just\nlike the Roblox logo. Hopefully this\njump is possible now. You know, I want\nto test if I can die on this. Let's\nLet's jump to the red. Okay, bet. Yeah,\nthat works. Okay, make this jump. Make\nthis jump. What do we got here? Like a\nlike a tight rope. I don't think that's\ngoing to be very challenging. I feel\nlike I can kind of just walk across it\nlike that. Ooh, but we got to be careful\nhere. I think these things will push me\noff. Oh no. Or or I just or I just can't\ncollide with them. Okay. Okay. Maybe I\ncan like cheese it by jumping on the\nblack part in the center.\nYes. Uh this is the very end actually.\nOkay. Bet. That's it. I have a couple of\nthings I want to add here. Right now the\nplayer model is static. The obby would\nbe a lot better if there were more\nvertical parts in it such as staircases.\nOh my gosh, we got animations. Now the\nbiggest problem right now is that I\ncannot move my camera around. So yeah,\nI'll ask to fix that next time. But\nright now, let's uh focus on finishing\nthis. I'm going to cheese this part with\nmy new found method. Here we go. I think\nI can just skip these. Yeah, those are\nunnecessary. All right, bet. We made it\nto the top. I think I'm done working on\nthe obby for now. The next game I want\nto add is steal a brain rot. But this\nprompt that Gemini gave me is so bad.\nAnd the prompt, it gave us this feature\nthat's not even in steal a brain rot was\nadd a sensory overload meter that\nbrightness, but this part is good\nenough. And I also want to be able to\nlook around and move the camera. So I\nshould be able to look around with the\ncamera and it shouldn't be static and\nlocked. Yes. Steel brain rot is ready to\nbe played. Huh. Okay. So right now I'm\ncarrying a brain rot, but it seems I\nforgot adding bases to the game. So I\ncan't place it in my base. I think they\nall have the same texture. There's no\nway to tell them apart right now. So it\nwould be cool if it could add some\nactual like specific names for the brain\nrots. Please add different types of\nbrain rot and you need to add bases to\nthe game where you can drop off brain\nrots that you collect. All right, here's\nthe update we got now. Grimace shake\nuncommon. Grimace shake. I I don't I\ndon't think there's a grimace shake in\nsteel brain rot, but okay. Ohio riz.\nWhat? Skiiby toilet. So we got\nskiibbidity toilet, Ohio riz and grimish\nshake. I mean that's definitely brain\nrot, but it's not like Italian brain\nrot. You know what I'm saying? There are\nstill no bases. Add three bases on each\nside that have six slots each to place\nbrain rots. Also, add other AI players\nin the game that try to bring brain rots\nto their base and steal from your base\nas well.\n>> Wo! Oh my god. Okay. Okay. Wait, what is\nhappening? Where's my base, bro? Where's\nmy base at? AI base. AI base. Player.\nOh, my base is on the thing. What? I\ncan't place it down. My base is on the\nconveyor belt.\nAll right. This is it. This is it right\nhere. Okay, it fixed the bases. Let's\nsee if the AIs Oh my god, they can place\nit in their base. Let's go. All right,\nwhere are we going for here? Ohio res.\nPlace it in my base. And it's generating\nmoney right now. Wait, what is that?\nMewing streak legendary. I haven't even\nseen that on the conveyor belt. It's\nkind of weird how the game sort of just\nstops eventually. It's as if they just\nlogged off and the conveyor belt stop\ngiving new brain rods. Make sure the AIs\nkeep playing the game and don't freeze.\nAll right, now everything should be\nfixed. Oh, this guy this guy has the uh\nmewing streak. Legendary mewing streak.\nDon't mind if I do. Yo. Yo, this this\nguy just took it right away. What is up\nwith this guy stealing everyone's\neveryone's brain rots? Why is he the\nonly active player left? Yeah, let's\nmove over to the next game now. I was\nthinking of doing 99 Nights of Forest,\nbut I really hate that game. But the\nother game I want to do is Grow a\nGarden, which I actually enjoy. I can't\nlie. I grinded this game for at least a\nweek. Yeah, I'm just going to paste this\npart inside of Code Wisp. Grow a garden\nis now in the game. Bet. Let me full\nscreen this. Let's see what we got.\nOkay, so we just have one garden here. I\ndon't think there's any seeds that we\ncan place to grow crops. All I see is a\nbuy sprinkler button, but we have zero\nshekels, so we can't even buy that. The\nplayer should start off with five seeds\nin their inventory. And there should be\nother seeds you can buy with shekel. All\nright, game has been updated. We got\nourselves a seed shop right here. I\ndon't know what's going on here. I don't\nknow if I'm able to buy anything from\nhere. And it says we have five seeds,\nbut can I place them? I don't know.\nRight now, the store doesn't have any\nfunctionality, and I can't place any\nseeds. Oh, okay. Oh, wait. I just Hold\nup. I just I just placed a plant. It\nworked. All right. Let me Let me place a\ncouple plants here. Um, I guess we'll\njust place them all right here. Oh, this\none's already growing. Huh. I I wonder\nwhat it's going to look like. Oh, wait.\nIt's ready to be harvest. I wonder if\nthey can get mutations or anything. But\nfor now, I'm just going to harvest all\nthese. And then I'm going to take them\nto the place where we sell them. So,\npress E to sell crops. Hey, now we have\n25 shekels. So, now we can buy seeds.\nAnd we have a shop that pops up here.\nNormal seed cost 10. Bro, I just sold\nfive normal seeds for 25 shekels. That's\nnot fair. Make the crops give you a lot\nmore shekels when you sell them. That's\nthe only change we need. All right, here\nwe go. Uh, the update has been made. So,\nI'm going to spam those. Wait for them\nto be finished. Sell them. And hopefully\nwe can afford at least like two valuable\nseeds.\nLet's sell these here. Oh, 750 shekels.\nOh my god, I'm about to get so rich.\nJust bought 15 valuable seeds. All\nright. Yeah, let's just spam these\neverywhere. I was expecting them to look\ndifferent, but that's fine, I guess.\nLet's see how much we can sell these\nones for. Let's see. 7,500.\nThat's the last thing we can try is the\nfast seed. I want to fill up the entire\ngarden with fast seeds. I'll just buy\nlike 67.\nOh, we didn't have enough. Holy smokes.\nI'm going collect all these and let's\nsee how much selling 67 plants is worth.\nI think that's going to get me to like\n24k cuz these aren't like the valuable\nseeds, so they shouldn't be worth too\nmuch. Oh, 15k. Okay, whatever. Whatever.\nAll right. Yeah, that's going to wrap it\nup for this game. I'm so happy with how\nthis turned out, honestly. All right.\nNow, I'm just going to rename this\nproject to Roblox. Go to view project\npage. I can just make this public. And\nnow the game should be published on the\nplatform. All right. Now, it's time to\nmake Roblox inside of Scratch. I think\nthis is my first time using Scratch,\nactually. I don't know really what to\nexpect here, but Gemini is going to\nguide me through the whole entire thing.\nIt's going to give me the sprites I use\nand all that stuff. So, I think I'll\nonly be able to make an obby at most.\nSo, I'm going to prompt Gemini to give\nme all the steps for that and to\ngenerate all the sprites I need.\nAll right. So, this will be my prompt\nfor Gemini. Said, \"I'm making a Roblox\nobby\n>> and how to set up the sprites. I'm going\nto need you to make two sprites for\nRoblox new character, a platform.\"\n>> All right. So, it gave me all the steps\nright here. I just needed to generate me\nthe three sprites. I want the sprites to\nbe in 2D, though, like 2D versions of\nRoblox sprites. Okay. Okay. I'm not I'm\nnot mad at this. Now, I need a 2D\nplatform block in that style. There we\ngo. There we go. There we go. That's\ngood. Now make a red hazard to a block.\nWhat is this? This is just a red brick.\nIt doesn't look like a hazard. Make it\nlook hazardous. Oh my god, bro. What is\nthat? All right, bro. I'm just going to\nuse a red block. Whatever. We're going\nto have to get rid of this default\nsprite. Now I just got to figure out how\nto get sprites inside of Scratch. First\nof all, let's make a background for the\nsky. Ooh, okay. This works. This works.\nThere we go. Perfect. Oh, choose a\nsprite. Okay, we can upload sprites\nright here. Oh, bet. There they are. Oh,\nI can just drag these around like that.\nOh, say less. All right, I want the obby\nto kind of be like this and then like\nyou have these red things right here\nthat you have to you have to dodge. All\nright, the game is coming together very\nnicely now. I think we need to add some\ncode though. All right, so coding player\nmovement. Platformers need gravity so\nthe player falls down. Oh, really?\nInside the forever loop, we need\ncontrols for moving side to side.\nYo, we have movement working in our\nScratch game. I mean, that is\nimpressive, dude. Let's go. All right,\nnow it's time to add gravity and\njumping. Uh, which is like the most code\ninensive part.\nUh-oh. Chat, I have kind of a problem\nhere. Basically, I have all these\nseparate floors and I would have to\nselect each separate one and then set\nphysics on each one individually. So, I\nwonder if there's a way around that.\nThere should be. I'm going to ask\nGemini, though. All right. So, instead\nof dragging separate um platforms in the\nscene, it looks like we're going to have\nto write some code on this one and then\nmake clones of it when we started the\ngame.\nOkay. So, now when I press play, we get\nthree of these blocks that just spawn\nright away. So, that's perfect. That's\nwhat I love to see. Now we can go back\nto working on the player's movement.\nOh shoot. Okay, we should actually have\nmovement now. I think this should fully\nwork. Oh my gosh. There we go. And we\ncan and we can jump. We kind of like\nsink into it for a little bit, which is\nkind of weird. Now, one of the last\nthings we need to do here is coding the\ndanger. Make the red block deadly. The\nplayer touched it. It reset the start.\nSet Y velocity to zero. And that should\nbe that should be it. We just need to\nplace these hazards inside of the scene.\nSo, yeah, let me do that real quick.\nOkay, now we should see one of these\nhazards in the scene when we start it.\nThere it is. Okay, I don't think I can\nreach it. I think I think these blocks\nare blocking me. No pun intended. Let me\nincrease. All right, much better. Oh,\nthere we go. It kills us. Now I just\nneed to set up the level and we'll have\na finished Roblox obby inside of\nScratch.\nOh, perfect. There we go. Our game is\nnow finished. Okay, so those are the two\ntough parts with the hazards. You make\nit past them. This is the finish line\nright here. You win the game if you make\nit to this block. This is one of the\nbest things I've ever made in my life.\n>> Right, let's compare this to our code\ngame.\n>> So, here's the obby for Code Wisp. This\nis definitely a little bit better than\nwhat we made in Scratch.\nAnd then we also have steal a brain rot\nand we have grow a garden. Let me know\nwhich game you guys think is better. And\nyeah, make sure you go check out Code\nWhisp. There will be a link to them in\nthe description. And there'll also be a\nlink to the game if you guys want to go\nplay it for yourselves.",
+      "analysis_date": "2026-03-15T05:45:36+00:00",
+      "channel_name": "Minimunch",
+      "topic_tags": [
+        "coding",
+        "comparison",
+        "news"
+      ],
+      "keywords": [
+        "coding",
+        "comparison",
+        "news",
+        "Gemini",
+        "Makes",
+        "Roblox",
+        "In"
+      ],
+      "tools": [
+        "Gemini"
+      ],
+      "flow": [
+        "영상 시작 15초 안에 문제를 명확히 정의하고, 시청자가 왜 지금 이 영상을 봐야 하는지 확실하게 각인시킵니다.",
+        "중반부에서는 툴, 사례, 비교 포인트를 빠르게 제시하여 정보 전달력을 높입니다.",
+        "마무리 단계에서는 시청자가 즉시 따라 할 수 있는 다음 행동 지침과 적용 사례를 제시하며 마무리합니다."
+      ],
+      "claims": [
+        "단순 소개보다 실제 사용 장면을 바로 보여주는 구성이 시청자 반응을 이끌어냅니다.",
+        "거시적인 담론보다는 작은 병목 현상을 해결해주는 접근 방식이 클릭률을 높이기 쉽습니다."
+      ],
+      "transcript_highlights": [
+        "오늘은 Gemini가 Roblox를 두 번 만들게 시킬 겁니다.",
+        "처음엔 실제 코드로 처음부터 만들고,",
+        "그 다음엔 Scratch 게임 엔진 안에서요.",
+        "오늘은 Gemini가 Roblox를 두 번 만들게 시킬 겁니다.",
+        "처음엔 실제 코드로 처음부터 만들고,"
+      ],
+      "top_comments": [
+        {
+          "video_id": "t6EKvMbXhK4",
+          "comment_id": "Ugyx4Yug6tSAl7nkSsh4AaABAg",
+          "author": "@tdplayz_official",
+          "text": "The graphics on the first one are so similar to Roblox’s graphics",
+          "like_count": 9,
+          "reply_count": 1,
+          "published_at": "2026-03-14T16:52:37Z"
+        },
+        {
+          "video_id": "t6EKvMbXhK4",
+          "comment_id": "UgwUvMvNdYnwkUqDqoB4AaABAg",
+          "author": "@Robob_support",
+          "text": "6:11 i remember that music i think it comes from ern",
+          "like_count": 1,
+          "reply_count": 0,
+          "published_at": "2026-03-14T18:57:41Z"
+        },
+        {
+          "video_id": "t6EKvMbXhK4",
+          "comment_id": "UgxJL_b0udOrFdwgH7p4AaABAg",
+          "author": "@RandompersonthatisfromUSA",
+          "text": "Why am I so addicted to this guys videos 😭",
+          "like_count": 1,
+          "reply_count": 0,
+          "published_at": "2026-03-14T18:46:57Z"
+        },
+        {
+          "video_id": "t6EKvMbXhK4",
+          "comment_id": "UgzWb_rLMrGPNd8N2vB4AaABAg",
+          "author": "@SquarzTheGo",
+          "text": "thick of it wa splaying when ot was sped up 😂😂😂",
+          "like_count": 0,
+          "reply_count": 0,
+          "published_at": "2026-03-15T02:50:36Z"
+        },
+        {
+          "video_id": "t6EKvMbXhK4",
+          "comment_id": "Ugx13QvY1OX6UnepuXF4AaABAg",
+          "author": "@gauthierdelesquen",
+          "text": "when the video's concept is based on a pun 🤣",
+          "like_count": 0,
+          "reply_count": 0,
+          "published_at": "2026-03-14T23:25:44Z"
+        }
+      ]
+    },
+    {
+      "video_id": "1FAoyTUxrHQ",
+      "channel_key": "ucn2rjfaa1ndipnvjsyawwow",
+      "title": "Stop Using Claude Code in Slack, Telegram, and Discord. Do This Instead",
+      "description": "📥 Download The Full AI Clone Automation for Free! https://skool.com/ai-mate/about\n🤙 Book an AI Strategy Call: https://calendly.com/aiandy/1on1\n\nThis is the full breakdown of how to build and automate your personal brand using AI — from idea sourcing to publishing across every major platform.\n\nHere's what I cover:\nUnderstanding why Slack, Telegram, and Discord bots give you a broken version of Claude Code — no memory, 30-second response times, and zero access to your files\nDiscovering the hidden cost trap that has you paying twice for a worse experience than what you already have\nSetting up Claude Remote Control in 60 seconds with four steps — no code, no API key, no extra cost\nControlling your full Claude Code session from your phone with the same memory, same files, and same speed as your desktop\nChecking your content plan, reading your notes, updating files, and running real tasks — all from your couch, on your phone\nReplacing days of bot building with one command that should have been the answer from the start\n\nIf you're a creator, founder, or entrepreneur trying to use Claude Code on the go, this video shows you exactly why bots always feel broken — and the built-in feature that fixes everything without paying extra. I break down the exact setup, the real reason chat bots fail, and the mistakes I made so you don't have to.\nTools & Platforms Covered:\nClaude Code — the full agentic AI experience, now on your phone\nClaude Remote Control — the built-in feature that replaces every bot you've ever built\nCLAUDE.md — how your phone session picks up exactly where your desktop left off\nStop building bots that don't work. One command gives you the full Claude Code experience from anywhere — included in what you're already paying for.\n\nLINKS\n↓\n\nClick Here to Start AI Agent Building (New Free):\nhttps://skool.com/ai-mate/about\n\n- - - \n0:00 // Intro\n1:22 // The Problem\n2:50 // The Real Bottleneck\n4:53 // What I found before this?\n6:43 // The Real Answer\n8:00 // Setting It Up\n10:19 // What You Can Actually Do With It\n- - -\n\nFollow me on Twitter: https://twitter.com/itsaiandy\n\nFollow on Tiktok: https://www.tiktok.com/@andyhafell\n\nFollow on Instagram: https://www.instagram.com/itsaiandy\n\nFollow on Facebook: https://www.facebook.com/Andyhafell\n\nEmail for Business Inquiries: biz@aiandy.ai",
+      "published_at": "2026-03-14T14:28:47Z",
+      "duration_seconds": 715,
+      "view_count": 481,
+      "like_count": 30,
+      "comment_count": 3,
+      "engagement_rate": 0.06860706860706861,
+      "thumbnail_url": "https://i.ytimg.com/vi/1FAoyTUxrHQ/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=1FAoyTUxrHQ",
+      "format": "워크플로우 튜토리얼",
+      "hook_type": "문제 해결",
+      "title_pattern": "핵심 포인트 직설형",
+      "one_line_summary": "이 영상은 agents 이슈를 워크플로우 튜토리얼 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "why_it_works": "문제 해결 훅으로 관심을 끌고, 워크플로우 튜토리얼 형식으로 내용을 빠르게 정리해 시청자가 '바로 써먹을 수 있다'고 느끼게 만듭니다.",
+      "recommendation": "훅 구조: 도입 15초 안에 '문제 해결' 관점으로 문제를 못 박고, 왜 지금 봐야 하는지 먼저 선언합니다. • 복제할 포장 요소: 워크플로우 튜토리얼 형식을 유지하되 agents를 실제 사용 장면 1개와 결과 변화 2개로 더 좁혀 설명합니다. • 비어 있는 콘텐츠 영역: 'agents가 내 작업 흐름에서 어디에 꽂히는가'를 사례 중심으로 보여주는 후속 영상이 비어 있습니다. • 추천 제목: agents 이슈를 내 채널 관점으로 다시 정리해보자 • 썸네일 카피 힌트: agents 지금 봐야 할 3가지",
+      "transcript_status": "available",
+      "transcript_source": "apify",
+      "transcript_language": "en",
+      "transcript_text": "If you're trying to get clawed code into\nSlack, Telegram, or Discord, stop. I\njust spent three days building the\nperfect AI assistant I could message\nfrom my phone. And every single message\nstill took 30 seconds. No memory of what\nI just said, no access to my files,\ncompletely useless for real work. And\nthe worst part, the only way to make it\nfast was to pay for API access on top of\nthe $100 subscription that I was already\npaying for. So I got to literally pay\ntwice for a worse experience. Then I\nfound one command that replaced the\nentire build. Full clawed code on my\nphone. Same memory, same files, same\ntools included in what you're already\npaying for. 60 seconds to set up. I'll\nshow you exactly how so by the end you\nalso got this set up on your phone.\nWelcome to the Build Your AI employee\nseries episode 3. Hey, if you don't know\nwho I am, my name is Andy Afel. I help\nfounders go from doing everything\nmanually to building a business that\ngrows without them. Real results, no\ncode, no grind. Members are already\nautomating full video pipelines and\nbuilding tools to save them thousands.\nAnd if that sounds like something you're\ninterested in, subscribe because freedom\nis the actual goal. Now, let me tell you\nabout the problem. So, here's what I\nwanted. I wanted to use Claude code from\nmy phone. The same AI assistant that I\nuse on my computer, the one that knows\nmy projects, remembers our\nconversations, and can read my file,\nupdate my databases, check my to-do\nlists. I just wanted to do that on my\nphone so I could check everything on the\ngo. And the obvious answer that everyone\nsuggests, build a bot in Telegram,\nSlack, or Discord. So that's what I did.\nAnd on the surface, it sounds great. You\nmessage the bot. It talks to Claude.\nClaude responds. Simple. Here's what\nactually happens. Every single message\nyou send starts a brand new\nconversation. Claude has zero memory of\nwhat you asked just 5 seconds ago. You\nsay, \"Show me my content plan.\" It\nresponds. You say, \"Now update step\nthree.\" And it has no idea what step\nthree is, no idea what content plan, no\nidea who you are. Every message is like\ntalking to a stranger. On top of that,\nit's slow. Like painfully slow. 30\nseconds for a simple response. The same\nthing that takes 2 seconds on your\ncomputer takes 30 seconds through a bot.\nAnd this isn't a Telegram problem. Slack\ndoes the exact same thing, and Discord\ndoes, too. Every messaging platform has\nthe exact same issue because the problem\nisn't the platform, it's the whole\napproach of trying to pipe Claude\nthrough a chat app. The real bottleneck.\nSo why is the desktop experience so good\nand the bot experience so bad? Let me\nexplain this simply because once you\nunderstand this, everything clicks. When\nyou use Claude code on your computer,\nyou're in a live session. Claude\nremembers everything you've said. It can\nsee your project files. It loads your\ninstructions. It's fast. Two to three\nseconds for a response. And it's all\nincluded in your Clawed Max\nsubscription. You're already paying for\nthis. The problem is that the experience\nonly lives on your computer. The moment\nyou try to move it to Slack, Telegram,\nor Discord, you break it because those\nplatforms can't keep a live Claude\nsession running. Every time you send a\nmessage, it has to start a brand new\nClaude session from scratch. That's why\nthere's no memory. Each message is\nliterally a different conversation.\nThat's why it's slow. It takes time to\nstart a new session every single time.\nNow, here's the part that really\nfrustrated me. There is a way to make\nbots faster. You can use an API key.\nBasically, a direct line to Claude that\nbypasses all the startup overhead.\nResponses drop to two to three seconds.\nSounds great, right? except it costs\nmoney per message on top of the\nsubscription you're already paying for.\nI'm paying for Claude Max, which gives\nme almost unlimited Claude code on my\ndesktop. Fast, full memory. Everything\nworks. But to get that same experience\non my phone through a bot, I'd have to\npay again per message through the API.\nand I can't even access the files,\npaying twice for a verse version that I\nalready have. And that's the trap. And\nthat's exactly where I was stuck for 3\ndays. I kept thinking there had to be a\nway to get my desktop cloud experience\non my phone without paying extra. And\nspoiler, there is, but it's not a bot.\nWhat I found before this, if you've\ntried, you may relate to this solution.\nI spent [snorts] three days trying to\nfix the bot approach. I figured out the\nbutt is so slow and dumb. Maybe I can\nmake it smarter and faster. So, the\nfirst thing I tried, I gave Claude more\ninstructions up front. I wrote out all\nmy database ideas that are my air\ntables, my common commands, the skills,\neverything it would need to know. That\nway, it wouldn't have to figure out this\nout from scratch every time. Did it\nhelp? a little responses went from 36\nseconds to maybe 25. Still way too slow.\nThen I tried giving it a conversation\nhistory. There's a way to load previous\nmessages to Claude that can see what you\nactually talked about before. In theory,\nthat gives you memory between messages.\nIn practice, it loaded so much more old\nconversation data that got it even\nslower. 40 seconds just on the prompt,\ncan you give me my content doc? It made\nit worse. The one thing that actually\nworked was shortcuts. Instead of asking\nClaude, show me my content plan, I built\na direct shortcut that goes directly to\nmy database and pulls the data. No\nClaude code involved 2 seconds. And that\nwas great for simple lookups, but the\nwhole point is to have Claude in the\nthinking, the reasoning, connecting the\ndots around my projects and stuff like\nthat. You can't shortcut that. So, I was\nstuck. The bot approach was\nfundamentally broken. Shortcuts only\ncovered the simple stuff and the API fix\nmeant paying twice. And that's when I\nfound what I should have been using from\nthe start, the real answer. Claude Code\nhas a builtin feature called remote\ncontrol. One command that you type in\nyour terminal, it gives you a QR code.\nYou scan that QR code with your phone\nand you're in. Not a [clears throat]\nbot, not a watered down version. The\nactual claw code experience on your\nphone. The same conversation memory,\nsame project file, same instructions,\nsame tools, the same personality. It can\nread files, make changes, search the\nweb, run commands. But here is why it\nworks. Your computer is doing all the\nwork. Your phone is just a window into\nthat session. Think of it like a\nsecurity camera. The camera is on your\ncomputer and your phone is just watching\nthe feed and sending commands. There are\nno middlemen, no new sessions, every\nmessage, no startup delay. You pick up\nexactly where you left off, even if you\nwere working on something at your desk\nand then walk away. And the best part,\nit's included in your Max plan. No API\nkey, no extra cost. You're not paying\ntwice. You're using what you're already\npaying for just from a different screen.\nI set this up in about 60 seconds and it\nreplaced 3 days of building bot. So, let\nme show you exactly how. Here's how to\nset it up. It takes four steps, about 60\nseconds. Works on Mac and Windows. Step\nnumber one, make sure your Claude code\nis up to date. So, just open your\nterminal and type claude dash dash\nversion. You need the version 2.1.51\nor later. If you're below that, just\ntype npm update-gropic-ai/codcode\nand it will update. Step two, open the\nfolder you want Claude to work in. This\nmatters because Claude loads its own\ninstructions from this folder. If you\nhave a claw.md file, which is basically\na cheat sheet that tells Claude about\nyour project, your tools, your\npreferences, it picks that up\nautomatically. To do this, you write cd\nand path to your project folder. This is\nhow it looks like to me. Enter. And\nwe're now in the cloud folder. Step\nnumber three, type claud space remote\ncontrol. Click on enter. And as you can\nsee, it's connected. You can see the\ncapacity right here. You can continue by\nusing the app or this link right here.\nAnd then I'm going to click on space and\nthe QR code pops up in the terminal.\nStep number four, scan that QR code with\nyour phone. If you have the Claude app,\nit opens directly in the Cloud app. If\nnot, you can also go to the browser.\nWorks the same way. I'll just scan it\nnow. It opened the claw app. I just have\nto click on code. And you'll now see\nthat there are some processes running on\nmy computer. And if I tap on it, it\nopens a completely new chat. Here I can\nask it, for example, can you send me a\nlink to the master content doc? Click on\nsend and it just sent me the link\nexactly like I was using it on my\ncomputer. That's it. You're in claw code\non your phone. Your computer needs to\nstay on. But if you're already using it\nas a workstation, it probably already\nis. And if your computer goes to sleep\nand wakes back up, it reconnects\nautomatically. You don't have to scan it\nagain. It shows up in the history in\nyour app. What you can actually do with\nit? Let me show you what this actually\nlooks like dayto-day. I'm sitting on the\ncouch and I want to check where I am in\nmy content plan. I open the Cloud app on\nmy phone. Type show me my work progress.\nAnd within 2 seconds, it pulls\neverything from my database. It knows\nexactly where to look because my Claude\nMD file has all those details. I didn't\nhave to explain anything. It's the same\nsession, same context. I can ask it to\nread my to-do list and tell me what I\nhave planned today. I can ask it to\ncheck my YouTube analytics. I can even\nask it to make changes to my files in my\nprojects from my phone. The conversation\njust carries over completely. If I was\nworking on a content dock at my desk, I\nwalk over to eat ramen. I just pick up\nmy phone and I keep going. If I say\nupdate step three to include the pricing\nsection, it knows exactly what I'm\ntalking about because it's the same\nthing. Compare this to the bot\nexperience, 30 seconds per response, no\nmemory, start from scratch every time.\nNow it's 2 to 3 seconds, full memory. I\ncan do anything I do on my computer.\nThis is the setup I wish I had from day\none. It would have saved me 3 days of\nbuilding bots that never worked right.\nAnd now you know how to do it, too. If\nyou want to build Claude code, right,\ncheck out the free community. If you're\nan online business that want to get more\nhands-on with this and me, book a call\ndown below. Subscribe for the next\nepisode of this series, and I'll see you\ntomorrow at",
+      "analysis_date": "2026-03-15T05:45:37+00:00",
+      "channel_name": "AI Andy",
+      "topic_tags": [
+        "agents",
+        "automation",
+        "research",
+        "coding",
+        "monetization",
+        "comparison"
+      ],
+      "keywords": [
+        "agents",
+        "automation",
+        "research",
+        "coding",
+        "monetization",
+        "comparison",
+        "Claude",
+        "Arc"
+      ],
+      "tools": [
+        "Claude",
+        "Arc"
+      ],
+      "flow": [
+        "처음 15초 안에 문제를 선명하게 정의하고 왜 지금 봐야 하는지 못 박는다.",
+        "중간 구간에서 툴, 사례, 비교 포인트를 빠르게 제시해 정보 밀도를 높인다.",
+        "마지막에는 시청자가 바로 따라할 수 있는 다음 액션과 적용 예시로 닫는다."
+      ],
+      "claims": [
+        "단순 소개보다 실제 사용 장면을 바로 보여주는 구조가 반응을 만든다.",
+        "큰 담론보다 작은 병목 하나를 해결해주는 포장 방식이 클릭으로 이어지기 쉽다."
+      ],
+      "transcript_highlights": [
+        "If you're trying to get clawed code into",
+        "Slack, Telegram, or Discord, stop. I",
+        "just spent three days building the",
+        "If you're trying to get clawed code into Slack, Telegram, or Discord, stop.",
+        "I just spent three days building the perfect AI assistant I could message from my phone."
       ],
       "top_comments": [
         {
           "video_id": "1FAoyTUxrHQ",
-          "comment_id": "UgxY9HI83SXWUYxk3oJ4AaABAg",
-          "author": "@loljeffe9995",
-          "text": "please stop wasting earths resources on this non-creative bs",
+          "comment_id": "Ugy2FazhE3OJVMi8C394AaABAg",
+          "author": "@jas.archviz",
+          "text": "Can I use this like openclaw? For example use other LLMs, Google Services like Nano Banana and connect it to other APIs if I want? Is this possible?",
           "like_count": 0,
-          "reply_count": 0,
-          "published_at": "2026-03-14T14:30:03Z"
+          "reply_count": 1,
+          "published_at": "2026-03-14T16:06:45Z"
         },
         {
           "video_id": "1FAoyTUxrHQ",
@@ -97,10 +423,10 @@
       "description": "",
       "published_at": "2026-03-14T09:15:25Z",
       "duration_seconds": 31,
-      "view_count": 7269,
-      "like_count": 90,
-      "comment_count": 5,
-      "engagement_rate": 0.013069197963956527,
+      "view_count": 11128,
+      "like_count": 120,
+      "comment_count": 6,
+      "engagement_rate": 0.011322789360172537,
       "thumbnail_url": "https://i.ytimg.com/vi/s1R4VUkrayw/hqdefault.jpg",
       "video_url": "https://www.youtube.com/watch?v=s1R4VUkrayw",
       "format": "뉴스 분석",
@@ -113,7 +439,7 @@
       "transcript_source": "apify",
       "transcript_language": "ko",
       "transcript_text": "요 어한 효과를 딱 넣으면 이렇게\n너무 귀여 반려 동물 반려견 키우시는\n분들 꼭 써 보면 좋을 거 같은데\n여러 스타일 적용하는게 이번에 추가가\n됐어요. 사진 누르고 AI 기능으로\n들어가서 보시면은 스타일 버튼이\n있는데요. 근데 특히 좋은 점 반려\n동물. 동물 사진을 넣으면 여기에\n뜨는 효과 중에 너무너무 귀여운 어한\n효과라는게 있는데요 어한 효과를 딱\n넣으면 이렇게 너무 귀여운 사진이\n완성이 되니까 여러분의 반려동물 제발\n이거 한번 해 보세요. 진",
-      "analysis_date": "2026-03-14T15:37:43+00:00",
+      "analysis_date": "2026-03-15T05:45:38+00:00",
       "channel_name": "주연 ZUYONI",
       "topic_tags": [],
       "keywords": [
@@ -151,21 +477,30 @@
         },
         {
           "video_id": "s1R4VUkrayw",
+          "comment_id": "UgxnmhC5biQfJPcQO5N4AaABAg",
+          "author": "@kgirl-0123",
+          "text": "주댕댕♡",
+          "like_count": 1,
+          "reply_count": 0,
+          "published_at": "2026-03-14T11:48:35Z"
+        },
+        {
+          "video_id": "s1R4VUkrayw",
+          "comment_id": "UgznjYZq6WeoJ6bSBfl4AaABAg",
+          "author": "@ramzi_ong",
+          "text": "귀엽다",
+          "like_count": 0,
+          "reply_count": 0,
+          "published_at": "2026-03-15T04:22:19Z"
+        },
+        {
+          "video_id": "s1R4VUkrayw",
           "comment_id": "UgyVUXiX2XNf3nN4wqx4AaABAg",
           "author": "@coaster783",
           "text": "써보고싶다👍",
           "like_count": 0,
           "reply_count": 0,
           "published_at": "2026-03-14T15:34:54Z"
-        },
-        {
-          "video_id": "s1R4VUkrayw",
-          "comment_id": "UgzQ6wNRxUIigV7zOnx4AaABAg",
-          "author": "@1000플랜트",
-          "text": "길고양이 찍은걸로 해봤는데 너무 귀엽네요",
-          "like_count": 0,
-          "reply_count": 0,
-          "published_at": "2026-03-14T13:56:51Z"
         },
         {
           "video_id": "s1R4VUkrayw",

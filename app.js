@@ -100,6 +100,22 @@ function formatDate(value) {
   return date.toLocaleDateString("ko-KR", { dateStyle: "medium" });
 }
 
+function kstDateKey(value) {
+  if (!value) {
+    return "날짜 없음";
+  }
+  const date = new Date(value);
+  if (Number.isNaN(date.getTime())) {
+    return "날짜 없음";
+  }
+  return new Intl.DateTimeFormat("sv-SE", {
+    timeZone: "Asia/Seoul",
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit",
+  }).format(date);
+}
+
 function formatDuration(value) {
   const seconds = Number(value || 0);
   if (!seconds) {
@@ -389,9 +405,9 @@ function currentNotionSourceUrl() {
 
 function groupVideosByDate(videos) {
   const groups = new Map();
-  const today = new Date().toISOString().slice(0, 10);
+  const today = kstDateKey(new Date().toISOString());
   videos.forEach((video) => {
-    const dateKey = (video.published_at || "").slice(0, 10) || "날짜 없음";
+    const dateKey = kstDateKey(video.published_at);
     if (!groups.has(dateKey)) {
       groups.set(dateKey, {
         date: dateKey,
@@ -781,7 +797,7 @@ function filteredVideos() {
       return false;
     }
     if (state.dateFilter !== "all") {
-      const dateKey = (video.published_at || "").slice(0, 10);
+      const dateKey = kstDateKey(video.published_at);
       if (dateKey !== state.dateFilter) {
         return false;
       }

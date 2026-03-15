@@ -1,106 +1,162 @@
 {
   "digest_date": "2026-03-15",
-  "generated_at": "2026-03-14T15:38:58+00:00",
-  "summary": "최근 24시간 영상 2개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'OpenAI'입니다. 특히 'GPT-5.4 Full Breakdown & AI News You Can Use'는 조회수 6.3K, 참여율 6.4%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "오늘은 'OpenAI' 주제를 단순 뉴스 요약으로 따라가기보다, 'GPT-5.4 Full Breakdown & AI News You Can Use'처럼 실제 사용 장면과 결과를 앞쪽에 배치하는 쪽이 유리합니다. 특히 문제 해결 훅과 뉴스 분석 포맷 조합을 눈여겨보세요.",
-  "telegram_preview": "📡 YouTube Insider _ v2\n\n🗓 최근 24시간 영상 2개\n\n🏆 오늘 최고 실적 영상\n• The AI Advantage\n• GPT-5.4 Full Breakdown & AI News You Can Use\n• 조회수 6.3K · 좋아요 334 · 댓글 68 · 참여율 6.4%\n\n📌 오늘 최고 실적 주제\n• OpenAI · 1개 · 평균 조회수 6.3K · 평균 참여율 6.4%\n\n💡 추천 제목\n• OpenAI 주제를 내 채널 관점으로 다시 잘라보자",
-  "video_count": 2,
-  "total_recent_video_count": 3,
+  "generated_at": "2026-03-15T05:47:02+00:00",
+  "summary": "최근 24시간 영상 4개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'Claude'입니다. 특히 'Gemini Makes Roblox In Scratch vs From Scratch'는 조회수 11.9K, 참여율 4.3%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "오늘은 'Claude'를 넓은 뉴스 묶음으로 따라가기보다, 'Gemini' 하나를 대표 썸네일로 세우고 실제 워크플로우 한 장면을 앞 20초 안에 보여주는 구성이 더 유리합니다. 업데이트 나열보다 '이 기능을 쓰면 뭐가 바로 빨라지는지'를 먼저 못 박는 편이 클릭과 시청 유지에 모두 좋습니다.",
+  "telegram_preview": "📡 YouTube Insider _ v2\n\n🗓 최근 24시간 영상 4개\n\n🏆 오늘 최고 실적 영상\n• Minimunch\n• Gemini Makes Roblox In Scratch vs From Scratch\n• 조회수 11.9K · 좋아요 457 · 댓글 56 · 참여율 4.3%\n\n📌 오늘 최고 실적 주제\n• Claude · 2개 · 평균 조회수 2.1K · 평균 참여율 6.3%\n\n💡 추천 제목\n• Claude를 리서치 실무에 붙이면 달라지는 3가지\n\n🔎 자세히 보기\nhttps://davidsteakhouse.github.io/youtube-insider-dashboard/",
+  "video_count": 4,
+  "total_recent_video_count": 5,
   "focus_scope": "ai_creator_priority",
-  "average_view_count": 3178.0,
-  "average_engagement_rate": 0.1414784978437949,
-  "average_like_count": 176.0,
-  "average_comment_count": 35.0,
-  "best_video_id": "ITWcvB1AZtk",
-  "best_topic": "OpenAI",
+  "average_view_count": 4782.0,
+  "average_engagement_rate": 0.07385601539929292,
+  "average_like_count": 242.0,
+  "average_comment_count": 44.0,
+  "best_video_id": "t6EKvMbXhK4",
+  "best_topic": "Claude",
   "summary_points": [
-    "가장 겹친 주제는 'OpenAI'이며 1개 영상, 평균 조회수 6.3K, 평균 참여율 6.4%입니다.",
-    "최고 실적 영상은 'GPT-5.4 Full Breakdown & AI News You Can Use'이며 문제 해결 훅과 뉴스 분석 포맷 조합이 강했습니다.",
-    "반복 노출된 툴은 Claude 2회, OpenAI 1회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
+    "가장 겹친 주제는 'Claude'이며 2개 영상, 평균 조회수 2.1K, 평균 참여율 6.3%입니다.",
+    "최고 실적 영상은 'Gemini Makes Roblox In Scratch vs From Scratch'이며 문제 해결 훅과 비교 포맷 조합이 강했습니다.",
+    "반복 노출된 툴은 Claude 3회, Gemini 2회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
   ],
   "action_chips": [
-    "주제: OpenAI",
+    "주제: Claude",
     "훅: 문제 해결",
-    "포맷: 뉴스 분석",
-    "기준 채널: The AI Advantage"
+    "포맷: 비교",
+    "기준 채널: Minimunch"
   ],
   "title_suggestions": [
-    "OpenAI 주제를 내 채널 관점으로 다시 잘라보자",
-    "GPT-5.4 Full Breakdown & AI News You Can Use에서 바로 뽑아온 후속 콘텐츠 아이디어",
-    "OpenAI를 지금 찍는다면 이렇게 포장하면 됩니다"
+    "Claude를 리서치 실무에 붙이면 달라지는 3가지",
+    "Claude 브리핑 워크플로우, 크리에이터가 바로 쓰는 방식만 정리",
+    "Claude 관련 영상이 몰린 날, 내 채널에 바로 적용하는 포장법"
   ],
   "recommendations": [
     {
-      "title": "OpenAI 주제를 내 채널 관점으로 다시 잘라보자",
-      "hook": "첫 15초에 '이번 업데이트에서 진짜 써볼 만한 것만 추려준다'는 약속을 분명하게 주는 구조",
-      "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
-      "thumbnail_copy": "OpenAI 바로 해결",
-      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
-      "source_video_id": "ITWcvB1AZtk",
-      "source": "GPT-5.4 Full Breakdown & AI News You Can Use"
+      "title": "Claude를 리서치 실무에 붙이면 달라지는 3가지",
+      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
+      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
+      "thumbnail_copy": "Claude 바로 해결",
+      "reason": "성능 비교 대신 '리서치와 문서 정리에서 Claude를 어떻게 배치하는지'를 보여주는 실무형 콘텐츠 영역이 비어 있습니다.",
+      "source_video_id": "StiEQQcMusY",
+      "source": "AI 때문에 진짜 소프트웨어 기업들이 무너지나... 누가 무너지고 누가 더 강해지는가 | OpenClaw | Claude Cowork | NanoBanana 2"
+    },
+    {
+      "title": "Claude 브리핑 워크플로우, 크리에이터가 바로 쓰는 방식만 정리",
+      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
+      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
+      "thumbnail_copy": "Claude 바로 해결",
+      "reason": "성능 비교 대신 '리서치와 문서 정리에서 Claude를 어떻게 배치하는지'를 보여주는 실무형 콘텐츠 영역이 비어 있습니다.",
+      "source_video_id": "1FAoyTUxrHQ",
+      "source": "Stop Using Claude Code in Slack, Telegram, and Discord. Do This Instead"
     }
   ],
   "topic_clusters": [
     {
-      "label": "OpenAI",
-      "count": 1,
-      "avg_view_count": 6261,
-      "avg_engagement_rate": 0.06420699568758984,
-      "avg_like_count": 334,
-      "avg_comment_count": 68,
+      "label": "Claude",
+      "count": 2,
+      "avg_view_count": 2125,
+      "avg_engagement_rate": 0.06309101108782722,
+      "avg_like_count": 112,
+      "avg_comment_count": 14,
       "source_titles": [
-        "GPT-5.4 Full Breakdown & AI News You Can Use"
+        "AI 때문에 진짜 소프트웨어 기업들이 무너지나... 누가 무너지고 누가 더 강해지는가 | OpenClaw | Claude Cowork | NanoBanana 2",
+        "Stop Using Claude Code in Slack, Telegram, and Discord. Do This Instead"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/ITWcvB1AZtk/hqdefault.jpg",
-      "representative_video_id": "ITWcvB1AZtk",
-      "representative_title": "GPT-5.4 Full Breakdown & AI News You Can Use"
+      "thumbnail_url": "https://i.ytimg.com/vi/StiEQQcMusY/hqdefault.jpg",
+      "representative_video_id": "StiEQQcMusY",
+      "representative_title": "AI 때문에 진짜 소프트웨어 기업들이 무너지나... 누가 무너지고 누가 더 강해지는가 | OpenClaw | Claude Cowork | NanoBanana 2"
     },
     {
-      "label": "Claude",
+      "label": "Gemini",
       "count": 1,
-      "avg_view_count": 96,
-      "avg_engagement_rate": 0.21875,
-      "avg_like_count": 19,
-      "avg_comment_count": 2,
+      "avg_view_count": 11862,
+      "avg_engagement_rate": 0.04324734446130501,
+      "avg_like_count": 457,
+      "avg_comment_count": 56,
       "source_titles": [
-        "Claude Code Remote Control Full Workflow Setup"
+        "Gemini Makes Roblox In Scratch vs From Scratch"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/1FAoyTUxrHQ/hqdefault.jpg",
-      "representative_video_id": "1FAoyTUxrHQ",
-      "representative_title": "Claude Code Remote Control Full Workflow Setup"
+      "thumbnail_url": "https://i.ytimg.com/vi/t6EKvMbXhK4/hqdefault.jpg",
+      "representative_video_id": "t6EKvMbXhK4",
+      "representative_title": "Gemini Makes Roblox In Scratch vs From Scratch"
+    },
+    {
+      "label": "ChatGPT",
+      "count": 1,
+      "avg_view_count": 3016,
+      "avg_engagement_rate": 0.1259946949602122,
+      "avg_like_count": 288,
+      "avg_comment_count": 92,
+      "source_titles": [
+        "AI Makes Pokémon"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/TU9tV2EF-64/hqdefault.jpg",
+      "representative_video_id": "TU9tV2EF-64",
+      "representative_title": "AI Makes Pokémon"
     }
   ],
   "video_highlights": [
     {
-      "video_id": "ITWcvB1AZtk",
-      "channel_name": "The AI Advantage",
-      "title": "GPT-5.4 Full Breakdown & AI News You Can Use",
-      "thumbnail_url": "https://i.ytimg.com/vi/ITWcvB1AZtk/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=ITWcvB1AZtk",
-      "published_at": "2026-03-13T20:36:10Z",
-      "view_count": 6261,
-      "like_count": 334,
-      "comment_count": 68,
-      "engagement_rate": 0.06420699568758984,
-      "topic_cluster": "OpenAI",
-      "summary": "이 영상은 automation 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "AI Igor is pretty good. He just needs to cool it with the hands lol",
+      "video_id": "t6EKvMbXhK4",
+      "channel_name": "Minimunch",
+      "title": "Gemini Makes Roblox In Scratch vs From Scratch",
+      "thumbnail_url": "https://i.ytimg.com/vi/t6EKvMbXhK4/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=t6EKvMbXhK4",
+      "published_at": "2026-03-14T16:15:11Z",
+      "view_count": 11862,
+      "like_count": 457,
+      "comment_count": 56,
+      "engagement_rate": 0.04324734446130501,
+      "topic_cluster": "Gemini",
+      "summary": "이 영상은 코딩 이슈를 비교 형식으로 압축해서, 지금 왜 이걸 봐야 하는지와 실제 활용 맥락을 보여주는 콘텐츠입니다.",
+      "comment_signal": "The graphics on the first one are so similar to Roblox’s graphics",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "StiEQQcMusY",
+      "channel_name": "안될공학 - IT 테크 신기술",
+      "title": "AI 때문에 진짜 소프트웨어 기업들이 무너지나... 누가 무너지고 누가 더 강해지는가 | OpenClaw | Claude Cowork | NanoBanana 2",
+      "thumbnail_url": "https://i.ytimg.com/vi/StiEQQcMusY/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=StiEQQcMusY",
+      "published_at": "2026-03-15T03:00:25Z",
+      "view_count": 3769,
+      "like_count": 193,
+      "comment_count": 24,
+      "engagement_rate": 0.05757495356858583,
+      "topic_cluster": "Claude",
+      "summary": "AI 에이전트의 등장으로 단순한 기능 진화를 넘어 실제 권한을 가지고 행동하게 되면서, 소프트웨어 산업 구조가 근본적으로 흔들리고 있으며, 데이터와 API 중심 기…",
+      "comment_signal": "API 비싸서 내가 함",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "TU9tV2EF-64",
+      "channel_name": "tef",
+      "title": "AI Makes Pokémon",
+      "thumbnail_url": "https://i.ytimg.com/vi/TU9tV2EF-64/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=TU9tV2EF-64",
+      "published_at": "2026-03-14T23:55:05Z",
+      "view_count": 3016,
+      "like_count": 288,
+      "comment_count": 92,
+      "engagement_rate": 0.1259946949602122,
+      "topic_cluster": "ChatGPT",
+      "summary": "3가지 강력한 AI(ChatGPT, Gemini, Claude)를 협력시켜 60분 안에 포켓몬 클론 게임 '미니 몬스터 퀘스트'를 만드는 과정을 보여줍니다.",
+      "comment_signal": "Claude literally cooked so hard. My Goat 🥹",
       "hook_type": "문제 해결"
     },
     {
       "video_id": "1FAoyTUxrHQ",
       "channel_name": "AI Andy",
-      "title": "Claude Code Remote Control Full Workflow Setup",
+      "title": "Stop Using Claude Code in Slack, Telegram, and Discord. Do This Instead",
       "thumbnail_url": "https://i.ytimg.com/vi/1FAoyTUxrHQ/hqdefault.jpg",
       "video_url": "https://www.youtube.com/watch?v=1FAoyTUxrHQ",
       "published_at": "2026-03-14T14:28:47Z",
-      "view_count": 96,
-      "like_count": 19,
-      "comment_count": 2,
-      "engagement_rate": 0.21875,
+      "view_count": 481,
+      "like_count": 30,
+      "comment_count": 3,
+      "engagement_rate": 0.06860706860706861,
       "topic_cluster": "Claude",
-      "summary": "Claude Code의 '원격 제어' 기능을 활용해서 봇 없이 60초 만에 휴대폰에서 데스크톱 수준의 AI 경험을 구현하고 업무 효율을 극대화하는 방법을 소개합니다.",
-      "comment_signal": "please stop wasting earths resources on this non-creative bs",
+      "summary": "이 영상은 agents 이슈를 워크플로우 튜토리얼 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "Can I use this like openclaw? For example use other LLMs, Google Services like Nano Banana and…",
       "hook_type": "문제 해결"
     }
   ]
