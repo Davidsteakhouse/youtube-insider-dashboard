@@ -407,7 +407,9 @@ function groupVideosByDate(videos) {
   const groups = new Map();
   const today = kstDateKey(new Date().toISOString());
   videos.forEach((video) => {
-    const dateKey = kstDateKey(video.published_at);
+    // analysis_date = 파이프라인 수집일(KST) 기준으로 그룹핑
+    // published_at은 UTC 기반이라 날짜 경계에서 일별 종합과 불일치 발생
+    const dateKey = kstDateKey(video.analysis_date || video.published_at);
     if (!groups.has(dateKey)) {
       groups.set(dateKey, {
         date: dateKey,
