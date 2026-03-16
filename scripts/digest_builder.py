@@ -50,13 +50,26 @@ AI_PRIORITY_TERMS = {
     "perplexity",
 }
 
+# 스마트대디 채널 프로필 — 분석 텍스트 생성 시 이 관점을 반영한다
+SMARTDADDY_PROFILE = {
+    "channel": "스마트대디",
+    "target_audience": "AI 용어가 낯선 일반인 (직장인, 주부, 학생)",
+    "identity": "AI 모험가 — 가장 먼저 시도하는 실험가 (선생님 X, 모험가 O)",
+    "core_format": "VS 비교 / 리얼 실험기 ('이게 될까?' → '진짜 되네!')",
+    "upload_cycle": "약 2주에 1편",
+    "mission": "대한민국 일상 AI 활용의 기준점 — 구독자 100만 목표",
+    "avoid": "지루한 사용법 나열, 뉴스 요약, 기능 스펙 나열, 감성에 기댄 구성",
+    "strength": "설명하지 않고 보여준다. 대결시킨다. 과정(스토리)을 판다.",
+}
+
 AI_CREATOR_EMPTY_ANGLES = {
-    "GPT-5": "업데이트 요약보다 '기존 워크플로우에서 뭐가 실제로 빨라졌는지'를 보여주는 콘텐츠 영역이 아직 비어 있습니다.",
-    "ChatGPT": "기능 소개보다 '지금 바로 복붙해서 쓰는 프롬프트/자동화 루틴'으로 좁힌 콘텐츠 영역이 비어 있습니다.",
-    "Claude": "성능 비교 대신 '리서치와 문서 정리에서 Claude를 어떻게 배치하는지'를 보여주는 실무형 콘텐츠 영역이 비어 있습니다.",
-    "Gemini": "신기능 나열보다 'Google 생태계 안에서 실제 작업이 얼마나 바뀌는지'를 검증하는 콘텐츠 영역이 비어 있습니다.",
-    "자동화": "툴 나열보다 '반복 업무 한 장면을 자동화 전/후로 비교하는 사례형 콘텐츠'가 비어 있습니다.",
-    "리서치": "리서치 자체보다 '영상 기획 전에 어떤 질문 순서로 브리프를 뽑는지'를 보여주는 프로세스형 콘텐츠 영역이 비어 있습니다.",
+    "GPT-5": "GPT-5 vs Claude/Gemini 일반인 직접 대결 실험 영상이 아직 비어 있습니다. '이게 진짜 다른가?' 검증 각도.",
+    "ChatGPT": "ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.",
+    "Claude": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
+    "Gemini": "Gemini vs ChatGPT 일반인 기준 직접 실험 영상이 비어 있습니다. 구글 생태계 쓰는 사람이 체감하는 차이 검증.",
+    "자동화": "자동화 전/후 직접 비교 — '진짜 시간이 줄어드나?' 실측 실험 영상 포맷이 비어 있습니다.",
+    "리서치": "AI 리서치 도구 대결 — 일반인이 실제 업무에서 쓸 수 있는 도구 비교 실험 영상이 비어 있습니다.",
+    "에이전트": "AI 에이전트 '직접 써봤더니' 시리즈 — 기대 vs 현실 비교 실험 각도가 비어 있습니다.",
 }
 
 
@@ -172,9 +185,7 @@ def is_ai_relevant(video: dict[str, Any]) -> bool:
 
 
 def pick_creator_scope_videos(videos: list[dict[str, Any]]) -> tuple[list[dict[str, Any]], str]:
-    ai_videos = [video for video in videos if is_ai_relevant(video)]
-    if ai_videos:
-        return ai_videos, "ai_creator_priority"
+    # 워치리스트 27개 채널이 이미 큐레이션된 AI/테크 채널이므로 전체 반환 (모니터링 모드)
     return videos, "all_watchlist"
 
 
@@ -352,71 +363,76 @@ def build_action_chips(best_video: dict[str, Any] | None, best_topic: dict[str, 
 
 def build_creator_takeaway(videos: list[dict[str, Any]], best_video: dict[str, Any] | None, best_topic: dict[str, Any] | None) -> str:
     if not best_video or not best_topic:
-        return "오늘은 먼저 업로드 수와 댓글 반응이 붙는 영상부터 확인하세요."
+        return "오늘은 참여율 상위 영상부터 확인하세요."
     topic_label = best_topic["label"]
-    tools = [normalize_label(tool) for tool in (best_video.get("tools") or []) if normalize_label(tool)]
-    lead_tool = tools[0] if tools else topic_label
-    if topic_label in {"GPT-5", "ChatGPT", "Claude", "Gemini"}:
-        return (
-            f"오늘은 '{topic_label}'를 넓은 뉴스 묶음으로 따라가기보다, '{lead_tool}' 하나를 대표 썸네일로 세우고 "
-            "실제 워크플로우 한 장면을 앞 20초 안에 보여주는 구성이 더 유리합니다. "
-            "업데이트 나열보다 '이 기능을 쓰면 뭐가 바로 빨라지는지'를 먼저 못 박는 편이 클릭과 시청 유지에 모두 좋습니다."
-        )
-    if topic_label == "리서치":
-        return (
-            "리서치 주제는 결과 요약보다 '어떤 질문 순서로 자료를 뽑고, 그걸 어떻게 영상 기획으로 연결하는지'를 보여줄 때 더 강합니다. "
-            "즉, 정보 자체보다 프로세스를 전면에 두는 편이 크리에이터 관점에서 재사용 가치가 높습니다."
-        )
+    count = best_topic.get("count", 1)
+
+    formats = [normalize_label(v.get("format", "")) for v in videos if v.get("format")]
+    dominant_format = Counter(formats).most_common(1)[0][0] if formats else "뉴스 분석"
+    comparison_count = sum(
+        1 for v in videos
+        if "비교" in (v.get("format") or "") or "비교" in (v.get("hook_type") or "")
+    )
+
+    empty_angle = AI_CREATOR_EMPTY_ANGLES.get(
+        topic_label,
+        "일반인 관점 직접 실험 or VS 비교 각도로 차별화할 영역이 있습니다.",
+    )
+    format_note = (
+        f" 오늘 수집 영상 {len(videos)}개는 주로 '{dominant_format}' 포맷이라, VS 비교·직접 실험 각도는 아직 비어 있습니다."
+        if comparison_count == 0
+        else ""
+    )
     return (
-        f"오늘은 '{best_topic['label']}' 주제를 단순 뉴스 요약으로 따라가기보다, "
-        f"'{best_video.get('title', '제목 없음')}'처럼 실제 사용 장면과 결과를 앞쪽에 배치하는 쪽이 유리합니다. "
-        f"특히 {normalize_label(best_video.get('hook_type')) or '문제 해결'} 훅과 {normalize_label(best_video.get('format')) or '정보형'} 포맷 조합을 눈여겨보세요."
+        f"'{topic_label}' 주제가 {count}개 영상으로 가장 많이 다뤄졌습니다."
+        f"{format_note} {empty_angle}"
     )
 
 
 def build_title_suggestions(best_topic: dict[str, Any] | None, best_video: dict[str, Any] | None) -> list[str]:
+    # 스마트대디 스타일: VS 비교 / 리얼 실험기 / 일반인 관점
     topic_label = best_topic.get("label") if best_topic else "AI"
     seed_title = normalize_label(best_video.get("title", "")) if best_video else ""
     if "Claude" in topic_label:
         return [
-            "Claude를 리서치 실무에 붙이면 달라지는 3가지",
-            "Claude 브리핑 워크플로우, 크리에이터가 바로 쓰는 방식만 정리",
-            "Claude 관련 영상이 몰린 날, 내 채널에 바로 적용하는 포장법",
+            "Claude vs ChatGPT, 일반인이 직접 써보니 이게 달랐다",
+            "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
+            "AI 비서 대결: Claude가 진짜 강한 상황은 따로 있었다",
         ]
     if "Gemini" in topic_label:
         return [
-            "Gemini 업데이트를 바로 콘텐츠로 바꾸는 가장 쉬운 방식",
-            "Gemini 최신 기능, 크리에이터가 실제로 써볼 포인트만 정리",
-            "Gemini 관련 경쟁 영상, 제목과 포장 구조만 뜯어봤습니다",
+            "Gemini vs ChatGPT, 직장인이 1주일 써보니 이렇게 달랐다",
+            "구글 AI 직접 실험 결과 — 이게 진짜 되네? 안되네?",
+            "Gemini 써봤더니... 광고 말고 진짜 솔직 비교",
         ]
     if "GPT" in topic_label or "ChatGPT" in topic_label:
         return [
-            "GPT 업데이트보다 중요한 건 실제 사용 장면입니다",
-            "GPT 관련 경쟁 영상이 강한 이유, 제목과 포장만 분석했습니다",
-            "GPT 주제로 오늘 바로 만들 수 있는 후속 아이디어 3개",
+            "ChatGPT vs Claude vs Gemini, 일반인 업무 실전 대결 결과",
+            "GPT 최신 버전 직접 실험 — 이전이랑 진짜 달라?",
+            "GPT 써봤더니... 기대랑 다른 점 솔직하게 다 말해봄",
         ]
     if topic_label == "자동화":
         return [
-            "자동화 영상이 뜨는 날, 내 채널은 어디를 좁혀야 할까?",
-            "툴 나열 말고 자동화 한 장면으로 클릭을 만드는 법",
-            "자동화 경쟁 영상에서 바로 가져올 수 있는 콘텐츠 구조",
+            "AI 자동화 직접 해봤는데, 이게 진짜 되는 건지 실험해봄",
+            "자동화 전/후 실측 비교 — 실제로 몇 분이 줄었나?",
+            "자동화 툴 대결: 이게 진짜 일반인도 쓸 수 있나?",
         ]
     if topic_label == "리서치":
         return [
-            "리서치 영상을 내 채널 기획 프로세스로 바꾸는 방법",
-            "리서치 브리핑 영상이 먹히는 이유와 바로 써먹는 구조",
-            "리서치 관련 경쟁 영상이 몰린 날, 내가 먼저 찍을 제목",
+            "AI 리서치 도구 대결 — 실제 업무에서 뭐가 가장 쓸만한가?",
+            "AI로 리서치 직접 해봤더니 이 순서가 제일 빨랐다",
+            "리서치 AI 비교 실험 — 일반인 관점 솔직 후기",
         ]
     if seed_title:
         return [
-            f"{topic_label} 주제를 내 채널 관점으로 다시 잘라보자",
-            f"{seed_title}에서 바로 뽑아온 후속 콘텐츠 아이디어",
-            f"{topic_label}를 지금 찍는다면 이렇게 포장하면 됩니다",
+            f"{topic_label} 직접 실험 — 이게 진짜 되나?",
+            f"{topic_label} vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
+            f"{topic_label} 써봤더니... (기대 vs 현실 솔직 후기)",
         ]
     return [
-        f"{topic_label} 관련 경쟁 채널 반응 정리",
-        f"{topic_label} 주제로 오늘 바로 만들면 좋은 영상",
-        f"{topic_label}를 내 채널 포맷으로 바꾸는 방법",
+        f"{topic_label} 직접 실험 결과 (진짜 되나?)",
+        f"{topic_label} vs 경쟁 AI 일반인 관점 비교",
+        f"{topic_label} 솔직 후기 — 좋은 점 나쁜 점 다 말해봄",
     ]
 
 
@@ -522,31 +538,67 @@ def build_telegram_preview(
     title_suggestions: list[str],
 ) -> str:
     if not videos:
-        return "📡 YouTube Insider _ v2\n최근 24시간 내 수집된 영상이 없습니다."
+        return "📡 스마트대디 AI 모니터링\n최근 24시간 수집된 영상이 없습니다."
 
-    topic_line = (
-        f"{best_topic['label']} · {best_topic['count']}개 · 평균 조회수 {compact_number(best_topic['avg_view_count'])} · 평균 참여율 {percent_text(best_topic['avg_engagement_rate'])}"
-        if best_topic
-        else "주제 클러스터를 아직 계산하지 못했습니다."
-    )
-    top_title = title_suggestions[0] if title_suggestions else "오늘은 최고 실적 주제를 내 채널 포맷으로 바꿔보세요."
+    from datetime import datetime
+    kst_now = datetime.now(timezone(timedelta(hours=9)))
+    date_str = kst_now.strftime("%m/%d")
+
+    lines: list[str] = []
+    lines.append(f"📡 스마트대디 모니터링 | {date_str}")
+    lines.append("")
+
+    # 수집 요약
+    channel_count = len({v.get("channel_name") for v in videos if v.get("channel_name")})
+    lines.append(f"📊 수집: 영상 {len(videos)}개 | 채널 {channel_count}개")
+    lines.append("")
+
+    # 참여율 TOP 3
+    top_videos = sorted(videos, key=lambda v: int(v.get("view_count", 0) or 0), reverse=True)[:3]
+    lines.append("🔥 참여율 TOP 3")
+    for i, v in enumerate(top_videos, 1):
+        ch = v.get("channel_name", "?")
+        title = truncate_text(v.get("title", ""), 28)
+        eng = percent_text(v.get("engagement_rate", 0))
+        views = compact_number(v.get("view_count", 0))
+        lines.append(f"{i}. [{ch}] {eng} · {views}뷰")
+        lines.append(f"   {title}")
+    lines.append("")
+
+    # 화제 키워드 (topic_tags 집계)
+    all_tags: list[str] = []
+    for v in videos:
+        for tag in (v.get("topic_tags") or []):
+            label = normalize_label(tag)
+            if label and label.lower() not in GENERIC_TOPIC_LABELS:
+                all_tags.append(label)
+    top_tags = [label for label, _ in Counter(all_tags).most_common(5)]
+    if top_tags:
+        lines.append("📌 화제 키워드")
+        lines.append("   " + " · ".join(top_tags))
+        lines.append("")
+
+    # 포맷 분포
+    formats = [normalize_label(v.get("format", "")) for v in videos if v.get("format")]
+    format_counts = Counter(formats).most_common(3)
+    if format_counts:
+        format_str = " · ".join(f"{label} {cnt}개" for label, cnt in format_counts)
+        lines.append(f"🎬 포맷: {format_str}")
+        lines.append("")
+
+    # VS 비교 각도 힌트 (스마트대디 핵심 포맷)
+    if best_topic:
+        empty = AI_CREATOR_EMPTY_ANGLES.get(best_topic["label"], "")
+        if empty:
+            lines.append(f"💡 VS 각도: {empty}")
+            lines.append("")
+
+    # 대시보드 링크
     dashboard_url = str(os.getenv("PUBLIC_DASHBOARD_URL", "") or "").strip()
-    message = (
-        "📡 YouTube Insider _ v2\n\n"
-        f"🗓 최근 24시간 영상 {len(videos)}개\n\n"
-        f"🏆 오늘 최고 실적 영상\n"
-        f"• {best_video.get('channel_name', '알 수 없는 채널') if best_video else '알 수 없는 채널'}\n"
-        f"• {best_video.get('title', '제목 없음') if best_video else '제목 없음'}\n"
-        f"• 조회수 {compact_number(best_video.get('view_count', 0) if best_video else 0)} · "
-        f"좋아요 {compact_number(best_video.get('like_count', 0) if best_video else 0)} · "
-        f"댓글 {compact_number(best_video.get('comment_count', 0) if best_video else 0)} · "
-        f"참여율 {percent_text(best_video.get('engagement_rate', 0) if best_video else 0)}\n\n"
-        f"📌 오늘 최고 실적 주제\n• {topic_line}\n\n"
-        f"💡 추천 제목\n• {top_title}"
-    )
     if dashboard_url:
-        message += f"\n\n🔎 자세히 보기\n{dashboard_url}"
-    return message
+        lines.append(f"🔗 {dashboard_url}")
+
+    return "\n".join(lines)
 
 
 def build_digest(videos: list[dict[str, Any]], watchlist: list[dict[str, Any]]) -> dict[str, Any]:

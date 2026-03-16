@@ -34,8 +34,15 @@ SYSTEM_PROMPT = (
     "모든 문자열과 배열 내부 문장은 반드시 자연스러운 한국어로 작성하라. "
     "영어 제목이나 영어 자막이어도 최종 요약은 한국어로 번역해서 반환하라. "
     "recommendation은 3~5개 bullet 느낌의 실행 포인트를 한 문자열 안에 '• '로 구분해 작성하라. "
-    "내용은 유튜브 크리에이터 관점에서 왜 클릭되는지, 복제할 포장 요소, 비어 있는 콘텐츠 영역, "
-    "추천 제목 1개, 썸네일 카피 힌트를 포함한 실행형 조언이어야 한다."
+    "이 분석의 활용자는 '스마트대디' 유튜브 채널 운영자다. "
+    "스마트대디 채널 특성: "
+    "① 타겟 — AI 용어가 낯선 일반인(직장인/주부/학생), "
+    "② 포지셔닝 — 가르치는 선생님이 아닌 먼저 시도하는 AI 모험가, "
+    "③ 핵심 포맷 — VS 비교와 리얼 실험기('이게 될까?' → '진짜 되네!'), "
+    "④ 피해야 할 것 — 뉴스 나열, 기능 스펙 설명, 감성 의존 구성. "
+    "recommendation은 반드시 스마트대디가 이 영상에서 벤치마킹할 수 있는 "
+    "VS 비교 각도, 일반인도 이해할 수 있는 실험 구도, "
+    "경쟁 채널이 아직 안 한 대결 콘텐츠 영역을 포함하라."
 )
 FORMAT_RULES = [
     (r"talking head|news", "뉴스 분석"),
@@ -402,6 +409,58 @@ def fallback_analysis(video: dict[str, Any]) -> dict[str, Any]:
     }
 
 
+def analyze_thumbnail(thumbnail_url: str) -> dict[str, Any]:
+    """Gemini Vision으로 썸네일 패턴 분석. 실패 시 빈 dict 반환."""
+    api_key = os.getenv("GEMINI_API_KEY")
+    if not api_key or not thumbnail_url:
+        return {}
+
+    import base64
+    import urllib.request
+    try:
+        req = urllib.request.Request(thumbnail_url, headers={"User-Agent": "Mozilla/5.0"})
+        with urllib.request.urlopen(req, timeout=10) as resp:
+            image_data = base64.b64encode(resp.read()).decode("utf-8")
+    except Exception:
+        return {}
+
+    prompt = (
+        "이 유튜브 썸네일을 분석해서 JSON으로만 반환하라. "
+        "키: "
+        "text_overlay(썸네일에 적힌 텍스트 내용, 없으면 null), "
+        "face_visible(얼굴 등장 여부 true/false), "
+        "expression(표정 묘사, 없으면 null), "
+        "color_scheme(주요 색상 2-3개, 예: ['빨강', '검정']), "
+        "layout_type(텍스트위주/얼굴중심/제품중심/혼합 중 하나), "
+        "urgency_level(낮음/보통/높음). "
+        "JSON만 반환하라."
+    )
+
+    model = os.getenv("GEMINI_MODEL", DEFAULT_GEMINI_MODEL)
+    payload = {
+        "contents": [{
+            "parts": [
+                {"inlineData": {"mimeType": "image/jpeg", "data": image_data}},
+                {"text": prompt},
+            ]
+        }],
+        "generationConfig": {"responseMimeType": "application/json"},
+    }
+
+    try:
+        response = request_json(
+            GEMINI_ENDPOINT_TEMPLATE.format(model=model),
+            method="POST",
+            params={"key": api_key},
+            payload=payload,
+            timeout=30,
+        )
+        content = clean_json_text(response["candidates"][0]["content"]["parts"][0]["text"])
+        return json.loads(content)
+    except Exception:
+        return {}
+
+
 def build_prompt(video: dict[str, Any]) -> dict[str, Any]:
     return {
         "video_id": video.get("video_id"),
@@ -610,5 +669,7 @@ def enrich_videos_with_analysis(videos: list[dict[str, Any]]) -> list[dict[str, 
     enriched: list[dict[str, Any]] = []
     for video in videos:
         analysis = analyze_video(video)
-        enriched.append({**video, **analysis})
+        thumbnail_url = video.get("thumbnail_url", "")
+        thumbnail_analysis = analyze_thumbnail(thumbnail_url) if thumbnail_url else {}
+        enriched.append({**video, **analysis, "thumbnail_analysis": thumbnail_analysis})
     return enriched

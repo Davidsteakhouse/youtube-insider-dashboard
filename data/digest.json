@@ -1,53 +1,95 @@
 {
   "digest_date": "2026-03-16",
-  "generated_at": "2026-03-16T00:54:44+00:00",
-  "summary": "최근 24시간 영상 2개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'Claude'입니다. 특히 'AI 때문에 진짜 소프트웨어 기업들이 무너지나... 누가 무너지고 누가 더 강해지는가 | OpenClaw | Claude Cowork | NanoBanana 2'는 조회수 14.5K, 참여율 3.3%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "오늘은 'Claude'를 넓은 뉴스 묶음으로 따라가기보다, 'Claude' 하나를 대표 썸네일로 세우고 실제 워크플로우 한 장면을 앞 20초 안에 보여주는 구성이 더 유리합니다. 업데이트 나열보다 '이 기능을 쓰면 뭐가 바로 빨라지는지'를 먼저 못 박는 편이 클릭과 시청 유지에 모두 좋습니다.",
-  "telegram_preview": "📡 YouTube Insider _ v2\n\n🗓 최근 24시간 영상 2개\n\n🏆 오늘 최고 실적 영상\n• 안될공학 - IT 테크 신기술\n• AI 때문에 진짜 소프트웨어 기업들이 무너지나... 누가 무너지고 누가 더 강해지는가 | OpenClaw | Claude Cowork | NanoBanana 2\n• 조회수 14.5K · 좋아요 431 · 댓글 44 · 참여율 3.3%\n\n📌 오늘 최고 실적 주제\n• Claude · 1개 · 평균 조회수 14.5K · 평균 참여율 3.3%\n\n💡 추천 제목\n• Claude를 리서치 실무에 붙이면 달라지는 3가지",
-  "video_count": 2,
+  "generated_at": "2026-03-16T02:05:58+00:00",
+  "summary": "최근 24시간 영상 7개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'IT가전'입니다. 특히 'QC 이슈로 폭망하고 2년동안 칼을 갈았다? 진짜 좋아진 삼성 버즈4 프로 2주 사용기'는 조회수 285.3K, 참여율 1.6%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "'IT가전' 주제가 1개 영상으로 가장 많이 다뤄졌습니다. 오늘 수집 영상 7개는 주로 '뉴스 분석' 포맷이라, VS 비교·직접 실험 각도는 아직 비어 있습니다. 일반인 관점 직접 실험 or VS 비교 각도로 차별화할 영역이 있습니다.",
+  "telegram_preview": "📡 스마트대디 모니터링 | 03/16\n\n📊 수집: 영상 7개 | 채널 7개\n\n🔥 참여율 TOP 3\n1. [ITSub잇섭] 1.6% · 285.3K뷰\n   QC 이슈로 폭망하고 2년동안 칼을 갈았다? 진짜…\n2. [주연 ZUYONI] 1.3% · 91.5K뷰\n   테토녀입니다. (갤럭시 질문 요청 영상)\n3. [테크몽 Techmong] 1.8% · 76.6K뷰\n   기다리셨던 제품들 드디어 들고왔습니다! 하나하나…\n\n📌 화제 키워드\n   인플루언서 · 수익화 · 자동화 · 음성 · 목소리\n\n🎬 포맷: 뉴스 분석 6개 · 사례 분석 1개\n",
+  "video_count": 7,
   "total_recent_video_count": 7,
-  "focus_scope": "ai_creator_priority",
-  "average_view_count": 9030.0,
-  "average_engagement_rate": 0.06260176114973863,
-  "average_like_count": 360.0,
-  "average_comment_count": 40.0,
-  "best_video_id": "StiEQQcMusY",
-  "best_topic": "Claude",
+  "focus_scope": "all_watchlist",
+  "average_view_count": 67677.0,
+  "average_engagement_rate": 0.0416199222017621,
+  "average_like_count": 955.0,
+  "average_comment_count": 198.0,
+  "best_video_id": "CCH4BMyUDdo",
+  "best_topic": "IT가전",
   "summary_points": [
-    "가장 겹친 주제는 'Claude'이며 1개 영상, 평균 조회수 14.5K, 평균 참여율 3.3%입니다.",
-    "최고 실적 영상은 'AI 때문에 진짜 소프트웨어 기업들이 무너지나... 누가 무너지고 누가 더 강해지는가 | OpenClaw | Claude Cowork | NanoBanana 2'이며 문제 해결 훅과 뉴스 분석 포맷 조합이 강했습니다.",
+    "가장 겹친 주제는 'IT가전'이며 1개 영상, 평균 조회수 285.3K, 평균 참여율 1.6%입니다.",
+    "최고 실적 영상은 'QC 이슈로 폭망하고 2년동안 칼을 갈았다? 진짜 좋아진 삼성 버즈4 프로 2주 사용기'이며 문제 해결 훅과 뉴스 분석 포맷 조합이 강했습니다.",
     "반복 노출된 툴은 Claude 1회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
   ],
   "action_chips": [
-    "주제: Claude",
+    "주제: IT가전",
     "훅: 문제 해결",
     "포맷: 뉴스 분석",
-    "기준 채널: 안될공학 - IT 테크 신기술"
+    "기준 채널: ITSub잇섭"
   ],
   "title_suggestions": [
-    "Claude를 리서치 실무에 붙이면 달라지는 3가지",
-    "Claude 브리핑 워크플로우, 크리에이터가 바로 쓰는 방식만 정리",
-    "Claude 관련 영상이 몰린 날, 내 채널에 바로 적용하는 포장법"
+    "IT가전 직접 실험 — 이게 진짜 되나?",
+    "IT가전 vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
+    "IT가전 써봤더니... (기대 vs 현실 솔직 후기)"
   ],
   "recommendations": [
     {
-      "title": "Claude를 리서치 실무에 붙이면 달라지는 3가지",
-      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "Claude 바로 해결",
-      "reason": "성능 비교 대신 '리서치와 문서 정리에서 Claude를 어떻게 배치하는지'를 보여주는 실무형 콘텐츠 영역이 비어 있습니다.",
-      "source_video_id": "StiEQQcMusY",
-      "source": "AI 때문에 진짜 소프트웨어 기업들이 무너지나... 누가 무너지고 누가 더 강해지는가 | OpenClaw | Claude Cowork | NanoBanana 2"
+      "title": "IT가전 직접 실험 — 이게 진짜 되나?",
+      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
+      "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
+      "thumbnail_copy": "IT가전 바로 해결",
+      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
+      "source_video_id": "CCH4BMyUDdo",
+      "source": "QC 이슈로 폭망하고 2년동안 칼을 갈았다? 진짜 좋아진 삼성 버즈4 프로 2주 사용기"
     }
   ],
   "topic_clusters": [
     {
+      "label": "IT가전",
+      "count": 1,
+      "avg_view_count": 285274,
+      "avg_engagement_rate": 0.016198461829679538,
+      "avg_like_count": 3715,
+      "avg_comment_count": 906,
+      "source_titles": [
+        "QC 이슈로 폭망하고 2년동안 칼을 갈았다? 진짜 좋아진 삼성 버즈4 프로 2주 사용기"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/CCH4BMyUDdo/hqdefault.jpg",
+      "representative_video_id": "CCH4BMyUDdo",
+      "representative_title": "QC 이슈로 폭망하고 2년동안 칼을 갈았다? 진짜 좋아진 삼성 버즈4 프로 2주 사용기"
+    },
+    {
+      "label": "테토녀입니다.",
+      "count": 1,
+      "avg_view_count": 91483,
+      "avg_engagement_rate": 0.012559710547314801,
+      "avg_like_count": 1004,
+      "avg_comment_count": 145,
+      "source_titles": [
+        "테토녀입니다. (갤럭시 질문 요청 영상)"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/R-oPLifKqS4/hqdefault.jpg",
+      "representative_video_id": "R-oPLifKqS4",
+      "representative_title": "테토녀입니다. (갤럭시 질문 요청 영상)"
+    },
+    {
+      "label": "localization",
+      "count": 1,
+      "avg_view_count": 76589,
+      "avg_engagement_rate": 0.01804436668451083,
+      "avg_like_count": 1147,
+      "avg_comment_count": 235,
+      "source_titles": [
+        "기다리셨던 제품들 드디어 들고왔습니다! 하나하나 직접 써보고 추천하는 알리템 BEST9"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/6Fp1wClcyv8/hqdefault.jpg",
+      "representative_video_id": "6Fp1wClcyv8",
+      "representative_title": "기다리셨던 제품들 드디어 들고왔습니다! 하나하나 직접 써보고 추천하는 알리템 BEST9"
+    },
+    {
       "label": "Claude",
       "count": 1,
-      "avg_view_count": 14526,
-      "avg_engagement_rate": 0.032699986231584745,
-      "avg_like_count": 431,
-      "avg_comment_count": 44,
+      "avg_view_count": 15313,
+      "avg_engagement_rate": 0.03180304316593744,
+      "avg_like_count": 441,
+      "avg_comment_count": 46,
       "source_titles": [
         "AI 때문에 진짜 소프트웨어 기업들이 무너지나... 누가 무너지고 누가 더 강해지는가 | OpenClaw | Claude Cowork | NanoBanana 2"
       ],
@@ -56,21 +98,97 @@
       "representative_title": "AI 때문에 진짜 소프트웨어 기업들이 무너지나... 누가 무너지고 누가 더 강해지는가 | OpenClaw | Claude Cowork | NanoBanana 2"
     },
     {
-      "label": "유튜브자동화",
+      "label": "아직도",
       "count": 1,
-      "avg_view_count": 3535,
-      "avg_engagement_rate": 0.09250353606789251,
-      "avg_like_count": 290,
-      "avg_comment_count": 37,
+      "avg_view_count": 3859,
+      "avg_engagement_rate": 0.0922518787250583,
+      "avg_like_count": 312,
+      "avg_comment_count": 44,
       "source_titles": [
         "아직도 노트북LM으로 요약만 하세요? 구글의 미친 AI 자동화 툴로 5분 만에 잘 나가는 채널 통째로 복사하는 법 (99%는 모르는 비밀)"
       ],
       "thumbnail_url": "https://i.ytimg.com/vi/TBwxWk41fL0/hqdefault.jpg",
       "representative_video_id": "TBwxWk41fL0",
       "representative_title": "아직도 노트북LM으로 요약만 하세요? 구글의 미친 AI 자동화 툴로 5분 만에 잘 나가는 채널 통째로 복사하는 법 (99%는 모르는 비밀)"
+    },
+    {
+      "label": "Nvidia",
+      "count": 1,
+      "avg_view_count": 722,
+      "avg_engagement_rate": 0.0664819944598338,
+      "avg_like_count": 39,
+      "avg_comment_count": 9,
+      "source_titles": [
+        "I am giving away a Nvidia DXG Spark this week"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/8PVPMc6XCko/hqdefault.jpg",
+      "representative_video_id": "8PVPMc6XCko",
+      "representative_title": "I am giving away a Nvidia DXG Spark this week"
+    },
+    {
+      "label": "인플루언서",
+      "count": 1,
+      "avg_view_count": 500,
+      "avg_engagement_rate": 0.054,
+      "avg_like_count": 26,
+      "avg_comment_count": 1,
+      "source_titles": [
+        "AI가 이제 인플루언서 시장을 장악합니다 (아는 사람은 이미 꿀빠는중ㄷㄷ)"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/jasr_I_vEis/hqdefault.jpg",
+      "representative_video_id": "jasr_I_vEis",
+      "representative_title": "AI가 이제 인플루언서 시장을 장악합니다 (아는 사람은 이미 꿀빠는중ㄷㄷ)"
     }
   ],
   "video_highlights": [
+    {
+      "video_id": "CCH4BMyUDdo",
+      "channel_name": "ITSub잇섭",
+      "title": "QC 이슈로 폭망하고 2년동안 칼을 갈았다? 진짜 좋아진 삼성 버즈4 프로 2주 사용기",
+      "thumbnail_url": "https://i.ytimg.com/vi/CCH4BMyUDdo/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=CCH4BMyUDdo",
+      "published_at": "2026-03-15T11:00:17Z",
+      "view_count": 285274,
+      "like_count": 3715,
+      "comment_count": 906,
+      "engagement_rate": 0.016198461829679538,
+      "topic_cluster": "IT가전",
+      "summary": "지난 버즈3 프로의 QC 이슈를 만회하듯 2년간 공들여 출시된 갤럭시 버즈 4 프로를 2주간 실사용하며 디자인, 착용감, 노이즈 캔슬링, 음질, 통화 품질 등 전반…",
+      "comment_signal": "일단 버즈3프로가 이미지를 너무조져놔서 사람들이 색안경끼고 보게되는것도 있는데 가격까지 진입장벽이라... 그나마 성능은 확실하게 좋아졌다는건 반가운내용이네요.",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "R-oPLifKqS4",
+      "channel_name": "주연 ZUYONI",
+      "title": "테토녀입니다. (갤럭시 질문 요청 영상)",
+      "thumbnail_url": "https://i.ytimg.com/vi/R-oPLifKqS4/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=R-oPLifKqS4",
+      "published_at": "2026-03-15T09:21:29Z",
+      "view_count": 91483,
+      "like_count": 1004,
+      "comment_count": 145,
+      "engagement_rate": 0.012559710547314801,
+      "topic_cluster": "테토녀입니다.",
+      "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "주연님 주연님, 앞으로도 철들지 맙시다😊",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "6Fp1wClcyv8",
+      "channel_name": "테크몽 Techmong",
+      "title": "기다리셨던 제품들 드디어 들고왔습니다! 하나하나 직접 써보고 추천하는 알리템 BEST9",
+      "thumbnail_url": "https://i.ytimg.com/vi/6Fp1wClcyv8/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=6Fp1wClcyv8",
+      "published_at": "2026-03-15T11:00:10Z",
+      "view_count": 76589,
+      "like_count": 1147,
+      "comment_count": 235,
+      "engagement_rate": 0.01804436668451083,
+      "topic_cluster": "localization",
+      "summary": "이 영상은 localization 이슈를 사례 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "⚠댓글 펼쳐보시면 할인코드 보실 수 있습니다!! ⚠현재 알리 플랫폼상 오류로 몇몇 제품들에 코드 적용이 안 되는 문제가 있습니다. (저희 채널 외에 다른 채널들 역시 똑같…",
+      "hook_type": "문제 해결"
+    },
     {
       "video_id": "StiEQQcMusY",
       "channel_name": "안될공학 - IT 테크 신기술",
@@ -78,12 +196,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/StiEQQcMusY/hqdefault.jpg",
       "video_url": "https://www.youtube.com/watch?v=StiEQQcMusY",
       "published_at": "2026-03-15T03:00:25Z",
-      "view_count": 14526,
-      "like_count": 431,
-      "comment_count": 44,
-      "engagement_rate": 0.032699986231584745,
+      "view_count": 15313,
+      "like_count": 441,
+      "comment_count": 46,
+      "engagement_rate": 0.03180304316593744,
       "topic_cluster": "Claude",
-      "summary": "AI 에이전트가 등장하며 기존 SaaS 구조를 흔들고, 일부 소프트웨어 기업은 무너지고 일부는 더 강해지는 이유와 AI 에이전트 시대 보안 및 권한 관리의 중요성을…",
+      "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
       "comment_signal": "API 비싸서 내가 함",
       "hook_type": "문제 해결"
     },
@@ -94,13 +212,13 @@
       "thumbnail_url": "https://i.ytimg.com/vi/TBwxWk41fL0/hqdefault.jpg",
       "video_url": "https://www.youtube.com/watch?v=TBwxWk41fL0",
       "published_at": "2026-03-15T10:33:10Z",
-      "view_count": 3535,
-      "like_count": 290,
-      "comment_count": 37,
-      "engagement_rate": 0.09250353606789251,
-      "topic_cluster": "유튜브자동화",
-      "summary": "구글의 AI 툴 '노트북LM'과 확장 프로그램 'Grabbit'을 활용하여 인기 유튜브 채널의 성공 요인을 분석하고, 이를 기반으로 짧은 시간에 대량의 영상을 자동…",
-      "comment_signal": "너무너무 감사드립니다^^😅😅",
+      "view_count": 3859,
+      "like_count": 312,
+      "comment_count": 44,
+      "engagement_rate": 0.0922518787250583,
+      "topic_cluster": "아직도",
+      "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "감사합니다 ㅎ",
       "hook_type": "문제 해결"
     }
   ]
