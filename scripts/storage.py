@@ -564,7 +564,7 @@ def group_videos_by_date(videos: list[dict[str, Any]]) -> list[dict[str, Any]]:
     grouped: dict[str, list[dict[str, Any]]] = defaultdict(list)
     for video in videos:
         published_at = parse_datetime(video.get("published_at"))
-        date_key = published_at.astimezone(timezone.utc).date().isoformat() if published_at else "날짜 없음"
+        date_key = kst_date_key(published_at) if published_at else "날짜 없음"
         grouped[date_key].append(video)
     results: list[dict[str, Any]] = []
     today = datetime.now(timezone.utc).date().isoformat()

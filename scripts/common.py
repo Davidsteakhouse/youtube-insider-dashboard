@@ -35,7 +35,7 @@ def utcnow_iso() -> str:
     return datetime.now(timezone.utc).replace(microsecond=0).isoformat()
 
 
-def within_lookback_hours(value: str | None, *, lookback_hours: int = 24, now: datetime | None = None) -> bool:
+def within_lookback_hours(value: str | datetime | None, *, lookback_hours: int = 24, now: datetime | None = None) -> bool:
     parsed = parse_datetime(value)
     if not parsed:
         return False
@@ -44,7 +44,7 @@ def within_lookback_hours(value: str | None, *, lookback_hours: int = 24, now: d
     return age <= timedelta(hours=lookback_hours)
 
 
-def kst_date_key(value: str | None = None) -> str:
+def kst_date_key(value: str | datetime | None = None) -> str:
     parsed = parse_datetime(value)
     target = parsed.astimezone(KST) if parsed else datetime.now(KST)
     return target.date().isoformat()
@@ -82,9 +82,11 @@ def safe_median(values: list[float]) -> float | None:
     return float(median(filtered))
 
 
-def parse_datetime(value: str | None) -> datetime | None:
+def parse_datetime(value: str | datetime | None) -> datetime | None:
     if not value:
         return None
+    if isinstance(value, datetime):
+        return value if value.tzinfo else value.replace(tzinfo=timezone.utc)
     normalized = value.replace("Z", "+00:00")
     try:
         return datetime.fromisoformat(normalized)

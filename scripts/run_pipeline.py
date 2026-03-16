@@ -37,6 +37,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--notion-url", help="공개 Notion 페이지 URL")
     parser.add_argument("--import-file", help="수동 watchlist import 파일 경로(.json 또는 .csv)")
     parser.add_argument("--notify-telegram", action="store_true", help="생성된 digest를 Telegram으로 전송합니다.")
+    parser.add_argument("--only-notify", action="store_true", help="파이프라인을 건너뛰고 현재 저장된 최신 digest만 Telegram으로 전송합니다.")
     parser.add_argument("--skip-transcripts", action="store_true", help="자막 수집 단계를 건너뜁니다.")
     parser.add_argument("--skip-analysis", action="store_true", help="LLM/휴리스틱 분석 단계를 건너뜁니다.")
     parser.add_argument("--max-results-per-channel", default=8, type=int, help="채널별로 조회할 최신 업로드 개수")
@@ -179,8 +180,8 @@ def main() -> int:
     seed_database_from_exports_if_needed()
     args = parse_args()
 
-    only_notify = args.notify_telegram and len(sys.argv) == 2
-    only_sync = args.sync_watchlist and len(sys.argv) == 2 and not only_notify
+    only_notify = args.only_notify
+    only_sync = args.sync_watchlist and len(sys.argv) == 2 and not only_notify and not args.notify_telegram
 
     digest: dict[str, Any] | None = None
     if args.sync_watchlist:

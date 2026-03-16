@@ -106,6 +106,14 @@ C:\Users\DanKim\anaconda3\python.exe .\scripts\run_pipeline.py --sync-watchlist
 C:\Users\DanKim\anaconda3\python.exe .\scripts\run_pipeline.py --notify-telegram
 ```
 
+위 명령은 이제 `업데이트 + digest 생성 + Telegram 전송`을 모두 수행합니다.
+
+### 최신 digest만 다시 전송
+
+```powershell
+C:\Users\DanKim\anaconda3\python.exe .\scripts\run_pipeline.py --only-notify --notify-telegram
+```
+
 ### 자동 Notion sync 비활성화
 
 ```powershell

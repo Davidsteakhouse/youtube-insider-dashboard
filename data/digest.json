@@ -1,28 +1,28 @@
 {
-  "digest_date": "2026-03-15",
-  "generated_at": "2026-03-15T05:47:02+00:00",
-  "summary": "최근 24시간 영상 4개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'Claude'입니다. 특히 'Gemini Makes Roblox In Scratch vs From Scratch'는 조회수 11.9K, 참여율 4.3%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "오늘은 'Claude'를 넓은 뉴스 묶음으로 따라가기보다, 'Gemini' 하나를 대표 썸네일로 세우고 실제 워크플로우 한 장면을 앞 20초 안에 보여주는 구성이 더 유리합니다. 업데이트 나열보다 '이 기능을 쓰면 뭐가 바로 빨라지는지'를 먼저 못 박는 편이 클릭과 시청 유지에 모두 좋습니다.",
-  "telegram_preview": "📡 YouTube Insider _ v2\n\n🗓 최근 24시간 영상 4개\n\n🏆 오늘 최고 실적 영상\n• Minimunch\n• Gemini Makes Roblox In Scratch vs From Scratch\n• 조회수 11.9K · 좋아요 457 · 댓글 56 · 참여율 4.3%\n\n📌 오늘 최고 실적 주제\n• Claude · 2개 · 평균 조회수 2.1K · 평균 참여율 6.3%\n\n💡 추천 제목\n• Claude를 리서치 실무에 붙이면 달라지는 3가지\n\n🔎 자세히 보기\nhttps://davidsteakhouse.github.io/youtube-insider-dashboard/",
-  "video_count": 4,
-  "total_recent_video_count": 5,
+  "digest_date": "2026-03-16",
+  "generated_at": "2026-03-16T00:54:44+00:00",
+  "summary": "최근 24시간 영상 2개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'Claude'입니다. 특히 'AI 때문에 진짜 소프트웨어 기업들이 무너지나... 누가 무너지고 누가 더 강해지는가 | OpenClaw | Claude Cowork | NanoBanana 2'는 조회수 14.5K, 참여율 3.3%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "오늘은 'Claude'를 넓은 뉴스 묶음으로 따라가기보다, 'Claude' 하나를 대표 썸네일로 세우고 실제 워크플로우 한 장면을 앞 20초 안에 보여주는 구성이 더 유리합니다. 업데이트 나열보다 '이 기능을 쓰면 뭐가 바로 빨라지는지'를 먼저 못 박는 편이 클릭과 시청 유지에 모두 좋습니다.",
+  "telegram_preview": "📡 YouTube Insider _ v2\n\n🗓 최근 24시간 영상 2개\n\n🏆 오늘 최고 실적 영상\n• 안될공학 - IT 테크 신기술\n• AI 때문에 진짜 소프트웨어 기업들이 무너지나... 누가 무너지고 누가 더 강해지는가 | OpenClaw | Claude Cowork | NanoBanana 2\n• 조회수 14.5K · 좋아요 431 · 댓글 44 · 참여율 3.3%\n\n📌 오늘 최고 실적 주제\n• Claude · 1개 · 평균 조회수 14.5K · 평균 참여율 3.3%\n\n💡 추천 제목\n• Claude를 리서치 실무에 붙이면 달라지는 3가지",
+  "video_count": 2,
+  "total_recent_video_count": 7,
   "focus_scope": "ai_creator_priority",
-  "average_view_count": 4782.0,
-  "average_engagement_rate": 0.07385601539929292,
-  "average_like_count": 242.0,
-  "average_comment_count": 44.0,
-  "best_video_id": "t6EKvMbXhK4",
+  "average_view_count": 9030.0,
+  "average_engagement_rate": 0.06260176114973863,
+  "average_like_count": 360.0,
+  "average_comment_count": 40.0,
+  "best_video_id": "StiEQQcMusY",
   "best_topic": "Claude",
   "summary_points": [
-    "가장 겹친 주제는 'Claude'이며 2개 영상, 평균 조회수 2.1K, 평균 참여율 6.3%입니다.",
-    "최고 실적 영상은 'Gemini Makes Roblox In Scratch vs From Scratch'이며 문제 해결 훅과 비교 포맷 조합이 강했습니다.",
-    "반복 노출된 툴은 Claude 3회, Gemini 2회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
+    "가장 겹친 주제는 'Claude'이며 1개 영상, 평균 조회수 14.5K, 평균 참여율 3.3%입니다.",
+    "최고 실적 영상은 'AI 때문에 진짜 소프트웨어 기업들이 무너지나... 누가 무너지고 누가 더 강해지는가 | OpenClaw | Claude Cowork | NanoBanana 2'이며 문제 해결 훅과 뉴스 분석 포맷 조합이 강했습니다.",
+    "반복 노출된 툴은 Claude 1회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
   ],
   "action_chips": [
     "주제: Claude",
     "훅: 문제 해결",
-    "포맷: 비교",
-    "기준 채널: Minimunch"
+    "포맷: 뉴스 분석",
+    "기준 채널: 안될공학 - IT 테크 신기술"
   ],
   "title_suggestions": [
     "Claude를 리서치 실무에 붙이면 달라지는 3가지",
@@ -38,79 +38,39 @@
       "reason": "성능 비교 대신 '리서치와 문서 정리에서 Claude를 어떻게 배치하는지'를 보여주는 실무형 콘텐츠 영역이 비어 있습니다.",
       "source_video_id": "StiEQQcMusY",
       "source": "AI 때문에 진짜 소프트웨어 기업들이 무너지나... 누가 무너지고 누가 더 강해지는가 | OpenClaw | Claude Cowork | NanoBanana 2"
-    },
-    {
-      "title": "Claude 브리핑 워크플로우, 크리에이터가 바로 쓰는 방식만 정리",
-      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "Claude 바로 해결",
-      "reason": "성능 비교 대신 '리서치와 문서 정리에서 Claude를 어떻게 배치하는지'를 보여주는 실무형 콘텐츠 영역이 비어 있습니다.",
-      "source_video_id": "1FAoyTUxrHQ",
-      "source": "Stop Using Claude Code in Slack, Telegram, and Discord. Do This Instead"
     }
   ],
   "topic_clusters": [
     {
       "label": "Claude",
-      "count": 2,
-      "avg_view_count": 2125,
-      "avg_engagement_rate": 0.06309101108782722,
-      "avg_like_count": 112,
-      "avg_comment_count": 14,
+      "count": 1,
+      "avg_view_count": 14526,
+      "avg_engagement_rate": 0.032699986231584745,
+      "avg_like_count": 431,
+      "avg_comment_count": 44,
       "source_titles": [
-        "AI 때문에 진짜 소프트웨어 기업들이 무너지나... 누가 무너지고 누가 더 강해지는가 | OpenClaw | Claude Cowork | NanoBanana 2",
-        "Stop Using Claude Code in Slack, Telegram, and Discord. Do This Instead"
+        "AI 때문에 진짜 소프트웨어 기업들이 무너지나... 누가 무너지고 누가 더 강해지는가 | OpenClaw | Claude Cowork | NanoBanana 2"
       ],
       "thumbnail_url": "https://i.ytimg.com/vi/StiEQQcMusY/hqdefault.jpg",
       "representative_video_id": "StiEQQcMusY",
       "representative_title": "AI 때문에 진짜 소프트웨어 기업들이 무너지나... 누가 무너지고 누가 더 강해지는가 | OpenClaw | Claude Cowork | NanoBanana 2"
     },
     {
-      "label": "Gemini",
+      "label": "유튜브자동화",
       "count": 1,
-      "avg_view_count": 11862,
-      "avg_engagement_rate": 0.04324734446130501,
-      "avg_like_count": 457,
-      "avg_comment_count": 56,
+      "avg_view_count": 3535,
+      "avg_engagement_rate": 0.09250353606789251,
+      "avg_like_count": 290,
+      "avg_comment_count": 37,
       "source_titles": [
-        "Gemini Makes Roblox In Scratch vs From Scratch"
+        "아직도 노트북LM으로 요약만 하세요? 구글의 미친 AI 자동화 툴로 5분 만에 잘 나가는 채널 통째로 복사하는 법 (99%는 모르는 비밀)"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/t6EKvMbXhK4/hqdefault.jpg",
-      "representative_video_id": "t6EKvMbXhK4",
-      "representative_title": "Gemini Makes Roblox In Scratch vs From Scratch"
-    },
-    {
-      "label": "ChatGPT",
-      "count": 1,
-      "avg_view_count": 3016,
-      "avg_engagement_rate": 0.1259946949602122,
-      "avg_like_count": 288,
-      "avg_comment_count": 92,
-      "source_titles": [
-        "AI Makes Pokémon"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/TU9tV2EF-64/hqdefault.jpg",
-      "representative_video_id": "TU9tV2EF-64",
-      "representative_title": "AI Makes Pokémon"
+      "thumbnail_url": "https://i.ytimg.com/vi/TBwxWk41fL0/hqdefault.jpg",
+      "representative_video_id": "TBwxWk41fL0",
+      "representative_title": "아직도 노트북LM으로 요약만 하세요? 구글의 미친 AI 자동화 툴로 5분 만에 잘 나가는 채널 통째로 복사하는 법 (99%는 모르는 비밀)"
     }
   ],
   "video_highlights": [
-    {
-      "video_id": "t6EKvMbXhK4",
-      "channel_name": "Minimunch",
-      "title": "Gemini Makes Roblox In Scratch vs From Scratch",
-      "thumbnail_url": "https://i.ytimg.com/vi/t6EKvMbXhK4/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=t6EKvMbXhK4",
-      "published_at": "2026-03-14T16:15:11Z",
-      "view_count": 11862,
-      "like_count": 457,
-      "comment_count": 56,
-      "engagement_rate": 0.04324734446130501,
-      "topic_cluster": "Gemini",
-      "summary": "이 영상은 코딩 이슈를 비교 형식으로 압축해서, 지금 왜 이걸 봐야 하는지와 실제 활용 맥락을 보여주는 콘텐츠입니다.",
-      "comment_signal": "The graphics on the first one are so similar to Roblox’s graphics",
-      "hook_type": "문제 해결"
-    },
     {
       "video_id": "StiEQQcMusY",
       "channel_name": "안될공학 - IT 테크 신기술",
@@ -118,45 +78,29 @@
       "thumbnail_url": "https://i.ytimg.com/vi/StiEQQcMusY/hqdefault.jpg",
       "video_url": "https://www.youtube.com/watch?v=StiEQQcMusY",
       "published_at": "2026-03-15T03:00:25Z",
-      "view_count": 3769,
-      "like_count": 193,
-      "comment_count": 24,
-      "engagement_rate": 0.05757495356858583,
+      "view_count": 14526,
+      "like_count": 431,
+      "comment_count": 44,
+      "engagement_rate": 0.032699986231584745,
       "topic_cluster": "Claude",
-      "summary": "AI 에이전트의 등장으로 단순한 기능 진화를 넘어 실제 권한을 가지고 행동하게 되면서, 소프트웨어 산업 구조가 근본적으로 흔들리고 있으며, 데이터와 API 중심 기…",
+      "summary": "AI 에이전트가 등장하며 기존 SaaS 구조를 흔들고, 일부 소프트웨어 기업은 무너지고 일부는 더 강해지는 이유와 AI 에이전트 시대 보안 및 권한 관리의 중요성을…",
       "comment_signal": "API 비싸서 내가 함",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "TU9tV2EF-64",
-      "channel_name": "tef",
-      "title": "AI Makes Pokémon",
-      "thumbnail_url": "https://i.ytimg.com/vi/TU9tV2EF-64/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=TU9tV2EF-64",
-      "published_at": "2026-03-14T23:55:05Z",
-      "view_count": 3016,
-      "like_count": 288,
-      "comment_count": 92,
-      "engagement_rate": 0.1259946949602122,
-      "topic_cluster": "ChatGPT",
-      "summary": "3가지 강력한 AI(ChatGPT, Gemini, Claude)를 협력시켜 60분 안에 포켓몬 클론 게임 '미니 몬스터 퀘스트'를 만드는 과정을 보여줍니다.",
-      "comment_signal": "Claude literally cooked so hard. My Goat 🥹",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "1FAoyTUxrHQ",
-      "channel_name": "AI Andy",
-      "title": "Stop Using Claude Code in Slack, Telegram, and Discord. Do This Instead",
-      "thumbnail_url": "https://i.ytimg.com/vi/1FAoyTUxrHQ/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=1FAoyTUxrHQ",
-      "published_at": "2026-03-14T14:28:47Z",
-      "view_count": 481,
-      "like_count": 30,
-      "comment_count": 3,
-      "engagement_rate": 0.06860706860706861,
-      "topic_cluster": "Claude",
-      "summary": "이 영상은 agents 이슈를 워크플로우 튜토리얼 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "Can I use this like openclaw? For example use other LLMs, Google Services like Nano Banana and…",
+      "video_id": "TBwxWk41fL0",
+      "channel_name": "AI 머니",
+      "title": "아직도 노트북LM으로 요약만 하세요? 구글의 미친 AI 자동화 툴로 5분 만에 잘 나가는 채널 통째로 복사하는 법 (99%는 모르는 비밀)",
+      "thumbnail_url": "https://i.ytimg.com/vi/TBwxWk41fL0/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=TBwxWk41fL0",
+      "published_at": "2026-03-15T10:33:10Z",
+      "view_count": 3535,
+      "like_count": 290,
+      "comment_count": 37,
+      "engagement_rate": 0.09250353606789251,
+      "topic_cluster": "유튜브자동화",
+      "summary": "구글의 AI 툴 '노트북LM'과 확장 프로그램 'Grabbit'을 활용하여 인기 유튜브 채널의 성공 요인을 분석하고, 이를 기반으로 짧은 시간에 대량의 영상을 자동…",
+      "comment_signal": "너무너무 감사드립니다^^😅😅",
       "hook_type": "문제 해결"
     }
   ]
