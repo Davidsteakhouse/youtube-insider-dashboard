@@ -35,6 +35,12 @@ def main() -> int:
         show_message("업데이트 실행 실패", "scripts/run_pipeline.py 파일을 찾을 수 없습니다.", error=True)
         return 1
 
+    subprocess.run(
+        ["git", "-C", str(ROOT_DIR), "pull", "--ff-only"],
+        capture_output=True,
+        text=True,
+    )
+
     pipeline = run_step([])
     if pipeline.returncode != 0:
         show_message(
@@ -44,18 +50,9 @@ def main() -> int:
         )
         return pipeline.returncode
 
-    telegram = run_step(["--notify-telegram"])
-    if telegram.returncode != 0:
-        show_message(
-            "Telegram 전송 실패",
-            f"브리프 생성은 끝났지만 Telegram 전송에서 오류가 발생했습니다.\n\n{telegram.stderr or telegram.stdout}",
-            error=True,
-        )
-        return telegram.returncode
-
     show_message(
         "업데이트 완료",
-        "데이터 갱신과 Telegram 전송이 완료되었습니다.",
+        "데이터 갱신이 완료되었습니다.",
     )
     return 0
 

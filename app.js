@@ -129,7 +129,7 @@ function formatDuration(value) {
   return `${Math.max(minutes, 1)}분`;
 }
 
-function isWithinRecentWindow(value, lookbackHours = 24) {
+function isWithinRecentWindow(value, lookbackHours = 24, referenceTime = null) {
   if (!value) {
     return false;
   }
@@ -137,7 +137,7 @@ function isWithinRecentWindow(value, lookbackHours = 24) {
   if (Number.isNaN(date.getTime())) {
     return false;
   }
-  const now = new Date();
+  const now = referenceTime || new Date();
   return (now.getTime() - date.getTime()) <= lookbackHours * 60 * 60 * 1000;
 }
 
@@ -348,7 +348,7 @@ function normalizeVideoPayload(payload) {
     transcript_source: video.transcript_source || "none",
     transcript_language: video.transcript_language || "",
     transcript_text: video.transcript_text || "",
-    is_recent: isWithinRecentWindow(video.published_at),
+    is_recent: isWithinRecentWindow(video.published_at, 24, referenceTime),
   }));
 }
 
@@ -466,7 +466,7 @@ async function hasDashboardApi() {
   }
 }
 
-function hydrateVideos(videos) {
+function hydrateVideos(videos, referenceTime = null) {
   const channelMap = Object.fromEntries(appData.channels.map((channel) => [channel.channel_key, channel]));
   const byYoutubeId = Object.fromEntries(appData.channels.map((channel) => [channel.youtube_channel_id, channel]));
   return videos.map((video) => {
@@ -528,10 +528,11 @@ async function loadBootstrap() {
   state.previewMode = true;
   appData.meta = bundledData.meta || { notion_source_url: DEFAULT_NOTION_URL };
   appData.channels = normalizeWatchlistPayload(watchlist);
-  appData.videos = hydrateVideos(normalizeVideoPayload(videos));
+  appData.digest = normalizeDigestPayload(digest);
+  const digestRefTime = appData.digest.generated_at ? new Date(appData.digest.generated_at) : null;
+  appData.videos = hydrateVideos(normalizeVideoPayload(videos), digestRefTime);
   appData.groupedHistory = groupVideosByDate(appData.videos);
   appData.todayVideos = appData.videos.filter((video) => video.is_recent).slice(0, 200);
-  appData.digest = normalizeDigestPayload(digest);
 
   if (!state.loadWarnings.length) {
     state.loadWarnings = [READ_ONLY_MESSAGE];
