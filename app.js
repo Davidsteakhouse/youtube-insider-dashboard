@@ -348,7 +348,7 @@ function normalizeVideoPayload(payload) {
     transcript_source: video.transcript_source || "none",
     transcript_language: video.transcript_language || "",
     transcript_text: video.transcript_text || "",
-    is_recent: isWithinRecentWindow(video.published_at, 24, referenceTime),
+    is_recent: isWithinRecentWindow(video.published_at),
   }));
 }
 
@@ -487,6 +487,7 @@ function hydrateVideos(videos, referenceTime = null) {
         combinedTags.join(" "),
         video.transcript_text,
       ].join(" ").toLowerCase(),
+      is_recent: isWithinRecentWindow(video.published_at, 24, referenceTime),
     };
   });
 }
