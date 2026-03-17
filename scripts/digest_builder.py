@@ -558,7 +558,7 @@ def build_telegram_preview(
     lines.append("🔥 참여율 TOP 3")
     for i, v in enumerate(top_videos, 1):
         ch = v.get("channel_name", "?")
-        title = truncate_text(v.get("title", ""), 45)
+        title = v.get("title", "")
         eng = percent_text(v.get("engagement_rate", 0))
         views = compact_number(v.get("view_count", 0))
         lines.append(f"{i}. [{ch}] {eng} · {views}뷰")

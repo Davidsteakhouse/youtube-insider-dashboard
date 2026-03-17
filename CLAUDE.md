@@ -15,7 +15,7 @@
 ## 현재 운영 구조
 
 - 정식 작업 루트:
-  `C:\Users\DanKim\Desktop\Wealth\ai project\0. youtube benchmark dashboard`
+  `C:\Users\DanKim\Desktop\Wealth\3. AI PROJECT\0. youtube benchmark dashboard`
 - 예전 작업 루트:
   `C:\Users\DanKim\Desktop\blank-app\youtube-benchmark-dashboard-mvp`
 - 기본 원칙:
@@ -55,6 +55,32 @@
   - `published_at` 기준 실시간 계산으로 통일
 - digest 날짜를 KST 기준으로 저장
 - 누적 영상 기록 날짜 그룹을 KST 기준으로 변경
+
+### 2026-03-17 수정
+
+**문제 1: 로컬 대시보드가 GitHub Actions 최신 데이터를 반영 못함**
+- 원인: 로컬 파일이 자동 동기화되지 않음
+- 수정: `run_daily_update.bat` / `run_daily_update.pyw` 맨 앞에 `git pull --ff-only` 추가
+- 함께 적용: 로컬 실행 시 `--notify-telegram` 제거 (Actions와 중복 발송 방지)
+
+**문제 2: GitHub Pages preview 모드에서 "최근 24시간 영상 0개"**
+- 원인: `hydrateVideos()`가 `is_recent`를 override하지 않고 `normalizeVideoPayload()`의 값을 그대로 사용
+  - `normalizeVideoPayload`에서 `is_recent`를 `new Date()` 기준으로 계산하면, 데이터가 오래될수록 모든 영상이 24h 초과
+- 수정 (`app.js`):
+  - `isWithinRecentWindow(value, lookbackHours, referenceTime)` — referenceTime 파라미터 추가
+  - `hydrateVideos(videos, referenceTime)` — return object에 `is_recent` override 추가 (referenceTime 전달)
+  - `normalizeVideoPayload`의 `is_recent`는 `referenceTime` 없이 유지 (hydrateVideos가 덮어씀)
+  - preview 모드 데이터 초기화: digest를 먼저 로드 → `generated_at` 추출 → hydrateVideos에 전달
+- **주의**: `is_recent` override는 반드시 `hydrateVideos` return object 안에 있어야 한다.
+  `normalizeVideoPayload` 안에서 `referenceTime`을 참조하면 `ReferenceError` 발생함.
+
+**문제 3: Telegram TOP 3 제목 잘림**
+- 원인: `truncate_text(title, 28)` → 너무 짧음
+- 수정 (`scripts/digest_builder.py`): `truncate_text` 제거, 제목 전체 사용
+
+**문제 4: 로컬 Telegram 발송 시 대시보드 URL 누락**
+- 원인: `.env`에 `PUBLIC_DASHBOARD_URL` 미설정 (GitHub Actions에만 있었음)
+- 수정: `.env`에 `PUBLIC_DASHBOARD_URL=https://davidsteakhouse.github.io/youtube-insider-dashboard/` 추가
 
 ## 파일별 역할
 
