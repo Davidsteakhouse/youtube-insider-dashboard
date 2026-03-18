@@ -512,12 +512,12 @@ def fetch_transcript(video_id: str) -> dict[str, Any]:
                 transcript = extract_apify_transcript(items)
                 if transcript.get("transcript_status") in {"available", "available_auto", "translated"}:
                     return transcript
-                fallback = fetch_via_youtube_transcript_api(video_id) or fetch_via_ytdlp(video_id)
+                fallback = fetch_via_ytdlp(video_id) or fetch_via_youtube_transcript_api(video_id)
                 return fallback or transcript
             except (RuntimeError, TimeoutError, SocketTimeout, URLError, OSError):
                 continue
 
-    fallback = fetch_via_youtube_transcript_api(video_id) or fetch_via_ytdlp(video_id)
+    fallback = fetch_via_ytdlp(video_id) or fetch_via_youtube_transcript_api(video_id)
     if fallback:
         return fallback
 
@@ -572,5 +572,5 @@ def enrich_videos_with_transcripts(videos: list[dict[str, Any]]) -> list[dict[st
 
         transcript = fetch_transcript(video.get("video_id", ""))
         enriched.append({**video, **transcript})
-        time.sleep(1)
+        time.sleep(5)
     return enriched
