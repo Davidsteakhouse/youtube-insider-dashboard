@@ -1,75 +1,65 @@
 {
   "digest_date": "2026-03-18",
-  "generated_at": "2026-03-17T23:43:43+00:00",
-  "summary": "최근 24시간 영상 10개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'ChatGPT'입니다. 특히 '4K 보조모니터가 15만원이라 무지성 구매했는데.. 내가 후회한 이유?'는 조회수 264.8K, 참여율 1.2%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "'ChatGPT' 주제가 4개 영상으로 가장 많이 다뤄졌습니다. 오늘 수집 영상 10개는 주로 '뉴스 분석' 포맷이라, VS 비교·직접 실험 각도는 아직 비어 있습니다. ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.",
-  "telegram_preview": "📡 스마트대디 모니터링 | 03/18\n\n📊 수집: 영상 10개 | 채널 9개\n\n🔥 참여율 TOP 3\n1. [ITSub잇섭] 1.2% · 264.8K뷰\n   4K 보조모니터가 15만원이라 무지성 구매했는데.. 내가 후회한 이유?\n2. [주연 ZUYONI] 2.6% · 66.4K뷰\n   QC로 욕먹던 버즈가 제대로 칼을 갈았습니다. (버즈4 프로, 갤럭시 버즈4)\n3. [안될공학 - IT 테크 신기술] 4.9% · 12.1K뷰\n   엔비디아 GTC 2026 키노트, 핵심만 깊게 정리 | Rubin·NemoClaw·삼성 메모리까지\n\n📌 화제 키워드\n   Gemini · Claude · 코딩 · InnovationManagement · Leadership\n\n🎬 포맷: 뉴스 분석 8개 · 빌드 데모 1개 · 사례 분석 1개\n\n💡 VS 각도: ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
-  "video_count": 10,
-  "total_recent_video_count": 10,
+  "generated_at": "2026-03-18T01:57:33+00:00",
+  "summary": "최근 24시간 영상 9개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'OpenAI'입니다. 특히 '4K 보조모니터가 15만원이라 무지성 구매했는데.. 내가 후회한 이유?'는 조회수 289.9K, 참여율 1.2%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "'OpenAI' 주제가 2개 영상으로 가장 많이 다뤄졌습니다. 일반인 관점 직접 실험 or VS 비교 각도로 차별화할 영역이 있습니다.",
+  "telegram_preview": "📡 스마트대디 모니터링 | 03/18\n\n📊 수집: 영상 9개 | 채널 8개\n\n🔥 참여율 TOP 3\n1. [ITSub잇섭] 1.2% · 289.9K뷰\n   4K 보조모니터가 15만원이라 무지성 구매했는데.. 내가 후회한 이유?\n2. [주연 ZUYONI] 2.5% · 73.4K뷰\n   QC로 욕먹던 버즈가 제대로 칼을 갈았습니다. (버즈4 프로, 갤럭시 버즈4)\n3. [안될공학 - IT 테크 신기술] 4.1% · 16.0K뷰\n   엔비디아 GTC 2026 키노트, 핵심만 깊게 정리 | Rubin·NemoClaw·삼성 메모리까지\n\n📌 화제 키워드\n   research · coding · Gemini · agents · monetization\n\n🎬 포맷: 뉴스 분석 6개 · 비교 1개 · 워크플로우 튜토리얼 1개\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+  "video_count": 9,
+  "total_recent_video_count": 9,
   "focus_scope": "all_watchlist",
-  "average_view_count": 35971.0,
-  "average_engagement_rate": 0.052048530950085034,
-  "average_like_count": 574.0,
-  "average_comment_count": 74.0,
+  "average_view_count": 43392.0,
+  "average_engagement_rate": 0.05231819977777615,
+  "average_like_count": 662.0,
+  "average_comment_count": 87.0,
   "best_video_id": "g1uVZMIvy1M",
-  "best_topic": "ChatGPT",
+  "best_topic": "OpenAI",
   "summary_points": [
-    "가장 겹친 주제는 'ChatGPT'이며 4개 영상, 평균 조회수 2.1K, 평균 참여율 7.8%입니다.",
+    "가장 겹친 주제는 'OpenAI'이며 2개 영상, 평균 조회수 3.2K, 평균 참여율 8.5%입니다.",
     "최고 실적 영상은 '4K 보조모니터가 15만원이라 무지성 구매했는데.. 내가 후회한 이유?'이며 문제 해결 훅과 사례 분석 포맷 조합이 강했습니다.",
-    "반복 노출된 툴은 ChatGPT 4회, Gemini 3회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
+    "반복 노출된 툴은 Gemini 3회, ChatGPT 2회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
   ],
   "action_chips": [
-    "주제: ChatGPT",
+    "주제: OpenAI",
     "훅: 문제 해결",
     "포맷: 사례 분석",
     "기준 채널: ITSub잇섭"
   ],
   "title_suggestions": [
-    "ChatGPT vs Claude vs Gemini, 일반인 업무 실전 대결 결과",
-    "GPT 최신 버전 직접 실험 — 이전이랑 진짜 달라?",
-    "GPT 써봤더니... 기대랑 다른 점 솔직하게 다 말해봄"
+    "OpenAI 직접 실험 — 이게 진짜 되나?",
+    "OpenAI vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
+    "OpenAI 써봤더니... (기대 vs 현실 솔직 후기)"
   ],
   "recommendations": [
     {
-      "title": "ChatGPT vs Claude vs Gemini, 일반인 업무 실전 대결 결과",
-      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'ChatGPT'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "ChatGPT 바로 해결",
-      "reason": "ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.",
+      "title": "OpenAI 직접 실험 — 이게 진짜 되나?",
+      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
+      "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
+      "thumbnail_copy": "OpenAI 바로 해결",
+      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
       "source_video_id": "QehqUyBuZMk",
       "source": "I Tried the 100K/Month AI Side Hustle (with OpenClaw)"
     },
     {
-      "title": "GPT 최신 버전 직접 실험 — 이전이랑 진짜 달라?",
-      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'ChatGPT'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "ChatGPT 바로 해결",
-      "reason": "ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.",
+      "title": "OpenAI vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
+      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
+      "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
+      "thumbnail_copy": "OpenAI 바로 해결",
+      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
       "source_video_id": "nz3trf4Xlt8",
       "source": "Meta Replacing Creators? + Sam Altman’s Mistake & 3 Big AI Updates"
-    },
-    {
-      "title": "GPT 써봤더니... 기대랑 다른 점 솔직하게 다 말해봄",
-      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'ChatGPT'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "ChatGPT 바로 해결",
-      "reason": "ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.",
-      "source_video_id": "r3p5OmCceiA",
-      "source": "Deliver Hard News with Compassion"
     }
   ],
   "topic_clusters": [
     {
-      "label": "ChatGPT",
-      "count": 4,
-      "avg_view_count": 2079,
-      "avg_engagement_rate": 0.07821763676641186,
-      "avg_like_count": 172,
-      "avg_comment_count": 30,
+      "label": "OpenAI",
+      "count": 2,
+      "avg_view_count": 3234,
+      "avg_engagement_rate": 0.08469558630261081,
+      "avg_like_count": 278,
+      "avg_comment_count": 55,
       "source_titles": [
         "I Tried the 100K/Month AI Side Hustle (with OpenClaw)",
-        "Meta Replacing Creators? + Sam Altman’s Mistake & 3 Big AI Updates",
-        "Deliver Hard News with Compassion"
+        "Meta Replacing Creators? + Sam Altman’s Mistake & 3 Big AI Updates"
       ],
       "thumbnail_url": "https://i.ytimg.com/vi/QehqUyBuZMk/hqdefault.jpg",
       "representative_video_id": "QehqUyBuZMk",
@@ -78,10 +68,10 @@
     {
       "label": "4K",
       "count": 1,
-      "avg_view_count": 264788,
-      "avg_engagement_rate": 0.01207758659757995,
-      "avg_like_count": 2908,
-      "avg_comment_count": 290,
+      "avg_view_count": 289912,
+      "avg_engagement_rate": 0.01163801429399266,
+      "avg_like_count": 3070,
+      "avg_comment_count": 304,
       "source_titles": [
         "4K 보조모니터가 15만원이라 무지성 구매했는데.. 내가 후회한 이유?"
       ],
@@ -92,10 +82,10 @@
     {
       "label": "QC로",
       "count": 1,
-      "avg_view_count": 66352,
-      "avg_engagement_rate": 0.025575717386062215,
-      "avg_like_count": 1413,
-      "avg_comment_count": 284,
+      "avg_view_count": 73361,
+      "avg_engagement_rate": 0.024508935265331717,
+      "avg_like_count": 1496,
+      "avg_comment_count": 302,
       "source_titles": [
         "QC로 욕먹던 버즈가 제대로 칼을 갈았습니다. (버즈4 프로, 갤럭시 버즈4)"
       ],
@@ -106,10 +96,10 @@
     {
       "label": "엔비디아",
       "count": 1,
-      "avg_view_count": 12118,
-      "avg_engagement_rate": 0.04868790229410794,
-      "avg_like_count": 552,
-      "avg_comment_count": 38,
+      "avg_view_count": 16048,
+      "avg_engagement_rate": 0.041188933200398806,
+      "avg_like_count": 615,
+      "avg_comment_count": 46,
       "source_titles": [
         "엔비디아 GTC 2026 키노트, 핵심만 깊게 정리 | Rubin·NemoClaw·삼성 메모리까지"
       ],
@@ -118,25 +108,25 @@
       "representative_title": "엔비디아 GTC 2026 키노트, 핵심만 깊게 정리 | Rubin·NemoClaw·삼성 메모리까지"
     },
     {
-      "label": "진짜",
+      "label": "Arc",
       "count": 1,
-      "avg_view_count": 6592,
-      "avg_engagement_rate": 0.020479368932038836,
-      "avg_like_count": 133,
-      "avg_comment_count": 2,
+      "avg_view_count": 1637,
+      "avg_engagement_rate": 0.0678069639584606,
+      "avg_like_count": 107,
+      "avg_comment_count": 4,
       "source_titles": [
-        "진짜 고수들은 AI를 이렇게 씁니다"
+        "Deliver Hard News with Compassion"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/BFpTneBhdNU/hqdefault.jpg",
-      "representative_video_id": "BFpTneBhdNU",
-      "representative_title": "진짜 고수들은 AI를 이렇게 씁니다"
+      "thumbnail_url": "https://i.ytimg.com/vi/r3p5OmCceiA/hqdefault.jpg",
+      "representative_video_id": "r3p5OmCceiA",
+      "representative_title": "Deliver Hard News with Compassion"
     },
     {
-      "label": "InnovationManagement",
+      "label": "What",
       "count": 1,
-      "avg_view_count": 1276,
-      "avg_engagement_rate": 0.022727272727272728,
-      "avg_like_count": 28,
+      "avg_view_count": 1439,
+      "avg_engagement_rate": 0.020847810979847115,
+      "avg_like_count": 29,
       "avg_comment_count": 1,
       "source_titles": [
         "What Leaders Can Do When Innovation Starts to Stall"
@@ -146,11 +136,25 @@
       "representative_title": "What Leaders Can Do When Innovation Starts to Stall"
     },
     {
-      "label": "AI실사화",
+      "label": "ChatGPT",
       "count": 1,
-      "avg_view_count": 269,
-      "avg_engagement_rate": 0.07806691449814127,
-      "avg_like_count": 15,
+      "avg_view_count": 1365,
+      "avg_engagement_rate": 0.054945054945054944,
+      "avg_like_count": 67,
+      "avg_comment_count": 8,
+      "source_titles": [
+        "How to Switch from ChatGPT to Gemini (Without Losing Anything!)"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/aK3lAZ5hhm0/hqdefault.jpg",
+      "representative_video_id": "aK3lAZ5hhm0",
+      "representative_title": "How to Switch from ChatGPT to Gemini (Without Losing Anything!)"
+    },
+    {
+      "label": "나노바나나",
+      "count": 1,
+      "avg_view_count": 298,
+      "avg_engagement_rate": 0.08053691275167785,
+      "avg_like_count": 18,
       "avg_comment_count": 6,
       "source_titles": [
         "나노바나나 2로 AI 포켓몬 실사화 콘텐츠 제작(지금이 기회입니다)"
@@ -168,10 +172,10 @@
       "thumbnail_url": "https://i.ytimg.com/vi/g1uVZMIvy1M/hqdefault.jpg",
       "video_url": "https://www.youtube.com/watch?v=g1uVZMIvy1M",
       "published_at": "2026-03-17T11:01:12Z",
-      "view_count": 264788,
-      "like_count": 2908,
-      "comment_count": 290,
-      "engagement_rate": 0.01207758659757995,
+      "view_count": 289912,
+      "like_count": 3070,
+      "comment_count": 304,
+      "engagement_rate": 0.01163801429399266,
       "topic_cluster": "4K",
       "summary": "이 영상은 사례 분석 이슈를 사례 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
       "comment_signal": "감사합니다. 덕분에 하루의 피곤이 풀렸습니다ㅋㅋㅋ",
@@ -184,10 +188,10 @@
       "thumbnail_url": "https://i.ytimg.com/vi/bcqW5wKKLDw/hqdefault.jpg",
       "video_url": "https://www.youtube.com/watch?v=bcqW5wKKLDw",
       "published_at": "2026-03-17T09:00:50Z",
-      "view_count": 66352,
-      "like_count": 1413,
-      "comment_count": 284,
-      "engagement_rate": 0.025575717386062215,
+      "view_count": 73361,
+      "like_count": 1496,
+      "comment_count": 302,
+      "engagement_rate": 0.024508935265331717,
       "topic_cluster": "QC로",
       "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
       "comment_signal": "삼성페이(월렛앱) 켜면 노캔끄고 주변소리듣기로 전환 월렛앱닫으면 다시 이전으로 복원. 루틴만들어두면 됩니다 강추.",
@@ -200,29 +204,13 @@
       "thumbnail_url": "https://i.ytimg.com/vi/yNY_BSzL1Zs/hqdefault.jpg",
       "video_url": "https://www.youtube.com/watch?v=yNY_BSzL1Zs",
       "published_at": "2026-03-17T12:52:23Z",
-      "view_count": 12118,
-      "like_count": 552,
-      "comment_count": 38,
-      "engagement_rate": 0.04868790229410794,
+      "view_count": 16048,
+      "like_count": 615,
+      "comment_count": 46,
+      "engagement_rate": 0.041188933200398806,
       "topic_cluster": "엔비디아",
       "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "솔직히 말씀드리겠습니다. 3년전부터 거의 모든 영상 챙겨보는 애청자입니다. 형님 요즘 폼 좀 떨어지신 것 같습니다. 이전에는 서데스 동작 원리나 브로드컴 기술적 해자, 아…",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "BFpTneBhdNU",
-      "channel_name": "알린 ALINN",
-      "title": "진짜 고수들은 AI를 이렇게 씁니다",
-      "thumbnail_url": "https://i.ytimg.com/vi/BFpTneBhdNU/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=BFpTneBhdNU",
-      "published_at": "2026-03-17T01:22:58Z",
-      "view_count": 6592,
-      "like_count": 133,
-      "comment_count": 2,
-      "engagement_rate": 0.020479368932038836,
-      "topic_cluster": "진짜",
-      "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "안녕하세요 방금 영어회화에 쓰신 ai는 뭔가요?",
+      "comment_signal": "Ai에러 잘하네,,,,,,",
       "hook_type": "문제 해결"
     },
     {
@@ -232,13 +220,29 @@
       "thumbnail_url": "https://i.ytimg.com/vi/QehqUyBuZMk/hqdefault.jpg",
       "video_url": "https://www.youtube.com/watch?v=QehqUyBuZMk",
       "published_at": "2026-03-17T13:52:47Z",
-      "view_count": 4005,
-      "like_count": 470,
-      "comment_count": 100,
-      "engagement_rate": 0.14232209737827714,
-      "topic_cluster": "ChatGPT",
-      "summary": "AI 챗봇 'OpenClaw'와 VPS 호스팅 'Hostinger'를 활용해 주식 시장 예측 및 매매 보조 챗봇을 직접 만들고, 그 수익화 가능성을 실험하는 과정을…",
+      "view_count": 4455,
+      "like_count": 492,
+      "comment_count": 101,
+      "engagement_rate": 0.13310886644219977,
+      "topic_cluster": "OpenAI",
+      "summary": "이 영상은 automation 이슈를 워크플로우 튜토리얼 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
       "comment_signal": "You better invite me to your yacht when your a millionaire",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "nz3trf4Xlt8",
+      "channel_name": "The Next Wave - AI and the Future of Technology",
+      "title": "Meta Replacing Creators? + Sam Altman’s Mistake & 3 Big AI Updates",
+      "thumbnail_url": "https://i.ytimg.com/vi/nz3trf4Xlt8/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=nz3trf4Xlt8",
+      "published_at": "2026-03-17T15:01:22Z",
+      "view_count": 2012,
+      "like_count": 64,
+      "comment_count": 9,
+      "engagement_rate": 0.03628230616302187,
+      "topic_cluster": "OpenAI",
+      "summary": "이 영상은 agents 이슈를 비교 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "At 54:00 is I have determined this to be political propaganda. Unsubscribing to this and the ma…",
       "hook_type": "문제 해결"
     }
   ]
