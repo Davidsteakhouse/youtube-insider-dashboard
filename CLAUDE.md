@@ -82,6 +82,16 @@
 - 원인: `.env`에 `PUBLIC_DASHBOARD_URL` 미설정 (GitHub Actions에만 있었음)
 - 수정: `.env`에 `PUBLIC_DASHBOARD_URL=https://davidsteakhouse.github.io/youtube-insider-dashboard/` 추가
 
+**문제 5: 로컬 실행 후 GitHub Pages가 갱신되지 않음 (2026-03-17)**
+- 원인: `run_daily_wealth.ps1` / `run_daily_update.bat` / `run_daily_update.pyw` 가 파이프라인 결과를 GitHub에 push하지 않음
+  - 또한 `run_daily_wealth.ps1`은 `git pull` 없이 `--notify-telegram`까지 붙어 있어 중복 발송 + 오래된 데이터로 실행 위험
+- 수정 (세 파일 모두 동일 패턴으로 변경):
+  1. 파이프라인 실행 전 `git checkout -- data data_bundle.js` → 로컬 변경사항 제거 (git pull 실패 방지)
+  2. `git pull --ff-only` → Actions 최신 데이터 동기화
+  3. `run_pipeline.py` 실행 (로컬 fresh data 수집, `--notify-telegram` 없음)
+  4. `git add data/*.json data_bundle.js` → `git commit` → `git push` → GitHub Pages 트리거
+- **주의**: `run_daily_wealth.ps1`은 Task Scheduler 등 자동 실행용. `--notify-telegram`을 붙이면 Actions와 중복 발송됨. 절대 붙이지 말 것.
+
 ## 파일별 역할
 
 - `index.html`

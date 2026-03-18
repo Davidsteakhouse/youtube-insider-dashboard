@@ -30,16 +30,22 @@ def run_step(args: list[str]) -> subprocess.CompletedProcess[str]:
     )
 
 
+def git_run(*args: str) -> subprocess.CompletedProcess[str]:
+    return subprocess.run(
+        ["git", "-C", str(ROOT_DIR), *args],
+        capture_output=True,
+        text=True,
+        encoding="utf-8",
+    )
+
+
 def main() -> int:
     if not PIPELINE_SCRIPT.exists():
         show_message("업데이트 실행 실패", "scripts/run_pipeline.py 파일을 찾을 수 없습니다.", error=True)
         return 1
 
-    subprocess.run(
-        ["git", "-C", str(ROOT_DIR), "pull", "--ff-only"],
-        capture_output=True,
-        text=True,
-    )
+    git_run("checkout", "--", "data", "data_bundle.js")
+    git_run("pull", "--ff-only")
 
     pipeline = run_step([])
     if pipeline.returncode != 0:
@@ -49,6 +55,12 @@ def main() -> int:
             error=True,
         )
         return pipeline.returncode
+
+    git_run("add", "data/watchlist.json", "data/videos.json", "data/digest.json", "data_bundle.js")
+    diff = git_run("diff", "--cached", "--quiet")
+    if diff.returncode != 0:
+        git_run("commit", "-m", "chore: local daily update")
+        git_run("push")
 
     show_message(
         "업데이트 완료",
