@@ -3,8 +3,8 @@ setlocal
 cd /d "%~dp0"
 
 echo [0/3] Syncing with remote...
-git -C "%~dp0" checkout -- data data_bundle.js
-git -C "%~dp0" pull --ff-only
+git checkout -- data data_bundle.js
+git pull --ff-only
 if errorlevel 1 (
   echo Git pull failed. Continuing with local data.
 )
@@ -18,11 +18,11 @@ if errorlevel 1 (
 )
 
 echo [2/3] Pushing updated data to GitHub...
-git -C "%~dp0" add data/watchlist.json data/videos.json data/digest.json data_bundle.js
-git -C "%~dp0" diff --cached --quiet
+git add data/watchlist.json data/videos.json data/digest.json data_bundle.js
+git diff --cached --quiet
 if errorlevel 1 (
-  git -C "%~dp0" commit -m "chore: local daily update"
-  git -C "%~dp0" push
+  git commit -m "chore: local daily update"
+  git push
   if errorlevel 1 (
     echo Git push failed. Data saved locally only.
   )
