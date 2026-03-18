@@ -4,6 +4,7 @@ import ast
 import importlib
 import json
 import os
+import re
 import subprocess
 import sys
 import tempfile
@@ -441,8 +442,6 @@ def fetch_via_ytdlp(video_id: str) -> dict[str, Any] | None:
                 f"https://www.youtube.com/watch?v={video_id}",
             ]
             result = subprocess.run(command, capture_output=True, text=True, timeout=120, check=False)
-            if result.returncode != 0:
-                return None
 
             subtitle_files = sorted(
                 path for path in os.listdir(tmp_dir)
@@ -464,11 +463,20 @@ def fetch_via_ytdlp(video_id: str) -> dict[str, Any] | None:
             subtitle_path = os.path.join(tmp_dir, preferred_files[0])
             with open(subtitle_path, "r", encoding="utf-8", errors="ignore") as handle:
                 lines: list[str] = []
+                seen: set[str] = set()
                 for raw_line in handle:
                     stripped = raw_line.strip()
-                    if not stripped or stripped.startswith("WEBVTT") or "-->" in stripped or stripped.isdigit():
+                    if not stripped:
                         continue
-                    lines.append(stripped)
+                    if stripped.startswith(("WEBVTT", "Kind:", "Language:", "NOTE", "STYLE", "REGION")):
+                        continue
+                    if "-->" in stripped or stripped.isdigit():
+                        continue
+                    # 인라인 VTT 타이밍 태그 제거: <00:00:00.000>, <c>, </c> 등
+                    cleaned = re.sub(r"<[^>]+>", "", stripped).strip()
+                    if cleaned and cleaned not in seen:
+                        seen.add(cleaned)
+                        lines.append(cleaned)
             transcript_text = "\n".join(lines).strip()
             if not transcript_text:
                 return None
