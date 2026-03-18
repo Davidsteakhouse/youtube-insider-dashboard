@@ -1,68 +1,16 @@
 from __future__ import annotations
 
-import ast
 import importlib
-import json
 import os
 import re
 import subprocess
 import sys
 import tempfile
 import time
-from socket import timeout as SocketTimeout
 from typing import Any
-from urllib.error import URLError
-
-from common import request_json
 
 
-APIFY_BASE = "https://api.apify.com/v2"
-DEFAULT_ACTOR_ID = "futurizerush~youtube-transcript-scraper"
-LEGACY_ACTOR_IDS = {"h7sDV53CddomktSi5"}
 PREFERRED_LANGUAGES = ["ko", "ko-KR", "en", "en-US"]
-
-
-def normalize_language(value: Any) -> str:
-    return str(value or "").strip()
-
-
-def flatten_text(value: Any) -> str:
-    if isinstance(value, str):
-        stripped = value.strip()
-        if stripped.startswith("[") or stripped.startswith("{"):
-            for parser in (json.loads, ast.literal_eval):
-                try:
-                    parsed = parser(stripped)
-                except Exception:
-                    continue
-                nested_text = flatten_text(parsed)
-                if nested_text:
-                    return nested_text
-        return stripped
-    if isinstance(value, list):
-        lines: list[str] = []
-        for item in value:
-            text = flatten_text(item)
-            if text:
-                lines.append(text)
-        return "\n".join(lines).strip()
-    if isinstance(value, dict):
-        for key in ("plaintext", "text", "transcriptText", "transcript", "plainText", "content"):
-            if key not in value:
-                continue
-            direct = flatten_text(value.get(key))
-            if direct:
-                return direct
-        lines: list[str] = []
-        for key in ("subtitles", "chunks", "segments", "entries", "lines", "items"):
-            nested = value.get(key)
-            if isinstance(nested, list):
-                for item in nested:
-                    text = flatten_text(item)
-                    if text:
-                        lines.append(text)
-        return "\n".join(lines).strip()
-    return ""
 
 
 def transcript_payload(
@@ -79,225 +27,6 @@ def transcript_payload(
         "transcript_language": language,
         "transcript_text": text,
         "transcript_highlights": highlights,
-    }
-
-
-def actor_id_candidates() -> list[str]:
-    configured = normalize_language(os.getenv("APIFY_YOUTUBE_TRANSCRIPT_ACTOR_ID"))
-    candidates: list[str] = []
-    if configured and configured not in LEGACY_ACTOR_IDS:
-        candidates.append(configured)
-    if DEFAULT_ACTOR_ID not in candidates:
-        candidates.append(DEFAULT_ACTOR_ID)
-    return candidates
-
-
-def transcript_language_label(display_language: str, source_language: str | None = None) -> str:
-    display = normalize_language(display_language)
-    source = normalize_language(source_language)
-    if display and source and display != source:
-        return f"{display} ← {source}"
-    return display or source
-
-
-def is_korean(language: str) -> bool:
-    lowered = normalize_language(language).lower()
-    return lowered.startswith("ko")
-
-
-def is_english(language: str) -> bool:
-    lowered = normalize_language(language).lower()
-    return lowered.startswith("en")
-
-
-def candidate_priority(candidate: dict[str, Any]) -> tuple[int, int]:
-    language = normalize_language(candidate.get("language"))
-    status = normalize_language(candidate.get("status"))
-    if is_korean(language) and status == "available":
-        return (0, 0)
-    if is_korean(language) and status == "available_auto":
-        return (1, 0)
-    if is_korean(language) and status == "translated":
-        return (2, 0)
-    if is_english(language) and status == "available":
-        return (3, 0)
-    if is_english(language) and status == "available_auto":
-        return (4, 0)
-    return (5, 0)
-
-
-def build_candidate(
-    text: str,
-    *,
-    language: str,
-    source: str,
-    status: str,
-) -> dict[str, Any]:
-    return {
-        "text": text,
-        "language": language,
-        "source": source,
-        "status": status,
-    }
-
-
-def subtitle_candidates_from_list(subtitles: Any) -> list[dict[str, Any]]:
-    if isinstance(subtitles, dict):
-        subtitles = [subtitles]
-    if not isinstance(subtitles, list):
-        return []
-
-    candidates: list[dict[str, Any]] = []
-    for subtitle in subtitles:
-        if not isinstance(subtitle, dict):
-            continue
-        text = flatten_text(subtitle)
-        if not text:
-            continue
-        language = transcript_language_label(
-            subtitle.get("language") or subtitle.get("languageCode"),
-            subtitle.get("sourceLanguage") or subtitle.get("translatedFrom"),
-        )
-        subtitle_type = normalize_language(subtitle.get("type")).lower()
-        translated = bool(subtitle.get("isTranslated")) or bool(subtitle.get("translatedFrom")) or bool(subtitle.get("sourceLanguage"))
-        status = "translated" if translated else ("available_auto" if "auto" in subtitle_type else "available")
-        candidates.append(build_candidate(text, language=language, source="apify", status=status))
-    return candidates
-
-
-def subtitle_candidates_from_transcript_map(transcripts: Any) -> list[dict[str, Any]]:
-    if not isinstance(transcripts, dict):
-        return []
-
-    candidates: list[dict[str, Any]] = []
-    for language_key, payload in transcripts.items():
-        language = normalize_language(language_key)
-
-        if isinstance(payload, dict):
-            text = flatten_text(payload)
-            translated_from = payload.get("translatedFrom") or payload.get("sourceLanguage")
-            status = "translated" if translated_from or payload.get("isTranslated") else (
-                "available_auto" if payload.get("isGenerated") or payload.get("autoGenerated") else "available"
-            )
-            candidate_language = transcript_language_label(language, translated_from)
-            if text:
-                candidates.append(build_candidate(text, language=candidate_language, source="apify", status=status))
-            continue
-
-        text = flatten_text(payload)
-        if text:
-            candidates.append(build_candidate(text, language=language, source="apify", status="available"))
-    return candidates
-
-
-def transcript_candidates_from_item(item: dict[str, Any]) -> list[dict[str, Any]]:
-    candidates: list[dict[str, Any]] = []
-    seen: set[tuple[str, str, str]] = set()
-
-    for candidate in subtitle_candidates_from_list(item.get("subtitles")):
-        key = (candidate["text"], candidate["language"], candidate["status"])
-        if key not in seen:
-            seen.add(key)
-            candidates.append(candidate)
-
-    for candidate in subtitle_candidates_from_transcript_map(item.get("transcripts")):
-        key = (candidate["text"], candidate["language"], candidate["status"])
-        if key not in seen:
-            seen.add(key)
-            candidates.append(candidate)
-
-    direct_variants = [
-        (
-            flatten_text(item.get("transcriptText") or item.get("transcript") or item.get("text")),
-            transcript_language_label(
-                item.get("language") or item.get("languageCode") or item.get("requestedLanguage"),
-                item.get("sourceLanguage") or item.get("translatedFrom"),
-            ),
-            "translated" if item.get("isTranslated") or item.get("translatedFrom") else (
-                "available_auto" if item.get("isGenerated") or item.get("autoGenerated") else "available"
-            ),
-        ),
-        (
-            flatten_text(item.get("translation") or item.get("translatedText")),
-            transcript_language_label(item.get("displayLanguage") or "ko", item.get("language") or item.get("sourceLanguage")),
-            "translated",
-        ),
-    ]
-
-    for text, language, status in direct_variants:
-        if text:
-            key = (text, language, status)
-            if key not in seen:
-                seen.add(key)
-                candidates.append(build_candidate(text, language=language, source="apify", status=status))
-
-    for collection_key in ("translations", "translatedTranscripts", "localizedTranscripts", "results", "items"):
-        collection = item.get(collection_key)
-        if isinstance(collection, list):
-            for nested in collection:
-                if not isinstance(nested, dict):
-                    continue
-                text = flatten_text(nested)
-                if not text:
-                    continue
-                language = transcript_language_label(
-                    nested.get("displayLanguage") or nested.get("language") or nested.get("languageCode"),
-                    nested.get("sourceLanguage") or nested.get("translatedFrom") or item.get("language"),
-                )
-                status = "translated" if nested.get("isTranslated") or nested.get("translatedFrom") or nested.get("sourceLanguage") else (
-                    "available_auto" if nested.get("isGenerated") or nested.get("autoGenerated") else "available"
-                )
-                key = (text, language, status)
-                if key not in seen:
-                    seen.add(key)
-                    candidates.append(build_candidate(text, language=language, source="apify", status=status))
-
-    return candidates
-
-
-def extract_apify_transcript(items: Any) -> dict[str, Any]:
-    if not isinstance(items, list) or not items:
-        return {
-            "transcript_status": "unavailable",
-            "transcript_source": "none",
-            "transcript_language": "",
-            "transcript_text": "",
-            "transcript_highlights": [],
-        }
-
-    candidates: list[dict[str, Any]] = []
-    description_only = ""
-    for item in items:
-        if not isinstance(item, dict):
-            continue
-        candidates.extend(transcript_candidates_from_item(item))
-        if not description_only:
-            description_only = flatten_text(item.get("description") or item.get("textDescription") or "")
-
-    if candidates:
-        best = sorted(candidates, key=candidate_priority)[0]
-        return transcript_payload(
-            status=best["status"],
-            source=best["source"],
-            language=best["language"],
-            text=best["text"],
-        )
-
-    if description_only:
-        return {
-            "transcript_status": "description_only",
-            "transcript_source": "apify",
-            "transcript_language": "",
-            "transcript_text": "",
-            "transcript_highlights": [],
-        }
-
-    return {
-        "transcript_status": "unavailable",
-        "transcript_source": "none",
-        "transcript_language": "",
-        "transcript_text": "",
-        "transcript_highlights": [],
     }
 
 
@@ -441,7 +170,7 @@ def fetch_via_ytdlp(video_id: str) -> dict[str, Any] | None:
                 f"{tmp_dir}/%(id)s.%(ext)s",
                 f"https://www.youtube.com/watch?v={video_id}",
             ]
-            result = subprocess.run(command, capture_output=True, text=True, timeout=120, check=False)
+            subprocess.run(command, capture_output=True, text=True, timeout=120, check=False)
 
             subtitle_files = sorted(
                 path for path in os.listdir(tmp_dir)
@@ -472,7 +201,6 @@ def fetch_via_ytdlp(video_id: str) -> dict[str, Any] | None:
                         continue
                     if "-->" in stripped or stripped.isdigit():
                         continue
-                    # 인라인 VTT 타이밍 태그 제거: <00:00:00.000>, <c>, </c> 등
                     cleaned = re.sub(r"<[^>]+>", "", stripped).strip()
                     if cleaned and cleaned not in seen:
                         seen.add(cleaned)
@@ -490,48 +218,11 @@ def fetch_via_ytdlp(video_id: str) -> dict[str, Any] | None:
 
 
 def fetch_transcript(video_id: str) -> dict[str, Any]:
-    token = os.getenv("APIFY_TOKEN")
-
-    if token:
-        payload = {
-            "video_ids": [video_id],
-            "languages": PREFERRED_LANGUAGES,
-            "text_only": True,
-            "include_generated": True,
-            "include_translation": True,
-        }
-        for actor_id in actor_id_candidates():
-            try:
-                items = request_json(
-                    f"{APIFY_BASE}/acts/{actor_id}/run-sync-get-dataset-items",
-                    method="POST",
-                    params={"token": token},
-                    payload=payload,
-                    timeout=120,
-                )
-                transcript = extract_apify_transcript(items)
-                if transcript.get("transcript_status") in {"available", "available_auto", "translated"}:
-                    return transcript
-                fallback = fetch_via_ytdlp(video_id) or fetch_via_youtube_transcript_api(video_id)
-                return fallback or transcript
-            except (RuntimeError, TimeoutError, SocketTimeout, URLError, OSError):
-                continue
-
-    fallback = fetch_via_ytdlp(video_id) or fetch_via_youtube_transcript_api(video_id)
-    if fallback:
-        return fallback
-
-    if token:
-        return {
-            "transcript_status": "failed",
-            "transcript_source": "none",
-            "transcript_language": "",
-            "transcript_text": "",
-            "transcript_highlights": [],
-        }
-
+    result = fetch_via_ytdlp(video_id) or fetch_via_youtube_transcript_api(video_id)
+    if result:
+        return result
     return {
-        "transcript_status": "not_configured",
+        "transcript_status": "failed",
         "transcript_source": "none",
         "transcript_language": "",
         "transcript_text": "",
@@ -540,7 +231,6 @@ def fetch_transcript(video_id: str) -> dict[str, Any]:
 
 
 def enrich_videos_with_transcripts(videos: list[dict[str, Any]]) -> list[dict[str, Any]]:
-    token = os.getenv("APIFY_TOKEN")
     max_fetch = int(os.getenv("TRANSCRIPT_FETCH_LIMIT", "24") or 24)
     prioritized_ids = {
         video.get("video_id")
@@ -559,11 +249,6 @@ def enrich_videos_with_transcripts(videos: list[dict[str, Any]]) -> list[dict[st
         has_existing_transcript = bool(video.get("transcript_text")) or bool(video.get("transcript_highlights"))
         if video.get("transcript_status") in {"available", "available_auto", "translated"} and has_existing_transcript:
             enriched.append(video)
-            continue
-
-        if not token:
-            transcript = fetch_transcript(video.get("video_id", "")) if (not has_existing_transcript) else None
-            enriched.append({**video, **transcript} if transcript else video)
             continue
 
         if video.get("video_id") not in prioritized_ids:
