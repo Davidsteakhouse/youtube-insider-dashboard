@@ -7,6 +7,7 @@ import os
 import subprocess
 import sys
 import tempfile
+import time
 from socket import timeout as SocketTimeout
 from typing import Any
 from urllib.error import URLError
@@ -319,13 +320,21 @@ def transcript_list_instance(video_id: str) -> Any:
     return None
 
 
-def fetch_items_from_transcript_obj(transcript_obj: Any) -> list[dict[str, Any]] | None:
-    try:
-        items = transcript_obj.fetch()
-    except Exception:
-        return None
-    if isinstance(items, list):
-        return [item for item in items if isinstance(item, dict)]
+def fetch_items_from_transcript_obj(transcript_obj: Any, max_retries: int = 2) -> list[dict[str, Any]] | None:
+    for attempt in range(max_retries + 1):
+        try:
+            items = transcript_obj.fetch()
+            if isinstance(items, list):
+                return [item for item in items if isinstance(item, dict)]
+            return None
+        except Exception as exc:
+            error_str = str(exc)
+            is_rate_limit = "429" in error_str or "Too Many Requests" in error_str
+            is_empty_xml = "no element found" in error_str
+            if (is_rate_limit or is_empty_xml) and attempt < max_retries:
+                time.sleep(3 * (attempt + 1))
+                continue
+            return None
     return None
 
 
@@ -555,4 +564,5 @@ def enrich_videos_with_transcripts(videos: list[dict[str, Any]]) -> list[dict[st
 
         transcript = fetch_transcript(video.get("video_id", ""))
         enriched.append({**video, **transcript})
+        time.sleep(1)
     return enriched
