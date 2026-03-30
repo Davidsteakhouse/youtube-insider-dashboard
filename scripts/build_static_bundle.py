@@ -14,6 +14,7 @@ def build_bundle_payload() -> dict:
         "watchlist": read_json(DATA_DIR / "watchlist.json", {"channels": []}),
         "videos": read_json(DATA_DIR / "videos.json", {"videos": []}),
         "digest": read_json(DATA_DIR / "digest.json", {}),
+        "my_channel": read_json(DATA_DIR / "my_channel.json", {}),
     }
 
 

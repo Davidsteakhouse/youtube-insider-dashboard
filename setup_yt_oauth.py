@@ -63,14 +63,15 @@ def main() -> None:
                 auth_code.append(code)
             self.send_response(200)
             self.end_headers()
-            self.wfile.write(b"<h1>인증 완료! 이 탭을 닫고 터미널로 돌아가세요.</h1>")
+            self.wfile.write("<h1>Done! Close this tab.</h1>".encode())
 
         def log_message(self, fmt: str, *args: object) -> None:
             pass
 
     print("localhost:8080 에서 인증 콜백 대기 중...")
     server = HTTPServer(("localhost", 8080), Handler)
-    server.handle_request()
+    while not auth_code:
+        server.handle_request()
 
     if not auth_code:
         print("인증 코드를 받지 못했습니다.")

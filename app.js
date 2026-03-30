@@ -41,6 +41,7 @@ const appData = {
     best_topic: "",
     focus_scope: "all_watchlist",
   },
+  myChannel: null,
 };
 
 const bundledData = window.__DASHBOARD_DATA__ || {};
@@ -512,6 +513,7 @@ async function loadBootstrap() {
       appData.todayVideos = hydrateVideos(normalizeVideoPayload(payload.todayVideos || []));
       appData.groupedHistory = groupVideosByDate(appData.videos);
       appData.digest = normalizeDigestPayload(payload.digest || {});
+      appData.myChannel = payload.my_channel || null;
       return;
     } catch (error) {
       state.apiAvailable = false;
@@ -529,6 +531,7 @@ async function loadBootstrap() {
 
   state.previewMode = true;
   appData.meta = bundledData.meta || { notion_source_url: DEFAULT_NOTION_URL };
+  appData.myChannel = bundledData.my_channel || null;
   appData.channels = normalizeWatchlistPayload(watchlist);
   appData.digest = normalizeDigestPayload(digest);
   const digestRefTime = appData.digest.generated_at ? new Date(appData.digest.generated_at) : null;
@@ -648,7 +651,7 @@ function fallbackSummaryPoints() {
 function renderMyChannelStats() {
   const el = document.getElementById("my-channel-stats");
   if (!el) return;
-  const mc = appData.digest.my_channel;
+  const mc = appData.myChannel;
   if (!mc || !mc.yesterday) {
     el.innerHTML = '<p class="empty-state">YouTube Analytics 미연동 또는 어제 데이터 없음</p>';
     return;
@@ -1248,6 +1251,7 @@ async function refreshFromApi(actionLabel) {
     appData.todayVideos = hydrateVideos(normalizeVideoPayload(payload.todayVideos || []));
     appData.groupedHistory = groupVideosByDate(appData.videos);
     appData.digest = normalizeDigestPayload(payload.digest || {});
+    appData.myChannel = payload.my_channel || null;
     if (actionLabel) {
       state.loadWarnings = [`${actionLabel} 완료`];
     }
