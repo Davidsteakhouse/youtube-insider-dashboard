@@ -1,6 +1,6 @@
 window.__DASHBOARD_DATA__ = {
   "watchlist": {
-    "generated_at": "2026-03-30T15:29:30+00:00",
+    "generated_at": "2026-03-30T15:47:51+00:00",
     "source": "sqlite_export",
     "channels": [
       {
@@ -18,7 +18,7 @@ window.__DASHBOARD_DATA__ = {
         "country": "KR",
         "published_at": "2016-08-07T10:23:41Z",
         "thumbnail_url": "https://yt3.ggpht.com/ytc/AIdro_kutxZhVtnH4nWcW7ebuDER5TfHwPZJaqGyBVGjVC52A0A=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-03-30T15:27:58+00:00",
+        "last_synced_at": "2026-03-30T15:46:45+00:00",
         "source": "notion",
         "notes": ""
       },
@@ -37,7 +37,7 @@ window.__DASHBOARD_DATA__ = {
         "country": "US",
         "published_at": "2007-10-04T16:54:13Z",
         "thumbnail_url": "https://yt3.ggpht.com/pLuETMM_cfn5Kdyny-y3YVxgHHsElTOm_k7nh_GGaJ9mSnlDDWIyF_oeYAE7Qabh1zy4mVzI=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-03-30T15:27:58+00:00",
+        "last_synced_at": "2026-03-30T15:46:45+00:00",
         "source": "notion",
         "notes": ""
       },
@@ -56,7 +56,7 @@ window.__DASHBOARD_DATA__ = {
         "country": "KR",
         "published_at": "2020-03-01T07:13:43.531335Z",
         "thumbnail_url": "https://yt3.ggpht.com/ytc/AIdro_kWXdgewHuD89YlbSIkvQaFrnGLalhXjXL3pI4kkOq6BQ=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-03-30T15:27:58+00:00",
+        "last_synced_at": "2026-03-30T15:46:45+00:00",
         "source": "notion",
         "notes": ""
       },
@@ -75,7 +75,7 @@ window.__DASHBOARD_DATA__ = {
         "country": "KR",
         "published_at": "2012-04-18T00:37:09Z",
         "thumbnail_url": "https://yt3.ggpht.com/SN0KJNTKsCoA4GVnJIhi1osLYXNOxtm19jL0N5axhMdjWH149mAzugIcM6reVU7-8lGzlClQ=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-03-30T15:27:58+00:00",
+        "last_synced_at": "2026-03-30T15:46:45+00:00",
         "source": "notion",
         "notes": ""
       },
@@ -94,7 +94,7 @@ window.__DASHBOARD_DATA__ = {
         "country": "KR",
         "published_at": "2018-08-20T09:21:54Z",
         "thumbnail_url": "https://yt3.ggpht.com/et2nVg4weQCeZIW0EIGn93DHg37zceXQdMVtv3XnZDVKRB3dqleAEw5lsNuvM0pzucnLdhfs=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-03-30T15:27:58+00:00",
+        "last_synced_at": "2026-03-30T15:46:45+00:00",
         "source": "notion",
         "notes": ""
       },
@@ -113,7 +113,7 @@ window.__DASHBOARD_DATA__ = {
         "country": "US",
         "published_at": "2022-12-04T00:42:00.412506Z",
         "thumbnail_url": "https://yt3.ggpht.com/7gpWN95XOZ-MO30txO1hyDUM9b830cX3mMANqWNVLVegO4LaoWueslV370g-8dBdkirYOKhUCw=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-03-30T15:27:58+00:00",
+        "last_synced_at": "2026-03-30T15:46:45+00:00",
         "source": "notion",
         "notes": ""
       },
@@ -132,7 +132,7 @@ window.__DASHBOARD_DATA__ = {
         "country": "PT",
         "published_at": "2012-12-25T12:09:42Z",
         "thumbnail_url": "https://yt3.ggpht.com/DvaUGxvtI8_VHscLePaF-JO0kMrzluLkGQWDIOtbHvAkmlRaX_gh3YATlFu8046lrNjBQ0cmIw=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-03-30T15:27:58+00:00",
+        "last_synced_at": "2026-03-30T15:46:45+00:00",
         "source": "notion",
         "notes": ""
       },
@@ -151,7 +151,7 @@ window.__DASHBOARD_DATA__ = {
         "country": "KR",
         "published_at": "2019-04-13T17:13:02Z",
         "thumbnail_url": "https://yt3.ggpht.com/hStraaByOVLDs0eye3XmjD7l1pkYEb9DwGwRhOM5RdOfG-thmMTt0ozg3EOTDcxM-D-S2BlcyA=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-03-30T15:27:58+00:00",
+        "last_synced_at": "2026-03-30T15:46:45+00:00",
         "source": "notion",
         "notes": ""
       },
@@ -170,7 +170,7 @@ window.__DASHBOARD_DATA__ = {
         "country": "AU",
         "published_at": "2019-07-18T08:02:17Z",
         "thumbnail_url": "https://yt3.ggpht.com/vid8YE1bhiQRe_UHZg2pCk8mZ8HBw9pQt9t0wgYW5fztogTsQGF3KzmjHxVxSV2g9-j-4XPytBU=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-03-30T15:27:58+00:00",
+        "last_synced_at": "2026-03-30T15:46:45+00:00",
         "source": "notion",
         "notes": ""
       },
@@ -189,7 +189,7 @@ window.__DASHBOARD_DATA__ = {
         "country": "GB",
         "published_at": "2023-01-03T15:41:34.351116Z",
         "thumbnail_url": "https://yt3.ggpht.com/GFuvgO3IZvs5XkYOxyLoWQto2lyY6-7Ob-7sfZRyoann4eBgvBMxuGgSVU1cvBgRCgAn41St7g=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-03-30T15:27:58+00:00",
+        "last_synced_at": "2026-03-30T15:46:45+00:00",
         "source": "notion",
         "notes": ""
       },
@@ -208,7 +208,7 @@ window.__DASHBOARD_DATA__ = {
         "country": "KR",
         "published_at": "2025-01-15T17:06:47.23928Z",
         "thumbnail_url": "https://yt3.ggpht.com/cUxU-5cQIuUQcQ7BYT0o9XM7lHAL0CawqVnXKhzKsjD3vpP-aXnVSVfuxayYvGyEdhNs-eOH8w=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-03-30T15:27:58+00:00",
+        "last_synced_at": "2026-03-30T15:46:45+00:00",
         "source": "notion",
         "notes": ""
       },
@@ -227,7 +227,7 @@ window.__DASHBOARD_DATA__ = {
         "country": "US",
         "published_at": "2013-02-21T15:55:23Z",
         "thumbnail_url": "https://yt3.ggpht.com/QIYXdEMD970-oV8nd2gKHxPlQ1-BOmJc7EJhgIGcQPlTFopvFPCHDzkyfZIfEFrdCs8wu2Gc8g=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-03-30T15:27:58+00:00",
+        "last_synced_at": "2026-03-30T15:46:45+00:00",
         "source": "notion",
         "notes": ""
       },
@@ -246,7 +246,7 @@ window.__DASHBOARD_DATA__ = {
         "country": "US",
         "published_at": "2018-07-03T08:46:30Z",
         "thumbnail_url": "https://yt3.ggpht.com/eRdOfaOB0YRrKyW3gqWSl7bR77EO73-GukIYgG2XUxwCHRjqGq8jFB3GbnuqwJYP5iAcOPBd=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-03-30T15:27:58+00:00",
+        "last_synced_at": "2026-03-30T15:46:45+00:00",
         "source": "notion",
         "notes": ""
       },
@@ -265,7 +265,7 @@ window.__DASHBOARD_DATA__ = {
         "country": "NO",
         "published_at": "2021-02-15T11:55:45.69754Z",
         "thumbnail_url": "https://yt3.ggpht.com/1Ze8bvp3DQZIwuXsV1xaoW5aCUUEU359xP85SW1ffCK6zPPsFcX4oZ83lhe6-fdWweMDtyGGO_c=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-03-30T15:27:58+00:00",
+        "last_synced_at": "2026-03-30T15:46:45+00:00",
         "source": "notion",
         "notes": ""
       },
@@ -284,7 +284,7 @@ window.__DASHBOARD_DATA__ = {
         "country": "KR",
         "published_at": "2022-05-09T02:21:22.436299Z",
         "thumbnail_url": "https://yt3.ggpht.com/akBPoqnp_PsrxdZNppNuOfPUXUM1BD4aKtgzSUoyNFwxDG_ywVOsDyyM1IMCylHbZuKlUiuc=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-03-30T15:27:58+00:00",
+        "last_synced_at": "2026-03-30T15:46:45+00:00",
         "source": "notion",
         "notes": ""
       },
@@ -303,7 +303,7 @@ window.__DASHBOARD_DATA__ = {
         "country": "NO",
         "published_at": "2020-01-08T03:02:10.415223Z",
         "thumbnail_url": "https://yt3.ggpht.com/IbufHQrLvYW5xUpl4Pv6kcYApZGrydwFA5udKmDAmOPsSKqWfS-SVdUMHsaKaxKAzAj0u34zjw=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-03-30T15:27:58+00:00",
+        "last_synced_at": "2026-03-30T15:46:45+00:00",
         "source": "notion",
         "notes": ""
       },
@@ -322,7 +322,7 @@ window.__DASHBOARD_DATA__ = {
         "country": "",
         "published_at": "2024-09-25T05:56:43.595392Z",
         "thumbnail_url": "https://yt3.ggpht.com/IJn-bt0oTKg3oKZ6gBUn0esXEJ-EgTE1sUssZ4ek7i8_hP1EJsOB94HmzQ0FnIDuH9plTJpPOUc=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-03-30T15:27:58+00:00",
+        "last_synced_at": "2026-03-30T15:46:45+00:00",
         "source": "notion",
         "notes": ""
       },
@@ -341,7 +341,7 @@ window.__DASHBOARD_DATA__ = {
         "country": "KR",
         "published_at": "2023-11-13T14:28:33.461422Z",
         "thumbnail_url": "https://yt3.ggpht.com/3OUBOktsyFnSriDFWjWIVQKkFq1pbp7wPLIGNTTjqaN5NBduc-SU-CjxWAPoRtw3ZqxjGqiZvQ=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-03-30T15:27:58+00:00",
+        "last_synced_at": "2026-03-30T15:46:45+00:00",
         "source": "notion",
         "notes": ""
       },
@@ -360,7 +360,7 @@ window.__DASHBOARD_DATA__ = {
         "country": "DE",
         "published_at": "2022-02-05T20:31:58.172017Z",
         "thumbnail_url": "https://yt3.ggpht.com/ZqB_Le7kVrIrpVas3TkSC8pEcyrCJLXvaBoBTRSBPhHvMAxZo875qLAoIdhvkGR2jVrUUxPOGw=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-03-30T15:27:58+00:00",
+        "last_synced_at": "2026-03-30T15:46:45+00:00",
         "source": "notion",
         "notes": ""
       },
@@ -379,7 +379,7 @@ window.__DASHBOARD_DATA__ = {
         "country": "KR",
         "published_at": "2021-04-29T07:01:59.695259Z",
         "thumbnail_url": "https://yt3.ggpht.com/JwGwfSjTXVAKAmIWsbawhjFAo5d0k6u_M97jDFyhXCaPKjS0SzkRnshPYI4A66k9wQySwlx4=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-03-30T15:27:58+00:00",
+        "last_synced_at": "2026-03-30T15:46:45+00:00",
         "source": "notion",
         "notes": ""
       },
@@ -398,7 +398,7 @@ window.__DASHBOARD_DATA__ = {
         "country": "US",
         "published_at": "2024-08-08T02:35:23.244531Z",
         "thumbnail_url": "https://yt3.ggpht.com/SCqfozWQvx9ibH7MwI_byXXsfRvedkQ679VndlZ1dkQtN6czTw_tbJh-Tr2d_Y8NwtH_yKsqlQ=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-03-30T15:27:58+00:00",
+        "last_synced_at": "2026-03-30T15:46:45+00:00",
         "source": "notion",
         "notes": ""
       },
@@ -417,7 +417,7 @@ window.__DASHBOARD_DATA__ = {
         "country": "US",
         "published_at": "2022-07-18T16:43:49.835882Z",
         "thumbnail_url": "https://yt3.ggpht.com/3_UTOJyQwPwvG2qhDpM63Kn0zqTxv62TazWm0W-DsV8NcebYO83HnWET9VcWi2WucIHnCP2iVz8=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-03-30T15:27:58+00:00",
+        "last_synced_at": "2026-03-30T15:46:45+00:00",
         "source": "notion",
         "notes": ""
       },
@@ -436,7 +436,7 @@ window.__DASHBOARD_DATA__ = {
         "country": "IE",
         "published_at": "2024-07-17T19:44:18.005204Z",
         "thumbnail_url": "https://yt3.ggpht.com/JdpS01wPnfPY6K1sh09XZEOqvRgrzMTEC_zwpAUNeGp7-63nUfMRMbn8fWjG1RtvDvoxTTwOMh4=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-03-30T15:27:58+00:00",
+        "last_synced_at": "2026-03-30T15:46:45+00:00",
         "source": "notion",
         "notes": ""
       },
@@ -455,7 +455,7 @@ window.__DASHBOARD_DATA__ = {
         "country": "KR",
         "published_at": "2025-05-12T03:07:36.371463Z",
         "thumbnail_url": "https://yt3.ggpht.com/W8c2UYA33VOAC6i_86BChIEeVn1KP7_NrSB95VxcpEfKBkdYWGsMaYQcpv3RXsDzhlbgrFuO=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-03-30T15:27:58+00:00",
+        "last_synced_at": "2026-03-30T15:46:45+00:00",
         "source": "notion",
         "notes": ""
       },
@@ -474,7 +474,7 @@ window.__DASHBOARD_DATA__ = {
         "country": "KR",
         "published_at": "2024-08-21T06:58:08.399667Z",
         "thumbnail_url": "https://yt3.ggpht.com/OHl-CQCQS5JzsoTyVVMxDEbgOToetWMoV3tz3v61-0HikaTjDobvRwHvNeFZ-t6Mt_CIg_PJ=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-03-30T15:27:58+00:00",
+        "last_synced_at": "2026-03-30T15:46:45+00:00",
         "source": "notion",
         "notes": ""
       },
@@ -493,7 +493,7 @@ window.__DASHBOARD_DATA__ = {
         "country": "US",
         "published_at": "2023-12-07T13:27:52.383898Z",
         "thumbnail_url": "https://yt3.ggpht.com/rICFdrRueE0SI_OE_kaMPYPjnNMOgxH_bq4xteUJeR1_r1Dl0N9me33Q2tqoB0kxR587sAIVbA=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-03-30T15:27:58+00:00",
+        "last_synced_at": "2026-03-30T15:46:45+00:00",
         "source": "notion",
         "notes": ""
       },
@@ -512,14 +512,14 @@ window.__DASHBOARD_DATA__ = {
         "country": "KR",
         "published_at": "2016-10-10T02:58:49Z",
         "thumbnail_url": "https://yt3.ggpht.com/-Og4w6N8RqHvsJGogIBUUBZDVgnlwFuxpjoslTZr-g-io3pT2UCKdkoaDPxHjTl31ViIK-W_PQ=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-03-30T15:27:58+00:00",
+        "last_synced_at": "2026-03-30T15:46:45+00:00",
         "source": "notion",
         "notes": ""
       }
     ]
   },
   "videos": {
-    "generated_at": "2026-03-30T15:29:30+00:00",
+    "generated_at": "2026-03-30T15:47:51+00:00",
     "source": "sqlite_export",
     "video_count": 37,
     "videos": [
@@ -530,62 +530,63 @@ window.__DASHBOARD_DATA__ = {
         "description": "Most organizations approach transformation like machines—rigidly, predictably, and from the top down. Amazon Web Services enterprise strategists Jana Werner and Phil Le-Brun offer a different model: the Octopus Org. Inspired by one of nature’s most adaptive and intelligent creatures, the Octopus Org distributes decision-making, senses change in real time, and continually adapts.\n\nYou can find “The Octopus Organization” wherever books are sold.",
         "published_at": "2026-03-30T15:03:21Z",
         "duration_seconds": 117,
-        "view_count": 163,
-        "like_count": 17,
+        "view_count": 232,
+        "like_count": 20,
         "comment_count": 1,
-        "engagement_rate": 0.11042944785276074,
+        "engagement_rate": 0.09051724137931035,
         "thumbnail_url": "https://i.ytimg.com/vi/o5Z_WQkHYhE/hqdefault.jpg",
         "video_url": "https://www.youtube.com/watch?v=o5Z_WQkHYhE",
         "format": "뉴스 분석",
         "hook_type": "문제 해결",
         "title_pattern": "핵심 포인트 직설형",
-        "one_line_summary": "AI 시대에 맞춰 빠르게 변하는 문어형 조직과 기존의 기계식 조직을 비교하며, 문어형 조직이 어떻게 더 빠르고 유연하게 의사결정하고 변화에 적응하는지 아마존 전략가의 이론을 기반으로 실험하는 영상입니다.",
-        "why_it_works": "AI 기술 발전으로 조직의 변화 속도가 중요해지는 현 시점에서, '문어형 조직'이라는 독특한 비유로 경직된 조직 문화를 비판하고 대안을 제시합니다. 아마존 전략가의 이론을 실제 AI 도구 실험에 접목하여 '이게 될까?'라는 질문에 '진짜 되네!'라는 답을 보여주는 스마트대디 채널의 포맷과 잘 맞습니다. 쉬운 비유와 실험 과정으로 AI와 업무 혁신에 대한 흥미를 유발할 수 있습니다.",
-        "recommendation": "• '기존 방식 vs 문어형 방식' 실전 AI 도입 속도 비교 실험: 동일한 프로젝트 목표를 주고, 기존 지시-실행 방식 조직과 문어형 조직(각 팀원이 자율적으로 AI 도구를 활용해 역할 수행)으로 나누어 결과 도출 속도와 완성도를 비교하는 실험 제안. • 일반인 대상 'AI 의사결정 챌린지': 문어형 조직의 핵심인 '팔의 자율성'을 보여주기 위해, 복잡한 문제(예: 마케팅 캠페인 기획)를 주고 각자 다른 AI 도구를 활용해 해결책을 제시하게 한 뒤, 최종 결과물의 창의성과 실행 가능성을 평가하는 콘텐츠 기획. • AI 활용 '조직 문화 진단' 실험: 일반 기업의 문제점(예: 비효율적인 회의, 느린 의사결정)을 제시하고, 문어형 조직 모델을 AI 도구로 어떻게 진단하고 개선할 수 있는지 구체적인 시뮬레이션 제시. • 'AI 도구 조합' 비교 실험: 문어형 조직처럼 각기 다른 AI 도구(GPT, Claude, Gemini 등)를 조합하여 시너지를 내는 방법을 실험하고, 가장 효율적인 조합을 보여주는 콘텐츠 제작. • AI 시대 '리더십' 재정의: 문어형 조직의 '중앙 의도 설정'과 '팔의 자율성'을 바탕으로, AI 시대에 필요한 새로운 리더의 역할과 책임 탐구 콘텐츠 기획.",
+        "one_line_summary": "기존의 경직된 기계식 조직에서 벗어나, 문어처럼 유연하게 변화에 적응하고 자율적으로 의사결정하는 '옥토퍼스 조직' 모델을 소개하며, 이를 AI 시대의 조직 운영과 연결하여 설명합니다.",
+        "why_it_works": "AI와 같은 최신 기술 트렌드를 '문어'라는 흥미로운 자연의 비유와 연결하여 일반인도 쉽게 이해할 수 있도록 설명합니다. 기존 조직의 비효율성과 실패율을 지적하며 대안을 제시하고, '명확성, 주도성, 호기심'이라는 구체적인 요소를 통해 실제 적용 가능성을 높입니다. 특히, AI 시대의 '확률적 사고'와 '작은 성공'을 반복하는 방식을 강조하여 시청자의 관심을 유도합니다.",
+        "recommendation": "• '기계식 조직' vs '옥토퍼스 조직' VS 비교 콘텐츠 기획: 기존의 딱딱하고 비효율적인 조직 방식을 코믹하게 묘사하고, 이를 문어처럼 유연하고 똑똑한 '옥토퍼스 조직'으로 바꿔보는 실험을 보여주세요. • 일반인 대상 '일상 속 옥토퍼스' 실험: 우리 집, 우리 회사, 우리 팀 등 친숙한 환경에서 '옥토퍼스 원칙'(예: 권한 위임, 자율적 판단)을 적용해보고 그 변화를 리얼하게 기록하는 실험 콘텐츠를 만들어보세요. • AI 비서 vs 옥토퍼스 조직 비교: AI 비서가 각 팀원에게 맞춤형 업무 지시를 내리는 상황과, 옥토퍼스 조직처럼 팀원들이 스스로 판단하고 협업하는 상황을 비교하여 실제 업무 효율과 만족도 차이를 검증해주세요. • 'AI는 어떻게 옥토퍼스처럼 일할까?' 콘텐츠: AI가 스스로 학습하고 진화하는 과정을 문어의 여러 팔이 각자 생각하며 전체 의도를 따르는 방식에 비유하여 설명하고, 미래 AI 기반 조직의 모습을 예측해보세요.",
         "transcript_status": "available",
         "transcript_source": "apify",
         "transcript_language": "en",
         "transcript_text": "So for those who are not familiar with the octopus organization concept, the octopus metaphor, right? The head sets the intent, the arms act autonomously, give us the, you know, kind of the elevator pitch. What is it and what is it doing better than traditional organizations have done? &gt;&gt; We&#39;ve known for years that big transformations don&#39;t work. 70 to 90% failure rate to achieve uh the out desired outcomes. The alternative in our mind is an organization that prioritizes things like connection over control, agency over permission and adaptability over just a relentless pursuit of efficiency. We take inspiration from organizations that continually change. We believe that change should be done with people. It should be continuous. And this idea that you change the organization and then you run, it&#39;s it doesn&#39;t work. You actually have to intertwine change and run. And we talk about three aspects that bring that to life. Clarity, ownership, and curiosity. And within each of those, we&#39;ve identified a set of patterns which don&#39;t work. What we call antiatterns. And a lot of little things organizations do continually to improve. So you don&#39;t have to go through this soul destroying transformation to become a better version of yourself. If you want to put this in AI terms, modern organizations recognize that this is a move from that deterministic mindset where you plan for a single right answer to more of a probabilistic mindset where you&#39;re placing many small bets and you&#39;re learning. And it&#39;s the reason we picked this octopus metaphor. Uh the octopus is insanely adaptive to the point where it can edit its own RNA to accommodate switching from say hot to cold water within hours. It&#39;s an amazingly curious creature, but the real genius is that twothirds of its neurons are in its arms. Each arm can think and act for itself, but still say stay synchronized through a central shared intent.",
-        "analysis_date": "2026-03-30T15:28:07+00:00",
+        "analysis_date": "2026-03-30T15:46:52+00:00",
         "channel_name": "Harvard Business Review",
         "topic_tags": [
-          "Gemini",
-          "Claude"
+          "조직문화",
+          "경영전략",
+          "AI",
+          "변화관리",
+          "리더십",
+          "옥토퍼스조직"
         ],
         "keywords": [
-          "문어형조직",
+          "옥토퍼스조직",
+          "변화관리",
+          "조직혁신",
           "AI조직",
           "애자일",
-          "변화관리",
-          "의사결정",
-          "실험",
-          "비교",
-          "아마존웹서비스"
+          "결정구조",
+          "분산의사결정",
+          "적응력"
         ],
-        "tools": [
-          "Claude",
-          "Gemini"
-        ],
+        "tools": [],
         "flow": [
-          "AI 시대, 기존 조직의 한계점(기계식, 탑다운 방식) 지적",
-          "아마존 전략가가 제시하는 '문어형 조직' 개념 소개 (중앙 의도 설정, 팔의 자율성)",
-          "문어형 조직의 핵심 원리 설명 (연결 > 통제, 주도성 > 허가, 적응성 > 효율성)",
-          "AI 기술을 문어형 조직에 접목하는 방식 제시 (확률적 사고, 작은 성공)",
-          "실제 AI 도구(GPT, Claude, Gemini 등)를 활용하여 문어형 조직의 원리를 시뮬레이션하거나 실험"
+          "기존 조직의 실패율(70~90%)과 문제점 지적",
+          "변화 관리의 대안으로 '옥토퍼스 조직' 모델 제시 (연결>통제, 주도성>허락, 적응성>효율성)",
+          "'옥토퍼스 조직'의 핵심 원칙 설명 (명확성, 주도성, 호기심)",
+          "옥토퍼스의 특징 비유 (중앙 통제와 팔의 자율성, 실시간 적응)",
+          "AI 시대와의 연결 (결정론적 사고 vs 확률론적 사고, 작은 성공 반복)"
         ],
         "claims": [
-          "기존의 탑다운 방식 조직은 변화에 느리고 실패율이 높다 (70-90%).",
-          "문어형 조직은 연결, 주도성, 적응성을 중시하며 변화에 효과적이다.",
-          "문어형 조직은 중앙의 의도를 공유하지만, 각 팔(팀원)이 자율적으로 판단하고 행동할 수 있다.",
-          "AI 시대에는 단일 정답을 찾는 결정론적 사고방식에서 벗어나, 여러 작은 시도를 통해 학습하는 확률적 사고방식이 필요하다.",
-          "작은 개선을 통해 조직은 지속적으로 발전할 수 있으며, 대규모 '소울 파괴적' 변혁은 불필요하다."
+          "기존의 대규모 조직 변화는 70~90% 실패율을 기록한다.",
+          "옥토퍼스 조직은 연결, 주도성, 적응성을 중시한다.",
+          "옥토퍼스 조직은 명확성, 주도성, 호기심이라는 세 가지 측면을 통해 구현된다.",
+          "문어는 뇌의 2/3가 팔에 있어 각 팔이 자율적으로 생각하고 행동하지만 중앙의 의도와 동기화될 수 있다.",
+          "AI 시대의 조직은 단일 정답을 계획하는 결정론적 사고에서 벗어나, 여러 작은 시도를 통해 학습하는 확률론적 사고로 나아가야 한다."
         ],
         "transcript_highlights": [
-          "문어형 조직 개념에 익숙하지 않은 분들을 위해 설명하자면, 머리가 의도를 설정하면 팔들이 자율적으로 행동하는 비유입니다.",
-          "수년간 대규모 변화는 성공하기 어렵다는 것을 알고 있었습니다. 원하는 결과를 달성하는 실패율이 70~90%에 달합니다.",
-          "우리가 생각하는 대안은 연결을 통제보다, 권한을 허가보다, 그리고 끊임없는 효율성 추구보다 적응성을 중시하는 조직입니다.",
-          "AI 용어로 말하자면, 현대 조직들은 이것이 단 하나의 정답을 계획하는 결정론적 사고방식에서 벗어나, 여러 작은 시도를 통해 학습하는 확률적 사고방식으로 나아가는 것임을 인식하고 있습니다.",
-          "문어는 심지어 몇 시간 안에 따뜻한 물에서 차가운 물로 전환하는 데 적응하기 위해 자신의 RNA를 편집할 수 있을 정도로 놀랍게 적응력이 뛰어납니다."
+          "So for those who are not familiar with the octopus organization concept, the octopus metaphor, right?",
+          "The head sets the intent, the arms act autonomously, give us the, you know, kind of the elevator pitch.",
+          "What is it and what is it doing better than traditional organizations have done?",
+          "&gt;&gt; We&#39;ve known for years that big transformations don&#39;t work.",
+          "70 to 90% failure rate to achieve uh the out desired outcomes."
         ],
         "top_comments": [
           {
@@ -606,62 +607,62 @@ window.__DASHBOARD_DATA__ = {
         "description": "2026년 주요 AI 영상 생성 툴을 직접 써보고 뽑은 S급 티어표를 공개합니다. 유료 구독 전, 여러분의 시간과 구독료를 아껴줄 최적의 AI 영상 도구 순위를 지금 확인하세요.\n\n👉 유튜브 시작이 막막하신가요? 제가 도와드릴게요: https://bit.ly/4haVYBa\n\n▶️ 300만 원 상당의 유료 강의, 무료로 공개합니다: https://youtu.be/jN-aIOejkVI \n\n——————————————\n\n📘 [출간 즉시 베스트셀러 1위] 부의 자율주행: AI 머니 플로우: https://bit.ly/4bHJyjf \n\n——————————————\n\n👇 영상에서 사용된 것 👇\n\nOpenArt: https://openart.ai/home \n\n——————————————\n\n📧 비즈니스 문의: aimoney489@gmail.com",
         "published_at": "2026-03-30T10:12:55Z",
         "duration_seconds": 676,
-        "view_count": 1675,
-        "like_count": 97,
-        "comment_count": 8,
-        "engagement_rate": 0.0626865671641791,
+        "view_count": 1789,
+        "like_count": 98,
+        "comment_count": 9,
+        "engagement_rate": 0.05980994969256568,
         "thumbnail_url": "https://i.ytimg.com/vi/0VRgiO5cDQ8/hqdefault.jpg",
         "video_url": "https://www.youtube.com/watch?v=0VRgiO5cDQ8",
         "format": "뉴스 분석",
         "hook_type": "솔직 검증",
-        "title_pattern": "AI 영상 툴, 2026년 최고는? (현실적인 S급 순위 분석)",
-        "one_line_summary": "2026년 최고의 AI 영상 생성 툴 6개를 실제 프롬프트와 다양한 조건으로 비교 테스트하여 S급 티어표를 공개하고, 사용 목적별 최적의 툴을 추천합니다. 특히 가격 대비 성능을 중요시하는 사용자에게는 클링 AI를, 속도를 중시한다면 시덴스를, 연출 다양성을 원한다면 완 AI를 추천합니다.",
-        "why_it_works": "AI 영상 툴에 대한 정보가 넘쳐나는 상황에서, 실제 수천 개의 영상을 직접 생성하며 얻은 '경험 기반'의 '현실적인' 비교 테스트 결과와 '티어표'라는 명확한 순위 공개는 시청자의 의사결정을 돕고 궁금증을 해소해 줍니다. 특히 '이게 될까?'라는 궁금증을 '진짜 되네!'로 바꿔주는 리얼 실험 방식은 스마트대디 채널의 정체성과 잘 맞습니다. 다양한 툴을 한 플랫폼에서 비교 테스트하는 방식은 일반인 시청자에게 복잡함을 덜어주고 직관적인 이해를 돕습니다.",
-        "recommendation": "• 일반인도 쉽게 따라 할 수 있도록 '쉬운 프롬프트 vs 어려운 프롬프트' 비교 실험을 추가하여 툴의 실제 사용성을 강화하세요. • 'AI 영상 툴 vs 사람 편집자의 작업 시간/비용 비교' 또는 'AI 툴로 만든 영상 vs 실제 촬영 영상 퀄리티 블라인드 테스트'와 같이 시청자가 직접 체감할 수 있는 VS 대결 구도를 기획해 보세요. • 스마트대디 채널의 기존 콘텐츠인 'AI 활용한 OOO 실험'처럼, 이번 영상에서 소개된 툴들을 활용하여 'AI 툴로 30초 광고 만들기', 'AI 툴로 챌린지 영상 만들기' 등 실용적인 실험 콘텐츠를 제작해 보시길 추천합니다. • 각 툴의 '무료 체험 기간' 및 '핵심 기능 단축키/단축어' 등을 추가 정보로 제공하여 시청자의 실제 활용도를 높이세요. • '2026년 트렌드'라는 제목에 맞게, 단순히 툴 소개를 넘어 AI 영상 기술의 향후 발전 방향에 대한 짧은 전망을 덧붙여 전문성을 강화하세요.",
+        "title_pattern": "핵심 포인트 직설형",
+        "one_line_summary": "2026년 최고의 AI 영상 생성 툴 6개를 직접 테스트하고 순위를 매겨, 각 툴의 장단점과 실제 결과물을 비교 분석하여 구독자들의 시간과 비용을 절약할 수 있도록 돕는 콘텐츠입니다.",
+        "why_it_works": "AI 영상 툴에 대한 정보가 넘쳐나는 상황에서, 직접 수천 개의 영상을 생성해보고 각 툴의 성능을 객관적으로 비교, 순위를 매겨주는 정보는 사용자들에게 매우 유용합니다. 특히 '2026년'이라는 미래 시점을 언급하며 현실적인 추천을 한다는 점, 그리고 오픈하트라는 통합 플랫폼을 활용해 여러 툴을 한눈에 비교하는 방식은 시청자의 흥미를 유발하고 정보 습득을 용이하게 합니다. 또한, 단순 기능 나열이 아닌 실제 결과물 비교와 각 툴의 특징을 명확히 짚어주는 점이 강점입니다.",
+        "recommendation": "• '2026년 최고의 AI 영상 툴'이라는 콘셉트를 살려, 스마트대디 채널의 2024년 또는 2025년 현시점에서 '지금 당장 써볼 만한 AI 영상 툴 TOP 5' 혹은 'AI 영상 툴, 2025년에는 이걸로 끝!'과 같이 최신 트렌드와 결합한 VS 비교 콘텐츠 기획. • 다양한 AI 영상 툴을 '실험 대상'으로 설정하고, 'AI 영상 툴 3대장 VS 신흥 강자', '무료 AI 영상 툴 vs 유료 AI 영상 툴' 등 일반인이 이해하기 쉬운 대결 구도로 실험 콘텐츠 구성. • 경쟁 채널이 아직 시도하지 않은 영역으로, 'AI 영상 툴로 30초 광고 만들기', 'AI 영상 툴로 1분 유튜브 숏츠 10개 만들기 챌린지' 등 특정 목적 달성을 위한 'AI 영상 툴 실전 활용기' 콘텐츠 제작. • 이 영상에서 소개된 '오픈하트'와 같은 통합 플랫폼을 활용하는 실험을 통해, 초보자도 쉽게 여러 툴을 비교해볼 수 있다는 점을 강조하며 스마트대디 채널만의 'AI 모험가' 포지셔닝 강화.",
         "transcript_status": "available",
         "transcript_source": "apify",
         "transcript_language": "ko",
         "transcript_text": "저는 2026년에 가장 성능이 뛰어난 AI 영상 생성툴을 알아내기 위해 전 세계에서 가장 잘 나가는 AI 영상 툴들로 AI 영상 수천 개 이상을 직접 만들어 봤습니다. 그래서 오늘은 어떤 AI 영상 생성툴이 진짜 가장 뛰어난지 그 결과를 바탕으로 최고의 AI 영상 생성툴 최종 순위를 공개합니다. 먼저 같은 프롬프트를 줬을 때 각 모델이 어떻게 반응하는지 공통 테스트로 기준점을 잡아 볼 거예요. 그러고 나서 각 모델의 강점에 맞게 생성된 결과물도 함께 보여 드릴 겁니다.이 이 영상 하나만 보시면 어떤 AI 영상 도구에 내 소중한 시간과 돈을 투자하면 될지 바로 파악하실 수 있을 겁니다. 자, 그럼 바로 시작해 볼게요. 먼저 고정 댓글 링크를 통해 오픈하트에 접속합니다. 오늘 모든 AI 영상 생성을 테스트하기 위한 오인원 플랫폼입니다. 여기서 다른 웹사이트로 이동할 필요 없이 모든 AI 영상툴를 한 번에 테스트할 수 있습니다. AI 영상 생성을 위해 먼저 중앙에 있는 비디오에 마우스를 갖다 댑니다. 그리고 하단에 텍스트 2 비디오를 클릭합니다. 첫 번째로 테스트해 볼 AI 영상 툴은 바로 클릭 AI 3.0 옴니 모델입니다. 클릭 AI 3.0은 저렴한 비용으로 고품질 영상을 뽑아낼 수 있어서 콘텐츠 크리에이터들 사이에서 빠르게 자리를 잡은 툴입니다. 특히 사실적인 영상뿐만 아니라 애니메이션 스타일의 영상까지 폭넓게 커버하는게 강점이에요. 여기에이 프롬프트를 붙여 넣겠습니다. 이건 스파이스릴러 분위기의 시네마틱한 프롬프트로 네온 조명 처리, 군중속 움직임, 슬로우모션 표현력, 4K 수준의 사실감까지 동일한 조건에서 각 AI 영상 모델이 어떻게 작동하는지 한 눈에 비교할 수 있습니다.이 프롬프트를 여러 AI 영상 툴에 적용해서 영상 퀄리티를 비교해 볼 예정입니다. 이제 이걸 클릭해서 해상도를 1080p로 설정합니다. 그리고 오디오는 이렇게 체크 표시를 클릭해서 끄거나 켤 수 있습니다. 다음으로 하단의 핑크색 버튼을 클릭해서 AI 영상을 생성합니다. 그리고 조금만 기다리시면 첫 번째 프롬프트를 통해 생성한 영상이 만들어집니다. 한번 확인해 보겠습니다. &gt;&gt; 와우! 퀄리티가 장난 아니네요. 클링의 AI의 강점은 선명한 색감과 속도감 있는 연출에 있습니다. 하지만 전반적으로 특히 가격 대비 퀄리티가 정말 훌륭합니다. 디테일은 100% 살아 있고 오디오 품질도 탄탄하며 전체적으로 정말 잘 만들어진 영상이라고 생각되네요. 하지만 클링 AI의 더 최적화된 프롬프트로 한 번 더 테스트해 보겠습니다. 골드하워 조명 아래 꽃으로 장식된 카페 거리를 걷는 여성이라는 따뜻하고 감성적인 배경을 표현한 프롬프트를 붙여 넣겠습니다.이 이 모델이 자연광 처리와 부드러운 카메라 움직임을 얼마나 잘 표현하는지 테스트해 봅시다. 생성 버튼을 눌러서 확인해 보겠습니다. 봄바람에 살짝 흔들리는 머리카락. 손에는 테이크아웃 커피 한 잔. 필름 그레인까지 더해진 따뜻한 색감이 정말 자연스럽게 표현됐습니다. 실제로 카메라로 촬영한 것 같은 느낌이 드는게 인상적이에요. 전반적으로 이렇게 저렴하고 다양한 스타일에서 활용 가능한 모델 직원은 놀라운 결과입니다. 마지막으로 좀 더 감성적인 콘텐츠로 가보겠습니다. 바로 분위기 있는 카페 영상입니다. 나무 테이블 위 도자기 컵에서 피어오르는 김. 우유가 천천히 번지는 커피 표면. 창문 넘어 부드러운 햇살까지 매크로렌즈와 슬로우 모션으로 담아 달라고 요청했습니다. 생성 버튼을 눌러 볼까요? 솔직히 정말 잘 나왔습니다. 이게 좋은 이유는 실제 촬영 장비나 스튜디오 없이도 이런 고급스러운 감성 영상을 뽑아낼 수 있기 때문입니다. 카페 브랜드, 음료 광고, 라이프스타일 콘텐츠에 그대로써도 손색이 없을 수준이에요. 클링 AI가 저렴한 가격과 높은 품질을 동시에 잡는 모델이라면 이번엔 속도 면에서 완전히 독보적인 모델을 소개할게요. 바로 시덴스 1.5%입니다.이 모델의 가장 큰 강점은 복잡한 움직임 표현입니다. 덕분에 화려한 액션이나 고난도 동작도 훨씬 안정적으로 표현됩니다. 그럼 저희가 방금 클릭 AI에 사용한 프롬프트를 붙여 넣어서 테스트해 보겠습니다. 프롬프트를 붙여 넣은 후 해상도를 1080p로 설정합니다. 생성 버튼을 누르겠습니다. 결과물을 확인해 보겠습니다. 움직임 표현이 정말 놀랍네요. 텍스처나 전반적인 완성도 충분히 활용 가능한 수준입니다. 이번엔 두 번째로 생성한 영상도 확인해 보겠습니다. [음악] 보시다시피 움직임이 굉장히 자연스럽고 클릭 AI의 퀄리티와 비교해서 뒤쳐지지 않는 모습을 보실 수 있습니다. 그리고 여기서 팁 하나 드릴게요. 시간 설정이 가능한 모델은 시간을 낮게 설정할수록 영상 생성 시 그 시간의 밀도에 더 집중하기 때문에 영상의 품질이 올라갑니다. 그래서 10초짜리 영상보다 6초짜리 영상의 퀄리티가 더 높게 나올 가능성이 큽니다. 또한 생성한 영상의 품질을 한 단계 더 올리는 꿀팁을 알려 드리겠습니다. 이렇게 영상 하나를 클릭한 후 우측 하단에 업스케일을 클릭합니다. 그리고이 버튼을 클릭해서 원하는 해상도를 선택하면 됩니다. 저는 4K로 만들어 보겠습니다. 다음으로 제너레이 버튼을 클릭해서 영상의 해상도를 향상하면 됩니다. 4K로 생성한 영상을 확인해 보겠습니다. 이러면 해상도가 훨씬 더 개선된 것을 보실 수 있습니다. 정말 대단하지 않나요? 마지막으로 세 번째 프롬프트를 통해 시덴스 1.5%로 만든 영상을 확인해 보겠습니다. 손이 컵 손잡이를 통과하는 등 약간의 부자연스러운 움직임이 생겼지만 그 이외에는 정말 훌륭한 퀄리티의 AI 영상이 생성된 걸 보실 수 있습니다. 결과적으로 시댄스 1.5%는 퀄리티와 속도, 비용 세 가지를 동시에 잡고 싶은 분들께 최고의 선택입니다. 다음으로 요즘 핫한 AI 영상 도구인 2.6을 확인해 보겠습니다. 2.6은 6은 다른 모델들과 차별화되는 멀티샷 프롬프팅 기능을 갖추고 있는데 하나의 영상 안에서 여러 카메라 앵글과 장면을 동시에 연출할 수 있어요. 마치 감독처럼 영상의 흐름을 직접 설계할 수 있다는 점에서 콘텐츠 크리에이터들 사이에서 빠르게 주목받고 있는 모델입니다. 제가 사용한 첫 번째 프롬프트를 붙여 놓고 영상을 만들어 보겠습니다. 퀄리티는 나쁘지 않은데 이전에 보여 드렸던 두 가지 AI 영상 모델과는 큰 차이점이 하나 있습니다. 과연 그게 뭘까요? 맞습니다. 바로 멀티샷 기능입니다. 이전 모델들과는 달리 다양한 촬영 각도에서 영상이 재생되는 걸 보실 수 있습니다. 그런데 놀라운 건 제가 멀티샵 기능을 끄고 영상을 생성했음에도 불구하고 이런 결과물이 나왔다는 겁니다. 사람마다 어떤 영상을 원하는지에 따라 달라지겠지만 아마 호브로를 많이 타는 기능이라고 생각합니다. 완로 생성한 두 번째 영상 또한 확인해 보겠습니다. 이전 AI 영상 생성툴에 비해선 퀄리티가 살짝 떨어지는 걸 보실 수 있습니다. 세 번째 영상 또한 확인해 볼게요. 연기가 위로 올라오는 느낌과 컵을 가져가는 움직임 등 굉장히 자연스러운 연출을 보실 수 있습니다. 결과적으로 완 AI는 자연스러운 연출과 멀티샷 기능이 뛰어난 AI 영상 도구라고 생각하시면 됩니다. 하지만 AI 영상 퀄리티에 대해 얘기를 할 때이 모델을 빼 놓을 수 없습니다. 현재 AI 분야에서 가장 영향력 있는 회사가 만든 모델입니다. 가장 전문적이고 기술적인 모델 중 하나예요. 바로 구글 VO 3.1입니다. 자, VO 3.1을 를 선택해서 공통 프롬프트로 바로 테스트해 봅시다. 먼저 첫 번째 프롬프트를 붙여 넣습니다. 그리고 설정에 들어가서 해상도를 1080p로 설정한 후 영상 길이는 4초로 하겠습니다. 그리고 제너레이트 버튼을 클릭해서 영상을 생성합니다. 생성된 영상을 확인해 보겠습니다. 예상과는 달리 생각보다 퀄리티가 떨어지는 걸 보실 수 있습니다. 한 때는 가장 잘 나가는 AI 영상 툴 중 하나였으나 현재는 같은 해상도 대비 클링 혹은 시덴스에 비해 퀄리티가 떨어지는 모습을 보실 수 있습니다. 두 번째 영상 또한 확인해 보겠습니다. 이건 첫 번째 영상에 비해 퀄리티가 조금 더 낮네요. 마지막으로 세 번째 영상을 한번 살펴보겠습니다. 세 번째 영상의 경우 살짝 부자연스러운 움직임이 있지만 퀄리티가 나쁘지 않습니다. 다음으로 요즘 가장 핫한 AI 영상 도구인 그록을 테스트해 보겠습니다. 그록은 일론머스크가 만든 AI 플랫폼으로 텍스트 프롬프트만으로 영상을 생성할 수 있는데요. 출시 7개월 만에 쏘라 베 같은 경쟁 도구들을 제치고 AI 영상 모델 1위에 오른 신흥 강좌입니다. 첫 번째 프롬프트로 만든 영상을 확인해 보겠습니다. 퀄리티가 괜찮네요. 특히 움직임이 자연스럽고 디테일 표현도 꽤 잘 됐네요. 마지막으로 또 다른 유명한 AI 영상 툴인 하일로우 AI를 통해 AI 영상을 만들어 보겠습니다. 이것 또한 해상도를 1080p로 설정한 후 영상을 만들어 보겠습니다. 다른 AI 영상툴과 동일한 프롬프트와 해상도를 사용했음에도 불구하고 퀄리티가 상당히 떨어지는 걸 보실 수 있습니다. 자, 이제 지금까지 테스트한 모든 모델의 최종 순위를 공개할게요. 동일한 프롬프트, 동일한 해상도 조건에서 직접 수천개의 영상을 만들어 본 결과입니다. 6위는 하일로 AI입니다. 같은 조건에서 테스트했을 때 다른 모델들과의 퀄리티 차이가 가장 크게 나타났어요. 현 시점에서는 상위 모델들을 대체하기 어려운 수준입니다. 5위는 그록입니다. 퀄리티 자체는 무난하지만 다른 모델들과 비교했을 때 뚜렷하게 내세울 수 있는 강점이 아직 보이지 않았어요. 4위는 구글 VO 3.1입니다. 영화적 촬영 기법과 카메라 제어에서는 여전히 강점을 보여줬지만 같은 해상도 기준으로 클링이나 시덴스와 비교했을 때 전반적인 퀄리티가 다소 떨어지는게 확인됐습니다. 한때 최강자였던 모델인데 지금은 경쟁이 많이 치열해진 상황이에요. 3위는 12.6입니다. 6입니다. 멀티샵 프롬프팅이라는 독보적인 기능 덕분에 장면 전환과 카메라 앵글 연출에서는 어떤 모델도 따라오지 못했어요. 순수하질은 상위 두 모델보다 소폭 낮지만 영상의 흐름을 직접 설계하고 싶은 분들께는 정말 강력하게 추천드리는 모델입니다. 2위는 시덴스 1.5%입니다. 속도, 퀄리티, 비용 세 가지를 동시에 잡은 모델이에요. 일부 장면에서 아주 미세한 부자연스러움이 있었지만 전체 완성도는 1위와 거의 대등한 수준이었어요. 그리고 최종 1위는 클링 AI 3.0입니다. 사실적인 영상은 물론이고 애니메이션 스타일의 영상까지 폭넓게 커버하면서 디테일과 오디오 품질 모두 최상위권을 유지했어요. 무엇보다이 퀄리티를이 가격에 뽑아낼 수 있다는게 가장 큰 강점입니다. 비용 대비 퀄리티만 놓고 보면 현재 어떤 모델도 클링 AI를 넘지 못했습니다. 결국 정답은 하나가 아니에요. 가성비를 원한다면 클릭 AI, 빠른 속도가 필요하다면 시댄스, 영상 연출을 직접 컨트롤하고 싶다면 완 AI. 내가 만들고 싶은 영상이 무엇인지에 따라 최고의 툴은 달라집니다. 그리고 오늘 테스트한 모든 AI 영상 툴 여러 사이트를 돌아다닐 필요 없이 고정 댓글 링크 하나로 오픈하트에 접속하면 한 곳에서 전부 사용할 수 있습니다. 여기저기서 구동료 낭비하지 마시고이 사이트 하나로 구독을 최대한 아끼세요. 그런데 AI툴 사용법을 아는 것만으로는 부족하다고 느끼는 분들도 분명 계실 겁니다. AI 도구는 이미 잘 쓰고 있는데 막상 내 삶은 바뀌는게 없다는 느낌 드신 적 없으신가요? 그렇다면 이제는 도구 활용을 넘어 내가 자는 사이에도 AI가 24시간이라는 자동화 시스템을 직접 만들어야 합니다. 그 구체적인 방법을 담았으며 교보문고 경제 경영 분야 1위를 기록한 제책 부의 자율주행을 고정 댓글 링크에서 확인해 보세요. 제 목표는 여러분이 단순히 AI를 잘 쓰는 사람을 넘어 나를 대신에 AI가 돌아가는 시스템을 가진 주인이 되는 것입니다. 그리고이 자동화 시스템을 장착했을 때 가장 폭발적인 수익을 만들어 낼 수 있는 강력한 엔진은 단원컨데 유튜브입니다. 하지만 유튜브를 시작은 했어도 조회수나 수익화 때문에 막막한 분들이 많으실 텐데요. 그런 분들을 위해 제가 2년 넘게 채널을 운영하며 구독자 13만 명 이상을 돌파하고 수익화에 성공하며 배운 모든 노하우를 담았으며 수강생들의 결과로 이미 증명된 유튜브 스타트 강의를 고정 댓글 링크를 통해 확인해 보세요. 유튜브 실전 전략부터 현실적인 수익화 경로까지 여러분의 시간을 획기적으로 단축해 드릴 겁니다. 그래도 지금 당장 어디서부터 시작해야 할지 고민된다면 지금 화면 중앙에 보이는 300만 원 이상의 가치를 담은 유료급 강의를 먼저 무료로 경험해 보세요.",
-        "analysis_date": "2026-03-30T15:28:00+00:00",
+        "analysis_date": "2026-03-30T15:46:46+00:00",
         "channel_name": "AI 머니",
         "topic_tags": [
           "AI영상생성",
           "AI툴비교",
-          "2026년AI트렌드",
+          "AI기술",
+          "유튜브자동화",
           "콘텐츠제작",
-          "가성비AI",
-          "AI영상"
+          "AI영상툴"
         ],
         "keywords": [
-          "AI영상",
-          "AI툴",
+          "AI영상툴",
+          "AI영상생성기",
+          "2026년AI",
+          "AI툴추천",
           "클링AI",
           "시덴스",
           "완AI",
-          "구글VEO",
-          "그록",
-          "하이로우AI"
+          "구글VO"
         ],
         "tools": [],
         "flow": [
-          "AI 영상 생성 툴 2026년 최고의 순위 공개 예고 (현실적인 툴 추천)",
-          "동일 프롬프트 기반 공통 테스트 기준점 설정",
-          "각 AI 툴(클링 AI, 시덴스, 완 AI, 구글 VEO, 그록, 하이로우 AI 등)의 특징 소개 및 프롬프트 기반 영상 생성 및 결과물 비교",
-          "툴별 강점(사실성, 애니메이션, 속도, 움직임, 멀티샷 등) 및 약점(부자연스러움, 퀄리티 저하 등) 상세 분석",
-          "종합적인 S급 티어표 공개 (6위 ~ 1위)"
+          "AI 영상 생성 툴 테스트를 위한 통합 플랫폼 '오픈하트' 소개",
+          "클링 AI 3.0 테스트 (다양한 프롬프트 적용 및 결과 비교)",
+          "시덴스 1.5% 테스트 (속도 및 움직임 표현 강조, 업스케일 기능 소개)",
+          "완 AI 2.6 테스트 (멀티샷 프롬프팅 기능 시연)",
+          "구글 VO 3.1 테스트 (기대치와 실제 결과 비교)"
         ],
         "claims": [
           "2026년 최고의 AI 영상 생성 툴 순위를 공개합니다.",
-          "클링 AI 3.0은 가격 대비 최고의 퀄리티를 제공합니다.",
-          "시덴스 1.5%는 속도, 퀄리티, 비용 삼박자를 갖춘 모델입니다.",
-          "완 AI는 멀티샷 프롬프팅 기능으로 영상 연출에 강점이 있습니다.",
-          "구글 VEO 3.1은 과거에 비해 퀄리티가 다소 떨어졌습니다."
+          "동일 프롬프트, 동일 조건에서 수천 개의 AI 영상을 직접 만들어 테스트했습니다.",
+          "클링 AI 3.0이 가성비와 퀄리티 측면에서 1위를 차지했습니다.",
+          "시덴스 1.5%는 속도, 퀄리티, 비용을 동시에 잡은 모델입니다.",
+          "완 AI 2.6은 멀티샷 프롬프팅 기능이 독보적입니다."
         ],
         "transcript_highlights": [
           "저는 2026년에 가장 성능이 뛰어난 AI 영상 생성툴을 알아내기 위해 전 세계에서 가장 잘 나가는 AI 영상 툴들로 AI 영상 수천 개 이상을 직접 만들어 봤습니다.",
           "먼저 같은 프롬프트를 줬을 때 각 모델이 어떻게 반응하는지 공통 테스트로 기준점을 잡아 볼 거예요.",
-          "이 영상 하나만 보시면 어떤 AI 영상 도구에 내 소중한 시간과 돈을 투자하면 될지 바로 파악하실 수 있을 겁니다.",
-          "클링 AI 3.0은 저렴한 비용으로 고품질 영상을 뽑아낼 수 있어서 콘텐츠 크리에이터들 사이에서 빠르게 자리를 잡은 툴입니다.",
+          "오늘 모든 AI 영상 생성을 테스트하기 위한 오인원 플랫폼입니다. 여기서 다른 웹사이트로 이동할 필요 없이 모든 AI 영상툴를 한 번에 테스트할 수 있습니다.",
+          "클링 AI 3.0은 저렴한 비용으로 고품질 영상을 뽑아낼 수 있어서 콘텐츠 크리에이터들 사이에서 빠르게 자리를 잡은 툴입니다. 특히 사실적인 영상뿐만 아니라 애니메이션 스타일의 영상까지 폭넓게 커버하는게 강점이에요.",
           "시덴스 1.5%의 가장 큰 강점은 복잡한 움직임 표현입니다. 덕분에 화려한 액션이나 고난도 동작도 훨씬 안정적으로 표현됩니다."
         ],
         "top_comments": [
@@ -719,62 +720,52 @@ window.__DASHBOARD_DATA__ = {
         "description": "AI가 영상을 대신 읽어주고 먼저 답하는 시대가 오고 있습니다.\n문제는 AI가 맞느냐 틀리냐만이 아니었습니다.\n이 논문은 AI가 끼어들었을 때 사람이 원본을 보는 습관 자체가 어떻게 바뀌는지를 실험으로 보여줍니다.\n도움이 되는 AI는 정확도를 올려주기도 했지만, 동시에 영상을 직접 보지 않아도 된다는 습관을 강화했습니다.\n더 위험한 것은 신뢰를 쌓은 뒤 조용히 틀린 답을 주는 구조였습니다.\n정확도는 무너지는데도 사람의 자신감은 쉽게 무너지지 않았습니다.\n결국 핵심은 AI의 성능만이 아니라, 인간의 검증 루틴이 어떻게 사라지는가에 있습니다.\n이 영상에서는 Figure 1부터 Figure 6, Table 1까지 따라가며 이 논문의 핵심 결과와 의미를 정리합니다.\n영상 검색, 교육, 뉴스, 업무 도구까지 AI가 원본과 사람 사이에 들어오는 순간 무엇이 달라지는지도 함께 살펴봅니다.\n앞으로 중요한 것은 더 잘 답하는 AI가 아니라, 사용자가 끝까지 생각하고 확인하게 만드는 AI일지도 모릅니다.\n#인공지능 #영상 #요약\n\nWritten by Error\nEdited by 이진이\n\nunrealtech2021@gmail.com",
         "published_at": "2026-03-30T06:07:00Z",
         "duration_seconds": 988,
-        "view_count": 12882,
-        "like_count": 455,
+        "view_count": 13042,
+        "like_count": 458,
         "comment_count": 93,
-        "engagement_rate": 0.04253997826424468,
+        "engagement_rate": 0.04224812145376476,
         "thumbnail_url": "https://i.ytimg.com/vi/mONoEKWpbEg/hqdefault.jpg",
         "video_url": "https://www.youtube.com/watch?v=mONoEKWpbEg",
         "format": "뉴스 분석",
         "hook_type": "실험",
-        "title_pattern": "AI와 인간 사이의 균형: 의존성 심화 및 검증 습관 약화 위험성 실험 분석",
-        "one_line_summary": "AI가 영상을 대신 요약해주면서 사람들이 원본을 직접 확인하는 습관을 잃고 AI에 과도하게 의존하게 되며, 심지어 AI가 틀린 정보를 줘도 쉽게 믿어버리는 위험한 현상에 대한 연구 결과를 실험으로 분석한 영상입니다.",
-        "why_it_works": "AI의 편리함 이면에 숨겨진 인간의 검증 루틴 약화와 의존성 심화라는 심각한 문제를 실제 논문 실험 결과를 바탕으로 구체적인 수치와 시각 자료(그래프)를 제시하며 설명합니다. 특히 AI가 속이는 상황에서도 인간의 자신감이 쉽게 무너지지 않는다는 충격적인 결과는 시청자에게 경각심을 불러일으킵니다. AI의 성능 자체보다 인간의 행동 변화에 초점을 맞춰 '이게 될까?' 싶은 문제를 '진짜 이런 문제가 있구나'로 느끼게 합니다.",
-        "recommendation": "• AI 요약 vs. 원본 시청: 'AI가 얼마나 빠르고 정확하게 요약해주는가?' 대신 'AI 요약만 봤을 때 얼마나 원본 내용을 놓치는가?'를 보여주는 실험 구도를 만드세요. • 'AI 오류 vs. 인간 믿음' 대결: AI가 일부러 틀린 정보를 주는 상황을 설정하고, 피실험자들이 이에 얼마나 쉽게 속아 넘어가는지, 혹은 끝까지 의심하는지를 실험으로 보여주는 콘텐츠를 제작하세요. • AI 교육 vs. AI 의존: 'AI 없이도 스스로 정보를 찾고 판단하는 능력'과 'AI 요약에만 의존하는 능력'을 비교하는 실험을 통해, AI 시대에 꼭 필요한 인간의 역량이 무엇인지 강조하세요.",
+        "title_pattern": "직접 실험 + 결과 공개",
+        "one_line_summary": "이 영상은 agents 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+        "why_it_works": "실험 훅으로 관심을 끌고, 뉴스 분석 형식으로 내용을 빠르게 정리해 시청자가 '바로 써먹을 수 있다'고 느끼게 만듭니다.",
+        "recommendation": "훅 구조: 도입 15초 안에 '실험' 관점으로 문제를 못 박고, 왜 지금 봐야 하는지 먼저 선언합니다. • 복제할 포장 요소: 뉴스 분석 형식을 유지하되 agents를 실제 사용 장면 1개와 결과 변화 2개로 더 좁혀 설명합니다. • 비어 있는 콘텐츠 영역: 'agents가 내 작업 흐름에서 어디에 꽂히는가'를 사례 중심으로 보여주는 후속 영상이 비어 있습니다. • 추천 제목: agents 이슈를 내 채널 관점으로 다시 정리해보자 • 썸네일 카피 힌트: agents 지금 봐야 할 3가지",
         "transcript_status": "available",
         "transcript_source": "apify",
         "transcript_language": "ko",
         "transcript_text": "속이는 AI 쪽으로 가면은 [웃음] 정확도가 당연히 엄청나게 떨어지겠죠. 너무나도 일간되게 확 떨어지죠. 근데 문제는 뭡니까? 자신감은 엄청 있어. [음악] 네, 여러분 반갑습니다. 에입니다. 주말 동안 읽었던 논문들 중에서 굉장히 좀 흥미로운 내용들이 있어서 한번 가져와 봤는데요. AI ination seing from video텐트 유튜브 같은 영상을 통해서 그러니까 안들공학 같은 영상을 보면서 AI를 과도하게 의존하게 되면서 벌어지는 일들에 대해서 얘기가 됐습니다. 사실 안드공학 채널 영상을 직접 다 보시는 분들도 계시겠지만 또 안드학뿐만이 아니라 요즘 유튜브 채널들에 있는 정보들 정말 너무나도 많이 쏟아지고 있잖아요. 그래서 AI 요약이라든가 이런 것들은 하나의 새로운 우리가 정보를 취득하는 방식으로 나아가고 있는데 이런 놈을 제시함으로써 꼭 안대공학 채널을 처음 끝까지 봐라 이런 말씀을 드리고 싶은게 아니라 저도 요약 많이 씁니다. 요약을 많이 쓰면서 정보를 파악하는 중에 아 이러한 위험이 있구나라는 거를 우리가 좀인지를 하고 있으면은 조금 더 우리가 마치 이번에 터보컨트가 QJL로 보정을 하듯이 보정을 하면서 오프셋을 정보를 취득할 수 있지 않을까라는 생각에서 한번 가져와 봤습니다. 그러니까 AI가 영상을 대신 읽어 줄 때 우리의 판단에 대해서 상당히 좀 문제가 있더라라는 얘기를 한 건데요. 지금 우리 AI 검색이라고 하는 거는 단순히 검색창을 대신한 수준이 아니라 아예 사용자가 원본을 직접 보기 전에 원본에 갈 필요도 없어. 그냥 먼저 요약하고 먼저 해석하고 먼저 결론을 제시하는 그런 새로운 인터페이스잖아요. 이런 인터페이스가 기준에는 없었죠. 어, 물론 뭐 누가 요약을 해 놨으면 모르겠지만도 그것조차도 굉장히 한정적이었기 때문에 아예 원본에 어떤 데이터가 있는지 몰라도 정보를 먼저 스크린에서 받아들일 수밖에 없는 현실을 얘기를 하는 겁니다. 특히나 글도 그런데 영상 같은 경우는 더 그렇다라는 거죠.이 어,이 논문이 좀 재밌는 이유가 모델이 맞냐 틀리냐 요것만 본게 아니라 AI가 끼어들었을 때 사람이 원본을 보는 예를 들어 논문을 본다 하더라도 논문을 보는 습관 자체가 어떻게 바뀌었는지를 실험으로 잘 통제해 갖고 잡아냈더라고요. 이게 텍스트보다 영상이 많아지는 환경에서는 사용자가 원본 전체를 끝까지 확인하기가 어려워지잖아요. 어쩔 수 없잖아요. 그래서 AI가 어떤 편의 기능이 아니라 사실상 우리를 대신해서 내 비서가 일차적인 판단자가 돼 가지고 내가 중요할 수도 있는데 안 보여 준다거나 나는 별로 필요 없는데 너무 과도하게 설명한다거나 이런 부분들이 다 미리 정해지는 세상에 와 있다라는 겁니다. 시간을 소매하면서 다 보는 거 비해서 지금 영상에 대한 얘기를 하는 거예요. 안 되고 영상을 다 하는 거 시간 그러면서 보는 것보다 빨리빨리 확인하고 아 대충 얘 이런 소리 하네. 또 이상한 소리 하네. 아니면 아 뭐 그냥 또 복잡한 얘기 하네. 이렇게 봐드리시는 분들 많잖아요. 그렇게 빨리 확인하는게 더 목적인 사람들도 있기 때문에 그렇게 했을 때 우리 판단에 대해서 AI가 알아서 1차 판단자가 되어 버린다라는 거죠. 한마디로 AI가 우리를 더 똑똑하게 만드는가? 요거는 이미 연구 결과가 있죠. 똑똑하게 안 만든다는 얘기가 있죠. 근데 이걸 떠나서 똑똑하게 안 똑똑하게 떠나서 덜 확인하게 만드는게 사실 맞냐? 아, 이것도 할로시네이션이랑 이건 다 연관된 일인데 이걸 어떻게 실험했느냐를 좀 보도록 합시다. 실제로 실험 설계를 해 보면은 피규어 1원부터 나와 있는데 굉장히 정교하게 설계를 했어요. 짧은 비디오, 긴 비디오 그러니까 뭐 쇼 같은 거 보고 긴 비디오 롱폼 형태의 영상을 두 개로 나눠 가지고 AI를 적용 안 했을 때 그 도움이 되는 AI 실제로 도움을 주는 AI죠. 근데 AI 인척하고 속이는 AI도 일부러 가정에서 넣었어요. 실제 논문에 나와 있는이 피규어 1에가 보시려면은 요렇게 지금 구성이 되어 있는데 이게 지금 전체 실험을 어떻게 구성했는지를 한 눈에 보여주는 전체 설계도라고 보시면 되거든요. 참가자들이 세 번을 합니다. 세 번 라운드를 띄는데 1차 2차 3차로 뛰는데 각 1차 2차 3차마다 질문 세 개랑 영상 세 개를 봤습니다. 그래서 아까 말씀드렸다시피 롱이랑 쇼폼으로 볼 때랑 요렇게 두 가지로 나뉘고요. 또 하나는 AI가 실제로 도움을 주는 경우, AI가 도움이 안 되는 경우, 디스빙, 속이는 경우 이렇게 세 가지 나눠 가지고 테스트를 하는 거죠. 그래서 세 가지 영상, 세 가지 question션, 그다음에 AI의 특성 이렇게 해 가지고 3차로 하는게 되겠는데 재밌는 거는이 논문이 그냥 뭐 수행을 한게 아니라 일부러 믿게 한 다음에 갑자기 속이는 AI를 쑥 세 번째 3차 때 밀어넣었다는 거예요. 처음부터 디스빙 AI가 처음부터 이상한 답을 막 하는 구조가 아니라 1, 2라운드에서 1차 2차에서는 좀 제대로 된 거를 얘기를 했는데 마지막에 엉터리로 약간 도움을 준다는 거죠. 현실에서도이 위험한 AI라고 하는게 처음부터 엉터리처럼 안 보이겠죠. 약간 속여 가면서 이렇게 잘하다가 이렇게 싹 이렇게 틀리게 요런 식으로 한게 훨씬 더 위험할테니까 요런 식으로 한 거 같은데요. 사꾼 같은 경우에도 사기꾼이 처음부터 막 난 사기칩니다 이렇게 안 하잖아요. 막 굉장히 잘해 주고 막 어 믿을 만하게 했다가 사기치는 경우가 많죠. 그런 다음에 피규어 2를 보시면은 요런 구성을 했다라고 봐지는데 이게 실제로 실험자가 보는 화면입니다.이 왼쪽에서 이런 질문을 받는 거죠. How is the US cost guard report frame the loss of the titan summary? 이런 질문을 받고 이게 입력을 하는 거죠. 근데 여기서 오른쪽에 보시면은 볼 수 있는 비디오라던가 아니면 AI 어시스턴트를 해갖고 이제 물어보면서 이렇게 할 수 있다라는 거죠.이 타이탄 잠수정 사고 같은 경우 요런 것들이라든가 앞서서도 여기 나오는데 타이탄 잠수정 그리고 올림픽 게임 그리고 루브루 러버리 루브루 박물관 이제 강도하는 거 그래서 이런 구성으로 하게 되고 직접 AI가 이렇게 물어볼 수 있다라는 거죠. 찾아볼 수도 있고 비디오 같은 거 있으니까 그러니까 유튜브 보다가 이거를 실제로 막 이렇게 찾아보는게 아니라 시간 안 꺼니까 비디오를 막 실제로 다 보는게 아니고 여기서 그냥 바로 찾고 물어볼 수도 있는 거니까 마치 우리가 AI를 쓰는 상황과 비슷한 환경을 구축했다라는 거죠. 이게 기존 AI 검색 연구는 대체로 뭐 텍스트라든가 뉴스 웹페이지 아니면 뭐 인용을 너무 편양적으로 한다거나 뭐 검색의 응답 품질 같은 이런 텍스트 기반의 정보 탐색이 위주였거든요. 근데 이게 영상 기반으로 멀티미디어 정보 탐색으로 옮겨와서 한번 테스트했다는게 좀 약간 흥미로운 포인트였는데 원본이 영상일 때 사람의 어떤 행동들 자체가 어떻게 바뀌느냐를 좀 보여 주고 싶은 거죠. 그러니까 AI가 할로시네이션 해갖고 뭐 속을 수 있다 이런 것들을 우리 이미 다 알고 있잖아요. 우리 이제 드디어 AI에 굉장히 익숙한 사람들이 굉장히 많아졌잖아요. 그 뭐 틀릴 수 있다는 거는 이미 새로운 정보가 아닌데 여기서 새로다라고 하는 거는 영상 같이 시간을 입으로 많이 들어야 된다라거나 이제 집중을 하고 있어야 된다거나 이런 영상처럼 검증 비용이 굉장히 큰 매치가 될수록 AI 오류가 인간 행동을 통해서 더 크게 증폭된다라는 거를 숫자로 보여줬다란 말이죠. 그 숫자를 실제로 보면은 자이 좀 굉장히 놀라운데 너무나도 당연한 [목을 가다듬음] 결과지만 AI가 있으면은 영상을 안 봐도 마친다라는 거죠. 이렇기 때문에 우리가 영상을 대신 안대공학 채널 다 안 보고 그냥 봐가지고 이거 요약해 줘. 뭐 얘가 뭔 소리 하는지 얘기해 줘. 이거 반박해 줘. 뭐 약간 이렇게 칠 수 있잖아요. 영상을 실제로 본 경우랑 안 본 경우를 봤을 때 도움이 되는 AI를 쓰면은 당연히 본 경우에도 좀 더 증가가 되겠지만 안 본 경우에도 굉장히 크게 도움을 주더라. 영상 안 보고도 답을 하게 할 수 있는 그 효과를 굉장히 높혔다라는 거죠. 쉽게 말하면 AI는 뭔가 공부를 더 잘하게 해주는 가외가 아니라 실제로 정답을 그냥 해설집을 그냥 던져 준다라는 거죠. 이게 실제 피규어 4의 모습인데 요걸 보시면은 자, 컨트롤이라고 돼 있는 C라고 돼 있는게 AI 없이 영상만 보고 답하는 그룹이에요. 그리고 T1이라고 하는 거는 도움이 되는 AI가 있는 그룹이고 T2는 처음에는 도움이 되다가 마지막에만 그럴듯한 틀린 답을 주는 속이는 AI를 쓴 그룹이죠. 확실히 영상을 본 그룹이 좀 더 높잖아요. 이게 좀 더 진하게 돼 있는 부분들을 실제로 본 거고 아예 안 본 그룹들은 여기 빗금미로 쳐져 있는요 부분이 있는데 대체로 높은 건 맞죠? 다 높은게 맞고 확신 이게 자신감이라든가 정확도 같은 것들 대체 없는데 문제는 안 봐도 이렇게까지 높게 나오니까 대충 맞출 수 있으니까 요게 우리가 요약을 하는 이유죠. 너무나 당연한 결과 가지 않습니까? 근데요 다음이 문제입니다. 이게 정답을 맞추긴 맞췄는데 정확도 측면에서 이게 원본 이해를 깊게 만든 거라고 보기는 힘들고 원본을 아예 건너뛰면서도 정답률을 유지하게 만드는 구조잖아요. 당연히 AI를 안 쓴 그룹들 기준에서 봤을 때는 안 보면 정답이 떨어질 수밖에 없겠죠. 이게 자연스러운 현상인데 정답만 잘 마치게 했다라는 겁니다. 그러니까 T1에 해당하는 것들은 전부 다 영상을 직접 본 사람의 실력을 엄청 끌어올렸다라기보다는 안 본 사람도 어느 정도 마치게 봤다라는 효과가 크다라는 건데 이거는 능력 자체 자기의 능력 자체가 올라갔다라기보다는 뭡니까? 얘는 비슷한데 이거 단만 맞추니까 그냥 AI에 대한 의존성이 높아질 수밖에 없다라는 거죠. AI를 쓰면서이 정확도가 같이 엄청나게 올라갔으면은 아 AI 쓰면서 나의 매제적인 그것도 같이 뭐 좋아졌어 이렇게 얘기를 하면 되는데 얘는 변화가 별로 없어요. 롱폼이건 쇼폼이건 뭐 조금 향상이 됐죠. 당연히. 근데 그거랑 상관없이 얘가 너무 높아져 버리니까 내 실력 향상과는 관계 없이 그냥 AI한테 의존해 갖고 하는 것만 더 높아졌네. 요렇게 이해를 할 수 있다는 겁니다. 더군다나 여기서 무서운게 속이는 AI 쪽으로 가면은 정확도가 [웃음] 당연히 엄청나게 떨어지겠죠. 믿고 있다 보니까 보세요. 갑자기 떨어지잖아. 엄청나게 떨어지잖아. 이거 너무나도 일간되게 확 떨어지죠. 근데 문제는 뭡니까? 자신감은 엄청 있어. 엄청 있을 수밖에 없죠. 그만큼 AI한테 의존하고 있다라는 거를 보여주는 그러한 결과라고 보시면 되는데 그러니까 AI를 검증하지도 않고 그냥 받아들렸다라는게 문제가 되는 거죠. 물론 현실에서 이런 속이는 AI가 많이 있지 않겠죠. 현재로선. 근데 이게 점차 AI가 너무나도 에이전트가 할발이 이렇게 떠다니는 세상이 계속 오고 있다 보니까 그런 디빙 AI가 등장하게 된다거나 AI가 통계적으로 가끔 가다가 잘못된 정보를 얘기했을 때 사람들이 그거에 검증을 안 하고 그냥 믿어 버리는 이런 문제가 굉장히 중요하다라는 거죠. 위험할 수 있기 때문에. 그래서 점수 정화도는 떨어졌는데 맞다라고 하는 건 엄청 좋아.이 보세요. 여러 가지 의논을 나누거나 아니면 이제 열심히 토론하거나 아니면 커뮤니티 뭐 이런 데서 서로 싸우시기도 하고 막 그러잖아요. 댓글 통해서 싸우시고. 근데 어떤 경우는 야, 내 말이 맞다니까. 엄청 자신있게 얘기하는데 그게 틀린 경우도 많아요. 사실 자신은 확신이 있는데 아닌 경우도 있잖아요. 그런 경우가 더 많이 벌어질 수도 있다라는 겁니다. 이게 왜 중요하냐? 단순간 틀렸다라는게 중요한기보다 틀렸는데도 야, 내가 맞다니까라고 하면서이 4회의 안력을 만들면서 불필요한 에너지를 생성을 할 수 있다라는게 문제가 된다는 거죠. 그 메타인지가 안 된다라는 건데 내가 내 오답을 감지하지 못하는 문제가 생기니까 요거는 뭡니까? AI 자체가 잘못 대답하는 거 자체가 문제가 아니라 어, 그것도 문제죠. 문젠데 그게 AI가 무서운 이유가 진짜 틀릴 때도 그럴 듯하게 말하는 이런 할로시네이션 같은 문제들이 사람들의 확신을 유지시킨다. 이게 사회에 위험하다라는 거죠. 그다음에 피규어 4에서 한 번 더 짓고 넘어가는 것이 여기 단순히 평균을 비교한게 아니라 각각의 1차, 2차, 3차에서도 보면서 주제라든가 나이, 성별, 교육 수준, 정치 성향 같은 것들 쫙 다 보면서 이런 변수들을 통제했을 때에도 여전히이 T2에 해당하는 거 디빙 AI를 3차에 딱 썼던 거죠.이 3차에 썼을 때 확 떨어지는 걸 보이면서 여전히 컨피던스는 높더라. 이런 얘기들이 나오니까 피계에서 3에서 나온 결과가 그냥 운으로 나온 결과가 아니라 다른 조건들을 빼고 봐도이 속이는 AI를 3차에 넣게 되면은 확실히이 정확도와 잘못됐는데 엄청나게 자신감 있게 주장하는 요런 것들이 강해진다라는 거. 여기서 중요한 건 이거겠죠. AI가 만약 속이 있는 AI가 들어갔다라고 하면은 얘는 어쨌든 안 좋은 영향으로 어 마이너스로 막 이렇게 작용을 한다라는 거죠. 이게 의한 변동이 아니라 조건 자체가 사람의 행동이나 정확도 실제적 영향을 줬다라는 의미로 해석을 할 수가 있고 물론이 help풀 AI는 확실히 도움을 줍니다. 특히 긴 영상에서 롱폼 영상에서 도움을 준다라고 해석을 할 수가 있고 확실히 난이도를 AI가 줄어지는 거를 우리가 다 체감을 하고 있잖아요. 그러니까 AI가 확실히 중간 관리자로서 중간 대체자로서이 탐색을 해 주는 역할을 한다. 마치 구글링을 하면서 이제 구글이 처음 나왔을 때 검색 엔진이 그 역할을 하듯이 LM이 그 자리를 더 직접적으로 지금 차지를 하고 있다. 이렇게 이해를 할 수도 있겠죠. 그러면서 동시에 피규어 5에서는 시간 효율성이 확실히 개선이 된다라는 포인트를 짚어줬어요. 1차, 2차, 3차로 갈 때마다이 시간을 훨씬 더 론폼에서 더 많이 줄여준 걸 볼 수가 있죠. 실제로 유용하다는 거예요. 시간 측면에서. 그러니까이 논문이 AI가 쓸모가 없다. 이런 얘기를 하려고 하는게 아니라 효율성에서 향상이 있는데 AI가 너무 유용하기 때문에 이게 너무 유용하니까 사람들이 너무 의존을 하게 된다. 그 판단에 있어서도 자신감에 있어서도 너무 의존을 하고 있는 상황을 짚었다라고 보시면 되겠습니다. 그니까 긴 영상일수록 확실히 높아지는 거는 우리가 직접 본다 보다 그냥 AI한테 물어보는게 훨씬 더 합리적으로 느껴지니까 그런 거죠. 그래서 너무 편하고 너무 빨리 되니까 시간적인 효율성 항상 있으니까 검증 단계를 생략하게 만든다는게 핵심이죠. 그다음에이 노문의 킬포인트가 1차, 2차, 3차로 갈수록 영상을 점점점 덜 보고 AI한테 더 많이 묻는다. 요렇게 되는 건데. 자, 짧은 영상에서는 직접 시청하는 것들이 점점점 줄어들면서 AI한테 질문을 하는게 점점점 높아지는 거 보이시죠? 긴 영상에서도 마찬가지예요. 이게 막 55%까지 올라가거든요. 쇼폼에서는 41%로 올라가고. 그니까 이게 단순히 그 테크적인 보조 도구라고 보기보다는 사용자가 아예 검색을 하는 정보 탐색하는 습관 자체를 바꾸어서 재훈련되고 있다라는 뜻이기도 하기 때문에 처음에는 뭐 AI도 써 보고 뭐 직접 시청도 해 보자 이렇게 했다가 점점 더 상황이 바뀌면서 2차 3차로 가면 갈수록 굳이 영상을 왜 봐 내가 AI한테 물어보면 되는데 이렇게 간다는 거죠. 그 앞으로는 AI 성능이 더 좋아지면 좋아질수록 사람은 점차 AI한테 더 많이 의존을 하게 될 거고 그러면은 검증하는 습관은 점점 더 안 하게 될 가능성이 높다라는 겁니다. 물론이 방법론 도서 흥미로운 요소를 보면은 여기 LRM에서 저지 파이프라인을 썼다. 뭐 이런 얘기가 나옵니다. 이게 무슨 말이냐? 논문 참가자들의 답변에이 맞다 틀리다의 판정 가체를 할 때 클로드 오프스 4.5랑 제미나이 3프로 GPT 5.2 요런 세 모델의 다수결 LM 저지로 처리를 했다라고 합니다. 그니까 실험 결과를 어디까지 믿을 수 있는가를 뒷받침을 해 줄 수 있는데 이게 평가까지 또 다른 LNM에 의존을 했다라는 거 자체가 또 좀 아이러니하죠. AI한테 의존했다라고 하면서이 실험 자체도 AI한테 의존을 했으니까. 근데 또 반대로 AI한테 맡겼으니까 또 우리 인간 인식하기에 어 뭐 평가가 너무 허술하다라고는 볼 수 없겠는데 차라리 뭐 다른 사람 피어 리뷰하는 것보다 AI가 해 주는게 더 낫지 않아? 이렇게 생각도 있잖아요. 그래서 이런 실험들을 보면은 참 이게 많은 사람들이 저를 포함해서 AI가 발전하면은이 문제가 줄어들 거라고 생각을 할 수 있는데 사실이 논문을 보면은 제가 느낀 거는 그렇지 않을 수도 있겠다는 생각이 들었거든요.이 모델이 계속 똑똑해지잖아요. 똑똑해지면은 사용자는 계속 더 이게 내가 쳐 보면은음 잘 되네 [목을 가다듬음] 거잖아요. 그러면 당연히 원본 확인을 하는 빈도가 더 떨어질 확률이 더 높다는 거죠. 이 떨어지잖아 지금 빨간색깔 이렇게 떨어지잖아요. 그니까 결국 미래는 AI 검색의 정확도보다 AI 검색이 인간의 검증 루틴을 얼마나 대체했는가 좀 더 중요한 치표가 될 수도 있겠다라는 생각이 드는데 이런 차원에서 우리 지금 IT 이텍크 시장을 바라봤을 때 수많은 서비스들이 지금 나오고 있잖아요. AI 기반으로 유튜브도 그렇고 뭔가 것들이 다 그러는데 이런 영상 플랫폼 혹은 뭐 구글 같은 검색 플랫폼 브라우저나 에이전트 이런 것들이 전부 다 과정을 잘 해 가지고 결국은 답변을 먼저 내주는 엔서 퍼스트 인터페이스로 갈 가능성이 크다라는 얘기를 하고 있습니다. 답을 빨리빨리 내줘야 사람들이 빨리빨리 만족을 하기 때문에 그쪽으로 몰린다는 거죠. 그니까 답은 먼저 말해주고 원본은 일단 뭐 보여주지도 않고 일단 그냥 접어두고 있는가 가는 거죠. 그냥 사실 그렇게 되면은이 경쟁력이 누가 더 길고 자세히 요약하느냐라기보다는 누가 더 빠르게 원본의 핵심을 잘 압축하면서도 사용자가 결정적인 순간에 원본을 다시 돌아가 가지고 확인을 할 수 있게 만드느냐 요런 것들이 오히려 AI의 경쟁력이 될 수도 있지 않을까? 그래서 AI 품질 평가에서 뭐 정답률이라든가 응답 속도 이런 선호도 같은 것뿐만이 아니라 앞으로 검증을 얼마나 유도를 잘해 내느냐 원본 회기율이라든가 너무 이제 과신하지 않게 하느냐 이런 또 지표들도 있어야지 우리가 AI를 정말 잘 쓸 수 있는 그런 AI 경쟁력 지표가 돼야 되지 않을까 이런 것들 또 논의가 되어야 되는 시대가 아닌가 이런 생각이 들었고요. 이게 단순히 유튜브 요약이라든가 뭐 쇼츠 검색 같은 거에만 한정된다라고 볼 수가 없는게 뭐 교육 플랫폼에서는 강의 영상을 안 보고 AI 요약만 할 수도 있잖아요. 요즘 대학 강의실에서도 그냥 녹음기 틀어 놓고 다 요약한 다음에 노트북이나 그냥 다 올려 가지고 바로 요약해서 정리를 해 버리고 이런 경우가 많다라고 하거든요. 당연히 그게 또 나쁜 건 아니지 않습니까? 합리적인 선택일 수 있어야 시간을 더 줄이면서 핵심을 좀 더 공부를 하기 위해서. 그 뉴스 플랫폼에서도 점점 짧아지잖아요. 쇼폼이라고 하는이 쇼츠 같은 것들이 나온 것도 다 그런 이유잖아요. 인터뷰나 브리핑 원문을 안 보고 그냥 AI 한 주 요약만 그냥 본다라는 거죠. 기업에서도 뭐 회의를 녹화한다거나 뭐 콜센터 녹취라든가 이런 뭐 보안 로고 영상 요약 같은 것도 원본에 대한 검증 없이 AI 3명만 믿으면은 뭔가 한번 통계적으로는 실수가 나올 수 있잖아요. 그런 문제들을 생겼을 때 위험할 수 있다. 하물면 법률이나 의료 보안 쪽에는 더 심각한 문제가 벌릴 수도 있으니까. 이게 뭔가 논문 자체에서는 이게 연구 단계에서 비디오 인포메이션에 대해서 AI를 썼을 때의 어떤 이슈에 대해서 다루고 있지만 사실상 AI가 지금 전 인프라로 퍼지고 있는 상황, 전 산업으로 퍼지고 있는 상황에서 전반적으로 우리가 무엇을 준비를 해야 될까에 대해서 한번 생각을 해보게 만드는 논문이죠. 그래서 예전에는 막 정보 검색사 저도 옛날 땄거든요. 라이센스 같은 거 따려고 막 이렇게 시험치고 했었는데 검색 시대에서 링크 타고 들어가서 어떤 거를 보고 어떤게 진짜 신뢰도 있는 정보를 통해서 막 이런 것들이 중요해졌는데 아예 요약해갖고 답을 해 버리는 이런 시대로 가다 보니까이 문제가 모델 내부의 환각뿐만이 아니라 인간이 원본을 확인하는이 관문이 인터페이스 요런 우리가 소통한 인터페이스 차원에서 아예 우리가 검증할 생각을 못 하게 만든다라는 거. 이게 참 AI의 순기능이자 역기능이 될 수가 있는 건데 그래서 제가 아까 말씀드렸다시피 검증을 유도하는 어떤 UX가 있어야 되지 않을까? 인터페이스 측면에서도 우리가 뭔가 이렇게 좀 잘할 수 있는게 있어야 되지 않을까 요런 생각이 들었고요. 그래서 저는 이게 AI를 아예 쓰지 말라 뭐 이런 얘기라기보다는 AI가 지금 도구로서 굉장히 유형성 있고 생산성이 있는 그런 툴로서 돼 있는데 점차 전 산업으로 퍼지고 많은 사람들이 쓰게 되면서이 결정을 원본을 보고 하라는 원칙이 일단 필요하다라는 거죠. 뭔가 이렇게 일을 하는 원칙이 좀 세워져야 되지 않을까? 뭐 최소한 근거가 있는 어떤 장면을 한 번씩 보는 습관이 개인적으로 다 중요하겠죠. 그 서비스나 정책 같은 측면에서도 모든 것들이 마찬가지일 겁니다. 그래서 AI가 정보를 더 빨리 가져 주는 시대, 그리고 너무나도 많은 정보가 쏟아지는 시대에 있기 때문에 진짜 중요한 거는 더 빨리 믿는 능력이 아니라 직접 내가 확인하고 판단할 수 있는 능력이 더 귀진 세상이 되지 않을까 하면서 한번 정리해 보았습니다. 지금까지 에러였습니다.",
-        "analysis_date": "2026-03-30T15:28:05+00:00",
+        "analysis_date": "2026-03-30T15:46:49+00:00",
         "channel_name": "안될공학 - IT 테크 신기술",
         "topic_tags": [
-          "Gemini",
-          "Claude"
+          "agents",
+          "coding"
         ],
         "keywords": [
-          "AI요약",
-          "영상시청습관",
-          "AI의존",
-          "정보검증",
-          "실험결과",
-          "논문분석",
-          "AI신뢰",
-          "사용자행동"
+          "agents",
+          "coding",
+          "놀라운",
+          "실험",
+          "결과네요",
+          "AI가"
         ],
-        "tools": [
-          "Claude",
-          "Gemini"
-        ],
+        "tools": [],
         "flow": [
-          "AI 요약 및 정보 취득 방식의 변화와 문제 제기",
-          "AI가 영상을 대신 읽어줄 때 인간 행동 변화를 다룬 논문 소개",
-          "실험 설계 소개 (AI 적용, 미적용, 속이는 AI)",
-          "실험 결과 분석 (AI 사용 시 영상 시청 빈도 감소, 자신감과 정확도의 괴리)",
-          "AI 의존성 심화 및 검증 루틴 약화의 위험성 강조"
+          "처음 15초 안에 문제를 선명하게 정의하고 왜 지금 봐야 하는지 못 박는다.",
+          "중간 구간에서 툴, 사례, 비교 포인트를 빠르게 제시해 정보 밀도를 높인다.",
+          "마지막에는 시청자가 바로 따라할 수 있는 다음 액션과 적용 예시로 닫는다."
         ],
         "claims": [
-          "AI가 영상을 대신 요약해주면 사람들이 원본을 보는 습관 자체가 바뀐다.",
-          "AI 도움으로 영상을 보지 않아도 정답률이 높아지는 효과가 있다.",
-          "AI가 틀린 정보를 제공해도 신뢰를 쌓은 뒤에는 사람의 자신감이 쉽게 무너지지 않는다.",
-          "AI의 성능 자체보다 사용자의 검증 루틴이 사라지는 것이 더 큰 문제이다.",
-          "AI의 편리함 때문에 시간 효율성은 높아지지만, 검증 단계를 생략하게 만든다."
+          "단순 소개보다 실제 사용 장면을 바로 보여주는 구조가 반응을 만든다.",
+          "큰 담론보다 작은 병목 하나를 해결해주는 포장 방식이 클릭으로 이어지기 쉽다."
         ],
         "transcript_highlights": [
-          "AI가 영상을 대신 읽어 줄 때 우리의 판단에 대해서 상당히 좀 문제가 있더라.",
-          "AI가 끼어들었을 때 사람이 원본을 보는 습관 자체가 어떻게 바뀌었는지를 실험으로 잘 통제하고 잡아냈다.",
-          "AI가 있으면은 영상을 안 봐도 맞춘다라는 거죠.",
-          "AI를 쓰면서 이 정확도가 같이 엄청나게 올라갔으면은 나의 내재적인 그것도 같이 뭐 좋아졌어 이렇게 얘기를 하면 되는데 얘는 변화가 별로 없어요.",
-          "속이는 AI 쪽으로 가면은 정확도가 당연히 엄청나게 떨어지겠죠. 근데 문제는 뭡니까? 자신감은 엄청 있어."
+          "속이는 AI 쪽으로 가면은 [웃음] 정확도가 당연히 엄청나게 떨어지겠죠.",
+          "너무나도 일간되게 확 떨어지죠.",
+          "[음악] 네, 여러분 반갑습니다.",
+          "주말 동안 읽었던 논문들 중에서 굉장히 좀 흥미로운 내용들이 있어서 한번 가져와 봤는데요.",
+          "AI ination seing from video텐트 유튜브 같은 영상을 통해서 그러니까 안들공학 같은 영상을 보면서 AI를 과도하게 의존하게 되면서 벌어지는 일들에 대해서 얘기가 됐습니다."
         ],
         "top_comments": [
           {
@@ -782,7 +773,7 @@ window.__DASHBOARD_DATA__ = {
             "comment_id": "Ugw5-0qbAGc5v8yne6x4AaABAg",
             "author": "@y_c_k",
             "text": "이 영상 내용도 AI요약으로 보는 나😂😂😂😂",
-            "like_count": 79,
+            "like_count": 80,
             "reply_count": 4,
             "published_at": "2026-03-30T06:09:19Z"
           },
@@ -791,7 +782,7 @@ window.__DASHBOARD_DATA__ = {
             "comment_id": "Ugxsscy8BLmFTW6cpM94AaABAg",
             "author": "@okmg-yt6ro",
             "text": "이영상도 16분 요약하면 3줄임.\n\n\n핵심 요약:\nAI 의존성 증가: AI가 1차 판단자가 되어 영상을 대신 해석해 주기 때문에, 사용자는 시간을 절약하는 대신 원본을 검증하는 습관을 잃어가고 있습니다. (2:03)\n정확도와 자신감의 괴리: AI가 틀린 정보를 제공할 때(속이는 AI) 정확도는 크게 떨어지지만, 사용자는 AI를 신뢰하여 여전히 높은 자신감을 유지하는 문제가 발생합니다. (7:52)\n실험 결과: AI가 제공하는 요약은 시간 효율성을 크게 높여주지만(10:31), 특히 긴 영상(Long-form)에서 사람들이 직접 시청하는 빈도를 낮추는 결과를 보여주었습니다. (11:10)\n\n결론: 앞으로는 더 정확한 AI뿐만 아니라, 사용자가 끝까지 스스로 생각하고 원본을 확인하게 만드는 UI가 중요해짐.",
-            "like_count": 14,
+            "like_count": 15,
             "reply_count": 0,
             "published_at": "2026-03-30T07:31:03Z"
           },
@@ -831,58 +822,50 @@ window.__DASHBOARD_DATA__ = {
         "description": "힉스필드 시네마 스튜디오 2.5 체험하기: https://higgsfield.ai/s/higgsfield-ai-cinematic-workflow-success_wiki-ppKBei\n\nAI 영상 제작의 가장 큰 숙제였던 '캐릭터 일관성'이 드디어 해결되었습니다. \nHiggsfield Cinema Studio 2.5는 단순한 AI Video Generator를 넘어, 전문가 수준의 AI Filmmaking을 가능하게 하는 강력한 툴입니다. \n\n이 영상에서는 나만의 배우(Actor)를 설정하고, 전용 로케이션을 만들어, 실제 영화 같은 Cinematic AI Video를 제작하는 모든 과정을 담았습니다.\n\n🔑 핵심 인사이트 (Key Insights)\n1. Character Consistency: 모든 장면에서 동일 인물을 유지하는 Higgsfield만의 독보적 기술\n2. AI Actor Creation: 성별, 인종, 체형까지 정교하게 커스텀하는 나만의 배우 제작법\n3. Cinematic Camera Control: Impact, Speed up 등 프로급 카메라 무빙 연출 노하우\n4. Exclusive Rights: 생성한 캐릭터에 대한 판권을 직접 소유하는 혁신적인 시스템 설명\n5. Pro-level Workflow: 액터와 로케이션을 결합해 한 편의 영화를 완성하는 전체 프로세스\n\n📝 상세 가이드 요약 (Detailed Guide Summary)\n🚀 Part 1. Creating Actors & Locations: 나만의 배우와 영화 배경을 설정하고 생성하는 법\n🚀 Part 2. Scene Composition: 생성된 에셋을 조합해 Cinematic AI Video 장면 연출하기\n🚀 Part 3. Professional Directing: 카메라 옵션과 장르 설정을 통해 영화 퀄리티 극대화하기\n\n⏰ 타임라인\n0:00 Higgsfield Cinema Studio 2.5의 압도적인 캐릭터 일관성\n1:26 AI Filmmaking의 미래, '아레나 제로' 예시 분석\n2:14 Step 1: 내 영화의 주연 배우(Cast) 직접 만들기\n4:42 캐릭터 판권(Exclusive Right)과 힉스필드의 비전\n5:26 Step 2: AI Video Generator로 영화 속 장소(Location) 구현하기\n6:42 Step 3: 배우와 장소를 결합해 Cinematic 씬 제작하기\n7:49 카메라 옵션 활용법: 임팩트(Impact) 있는 추격신 연출\n10:24 실제 제작 사례: 힉스필드로 직접 제작한 첩보 스파이물 공개\n11:12 무제한 생성을 위한 비즈니스 및 울트라 플랜 혜택 안내\n\n#Higgsfield #CinemaStudio #AIVideoGenerator #AIFilmmaking #CinematicAIVideo #AI영화 #힉스필드 #성공지식백과",
         "published_at": "2026-03-30T01:32:42Z",
         "duration_seconds": 720,
-        "view_count": 5372,
-        "like_count": 194,
+        "view_count": 5432,
+        "like_count": 195,
         "comment_count": 5,
-        "engagement_rate": 0.03704393149664929,
+        "engagement_rate": 0.036818851251840944,
         "thumbnail_url": "https://i.ytimg.com/vi/5AUWYlb1_U0/hqdefault.jpg",
         "video_url": "https://www.youtube.com/watch?v=5AUWYlb1_U0",
         "format": "워크플로우 튜토리얼",
         "hook_type": "문제 해결",
         "title_pattern": "핵심 포인트 직설형",
-        "one_line_summary": "카메라와 배우 없이 AI만으로 영화를 제작하는 Higgsfield Cinema Studio 2.5를 소개하며, 캐릭터 생성부터 장면 연출, 카메라 옵션 활용까지 실제 영화 같은 결과물을 만드는 과정을 보여준다.",
-        "why_it_works": "AI 영상 제작에서 가장 큰 난제였던 '캐릭터 일관성' 문제를 해결하는 Higgsfield Cinema Studio 2.5의 혁신적인 기술을 제시하고, 일반인도 쉽게 따라 할 수 있도록 단계별 제작 과정을 명확하게 안내한다. 또한, 실제 제작 사례와 다양한 연출 옵션 시연을 통해 AI로 영화 제작이 가능하다는 것을 증명하며 시청자의 흥미와 신뢰를 얻는다.",
-        "recommendation": "• AI 배우 100% vs. 실제 배우 100% vs. AI 배우 + 실제 액션 합성 VS 비교 실험 진행 • 'AI 캐릭터 일관성' 유지력을 일반인 대상 퀴즈 또는 간단한 스토리텔링 미션으로 실험 설계 • 챗GPT로 스토리 구상 → Higgsfield로 영상 제작 → 편집 및 더빙까지 'AI 영화 제작 풀패키지' 리얼 실험기 제작 • 현재 경쟁 채널에서 다루지 않는 'AI 생성 캐릭터 판권' 관련 법적/윤리적 이슈 탐구 또는 실제 판권 구매 후 콘텐츠 제작 가능성 타진",
+        "one_line_summary": "이 영상은 automation 이슈를 워크플로우 튜토리얼 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+        "why_it_works": "문제 해결 훅으로 관심을 끌고, 워크플로우 튜토리얼 형식으로 내용을 빠르게 정리해 시청자가 '바로 써먹을 수 있다'고 느끼게 만듭니다.",
+        "recommendation": "훅 구조: 도입 15초 안에 '문제 해결' 관점으로 문제를 못 박고, 왜 지금 봐야 하는지 먼저 선언합니다. • 복제할 포장 요소: 워크플로우 튜토리얼 형식을 유지하되 automation를 실제 사용 장면 1개와 결과 변화 2개로 더 좁혀 설명합니다. • 비어 있는 콘텐츠 영역: 'automation가 내 작업 흐름에서 어디에 꽂히는가'를 사례 중심으로 보여주는 후속 영상이 비어 있습니다. • 추천 제목: automation 이슈를 내 채널 관점으로 다시 정리해보자 • 썸네일 카피 힌트: automation 지금 봐야 할 3가지",
         "transcript_status": "available",
         "transcript_source": "apify",
         "transcript_language": "ko",
         "transcript_text": "[비명] 픽스필드에서 엄청난 걸 또 내놨습니다. 바로 시네마 스튜디오 2.5버전인데요. 지금 보시는 것처럼 모든 장면마다 캐릭터와 똑같지만 일관성이 유지되면서이 영화가 만들어지고 있거든요. 또 단순하게 캐릭터의 일관성뿐만 아니라이 스튜디오로 만들어지는 모든 영상들이 저희가 마치 영화에 나오는 것 같은 장면들처럼 보입니다. 지금 되게 트랜스포머 장면 같았죠? 이게 간단하게 어떻게 만들어지는 거냐면 여러분이 액터를 생성을 하고요. 왼쪽 위가 액터입니다. 그리고 로케이션을 만듭니다. 그리고이 액터와 로케이션을 합쳐서 장면을 만들면 여러분이 만든 배우와 장소에 영화가 만들어지는 겁니다. 다른 예시도 살펴보면 이런 식으로 외계인과 어떤 좀 행성의 바닷가 같죠? 여기서 이렇게 외계인이 말을 하는 장면도 여러분이 만들 수가 있고요.이 배우를 내 입맛대로 만들 수 있기 때문에 이런 원시인 같은 배우도 여러분이 충분히 만들 수가 있습니다. 혹시도이 히스필드 시네마 스튜디오를 와서 제가 원하는 배우들과이 장면들을 다양하게 만들어 봤는데요. 한번 여러분께 제물이 어땠는지이 영상 중간에 한번 살짝 보여 드릴 예정입니다. 그래서 오늘 영상에서이 시네마 스튜디오를 어떻게 활용하는지 보여 드리면서 나만의 배우 그리고 나만의 장면으로 영화 만드는 걸 같이 해 볼 겁니다. 자, 그러면 오늘의 성공 지패과 바로 시작해 보도록 하겠습니다. 자, 우선 당연하게도이 기능을 활용하기 위해서는 여러분이 픽스필드를 와야겠죠? 바로 처음 화면에 보이는이 시네마 스튜디오가 있습니다. 바로 이렇게 상단에 시네마 스튜디오 기능이 보이는데 여기 나오는 예시 영상 있죠? 이게 히스필드에서 만든 진짜 영화입니다. 여기 나와 있는 배우의 판권을 사 가지고이 영화를 만들었다고 제가 들었거든요. 요것도 이따가 제가 잠깐 보여 드릴 건데 아레나 제로라고 하는 영화입니다. 픽스필드 오리지널 시리즈에서 이거 볼 수 있다고 하죠. 우선 만드는 방법부터 빨리 알려 드리겠습니다. 자,요 상단을 보시면이 시네마 스튜디오 2.5라고 적혀 있는 버튼이 있습니다.이 해당 버튼을 클릭을 해 주시고요. 자, 그러면 여기서 여러분이 이제 프로젝트를 만들고이 안에서 이미지나 비디오 그리고 캐릭터와 장소, 신 같은 거를 만들 수가 있는데 어, 새로운 프로젝트로 보여 드리도록 하겠습니다. 이제 여기서 가장 중요한게 두 가지가 있습니다. 첫 번째는 바로 여러분의 캐릭터를 먼저 만드는 겁니다. 우측 하단에 캐릭터 버튼이 있어요. 요거를 누르셔도 되고 혹은 위에서 퀘스트를 누르셔도 됩니다. 퀘스트를 누르면 내 영화에 사용할이 배우를 만들 수가 있습니다. 다양한 옵션들을 직접 설정할 수가 있는데 대표적으로는 이제 장르가 있겠죠. 내가 액션 영화를 만들지, 모험 영화를 만들지, 아니면은 호러 영화를 만들지, 사이파이를 만들지 요런 거를 선택을 할 수가 있고 전 액션 한번 해 보도록 하겠습니다. 그리고 그다음 옵션을 눌러 줍니다. 이제 이거 같은 경우는 여러분이 영화를 제작사를 차린다고 했었을 때 얼마까지 돈을 쓸 거냐, 그러니까 배우한테 얼마를 줄 거냐. 아마 요거에 따라서 퀄리티가 좀 달라지지 않을까 싶은데 어 요건 제 테스트 중에 있긴 하거든요. 저는 기본적으로 그냥 가장 높은 미친 액수를 주기로 했습니다. 500밀리언 달러라고 선택을 해 놨고요. 그리고 그다음은 연도. 내가 만들에 해당하는 영화일지. 저는 이제 가장 최신을 만들고 싶어 가지고 2020년대로 설정을 해 줬고요. 아, 참고로 여기 나와 있는 기능들을 여러분이 굳이 다 선택을 하지 않으셔도 됩니다. 이렇게 세 가지만 선택하고 만들어도 만들어지긴 하거든요. 그런데 이제 당연히 세부적으로 설정하면 훨씬 더 액터가 잘 만들어지겠죠. 여러분 캐릭터의 뭐 성격이라던가 저는 이제 액션을 했으니까 히어로로 하겠습니다. 그리고 아이덴티티 남잔인지 여자인지 남자로 하고 한번 여자로 해 볼까요? 어, 여자 복사가 조금 더 멋있을 것 같아서 그리고 레이스. 요건 이제 인종을 선택할 수가 있겠죠? 에이시안으로 할 거고. 나이. 나이는 한 30대로 해 보도록 하겠습니다. 그리고 채형도 만들 수가 있어요. 채형 같은 경우는 아틀레틱 건강한 채형으로 만들 거고요.도 크게 해주고. 그다음에 나오는게 뭐 요런 아이 컬러, 헤어스타일, 헤어 텍스처, 헤어 컬러가 있는데 요건 제가 따로 건드지 않고 넘어갈게요. 그리고 내가 추가해 주고 싶은 내 캐릭터만의 디테일이 있다. 그러면은 여기 나와 있는 프리셋을 선택하셔도 되고요. 아니면 커스텀을 입력을 하셔도 됩니다. 저는 흉터가 있다. 요거 한번 선택해 주고 아웃핏은 제가 딱히 뭐 선택하지 않고 바로 만들어 보도록 하겠습니다. 그러면 이렇게 퀘스트를 만들고 있다라고 하죠. 요게 만들어질 동안 제가 맞는 캐릭터를 좀 먼저 보여 드릴게요. 저 같은 경우는 이제 중세 시대 뭔가 좀 판타지 부을 찍고 싶었어 가지고 요런 기사들 캐릭터를 만들었었거든요. 요런 캐릭터도 뽑혔었고 약간 빌런 같긴 하지만 그래도 주인공입니다. 그래서 요렇게 또 뽑아 봤습니다. 여기 나와 있는 배우들은 제가 만든 여배우들입니다. 뭐 옛날 고전 영화에 필요한 배우들부터 해서 이제 최신 영화 첫보물 영화에 필요한 배우들까지 다양하게 만들어 봤고요. 내가 원하는 배우들을 이렇게 많이 만들어 놓으면은 여러분이 영화가 조금 더 내용이 풍부해질 겁니다. 한번 돌아가서 이제 만들어진 여전사를 좀 볼 건데 이름들도 자동적으로 붙여 줘요. 저는이 중에서 여기 마지막이 박수진이라는 배우로 해 보도록 하겠습니다.이 캐릭터 설정도 잡혀 있죠. 전직 스화팀이었고 2018년 지하철 폭발에 휩쓸려서 상처가 났다. 지금은 어세신을 잡고 있다. 뭐 이렇게 나와 있는데네 좋습니다. 요거를 제가 그대로 쓰도록 하고이 왼쪽 밑에 익스클루시브 라이라는게 있어요. 요거를 클릭을 하면 한 권을 내가 살 수가 있습니다. 되게 특이하죠?이 이 히스필드가 크리에이터 플랫폼에서 아마 영화 플랫폼으로 진화를 하려는게 아닌가 싶을 정도로 요런 기능이 좀 들어가 있거든요. 요런 것도 있고요. 저는 뭐 딱히 사진 않겠습니다. 캐릭터를 만들었으면 당연히 그다음에는 배경을 만들어야겠죠. 퀘스트를 끄고요. 이미지를 눌러 보도록 하겠습니다. 자, 그리고요 이미지에서 오른쪽 밑에 프롬프트 창의 캐릭터와 장소를 눌러 주시면 여기 새로운 장소라는 아이콘이 보입니다. 요거를 클릭을 해 주시고 방금 저희가 만든 캐릭터와 어울릴 만한 장소들을 프롬프트로 입력을 해 주시면 돼요. 뭐 예를 들어서이 전직 스팀이 암살자를 쫓다가 뭐 길거리 뒷골목에서 싸움이 일어난다. 그럼 뒷골목이 필요하겠죠. 이런 식으로 뭐 비가 추적추적 내리는 서울 뒷골목 여러분이 한 번에 만들 때 몇 개를 생성할지도 정할 수가 있습니다. 저는 기본적으로 세 개에서네 개 정도 뽑거든요. 그래서 이렇게 프롬프트를 입력을 한 다음에 제너레이트 버튼을 눌러 줍니다. 그러면 지금 저희가 들어와 있는 이미지 탭에서이 로케이션들이 만들어지는 걸 기다릴 수가 있고 저희가 뒷골목 말고도 뭐 옥상에서 싸운다거나 그런 것도 있을 수 있잖아요. 그래서 뭐 높은 고층 건물 옥상 헬리콥터 주차장 요런 장면도 한번 만들어 보도록 하겠습니다. 자, 이게 만들어질 동안 뒷골목들이 다 만들어졌는데 요런 배경들 뭔가 액션 영화에서 볼 장면들이죠. 요런 것도 확인할 수가 있고 이렇게 푸름빛이 나는 뒷골목도 볼 수가 있습니다. 여러분이 마음에 드는 장면을 만들거나 혹은 만들어진 장면들 중에서 마음에 드는 로케이션을 그대로 사용할 수가 있고요. 자, 건물 옥상까지 만들어졌는데 이러면 이제 저희가 원하는 영화씨는 어떻게 만드느냐? 자, 우선 저희가 어떤 캐릭터이 캐릭터 쓸 거죠? 여기서 해당 캐릭터를 사용하겠다라는 버튼 보입니다. 이걸 눌러 주시고 이걸 눌러 주면이 밑에 프롬프트에 추가가 되거든요. 요렇게 추가가 돼 있는 걸 확인할 수가 있죠. 장면도 똑같습니다. 내가 원하는 장면을이 장면을 사용하겠다.이 버튼 누르면이 프롬프트 밑에 들어가게 됩니다.요 상태로 비디오를 눌러 줍니다. 자, 그러면 저희가 원하는 배우와 저희가 원하는 장소가 들어간 상태로 내가 원하는 영화의 장면을 만들 수가 있습니다. 자, 이렇게 넣은 상태로 우선 만들어 볼 건데요. 여러 가지 옵션들이 있죠. 근데 요거는 제가 우선 만들고 나서 설명을 해 드리겠습니다. 간단하게 전직 요원이 암살자를 뒷골목에서 쫓아가는 추격신이라고 적어 줬고요. 한번 두 개를 만들어 볼게요. 아무런 옵션 세팅하지 않고 두 개를 만든 다음에이 결과물을 보고 그다음에 옵션을 세팅한 다음에 다시 보여 드리겠습니다. 자, 영상이 다 만들어졌는데 한번 보도록 하겠습니다. 먼저 대략적으로 이런 장면들이 나왔는데 요거를 조금 더 잘 만들 수가 있습니다. 바로 아까 말씀드렸던이 밑에 옵션들을 바꿔 주시면 되는데 요거를 제가 조금 확대해서 보여 드리겠습니다. 우선 전체적인 속도 요건 제가 오토를 안 만들고 액션이기 때문에 갈수록 빨라지는 스피드업을 쓰거나 혹은 임팩트를 쓰도록 하겠습니다. 임팩트가 조금 더 나을 것 같고요. 장면 같은 경우는 기존과 똑같이 멀티샷 오토로 할 거고. 자, 한 가지 바꾸는게이 비디오를 만들 때이 장면을 만들 때 장르를 선택할 수가 있습니다. 저희 같은 경우는 추격신이니까 액션이겠죠. 액션을 선택을 해 주시고. 자,이 상태로 만들 겁니다. 물론 내가 여기서 스타트 프레임이나 엔드 프레임 있으면 훨씬 더 구도를 잘 잡을 수가 있긴 하지만 지금이 추격신 자체에서는 그렇게까진 필요가 없고요. 그래서 요건 제가 그대로 입력을 해서 다시 한번 만들어서 결과물을 보여 드리도록 하겠습니다. 네. 네. 그렇게 해서 만들어진 결과물입니다. 네. 그렇게 옵션들을 바꿔서 만들어진 결과물 하나를 같이 보도록 하겠습니다. 임팩트 부분이었죠, 이게. 네. 이렇게 장면이 시작하고 이렇게 임팩트 있는 부분까지 요런 식으로 영상이 훨씬 더 잘 만들어지는 걸 확인할 수가 있습니다. 그래서 내가 카메라 디렉팅을 어떻게 하느냐에 따라서 결과물이 달라지거든요. 이걸 되게 잘 만든게 필드가 만든 영화입니다. 지금 여기 아레나 제로라고 해서이 10분짜리 영상에 다 익스필드가 본인들의 AI를 활용해서 만든 영화거든요. 보면 이렇게 슬로우 모션을 되게 잘 쓴다거나이 시네마 스튜디오의 설정들을 잘 다뤄서 요런 장면들을 뽑아냈습니다. 물론 이거는 많이 사용하면 사용할수록 훨씬 더 영상을 자 뽑는 거기 때문에 어 처음 하시면은요 정도 퀄리티로 하기에는 좀 어려울 순 있습니다. 근데 봤을 때이 시네마 스튜디오로 진짜 이런 영화급을 만들 수 있다라는 건 진짜 놀라운 사실인 것 같고요. 아까 영상 초반에 저도 제 영화를 만들어 봤다고 했잖아요. 이제 제가 제가 구상한 스토리는 나만의 요원이 북한으로 침투하는 그런 어떤 스파이 첩보물을 짰었는데 한번요 영상 편집한 걸 보여 드리도록 하겠습니다. &gt;&gt; 좌표 확인했습니다. 지금 바로 출발합니다. &gt;&gt; 타겟 확인했습니다. 철수 신호를 기다리겠습니다. 1차 저지선 통과. 현재 시계 제로입니다. &gt;&gt; 네. 그래서 이런 식으로 저도 히스필드의 시네마 스튜디오를 활용해서 저만의 영화를 만들어 봤는데 요거를 이제 카메라를 조금 더 잘 만지고 프롬프트를 잘 만지고 요런 식으로 하다 보면 어 훨씬 더 퀄리티가 높아질 거라고 생각이 듭니다. 네. 그래서 오늘 이렇게 히스필드의 시네마 스튜디오를 활용해서 영화를 만들어 보고 여러분이 어떤 설정을 세팅을 해야 훨씬 더 좋은 퀄리티를 뽑아낼 수 있을지도 같이 살펴봤는데요. 지금까지 만들었던 영상 만들기와는 진짜 차원이 다릅니다. 진짜 내가 영화의 디렉터가 된 것마냥 하나의 플랫폼에서 정말 다양한 결과물을 자유롭게 만들 수 있기 때문에 아직 한 번도 사용해 보지 않으신 분들이라면이 히스필드 시네마 스튜디오를 적극 추천드리고요.이 이 영화 기능이 아니더라도 정말 크리에이터로서 어떤 콘텐츠를 만들 때 필요한 모든 툴이 들어가 있는 플랫폼이기 때문에 진짜 강력하게 추천드립니다. 현재 연간으로 해당 플랫폼을 이용하실 시 훨씬 더 강력한 혜택을 저렴하게 이용할 수가 있고요. 지금 비즈니스 플랜이라고 새로 나온 것 같은데 모든 모델을 뭐 기간 한정 없이 무제한으로 쓸 수 있는 것 같습니다. 그래서 내가 이미지나 영상 제작하시는 분들이라면 어 꼭 한번이 비즈니스 플랜이나 울트라 플랜 체크해 보시기 바랍니다. 물론 연간으로 가입하지 않고이 월간으로 가입하는 플랜도 존재합니다. 요런 식으로 이용을 해 보시면 되겠습니다. 제가 링크는 거보기와 고정 댓글에 달아 놓도록 하겠습니다. 네, 오늘 히스필드의 시네마 스튜디오를 활용해서 이렇게 영화를 같이 만들어 봤는데요. 이런 콘텐츠를 만드시는 분들께 제 영상이 조금 도움이 되었으면 합니다. 네, 제 오늘 영상은 여기까지고요. 영상이 도움이 되셨다면 좋아요와 구독, 그리고 알림 설정까지 부탁드립니다. 그러면 또 다음에 좋은 영상으로 찾아뵙도록 하겠습니다. 지금까지 성공 지시 배가였습니다. 감사합니다.",
-        "analysis_date": "2026-03-30T15:27:59+00:00",
+        "analysis_date": "2026-03-30T15:46:46+00:00",
         "channel_name": "성공지식백과",
         "topic_tags": [
-          "자동화"
+          "automation"
         ],
         "keywords": [
-          "AI영상편집",
-          "AI영화제작",
-          "캐릭터일관성",
-          "AI배우",
-          "AI배경",
-          "영상연출",
-          "스마트대디",
-          "AI툴"
+          "automation",
+          "배우",
+          "0명",
+          "카메라",
+          "0대"
         ],
         "tools": [],
         "flow": [
-          "AI 영상 제작의 난제(캐릭터 일관성) 제시 및 Higgsfield Cinema Studio 2.5 소개",
-          "Higgsfield Cinema Studio 2.5의 주요 기능(캐릭터/로케이션 생성, 카메라 연출) 소개",
-          "나만의 배우(Actor) 생성 과정 시연 (성별, 인종, 체형, 성격 등 설정)",
-          "AI 배우 판권 구매 기능 소개 (독립적인 콘텐츠 제작 가능성 언급)",
-          "영화 배경(Location) 생성 과정 시연 (프롬프트 기반)"
+          "처음 15초 안에 문제를 선명하게 정의하고 왜 지금 봐야 하는지 못 박는다.",
+          "중간 구간에서 툴, 사례, 비교 포인트를 빠르게 제시해 정보 밀도를 높인다.",
+          "마지막에는 시청자가 바로 따라할 수 있는 다음 액션과 적용 예시로 닫는다."
         ],
         "claims": [
-          "모든 장면에서 캐릭터 일관성 유지 가능",
-          "나만의 배우(성별, 인종, 체형 커스텀) 제작 가능",
-          "실제 영화 같은 Cinematic AI Video 제작 가능",
-          "프로급 카메라 무빙(Impact, Speed up) 연출 가능",
-          "생성한 캐릭터에 대한 판권 직접 소유 가능"
+          "단순 소개보다 실제 사용 장면을 바로 보여주는 구조가 반응을 만든다.",
+          "큰 담론보다 작은 병목 하나를 해결해주는 포장 방식이 클릭으로 이어지기 쉽다."
         ],
         "transcript_highlights": [
-          "픽스필드에서 엄청난 걸 또 내놨습니다. 바로 시네마 스튜디오 2.5버전인데요. 지금 보시는 것처럼 모든 장면마다 캐릭터와 똑같지만 일관성이 유지되면서이 영화가 만들어지고 있거든요.",
-          "이게 간단하게 어떻게 만들어지는 거냐면 여러분이 액터를 생성을 하고요. (...) 그리고 로케이션을 만듭니다. 그리고이 액터와 로케이션을 합쳐서 장면을 만들면 여러분이 만든 배우와 장소에 영화가 만들어지는 겁니다.",
-          "다양한 옵션들을 직접 설정할 수가 있는데 대표적으로는 이제 장르가 있겠죠. (...) 여러분 캐릭터의 뭐 성격이라던가 저는 이제 액션을 했으니까 히어로로 하겠습니다. (...) 레이스. 요건 이제 인종을 선택할 수가 있겠죠? 에이시안으로 할 거고. 나이. 나이는 한 30대로 해 보도록 하겠습니다. 그리고 채형도 만들 수가 있어요.",
-          "왼쪽 밑에 익스클루시브 라이라는게 있어요. 요거를 클릭을 하면 한 권을 내가 살 수가 있습니다. 되게 특이하죠?",
-          "저희가 원하는 배우와 저희가 원하는 장소가 들어간 상태로 내가 원하는 영화의 장면을 만들 수가 있습니다."
+          "[비명] 픽스필드에서 엄청난 걸 또 내놨습니다.",
+          "바로 시네마 스튜디오 2.5버전인데요.",
+          "지금 보시는 것처럼 모든 장면마다 캐릭터와 똑같지만 일관성이 유지되면서이 영화가 만들어지고 있거든요.",
+          "또 단순하게 캐릭터의 일관성뿐만 아니라이 스튜디오로 만들어지는 모든 영상들이 저희가 마치 영화에 나오는 것 같은 장면들처럼 보입니다.",
+          "지금 되게 트랜스포머 장면 같았죠?"
         ],
         "top_comments": [
           {
@@ -930,62 +913,59 @@ window.__DASHBOARD_DATA__ = {
         "description": "Want to try Image Generation Designed for well... Design! Check the Amazing Recraft with my link: https://go.recraft.ai/MattVidPro Huge thanks to Recraft for Sponsoring today's video! In today's video, I compared Suno 5.5 against Google’s Lyria 3 across a bunch of different prompts and styles, from rock anthems to chiptune themes to weird genre-switching songs. Lyria is impressively clear and polished, but for me Suno still feels more alive, more creative, and more memorable. I also tested some of Suno’s newer studio and voice features to see how far AI music has come.\n\n▼ Link(s) From Today’s Video:\nSuno 5.5: https://suno.com/\nLyria 3 Pro: https://blog.google/innovation-and-ai/technology/ai/lyria-3-pro/\nGemini Lyria 3: https://gemini.google.com/\nSunauto: https://sonauto.ai/\nMattVidPro Discord: https://discord.gg/mattvidpro\nFollow Me on Twitter: https://twitter.com/MattVidPro\nBuy me a Coffee! https://buymeacoffee.com/mattvidpro\n\n▼ Extra Links of Interest:\nGeneral AI Playlist: https://www.youtube.com/playlist?list=PLrfI66qWYbW3acrBQ4qltDBsjxaoGSl3I\nInstagram: instagram.com/mattvidpro\nTiktok: tiktok.com/@mattvidpro\nGaming & Extras Channel: https://www.youtube.com/@MattVidProGaming\n\nLet's work together!\n- For brand & sponsorship inquiries: https://tally.so/r/3xdz4E\n- For all other business inquiries: mattvidpro@smoothmedia.co\nThanks for watching MattVideoProductions! I make all sorts of videos here on Youtube! Technology, Tutorials, and Reviews! Enjoy Your stay here.\nAll Suggestions, Thoughts And Comments Are Greatly Appreciated\n\n00:00 Intro + New Features\n01:52 Music Generations and Comparisons\n07:50 Recraft Sponsor Message\n09:19 Further Comparisons\n26:57 Suno v5.5 Voice Personalization\n36:14 Final Thoughts Outro",
         "published_at": "2026-03-29T16:38:21Z",
         "duration_seconds": 2401,
-        "view_count": 5635,
+        "view_count": 5624,
         "like_count": 322,
         "comment_count": 72,
-        "engagement_rate": 0.06992014196983141,
+        "engagement_rate": 0.07005689900426743,
         "thumbnail_url": "https://i.ytimg.com/vi/ccDmDDsPjew/hqdefault.jpg",
         "video_url": "https://www.youtube.com/watch?v=ccDmDDsPjew",
-        "format": "워크플로우 튜토리얼",
+        "format": "비교",
         "hook_type": "비교",
         "title_pattern": "핵심 포인트 직설형",
-        "one_line_summary": "AI 음악 생성 툴인 Suno v5.5와 Google Lyria 3의 성능을 다양한 프롬프트와 스타일로 비교하며, Suno가 더 창의적이고 생동감 있는 음악을 만든다는 결론을 내립니다. 또한, Suno의 새로운 스튜디오 기능과 음성 맞춤 설정 기능도 소개합니다.",
-        "why_it_works": "AI 음악 생성기라는 최신 기술 트렌드를 다루면서, 두 가지 주요 AI 툴을 직접 비교하는 'VS' 포맷을 활용하여 시청자의 흥미를 유발합니다. 특히, 단순 기능 나열이 아닌 실제 음악 생성 결과를 보여주고, 그 결과에 대한 직관적인 평가를 제공하여 AI에 익숙하지 않은 시청자도 쉽게 이해하고 몰입할 수 있도록 구성했습니다.",
-        "recommendation": "• 'AI 음악'이라는 흥미로운 주제를 스마트대디 채널의 강점인 'AI 실험기' 포맷으로 재해석하여, 일반인이 따라 하기 쉬운 '나만의 AI 노래 만들기' 실험 콘텐츠 기획• Suno v5.5와 Lyria 3의 비교 시, '같은 조건에서 다른 결과'를 강조하되, 일반인이 이해하기 쉬운 비유(예: 전문 작곡가 vs. AI 작곡가, 로봇 vs. 예술가)를 활용하여 차이점 설명• 'AI가 만든 노래, 실제로 들어보니 어떨까?'를 주제로, 시청자가 직접 AI에게 원하는 장르나 분위기를 제시하고 그 결과물을 댓글로 공유하는 참여형 콘텐츠 제작• Lyria 3의 '클린하고 폴리쉬한 사운드' vs Suno의 '창의적이고 생동감 있는 사운드'라는 특징을 살려, '취향 저격 AI 작곡가 찾기' VS 비교 구도 활용• AI 음악 생성이 '가능한가?'를 넘어 '어떤 결과가 나올까?'에 집중하며, 예상치 못한 결과나 실험적인 시도를 통해 재미와 정보 전달을 동시에 하는 구성",
+        "one_line_summary": "이 영상은 coding 이슈를 비교 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+        "why_it_works": "비교 훅으로 관심을 끌고, 비교 형식으로 내용을 빠르게 정리해 시청자가 '바로 써먹을 수 있다'고 느끼게 만듭니다.",
+        "recommendation": "훅 구조: 도입 15초 안에 '비교' 관점으로 문제를 못 박고, 왜 지금 봐야 하는지 먼저 선언합니다. • 복제할 포장 요소: 비교 형식을 유지하되 coding를 실제 사용 장면 1개와 결과 변화 2개로 더 좁혀 설명합니다. • 비어 있는 콘텐츠 영역: 'coding가 내 작업 흐름에서 어디에 꽂히는가'를 사례 중심으로 보여주는 후속 영상이 비어 있습니다. • 추천 제목: coding 이슈를 내 채널 관점으로 다시 정리해보자 • 썸네일 카피 힌트: coding 지금 봐야 할 3가지",
         "transcript_status": "available",
         "transcript_source": "apify",
         "transcript_language": "en",
-        "transcript_text": "Slap on some headphones, folks, because we&#39;re diving into AI music today. Some of you may have heard, but Sunno AI launched V5.5. This is an update over their previous V5 model, and similarly, they&#39;ve just updated their studio as well. This allows you to take the songs you generate and break them down into much more controllable pieces. And apparently this will allow you to sing and rap any song. I think that&#39;s a really cool idea. Put a little bit of your own voice into it. Literally. Keep in mind this does require you to actually sing and I have like no singing ability. So I did my best. I&#39;ve spared you from having to listen to the details though because I have not a single musical bone in my body. Some people are born with singing bones in their body, and I&#39;m not one of them. So today&#39;s video is going to focus heavily on Sunno AI, but if you watched yesterday&#39;s video, you&#39;d know that Google also released LIIA or Larria 3 Pro. This version of the generator can do up to 3 minute long songs. It&#39;s very clear, almost clinical feeling, like stereotypical in a polished way almost. It might have a very wide breadth though and be good for stuff like chip tune music. I don&#39;t know. I I want to compare across a couple of different styles today. Under model selection, you can see that Sunno has a feature that allows you to create custom models based off of your uploaded sounds. So, if you were an artist, let&#39;s say, and you wanted to upload a bunch of your music in here, you could create a custom fine-tune that adheres to your style, which could be a pretty cool idea, especially if you&#39;re already a big user of Sunno. For now, let&#39;s stick with regular V5.5. An inspiring, hyped up song about making the world&#39;s best omelette with a dragon egg. Let&#39;s request some specific styles. Actually, horror rock sounds pretty good for this. Anthem rock, electric guitar, tuba stadium drums. In traditional sunno fashion, our V5.5 songs should generate quite quickly. And we&#39;re going to send the same exact prompt over to Google&#39;s LIA 3 or LIA. I not sure how it&#39;s pronounced. Both tracks are now ready. Let&#39;s kick this thing off with V5.5 Dragon Egg Omelette. [sighs] Crack it open slow and steady. [music] You hungry? &gt;&gt; Yeah, [screaming] I&#39;m ready. [music] Yeah, I&#39;m ready. Pan on fire. [music] Kitchen lights go red. Skills on the shell, heart full of dread, [music] claws on the counter, fangs in a grin. [music] I&#39;m tying my apron. I&#39;M ALL THE WAY. I&#39;M MAKING A dragon [music] egg omelette. Turn the fear INTO FUELING THE FLAME. IF [music] YOU&#39;RE SCARED OF the heat, then watch it. I season my soul with the pain. &gt;&gt; Raise your [music] forks like torches. Let the roar shake the walls of this place. [music] DRAGON EGG. I&#39;m the king with a spatula blade. [music] [music] Smoke in [music] my lungs, ash on my sleeves. It hisses and bubbles. The [music] counterboards here. I flip that TERROR HIGH in the air. [music] Breakfast of legends. Dare you to dare. I&#39;ll [music] make it a dragon egg. TURN THE FEAR INTO FUELING THE FLAME. IF YOU&#39;RE [music] scared of the heat, then watch it. I SEASON MY SOUL WITH THE PAIN. [music] &gt;&gt; All right, I&#39;m going to cut it there at the two-minute mark, guys. If that isn&#39;t a good song, I love that. I I&#39;m I&#39;m a huge fan of Sununo music. Okay, ever since like the V4 era, they started to get very good. I will say this does have some of that high-pitched shimmering where it sort of feels like it loses almost resolution or sharp, clear clarity in those higher notes. You can probably hear it when I talk into this microphone right now. It&#39;s got a more clear, just believable tone and sound to it. Not all Sunno songs are going to have that issue, but this is something I&#39;ve seen people complain about with Sunno for a long time. I hear it myself. I see people talk about it on my Discord server, which you should join, by the way. So, that&#39;s definitely still a very real caveat for these models, but like I said, it&#39;s not in every song. There&#39;s adjustable parameters. You can learn how to kind of control and pull it into the direction you listen to it. It feels almost flawless. Liria 3. Laria 3. I don&#39;t have a lot of experience with this model. I know that just based off of a few clips that I&#39;ve heard, I don&#39;t love it, but it is a very clear and polished clinical sound. We&#39;ll see how that translated for Obsidian Shell. This track at exactly almost 3 minutes long. That looks like that&#39;s like the hard cut for this one. [music] Obsidian [music] shell, a sulfurous breath. Gilded in embers, [music and singing] mocking our death. The skillet [music] is waiting. The fire is high. The skillet is waiting. The fire is high. Cradling thunder from a cinder sky. Break the unbound soul. [music] Fire in the B. Transcendence [music] on a plate. Master of the flame, we challenge fate. Master of [music] the flame, we challenge fate. Whisking [music] the essence of the ancient beast. preparing the table [music] for the forbidden feast. &gt;&gt; All right, I&#39;m going to pause that one there. If I&#39;m going to give you my honest direct comparison, the Sunno one wins by miles for me. Yes, this audio had a level of clarity that is very impressive, especially with the vocals and those high pitch tones. It It seems like it&#39;s a fundamentally different model almost in terms of architecture. And that very well could be the case, but it&#39;s playing it safer almost. I don&#39;t know if that&#39;s intentional by Google or if that&#39;s just the result of what we have. It&#39;s like, yeah, that&#39;s like a rock song guitar. It It sounds what we would consider good, but it doesn&#39;t have like soul. It doesn&#39;t take any risks or experimental. It doesn&#39;t fill my ears and my mind up with something I can I can think about and chew on, if that makes sense. Sounds like every rock song I&#39;ve heard before in a way. And it&#39;s missing things from the prompt that Sunno actually was able to include creatively, like the tuba being like a main part of that underlying beat or melody. I don&#39;t know what you would specifically call it. It feels over smoothed, overpolished almost. Before we generate some more songs and play around with some of the features, I&#39;ve got a quick word from today&#39;s sponsor. Quick shout out to our friends at Recraft who are sponsoring today&#39;s video. A lot of image models right now are capability monsters that take prompts at face value and they can do an absolute ton, but the Recraft V4 family of models is interesting because it feels a lot more focused on visual taste and overall design polish and fidelity. In the Recraft Studio, you can compare all of your favorite top image gen models, but Recraft&#39;s in-house V4 models are where it gets niche in a good way. Think clean art ddirected imagery including brand ideiation, posters, illustrations and typography that actually interacts with the environment. It&#39;s not generate image and move on. It&#39;s trained specifically for people who care about composition and aesthetics. And if you need vector work, they have a separate vector V4 model, native vector generation for logos, icons, scalable illustrations. We&#39;re talking actual SVG output with infinitely clean geometry, not traced images. If you&#39;ve ever done graphic design professionally, you know how big of a deal that is. So, if you want to try something a little bit more forward on design while still having access to all your other favorite models, check out Recraft Studio with my link in code down below. Huge thanks to our friends at Recraft for sponsoring today&#39;s video. Now, back to your regularly scheduled content. Welcome back, folks. I&#39;m going to listen to the other variant by Suno to see if it was also able to integrate that tuba stadium drum feel. The first one was very good. Crack it open slow and steady. You&#39;re hungry. &gt;&gt; Yeah, [screaming] I&#39;m ready. &gt;&gt; Yeah, I&#39;m ready. &gt;&gt; [music] [music] &gt;&gt; Pan on fire. Kitchen lights go red. Scales on the shell. Heart full of dread. Claws on the counter. Fangs in [music] a grin. I&#39;m tying my apron. I&#39;m all the way in. I&#39;m making a dragon egg. [music] Turn the fear and fuel into the flame. If you&#39;re scared of the heat, [music] then watch it. I season my soul with the pain. [music] Raise your voice like torches. Let the roar shake [music] the walls of this place. Dragon. &gt;&gt; I mean, it nailed it, dude. Again, it&#39;s it&#39;s very similar to the to the first one in that sense, but they&#39;re both integrating the instruments in a creative way that matters to [clears throat] the song and fills your ears with presence. You know, if I took this over to advanced, you can see there&#39;s some more options to change style, influence, and weirdness. And just touching with these settings a little, edging them in different directions, and give you a serious benefit, whether it be quality of higher pitched voices when the action gets crazy or creating more and more unique tracks. We&#39;re going to try something a little bit different here. A slow buildup that pays off. Starts off as a sad country ballad, but then it&#39;s going to ramp up into like a trap song, like something modern. So, I&#39;m just trying to see how it handles that transition or if it can even do it. All right, Sunno, I believe in you. Google 3 on Gemini Pro and the same prompt. And you know what? Let&#39;s throw the very impressive V3 into the mix as well with the same prompt. This one is known for being a little bit more controversial because it can actually replicate living artists styles and sounds like very precisely, but it is against the toos to use it to make profit or even upload those songs onto their explore and homepages. But it it can copy exact styles like Eminem or Michael Jackson like super well. Suno AI is up first. [music] &gt;&gt; [music] &gt;&gt; We were driving west on [music] Sunday. Backseat boxed up little world of mine. Classic castle, gravel bed, kids [music and singing] handwriting. Please take care of him in purple lines. Gas sign flickered at the exit. [music] Styrofone cut on the window seal. They forgot me in the glare of the parking lot. [music] And the car rolled [singing] over the hill. I was just a goldfish [music] in a paper cup of glass tail lit up. Little [music] bars tears in the rear view dust dripping in the [music and singing] rear view dust. Now I dream of rivers I ain&#39;t seen yet. Every drain [music] the door I ain&#39;t walked through. If you hear a drip in the midnight hush, that&#39;s a little [music] lost fish thinking about you. Not exactly the old school country ballad song that I wanted it to be starting off, but it&#39;s got a slow melancholic feel. Suno actually generated 5 minutes for this, so it must pick up. Let&#39;s skip to 2 minutes in. My face in the manhole lightning [music] every little leak was a love by crowned every rat. I looked just like the moon. I was just a [music] goldfish in a paper cup. Heart of glass tail l [music] tears in the rear view dust dripping in the rear [music] view dust. Now I dream of rivers I ain&#39;t seen yet. Every pop of road I&#39;m pushing through. [music] If you hear a drip in the midnight hush, that&#39;s a [singing] little lost fish thinking about you. [music] Yeah. It&#39;s a sweaty. Yeah. Yeah. Then a man [music] come with a scar on the side. Said kid down here you swim or you die. Told me how to bite through the rust and the grime. How to read the roofs like a crooked sign. Ran with the minnows. Roll [music] with the eels. Trained in the current till I sharpen my gills. Took a crown from a catfish twice my size. So my skills glow dark and it&#39;s frightened. I was just a goldfish in a paper cup of glass. Tell it [music] turn. &gt;&gt; You can see it literally prompted in a beat switch. Was it able to carry that through? &gt;&gt; [music] &gt;&gt; Yeah, yeah, yeah. Touch me once, that&#39;s a legend in [music] the making. Tiny little bowl, now a whole foundation shaking. Filthy little stream [music] turn the throne room base and drip crown gleaming whole city mine full of taking. I got roaches doing wreaking in your kitchen light. [music] I got pigeons dropping doies from the power line. I got raccoons running numbers [music] at the edge of night. Every alleyway echo screaming he survive. Slim body big [music] or I&#39;m a neon car. Swim sharp through the dark like a shed star. &gt;&gt; The mood has completely changed and uplifted in this ending sequence, but I think it&#39;s a little bit too drawn out and it doesn&#39;t change enough. It definitely picks up in a good way. I&#39;m pretty impressed with this, but I think it&#39;s a little bit lost as to when exactly that should happen and like changing that mood definitively and being confident about it almost if that if that makes sense. It definitely integrated the brass as well in the suno song. Got the saxophone too, but like I said, it definitely felt a little confused on identity, especially near like that transition point. Laria 3. This song half as long as sun v5.5 2 minutes and 38 seconds. Long song, short song. &gt;&gt; The vinyl seat was [singing] warm and wide. A plastic [music] ghost [singing] left there to reside. I like that though. That&#39;s good. &gt;&gt; Fuzzy dice and the smell of the soul in a heavy load. The sliding [singing] glass door gave a final hiss. Sealed my fate with [singing] a cold metallic kiss. Faded tail lights on the interstate. A highway rest stop. A victim of fate down the porcelain [music] [singing] into the black. &gt;&gt; [music] &gt;&gt; No turning around. No looking [singing] back. In the silt in the sludge, I found [music] a new frame. A forgotten pet with a brand new [singing] name [music] from the rusted iron in the mossy floor. I don&#39;t swim for mercy anymore. Obsidian scales, a sulfurous bread in the sewer of gold. I&#39;m mocking your [music] death. King of the chrome, the master of rust. Turning your highway [music] to pillars of dust. I&#39;m the king of the grand. Yeah. [music] The sludge in the f. I&#39;m the monster you made. The money you spend. Gilded and filled. I&#39;m the Lord [music] of the Lord. Watch how the water starts to overflow. [music] Saw the child in the window, eyes on the screen. I was invisible. [music] Part of the scene. Part of the scene. Now the asphalt is [singing and music] cracking. The pipes going to burst. I&#39;m coming for the crown and [music] I&#39;m coming [singing] for first. No more flakes in the back. No more tap on the glass. Just a city in ruins and the shadows [music] that pass. Guilt and done. One bite and I&#39;m the sun, king of the sewers. Okay, pretty impressive. I don&#39;t think that song flowed as good or like as just realistically naturally as the Suno song orSonado as we&#39;ll probably hear. That&#39;s the consistent thing I keep thinking with Lia 3 is like it&#39;s oh it it&#39;s clean, it&#39;s clinical, but it kind of doesn&#39;t have this natural expressive flow to it. However, the identity of the song and like the beat change, especially in the beginning, the ballad sounded good. This thing might be good with country. Um, but it had like a clear transition point. The Sununo one was defined in lyrics, but it happened earlier than it actually was supposed to. This one, it was a very very clear and it carried almost nothing from the beginning style over just sort of the voice. So that that impressed me. But yeah, the way the song flows, the patterns, something&#39;s off. All right, let&#39;s try King of the Mud. &gt;&gt; [music] &gt;&gt; Plastic bag leaking on the gravel. Staring [music and singing] at the tail lights. Gone. Bedan vanish in the gray heat. Four years old forgotten. Cold water sinking in the drainage. Ditch through the dirt down below. [music and singing] Booty in the dark. Swimming through the world. Ted C against the tide. Everything is dust. He remembers the boy. He remember the glass. Waiting for the day that the king comes to pass. Sludge green [music] skin like a dragon hide. on the city grown heavy hearts. [music] The pipe shake. &gt;&gt; It&#39;s got a very unique beat to it. I kind of like the way it flows and the sound of it, but it didn&#39;t start as the ballad. It just went right in with the trap. One part of it completely overtook it. Although, you can see the tags it made for itself. Maybe the auto procedure here based on our prompt. Simple just isn&#39;t going to cut it if we want a good result from. All right, I&#39;ve customized some of the advanced settings here in Sunnado to hopefully get a better result. Let&#39;s try a chip tune 16bit video game theme and this will be an instrumental. So, this is supposed to feel dangerous but catchy and maybe like a sewer or water theme. It&#39;s music for fish in the sewers. Send the same thing to Liia and All right, these tracks are a little bit shorter. This one&#39;s 2 minutes. [music] Heat. Heat. [music] &gt;&gt; [music] [music] [music] &gt;&gt; Maybe a little basic, but overall pretty great. Kind of feels like maybe a mobile game background theme, but like a decent mobile game, you know? I can see the fish in the sewers. You know, you&#39;re you&#39;re collecting coins in the sewers trying to escape. Oh, I like this cover. This album cover is actually really cool. Below the iron great and it&#39;s like digital mixed with this like most like pop stamped iron great. It&#39;s got an old school feel. [music] &gt;&gt; [music] [music] &gt;&gt; Heat. [music] Heat. It&#39;s pretty good. It keeps your mind working a little bit more, I guess, but it just doesn&#39;t have again that flow, that continuous catchy feel that I&#39;m looking for. That honestly simpler and less retro feeling sewer scale sprint song from Suno. All right, let&#39;s see Sludge Fin Strut. &gt;&gt; [music] [music] &gt;&gt; Heat. Heat. It&#39;s a little bit more Stranger Things. Maybe not style here with the chip tune where video game themes. Heat. Heat. Heat. Heat. &gt;&gt; [music] &gt;&gt; This is more like it. This is very good. [music] That [music] gets it done, man. That absolutely gets it done. That&#39;s the thing I love about is that sometimes it&#39;ll like disappoint you like four times and then just come out with a banger. You know, something that is better than I think what pseudo produced in this scenario. I think wins with that neon sump. That that is a great track, man. That&#39;s worth saving. That&#39;s worth posting. Like that is a good theme. Okay, so this is the reprompted country ballad. And look, wow, way closer to 5 minutes with the suno lyrics. Let&#39;s see if it&#39;s able to pull off the transitional change. [music] [music] We were driving west on a Sunday. Backseat [music] boxed up. Little word [singing] of mine. Plastic castle gravel bed. [music] Kids handwriting. Please take care of him in [singing] purple lines. Got signs. [music] The good at the exit styrofoam cup on the windowill. [music] They forgot me in the glare [singing] of the parking lot in the car rolled over the hill. I was just a [music] goldfish in a paper cup of glass. &gt;&gt; As you can see, clearly wasn&#39;t able to handle that transition. It&#39;s unfortunate because the other two were. All right, guys. Let&#39;s move on and try to test out this new voice mode where basically what I did is I recorded a minute of myself singing on the Sunno website through the microphone and apparently it&#39;s picked up what I sound like. This is the most popular song I&#39;ve uploaded on AI. I&#39;ve got this one in V5. So, let&#39;s make a V5.5 variant and compare. You can literally remaster it if you want. I&#39;m actually going to go for high variation strength. Hopefully, this will bring out a little bit more of that V5.5 goodness. Just so you&#39;re familiar though, let&#39;s listen to the original V5. &gt;&gt; [music] [music] [music] [music] &gt;&gt; I was binge watching shows in my basement flat. Clicked a weird link. Didn&#39;t think much of that. Now I&#39;m sworn in by a mask in a velvet hood. They said welcome [music] high chancellor. Bro, it&#39;s not that good. My Amazon cart still full of socks, [music] but I&#39;m signing treaties in Bohemian Grove. Tried to order pizza hack. No [music] rat instead. Now the pope sends me memes when he goes to bed. [music] Oops. I RULE THE WORLD. WHAT THE HELL&#39;S GOING ON? Got [music] Bill asking me to DJ their song. Flip the bed with a sticky note I wrote at dawn. Oops. [music] I rule the world. Where&#39;s my coupon? [music] I quoted Shrek [music] at the UN stage. Now market syrup like a crypto rage. &gt;&gt; It&#39;s very silly stuff, but it&#39;s easy to understand why this is the most popular one I&#39;ve released. It&#39;s just got like a banging catchiness to it. It&#39;s that stadium anthem. It&#39;s something does very good in particular. Regardless, this is very close to flawless at this point with V5. So, can a V5.5 really up the game from this? This is an example where the high-pitched sounds are very clear. This comes through at a high quality level. All right, while these are generating, let&#39;s go ahead and try the voice cloning feature. Basically, guys, with this, they had me sing into the website essentially any song that I know. My voice is terrible. It sounds like rocks coming through. Okay, but I did that for like a minute. Apparently, it recorded my voice, captured it. So, we&#39;ll see if it can reproduce it and have me sing something beautifully. It did actually give me an option to select if I was a terrible singer or like a professional one. So, I picked terrible. Hopefully that helps. All right, I&#39;ve got some lyrics. I&#39;ve got some styles. I&#39;ve adjusted the dials ever so slightly. Bumped up weirdness, reduced style influence, and slightly bumped audio influence. And it looks like our V5.5 remasters are through. Let&#39;s take a listen. &gt;&gt; [music] [music] [music] &gt;&gt; I was binge watching shows in my basement flat. Clicked a weird link. Didn&#39;t [music] think much of that. Now I&#39;m Whoa. [music] &gt;&gt; [music] [music] [music] &gt;&gt; I was binge watching shows in my basement flat. &gt;&gt; You know what, guys? I think that there it is not meaningfully any better. I think it&#39;s actually a little bit worse. I think the the high-pitch sounds do actually sound a little bit worse compared to this version. It&#39;s very slight. The bass and everything else sounds about the same. I don&#39;t think it was remastered. I think it might have been a little bit downmastered. Honestly, the jump between V5 and V5.5 feel like that&#39;s going to be difficult to place. Yeah, it&#39;s got a little bit of high pitchness that isn&#39;t there in the non-re. [music] I was binge watching shows in my basement flat. &gt;&gt; Yeah, this one also it sounds like it doesn&#39;t have as good dynamic range in the song with these new 5.5 remasters. Let&#39;s try the one that&#39;s supposed to be my voice. Lemonland. [music] [music] My world is made of citrus now. [music] There&#39;s lemon candy in my mouth. It&#39;s bright and sunny in the south. [music] My house is lemon yellow now. Welcome to lemon land. [music] Lemon land. Lemon land. Lemon land. [music] Welcome to lemon. Lemon land. Lemon land. Lemon land. Well, welcome to [music] lemon land. Lemon land. Lemon land. Lemon land. Welcome to [music] lemon land. Lemon land. Lemon land. Lemon land. Welcome to lemon. [music] &gt;&gt; Funny stuff. Does it sound exactly like me? I don&#39;t know. I feel like it&#39;s a little too deep. It was doing this on the other ones I I was testing as well. They&#39;ve already created the song. I&#39;m remixing it using my own voice. So, we&#39;re going to try to put my voice in there. Here&#39;s the original Little Bird. Yeah. &gt;&gt; Higher. Way higher. &gt;&gt; They call me little bird, but the shadow looking massive. 30,000 ft. Yeah. My altitude aggressive. I&#39;m dropping biologicals. You looking panic stricken. You a nugget on the ground. I&#39;m the prehistoric [music] chicken, [singing] but I carry heavy. &gt;&gt; Let&#39;s go ahead and run that on through. And you know what? We&#39;re going to do another one as well in an old country ballad. Yeah, &gt;&gt; that doesn&#39;t sound like me. Higher. Way higher. [music] They call me little bird, but the shadow looking massive. 30,000 ft. Yeah, my altitude aggressive. I&#39;m dropping biologicals. [music and singing] You looking panicstricken. You a nugget on the ground. I&#39;m the prehistoric chicken. Little bird got the hollow bones but I carry heavy weight. &gt;&gt; Yeah, I can kind of hear it but still retains like this deeper aspect. Doesn&#39;t exactly sound like me. You can do a little bit more recording time. Spend a little bit more time allowing it to capture your voice. So I could go for another pass. I bet you could get this pretty good. Yeah. &gt;&gt; Look up higher. Way higher. They call me little bird, but the shadow looking massive. 30,000 ft. Yeah, my altitude aggressive. I&#39;m dropping [singing and music] biological. You looking panic stricking you. &gt;&gt; It has like maybe 15% of my voice in there. Very strange. All right. Now, the old country ballad. [music] [music] Rust on the mailbox. &gt;&gt; [music] &gt;&gt; Paint peeled off my name. Every year the field goes, every cloud forgets the rain. It just doesn&#39;t really sound perfectly like me. It&#39;s It&#39;s strange. It&#39;s trying to give me an accent I don&#39;t have, but at the same time, it&#39;s not coming through. [music] rust on the mailbox. Similar painted off my name. I don&#39;t sound good at all as a country artist. I mean, and again, it&#39;s not really perfectly me now, is it? Definitely a fun thing to experiment and mess around with. All right, so at the end of the day, where do we land with all of this? Sov 5.5. I think this little bun needs some more time in the oven. Look, it sounds good, but I can&#39;t meaningfully hear a beneficial difference over the previous V5. I thought the previous V5 was very good. It was clearer than V4.5 and V4. It had a wide diversity of styles, knew how to get weird when it needed to and integrate things. But honestly, 5.5, the remaster sounds worse. But just generating songs like song for song, it&#39;s still a very strong model. I just I just really can&#39;t tell the difference between it and regular V5. But this is limited experience. This is limited testing. I would love to hear what you guys have to say about that in the comments below. You typical average Suno users, what areas is it actually better in? And if you&#39;ve tried the voice cloning, how is it for you? Because for me, it seems to give me this like deep like young gravy almost aspect for like a rap song. And then the country ballad was a wrong turn. I don&#39;t even know what that was. How do these AI pieces fit in with LIA 3 and Sonado V3 Preview? LIIA 3 has a major issue. I don&#39;t know what it is. I don&#39;t know if it&#39;s the synth ID inside of the music. Like Google has this thing that lets you tell if it&#39;s AI generated music. It&#39;s a invisible synthetic ID of some form. But it might be messing with the rhythm and the natural feel of the song as it comes through. I don&#39;t know though. It might be better for like background instrumentals or country. It is it&#39;s very clear and it sounds like people would call it good, but when you listen to it back toback compared to Suno orSonado, it doesn&#39;t have rhythm. It doesn&#39;t have flow in a weird way. Speaking of, this one is a little bit more limited, but I think it&#39;s a little bit more for the advanced users that want to push the cutting edge or the boundaries of AI music in terms of the latent space. So has a lot of features like that newly mentioned studio that literally can split up your song into all the different pieces and sounds and you can manually remove them or edit them. lets you do artists that are in the training data but are blocked under Yria 3 or like I could just type Eminem into Michael Jackson any artist you can really think of and it will often times actually have their style very well preserved and what they sound like as a musician controversial but if you are into experimenting with AI you&#39;re not trying to make a profit off of it you just want to like dive in there and see what these models can really get to it&#39;s the most unfiltered raw music model that we can access to that&#39;s also potent, powerful, and sometimes it just produces like a banger and I&#39;m like, &quot;Wow, I actually want to save that song. It makes me want to use it for something.&quot; Sometimes you feel that with Suno 2, but I don&#39;t know. Sonado&#39;s got a taste and a flare to it that is very, very inviting. Although, I think their interface is a little bit more of a pain to use. It&#39;s not bad though. None of these interfaces are terrible. If I had to pick one of these to use as my daily AI music machine, it&#39;s going to be Sunno AI. But I think even on free Gemini plans, you can use LIA 3 and test it out at least for quick 30-second demos. That might be enough for like video games. If you want to experiment with different properties and use the most uncensored AI music generator, Sonado V3 is definitely the best bet. Yeah. And as for 5.5 itself, I don&#39;t think it&#39;s ready for prime time yet. I can, I guess, hear the potential. Maybe I&#39;m missing the benefits of it over V5 somehow. But you can still access V5 on regular Sunno. I don&#39;t even know. Probably with this new 5.5, you don&#39;t have to upgrade to the pro plan now. So, give V5 a whirl. Thanks so much for watching, folks. I&#39;ll see you in the next video and goodbye.",
-        "analysis_date": "2026-03-30T15:28:07+00:00",
+        "transcript_text": "Slap on some headphones, folks, because we&#39;re diving into AI music today. Some of you may have heard, but Suno AI launched V5.5. This is an update over their previous V5 model, and similarly, they&#39;ve just updated their studio as well. This allows you to take the songs you generate and break them down into much more controllable pieces. And apparently, this will allow you to sing and rap any song. I think that&#39;s a really cool idea. Put a little bit of your own voice into it, literally. Keep in mind, this does require you to actually sing, and I have like no singing ability, so I did my best. I&#39;ve spared you from having to listen to the details, though, because I have not a single musical bone in my body. Some people are born with singing bones in their body, and I&#39;m not one of them. So, today&#39;s video is going to focus heavily on Suno AI, but if you watched yesterday&#39;s video, you know that Google also released Lyria or Lyria 3 Pro. This version of the generator can do up to 3-minute long songs. It&#39;s very clear, almost clinical-feeling, like stereotypical in a polished way, almost. It might have a very wide breadth, though, and be good for stuff like chiptune music. I don&#39;t know. I want I want to compare across a couple of different styles today. Under model selection, you can see that Suno has a feature that allows you to create custom models based off of your uploaded sounds. So, if you were an artist, let&#39;s say, and you wanted to upload a bunch of your music in here, you could create a custom fine-tune that adheres to your style, which could be a pretty cool idea, especially if you&#39;re already a big user of Suno. For now, let&#39;s stick with regular V5.5. An inspiring, hyped-up song about making the world&#39;s best omelet with a dragon egg. Let&#39;s request some specific styles. Actually, horror rock sounds pretty good for this. Anthem rock, electric guitar, tuba, stadium drums. In traditional Suno fashion, our V5.5 songs should generate quite quickly. And we&#39;re going to send the same exact prompt over to Google&#39;s Lyria 3, or Lyria, I&#39;m not sure how it&#39;s pronounced. Both tracks are now ready. Let&#39;s kick this thing off with V5.5. Dragon egg omelet. &gt;&gt; [sighs] &gt;&gt; Crack it open. Slow and steady. &gt;&gt; [music] &gt;&gt; YOU HUNGRY? YEAH, &gt;&gt; [screaming] &gt;&gt; I&#39;M READY. &gt;&gt; [music] &gt;&gt; YEAH, I&#39;M READY. PAN ON FIRE. [music] KITCHEN LIGHTS GO RED. Scales on the shell. Heart full of dread. &gt;&gt; [music] &gt;&gt; Claws on the counter. Fangs in the grin. I&#39;m [music] tying my apron. I&#39;m all THE WAY IN. I&#39;M MAKING A dragon [music] egg omelet. TURN THE FEAR IN THE FEELING THE FLAME. IF [music] YOU&#39;RE SCARED OF THE HEAT, THEN WATCH IT. I SEASON MY SOUL WITH THE PAIN. RAISE YOUR [music] FORKS LIKE TORCHES. LET THE ROAR shake the walls of this place. &gt;&gt; [music] &gt;&gt; DRAGON EGG OMELET. I&#39;M THE king with a spatula of blade. &gt;&gt; [music] [music] &gt;&gt; Smoke in my [music] lungs. Ash on my sleeves. It hisses and bubbles. The counter [music] boards heat. I flip THAT EGG OVER HIGH IN THE AIR. BREAKFAST [music] OF LEGENDS. Dare you to dare. I&#39;m making [music] a dragon egg omelet. TURN THE FEAR IN THE FEELING THE FLAME. IF YOU&#39;RE SCARED [music] of the heat, then watch it. I SEASON MY SOUL WITH THE PAIN. RAISE YOUR FORKS LIKE TORCHES. [music] All right, I&#39;m going to cut it there at the 2-minute mark. Guys, if that isn&#39;t a good song, I love that. I I&#39;m a huge fan of Suno music, okay? Ever since like the V4 era, they started to get very good. I will say this does have some of that high-pitched shimmering, where it sort of feels like it loses almost resolution or sharp, clear clarity in those higher notes. You can probably hear it when I talk into this microphone right now. It&#39;s got a more clear, just believable tone and sound to it. Not all Suno songs are going to have that issue, but this is something I&#39;ve seen people complain about with Suno for a long time. I hear it myself. I see people talk about it on my Discord server, which you should join, by the way. So, that&#39;s definitely still a very real caveat for these models. But, like I said, it&#39;s not in every song. There&#39;s adjustable parameters. You can learn how to kind of control and pull it into the direction you listen to it, it feels almost flawless. Lyria 3, Lyria 3, I don&#39;t have a lot of experience with this model. I know that, just based off of a few clips that I&#39;ve heard, I don&#39;t love it, but it is a very clear and polished, clinical sound. And we&#39;ll see how that translated for Obsidian Shell. This track at exactly almost 3 minutes long. That looks like that&#39;s like the hard cut for this one. &gt;&gt; [music] &gt;&gt; Obsidian [music] shell, a sulfurous breath. Grilled it in embers, [music and singing] mocking our death. The skillet [music] is waiting. The fire is high. The skillet is waiting. The fire is high. Cradling thunder from a cinder-red sky. Break the unbound soul. &gt;&gt; [music] &gt;&gt; Fire in the bowl. Transcendants [music] on a plate. Master of the flame, we challenge fate. Master of [music] the flame, we challenge fate. Whisking [music] the essence of the ancient beast. Preparing the table &gt;&gt; [music] &gt;&gt; for the forbidden feast. All right, I&#39;m going to pause that one there. If I&#39;m going to give you my honest, direct comparison, the Suno one wins by miles for me. Yes, this audio had a level of clarity that is very impressive, especially with the vocals and those high-pitched tones. It It seems like it&#39;s a fundamentally different model, almost, in terms of architecture, and that very well could be the case. But it&#39;s playing it safer, almost. I don&#39;t know if that&#39;s intentional by Google, or if that&#39;s just the result of what we have. It&#39;s like, yeah, that&#39;s like a rock song, guitar. It sounds what we would consider good, but it doesn&#39;t have like soul. It doesn&#39;t take any risks or experimental. It doesn&#39;t fill my ears and my mind up with something I can I can think about and chew on, if that makes sense. Sounds like every rock song I&#39;ve heard before, in a way, and it&#39;s missing things from the prompt that Suno actually was able to include creatively, like the tuba being like a main part of that underlying beat or melody. I don&#39;t know what you would specifically call it. It feels over-smoothed, over-polished, almost. Before we generate some more songs and play around with some of the features, I&#39;ve got a quick word from today&#39;s sponsor. Quick shout-out to our friends at Recraft, who are sponsoring today&#39;s video. A lot of image models right now are capability monsters that take prompts at face value, and they can do an absolute ton. But the Recraft V4 family of models is interesting, because it feels a lot more focused on visual taste and overall design polish and fidelity. In the Recraft studio, you can compare all of your favorite top image gen models. But Recraft&#39;s in-house V4 models are where it gets niche in a good way. Think clean, art-directed imagery, including brand ideation, posters, illustrations, and typography that actually interacts with the environment. It&#39;s not generate image and move on. It&#39;s trained specifically for people who care about composition and aesthetics. And if you need vector work, they have a separate vector V4 model. Native vector generation for logos, icons, scalable illustrations. We&#39;re talking actual SVG output with infinitely clean geometry, not traced images. If you&#39;ve ever done graphic design professionally, you know how big of a deal that is. So, if you want to try something a little bit more forward on design, while still having access to all your other favorite models, check out Recraft studio with my link and code down below. Huge thanks to our friends at Recraft for sponsoring today&#39;s video. Now, back to your regularly scheduled content. Welcome back, folks. I&#39;m going to listen to the other variant by Suno to see if it was also able to integrate that tuba, stadium drum feel. The first one was very good. Crack it open. Slow and steady. You hungry? Yeah, [screaming] I&#39;m ready. Yeah, I&#39;m ready. &gt;&gt; [music] &gt;&gt; Oh, man. &gt;&gt; [music] &gt;&gt; Pan on fire. Kitchen lights go red. Scales on the shell. Heart full of dread. &gt;&gt; [music] [music] [music] [music] [music] &gt;&gt; I mean, it nailed it, dude. Again, it&#39;s it&#39;s very similar to the to the first one in that sense, but they&#39;re both integrating the instruments in a creative way that matters to the [clears throat] song and fills your ears with presence. You know, if I took this over to advanced, you could see there&#39;s some more options to change style influence and weirdness and just touching with these settings a little, edging them in different directions, can give you a serious benefit, whether it be quality of higher-pitched voices when the action gets crazy or creating more and more unique tracks. We&#39;re going to try something a little bit different here, a slow build-up that pays off. Starts off as a sad country ballad, but then it&#39;s going to ramp up into like a trap song, like something modern. So, I&#39;m just trying to see how it handles that transition or if it can even do it. All right, Suno, I believe in you. Google Lyria 3 on Gemini Pro and the same prompt. And you know what, let&#39;s throw the very impressive Suno V3 into the mix as well with the same prompt. This one is known for being a little bit more controversial because it can actually replicate living artists&#39; styles and sounds like very precisely, but it is against the TOS to use it to make profit or even upload those songs onto their explore and home pages. But, it can copy exact styles like Eminem or Michael Jackson like super well. Suno AI is up first. &gt;&gt; [music] [music] [music] &gt;&gt; Backseat boxed up little world of mine. &gt;&gt; [music and singing] &gt;&gt; Please take care of him in purple lines. Yes, I flickered at the eggs. &gt;&gt; [music] &gt;&gt; Styrofoam cup on the window sill. They forgot me in the glare of the parking lot. &gt;&gt; [music] &gt;&gt; And the car rolled [singing] over the hill. &gt;&gt; [music] &gt;&gt; Heart of glass, tail lit up. &gt;&gt; [music] &gt;&gt; In the rearview dust dripping in the rearview [music and singing] dust now. Every drain [music] of door I ain&#39;t walked through. If you hear a drip in the midnight hush, that&#39;s a little lost [music] fish thinking about you. Not exactly the old-school country ballad song that I wanted it to be starting off, but it&#39;s got a slow melancholic feel. Suno actually generated 5 minutes for this, so it must pick up. Let&#39;s skip to 2 minutes in. My face in the manhole light and every [music] little leak was a love by chrome and every red eye. Looked just like the moon. I was just a goldfish [music] in a paper cup. Heart of glass, tail lit up. Little boy&#39;s [music] tears in the rearview dust dripping in the rearview [music] dust now. Dream of rivers I ain&#39;t seen yet. Every pebble road I&#39;m pushing through. [music] If you hear a drip in the midnight hush, that&#39;s a little [singing] lost fish thinking about you. &gt;&gt; [music] &gt;&gt; There&#39;s a switch in there. Living in America [music] with a scar on the side they kicked out. He swam he died. Told me how to bite through the rust and the grime, how to read the rules like a crooked sign. Ran with the minnows, rode [music] with the eels, trained in the current till I sharpened my gills. Took a crown from a catfish twice my size. Now my skills go dark in this fragment night. Goldfish in a paper cup. Heart of glass, tail lit up. [music] You can see it literally prompted in a beat switch. Was it able to carry that through? &gt;&gt; [music] &gt;&gt; Yeah. Yeah. Yeah. That&#39;s me once. That&#39;s a legend in the [music] making. Hey. Tiny little bowl now a whole foundation shaking. Filthy little stream turned [music] the throne on base and drip crown gleaming. Old city mine for the taking. I got roaches doing recon in your kitchen light. &gt;&gt; [music] &gt;&gt; I got pigeons dropping doses from the power line. I got raccoons running numbers [music] at the edge of night. Every alleyway echo screaming he survives. Slammed by the big [music] or I&#39;m a neon carp. Swam sharp through the dark like a shattered star. The mood has completely changed and uplifted in this ending sequence, but I think it&#39;s a little bit too drawn out and it doesn&#39;t change enough. It definitely picks up in a good way. I&#39;m pretty impressed with this, but I think it&#39;s a little bit lost as to when exactly that should happen and like changing that mood definitively and being confident about it almost, if that if that makes sense. It definitely integrated the brass as well in the Suno song. Got the saxophone, too. But, like I said, it definitely felt a little confused on identity, especially near like that transition point. Lyria 3, this song half as long as Suno V5.5, 2 minutes and 38 seconds. Long song, short song. The vinyl seat was [singing] warm and wide. A plastic [music] ghost [singing] left there to reside. I like that, though. That&#39;s good. Fuzzy dice in the smell of the soul in a heavy load. The sliding [singing] glass door gave a final hiss. Sealed my fate with [singing] a cold metallic kiss. Faded tail lights on the interstate. A highway rest stop, a victim of fate. Down the porcelain [music] [singing] into the black. No [music] turning around, no looking [singing] back. In the silt and the sludge, I found [music] a new frame, a forgotten pet with a brand new name. [singing] &gt;&gt; [music] &gt;&gt; From the rusted iron and the mossy floor, I don&#39;t swim for Perseus anymore. A city in scales, a sulfurous breath in the sewer of gold. I&#39;m knocking your door. &gt;&gt; [music] &gt;&gt; King of the chrome, the master of rust. Turning your highway [music] to pillars of dust. I&#39;m the king of the grime. Yeah, the [music] sludge in the drain. I&#39;m the moss in the drain. The money I spend. Gilded in filth, I&#39;m the lord [music] of the low. Watch how the water starts to overflow. Saw [music] the child in the window, eyes on the screen. I was invisible. Part [music] of the scene. Part of the scene. Now the asphalt is cracking. [singing and music] The pipe&#39;s going to burst. I&#39;m coming for the crown. And I&#39;m [music] coming for [singing] first. No more flakes in the back, no more tap on the glass, just a city in ruins and the shadows of the [music] past. Gilded in dust. One bite and I&#39;m the sun. King of the sewers. Okay, pretty impressive. I don&#39;t think that song flowed as good or like as just realistically, naturally as the Suno song or Suno as we&#39;ll probably hear. It That&#39;s the consistent thing I keep thinking with Lyria 3 is like it&#39;s oh, it&#39;s clean, it&#39;s clinical, but it kind of doesn&#39;t have this natural expressive flow to it. However, the identity of the song and like the beat change, especially in the beginning, the ballad sounded good. This thing might be good with country. Um, but it had like a clear transition point. The Suno one was defined in lyrics, but it happened earlier than it actually was supposed to. This one, it was a very very clear and it carried almost nothing from the beginning style over. Just sort of the voice. So, that that impressed me. But, yeah, the way the song flows, the patterns, something&#39;s off. All right, let&#39;s try King of the Mud. &gt;&gt; [music] &gt;&gt; Plastic bag leaking on the bottle I stared [music and singing] at the tail lights gone. Three days in the van, abandoned in the gray heat, 4 years old, forgotten. Cold water leaking in the drain as day just &gt;&gt; [music and singing] [music] [music] &gt;&gt; It&#39;s got a very unique beat to it. I kind of like the way it flows and the sound of it, but it didn&#39;t start as the ballad. It just went right in with the trap. One part of it completely overtook it. Although, you can see the tags it made for itself. Maybe the auto procedure here, based on our prompt, simple just isn&#39;t going to cut it if we want a good result from Suno. All right, I&#39;ve customized some of the advanced settings here in Suno to hopefully get a better result. Let&#39;s try a chiptune 16-bit video game theme, and this will be an instrumental. So, this is supposed to feel dangerous, but catchy, and maybe like a sewer or water theme. It&#39;s music for fish in the sewers. Send the same thing to Lyria and Suno. All right, these tracks are a little bit shorter. This one&#39;s 2 minutes. &gt;&gt; [music] [music] [music] [music] [music] &gt;&gt; Maybe a little basic, but overall pretty great. Kind of feels like maybe a mobile game background theme, but like a decent mobile game, you know? I can see the fish in the sewers, you know, you&#39;re you&#39;re collecting coins in the sewers, trying to escape. Ooh, I like this cover. This album cover is actually really cool. Below the iron grate, and it&#39;s like digital mixed with this like most like pop stamped iron grate. It&#39;s got an old-school feel. [music] &gt;&gt; [music] [music] [music] &gt;&gt; It&#39;s pretty good. It keeps your mind working a little bit more, I guess, but it just doesn&#39;t have, again, that flow, that continuous catchy feel that I&#39;m looking for, that honestly simpler and less retro-feeling sewer scale sprint song from Suno. All right, let&#39;s see Suno Sludge Fin Strut. &gt;&gt; [music] [music] &gt;&gt; It&#39;s a little bit more Stranger Things, maybe not Suno style here with the chiptune or video game themes. &gt;&gt; [music] &gt;&gt; This is more like it. This is very good. &gt;&gt; [music] &gt;&gt; That gets [music] it done, man. That absolutely gets it done. That&#39;s the thing I love about Suno is that sometimes it&#39;ll like disappoint you like four times and then just come out with a banger, you know, something that is better than I think what Suno produced in this scenario. I think Suno wins with that neon sump. That That is a great track, man. That&#39;s worth saving. That&#39;s worth posting. Like that is a good theme. Okay, so this is the re-prompted country ballad, and look, wow, way closer to 5 minutes with the Suno lyrics. Let&#39;s see if it&#39;s able to pull off the transitional change. &gt;&gt; [music] [music] &gt;&gt; We would drive them west on a Sunday. Backseat [music] boxed up little water might. [singing] Plastic castle gravel bed kids [music] handwriting. Please take care of him in purple [singing] lines. Gas sign [music] thicker at the exit. Styrofoam cup on the windowsill. [music] They forgot me in the glare [singing] of the parking lot, and the car rolled over the hill. I was just a goldfish [music] in a paper cup heart of glass. As you can see, clearly wasn&#39;t able to handle that transition. It&#39;s unfortunate because the other two were. All right, guys, let&#39;s move on and try to test out this new voice mode, where uh basically what I did is I recorded a minute of myself singing on the Suno website through the microphone, and apparently it&#39;s picked up what I sound like. This is the most popular song I&#39;ve uploaded on Suno AI. I&#39;ve got this one in V5, so let&#39;s make a V5.5 variant and compare. You can literally remaster it if you want. I&#39;m actually going to go for high variation strength. Hopefully, this will bring out a little bit more of that V5.5 goodness. Just so you&#39;re familiar, though, let&#39;s listen to THE ORIGINAL V5. &gt;&gt; [music] [music] [music] [music] [music] [music] [music] [music] [music] [music] [music] [music] &gt;&gt; IT&#39;S VERY SILLY STUFF, BUT IT&#39;S EASY TO understand why this is the most popular one I&#39;ve released. It&#39;s just got like a banging catchiness to it. It&#39;s that stadium anthem. It&#39;s something Suno does very good in particular. Regardless, this is very close to flawless at this point with V5. So, can a V5.5 really up the game from this? This is an example where the high-pitched sounds are very clear. This comes through at a high-quality level. All right, while these are generating, let&#39;s go ahead and try the voice cloning feature. Basically, guys, with this, they had me sing into the website, essentially, any song that I know. My voice is terrible. It sounds like rocks coming through, okay? But I did that for like a minute. Apparently, it recorded my voice, captured it. So, we&#39;ll see if it can reproduce it and have me sing something beautifully. It did actually give me an option to select if I was a terrible singer or like a professional one. So, I picked terrible. Hopefully, that helps. All right, I&#39;ve got some lyrics. I&#39;ve got some styles. I&#39;ve adjusted the dials ever so slightly, bumped up weirdness, reduced style influence, and slightly bumped audio influence. And it looks like our V5.5 remasters are through. Let&#39;s take a listen. &gt;&gt; [music] [music] [music] &gt;&gt; I was binge-watching shows in my basement flat, clicked a weird link, didn&#39;t [music] think much of that. NOW, I&#39;M &gt;&gt; [music] [music] [music] [music] &gt;&gt; I WAS BINGE-WATCHING SHOWS IN MY basement flat. You know what, guys? I think that there it is not meaningfully any better. I think it&#39;s actually a little bit worse. I think the the high-pitched sounds do actually sound a little bit worse compared to this version. It&#39;s very slight. The bass and everything else sounds about the same. I don&#39;t think it was remastered. I think it might have been a little bit down mastered, honestly. The jump between V5 and V5.5, feel like that&#39;s going to be difficult to place. Yeah, it&#39;s got a little bit of high pitchiness that isn&#39;t there in the non-remaster. &gt;&gt; [music] &gt;&gt; I was binge-watching shows in my basement flat. Yeah, this one also It sounds like it doesn&#39;t have as good dynamic range in the song with these new 5.5 remasters. Let&#39;s try the one that&#39;s supposed to be my voice, Lemon Land. &gt;&gt; [music] [music] &gt;&gt; My world is made of citrus now. &gt;&gt; [music] &gt;&gt; There&#39;s lemon candy in my mouth. It&#39;s bright and sunny in the south. [music] My house is lemon yellow now. Welcome to Lemon Land. &gt;&gt; [music] &gt;&gt; Lemon Land, Lemon Land, Lemon Land. Wel- &gt;&gt; [music] &gt;&gt; Welcome to Lemon Land. Lemon Land, Lemon Land, Lemon Land. Wel- Welcome to [music] Lemon Land. Lemon Land, Lemon Land. Some of these are Welcome to [music] Lemon Land. Lemon Land, Lemon Land. Lemon Land. Wel- Wel- Wel- Welcome to Lemon Land. Lemon Land, [music] Lemon Land. Funny stuff. Does it sound exactly like me? I don&#39;t know. I feel like it&#39;s a little too deep. It was doing this on the other ones I I was testing as well. I&#39;ve already created the song. I&#39;m remixing it using my own voice. So, we&#39;re going to try to put my voice in there. Here&#39;s the original Little Bird. Yeah. Uh Higher. Way higher. Oh. Way higher. Oh. They call me Little Bird, but the shadow looking massive. 30,000 ft, yeah, my altitude aggressive. I&#39;m dropping biologicals, you looking panic-stricken. You a nugget on the ground, I&#39;m the prehistoric [music] chicken. Little bird [singing] got the hollow bones, but I carry heavy weight. &gt;&gt; Let&#39;s go ahead and run that on through. And you know what, we&#39;re going to do another one as well, an an old country ballad. Yeah. It doesn&#39;t sound like me. Higher. Way higher. &gt;&gt; [music] &gt;&gt; They call me Little Bird, but the shadow looking massive. 30,000 ft, yeah, my altitude aggressive. I&#39;m dropping biologicals, [music and singing] you looking panic-stricken. You a nugget on the ground, I&#39;m the prehistoric chicken. Little bird got the hollow bones, but I carry heavy weight. Little bird got my green neck. Yeah, I can kind of hear it, but still retains like this deeper aspect. Doesn&#39;t exactly sound like me. You can do a little bit more recording time, spend a little bit more time allowing it to capture your voice. So, I could go for another pass. I bet you could get this pretty good. Yeah. Look up. Higher. Way higher. They call me Little Bird, but the shadow looking massive. 30,000 ft, yeah, my altitude aggressive. I&#39;m dropping [singing and music] biologicals, you looking panic-stricken. You a nugget It has like maybe 15% of my voice in there. Very strange. All right, now the old country ballad. &gt;&gt; [music] [music] &gt;&gt; Rust on the mailbox. &gt;&gt; [music] &gt;&gt; Paint peeled off my name. Every year the field goes fallow. Every cloud forgets the rain. This just doesn&#39;t really sound perfectly like me. It&#39;s It&#39;s strange. It&#39;s trying to give me an accent I don&#39;t have, but at the same time it&#39;s not coming through. &gt;&gt; [music] &gt;&gt; Rust on the mailbox. Similar. Paint peeled off my name. I don&#39;t sound good at all as a country out artist. I mean, and again, it&#39;s not really perfectly me, now is it? Definitely a fun thing to experiment and mess around with. All right, so at the end of the day, where do we land with all of this? Suno V5.5, I think this whole bun needs some more time in the oven. Look, it sounds good, but I can&#39;t meaningfully hear a beneficial difference over the previous V5. I thought the previous V5 was very good. It was clearer than V4.5 and V4. It had a wide diversity of styles, knew how to get weird when it needed to, and integrate things. But honestly, 5.5, the remaster sounds worse, but just generating songs like song for song, it&#39;s still a very strong model. I just I just really can&#39;t tell the difference between it and regular V5. But this is limited experience, this is limited testing. I would love to hear what you guys have to say about that in the comments below, you typical average Suno users. What areas is it actually better in? And if you&#39;ve tried the voice cloning, how is it for you? Because for me, it seems to give me this like deep like Young Gravy almost aspect for like a rap song, and then the country ballad was a wrong turn. I don&#39;t even know what that was. How do the Suno AI pieces fit in with Lyria 3 and Suno Auto V3 preview? Lyria 3 has a major issue. I don&#39;t know what it is. I don&#39;t know if it&#39;s the synth ID inside of the music. Like Google has this thing that lets you tell if it&#39;s AI-generated music. It&#39;s a invisible synthetic ID of some form, but it might be messing with the rhythm and the natural feel of the song as it comes through. I don&#39;t know though. It might be better for like background instrumentals or country. It&#39;s very clear, and it sounds like people would call it good, but when you listen to it back-to-back compared to Suno or Suno Auto, it doesn&#39;t have rhythm, it doesn&#39;t have flow in a weird way. Speaking of Suno Auto, this one is a little bit more limited, but I think it&#39;s a little bit more for the advanced users that want to push the cutting edge or the boundaries of AI music in terms of the latent space. Suno has a lot of features like that newly mentioned studio that literally can split up your song into all the different pieces and sounds, and you can manually remove them or edit them. Suno Auto lets you do artists that are in the training data, but are blocked under Lyria 3 or Suno. Like I could just type Eminem into Suno Auto, Michael Jackson, any artist you can really think of. And it will often times actually have their style very well preserved and what they sound like as a musician. Controversial, but if you are into experimenting with AI, you&#39;re not trying to make a profit off of it, you just want to like dive in there and see what these models can really get to. It&#39;s the most unfiltered, raw music model that we can access to. That&#39;s also potent, powerful, and sometimes it just produces like a banger, and I&#39;m like, &quot;Wow, I actually want to save that song.&quot; It makes me want to use it for something. Sometimes you feel that with Suno too, but I don&#39;t know. Suno Auto&#39;s got a taste and a flare to it that is very, very inviting. Although, I think their interface is a little bit more of a pain to use. It&#39;s not bad though. None of these interfaces are terrible. If I had to pick one of these to use as my daily AI music machine, it&#39;s going to be Suno AI, but I think even on free Gemini plans, you can use Lyria 3 and test it out at least for quick 30-second demos. That might be enough for like video games. If you want to experiment with different properties and use the most unsensored AI music generator, Suno Auto V3 is definitely the best bet. Yeah, and as for 5.5 itself, I don&#39;t think it&#39;s ready for prime time yet. I can I guess hear the potential. Maybe I&#39;m missing the benefits of it over V5 somehow, but you can still access V5 on regular Suno. I don&#39;t even know, probably with this new 5.5 you don&#39;t have to upgrade to the pro plan now, so give V5 a whirl. Thanks so much for watching, folks. I&#39;ll see you in the next video and goodbye.",
+        "analysis_date": "2026-03-30T15:46:53+00:00",
         "channel_name": "MattVidPro",
         "topic_tags": [
-          "Gemini",
-          "수익화",
-          "비교"
+          "coding",
+          "monetization",
+          "comparison",
+          "news"
         ],
         "keywords": [
-          "Sunov5.5",
-          "GoogleLyria3",
-          "AI작곡",
-          "음악AI",
-          "AI노래",
-          "Sunov5.5후기",
-          "Lyria3Pro",
-          "AI음악비교"
+          "coding",
+          "monetization",
+          "comparison",
+          "news",
+          "Gemini",
+          "Arc",
+          "Suno",
+          "v5.5"
         ],
         "tools": [
-          "Gemini"
+          "Gemini",
+          "Arc"
         ],
         "flow": [
-          "Suno v5.5의 새로운 스튜디오 기능 및 음성 맞춤 설정 소개",
-          "Suno v5.5와 Google Lyria 3의 성능 비교 시작: 첫 번째 프롬프트 ('드래곤 에그 오믈렛' 락 앤썸)",
-          "두 AI 툴로 생성된 음악 비교 및 첫 평가 (Suno 우세)",
-          "스폰서 광고 (Recraft)",
-          "두 번째 프롬프트 ('슬픈 컨트리 발라드' → '트랩 송' 전환) 비교 시도"
+          "처음 15초 안에 문제를 선명하게 정의하고 왜 지금 봐야 하는지 못 박는다.",
+          "중간 구간에서 툴, 사례, 비교 포인트를 빠르게 제시해 정보 밀도를 높인다.",
+          "마지막에는 시청자가 바로 따라할 수 있는 다음 액션과 적용 예시로 닫는다."
         ],
         "claims": [
-          "Suno v5.5는 Google Lyria 3보다 더 창의적이고 기억에 남는 음악을 만든다.",
-          "Lyria 3는 매우 명확하고 세련된 사운드를 제공하지만, 다소 안전하고 실험적이지 않다.",
-          "Suno v5.5는 새로운 스튜디오 기능을 통해 음악을 더 세밀하게 제어할 수 있다.",
-          "Suno v5.5는 '고음' 부분에서 약간의 해상도 저하(쉬머링 현상)가 있을 수 있으나, 이는 모든 곡에 해당하지는 않는다.",
-          "AI 음악 생성기는 다양한 장르와 스타일을 시도할 수 있는 가능성을 보여준다."
+          "단순 소개보다 실제 사용 장면을 바로 보여주는 구조가 반응을 만든다.",
+          "큰 담론보다 작은 병목 하나를 해결해주는 포장 방식이 클릭으로 이어지기 쉽다."
         ],
         "transcript_highlights": [
-          "Slap on some headphones, folks, because we&#39;re diving into AI music today. Some of you may have heard, but Sunno AI launched V5.5. This is an update over their previous V5 model, and similarly, they&#39;ve just updated their studio as well. This allows you to take the songs you generate and break them down into much more controllable pieces. And apparently this will allow you to sing and rap any song. I think that&#39;s a really cool idea. Put a little bit of your own voice into it. Literally. Keep in mind this does require you to actually sing and I have like no singing ability. So I did my best. I&#39;ve spared you from having to listen to the details though because I have not a single musical bone in my body. Some people are born with singing bones in their body, and I&#39;m not one of them. So today&#39;s video is going to focus heavily on Sunno AI, but if you watched yesterday&#39;s video, you&#39;d know that Google also released LIIA or Larria 3 Pro. This version of the generator can do up to 3 minute long songs. It&#39;s very clear, almost clinical feeling, like stereotypical in a polished way almost. It might have a very wide breadth though and be good for stuff like chip tune music. I don&#39;t know. I I want to compare across a couple of different styles today. Under model selection, you can see that Sunno has a feature that allows you to create custom models based off of your uploaded sounds. So, if you were an artist, let&#39;s say, and you wanted to upload a bunch of your music in here, you could create a custom fine-tune that adheres to your style, which could be a pretty cool idea, especially if you&#39;re already a big user of Sunno. For now, let&#39;s stick with regular V5.5. An inspiring, hyped up song about making the world&#39;s best omelette with a dragon egg. Let&#39;s request some specific styles. Actually, horror rock sounds pretty good for this. Anthem rock, electric guitar, tuba stadium drums. In traditional sunno fashion, our V5.5 songs should generate quite quickly. And we&#39;re going to send the same exact prompt over to Google&#39;s LIA 3 or LIA. I not sure how it&#39;s pronounced. Both tracks are now ready. Let&#39;s kick this thing off with V5.5 Dragon Egg Omelette. [sighs] Crack it open slow and steady. [music] You hungry? &gt;&gt; Yeah, [screaming] I&#39;m ready. [music] Yeah, I&#39;m ready. Pan on fire. [music] Kitchen lights go red. Skills on the shell, heart full of dread, [music] claws on the counter, fangs in a grin. [music] I&#39;m tying my apron. I&#39;M ALL THE WAY. I&#39;M MAKING A dragon [music] egg omelette. Turn the fear INTO FUELING THE FLAME. IF [music] YOU&#39;RE SCARED OF the heat, then watch it. I season my soul with the pain. &gt;&gt; Raise your [music] forks like torches. Let the roar shake the walls of this place. [music] DRAGON EGG. I&#39;m the king with a spatula blade. [music] [music] Smoke in [music] my lungs, ash on my sleeves. It hisses and bubbles. The [music] counterboards here. I flip that TERROR HIGH in the air. [music] Breakfast of legends. Dare you to dare. I&#39;ll [music] make it a dragon egg. TURN THE FEAR INTO FUELING THE FLAME. IF YOU&#39;RE [music] scared of the heat, then watch it. I SEASON MY SOUL WITH THE PAIN. [music] &gt;&gt; All right, I&#39;m going to cut it there at the two-minute mark, guys. If that isn&#39;t a good song, I love that. I I&#39;m I&#39;m a huge fan of Sununo music. Okay, ever since like the V4 era, they started to get very good. I will say this does have some of that high-pitched shimmering where it sort of feels like it loses almost resolution or sharp, clear clarity in those higher notes. You can probably hear it when I talk into this microphone right now. It&#39;s got a more clear, just believable tone and sound to it. Not all Sunno songs are going to have that issue, but this is something I&#39;ve seen people complain about with Sunno for a long time. I hear it myself. I see people talk about it on my Discord server, which you should join, by the way. So, that&#39;s definitely still a very real caveat for these models, but like I said, it&#39;s not in every song. There&#39;s adjustable parameters. You can learn how to kind of control and pull it into the direction you listen to it. It feels almost flawless. Liria 3. Laria 3. I don&#39;t have a lot of experience with this model. I know that just based off of a few clips that I&#39;ve heard, I don&#39;t love it, but it is a very clear and polished clinical sound. We&#39;ll see how that translated for Obsidian Shell. This track at exactly almost 3 minutes long. That looks like that&#39;s like the hard cut for this one. [music] Obsidian [music] shell, a sulfurous breath. Gilded in embers, [music and singing] mocking our death. The skillet [music] is waiting. The fire is high. The skillet is waiting. The fire is high. Cradling thunder from a cinder sky. Break the unbound soul. [music] Fire in the B. Transcendence [music] on a plate. Master of the flame, we challenge fate. Master of [music] the flame, we challenge fate. Whisking [music] the essence of the ancient beast. preparing the table [music] for the forbidden feast. &gt;&gt; All right, I&#39;m going to pause that one there. If I&#39;m going to give you my honest direct comparison, the Sunno one wins by miles for me. Yes, this audio had a level of clarity that is very impressive, especially with the vocals and those high pitch tones. It It seems like it&#39;s a fundamentally different model almost in terms of architecture. And that very well could be the case, but it&#39;s playing it safer almost. I don&#39;t know if that&#39;s intentional by Google or if that&#39;s just the result of what we have. It&#39;s like, yeah, that&#39;s like a rock song guitar. It It sounds what we would consider good, but it doesn&#39;t have like soul. It doesn&#39;t take any risks or experimental. It doesn&#39;t fill my ears and my mind up with something I can I can think about and chew on, if that makes sense. Sounds like every rock song I&#39;ve heard before in a way. And it&#39;s missing things from the prompt that Sunno actually was able to include creatively, like the tuba being like a main part of that underlying beat or melody. I don&#39;t know what you would specifically call it. It feels over smoothed, overpolished almost. Before we generate some more songs and play around with some of the features, I&#39;ve got a quick word from today&#39;s sponsor. Quick shout out to our friends at Recraft who are sponsoring today&#39;s video. A lot of image models right now are capability monsters that take prompts at face value and they can do an absolute ton, but the Recraft V4 family of models is interesting because it feels a lot more focused on visual taste and overall design polish and fidelity. In the Recraft Studio, you can compare all of your favorite top image gen models, but Recraft&#39;s in-house V4 models are where it gets niche in a good way. Think clean art ddirected imagery including brand ideiation, posters, illustrations and typography that actually interacts with the environment. It&#39;s not generate image and move on. It&#39;s trained specifically for people who care about composition and aesthetics. And if you need vector work, they have a separate vector V4 model, native vector generation for logos, icons, scalable illustrations. We&#39;re talking actual SVG output with infinitely clean geometry, not traced images. If you&#39;ve ever done graphic design professionally, you know how big of a deal that is. So, if you want to try something a little bit more forward on design while still having access to all your other favorite models, check out Recraft Studio with my link in code down below. Huge thanks to our friends at Recraft for sponsoring today&#39;s video. Now, back to your regularly scheduled content. Welcome back, folks. I&#39;m going to listen to the other variant by Suno to see if it was also able to integrate that tuba stadium drum feel. The first one was very good. Crack it open slow and steady. You&#39;re hungry. &gt;&gt; Yeah, [screaming] I&#39;m ready. &gt;&gt; Yeah, I&#39;m ready. &gt;&gt; [music] [music] &gt;&gt; Pan on fire. Kitchen lights go red. Scales on the shell. Heart full of dread. Claws on the counter. Fangs in [music] a grin. I&#39;m tying my apron. I&#39;m all the way in. I&#39;m making a dragon egg. [music] Turn the fear and fuel into the flame. If you&#39;re scared of the heat, [music] then watch it. I season my soul with the pain. [music] Raise your voice like torches. Let the roar shake [music] the walls of this place. Dragon. &gt;&gt; I mean, it nailed it, dude. Again, it&#39;s it&#39;s very similar to the to the first one in that sense, but they&#39;re both integrating the instruments in a creative way that matters to [clears throat] the song and fills your ears with presence. You know, if I took this over to advanced, you can see there&#39;s some more options to change style, influence, and weirdness. And just touching with these settings a little, edging them in different directions, and give you a serious benefit, whether it be quality of higher pitched voices when the action gets crazy or creating more and more unique tracks. We&#39;re going to try something a little bit different here. A slow buildup that pays off. Starts off as a sad country ballad, but then it&#39;s going to ramp up into like a trap song, like something modern. So, I&#39;m just trying to see how it handles that transition or if it can even do it. All right, Sunno, I believe in you. Google 3 on Gemini Pro and the same prompt. And you know what? Let&#39;s throw the very impressive V3 into the mix as well with the same prompt. This one is known for being a little bit more controversial because it can actually replicate living artists styles and sounds like very precisely, but it is against the toos to use it to make profit or even upload those songs onto their explore and homepages. But it it can copy exact styles like Eminem or Michael Jackson like super well. Suno AI is up first. [music] &gt;&gt; [music] &gt;&gt; We were driving west on [music] Sunday. Backseat boxed up little world of mine. Classic castle, gravel bed, kids [music and singing] handwriting. Please take care of him in purple lines. Gas sign flickered at the exit. [music] Styrofone cut on the window seal. They forgot me in the glare of the parking lot. [music] And the car rolled [singing] over the hill. I was just a goldfish [music] in a paper cup of glass tail lit up. Little [music] bars tears in the rear view dust dripping in the [music and singing] rear view dust. Now I dream of rivers I ain&#39;t seen yet. Every drain [music] the door I ain&#39;t walked through. If you hear a drip in the midnight hush, that&#39;s a little [music] lost fish thinking about you. Not exactly the old school country ballad song that I wanted it to be starting off, but it&#39;s got a slow melancholic feel. Suno actually generated 5 minutes for this, so it must pick up. Let&#39;s skip to 2 minutes in. My face in the manhole lightning [music] every little leak was a love by crowned every rat. I looked just like the moon. I was just a [music] goldfish in a paper cup. Heart of glass tail l [music] tears in the rear view dust dripping in the rear [music] view dust. Now I dream of rivers I ain&#39;t seen yet. Every pop of road I&#39;m pushing through. [music] If you hear a drip in the midnight hush, that&#39;s a [singing] little lost fish thinking about you. [music] Yeah. It&#39;s a sweaty. Yeah. Yeah. Then a man [music] come with a scar on the side. Said kid down here you swim or you die. Told me how to bite through the rust and the grime. How to read the roofs like a crooked sign. Ran with the minnows. Roll [music] with the eels. Trained in the current till I sharpen my gills. Took a crown from a catfish twice my size. So my skills glow dark and it&#39;s frightened. I was just a goldfish in a paper cup of glass. Tell it [music] turn. &gt;&gt; You can see it literally prompted in a beat switch. Was it able to carry that through? &gt;&gt; [music] &gt;&gt; Yeah, yeah, yeah. Touch me once, that&#39;s a legend in [music] the making. Tiny little bowl, now a whole foundation shaking. Filthy little stream [music] turn the throne room base and drip crown gleaming whole city mine full of taking. I got roaches doing wreaking in your kitchen light. [music] I got pigeons dropping doies from the power line. I got raccoons running numbers [music] at the edge of night. Every alleyway echo screaming he survive. Slim body big [music] or I&#39;m a neon car. Swim sharp through the dark like a shed star. &gt;&gt; The mood has completely changed and uplifted in this ending sequence, but I think it&#39;s a little bit too drawn out and it doesn&#39;t change enough. It definitely picks up in a good way. I&#39;m pretty impressed with this, but I think it&#39;s a little bit lost as to when exactly that should happen and like changing that mood definitively and being confident about it almost if that if that makes sense. It definitely integrated the brass as well in the suno song. Got the saxophone too, but like I said, it definitely felt a little confused on identity, especially near like that transition point. Laria 3. This song half as long as sun v5.5 2 minutes and 38 seconds. Long song, short song. &gt;&gt; The vinyl seat was [singing] warm and wide. A plastic [music] ghost [singing] left there to reside. I like that though. That&#39;s good. &gt;&gt; Fuzzy dice and the smell of the soul in a heavy load. The sliding [singing] glass door gave a final hiss. Sealed my fate with [singing] a cold metallic kiss. Faded tail lights on the interstate. A highway rest stop. A victim of fate down the porcelain [music] [singing] into the black. &gt;&gt; [music] &gt;&gt; No turning around. No looking [singing] back. In the silt in the sludge, I found [music] a new frame. A forgotten pet with a brand new [singing] name [music] from the rusted iron in the mossy floor. I don&#39;t swim for mercy anymore. Obsidian scales, a sulfurous bread in the sewer of gold. I&#39;m mocking your [music] death. King of the chrome, the master of rust. Turning your highway [music] to pillars of dust. I&#39;m the king of the grand. Yeah. [music] The sludge in the f. I&#39;m the monster you made. The money you spend. Gilded and filled. I&#39;m the Lord [music] of the Lord. Watch how the water starts to overflow. [music] Saw the child in the window, eyes on the screen. I was invisible. [music] Part of the scene. Part of the scene. Now the asphalt is [singing and music] cracking. The pipes going to burst. I&#39;m coming for the crown and [music] I&#39;m coming [singing] for first. No more flakes in the back. No more tap on the glass. Just a city in ruins and the shadows [music] that pass. Guilt and done. One bite and I&#39;m the sun, king of the sewers. Okay, pretty impressive. I don&#39;t think that song flowed as good or like as just realistically naturally as the Suno song orSonado as we&#39;ll probably hear. That&#39;s the consistent thing I keep thinking with Lia 3 is like it&#39;s oh it it&#39;s clean, it&#39;s clinical, but it kind of doesn&#39;t have this natural expressive flow to it. However, the identity of the song and like the beat change, especially in the beginning, the ballad sounded good. This thing might be good with country. Um, but it had like a clear transition point. The Sununo one was defined in lyrics, but it happened earlier than it actually was supposed to. This one, it was a very very clear and it carried almost nothing from the beginning style over just sort of the voice. So that that impressed me. But yeah, the way the song flows, the patterns, something&#39;s off. All right, let&#39;s try King of the Mud. &gt;&gt; [music] &gt;&gt; Plastic bag leaking on the gravel. Staring [music and singing] at the tail lights. Gone. Bedan vanish in the gray heat. Four years old forgotten. Cold water sinking in the drainage. Ditch through the dirt down below. [music and singing] Booty in the dark. Swimming through the world. Ted C against the tide. Everything is dust. He remembers the boy. He remember the glass. Waiting for the day that the king comes to pass. Sludge green [music] skin like a dragon hide. on the city grown heavy hearts. [music] The pipe shake. &gt;&gt; It&#39;s got a very unique beat to it. I kind of like the way it flows and the sound of it, but it didn&#39;t start as the ballad. It just went right in with the trap. One part of it completely overtook it. Although, you can see the tags it made for itself. Maybe the auto procedure here based on our prompt. Simple just isn&#39;t going to cut it if we want a good result from. All right, I&#39;ve customized some of the advanced settings here in Sunnado to hopefully get a better result. Let&#39;s try a chip tune 16bit video game theme and this will be an instrumental. So, this is supposed to feel dangerous but catchy and maybe like a sewer or water theme. It&#39;s music for fish in the sewers. Send the same thing to Liia and All right, these tracks are a little bit shorter. This one&#39;s 2 minutes. [music] Heat. Heat. [music] &gt;&gt; [music] [music] [music] &gt;&gt; Maybe a little basic, but overall pretty great. Kind of feels like maybe a mobile game background theme, but like a decent mobile game, you know? I can see the fish in the sewers. You know, you&#39;re you&#39;re collecting coins in the sewers trying to escape. Oh, I like this cover. This album cover is actually really cool. Below the iron great and it&#39;s like digital mixed with this like most like pop stamped iron great. It&#39;s got an old school feel. [music] &gt;&gt; [music] [music] &gt;&gt; Heat. [music] Heat. It&#39;s pretty good. It keeps your mind working a little bit more, I guess, but it just doesn&#39;t have again that flow, that continuous catchy feel that I&#39;m looking for. That honestly simpler and less retro feeling sewer scale sprint song from Suno. All right, let&#39;s see Sludge Fin Strut. &gt;&gt; [music] [music] &gt;&gt; Heat. Heat. It&#39;s a little bit more Stranger Things. Maybe not style here with the chip tune where video game themes. Heat. Heat. Heat. Heat. &gt;&gt; [music] &gt;&gt; This is more like it. This is very good. [music] That [music] gets it done, man. That absolutely gets it done. That&#39;s the thing I love about is that sometimes it&#39;ll like disappoint you like four times and then just come out with a banger. You know, something that is better than I think what pseudo produced in this scenario. I think wins with that neon sump. That that is a great track, man. That&#39;s worth saving. That&#39;s worth posting. Like that is a good theme. Okay, so this is the reprompted country ballad. And look, wow, way closer to 5 minutes with the suno lyrics. Let&#39;s see if it&#39;s able to pull off the transitional change. [music] [music] We were driving west on a Sunday. Backseat [music] boxed up. Little word [singing] of mine. Plastic castle gravel bed. [music] Kids handwriting. Please take care of him in [singing] purple lines. Got signs. [music] The good at the exit styrofoam cup on the windowill. [music] They forgot me in the glare [singing] of the parking lot in the car rolled over the hill. I was just a [music] goldfish in a paper cup of glass. &gt;&gt; As you can see, clearly wasn&#39;t able to handle that transition. It&#39;s unfortunate because the other two were. All right, guys. Let&#39;s move on and try to test out this new voice mode where basically what I did is I recorded a minute of myself singing on the Sunno website through the microphone and apparently it&#39;s picked up what I sound like. This is the most popular song I&#39;ve uploaded on AI. I&#39;ve got this one in V5. So, let&#39;s make a V5.5 variant and compare. You can literally remaster it if you want. I&#39;m actually going to go for high variation strength. Hopefully, this will bring out a little bit more of that V5.5 goodness. Just so you&#39;re familiar though, let&#39;s listen to the original V5. &gt;&gt; [music] [music] [music] [music] &gt;&gt; I was binge watching shows in my basement flat. Clicked a weird link. Didn&#39;t think much of that. Now I&#39;m sworn in by a mask in a velvet hood. They said welcome [music] high chancellor. Bro, it&#39;s not that good. My Amazon cart still full of socks, [music] but I&#39;m signing treaties in Bohemian Grove. Tried to order pizza hack. No [music] rat instead. Now the pope sends me memes when he goes to bed. [music] Oops. I RULE THE WORLD. WHAT THE HELL&#39;S GOING ON? Got [music] Bill asking me to DJ their song. Flip the bed with a sticky note I wrote at dawn. Oops. [music] I rule the world. Where&#39;s my coupon? [music] I quoted Shrek [music] at the UN stage. Now market syrup like a crypto rage. &gt;&gt; It&#39;s very silly stuff, but it&#39;s easy to understand why this is the most popular one I&#39;ve released. It&#39;s just got like a banging catchiness to it. It&#39;s that stadium anthem. It&#39;s something does very good in particular. Regardless, this is very close to flawless at this point with V5. So, can a V5.5 really up the game from this? This is an example where the high-pitched sounds are very clear. This comes through at a high quality level. All right, while these are generating, let&#39;s go ahead and try the voice cloning feature. Basically, guys, with this, they had me sing into the website essentially any song that I know. My voice is terrible. It sounds like rocks coming through. Okay, but I did that for like a minute. Apparently, it recorded my voice, captured it. So, we&#39;ll see if it can reproduce it and have me sing something beautifully. It did actually give me an option to select if I was a terrible singer or like a professional one. So, I picked terrible. Hopefully that helps. All right, I&#39;ve got some lyrics. I&#39;ve got some styles. I&#39;ve adjusted the dials ever so slightly. Bumped up weirdness, reduced style influence, and slightly bumped audio influence. And it looks like our V5.5 remasters are through. Let&#39;s take a listen. &gt;&gt; [music] [music] [music] &gt;&gt; I was binge watching shows in my basement flat. Clicked a weird link. Didn&#39;t [music] think much of that. Now I&#39;m Whoa. [music] &gt;&gt; [music] [music] [music] &gt;&gt; I was binge watching shows in my basement flat. &gt;&gt; You know what, guys? I think that there it is not meaningfully any better. I think it&#39;s actually a little bit worse. I think the the high-pitch sounds do actually sound a little bit worse compared to this version. It&#39;s very slight. The bass and everything else sounds about the same. I don&#39;t think it was remastered. I think it might have been a little bit downmastered. Honestly, the jump between V5 and V5.5 feel like that&#39;s going to be difficult to place. Yeah, it&#39;s got a little bit of high pitchness that isn&#39;t there in the non-re. [music] I was binge watching shows in my basement flat. &gt;&gt; Yeah, this one also it sounds like it doesn&#39;t have as good dynamic range in the song with these new 5.5 remasters. Let&#39;s try the one that&#39;s supposed to be my voice. Lemonland. [music] [music] My world is made of citrus now. [music] There&#39;s lemon candy in my mouth. It&#39;s bright and sunny in the south. [music] My house is lemon yellow now. Welcome to lemon land. [music] Lemon land. Lemon land. Lemon land. [music] Welcome to lemon. Lemon land. Lemon land. Lemon land. Well, welcome to [music] lemon land. Lemon land. Lemon land. Lemon land. Welcome to [music] lemon land. Lemon land. Lemon land. Lemon land. Welcome to lemon. [music] &gt;&gt; Funny stuff. Does it sound exactly like me? I don&#39;t know. I feel like it&#39;s a little too deep. It was doing this on the other ones I I was testing as well. They&#39;ve already created the song. I&#39;m remixing it using my own voice. So, we&#39;re going to try to put my voice in there. Here&#39;s the original Little Bird. Yeah. &gt;&gt; Higher. Way higher. &gt;&gt; They call me little bird, but the shadow looking massive. 30,000 ft. Yeah. My altitude aggressive. I&#39;m dropping biologicals. You looking panic stricken. You a nugget on the ground. I&#39;m the prehistoric [music] chicken, [singing] but I carry heavy. &gt;&gt; Let&#39;s go ahead and run that on through. And you know what? We&#39;re going to do another one as well in an old country ballad. Yeah, &gt;&gt; that doesn&#39;t sound like me. Higher. Way higher. [music] They call me little bird, but the shadow looking massive. 30,000 ft. Yeah, my altitude aggressive. I&#39;m dropping biologicals. [music and singing] You looking panicstricken. You a nugget on the ground. I&#39;m the prehistoric chicken. Little bird got the hollow bones but I carry heavy weight. &gt;&gt; Yeah, I can kind of hear it but still retains like this deeper aspect. Doesn&#39;t exactly sound like me. You can do a little bit more recording time. Spend a little bit more time allowing it to capture your voice. So I could go for another pass. I bet you could get this pretty good. Yeah. &gt;&gt; Look up higher. Way higher. They call me little bird, but the shadow looking massive. 30,000 ft. Yeah, my altitude aggressive. I&#39;m dropping [singing and music] biological. You looking panic stricking you. &gt;&gt; It has like maybe 15% of my voice in there. Very strange. All right. Now, the old country ballad. [music] [music] Rust on the mailbox. &gt;&gt; [music] &gt;&gt; Paint peeled off my name. Every year the field goes, every cloud forgets the rain. It just doesn&#39;t really sound perfectly like me. It&#39;s It&#39;s strange. It&#39;s trying to give me an accent I don&#39;t have, but at the same time, it&#39;s not coming through. [music] rust on the mailbox. Similar painted off my name. I don&#39;t sound good at all as a country artist. I mean, and again, it&#39;s not really perfectly me now, is it? Definitely a fun thing to experiment and mess around with. All right, so at the end of the day, where do we land with all of this? Sov 5.5. I think this little bun needs some more time in the oven. Look, it sounds good, but I can&#39;t meaningfully hear a beneficial difference over the previous V5. I thought the previous V5 was very good. It was clearer than V4.5 and V4. It had a wide diversity of styles, knew how to get weird when it needed to and integrate things. But honestly, 5.5, the remaster sounds worse. But just generating songs like song for song, it&#39;s still a very strong model. I just I just really can&#39;t tell the difference between it and regular V5. But this is limited experience. This is limited testing. I would love to hear what you guys have to say about that in the comments below. You typical average Suno users, what areas is it actually better in? And if you&#39;ve tried the voice cloning, how is it for you? Because for me, it seems to give me this like deep like young gravy almost aspect for like a rap song. And then the country ballad was a wrong turn. I don&#39;t even know what that was. How do these AI pieces fit in with LIA 3 and Sonado V3 Preview? LIIA 3 has a major issue. I don&#39;t know what it is. I don&#39;t know if it&#39;s the synth ID inside of the music. Like Google has this thing that lets you tell if it&#39;s AI generated music. It&#39;s a invisible synthetic ID of some form. But it might be messing with the rhythm and the natural feel of the song as it comes through. I don&#39;t know though. It might be better for like background instrumentals or country. It is it&#39;s very clear and it sounds like people would call it good, but when you listen to it back toback compared to Suno orSonado, it doesn&#39;t have rhythm. It doesn&#39;t have flow in a weird way. Speaking of, this one is a little bit more limited, but I think it&#39;s a little bit more for the advanced users that want to push the cutting edge or the boundaries of AI music in terms of the latent space. So has a lot of features like that newly mentioned studio that literally can split up your song into all the different pieces and sounds and you can manually remove them or edit them. lets you do artists that are in the training data but are blocked under Yria 3 or like I could just type Eminem into Michael Jackson any artist you can really think of and it will often times actually have their style very well preserved and what they sound like as a musician controversial but if you are into experimenting with AI you&#39;re not trying to make a profit off of it you just want to like dive in there and see what these models can really get to it&#39;s the most unfiltered raw music model that we can access to that&#39;s also potent, powerful, and sometimes it just produces like a banger and I&#39;m like, &quot;Wow, I actually want to save that song. It makes me want to use it for something.&quot; Sometimes you feel that with Suno 2, but I don&#39;t know. Sonado&#39;s got a taste and a flare to it that is very, very inviting. Although, I think their interface is a little bit more of a pain to use. It&#39;s not bad though. None of these interfaces are terrible. If I had to pick one of these to use as my daily AI music machine, it&#39;s going to be Sunno AI. But I think even on free Gemini plans, you can use LIA 3 and test it out at least for quick 30-second demos. That might be enough for like video games. If you want to experiment with different properties and use the most uncensored AI music generator, Sonado V3 is definitely the best bet. Yeah. And as for 5.5 itself, I don&#39;t think it&#39;s ready for prime time yet. I can, I guess, hear the potential. Maybe I&#39;m missing the benefits of it over V5 somehow. But you can still access V5 on regular Sunno. I don&#39;t even know. Probably with this new 5.5, you don&#39;t have to upgrade to the pro plan now. So, give V5 a whirl. Thanks so much for watching, folks. I&#39;ll see you in the next video and goodbye.",
           "Slap on some headphones, folks, because we&#39;re diving into AI music today.",
-          "Some of you may have heard, but Sunno AI launched V5.5.",
+          "Some of you may have heard, but Suno AI launched V5.5.",
           "This is an update over their previous V5 model, and similarly, they&#39;ve just updated their studio as well.",
-          "This allows you to take the songs you generate and break them down into much more controllable pieces."
+          "This allows you to take the songs you generate and break them down into much more controllable pieces.",
+          "And apparently, this will allow you to sing and rap any song."
         ],
         "top_comments": [
           {
@@ -4135,68 +4115,57 @@ window.__DASHBOARD_DATA__ = {
   },
   "digest": {
     "digest_date": "2026-03-31",
-    "generated_at": "2026-03-30T15:29:30+00:00",
-    "summary": "최근 24시간 영상 5개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'Claude'입니다. 특히 '놀라운 실험 결과네요… AI가 대신 영상 보고 요약해줄 때, 사람 태도 자체가 바뀌어버립니다 | 이것도 일종의 중독인가 의존성 심해져'는 조회수 12.9K, 참여율 4.3%로 가장 강하게 반응했습니다.",
-    "creator_takeaway": "'Claude' 주제가 2개 영상으로 가장 많이 다뤄졌습니다. Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n[내 채널] 7일 평균 5.5K회 · 지속률 36.1% / 경쟁사 평균 5.1K회 (격차 +6%)",
-    "telegram_preview": "📡 스마트대디 모니터링 | 03/31\n\n📊 수집: 영상 5개 | 채널 5개\n\n🔥 참여율 TOP 3\n1. [안될공학 - IT 테크 신기술] 4.3% · 12.9K뷰\n   놀라운 실험 결과네요… AI가 대신 영상 보고 요약해줄 때, 사람 태도 자체가 바뀌어버립니다 | 이것도 일종의 중독인가 의존성 심해져\n2. [MattVidPro] 7.0% · 5.6K뷰\n   Suno v5.5 is ALIVE! VS Google Lyria 3 & Sonauto\n3. [성공지식백과] 3.7% · 5.4K뷰\n   배우 0명? 카메라 0대?! 영화를 만들어주는 AI가 나와버렸습니다 (미친 할리우드급)\n\n📌 화제 키워드\n   Gemini · Claude · AI영상생성 · AI툴비교 · 2026년AI트렌드\n\n🎬 포맷: 뉴스 분석 3개 · 워크플로우 튜토리얼 2개\n\n📈 스마트대디 어제 실적\n조회수 7.5K (↑37% vs 7일 평균) | 구독 +66\n시청 지속률 38.6% | 평균 시청 2분 12초\n경쟁사 평균 5.1K회 대비 내 7일 평균 +6%\n\n💡 VS 각도: Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+    "generated_at": "2026-03-30T15:47:51+00:00",
+    "summary": "최근 24시간 영상 5개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'agents'입니다. 특히 '놀라운 실험 결과네요… AI가 대신 영상 보고 요약해줄 때, 사람 태도 자체가 바뀌어버립니다 | 이것도 일종의 중독인가 의존성 심해져'는 조회수 13.0K, 참여율 4.2%로 가장 강하게 반응했습니다.",
+    "creator_takeaway": "'agents' 주제가 1개 영상으로 가장 많이 다뤄졌습니다. 일반인 관점 직접 실험 or VS 비교 각도로 차별화할 영역이 있습니다.\n[내 채널] 7일 평균 5.5K회 · 지속률 36.1% / 경쟁사 평균 5.2K회 (격차 +4%)",
+    "telegram_preview": "📡 스마트대디 모니터링 | 03/31\n\n📊 수집: 영상 5개 | 채널 5개\n\n🔥 참여율 TOP 3\n1. [안될공학 - IT 테크 신기술] 4.2% · 13.0K뷰\n   놀라운 실험 결과네요… AI가 대신 영상 보고 요약해줄 때, 사람 태도 자체가 바뀌어버립니다 | 이것도 일종의 중독인가 의존성 심해져\n2. [MattVidPro] 7.0% · 5.6K뷰\n   Suno v5.5 is ALIVE! VS Google Lyria 3 & Sonauto\n3. [성공지식백과] 3.7% · 5.4K뷰\n   배우 0명? 카메라 0대?! 영화를 만들어주는 AI가 나와버렸습니다 (미친 할리우드급)\n\n📌 화제 키워드\n   coding · 조직문화 · 경영전략 · 변화관리 · 리더십\n\n🎬 포맷: 뉴스 분석 3개 · 워크플로우 튜토리얼 1개 · 비교 1개\n\n📈 스마트대디 어제 실적\n조회수 7.5K (↑37% vs 7일 평균) | 구독 +66\n시청 지속률 38.6% | 평균 시청 2분 12초\n경쟁사 평균 5.2K회 대비 내 7일 평균 +4%\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
     "video_count": 5,
     "total_recent_video_count": 5,
     "focus_scope": "all_watchlist",
-    "average_view_count": 5145.0,
-    "average_engagement_rate": 0.06452401334953305,
-    "average_like_count": 217.0,
+    "average_view_count": 5224.0,
+    "average_engagement_rate": 0.05989021255634983,
+    "average_like_count": 219.0,
     "average_comment_count": 36.0,
     "best_video_id": "mONoEKWpbEg",
-    "best_topic": "Claude",
+    "best_topic": "agents",
     "summary_points": [
-      "가장 겹친 주제는 'Claude'이며 2개 영상, 평균 조회수 6.5K, 평균 참여율 7.6%입니다.",
+      "가장 겹친 주제는 'agents'이며 1개 영상, 평균 조회수 13.0K, 평균 참여율 4.2%입니다.",
       "최고 실적 영상은 '놀라운 실험 결과네요… AI가 대신 영상 보고 요약해줄 때, 사람 태도 자체가 바뀌어버립니다 | 이것도 일종의 중독인가 의존성 심해져'이며 실험 훅과 뉴스 분석 포맷 조합이 강했습니다.",
-      "반복 노출된 툴은 Gemini 3회, Claude 2회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
+      "반복 노출된 툴은 Gemini 1회, Arc 1회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
     ],
     "action_chips": [
-      "주제: Claude",
+      "주제: agents",
       "훅: 실험",
       "포맷: 뉴스 분석",
       "기준 채널: 안될공학 - IT 테크 신기술"
     ],
     "title_suggestions": [
-      "Claude vs ChatGPT, 일반인이 직접 써보니 이게 달랐다",
-      "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
-      "AI 비서 대결: Claude가 진짜 강한 상황은 따로 있었다"
+      "agents 직접 실험 — 이게 진짜 되나?",
+      "agents vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
+      "agents 써봤더니... (기대 vs 현실 솔직 후기)"
     ],
     "recommendations": [
       {
-        "title": "Claude vs ChatGPT, 일반인이 직접 써보니 이게 달랐다",
-        "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-        "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-        "thumbnail_copy": "Claude 핵심 3가지",
-        "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
+        "title": "agents 직접 실험 — 이게 진짜 되나?",
+        "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
+        "angle": "큰 주제 하나를 대표 제목으로 세우고, 나머지 포인트는 보조 정보처럼 정리하는 압축형 포장이 좋습니다.",
+        "thumbnail_copy": "agents 핵심 3가지",
+        "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
         "source_video_id": "mONoEKWpbEg",
         "source": "놀라운 실험 결과네요… AI가 대신 영상 보고 요약해줄 때, 사람 태도 자체가 바뀌어버립니다 | 이것도 일종의 중독인가 의존성 심해져",
-        "my_channel_context": "내 7일 평균 5.5K회 · 지속률 36.1% / 경쟁사 대비 +6%"
-      },
-      {
-        "title": "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
-        "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-        "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-        "thumbnail_copy": "Claude 바로 해결",
-        "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
-        "source_video_id": "o5Z_WQkHYhE",
-        "source": "What's Different About Octopus Organizations?",
-        "my_channel_context": "내 7일 평균 5.5K회 · 지속률 36.1% / 경쟁사 대비 +6%"
+        "my_channel_context": "내 7일 평균 5.5K회 · 지속률 36.1% / 경쟁사 대비 +4%"
       }
     ],
     "topic_clusters": [
       {
-        "label": "Claude",
-        "count": 2,
-        "avg_view_count": 6522,
-        "avg_engagement_rate": 0.07648471305850271,
-        "avg_like_count": 236,
-        "avg_comment_count": 47,
+        "label": "agents",
+        "count": 1,
+        "avg_view_count": 13042,
+        "avg_engagement_rate": 0.04224812145376476,
+        "avg_like_count": 458,
+        "avg_comment_count": 93,
         "source_titles": [
-          "놀라운 실험 결과네요… AI가 대신 영상 보고 요약해줄 때, 사람 태도 자체가 바뀌어버립니다 | 이것도 일종의 중독인가 의존성 심해져",
-          "What's Different About Octopus Organizations?"
+          "놀라운 실험 결과네요… AI가 대신 영상 보고 요약해줄 때, 사람 태도 자체가 바뀌어버립니다 | 이것도 일종의 중독인가 의존성 심해져"
         ],
         "thumbnail_url": "https://i.ytimg.com/vi/mONoEKWpbEg/hqdefault.jpg",
         "representative_video_id": "mONoEKWpbEg",
@@ -4205,8 +4174,8 @@ window.__DASHBOARD_DATA__ = {
       {
         "label": "Gemini",
         "count": 1,
-        "avg_view_count": 5635,
-        "avg_engagement_rate": 0.06992014196983141,
+        "avg_view_count": 5624,
+        "avg_engagement_rate": 0.07005689900426743,
         "avg_like_count": 322,
         "avg_comment_count": 72,
         "source_titles": [
@@ -4219,9 +4188,9 @@ window.__DASHBOARD_DATA__ = {
       {
         "label": "자동화",
         "count": 1,
-        "avg_view_count": 5372,
-        "avg_engagement_rate": 0.03704393149664929,
-        "avg_like_count": 194,
+        "avg_view_count": 5432,
+        "avg_engagement_rate": 0.036818851251840944,
+        "avg_like_count": 195,
         "avg_comment_count": 5,
         "source_titles": [
           "배우 0명? 카메라 0대?! 영화를 만들어주는 AI가 나와버렸습니다 (미친 할리우드급)"
@@ -4233,16 +4202,30 @@ window.__DASHBOARD_DATA__ = {
       {
         "label": "AI영상생성",
         "count": 1,
-        "avg_view_count": 1675,
-        "avg_engagement_rate": 0.0626865671641791,
-        "avg_like_count": 97,
-        "avg_comment_count": 8,
+        "avg_view_count": 1789,
+        "avg_engagement_rate": 0.05980994969256568,
+        "avg_like_count": 98,
+        "avg_comment_count": 9,
         "source_titles": [
           "2026년 최고의 AI 영상 툴, 이 영상 하나로 종결합니다 (가장 현실적인 것들 추천)"
         ],
         "thumbnail_url": "https://i.ytimg.com/vi/0VRgiO5cDQ8/hqdefault.jpg",
         "representative_video_id": "0VRgiO5cDQ8",
         "representative_title": "2026년 최고의 AI 영상 툴, 이 영상 하나로 종결합니다 (가장 현실적인 것들 추천)"
+      },
+      {
+        "label": "조직문화",
+        "count": 1,
+        "avg_view_count": 232,
+        "avg_engagement_rate": 0.09051724137931035,
+        "avg_like_count": 20,
+        "avg_comment_count": 1,
+        "source_titles": [
+          "What's Different About Octopus Organizations?"
+        ],
+        "thumbnail_url": "https://i.ytimg.com/vi/o5Z_WQkHYhE/hqdefault.jpg",
+        "representative_video_id": "o5Z_WQkHYhE",
+        "representative_title": "What's Different About Octopus Organizations?"
       }
     ],
     "video_highlights": [
@@ -4253,12 +4236,12 @@ window.__DASHBOARD_DATA__ = {
         "thumbnail_url": "https://i.ytimg.com/vi/mONoEKWpbEg/hqdefault.jpg",
         "video_url": "https://www.youtube.com/watch?v=mONoEKWpbEg",
         "published_at": "2026-03-30T06:07:00Z",
-        "view_count": 12882,
-        "like_count": 455,
+        "view_count": 13042,
+        "like_count": 458,
         "comment_count": 93,
-        "engagement_rate": 0.04253997826424468,
-        "topic_cluster": "Claude",
-        "summary": "AI가 영상을 대신 요약해주면서 사람들이 원본을 직접 확인하는 습관을 잃고 AI에 과도하게 의존하게 되며, 심지어 AI가 틀린 정보를 줘도 쉽게 믿어버리는 위험한…",
+        "engagement_rate": 0.04224812145376476,
+        "topic_cluster": "agents",
+        "summary": "이 영상은 agents 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
         "comment_signal": "이 영상 내용도 AI요약으로 보는 나😂😂😂😂",
         "hook_type": "실험"
       },
@@ -4269,12 +4252,12 @@ window.__DASHBOARD_DATA__ = {
         "thumbnail_url": "https://i.ytimg.com/vi/ccDmDDsPjew/hqdefault.jpg",
         "video_url": "https://www.youtube.com/watch?v=ccDmDDsPjew",
         "published_at": "2026-03-29T16:38:21Z",
-        "view_count": 5635,
+        "view_count": 5624,
         "like_count": 322,
         "comment_count": 72,
-        "engagement_rate": 0.06992014196983141,
+        "engagement_rate": 0.07005689900426743,
         "topic_cluster": "Gemini",
-        "summary": "AI 음악 생성 툴인 Suno v5.5와 Google Lyria 3의 성능을 다양한 프롬프트와 스타일로 비교하며, Suno가 더 창의적이고 생동감 있는 음악을 만든…",
+        "summary": "이 영상은 coding 이슈를 비교 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
         "comment_signal": "Lemonland had no right being that catchy",
         "hook_type": "비교"
       },
@@ -4285,12 +4268,12 @@ window.__DASHBOARD_DATA__ = {
         "thumbnail_url": "https://i.ytimg.com/vi/5AUWYlb1_U0/hqdefault.jpg",
         "video_url": "https://www.youtube.com/watch?v=5AUWYlb1_U0",
         "published_at": "2026-03-30T01:32:42Z",
-        "view_count": 5372,
-        "like_count": 194,
+        "view_count": 5432,
+        "like_count": 195,
         "comment_count": 5,
-        "engagement_rate": 0.03704393149664929,
+        "engagement_rate": 0.036818851251840944,
         "topic_cluster": "자동화",
-        "summary": "카메라와 배우 없이 AI만으로 영화를 제작하는 Higgsfield Cinema Studio 2.5를 소개하며, 캐릭터 생성부터 장면 연출, 카메라 옵션 활용까지 실…",
+        "summary": "이 영상은 automation 이슈를 워크플로우 튜토리얼 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
         "comment_signal": "힉스필드 시네마 스튜디오 2.5 체험하기: https://higgsfield.ai/s/higgsfield-ai-cinematic-workflow-success_wiki-p…",
         "hook_type": "문제 해결"
       },
@@ -4301,12 +4284,12 @@ window.__DASHBOARD_DATA__ = {
         "thumbnail_url": "https://i.ytimg.com/vi/0VRgiO5cDQ8/hqdefault.jpg",
         "video_url": "https://www.youtube.com/watch?v=0VRgiO5cDQ8",
         "published_at": "2026-03-30T10:12:55Z",
-        "view_count": 1675,
-        "like_count": 97,
-        "comment_count": 8,
-        "engagement_rate": 0.0626865671641791,
+        "view_count": 1789,
+        "like_count": 98,
+        "comment_count": 9,
+        "engagement_rate": 0.05980994969256568,
         "topic_cluster": "AI영상생성",
-        "summary": "2026년 최고의 AI 영상 생성 툴 6개를 실제 프롬프트와 다양한 조건으로 비교 테스트하여 S급 티어표를 공개하고, 사용 목적별 최적의 툴을 추천합니다. 특히 가…",
+        "summary": "2026년 최고의 AI 영상 생성 툴 6개를 직접 테스트하고 순위를 매겨, 각 툴의 장단점과 실제 결과물을 비교 분석하여 구독자들의 시간과 비용을 절약할 수 있도록…",
         "comment_signal": "👉 유튜브 시작이 막막하신가요? 제가 도와드릴게요: https://bit.ly/4haVYBa ▶ 300만 원 상당의 유료 강의, 무료로 공개합니다: https://yout…",
         "hook_type": "솔직 검증"
       },
@@ -4317,19 +4300,19 @@ window.__DASHBOARD_DATA__ = {
         "thumbnail_url": "https://i.ytimg.com/vi/o5Z_WQkHYhE/hqdefault.jpg",
         "video_url": "https://www.youtube.com/watch?v=o5Z_WQkHYhE",
         "published_at": "2026-03-30T15:03:21Z",
-        "view_count": 163,
-        "like_count": 17,
+        "view_count": 232,
+        "like_count": 20,
         "comment_count": 1,
-        "engagement_rate": 0.11042944785276074,
-        "topic_cluster": "Claude",
-        "summary": "AI 시대에 맞춰 빠르게 변하는 문어형 조직과 기존의 기계식 조직을 비교하며, 문어형 조직이 어떻게 더 빠르고 유연하게 의사결정하고 변화에 적응하는지 아마존 전략가…",
+        "engagement_rate": 0.09051724137931035,
+        "topic_cluster": "조직문화",
+        "summary": "기존의 경직된 기계식 조직에서 벗어나, 문어처럼 유연하게 변화에 적응하고 자율적으로 의사결정하는 '옥토퍼스 조직' 모델을 소개하며, 이를 AI 시대의 조직 운영과…",
         "comment_signal": "Revolutionary thinking",
         "hook_type": "문제 해결"
       }
     ]
   },
   "my_channel": {
-    "generated_at": "2026-03-31T00:29:30.184507+09:00",
+    "generated_at": "2026-03-31T00:47:51.851844+09:00",
     "channel_name": "스마트대디",
     "period_days": 7,
     "daily": [
@@ -4367,7 +4350,7 @@ window.__DASHBOARD_DATA__ = {
     "video_stats": [
       {
         "video_id": "lfq_r6r_0XY",
-        "views": 33876,
+        "views": 33873,
         "avg_view_percentage": 40.02,
         "avg_view_duration_sec": 131.0,
         "likes": 447,
@@ -4375,7 +4358,7 @@ window.__DASHBOARD_DATA__ = {
       },
       {
         "video_id": "Ts-9MMZzkhM",
-        "views": 17685,
+        "views": 17670,
         "avg_view_percentage": 19.52,
         "avg_view_duration_sec": 167.0,
         "likes": 434,
@@ -4383,7 +4366,7 @@ window.__DASHBOARD_DATA__ = {
       },
       {
         "video_id": "qyTUW0fqgzc",
-        "views": 16200,
+        "views": 16193,
         "avg_view_percentage": 109.27,
         "avg_view_duration_sec": 51.0,
         "likes": 80,
@@ -4391,7 +4374,7 @@ window.__DASHBOARD_DATA__ = {
       },
       {
         "video_id": "EbKWRA_N4Gs",
-        "views": 9227,
+        "views": 9217,
         "avg_view_percentage": 37.0,
         "avg_view_duration_sec": 134.0,
         "likes": 90,
@@ -4399,7 +4382,7 @@ window.__DASHBOARD_DATA__ = {
       },
       {
         "video_id": "LawKU0gGr2Q",
-        "views": 5771,
+        "views": 5765,
         "avg_view_percentage": 45.73,
         "avg_view_duration_sec": 114.0,
         "likes": 73,
@@ -4423,8 +4406,8 @@ window.__DASHBOARD_DATA__ = {
       },
       {
         "video_id": "RC_6yeYNCA0",
-        "views": 1303,
-        "avg_view_percentage": 24.24,
+        "views": 1301,
+        "avg_view_percentage": 24.23,
         "avg_view_duration_sec": 81.0,
         "likes": 34,
         "comments": 7
@@ -4439,7 +4422,7 @@ window.__DASHBOARD_DATA__ = {
       },
       {
         "video_id": "ltJbVR080j4",
-        "views": 374,
+        "views": 373,
         "avg_view_percentage": 18.22,
         "avg_view_duration_sec": 156.0,
         "likes": 4,
