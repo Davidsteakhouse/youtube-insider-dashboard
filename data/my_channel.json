@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-30T11:36:38.830258+09:00",
+  "generated_at": "2026-03-30T11:48:26.934186+09:00",
   "channel_name": "스마트대디",
   "period_days": 7,
   "daily": [
@@ -45,7 +45,17 @@
     }
   ],
   "video_stats": [],
-  "yesterday": null,
+  "yesterday": {
+    "date": "2026-03-27",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "subscribers_net": 0,
+    "watch_minutes": 0,
+    "avg_view_duration_sec": 0.0,
+    "avg_view_percentage": 0.0,
+    "engagement_rate": 0.0
+  },
   "avg_7d": {
     "views": 0.0,
     "likes": 0.0,
