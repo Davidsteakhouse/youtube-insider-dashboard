@@ -19,6 +19,29 @@ PREFERRED_LANGUAGES = ["ko", "ko-KR", "en", "en-US"]
 APIFY_BASE = "https://api.apify.com/v2"
 
 
+def apify_actor_family(actor_id: str) -> str:
+    actor = (actor_id or "").strip().lower()
+    if "johnvc" in actor and "youtubetranscripts" in actor:
+        return "johnvc_youtubetranscripts"
+    return "default"
+
+
+def apify_actor_payload(actor_id: str, video_ids: list[str]) -> dict[str, Any]:
+    actor_family = apify_actor_family(actor_id)
+    if actor_family == "johnvc_youtubetranscripts":
+        return {
+            "youtube_url": [f"https://www.youtube.com/watch?v={video_id}" for video_id in video_ids],
+        }
+    return {
+        "video_ids": video_ids,
+        "languages": PREFERRED_LANGUAGES,
+        "text_only": True,
+        "include_generated": True,
+        "include_translation": True,
+        "fetch_all": False,
+    }
+
+
 def transcript_payload(
     *,
     status: str,
@@ -240,6 +263,11 @@ def fetch_via_ytdlp(video_id: str) -> dict[str, Any] | None:
 
 def _apify_extract_transcript_text(item: dict[str, Any]) -> tuple[str, str] | None:
     """Apify 결과 item에서 (text, language) 추출. 언어 우선순위: ko > en."""
+    raw_non_timestamped = str(item.get("non_timestamped") or "").strip()
+    if raw_non_timestamped and item.get("success", True) is not False:
+        language_code = str(item.get("language_code") or item.get("language") or "").strip()
+        return raw_non_timestamped, language_code
+
     transcripts = item.get("transcripts") or {}
     for lang in PREFERRED_LANGUAGES:
         lang_data = transcripts.get(lang) or {}
@@ -259,21 +287,14 @@ def _apify_extract_transcript_text(item: dict[str, Any]) -> tuple[str, str] | No
 def batch_fetch_via_apify(video_ids: list[str]) -> dict[str, dict[str, Any]]:
     """여러 video_id를 한 번의 Apify 실행으로 수집. {video_id: transcript_payload} 반환."""
     token = os.getenv("APIFY_TOKEN", "").strip()
-    actor_id = os.getenv("APIFY_YOUTUBE_TRANSCRIPT_ACTOR_ID", "futurizerush~youtube-transcript-scraper").strip()
+    actor_id = os.getenv("APIFY_YOUTUBE_TRANSCRIPT_ACTOR_ID", "johnvc~youtubetranscripts").strip()
     if not token or not video_ids:
         return {}
 
     # 1) 액터 실행 시작
     memory_mb = int(os.getenv("APIFY_MEMORY_MB", "1024") or 1024)
     run_url = f"{APIFY_BASE}/acts/{urllib.parse.quote(actor_id, safe='~')}/runs?token={token}&memory={memory_mb}"
-    payload = json.dumps({
-        "video_ids": video_ids,
-        "languages": PREFERRED_LANGUAGES,
-        "text_only": True,
-        "include_generated": True,
-        "include_translation": True,
-        "fetch_all": False,
-    }).encode()
+    payload = json.dumps(apify_actor_payload(actor_id, video_ids)).encode()
     req = urllib.request.Request(run_url, data=payload, method="POST",
                                  headers={"Content-Type": "application/json"})
     try:
@@ -333,6 +354,12 @@ def batch_fetch_via_apify(video_ids: list[str]) -> dict[str, dict[str, Any]]:
         if error_code in PERMANENT_ERROR_CODES:
             results[vid] = transcript_payload(status="unavailable", source="apify", language="", text="")
             print(f"[transcript] Apify 영구 불가 ({vid}): {error_code}")
+            continue
+        error_message = str(item.get("error") or "").strip()
+        lowered_error = error_message.lower()
+        if any(token in lowered_error for token in ["disabled", "private", "age-restricted", "unavailable"]):
+            results[vid] = transcript_payload(status="unavailable", source="apify", language="", text="")
+            print(f"[transcript] Apify 영구 불가 ({vid}): {error_message}")
             continue
         extracted = _apify_extract_transcript_text(item)
         if extracted:

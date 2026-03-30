@@ -34,7 +34,7 @@ jobs:
       YT_CHANNEL_NAME: ${{ secrets.YT_CHANNEL_NAME }}
       LLM_PROVIDER: gemini
       GEMINI_MODEL: gemini-2.5-flash-lite
-      APIFY_YOUTUBE_TRANSCRIPT_ACTOR_ID: futurizerush~youtube-transcript-scraper
+      APIFY_YOUTUBE_TRANSCRIPT_ACTOR_ID: johnvc~youtubetranscripts
       PUBLIC_DASHBOARD_URL: https://davidsteakhouse.github.io/youtube-insider-dashboard/
     steps:
       - name: Checkout repository
