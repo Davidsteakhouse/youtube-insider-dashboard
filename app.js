@@ -396,6 +396,7 @@ function normalizeDigestPayload(payload) {
     best_video_id: payload.best_video_id || "",
     best_topic: payload.best_topic || "",
     focus_scope: payload.focus_scope || "all_watchlist",
+    my_channel: payload.my_channel || null,
   };
 }
 
@@ -644,6 +645,69 @@ function fallbackSummaryPoints() {
   return points.slice(0, 2);
 }
 
+function renderMyChannelStats() {
+  const el = document.getElementById("my-channel-stats");
+  if (!el) return;
+  const mc = appData.digest.my_channel;
+  if (!mc || !mc.yesterday) {
+    el.innerHTML = '<p class="empty-state">YouTube Analytics 미연동 또는 어제 데이터 없음</p>';
+    return;
+  }
+
+  const y = mc.yesterday;
+  const avg = mc.avg_7d || {};
+  const channelName = mc.channel_name || "내 채널";
+
+  function diffBadge(current, avgVal) {
+    if (!avgVal) return "";
+    const pct = ((current - avgVal) / avgVal) * 100;
+    const cls = pct >= 0 ? "diff-up" : "diff-down";
+    const arrow = pct >= 0 ? "▲" : "▼";
+    return `<span class="my-channel-diff ${cls}">${arrow}${Math.abs(pct).toFixed(0)}%</span>`;
+  }
+
+  const durSec = y.avg_view_duration_sec || 0;
+  const durMin = Math.floor(durSec / 60);
+  const durRemSec = Math.floor(durSec % 60);
+  const durStr = `${durMin}분 ${String(durRemSec).padStart(2, "0")}초`;
+
+  const subs = y.subscribers_net || 0;
+  const subsStr = (subs >= 0 ? "+" : "") + subs;
+
+  const topVideo = (mc.video_stats || [])[0] || null;
+
+  el.innerHTML = `
+    <div class="my-channel-grid">
+      <div class="my-channel-stat">
+        <span class="my-channel-label">조회수</span>
+        <span class="my-channel-value">${compactNumber(y.views)}${diffBadge(y.views, avg.views)}</span>
+        <span class="my-channel-sub">7일 평균 ${compactNumber(avg.views || 0)}</span>
+      </div>
+      <div class="my-channel-stat">
+        <span class="my-channel-label">구독 증감</span>
+        <span class="my-channel-value">${subsStr}</span>
+        <span class="my-channel-sub">7일 평균 ${(avg.subscribers_net >= 0 ? "+" : "") + (avg.subscribers_net || 0)}</span>
+      </div>
+      <div class="my-channel-stat">
+        <span class="my-channel-label">시청 지속률</span>
+        <span class="my-channel-value">${y.avg_view_percentage.toFixed(1)}%${diffBadge(y.avg_view_percentage, avg.avg_view_percentage)}</span>
+        <span class="my-channel-sub">7일 평균 ${(avg.avg_view_percentage || 0).toFixed(1)}%</span>
+      </div>
+      <div class="my-channel-stat">
+        <span class="my-channel-label">평균 시청 시간</span>
+        <span class="my-channel-value">${durStr}</span>
+        <span class="my-channel-sub">좋아요 ${compactNumber(y.likes)} · 댓글 ${compactNumber(y.comments)}</span>
+      </div>
+      ${topVideo ? `
+      <div class="my-channel-stat my-channel-stat--wide">
+        <span class="my-channel-label">최근 TOP 영상 (최근 28일)</span>
+        <span class="my-channel-value">CTR ${topVideo.ctr_pct.toFixed(1)}% · 지속률 ${topVideo.avg_view_percentage.toFixed(1)}%</span>
+        <span class="my-channel-sub">${compactNumber(topVideo.views)}뷰 · 좋아요 ${compactNumber(topVideo.likes)} · 댓글 ${compactNumber(topVideo.comments)}</span>
+      </div>` : ""}
+    </div>
+  `;
+}
+
 function renderSummaryView() {
   document.getElementById("summary-text").textContent = appData.digest.summary || "요약 데이터가 없습니다.";
   document.getElementById("creator-takeaway").textContent = appData.digest.creator_takeaway || "크리에이터 액션 데이터가 없습니다.";
@@ -747,6 +811,8 @@ function renderSummaryView() {
       </article>
     `).join("")
     : `<div class="empty-state">추천 액션이 아직 없습니다.</div>`;
+
+  renderMyChannelStats();
 }
 
 function populateFilters() {

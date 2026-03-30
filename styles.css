@@ -1068,3 +1068,67 @@ h1 {
     white-space: normal;
   }
 }
+
+/* 내 채널 실적 */
+.panel--full {
+  grid-column: 1 / -1;
+}
+
+.my-channel-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 12px;
+  padding: 4px 0;
+}
+
+.my-channel-stat {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  padding: 14px 16px;
+  background: var(--bg-secondary, #f7f7f5);
+  border-radius: 6px;
+  border: 1px solid var(--border, #e5e5e3);
+}
+
+.my-channel-stat--wide {
+  grid-column: span 2;
+}
+
+.my-channel-label {
+  font-size: 11px;
+  color: var(--text-muted, #9b9a97);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.my-channel-value {
+  font-size: 20px;
+  font-weight: 700;
+  color: var(--text-primary, #1a1a1a);
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.my-channel-sub {
+  font-size: 12px;
+  color: var(--text-muted, #9b9a97);
+}
+
+.my-channel-diff {
+  font-size: 12px;
+  font-weight: 600;
+  padding: 2px 6px;
+  border-radius: 4px;
+}
+
+.my-channel-diff.diff-up {
+  background: #d3f9d8;
+  color: #2b8a3e;
+}
+
+.my-channel-diff.diff-down {
+  background: #ffe3e3;
+  color: #c92a2a;
+}
