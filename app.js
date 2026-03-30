@@ -213,11 +213,50 @@ function splitBulletText(value, limit = 5) {
 }
 
 function transcriptParagraphs(value) {
-  return `${value || ""}`
-    .replace(/\r/g, "")
+  const text = `${value || ""}`.replace(/\r/g, "").trim();
+  if (!text) {
+    return [];
+  }
+
+  const explicitParagraphs = text
     .split(/\n{2,}/)
     .map((chunk) => chunk.trim())
     .filter(Boolean);
+  if (explicitParagraphs.length > 1) {
+    return explicitParagraphs;
+  }
+
+  const sentenceUnits = text
+    .replace(/\n+/g, " ")
+    .split(/(?<=[.!?])\s+(?=[가-힣A-Za-z0-9"'(])/)
+    .map((item) => item.trim())
+    .filter(Boolean);
+
+  if (!sentenceUnits.length) {
+    return [text];
+  }
+
+  const paragraphs = [];
+  let bucket = "";
+  let sentenceCount = 0;
+
+  sentenceUnits.forEach((sentence) => {
+    const candidate = bucket ? `${bucket} ${sentence}` : sentence;
+    if (bucket && (candidate.length > 320 || sentenceCount >= 3)) {
+      paragraphs.push(bucket.trim());
+      bucket = sentence;
+      sentenceCount = 1;
+      return;
+    }
+    bucket = candidate;
+    sentenceCount += 1;
+  });
+
+  if (bucket.trim()) {
+    paragraphs.push(bucket.trim());
+  }
+
+  return paragraphs.filter(Boolean);
 }
 
 function creatorIdeaPoints(video) {

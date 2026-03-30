@@ -92,6 +92,11 @@ TRANSLATION_PROMPT = (
     "반드시 같은 키만 유지하고 JSON만 반환하라. "
     "문장 톤은 AI 유튜브 크리에이터가 바로 이해할 수 있는 수준으로 간결하게 맞춘다."
 )
+LIST_TRANSLATION_PROMPT = (
+    "다음 문자열 배열을 자연스럽고 간결한 한국어 bullet 포인트 배열로 번역/정리하라. "
+    "원문이 너무 길면 핵심만 남겨 1~2문장으로 압축하라. "
+    "반드시 JSON 배열만 반환하라."
+)
 
 
 def normalize_label(value: str | None) -> str:
@@ -203,6 +208,40 @@ def translate_analysis_fields_with_gemini(analysis: dict[str, Any]) -> dict[str,
         }
     except Exception:
         return {}
+
+
+def translate_list_items_with_gemini(items: list[str]) -> list[str]:
+    api_key = os.getenv("GEMINI_API_KEY")
+    if not api_key or not items:
+        return []
+
+    model = os.getenv("GEMINI_MODEL", DEFAULT_GEMINI_MODEL)
+    payload = {
+        "systemInstruction": {"parts": [{"text": LIST_TRANSLATION_PROMPT}]},
+        "generationConfig": {"responseMimeType": "application/json"},
+        "contents": [
+            {
+                "role": "user",
+                "parts": [{"text": json.dumps(items, ensure_ascii=False)}],
+            }
+        ],
+    }
+
+    try:
+        response = request_json(
+            GEMINI_ENDPOINT_TEMPLATE.format(model=model),
+            method="POST",
+            params={"key": api_key},
+            payload=payload,
+            timeout=60,
+        )
+        content = clean_json_text(response["candidates"][0]["content"]["parts"][0]["text"])
+        parsed = json.loads(content)
+        if isinstance(parsed, list):
+            return normalize_text_list(parsed, limit=5)
+    except Exception:
+        return []
+    return []
 
 
 def infer_format(title: str, description: str) -> str:
@@ -340,12 +379,30 @@ def transcript_sentence_candidates(text: str, *, limit: int = 5) -> list[str]:
     return [item for item in parts if item][:limit]
 
 
+def expand_highlight_candidates(items: list[Any], *, limit: int = 8) -> list[str]:
+    expanded: list[str] = []
+    seen: set[str] = set()
+    for raw in items:
+        normalized = sanitize_highlight_line(raw)
+        if not normalized:
+            continue
+        segments = [normalized]
+        if len(normalized) > 220 or normalized.count(". ") + normalized.count("? ") + normalized.count("! ") >= 3:
+            segments = transcript_sentence_candidates(normalized, limit=3) or [normalized[:220].strip()]
+        for segment in segments:
+            key = segment.lower()
+            if not segment or key in seen:
+                continue
+            seen.add(key)
+            expanded.append(segment)
+            if len(expanded) >= limit:
+                return expanded
+    return expanded
+
+
 def safe_transcript_highlights(video: dict[str, Any], candidate_highlights: list[str] | None = None) -> list[str]:
-    cleaned = [
-        sanitize_highlight_line(item)
-        for item in (candidate_highlights if candidate_highlights is not None else video.get("transcript_highlights", []))
-    ]
-    filtered = [item for item in cleaned if item]
+    source_items = candidate_highlights if candidate_highlights is not None else video.get("transcript_highlights", [])
+    filtered = expand_highlight_candidates(list(source_items or []), limit=8)
     if len(filtered) < 5 and video.get("transcript_text"):
         extra = transcript_sentence_candidates(video.get("transcript_text", ""), limit=8)
         merged: list[str] = []
@@ -590,6 +647,12 @@ def ensure_korean_output(video: dict[str, Any], analysis: dict[str, Any]) -> dic
 
     for field in KOREAN_LIST_FIELDS:
         values = normalize_text_list(localized.get(field), limit=5)
+        if field == "transcript_highlights":
+            values = safe_transcript_highlights(video, values)
+            if values and not any(has_hangul(item) for item in values):
+                translated_values = translate_list_items_with_gemini(values)
+                if translated_values:
+                    values = translated_values
         localized[field] = values if values and any(has_hangul(item) for item in values) else fallback[field]
 
     return localized
