@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-30T04:57:38+00:00",
+  "generated_at": "2026-03-30T06:07:38+00:00",
   "source": "sqlite_export",
   "video_count": 34,
   "videos": [
@@ -10,47 +10,58 @@
       "description": "힉스필드 시네마 스튜디오 2.5 체험하기: https://higgsfield.ai/s/higgsfield-ai-cinematic-workflow-success_wiki-ppKBei\n\nAI 영상 제작의 가장 큰 숙제였던 '캐릭터 일관성'이 드디어 해결되었습니다. \nHiggsfield Cinema Studio 2.5는 단순한 AI Video Generator를 넘어, 전문가 수준의 AI Filmmaking을 가능하게 하는 강력한 툴입니다. \n\n이 영상에서는 나만의 배우(Actor)를 설정하고, 전용 로케이션을 만들어, 실제 영화 같은 Cinematic AI Video를 제작하는 모든 과정을 담았습니다.\n\n🔑 핵심 인사이트 (Key Insights)\n1. Character Consistency: 모든 장면에서 동일 인물을 유지하는 Higgsfield만의 독보적 기술\n2. AI Actor Creation: 성별, 인종, 체형까지 정교하게 커스텀하는 나만의 배우 제작법\n3. Cinematic Camera Control: Impact, Speed up 등 프로급 카메라 무빙 연출 노하우\n4. Exclusive Rights: 생성한 캐릭터에 대한 판권을 직접 소유하는 혁신적인 시스템 설명\n5. Pro-level Workflow: 액터와 로케이션을 결합해 한 편의 영화를 완성하는 전체 프로세스\n\n📝 상세 가이드 요약 (Detailed Guide Summary)\n🚀 Part 1. Creating Actors & Locations: 나만의 배우와 영화 배경을 설정하고 생성하는 법\n🚀 Part 2. Scene Composition: 생성된 에셋을 조합해 Cinematic AI Video 장면 연출하기\n🚀 Part 3. Professional Directing: 카메라 옵션과 장르 설정을 통해 영화 퀄리티 극대화하기\n\n⏰ 타임라인\n0:00 Higgsfield Cinema Studio 2.5의 압도적인 캐릭터 일관성\n1:26 AI Filmmaking의 미래, '아레나 제로' 예시 분석\n2:14 Step 1: 내 영화의 주연 배우(Cast) 직접 만들기\n4:42 캐릭터 판권(Exclusive Right)과 힉스필드의 비전\n5:26 Step 2: AI Video Generator로 영화 속 장소(Location) 구현하기\n6:42 Step 3: 배우와 장소를 결합해 Cinematic 씬 제작하기\n7:49 카메라 옵션 활용법: 임팩트(Impact) 있는 추격신 연출\n10:24 실제 제작 사례: 힉스필드로 직접 제작한 첩보 스파이물 공개\n11:12 무제한 생성을 위한 비즈니스 및 울트라 플랜 혜택 안내\n\n#Higgsfield #CinemaStudio #AIVideoGenerator #AIFilmmaking #CinematicAIVideo #AI영화 #힉스필드 #성공지식백과",
       "published_at": "2026-03-30T01:32:42Z",
       "duration_seconds": 720,
-      "view_count": 723,
-      "like_count": 53,
-      "comment_count": 3,
-      "engagement_rate": 0.07745504840940526,
+      "view_count": 1120,
+      "like_count": 79,
+      "comment_count": 4,
+      "engagement_rate": 0.07410714285714286,
       "thumbnail_url": "https://i.ytimg.com/vi/5AUWYlb1_U0/hqdefault.jpg",
       "video_url": "https://www.youtube.com/watch?v=5AUWYlb1_U0",
       "format": "워크플로우 튜토리얼",
       "hook_type": "문제 해결",
       "title_pattern": "핵심 포인트 직설형",
-      "one_line_summary": "이 영상은 automation 이슈를 워크플로우 튜토리얼 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "why_it_works": "문제 해결 훅으로 관심을 끌고, 워크플로우 튜토리얼 형식으로 내용을 빠르게 정리해 시청자가 '바로 써먹을 수 있다'고 느끼게 만듭니다.",
-      "recommendation": "훅 구조: 도입 15초 안에 '문제 해결' 관점으로 문제를 못 박고, 왜 지금 봐야 하는지 먼저 선언합니다. • 복제할 포장 요소: 워크플로우 튜토리얼 형식을 유지하되 automation를 실제 사용 장면 1개와 결과 변화 2개로 더 좁혀 설명합니다. • 비어 있는 콘텐츠 영역: 'automation가 내 작업 흐름에서 어디에 꽂히는가'를 사례 중심으로 보여주는 후속 영상이 비어 있습니다. • 추천 제목: automation 이슈를 내 채널 관점으로 다시 정리해보자 • 썸네일 카피 힌트: automation 지금 봐야 할 3가지",
-      "transcript_status": "failed",
-      "transcript_source": "none",
-      "transcript_language": "",
-      "transcript_text": "",
-      "analysis_date": "2026-03-30T04:56:36+00:00",
+      "one_line_summary": "AI가 나만의 배우와 배경을 설정하여 영화 같은 영상을 무한대로 만들어주는 Higgsfield Cinema Studio 2.5 활용법과 실제 제작 과정을 보여주는 영상입니다.",
+      "why_it_works": "AI 영상 제작의 고질적인 문제였던 '캐릭터 일관성'을 해결한 Higgsfield Cinema Studio 2.5를 소개하며, 나만의 배우와 배경을 설정하고 영화 같은 장면 연출, 카메라 컨트롤까지 가능한 과정을 상세히 보여주어 시청자들의 호기심과 활용 의지를 자극합니다. 특히 실제 제작 사례와 함께 툴의 가능성을 입증하며 설득력을 높입니다.",
+      "recommendation": "• 'AI 배우 vs 실제 배우' 또는 'AI 감독 A vs AI 감독 B'와 같이 AI 영화 제작 툴의 특정 기능(배우 일관성, 카메라 워크 등)을 중심으로 두 가지 AI 툴 또는 두 가지 설정 방식을 비교하는 VS 콘텐츠 기획 • 'AI로 단편 영화 만들기: 30일 챌린지', 'AI로 SF 액션 코믹 만들기' 등 일반인이 따라 할 수 있는 구체적인 목표 설정 및 결과물 도출 실험 콘텐츠 제작 • AI가 아직 제대로 다루지 못하는 '감정 연기의 미묘함' 또는 '배우의 예상치 못한 애드리브' 등을 AI로 구현하려는 시도 또는 한계점을 분석하는 콘텐츠 • 챗GPT로 스토리를 짜고, Higgsfield로 영상을 제작하는 등 두 개 이상의 AI 툴을 결합한 워크플로우 실험 • AI 영화 제작에서 '저작권' 문제나 'AI 배우의 독점권' 등 최신 이슈를 다루는 콘텐츠",
+      "transcript_status": "available",
+      "transcript_source": "apify",
+      "transcript_language": "ko",
+      "transcript_text": "[비명]\n픽스필드에서 엄청난 걸 또\n내놨습니다. 바로 시네마 스튜디오\n2.5버전인데요.\n지금 보시는 것처럼 모든 장면마다\n캐릭터와 똑같지만 일관성이\n유지되면서이 영화가 만들어지고\n있거든요. 또 단순하게 캐릭터의\n일관성뿐만 아니라이 스튜디오로\n만들어지는 모든 영상들이 저희가 마치\n영화에 나오는 것 같은 장면들처럼\n보입니다. 지금 되게 트랜스포머 장면\n같았죠? 이게 간단하게 어떻게\n만들어지는 거냐면 여러분이 액터를\n생성을 하고요. 왼쪽 위가\n액터입니다. 그리고 로케이션을\n만듭니다. 그리고이 액터와 로케이션을\n합쳐서 장면을 만들면 여러분이 만든\n배우와 장소에 영화가 만들어지는\n겁니다. 다른 예시도 살펴보면 이런\n식으로 외계인과 어떤 좀 행성의\n바닷가 같죠? 여기서 이렇게 외계인이\n말을 하는 장면도 여러분이 만들 수가\n있고요.이 배우를 내 입맛대로 만들\n수 있기 때문에 이런 원시인 같은\n배우도 여러분이 충분히 만들 수가\n있습니다. 혹시도이 히스필드 시네마\n스튜디오를 와서 제가 원하는\n배우들과이 장면들을 다양하게 만들어\n봤는데요. 한번 여러분께 제물이\n어땠는지이 영상 중간에 한번 살짝\n보여 드릴 예정입니다. 그래서 오늘\n영상에서이 시네마 스튜디오를 어떻게\n활용하는지 보여 드리면서 나만의 배우\n그리고 나만의 장면으로 영화 만드는\n걸 같이 해 볼 겁니다. 자, 그러면\n오늘의 성공 지패과 바로 시작해\n보도록 하겠습니다. 자, 우선\n당연하게도이 기능을 활용하기 위해서는\n여러분이 픽스필드를 와야겠죠? 바로\n처음 화면에 보이는이 시네마\n스튜디오가 있습니다. 바로 이렇게\n상단에 시네마 스튜디오 기능이\n보이는데 여기 나오는 예시 영상\n있죠? 이게 히스필드에서 만든 진짜\n영화입니다. 여기 나와 있는 배우의\n판권을 사 가지고이 영화를 만들었다고\n제가 들었거든요. 요것도 이따가 제가\n잠깐 보여 드릴 건데 아레나 제로라고\n하는 영화입니다. 픽스필드 오리지널\n시리즈에서 이거 볼 수 있다고 하죠.\n우선 만드는 방법부터 빨리 알려\n드리겠습니다. 자,요 상단을 보시면이\n시네마 스튜디오 2.5라고 적혀 있는\n버튼이 있습니다.이 해당 버튼을\n클릭을 해 주시고요. 자, 그러면\n여기서 여러분이 이제 프로젝트를\n만들고이 안에서 이미지나 비디오\n그리고 캐릭터와 장소, 신 같은 거를\n만들 수가 있는데 어, 새로운\n프로젝트로 보여 드리도록 하겠습니다.\n이제 여기서 가장 중요한게 두 가지가\n있습니다. 첫 번째는 바로 여러분의\n캐릭터를 먼저 만드는 겁니다. 우측\n하단에 캐릭터 버튼이 있어요. 요거를\n누르셔도 되고 혹은 위에서 퀘스트를\n누르셔도 됩니다. 퀘스트를 누르면 내\n영화에 사용할이 배우를 만들 수가\n있습니다. 다양한 옵션들을 직접\n설정할 수가 있는데 대표적으로는 이제\n장르가 있겠죠. 내가 액션 영화를\n만들지, 모험 영화를 만들지,\n아니면은 호러 영화를 만들지,\n사이파이를 만들지 요런 거를 선택을\n할 수가 있고 전 액션 한번 해\n보도록 하겠습니다. 그리고 그다음\n옵션을 눌러 줍니다. 이제 이거 같은\n경우는 여러분이 영화를 제작사를\n차린다고 했었을 때 얼마까지 돈을 쓸\n거냐, 그러니까 배우한테 얼마를 줄\n거냐. 아마 요거에 따라서 퀄리티가\n좀 달라지지 않을까 싶은데 어 요건\n제 테스트 중에 있긴 하거든요. 저는\n기본적으로 그냥 가장 높은 미친\n액수를 주기로 했습니다. 500밀리언\n달러라고 선택을 해 놨고요. 그리고\n그다음은 연도. 내가 만들에\n해당하는 영화일지. 저는 이제 가장\n최신을 만들고 싶어 가지고\n2020년대로 설정을 해 줬고요.\n아, 참고로 여기 나와 있는 기능들을\n여러분이 굳이 다 선택을 하지\n않으셔도 됩니다. 이렇게 세 가지만\n선택하고 만들어도 만들어지긴\n하거든요. 그런데 이제 당연히\n세부적으로 설정하면 훨씬 더 액터가\n잘 만들어지겠죠. 여러분 캐릭터의 뭐\n성격이라던가 저는 이제 액션을\n했으니까 히어로로 하겠습니다. 그리고\n아이덴티티 남잔인지 여자인지 남자로\n하고 한번 여자로 해 볼까요? 어,\n여자 복사가 조금 더 멋있을 것\n같아서 그리고 레이스. 요건 이제\n인종을 선택할 수가 있겠죠?\n에이시안으로 할 거고. 나이. 나이는\n한 30대로 해 보도록 하겠습니다.\n그리고 채형도 만들 수가 있어요.\n채형 같은 경우는 아틀레틱 건강한\n채형으로 만들 거고요.도 크게\n해주고. 그다음에 나오는게 뭐 요런\n아이 컬러, 헤어스타일, 헤어\n텍스처, 헤어 컬러가 있는데 요건\n제가 따로 건드지 않고 넘어갈게요.\n그리고 내가 추가해 주고 싶은 내\n캐릭터만의 디테일이 있다. 그러면은\n여기 나와 있는 프리셋을 선택하셔도\n되고요. 아니면 커스텀을 입력을\n하셔도 됩니다. 저는 흉터가 있다.\n요거 한번 선택해 주고 아웃핏은 제가\n딱히 뭐 선택하지 않고 바로 만들어\n보도록 하겠습니다. 그러면 이렇게\n퀘스트를 만들고 있다라고 하죠. 요게\n만들어질 동안 제가 맞는 캐릭터를 좀\n먼저 보여 드릴게요. 저 같은 경우는\n이제 중세 시대 뭔가 좀 판타지 부을\n찍고 싶었어 가지고 요런 기사들\n캐릭터를 만들었었거든요. 요런\n캐릭터도 뽑혔었고 약간 빌런 같긴\n하지만 그래도 주인공입니다. 그래서\n요렇게 또 뽑아 봤습니다. 여기 나와\n있는 배우들은 제가 만든\n여배우들입니다. 뭐 옛날 고전 영화에\n필요한 배우들부터 해서 이제 최신\n영화 첫보물 영화에 필요한 배우들까지\n다양하게 만들어 봤고요. 내가 원하는\n배우들을 이렇게 많이 만들어 놓으면은\n여러분이 영화가 조금 더 내용이\n풍부해질 겁니다. 한번 돌아가서 이제\n만들어진 여전사를 좀 볼 건데\n이름들도 자동적으로 붙여 줘요.\n저는이 중에서 여기 마지막이\n박수진이라는 배우로 해 보도록\n하겠습니다.이 캐릭터 설정도 잡혀\n있죠. 전직 스화팀이었고\n2018년 지하철 폭발에 휩쓸려서\n상처가 났다. 지금은 어세신을 잡고\n있다. 뭐 이렇게 나와 있는데네\n좋습니다. 요거를 제가 그대로 쓰도록\n하고이 왼쪽 밑에 익스클루시브\n라이라는게 있어요. 요거를 클릭을\n하면 한 권을 내가 살 수가\n있습니다. 되게 특이하죠?이 이\n히스필드가 크리에이터 플랫폼에서 아마\n영화 플랫폼으로 진화를 하려는게\n아닌가 싶을 정도로 요런 기능이 좀\n들어가 있거든요. 요런 것도 있고요.\n저는 뭐 딱히 사진 않겠습니다.\n캐릭터를 만들었으면 당연히 그다음에는\n배경을 만들어야겠죠. 퀘스트를\n끄고요. 이미지를 눌러 보도록\n하겠습니다. 자, 그리고요 이미지에서\n오른쪽 밑에 프롬프트 창의 캐릭터와\n장소를 눌러 주시면 여기 새로운\n장소라는 아이콘이 보입니다. 요거를\n클릭을 해 주시고 방금 저희가 만든\n캐릭터와 어울릴 만한 장소들을\n프롬프트로 입력을 해 주시면 돼요.\n뭐 예를 들어서이 전직 스팀이\n암살자를 쫓다가 뭐 길거리 뒷골목에서\n싸움이 일어난다. 그럼 뒷골목이\n필요하겠죠. 이런 식으로 뭐 비가\n추적추적 내리는 서울 뒷골목 여러분이\n한 번에 만들 때 몇 개를 생성할지도\n정할 수가 있습니다. 저는 기본적으로\n세 개에서네 개 정도 뽑거든요.\n그래서 이렇게 프롬프트를 입력을 한\n다음에 제너레이트 버튼을 눌러\n줍니다. 그러면 지금 저희가 들어와\n있는 이미지 탭에서이 로케이션들이\n만들어지는 걸 기다릴 수가 있고\n저희가 뒷골목 말고도 뭐 옥상에서\n싸운다거나 그런 것도 있을 수\n있잖아요. 그래서 뭐 높은 고층 건물\n옥상 헬리콥터 주차장 요런 장면도\n한번 만들어 보도록 하겠습니다. 자,\n이게 만들어질 동안 뒷골목들이 다\n만들어졌는데 요런 배경들 뭔가 액션\n영화에서 볼 장면들이죠. 요런 것도\n확인할 수가 있고 이렇게 푸름빛이\n나는 뒷골목도 볼 수가 있습니다.\n여러분이 마음에 드는 장면을 만들거나\n혹은 만들어진 장면들 중에서 마음에\n드는 로케이션을 그대로 사용할 수가\n있고요. 자, 건물 옥상까지\n만들어졌는데 이러면 이제 저희가\n원하는 영화씨는 어떻게 만드느냐?\n자, 우선 저희가 어떤 캐릭터이\n캐릭터 쓸 거죠? 여기서 해당\n캐릭터를 사용하겠다라는 버튼\n보입니다. 이걸 눌러 주시고 이걸\n눌러 주면이 밑에 프롬프트에 추가가\n되거든요. 요렇게 추가가 돼 있는 걸\n확인할 수가 있죠. 장면도\n똑같습니다. 내가 원하는 장면을이\n장면을 사용하겠다.이 버튼 누르면이\n프롬프트 밑에 들어가게 됩니다.요\n상태로 비디오를 눌러 줍니다. 자,\n그러면 저희가 원하는 배우와 저희가\n원하는 장소가 들어간 상태로 내가\n원하는 영화의 장면을 만들 수가\n있습니다. 자, 이렇게 넣은 상태로\n우선 만들어 볼 건데요. 여러 가지\n옵션들이 있죠. 근데 요거는 제가\n우선 만들고 나서 설명을 해\n드리겠습니다. 간단하게 전직 요원이\n암살자를 뒷골목에서 쫓아가는\n추격신이라고 적어 줬고요. 한번 두\n개를 만들어 볼게요. 아무런 옵션\n세팅하지 않고 두 개를 만든 다음에이\n결과물을 보고 그다음에 옵션을 세팅한\n다음에 다시 보여 드리겠습니다. 자,\n영상이 다 만들어졌는데 한번 보도록\n하겠습니다. 먼저\n대략적으로 이런 장면들이 나왔는데\n요거를 조금 더 잘 만들 수가\n있습니다. 바로 아까 말씀드렸던이\n밑에 옵션들을 바꿔 주시면 되는데\n요거를 제가 조금 확대해서 보여\n드리겠습니다. 우선 전체적인 속도\n요건 제가 오토를 안 만들고 액션이기\n때문에 갈수록 빨라지는 스피드업을\n쓰거나 혹은 임팩트를 쓰도록\n하겠습니다. 임팩트가 조금 더 나을\n것 같고요. 장면 같은 경우는 기존과\n똑같이 멀티샷 오토로 할 거고. 자,\n한 가지 바꾸는게이 비디오를 만들\n때이 장면을 만들 때 장르를 선택할\n수가 있습니다. 저희 같은 경우는\n추격신이니까 액션이겠죠. 액션을\n선택을 해 주시고. 자,이 상태로\n만들 겁니다. 물론 내가 여기서\n스타트 프레임이나 엔드 프레임 있으면\n훨씬 더 구도를 잘 잡을 수가 있긴\n하지만 지금이 추격신 자체에서는\n그렇게까진 필요가 없고요. 그래서\n요건 제가 그대로 입력을 해서 다시\n한번 만들어서 결과물을 보여 드리도록\n하겠습니다. 네. 네. 그렇게 해서\n만들어진 결과물입니다. 네. 그렇게\n옵션들을 바꿔서 만들어진 결과물\n하나를 같이 보도록 하겠습니다.\n임팩트 부분이었죠, 이게. 네.\n이렇게 장면이 시작하고 이렇게 임팩트\n있는 부분까지 요런 식으로 영상이\n훨씬 더 잘 만들어지는 걸 확인할\n수가 있습니다. 그래서 내가 카메라\n디렉팅을 어떻게 하느냐에 따라서\n결과물이 달라지거든요. 이걸 되게 잘\n만든게 필드가 만든 영화입니다. 지금\n여기 아레나 제로라고 해서이\n10분짜리 영상에 다 익스필드가\n본인들의 AI를 활용해서 만든\n영화거든요. 보면 이렇게 슬로우\n모션을 되게 잘 쓴다거나이 시네마\n스튜디오의 설정들을 잘 다뤄서 요런\n장면들을 뽑아냈습니다. 물론 이거는\n많이 사용하면 사용할수록 훨씬 더\n영상을 자 뽑는 거기 때문에 어 처음\n하시면은요 정도 퀄리티로 하기에는 좀\n어려울 순 있습니다. 근데 봤을 때이\n시네마 스튜디오로 진짜 이런 영화급을\n만들 수 있다라는 건 진짜 놀라운\n사실인 것 같고요. 아까 영상 초반에\n저도 제 영화를 만들어 봤다고\n했잖아요. 이제 제가 제가 구상한\n스토리는 나만의 요원이 북한으로\n침투하는 그런 어떤 스파이 첩보물을\n짰었는데 한번요 영상 편집한 걸 보여\n드리도록 하겠습니다.\n>> 좌표 확인했습니다.\n지금 바로 출발합니다.\n>> 타겟 확인했습니다.\n철수 신호를 기다리겠습니다.\n1차 저지선 통과. 현재 시계\n제로입니다.\n>> 네. 그래서 이런 식으로 저도\n히스필드의 시네마 스튜디오를 활용해서\n저만의 영화를 만들어 봤는데 요거를\n이제 카메라를 조금 더 잘 만지고\n프롬프트를 잘 만지고 요런 식으로\n하다 보면 어 훨씬 더 퀄리티가\n높아질 거라고 생각이 듭니다. 네.\n그래서 오늘 이렇게 히스필드의 시네마\n스튜디오를 활용해서 영화를 만들어\n보고 여러분이 어떤 설정을 세팅을\n해야 훨씬 더 좋은 퀄리티를 뽑아낼\n수 있을지도 같이 살펴봤는데요.\n지금까지 만들었던 영상 만들기와는\n진짜 차원이 다릅니다. 진짜 내가\n영화의 디렉터가 된 것마냥 하나의\n플랫폼에서 정말 다양한 결과물을\n자유롭게 만들 수 있기 때문에 아직\n한 번도 사용해 보지 않으신\n분들이라면이 히스필드 시네마\n스튜디오를 적극 추천드리고요.이 이\n영화 기능이 아니더라도 정말\n크리에이터로서 어떤 콘텐츠를 만들 때\n필요한 모든 툴이 들어가 있는\n플랫폼이기 때문에 진짜 강력하게\n추천드립니다. 현재 연간으로 해당\n플랫폼을 이용하실 시 훨씬 더 강력한\n혜택을 저렴하게 이용할 수가 있고요.\n지금 비즈니스 플랜이라고 새로 나온\n것 같은데 모든 모델을 뭐 기간 한정\n없이 무제한으로 쓸 수 있는 것\n같습니다. 그래서 내가 이미지나 영상\n제작하시는 분들이라면 어 꼭 한번이\n비즈니스 플랜이나 울트라 플랜 체크해\n보시기 바랍니다. 물론 연간으로\n가입하지 않고이 월간으로 가입하는\n플랜도 존재합니다. 요런 식으로\n이용을 해 보시면 되겠습니다. 제가\n링크는 거보기와 고정 댓글에 달아\n놓도록 하겠습니다. 네, 오늘\n히스필드의 시네마 스튜디오를 활용해서\n이렇게 영화를 같이 만들어 봤는데요.\n이런 콘텐츠를 만드시는 분들께 제\n영상이 조금 도움이 되었으면 합니다.\n네, 제 오늘 영상은 여기까지고요.\n영상이 도움이 되셨다면 좋아요와\n구독, 그리고 알림 설정까지\n부탁드립니다. 그러면 또 다음에 좋은\n영상으로 찾아뵙도록 하겠습니다.\n지금까지 성공 지시 배가였습니다.\n감사합니다.",
+      "analysis_date": "2026-03-30T06:05:49+00:00",
       "channel_name": "성공지식백과",
       "topic_tags": [
-        "automation"
+        "자동화"
       ],
       "keywords": [
-        "automation",
-        "배우",
-        "0명",
-        "카메라",
-        "0대"
+        "AI영화제작",
+        "AI배우",
+        "캐릭터일관성",
+        "영상편집AI",
+        "HiggsfieldCinemaStudio",
+        "AIfilmmaking",
+        "AI감독",
+        "AI스토리텔링"
       ],
       "tools": [],
       "flow": [
-        "처음 15초 안에 문제를 선명하게 정의하고 왜 지금 봐야 하는지 못 박는다.",
-        "중간 구간에서 툴, 사례, 비교 포인트를 빠르게 제시해 정보 밀도를 높인다.",
-        "마지막에는 시청자가 바로 따라할 수 있는 다음 액션과 적용 예시로 닫는다."
+        "Higgsfield Cinema Studio 2.5 소개 및 압도적인 캐릭터 일관성 강조",
+        "AI 영화 제작의 미래 예시 ('아레나 제로') 분석",
+        "Step 1: 나만의 배우(AI Actor) 생성 과정 시연 (장르, 예산, 외형, 디테일 설정)",
+        "캐릭터 판권(Exclusive Rights) 기능 소개",
+        "Step 2: 영화 속 장소(Location) 생성 과정 시연 (프롬프트 입력 및 결과 확인)"
       ],
       "claims": [
-        "단순 소개보다 실제 사용 장면을 바로 보여주는 구조가 반응을 만든다.",
-        "큰 담론보다 작은 병목 하나를 해결해주는 포장 방식이 클릭으로 이어지기 쉽다."
+        "모든 장면에서 캐릭터 일관성이 유지되는 AI 영상 제작 가능",
+        "나만의 배우(성별, 인종, 체형 커스텀) 생성 가능",
+        "전문가 수준의 AI 영화 제작 (Cinematic AI Video) 가능",
+        "생성된 캐릭터에 대한 판권 직접 소유 가능",
+        "액터와 로케이션 결합으로 영화 완성 가능한 프로 워크플로우 제공"
       ],
       "transcript_highlights": [
-        "힉스필드 시네마 스튜디오 2.5 체험하기: https://higgsfield.ai/s/higgsfield-ai-cinematic-workflow-success_wiki-ppKBei AI 영상 제작의 가장 큰 숙제였던 '캐릭터 일관성'이 드디어 해결되었습니다.",
-        "Higgsfield Cinema Studio 2.5는 단순한 AI Video Generator를 넘어, 전문가 수준의 AI Filmmaking을 가능하게 하는 강력한 툴입니다."
+        "\"모든 장면마다 캐릭터와 똑같지만 일관성이 유지되면서 이 영화가 만들어지고 있거든요.\"",
+        "\"나만의 배우(Actor)를 설정하고, 전용 로케이션을 만들어, 실제 영화 같은 Cinematic AI Video를 제작하는 모든 과정을 담았습니다.\"",
+        "\"캐릭터 일관성: 모든 장면에서 동일 인물을 유지하는 Higgsfield만의 독보적 기술\"",
+        "\"Step 1: 내 영화의 주연 배우(Cast) 직접 만들기. 성별, 인종, 체형까지 정교하게 커스텀\"",
+        "\"Step 2: AI Video Generator로 영화 속 장소(Location) 구현하기\""
       ],
       "top_comments": [
         {
@@ -73,6 +84,15 @@
         },
         {
           "video_id": "5AUWYlb1_U0",
+          "comment_id": "UgyUFBEPoa8WQeRPCKx4AaABAg",
+          "author": "@arcardia",
+          "text": "씨댄스  2.0 발톱 정도 인듯...",
+          "like_count": 0,
+          "reply_count": 0,
+          "published_at": "2026-03-30T05:50:49Z"
+        },
+        {
+          "video_id": "5AUWYlb1_U0",
           "comment_id": "Ugx0xzB_0-ZJqqqv2UF4AaABAg",
           "author": "@이보람-k5u",
           "text": "유용한 정보 잘 봤습니다!! SW님, 감사드려요!! 💐🙏",
@@ -89,39 +109,43 @@
       "description": "Want to try Image Generation Designed for well... Design! Check the Amazing Recraft with my link: https://go.recraft.ai/MattVidPro Huge thanks to Recraft for Sponsoring today's video! In today's video, I compared Suno 5.5 against Google’s Lyria 3 across a bunch of different prompts and styles, from rock anthems to chiptune themes to weird genre-switching songs. Lyria is impressively clear and polished, but for me Suno still feels more alive, more creative, and more memorable. I also tested some of Suno’s newer studio and voice features to see how far AI music has come.\n\n▼ Link(s) From Today’s Video:\nSuno 5.5: https://suno.com/\nLyria 3 Pro: https://blog.google/innovation-and-ai/technology/ai/lyria-3-pro/\nGemini Lyria 3: https://gemini.google.com/\nSunauto: https://sonauto.ai/\nMattVidPro Discord: https://discord.gg/mattvidpro\nFollow Me on Twitter: https://twitter.com/MattVidPro\nBuy me a Coffee! https://buymeacoffee.com/mattvidpro\n\n▼ Extra Links of Interest:\nGeneral AI Playlist: https://www.youtube.com/playlist?list=PLrfI66qWYbW3acrBQ4qltDBsjxaoGSl3I\nInstagram: instagram.com/mattvidpro\nTiktok: tiktok.com/@mattvidpro\nGaming & Extras Channel: https://www.youtube.com/@MattVidProGaming\n\nLet's work together!\n- For brand & sponsorship inquiries: https://tally.so/r/3xdz4E\n- For all other business inquiries: mattvidpro@smoothmedia.co\nThanks for watching MattVideoProductions! I make all sorts of videos here on Youtube! Technology, Tutorials, and Reviews! Enjoy Your stay here.\nAll Suggestions, Thoughts And Comments Are Greatly Appreciated\n\n00:00 Intro + New Features\n01:52 Music Generations and Comparisons\n07:50 Recraft Sponsor Message\n09:19 Further Comparisons\n26:57 Suno v5.5 Voice Personalization\n36:14 Final Thoughts Outro",
       "published_at": "2026-03-29T16:38:21Z",
       "duration_seconds": 2401,
-      "view_count": 4405,
-      "like_count": 277,
-      "comment_count": 63,
-      "engagement_rate": 0.0771850170261067,
+      "view_count": 4611,
+      "like_count": 283,
+      "comment_count": 66,
+      "engagement_rate": 0.07568857080893515,
       "thumbnail_url": "https://i.ytimg.com/vi/ccDmDDsPjew/hqdefault.jpg",
       "video_url": "https://www.youtube.com/watch?v=ccDmDDsPjew",
       "format": "비교",
       "hook_type": "비교",
       "title_pattern": "핵심 포인트 직설형",
-      "one_line_summary": "이 영상은 monetization 이슈를 비교 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "one_line_summary": "이 영상은 coding 이슈를 비교 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
       "why_it_works": "비교 훅으로 관심을 끌고, 비교 형식으로 내용을 빠르게 정리해 시청자가 '바로 써먹을 수 있다'고 느끼게 만듭니다.",
-      "recommendation": "훅 구조: 도입 15초 안에 '비교' 관점으로 문제를 못 박고, 왜 지금 봐야 하는지 먼저 선언합니다. • 복제할 포장 요소: 비교 형식을 유지하되 monetization를 실제 사용 장면 1개와 결과 변화 2개로 더 좁혀 설명합니다. • 비어 있는 콘텐츠 영역: 'monetization가 내 작업 흐름에서 어디에 꽂히는가'를 사례 중심으로 보여주는 후속 영상이 비어 있습니다. • 추천 제목: monetization 이슈를 내 채널 관점으로 다시 정리해보자 • 썸네일 카피 힌트: monetization 지금 봐야 할 3가지",
-      "transcript_status": "failed",
-      "transcript_source": "none",
-      "transcript_language": "",
-      "transcript_text": "",
-      "analysis_date": "2026-03-30T04:56:41+00:00",
+      "recommendation": "훅 구조: 도입 15초 안에 '비교' 관점으로 문제를 못 박고, 왜 지금 봐야 하는지 먼저 선언합니다. • 복제할 포장 요소: 비교 형식을 유지하되 coding를 실제 사용 장면 1개와 결과 변화 2개로 더 좁혀 설명합니다. • 비어 있는 콘텐츠 영역: 'coding가 내 작업 흐름에서 어디에 꽂히는가'를 사례 중심으로 보여주는 후속 영상이 비어 있습니다. • 추천 제목: coding 이슈를 내 채널 관점으로 다시 정리해보자 • 썸네일 카피 힌트: coding 지금 봐야 할 3가지",
+      "transcript_status": "available",
+      "transcript_source": "apify",
+      "transcript_language": "en",
+      "transcript_text": "Slap on some headphones, folks, because\nwe're diving into AI music today. Some\nof you may have heard, but Sunno AI\nlaunched V5.5.\nThis is an update over their previous V5\nmodel, and similarly, they've just\nupdated their studio as well. This\nallows you to take the songs you\ngenerate and break them down into much\nmore controllable pieces. And apparently\nthis will allow you to sing and rap any\nsong. I think that's a really cool idea.\nPut a little bit of your own voice into\nit. Literally. Keep in mind this does\nrequire you to actually sing and I have\nlike no singing ability. So I did my\nbest. I've spared you from having to\nlisten to the details though because I\nhave not a single musical bone in my\nbody. Some people are born with singing\nbones in their body, and I'm not one of\nthem. So today's video is going to focus\nheavily on Sunno AI, but if you watched\nyesterday's video, you'd know that\nGoogle also released LIIA or Larria 3\nPro. This version of the generator can\ndo up to 3 minute long songs. It's very\nclear, almost clinical feeling, like\nstereotypical in a polished way almost.\nIt might have a very wide breadth though\nand be good for stuff like chip tune\nmusic. I don't know. I I want to compare\nacross a couple of different styles\ntoday. Under model selection, you can\nsee that Sunno has a feature that allows\nyou to create custom models based off of\nyour uploaded sounds. So, if you were an\nartist, let's say, and you wanted to\nupload a bunch of your music in here,\nyou could create a custom fine-tune that\nadheres to your style, which could be a\npretty cool idea, especially if you're\nalready a big user of Sunno. For now,\nlet's stick with regular V5.5. An\ninspiring, hyped up song about making\nthe world's best omelette with a dragon\negg. Let's request some specific styles.\nActually, horror rock sounds pretty good\nfor this. Anthem rock, electric guitar,\ntuba stadium drums. In traditional sunno\nfashion, our V5.5 songs should generate\nquite quickly. And we're going to send\nthe same exact prompt over to Google's\nLIA 3 or LIA. I not sure how it's\npronounced. Both tracks are now ready.\nLet's kick this thing off with V5.5\nDragon Egg Omelette.\n[sighs]\nCrack it open\nslow and steady. [music]\nYou hungry?\n>> Yeah, [screaming]\nI'm ready.\n[music]\nYeah, I'm ready.\nPan on fire. [music]\nKitchen lights go red.\nSkills on the shell,\nheart full of dread, [music] claws on\nthe counter,\nfangs in a grin.\n[music] I'm tying my apron.\nI'M ALL THE WAY. I'M MAKING A dragon\n[music]\negg omelette. Turn the fear INTO FUELING\nTHE FLAME. IF [music] YOU'RE SCARED OF\nthe heat, then watch it. I season my\nsoul with the pain.\n>> Raise your [music] forks like torches.\nLet the roar shake the walls of this\nplace. [music]\nDRAGON EGG. I'm the king with a spatula\nblade.\n[music]\n[music]\nSmoke in [music] my lungs,\nash on my sleeves. It hisses and\nbubbles. The [music] counterboards here.\nI flip that TERROR\nHIGH in the air.\n[music] Breakfast of legends. Dare you\nto dare. I'll [music] make it a dragon\negg. TURN THE FEAR INTO FUELING THE\nFLAME. IF YOU'RE [music] scared of the\nheat, then watch it. I SEASON MY SOUL\nWITH THE PAIN.\n[music]\n>> All right, I'm going to cut it there at\nthe two-minute mark, guys. If that isn't\na good song, I love that. I I'm I'm a\nhuge fan of Sununo music. Okay, ever\nsince like the V4 era, they started to\nget very good. I will say this does have\nsome of that high-pitched shimmering\nwhere it sort of feels like it loses\nalmost resolution or sharp, clear\nclarity in those higher notes. You can\nprobably hear it when I talk into this\nmicrophone right now. It's got a more\nclear, just believable tone and sound to\nit. Not all Sunno songs are going to\nhave that issue, but this is something\nI've seen people complain about with\nSunno for a long time. I hear it myself.\nI see people talk about it on my Discord\nserver, which you should join, by the\nway. So, that's definitely still a very\nreal caveat for these models, but like I\nsaid, it's not in every song. There's\nadjustable parameters. You can learn how\nto kind of control and pull it into the\ndirection you listen to it. It feels\nalmost flawless. Liria 3. Laria 3. I\ndon't have a lot of experience with this\nmodel. I know that just based off of a\nfew clips that I've heard, I don't love\nit, but it is a very clear and polished\nclinical sound. We'll see how that\ntranslated for Obsidian Shell. This\ntrack at exactly almost 3 minutes long.\nThat looks like that's like the hard cut\nfor this one. [music]\nObsidian\n[music] shell, a sulfurous breath.\nGilded in embers, [music and singing]\nmocking our death.\nThe skillet [music] is waiting. The fire\nis high. The skillet is waiting. The\nfire is high. Cradling thunder from a\ncinder sky.\nBreak the unbound soul. [music]\nFire in the B.\nTranscendence [music]\non a plate.\nMaster of the flame, we challenge fate.\nMaster of [music] the flame, we\nchallenge fate.\nWhisking [music] the essence of the\nancient beast. preparing the table\n[music] for the forbidden feast.\n>> All right, I'm going to pause that one\nthere. If I'm going to give you my\nhonest direct comparison, the Sunno one\nwins by miles for me. Yes, this audio\nhad a level of clarity that is very\nimpressive, especially with the vocals\nand those high pitch tones. It It seems\nlike it's a fundamentally different\nmodel almost in terms of architecture.\nAnd that very well could be the case,\nbut it's playing it safer almost. I\ndon't know if that's intentional by\nGoogle or if that's just the result of\nwhat we have. It's like, yeah, that's\nlike a rock song guitar. It It sounds\nwhat we would consider good, but it\ndoesn't have like soul. It doesn't take\nany risks or experimental. It doesn't\nfill my ears and my mind up with\nsomething I can I can think about and\nchew on, if that makes sense. Sounds\nlike every rock song I've heard before\nin a way. And it's missing things from\nthe prompt that Sunno actually was able\nto include creatively, like the tuba\nbeing like a main part of that\nunderlying beat or melody. I don't know\nwhat you would specifically call it. It\nfeels over smoothed, overpolished\nalmost. Before we generate some more\nsongs and play around with some of the\nfeatures, I've got a quick word from\ntoday's sponsor. Quick shout out to our\nfriends at Recraft who are sponsoring\ntoday's video. A lot of image models\nright now are capability monsters that\ntake prompts at face value and they can\ndo an absolute ton, but the Recraft V4\nfamily of models is interesting because\nit feels a lot more focused on visual\ntaste and overall design polish and\nfidelity. In the Recraft Studio, you can\ncompare all of your favorite top image\ngen models, but Recraft's in-house V4\nmodels are where it gets niche in a good\nway. Think clean art ddirected imagery\nincluding brand ideiation, posters,\nillustrations and typography that\nactually interacts with the environment.\nIt's not generate image and move on.\nIt's trained specifically for people who\ncare about composition and aesthetics.\nAnd if you need vector work, they have a\nseparate vector V4 model, native vector\ngeneration for logos, icons, scalable\nillustrations. We're talking actual SVG\noutput with infinitely clean geometry,\nnot traced images. If you've ever done\ngraphic design professionally, you know\nhow big of a deal that is. So, if you\nwant to try something a little bit more\nforward on design while still having\naccess to all your other favorite\nmodels, check out Recraft Studio with my\nlink in code down below. Huge thanks to\nour friends at Recraft for sponsoring\ntoday's video. Now, back to your\nregularly scheduled content. Welcome\nback, folks. I'm going to listen to the\nother variant by Suno to see if it was\nalso able to integrate that tuba stadium\ndrum feel. The first one was very good.\nCrack it open\nslow and steady.\nYou're hungry.\n>> Yeah, [screaming] I'm ready.\n>> Yeah, I'm ready.\n>> [music]\n[music]\n>> Pan on fire. Kitchen lights go red.\nScales on the shell. Heart full of\ndread. Claws on the counter. Fangs in\n[music] a grin. I'm tying my apron. I'm\nall the way in. I'm making a dragon egg.\n[music]\nTurn the fear and fuel into the flame.\nIf you're scared of the heat, [music]\nthen watch it. I season my soul with the\npain. [music] Raise your voice like\ntorches.\nLet the roar shake [music] the walls of\nthis place. Dragon.\n>> I mean, it nailed it, dude. Again, it's\nit's very similar to the to the first\none in that sense, but they're both\nintegrating the instruments in a\ncreative way that matters to\n[clears throat] the song and fills your\nears with presence. You know, if I took\nthis over to advanced, you can see\nthere's some more options to change\nstyle, influence, and weirdness. And\njust touching with these settings a\nlittle, edging them in different\ndirections, and give you a serious\nbenefit, whether it be quality of higher\npitched voices when the action gets\ncrazy or creating more and more unique\ntracks. We're going to try something a\nlittle bit different here. A slow\nbuildup that pays off. Starts off as a\nsad country ballad, but then it's going\nto ramp up into like a trap song, like\nsomething modern. So, I'm just trying to\nsee how it handles that transition or if\nit can even do it. All right, Sunno, I\nbelieve in you. Google 3 on Gemini Pro\nand the same prompt. And you know what?\nLet's throw the very impressive\nV3 into the mix as well with the same\nprompt. This one is known for being a\nlittle bit more controversial because it\ncan actually replicate living artists\nstyles and sounds like very precisely,\nbut it is against the toos to use it to\nmake profit or even upload those songs\nonto their explore and homepages. But it\nit can copy exact styles like Eminem or\nMichael Jackson like super well. Suno AI\nis up first.\n[music]\n>> [music]\n>> We were driving west on [music] Sunday.\nBackseat boxed up little world of mine.\nClassic castle, gravel bed, kids\n[music and singing]\nhandwriting. Please take care of him in\npurple lines. Gas sign flickered at the\nexit. [music]\nStyrofone cut on the window seal. They\nforgot me in the glare of the parking\nlot. [music] And the car rolled\n[singing]\nover the hill. I was just a goldfish\n[music]\nin a paper cup\nof glass tail lit up. Little [music]\nbars tears in the rear view dust\ndripping in the [music and singing] rear\nview dust. Now I dream of rivers I ain't\nseen yet. Every drain [music] the door I\nain't walked through. If you hear a drip\nin the midnight hush, that's a little\n[music] lost fish thinking about you.\nNot exactly the old school country\nballad song that I wanted it to be\nstarting off, but it's got a slow\nmelancholic feel. Suno actually\ngenerated 5 minutes for this, so it must\npick up. Let's skip to 2 minutes in. My\nface in the manhole lightning [music]\nevery little leak was a love by crowned\nevery rat. I looked just like the moon.\nI was just a [music] goldfish in a paper\ncup. Heart of glass tail l [music]\ntears in the rear view dust\ndripping in the rear [music] view dust.\nNow I dream of rivers I ain't seen yet.\nEvery pop of road I'm pushing through.\n[music] If you hear a drip in the\nmidnight hush, that's a [singing] little\nlost fish thinking about you. [music]\nYeah.\nIt's a sweaty. Yeah. Yeah.\nThen a man [music] come with a scar on\nthe side. Said kid down here you swim or\nyou die. Told me how to bite through the\nrust and the grime. How to read the\nroofs like a crooked sign. Ran with the\nminnows. Roll [music] with the eels.\nTrained in the current till I sharpen my\ngills. Took a crown from a catfish twice\nmy size. So my skills glow dark and it's\nfrightened. I was just a goldfish in a\npaper cup\nof glass. Tell it [music] turn.\n>> You can see it literally prompted in a\nbeat switch. Was it able to carry that\nthrough?\n>> [music]\n>> Yeah, yeah, yeah. Touch me once, that's\na legend in [music] the making. Tiny\nlittle bowl, now a whole foundation\nshaking. Filthy little stream [music]\nturn the throne room base and drip crown\ngleaming whole city mine full of taking.\nI got roaches doing wreaking in your\nkitchen light. [music]\nI got pigeons dropping doies from the\npower line. I got raccoons running\nnumbers [music] at the edge of night.\nEvery alleyway echo screaming he\nsurvive. Slim body big [music] or I'm a\nneon car. Swim sharp through the dark\nlike a shed star.\n>> The mood has completely changed and\nuplifted in this ending sequence, but I\nthink it's a little bit too drawn out\nand it doesn't change enough. It\ndefinitely picks up in a good way. I'm\npretty impressed with this, but I think\nit's a little bit lost as to when\nexactly that should happen and like\nchanging that mood definitively and\nbeing confident about it almost if that\nif that makes sense. It definitely\nintegrated the brass as well in the suno\nsong. Got the saxophone too, but like I\nsaid, it definitely felt a little\nconfused on identity, especially near\nlike that transition point. Laria 3.\nThis song half as long as sun v5.5 2\nminutes and 38 seconds. Long song, short\nsong.\n>> The vinyl seat was [singing] warm and\nwide.\nA plastic [music]\nghost [singing]\nleft there to reside.\nI like that though. That's good.\n>> Fuzzy dice and the smell of the soul in\na heavy load.\nThe sliding [singing] glass door gave a\nfinal hiss. Sealed my fate with\n[singing] a cold metallic kiss. Faded\ntail lights on the interstate.\nA highway rest stop. A victim of fate\ndown the porcelain [music]\n[singing]\ninto the black.\n>> [music]\n>> No turning around. No looking [singing]\nback.\nIn the silt in the sludge, I found\n[music] a new frame. A forgotten pet\nwith a brand new [singing] name [music]\nfrom the rusted iron in the mossy floor.\nI don't swim for mercy anymore.\nObsidian scales, a sulfurous bread in\nthe sewer of gold. I'm mocking your\n[music] death. King of the chrome, the\nmaster of rust.\nTurning your highway [music] to pillars\nof dust.\nI'm the king of the grand. Yeah. [music]\nThe sludge in the f. I'm the monster you\nmade. The money you spend. Gilded and\nfilled. I'm the Lord [music] of the\nLord. Watch how the water starts to\noverflow.\n[music] Saw the child in the window,\neyes on the screen. I was invisible.\n[music] Part of the scene.\nPart of the scene. Now the asphalt is\n[singing and music] cracking. The pipes\ngoing to burst. I'm coming for the crown\nand [music] I'm coming [singing] for\nfirst.\nNo more flakes in the back. No more tap\non the glass. Just a city in ruins and\nthe shadows [music] that pass. Guilt and\ndone.\nOne bite and I'm the sun, king of the\nsewers.\nOkay, pretty impressive. I don't think\nthat song flowed as good or like as just\nrealistically naturally as the Suno song\norSonado as we'll probably hear. That's\nthe consistent thing I keep thinking\nwith Lia 3 is like it's oh it it's\nclean, it's clinical, but it kind of\ndoesn't have this natural expressive\nflow to it. However, the identity of the\nsong and like the beat change,\nespecially in the beginning, the ballad\nsounded good. This thing might be good\nwith country. Um, but it had like a\nclear transition point. The Sununo one\nwas defined in lyrics, but it happened\nearlier than it actually was supposed\nto. This one, it was a very very clear\nand it carried almost nothing from the\nbeginning style over just sort of the\nvoice. So that that impressed me. But\nyeah, the way the song flows, the\npatterns, something's off. All right,\nlet's try King of the Mud.\n>> [music]\n>> Plastic bag leaking on the gravel.\nStaring [music and singing] at the tail\nlights. Gone. Bedan vanish in the gray\nheat. Four years old forgotten. Cold\nwater sinking in the drainage. Ditch\nthrough the dirt down below.\n[music and singing] Booty in the dark.\nSwimming through the world. Ted C\nagainst the tide. Everything is dust. He\nremembers the boy. He remember the\nglass. Waiting for the day that the king\ncomes to pass. Sludge green [music] skin\nlike a dragon hide. on the city grown\nheavy hearts. [music]\nThe pipe shake.\n>> It's got a very unique beat to it. I\nkind of like the way it flows and the\nsound of it, but it didn't start as the\nballad. It just went right in with the\ntrap. One part of it completely overtook\nit. Although, you can see the tags it\nmade for itself. Maybe the auto\nprocedure here based on our prompt.\nSimple just isn't going to cut it if we\nwant a good result from. All right, I've\ncustomized some of the advanced settings\nhere in Sunnado to hopefully get a\nbetter result. Let's try a chip tune\n16bit video game theme and this will be\nan instrumental. So, this is supposed to\nfeel dangerous but catchy and maybe like\na sewer or water theme. It's music for\nfish in the sewers. Send the same thing\nto Liia and All right, these tracks are\na little bit shorter. This one's 2\nminutes.\n[music]\nHeat. Heat.\n[music]\n>> [music]\n[music]\n[music]\n>> Maybe a little basic, but overall pretty\ngreat. Kind of feels like maybe a mobile\ngame background theme, but like a decent\nmobile game, you know? I can see the\nfish in the sewers. You know, you're\nyou're collecting coins in the sewers\ntrying to escape. Oh, I like this cover.\nThis album cover is actually really\ncool. Below the iron great and it's like\ndigital mixed with this like most like\npop stamped iron great.\nIt's got an old school feel. [music]\n>> [music]\n[music]\n>> Heat.\n[music]\nHeat.\nIt's pretty good. It keeps your mind\nworking a little bit more, I guess, but\nit just doesn't have again that flow,\nthat continuous catchy feel that I'm\nlooking for. That honestly simpler and\nless retro feeling sewer scale sprint\nsong from Suno. All right, let's see\nSludge Fin Strut.\n>> [music]\n[music]\n>> Heat. Heat.\nIt's a little bit more Stranger Things.\nMaybe not style here with the chip tune\nwhere video game themes.\nHeat. Heat.\nHeat.\nHeat.\n>> [music]\n>> This is more like it. This is very good.\n[music]\nThat [music] gets it done, man. That\nabsolutely gets it done. That's the\nthing I love about is that sometimes\nit'll like disappoint you like four\ntimes and then just come out with a\nbanger. You know, something that is\nbetter than I think what pseudo produced\nin this scenario. I think wins with that\nneon sump. That that is a great track,\nman. That's worth saving. That's worth\nposting. Like that is a good theme.\nOkay, so this is the reprompted country\nballad. And look, wow, way closer to 5\nminutes with the suno lyrics. Let's see\nif it's able to pull off the\ntransitional change. [music]\n[music]\nWe were driving west on a Sunday.\nBackseat [music] boxed up. Little word\n[singing] of mine. Plastic castle gravel\nbed. [music] Kids handwriting. Please\ntake care of him in [singing] purple\nlines.\nGot signs. [music]\nThe good at the exit\nstyrofoam cup on the windowill. [music]\nThey forgot me in the glare [singing] of\nthe parking lot in the car rolled over\nthe hill. I was just a [music] goldfish\nin a paper cup of glass.\n>> As you can see, clearly wasn't able to\nhandle that transition. It's unfortunate\nbecause the other two were. All right,\nguys. Let's move on and try to test out\nthis new voice mode where basically what\nI did is I recorded a minute of myself\nsinging on the Sunno website through the\nmicrophone and apparently it's picked up\nwhat I sound like. This is the most\npopular song I've uploaded on AI. I've\ngot this one in V5. So, let's make a\nV5.5 variant and compare. You can\nliterally remaster it if you want. I'm\nactually going to go for high variation\nstrength. Hopefully, this will bring out\na little bit more of that V5.5 goodness.\nJust so you're familiar though, let's\nlisten to the original V5.\n>> [music]\n[music]\n[music]\n[music]\n>> I was binge watching shows in my\nbasement flat. Clicked a weird link.\nDidn't think much of that. Now I'm sworn\nin by a mask in a velvet hood. They said\nwelcome [music] high chancellor. Bro,\nit's not that good. My Amazon cart still\nfull of socks, [music] but I'm signing\ntreaties in Bohemian Grove. Tried to\norder pizza hack. No [music] rat\ninstead. Now the pope sends me memes\nwhen he goes to bed.\n[music]\nOops. I RULE THE WORLD. WHAT THE HELL'S\nGOING ON? Got [music] Bill asking me to\nDJ their song. Flip the bed with a\nsticky note I wrote at dawn. Oops.\n[music] I rule the world. Where's my\ncoupon?\n[music]\nI quoted Shrek [music] at the UN stage.\nNow market syrup like a crypto rage.\n>> It's very silly stuff, but it's easy to\nunderstand why this is the most popular\none I've released. It's just got like a\nbanging catchiness to it. It's that\nstadium anthem. It's something does very\ngood in particular. Regardless, this is\nvery close to flawless at this point\nwith V5. So, can a V5.5 really up the\ngame from this? This is an example where\nthe high-pitched sounds are very clear.\nThis comes through at a high quality\nlevel. All right, while these are\ngenerating, let's go ahead and try the\nvoice cloning feature. Basically, guys,\nwith this, they had me sing into the\nwebsite essentially any song that I\nknow. My voice is terrible. It sounds\nlike rocks coming through. Okay, but I\ndid that for like a minute. Apparently,\nit recorded my voice, captured it. So,\nwe'll see if it can reproduce it and\nhave me sing something beautifully. It\ndid actually give me an option to select\nif I was a terrible singer or like a\nprofessional one. So, I picked terrible.\nHopefully that helps. All right, I've\ngot some lyrics. I've got some styles.\nI've adjusted the dials ever so\nslightly. Bumped up weirdness, reduced\nstyle influence, and slightly bumped\naudio influence. And it looks like our\nV5.5 remasters are through. Let's take a\nlisten.\n>> [music]\n[music]\n[music]\n>> I was binge watching shows in my\nbasement flat. Clicked a weird link.\nDidn't [music] think much of that. Now\nI'm Whoa.\n[music]\n>> [music]\n[music]\n[music]\n>> I was binge watching shows in my\nbasement flat.\n>> You know what, guys? I think that there\nit is not meaningfully any better. I\nthink it's actually a little bit worse.\nI think the the high-pitch sounds do\nactually sound a little bit worse\ncompared to this version. It's very\nslight. The bass and everything else\nsounds about the same. I don't think it\nwas remastered. I think it might have\nbeen a little bit downmastered.\nHonestly, the jump between V5 and V5.5\nfeel like that's going to be difficult\nto place. Yeah, it's got a little bit of\nhigh pitchness that isn't there in the\nnon-re.\n[music]\nI was binge watching shows in my\nbasement flat.\n>> Yeah, this one also it sounds like it\ndoesn't have as good dynamic range in\nthe song with these new 5.5 remasters.\nLet's try the one that's supposed to be\nmy voice. Lemonland.\n[music]\n[music]\nMy world is made of citrus now. [music]\nThere's lemon candy in my mouth. It's\nbright and sunny in the south. [music]\nMy house is lemon yellow now.\nWelcome to lemon land. [music] Lemon\nland. Lemon land. Lemon land.\n[music] Welcome to lemon. Lemon land.\nLemon land. Lemon land.\nWell, welcome to [music] lemon land.\nLemon land. Lemon land. Lemon land.\nWelcome to [music] lemon land. Lemon\nland. Lemon land. Lemon land.\nWelcome to lemon.\n[music]\n>> Funny stuff. Does it sound exactly like\nme? I don't know. I feel like it's a\nlittle too deep. It was doing this on\nthe other ones I I was testing as well.\nThey've already created the song. I'm\nremixing it using my own voice. So,\nwe're going to try to put my voice in\nthere. Here's the original Little Bird.\nYeah.\n>> Higher.\nWay higher.\n>> They call me little bird, but the shadow\nlooking massive. 30,000 ft. Yeah. My\naltitude aggressive. I'm dropping\nbiologicals. You looking panic stricken.\nYou a nugget on the ground. I'm the\nprehistoric [music] chicken, [singing]\nbut I carry heavy.\n>> Let's go ahead and run that on through.\nAnd you know what? We're going to do\nanother one as well in an old country\nballad.\nYeah,\n>> that doesn't sound like me. Higher.\nWay higher.\n[music]\nThey call me little bird, but the shadow\nlooking massive. 30,000 ft. Yeah, my\naltitude aggressive. I'm dropping\nbiologicals. [music and singing] You\nlooking panicstricken. You a nugget on\nthe ground. I'm the prehistoric chicken.\nLittle bird got the hollow bones but I\ncarry heavy weight.\n>> Yeah, I can kind of hear it but still\nretains like this deeper aspect. Doesn't\nexactly sound like me. You can do a\nlittle bit more recording time. Spend a\nlittle bit more time allowing it to\ncapture your voice. So I could go for\nanother pass. I bet you could get this\npretty good.\nYeah.\n>> Look up\nhigher.\nWay higher.\nThey call me little bird, but the shadow\nlooking massive. 30,000 ft. Yeah, my\naltitude aggressive. I'm dropping\n[singing and music] biological. You\nlooking panic stricking you.\n>> It has like maybe 15% of my voice in\nthere. Very strange. All right. Now, the\nold country ballad.\n[music]\n[music]\nRust on the mailbox.\n>> [music]\n>> Paint peeled off my name.\nEvery year the field goes,\nevery cloud forgets the rain. It just\ndoesn't really sound perfectly like me.\nIt's It's strange. It's trying to give\nme an accent I don't have, but at the\nsame time, it's not coming through.\n[music]\nrust on the mailbox. Similar painted off\nmy name.\nI don't sound good at all as a country\nartist. I mean, and again, it's not\nreally perfectly me now, is it?\nDefinitely a fun thing to experiment and\nmess around with. All right, so at the\nend of the day, where do we land with\nall of this? Sov 5.5. I think this\nlittle bun needs some more time in the\noven. Look, it sounds good, but I can't\nmeaningfully hear a beneficial\ndifference over the previous V5. I\nthought the previous V5 was very good.\nIt was clearer than V4.5 and V4. It had\na wide diversity of styles, knew how to\nget weird when it needed to and\nintegrate things. But honestly, 5.5, the\nremaster sounds worse. But just\ngenerating songs like song for song,\nit's still a very strong model. I just I\njust really can't tell the difference\nbetween it and regular V5. But this is\nlimited experience. This is limited\ntesting. I would love to hear what you\nguys have to say about that in the\ncomments below. You typical average Suno\nusers, what areas is it actually better\nin? And if you've tried the voice\ncloning, how is it for you? Because for\nme, it seems to give me this like deep\nlike young gravy almost aspect for like\na rap song. And then the country ballad\nwas a wrong turn. I don't even know what\nthat was. How do these AI pieces fit in\nwith LIA 3 and Sonado V3 Preview? LIIA 3\nhas a major issue. I don't know what it\nis. I don't know if it's the synth ID\ninside of the music. Like Google has\nthis thing that lets you tell if it's AI\ngenerated music. It's a invisible\nsynthetic ID of some form. But it might\nbe messing with the rhythm and the\nnatural feel of the song as it comes\nthrough. I don't know though. It might\nbe better for like background\ninstrumentals or country. It is it's\nvery clear and it sounds like people\nwould call it good, but when you listen\nto it back toback compared to Suno\norSonado, it doesn't have rhythm. It\ndoesn't have flow in a weird way.\nSpeaking of, this one is a little bit\nmore limited, but I think it's a little\nbit more for the advanced users that\nwant to push the cutting edge or the\nboundaries of AI music in terms of the\nlatent space. So has a lot of features\nlike that newly mentioned studio that\nliterally can split up your song into\nall the different pieces and sounds and\nyou can manually remove them or edit\nthem.\nlets you do artists that are in the\ntraining data but are blocked under Yria\n3 or like I could just type Eminem into\nMichael Jackson any artist you can\nreally think of and it will often times\nactually have their style very well\npreserved and what they sound like as a\nmusician controversial but if you are\ninto experimenting with AI you're not\ntrying to make a profit off of it you\njust want to like dive in there and see\nwhat these models can really get to it's\nthe most unfiltered raw music model that\nwe can access to that's also potent,\npowerful, and sometimes it just produces\nlike a banger and I'm like, \"Wow, I\nactually want to save that song. It\nmakes me want to use it for something.\"\nSometimes you feel that with Suno 2, but\nI don't know. Sonado's got a taste and a\nflare to it that is very, very inviting.\nAlthough, I think their interface is a\nlittle bit more of a pain to use. It's\nnot bad though. None of these interfaces\nare terrible. If I had to pick one of\nthese to use as my daily AI music\nmachine, it's going to be Sunno AI. But\nI think even on free Gemini plans, you\ncan use LIA 3 and test it out at least\nfor quick 30-second demos. That might be\nenough for like video games. If you want\nto experiment with different properties\nand use the most uncensored AI music\ngenerator, Sonado V3 is definitely the\nbest bet. Yeah. And as for 5.5 itself, I\ndon't think it's ready for prime time\nyet. I can, I guess, hear the potential.\nMaybe I'm missing the benefits of it\nover V5 somehow. But you can still\naccess V5 on regular Sunno. I don't even\nknow. Probably with this new 5.5, you\ndon't have to upgrade to the pro plan\nnow. So, give V5 a whirl. Thanks so much\nfor watching, folks. I'll see you in the\nnext video and goodbye.",
+      "analysis_date": "2026-03-30T06:05:53+00:00",
       "channel_name": "MattVidPro",
       "topic_tags": [
-        "monetization",
-        "comparison"
-      ],
-      "keywords": [
+        "coding",
         "monetization",
         "comparison",
+        "news"
+      ],
+      "keywords": [
+        "coding",
+        "monetization",
+        "comparison",
+        "news",
         "Gemini",
+        "Arc",
         "Suno",
-        "v5.5",
-        "is",
-        "ALIVE"
+        "v5.5"
       ],
       "tools": [
-        "Gemini"
+        "Gemini",
+        "Arc"
       ],
       "flow": [
         "처음 15초 안에 문제를 선명하게 정의하고 왜 지금 봐야 하는지 못 박는다.",
@@ -133,7 +157,11 @@
         "큰 담론보다 작은 병목 하나를 해결해주는 포장 방식이 클릭으로 이어지기 쉽다."
       ],
       "transcript_highlights": [
-        "자막을 확보하지 못해 제목·댓글·메타데이터 기준으로 분석했습니다."
+        "Slap on some headphones, folks, because",
+        "we're diving into AI music today. Some",
+        "of you may have heard, but Sunno AI",
+        "Slap on some headphones, folks, because we're diving into AI music today.",
+        "Some of you may have heard, but Sunno AI launched V5.5."
       ],
       "top_comments": [
         {
@@ -159,7 +187,7 @@
           "comment_id": "Ugy9DuZ8vT79ee4llwt4AaABAg",
           "author": "@MugiwaraNoDeji",
           "text": "okay intros getting clean",
-          "like_count": 8,
+          "like_count": 9,
           "reply_count": 0,
           "published_at": "2026-03-29T16:56:37Z"
         },
@@ -190,26 +218,29 @@
       "description": "넥스트 AI, 공간 컴퓨팅 - 애플·구글·메타가 사활을 건 2035 공간 기술 패권 시나리오\n― 교보문고: https://bit.ly/4aytf7J\n― 예스24: https://bit.ly/4tQYhzf\n― 알라딘: https://bit.ly/3OyxuYj",
       "published_at": "2026-03-29T11:34:09Z",
       "duration_seconds": 1867,
-      "view_count": 4761,
-      "like_count": 136,
+      "view_count": 4893,
+      "like_count": 140,
       "comment_count": 13,
-      "engagement_rate": 0.031295946229783655,
+      "engagement_rate": 0.03126916002452483,
       "thumbnail_url": "https://i.ytimg.com/vi/3Ne2lYnVoCw/hqdefault.jpg",
       "video_url": "https://www.youtube.com/watch?v=3Ne2lYnVoCw",
       "format": "뉴스 분석",
       "hook_type": "문제 해결",
       "title_pattern": "핵심 포인트 직설형",
-      "one_line_summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "one_line_summary": "이 영상은 agents 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
       "why_it_works": "문제 해결 훅으로 관심을 끌고, 뉴스 분석 형식으로 내용을 빠르게 정리해 시청자가 '바로 써먹을 수 있다'고 느끼게 만듭니다.",
-      "recommendation": "훅 구조: 도입 15초 안에 '문제 해결' 관점으로 문제를 못 박고, 왜 지금 봐야 하는지 먼저 선언합니다. • 복제할 포장 요소: 뉴스 분석 형식을 유지하되 뉴스 분석를 실제 사용 장면 1개와 결과 변화 2개로 더 좁혀 설명합니다. • 비어 있는 콘텐츠 영역: '뉴스 분석가 내 작업 흐름에서 어디에 꽂히는가'를 사례 중심으로 보여주는 후속 영상이 비어 있습니다. • 추천 제목: 뉴스 분석 이슈를 내 채널 관점으로 다시 정리해보자 • 썸네일 카피 힌트: 뉴스 분석 지금 봐야 할 3가지",
-      "transcript_status": "failed",
-      "transcript_source": "none",
-      "transcript_language": "",
-      "transcript_text": "",
-      "analysis_date": "2026-03-30T04:56:40+00:00",
+      "recommendation": "훅 구조: 도입 15초 안에 '문제 해결' 관점으로 문제를 못 박고, 왜 지금 봐야 하는지 먼저 선언합니다. • 복제할 포장 요소: 뉴스 분석 형식을 유지하되 agents를 실제 사용 장면 1개와 결과 변화 2개로 더 좁혀 설명합니다. • 비어 있는 콘텐츠 영역: 'agents가 내 작업 흐름에서 어디에 꽂히는가'를 사례 중심으로 보여주는 후속 영상이 비어 있습니다. • 추천 제목: agents 이슈를 내 채널 관점으로 다시 정리해보자 • 썸네일 카피 힌트: agents 지금 봐야 할 3가지",
+      "transcript_status": "available",
+      "transcript_source": "apify",
+      "transcript_language": "ko",
+      "transcript_text": "자, 저희 월택남 시청자분들께 인사\n한번 같이 해 주시죠.\n>> 안녕하세요. 반갑습니다.\n>> 네. 오늘 제가 정말 정말 감명깊게\n읽은 책이 있습니다.이 CES에서 두\n분을 만나뵙고 그 이후로 제가 공간\n컴퓨팅에 대해서 관심을 정말 많이\n가졌는데 이번에 또 두 분이 책을\n내셨더라고요. 넥스트 AI, 공간\n컴퓨팅.요 요 책을 제가 읽고 공간\n컴퓨팅에 대한 얘기를 좀 나누고\n싶다. 이렇게 해서 제가 직접 오시고\n사실 저희 채널이 인터뷰 채널이\n아니잖아요. 저 맨날 저만 방구석에\n나와서 등장을 해서 거의 처음으로\n이렇게 게스트로\n>> 첫 게스트로 이렇게 하게 되셨습니다.\n자,\n>> 그러면은\n>> 저는 정말 잘 알고 있는데 이제\n시청자분들이 모르실 수 있으니까 각자\n자기 소개 한 번씩만 부탁드려도\n될까요? 네.\n>> 네. 안녕하세요. 저는 전진스입니다.\n어 뭐 삼성전자 SKT 같은 이제 큰\n회사에서 한 22년 정도 있었고\n메타버스 또 ARVR을 한 13년\n정도 열심히 하면서 또 사업도 일으고\n했던 경험이 있었고요. 그리고\n이후에는 이제 AI 스타트업도 해서\n어 지금 현재는 굉장히 다양한 활동을\n하면서 또 이번에 책도 내게 되어서\n여러분들께 인사드릴 수 있어서\n반갑습니다.\n>> 네. 저는 최형욱이고요. 어 보통\n저를 소개할 때 이제 이노베이션\n카탈리스트라고 소개를 합니다.\n카탈리스트가 이제 촉매라는 뜻이죠.\n약간 이제 소금을 집어넣으면 화학\n반응이 일어나고 혁신을 촉매하는\n사람. 그래서이 변화와 기술이\n급변하는 시기에 사실 혁신 되게\n중요하잖아요. 그래서 혁신을 촉매하고\n혁신에 관련된 여러 가지 프로젝을\n하고 있으면서 저 또 오랫동안 저도\n기술을 연구하고 개발도 했었고 또\n기술을 워낙 좋아하는 기술 전략가로서\n어 다양한 기술과 혁신을 연결하는\n매개 역할하고 있는 최형욱이고요.\n이렇게 전진수 대표님이랑은 또 우리\n월택남과 같은 혁신 전파사 동양계\n일종에 오늘 약간 합방 같은 느낌도\n듭니다만\n>> 유튜버 혁신 전파사도 같이 좀 구독해\n주시면 되게 좋은 정보들이 많으니까\n저는지게 개인적으로 너무 재밌게 보고\n있거든요. 앞으로도 좋은 콘텐츠 많이\n부탁드리겠습니다.\n>> 네. 그러면 먼저 공간 컴퓨팅을\n얘기하기에 앞서서 사실이 공간\n컴퓨팅이라는 개념이 아직까지\n일반인들에게는 정말 생소한\n개념이거든요. 공간 컴퓨팅 뭐라고\n정의하면 좋을지 정말 짧게 한 마디씩\n좀 부탁드릴 수가 있겠나?\n>> 공간 컴퓨팅은 기존에이 평면에서\n나와서 우리의 공간이 컴퓨터가 되는\n세상을 어 공간 컴퓨팅이라고 할 수\n있을 것 같아요.\n>> 공간이 컴퓨터가 된다. 그러면은\n최용목 대표님께서 어떻게 정의하시고\n싶으십니까? 거기에 연결을 해서 좀\n설명을 드리자면 공간이 당연히\n컴퓨터가 되는데 그로 인해서 변화는\n가장 중요한 건 우리가 우리를 둘러싼\n공간과 상호 작용하고 어디스트든 다\n디스플레이가 될 수도 있고 공간\n어디어디가 다 인풋 디바이스가 될 수\n있는 우리를 둘러싼 컴퓨터의 시대\n>> 아\n>> 요렇게 얘기할 수 있을 것 같아요.\n>> 제가 생각하기에는 공간 컴퓨팅과\n메타버스요 두 개가 어떻게 다른지도\n살짝 좀 혼란스럽거든요. 메타버스의\n또 어머니신네\n전진수 대표님께 한번 여쭤보겠습니다.\n>> 메타버스라고 하면 지금 현실하고는\n약간 동떨어진 가상 공간에 들어가서\n우리가 그 매트릭스 같은 그런 컨셉인\n거죠. 현실에서 상상하던 것을 이제\n이룰 수 있고 그 안에 들어가서 내가\n꿈꾸던 걸 할 수 있는 이런 물론\n현실하고 연결은 돼 있지만 어더\n공간이 되는 거고 이제 공간 컴퓨팅은\n일단 내가 살고 있는이 현실 안에서\n디지털 정보랑 상어 작용을 하는데이\n상어 작용하는 디지털 정보 자체가\n자연스럽게 나랑 옆에 있는 실제의\n객체처럼 인터랙션 할 수 있는 그런\n컨셉이기 때문에 가장 쉽게는 현실과\n분리돼 있냐 안 돼 있냐라는 거를 를\n차이로 얘기할 수 있을 것 같아요.\n>> 그러니까 메타버스는 현실이 아닌\n거건가요? 그러면\n>> 되게 중요한 질문인데요.\n>> 메타버스가 현실이 아니다라고 얘기할\n수는 없어요. 왜냐면 우리 그걸 가상\n현실이라는 말로도 표현하기 때문에\n사실 요걸 구분 짓는 방법 중에 제일\n중요한 건 어디서부터 시작하냐일 것\n같습니다. 메타버스 얘기할 때 같이\n논의되던 단어들이 있죠. AR,\nVR, MR. AR은 이제 증강\n현실, VR은 가상 현실, MR은\n혼합 현실. 요걸 전부 합쳐 가지고\n우리가 XRT드 리얼리티라고도\n얘기했는데요. 거기에 리얼리티라고\n하는 현실이 붙죠. 현실이 붙는\n이유는 그것이 실제 세상에 있는\n현실이냐 아니면 다른 공간, 다른\n시공간, 다른 도메인에 있는\n현실이냐에 따라서 구분될 수 있기\n때문에 그렇게 얘기를 하고 있지만\n사실 정말 중요한 건 이들이 다 다른\n건 아니라는 거예요. 서로 연결되어\n있다라는 거죠. 전 대표님이 말씀하신\n메타버스라고 불리우는 가상의 세상.\n그 가상의 세상은 그 안에서 또\n현실이 될 수 있어요. 그 안에서\n사람들을 만나고 그 안에서 새로운\n활동을 할 수 있고 그것이 정말\n100% 가상의 세계로 가냐면 그럼\n이제 가상 현실 세계라고 얘기를 하고\n있는 거고 현실에 가까우면 가까울수록\n우리는 이제 그걸 증강 현실이라고\n얘기를 하죠. 그래서이 공간 안에\n우리가 지금 갖고 있는 어 글래스를\n딱 썼어. 그리고 우리가 현재\n존재하는 공간은 여기야. 근데 여기에\n막 디지털 정보로 여기 어 월택남\n잘생겼다 뭐 이렇게 막 책 뜬다\n그러면 이거는 증강 현실인 거죠.\n예.\n>> 이게 사실 증강 현실이 그러면 가장\n기초적인 단계라고\n>> 가장 현실에 가까운 MR은 현실과\n가상의 중간이죠. 그래서 현실과\n가상의 그 정도를 우리가 조정할 수\n있는 그니까 얼마만큼 가상이냐\n얼마만큼 증강이냐는 상황에 따라\n달라질 수 있지만 혼재돼 있는 걸\n우리가 혼합 현실이다라고 부르고\n있죠. 메타버스는 이제 기존에도 좀\n약간 혼용해서 쓰던게 있어서 하지만\n조금 더 가상에 가까운 걸 이제\n메타버스라고 이\n>> 근데 제가 사실 메타버스 책을\n썼었잖아요. 메타버스라고 불리우는\n단어 자체가 세 개예요. 세 개.\n현실을 초월하는 세계를 우리가\n메타버스라고 불리는데 그 이유는 가상\n세계에 가까운 세계이지만 그럼에도\n불구하고 반드시 존재하는 여러 가지\n요소들이 있거든요. 그게 우리들 가는\n상호작용이에요. 그까 그 안에도\n시간과 공간이 존재하고 그 안에서\n우리가 서로 만나서 이야기도 나누고\n파티도 하고 게임도 하고 일도 할 수\n있는데 그게 현실 세계보다 더 하이\n레벨에서 가상으로 존재하는 또 다른\n세계 그니까 우주 같은 공간이라고 볼\n수 있는 거죠. 디지털로 만들어진.\n그러다 보니 그걸 이제 메타버스라고\n불렀고요. 오늘 우리가 이야기하는\n공간 컴퓨터는 그럼 뭐냐? 시작점\n자체가 이런 ARVR, MR과 완전\n다른 건 아니지만 시작점 자체가\n애플이 사실은이 공간 컴퓨터라는\n단어를 들고 나왔잖아요. 그렇죠?\n비전라 디바이스를 들고 나올 때 왜\n애플이이 들고 나냐라고 하면 애플은\n원래부터 그 미션 자체가 인간의\n프로덕티비티를 극강하게 극대화시키는\n회사예요. 그러다 보니 아이폰도\n그렇고 맥북도 그렇고 애플이 만든\n모든 제품이나 소프트웨어는 우리의\n창의력과 우리의 생산성을\n극대화시키려고 하잖아요. 그러다 보니\n아,이 ARVRM MR이라고 하는\n기술을 이용해서 이걸 이용해야 공간\n컴퓨터로서 이거 구현을 할 수가\n있는데 어 우리가 ARVR,\nMR이라고 부려면 뭔가 조금 기존에\n있는 뭐 게이밍 디바이스라든가\n글래스처럼 보이는데 애플은 일단\n시작점 자체를 생산성에 포커스를 해서\n이걸 활용하면 컴퓨터 공간을 컴퓨터를\n쓸 수 있는 시대가 열릴 거야.\n그래서 이제 공간 컴퓨터라고 하는\n용어를 들고 나온 거죠. 저도 사실은\n그 애플이 그때 시원했던 영상을 한\n다섯 번 정도 보 봤던 거 같거든요.\n완전 스페셜 컴퓨팅이라 새로운 개념을\n딱 내세우고 저는 그 전까지 당연히\nAR, VR, MR까지는 알았는데 야\n이건 도대체 무슨 용어일까 하고 되게\n고민을 많이 했던게 모니터를 되게\n많이 써요. 저는 진짜 모니터를 많이\n쓰는데 저 정도면은 엄청나게 많은\n모니터 없이도 그냥 한 개만 껴도\n진짜 생산성 향상을 할 수\n있겠구나라는 생각을 했는데 막상 껴\n보니까 아직까지 막 그 일을 할 점은\n못 되는 거 같아서 그래서 아 이거는\n조금 시간이 걸리겠다라고 생각했던\n그런 경험이 있었던 거 같아요.\n그런데 이쪽 또 바뀔 수 있는 거\n같은게 AI가 어쨌든 좀 많이 발전이\n됐잖아요. 그때 당시에 애플이 비전\n프로를 출시했을 때 AI랑은 지금\nAI AI가이 공간 컴퓨팅을 좀 뭔가\n바꾸고 있다. 뭐 그런게 좀 체감이\n되시나요?\n>> 뭐 너무 체감이 되죠. 그러니까\n기본적으로 지금 쓸 때 되게\n불편하다고 하셨잖아요. FB전 쓸\n때. 그런데 이제 저는 아주\n초창기부터 이제 VR, AR, 뭐\nMR 이런 걸 하다 보니까 뭐 AI를\n들어가기 전에 기술의 발전을 좀\n이야기를 해봤으면 좋겠어요. 왜냐면은\n메타가 당시에 페이스북 때 오큘러스를\n인수했을 때만 그냥 눈에 그 양한\n시차를 통해서 대형 스크린에서 뭔가를\n하는 것만으로도 사람들이 감동을 받고\n이게 이제 우리의 그 미래가 될\n거다. 막상 써 보니까 너무 어지럽고\n열미가 나고 무겁고 그다음 뜨겁고\n여러 가지 단점들이 막 있어서 그\n환경을 우리이 현실 공간에 만들어\n줘서 할 수 있는 걸 느끼기 전에이\n기술적인 그 바틀렉 때문에 되게\n불편한게 있었어요. 그런데\n맞아.\n그생는데\n이제 그게 안 되니까 그래서 쓰고\n버리고 쓰고 버리고 했는데 그럼에도\n불구하고 애플 비전 프로가 저는 되게\n대단하다고 생각하는게 그래도 그\n어지러움증도 줄이고 그다음에 그래 그\n화질도 좋게 하고 그다음에 무겁기는\n하지만 쓰는 동안에는 모리감 있게 쓸\n수 있는 이런 기술적인 난이도를 낮춰\n놓은게 굉장히 그 사람들에게 있어서\n좀 거부감을 줄였다. 그것만으로도\n저는 대단하다고 보고 있거든요.\n>> 두 가지 좀 다른 어프로치를 우리가\n좀 이야기를 해야 될 거 같아요.\n헤드셋 같이 머리에 뒤집었쓰는\n애플비존 프로류. 또 하나는 이제\n스마트 AI 글래스 같은 그\n가벼우면서 작게 네.\n다진는\n방향 지금된 달라요. 다른 데서\n우리가 얘기 했는데 여기에서만 한번\n얘기해보면 진짜처럼 느끼게 하는게\n정말 중요하잖아요. 근데 진짜처럼\n느끼게 하려고 내 눈앞에 가상 세계를\n만들었는데 그게 뭔가 해상도도\n별로야. 뚝뚝뚝 끊겨 뭔가 느려.\n그리고 뭔가 이렇게 나를 따라오는데\n지연도 생겨. 그러면 사실은 그\n몰리감이라든가 뭔가 실제감 같은 걸\n못 느끼겠죠. 그래서 그동안 사실이\n기술이 발전을 하려고 대단히 많이\n노력했지만 잘 안 됐어요. 안 된\n이유가 이게 안 되니까. 그래서\n사실은 그동안은 주로 게임용\n디바이스로 활용이 되고 있었는데 사실\n가장 중요한 것 중 핵심은 인공지능의\n발전과도 동일한데 인공지능 발전 왜\n왜 됐느냐라고 하면 M비디아 GPU\n그니까 그래픽 프로세싱 유닛이라고\n불려는 GPU의 퍼포먼스가 엄청나게\n좋아지다 보니 이제는 우리가 원하는\n퍼포먼스를 뭔가를 돌리고 학습을\n시키고 처리를 할 수 있게 된\n거잖아요. 근데 이게 그래픽이도\n똑같아요. 그래픽을 내가 얼마만큼\n고사양의 것들을 얼마만큼 빠르게\n처리해 줄 수 있느냐. 근데 그동안은\n뭘 하고 싶었냐면 사람들이 내 눈에\n여기다가 뭔가 이렇게 딱 띄운 거를\n정밀하게 막 띄우고 딴 거 탁 하면\n막 업데이트도 빨리 되게 막 하고\n싶었는데 여기를 쳐다봤다 여기\n쳐다봤다 요렇게 하면 갑자기 월탱남\n옆에 있던게 절로가 있고 그 내 눈에\n이렇게 안경을 통해서 보이는이 실제\n영상과 여기 디스플레이를 통해서\n보여지는 디지털 정보가 정확하게\n싱크를 맞추는게 사실 되게 되게\n어렵거든요. 그런데 이제 GPU가\n발전하니까 이제 애플이 가만히 보니까\n어 그냥 카메라로 전체를 다 찍어서\n>> 전체를 그냥 다 내 눈에 보여 주면\n이거를 더 정확하게 제어할 수\n있겠다가 지금의 이제 GPU의 발전\n때문에 만들어진 결과인 거예요.\n그러니까 결국 애플비전 프로는\n바깥쪽을 내 눈으로 직접 보는게\n아니고요. 그냥 모든 거를 카메라가\n찍습니다.\n>> 찍어서 그걸 간접으로 조다라는 거\n>> 그죠.\n거의 타임으로 내 눈에 보여주 사람도\n보여주고 공간도 보여주는데 해상도가\n워낙 높다 보니까 거의 5K가\n가깝잖아요. 딱 봤을 때 이질감 없고\n또 딜레이 없이 잘 보이고 그러니까\n이제 아 비전로와 같은 공간 컴퓨터를\n이제 만들어서 사람들이 쓸 수 있게\n만들겠다. 이게 이제 하나의 티핑인\n거고 반대 방향에서는 요런 글래스\n같은 경우도 똑같아. 그동안 똑같이\n여기다가 뭔가 보여 주려고 애를\n썼는데 안 보여집니다. 왜냐면 이게\n디스플레이도 제약이 되게 심하고 가장\n큰 문제가 안경 우리 쓰니까 안경\n쓰는 사람 불편하잖아요. 하루 종일\n쓸 수 있어야 돼. 근데 뭔가 나와도\n밝은 햇빛 밑에 가면 사실 하나도 안\n보여. 정말 정말 밝아야 되는데\n그러면 한시간이 뭐야? 10분도 안\n돼. 그러니까 무겁지 비싸지 한시간도\n안 가지 불편하지. 그렇다고 해서\n해상도가 좋은 것도 아니지. 그래서\n거의 20여년 가까이 저런 AR\n글래스, 증강 현실 글래스를 많은\n혁신가들이 만들려고 노력을 했는데\n아직까지 안 됐던 거죠. 근데 3년\n전에 메타가 지금 메타 글래스를\n내놨을 때 어떤 일이 생겼냐? 사실\n그때는 다들 기억하듯이 최치\n모멘트라고 불리오는 생성형 AI가\n갑자기 툭 튀 나왔는데 너무\n자연스럽게 너무 나라와 대화도 잘할\n뿐더러 너무 빠르게 또 너무 정확하게\n뭔가 리스폰스 해 주고 뭔가 우리에게\n정보를 줄 수 있는 시대가 열려 버린\n거죠. 그러다 보니 가장 중요한 건\n이제 저 화면에 뭘 보여 주는게\n중요한게 아니라 AI가 음성만\n가지고도 우리랑 충분히 소통할 수\n있는 시대가 됐구나. 어 이거\n디스플레이 없어도 되겠는데. 그래서\n메타가 디스플레이 없는 안경을 먼저\n내놓은 거예요. 그래서 시장을 봤죠.\n근데 이게 200만 대가 팔린\n거예요. 사람들이 이거를 원하는구나.\n시그널을 시장이 딱 주니까 그다음부터\n어떤 일이 생겼냐? 지금 쏟아져\n나오기 시작하는 거예요. 알리바\n만들고 삼성 만들고 애플도 아마 올해\n뭔가 보여지겠죠. 그래서이 두 가지가\n약간 어프로치는 다르지만 GPU\n그리고 인공지능의 발전 덕분에 오늘\n우리가 얘기할만큼 이제 뭔가 시그널이\n충분히 우리에게 도달하고 있다.\n요렇게 저는 보고 있습니다.\n>> 제가 좀 생각했을 때이 AI가\nVR이라든지 뭐 XR에 영향을 미칠\n점은 사실은 좀 컨텐츠 관점에서 저는\n크리에이터다 보니까 쉽게 이제 어\n3D 컨텐츠를 오브젝트를 만들 수가\n있게 됐고 킬러 앱이라든지 킬러\n콘텐츠도 엄청 많이 폭발할 거\n같거든요. 그런 점에서는 좀 어떻게\n가능할까요?\n>> 당연히 가능하죠. 그러니까 최근에는\n프롬프트만으로 어 3D 객체를\n만들기도 하고 이제 2D 사진을 딱\n집어 넣으면 3D로 만들어 주고\n심지어는 우리가 있는이 공간도\n사진으로 하나 찍었을 때 3D로\n만들어 주는 월드 모델 같은 케이스도\n나오고 있어서 기존에 이제 수작업으로\n하면서 고생고생해서 비용을 많이\n들여서 만들어야 됐던 그 창작의\n영역에 AI를 통해서 어 모리감 있는\n콘텐츠들을 좀 빠르고 쉽게 만들 수\n있다는 거 이것도 굉장히 장점인 거\n같아요. 아직은 퀄리티가 완벽하진\n않은 부분이 있는데 어이 3D 쪽의\n생성 부분도 굉장히 빠르게 발전하고\n있기 때문에 공간 컴퓨팅에 있어서 뭐\nAI 발전이 직접적으로 영향을 주고\n더 가속화될 거다라고 보고 있습니다.\n저도 네. 그래서 엄청 아이 공\n컴퓨팅이 생각보다 그 시간의 지평이\n엄청 앞당겨지겠구나라는 생각을 AI로\n인해 어 컨텐츠가 쏟아져 나오겠구나\n플러스 엄청 빠르게 실시간 보정이\n되다 보니까 아이 AI가 결국에는\n공간 컴퓨팅의 강력한 촉매로\n작용하겠다. 결코 허상이 아니고 진짜\n얼마 안 남았다라고 저는 되게 강하게\n믿고 있는 사람입니다. 또 하나 되게\n중요한게 우리가 SF에서 많이 본 것\n중에 컬\n>> 아\n>> 예 그 영화 사실 2013년에 나온\n영화요 그 영화의 배경이\n2025년이었어요.\n>> 정확 거의 정확하네요.네\n>> 그 CRT 모니터에 음성만 나오는\nAI예요. 뭐 아바타도 없고 사람\n같지도 않은데 그 AI랑 대화하다가\n사랑에 빠지는데 사실 지금 무서운 건\n공간 컴퓨터라고 하는 건 공간을\n우리가 컴퓨터로 쓴다라는 의미잖아요.\n그럼이 공간 어디에든 우리가 원하는\n것들을 디스플레이 할 수 있고 상호\n작용할 수 있는데 사람 사이즈의\n아바타들 또는 우리가 게임이라고 치면\nNPC들 그니까 사실 그 NPC와\n상호 작용하는 것들에 대해서 개화되지\n못했던 가장 큰 이유 중에 하나는\n메타버스라는게 결국 우리가 들어가서\n그 안에 수많은 사람들과 상호 작용을\n해야 되는데 들어갔는데 할게 없어.\n들어갔는데 사람이 없어. 그 안에\n누군가와 상호 작용할 수 있는 그\n컨텐츠 가치가 더 중요한데 그것들이\n사실은 좀 많이 많이 부족했는데\n만약에 지금 AI 특히 생성형 AI가\n이렇게 자연스럽게 사람 같은 메타\n휴먼 같은 존재들을 여기다가 생성해\n줄 수 있으면 자비스 같은 메타\n휴먼이 옆에 앉아 있는 거죠. 그러면\n그 메타 휴먼이랑 내가 대화를 할 수\n있는 것도 있고 그 메타 휴먼이 뭔가\n그 안에서 우리에게 서비스를 해 줄\n수 있는 것도 있을 거고 그래서\n엄밀하게 말하면이 AI가 굉장히\n다양한 분야에서 이런 공간 컴퓨터에서\n공간의 가치를 극대화시켜 주는 역할을\n할 것이다라고 보고 있습니다.\n>> 더 부현 설명을 하면 실제로 이제\n우리가 게임을 하러 들어가면 NPC를\n만나잖아요. 행성형 AI가 발전한\n이후부터는이 NPC들이 내 상황을\n이전 상황도 다 기억을 하고 물어보면\n항상 똑같은 답을 해 주잖아요.\n그때마다 좀 다른 시나리오로 대답을\n해 주는 방식으로도 진화를 하고\n있어요. 그래, 이미 이게 돌아가고\n있는게 좀 어느 정도 게임 쪽에서\n증명이 되고 있기 때문에 우리가 공간\n컴퓨팅을 우리 삶 속에 가져오게 되면\n필요로 하는 그 상황에 맞춰서\n그때마다 대답을 해 주고 또 필요한\n부분을 먼저 제안도 해 주고 이런\n것들이 가능하기 때문에 훨씬 더\n빠르게 발전하고 이런 식으로 가능하지\n않을까라고 생각하고 있어요.\n>> 저는 약간 요런 생각을 해 봤거든요.\n예전에 포켓몬고 열풍이 불렀었잖아요.\n네. AR에 가까운 그때도 지금\n생각해보면 이제 그게 한참 더\n발전해서 예전엔 포켓몬이었는데 이제는\n진짜 에이전틱 AI가 공간에 배치가\n된다라는 말이잖아요. 그렇게 되면\n진짜 완전히 세상이 달라질 수도\n있겠다라는 생각을 저는 최근에 들어서\n좀 그렇게 생각해 봤던 거 같아요.\n그러면 진짜 완전 기술을 전문가가\n아니라 딱 일반인 입장에서 직관적으로\n봤을 때 어 이렇게 바뀌겠구나. 우리\n앞으로의 미래 몇 년 후에 근 미래는\n요런 일들이 일어나겠구나라는 걸 자\n한 마디씩 또 어떤 시나리오나\n에피소드 저는 제가 이제 스마트폰을\n길을 다니다가 굉장히 많이 꺼내서\n이렇게 쳐다보고 이러는데 이게 되게\n위험하거든요. 이걸 스마트폰 안\n꺼내고도 할 수 있는 그런 경험들이\n오면 참 좋겠다라고 평소에 생각하던\n것들이 있는데 그 중에 하나가 이제\n해외 여행 다닐 때 번역 찍어서\n물어보고 이렇게 해야 되는데 그렇게\n안 하고 그냥 최근에 이제 저희가\nCS 가서도 써 보셔서 아시겠지만\n그냥 안경 끼고 이렇게 쳐다보면 바로\n번역되고 앞에 있는 사람이 중국어로\n얘기해도 바로 번역돼서 나오고 이런\n시나리오가 가장 저한테는 너무 와닿는\n거 같고요. 그것보다 저는 더\n필요하고 자주 쓸 거 같은게 근처에서\n무슨 식당 갔을 때 그냥 이렇게\n쳐다보면 어 저 식당에 오늘 뭐 해피\n아워에 뭐 할인해 쿠폰도 보여주고\n그러면 그 메뉴판을 미리 보고 찾아서\n들어갈 수 있게 그니까 결국은\n스마트폰을 주머니에서 꺼내지 않고도\n내가 당장 필요로 하는 것들을\n글래스에서 보여 주기만 해도 삶의\n질이 엄청 좋아질 것 같아요. 이제\n한 10일 정도 유럽 방문이 예정되어\n있는데 저는 그때 어 레이벤 메타\n디스플레이를 하나 살까 그 정도\n생각을 할 정도로 해외를 나가게 되면\n아무래도 정보가 많이 부족한 경우가\n정말 많잖아요. 그때마다 핸드폰을\n꺼낸다는 사실을 엄청 불편한 거예요.\n아게 뭘까라고 사실 AI한테\n물어보는데 그것도 귀찮아서음 뭐\n그거겠지 모르겠다 하고 넘어가는데 그\n간극을 엄청나게 줄여 준다라고 생각을\n했던 거 같아요. 시각 정보가 바로\n일치되고 청각으로 들어올 수 있다라는\n점이이 해외 여행 갈 때이 무조건\n이런 걸 하나 챙겨가야겠다라는 생각을\n했던 거 같아.\n>> 지금 말씀하여 주신 것들이 가장 근\n시간 내 현실 사실 이미\n현실이거든요. 이미 현실인데 이제\n얼만큼 확산될 것이며 얼마만큼\n다양하고 빠르게이 서비스를 잘 쓸 수\n있느냐의 문제라고 전 생각하는데 물론\n이제 장벽도 있습니다. 왜냐면 우리\n같이 안경 끼는 사람들이야. 그냥\n쓰은 그만이지만 안끼던 사람들한테\n씌워 줘야 되다 보니 이제 그만큼의\n뭔가 가치가 있어야 되겠죠. 편리함도\n물론 어 담보가 돼야 될 거고요.\n근데 정말 정말 중요한 건 뭐냐면\n이미 우리가 2022년 11월에\n최치T가 등장했을 때 우리가 이미\n경험을 했어요. 그 최치T 이전과\n이유가 있다라고 하면 우리는 이전으로\n돌아갈 수 있을까요? 세치T가 없는\n세상으로 못 갑니다. 왜냐면 이미\n사용을 해 봤기 때문에. 네용을\n했다는 이게 충분히 우리한테 편하고\n가치가 있다는 걸 느낀 거예요. 사실\n이게 그럼 최치가 처음이었냐?\n아니잖아요. 집에 AI 스피커들\n굉장히 많았거든요. 뭐 너는 집에\n지금도 한대 있어요. 알렉사부터 구글\n어떤 용도로 쓰는가? 그럼 지금 아마\n대부분 그냥 시간 물어보고 알람\n세팅하고 날씨 물어보고 그리고 뭐\n해요? 할게 없어. 왜냐면 물어봐\n봐야 다 대답을 못 해요.\n>> 아 답답해요.\n>> 답답하죠. 그리고 예를 들어서 헤이\n구글하고 재미나이한테 물어보는 거\n물어본다 해서 얘가 답변하는 애가\n아니잖아요. 스피커는 가끔 혼잣 말도\n해요. 내 앞말도 안 했는데 혼잣말\n뭐 혼자 막 떠들고 막 그래서 막\n이제 꺼 놓기도 하고 우리가 생각했던\n음성 어 기반의 AI 스피커라든가\nAI 디바이스가 사실은 똑똑하지\n않았던 거죠. 근데 채집비 등장\n이후에 지금 우리가 음성으로 AI와\n대화하는 것 사실 너무너무\n잘하잖아요.\n>> 완벽하죠? 거의\n>> 거의 사람보다 더 똑똑하잖아요.\n물어보면 대답 못하는 거 거의 없고\n물어보자마자 바로 딜레이 없이\n바로바로 답변하고 그리고 내가\n생각하지 못했던 것까지도 다\n찾아줄만큼 정말 똑똑해진이 AI들이\n사실 우리 굉장히 많은 사람들에게\n이미 경험의 대상이 돼 버린 거죠.\n그러다 보니 10대 20대들이\nAI들과 상담도 해요. 그니까 뭐\n진로 상담, 연애 상담을 엄마 아빠\n선생님이랑 안 하고 AI 안 탑니다.\n재미나이 나 지금 누구 사귀고인데\n어쩌고 저쩌고 저쩌고 야 채지 나\n지금 진로 고민인데 어쩌고 저쩌고\n하면 얘네들이 화도 안 내고 그리고\n지금이 트렌드와이 사람의 데이터를\n기반으로 사실 대답도 너무 잘해\n주죠. 그러니까 이미 사람들은\n음성으로 한번 AI와 상호 작용을 한\n그 경험을 갖고 있다면 돌아갈 수가\n없어요. 근데 불편함이 있죠. 뭐냐면\n이바이스를 들고 액티베이션 한 다음에\n서로 얘기를 해야 되고 이게 없으면\n또 안 되고 스마트 글래스 또는 AI\n글래스가 지금 갑자기 등장을 하기\n시작했고 얘의 가장 큰 가능성이\n뭐냐라고 하면 그냥 스마트폰에서\n음성으로 주고 봤던 AI 에이전트들이\n머리를 올라오는 거예요. 그 내가\n그냥 언제든 항상 데고 다니면서 마치\n그 아이언맨에서 자비스랑 같이\n다니듯이 필요한 걸 물어보면 바로\n필요한 걸 내 귀에다가 대답을 해 줄\n수 있는 존재가 유럽 갔을 때 정말\n도움 많이 받았어요. 유럽 갔을 때\n박물관 같은데 가면 그림들 있잖아요.\n구에서 항상 돈 더 내고 오디오\n가이드 필려. 너무너무 재미도 없고\n무겁고 그리고 설명해 주는데 아 그냥\n딱 정해진 대로 말해 주고 끝.\n그니까 여러 가지가 부족하죠. 근데\n영국에 갔을 때 박물관을 딱 갔는데\n최치피가 될 때였거든요. 최치피한테\n그림을 물어봤어. 물어봤더니 최치피가\n대답을 해 주고기 시작하는데 그때\n이제 저는 메타글래스를 쓰고 있었다\n보니 이걸 낀 상태에서 스마트폰한테\n물어보니까 설명을 나한테 음성으로 내\n안경에다 대고 해 주는 거야.\n그러니까 마치 내 옆에 도슨트가 있는\n것처럼 아이 그림은 램브란트가 천 뭐\n몇 세에 어떻게 어떻게 그린 그림이고\n설명을 최치T가 평상시 해 주는 거\n생각해 보시면 너무 잘하잖아. 오 야\n이거 오 잘해 주는데 이러고 있는데\n갑자기 또 설명하는 와중에 궁금한게\n생긴 거예요. 그 보니까 그 안에\n그림 안에 사람들이 다리를 꼬고\n앉아서 뭘 하고 있는 거야. 근데\n쟤네들은 다리 꼬고 앉자 속에서 뭐\n하는 거야라고 했더니 또 후속으로 아\n저때 어쩌고 저쩌고 저쩌고 하면서\n물어보는 거에 대한 대화를 계속\n이어나갈 수 있게 되면서 프라이빗\n도슨트를 데고 다닌 느낌. 아마도\n이런 AI 글래스 류들이 가장 빠르게\n확산됐을 때 대부분의 사람들이 느끼는\n가장 중요한 가치는 정말 나 내가\n필요한 질문과 대답을 주고받을 수\n있는 AI 비서들을 늘 함께 할 수\n있게 되는 것이 아닐까 생각합니다.\n>> 네. 저도 약간 그런 부분이 되게\n동의하고 어떻게 보면 그 한꺼풀 더\n저희랑 밀착된다라는 거죠. 그 사용자\n경험이 어 진짜 앞으로는 AR\n생태계, VR 생태계를 완벽히 완벽히\n좀 현실 세계로 가져오는 그런 경험을\n하게 될 거다라고 좀 많이 생각을\n했던 것 같아요.\n>> 기존에 이제 우리가 했던 그\n디바이스들 노트북이나 이렇게\n스마트폰하고 커뮤니케이션을 할 때는\n그 정해진 인터페이스를 통해서 소통을\n했어야 됐었거든요. 뭐 키보드라든지\n터치라든지 마우스라든지. 근데 이제\n공간 컴퓨팅으로 가게 되면 우리가\n일상에 그냥 어릴 때부터 태어나서\n쓰던 인터페이스 말하고 시선을 보고\n듣고\n>> 터치하고 복하고 맞아요. 그런 그\n자연스러운 인터페이스를 그냥이 공간\n안에서 쓸 수 있어서 그것도 굉장히\n큰 그 경험의 차이가 있을 거라고\n생각을 해요. 저희 책에서도\n이야기하고 있지만\n>> 저희가 하나 조금 걱정되는 부분이\n아마 많은 시청자분들도 공감하시겠지만\n저희가 이제 그 컨텍스트를 24시간\n담는 건 좋은데 어떻게 보면 이제\n프라이버시 문제가 무조건 생길 수밖에\n없잖아요. 그러니까 이게 엣지로 다\n처리하는 것도 있겠지만 사실은 또\n클라우드로 넘어가는 부분도 있을 거고\n어떻게 이런 부분은\n>> 그 사실은 2012년 구글 글래스가\n나왔을 때 실패한 이유 중에 하나가\n바로 그 부분이죠. 프라이버시\n사람들은 내 눈 앞에 나도 모르는\n카메라를 들이댔을 때 거부가\n있거든요. 어, 나 찍는 거야? 너\n나한테 허락도 받지 않고.\n>> 그래서 사실 그동안이 부분에 있어서\n굉장히 좀 제약이 있었던 것도\n사실이거든요. 근데 아마도 지금\n메타레이반 글래스들이 지금 거의 이제\n천만대 가까이 지금 팔렸어요. 최근\n몇 년 사이에 익숙한 로고가 들어\n있고 우리가 늘 사용하는 근데\n카메라가 달려 있어. 그래서 저 천만\n대의 안경이 우리 주변에 막 이제\n보이기 시작하면서 사람들 사이에 사실\n인식의 전환이 전 되게 중요하다고\n보는데 결국 기술적으로 이런\n프라이버시라든가 시큐리티에 대해서 어\n이걸 만드는 회사들은 그걸 최선을\n다해서 보호하고 문제가 되지 않게\n만들어야 되는 부분도 반드시 있지만\n그것을 받아들이는 사람들이 또 이거를\n수용해 줘야 돼요. 아 저게 있어도\n저게 될 수 있어라고 믿어 줘야\n되는데 그러다 보니까 이제 저\n글래스는 사진을 찍거나 할 때는\nLED가 켜지게 돼 있어요.\n깜빡하거나 촬영하는 도중에는 늘\nLED가 이제 블링킹이 되게 돼 있다\n보니 사람들이 아 나를 찍고 있구나를\n인식을 하는 거죠. 네. 예. 근데\n저거는 이제 인식을 못 하면 저것도\n안 보입니다. 그리고 한국이나 일본\n같은 경우는 소리를 내게 하는 규제가\n있죠. 사진을 찍을 때 찰칵하던가\n소리를 내게. 그렇죠. 그러니까 사실\n그런 것들이 존재하는 이유는 여전히\n그런 프라이버스나 시큐리티 이슈가\n있다라는 거고 말씀하신 것처럼 이제\n온 디바이스로 그런 것들을 처리해서\n민감한 정보들이 안 가게 한다거나\n하는 것들이 이제 기술적으로 더\n보완이 돼야 될 부분은 분명히 있을\n것 같은데 아직 완벽하진 않아요.\n아직 완벽하진 않고 완벽하게 해도\n해킹 사고 나고 보안 사고 나잖아요.\n그래서 이슈는 아직 있지만 너무너무\n편리하고 너무너무 좋으면 사람들이 또\n그것들을 극복 극복하는 늘 우리는 그\n역사 속에서 여러 경험을 했기 때문에\n그 부분은 아마 시간이 걸리겠지만\n해결될 거다라고 보고 있습니다.\n>> 이게 사실 이번에 들어오면서 그\n룩소티카랑 협업을 해서\n들어오더라고요. 가전 이게 아니라\n아예 포지셔닝 자체가 그냥 액세서리\n패션 아이템 뭐 이렇게 들어오는\n건가라는 생각도 저는 좀 할 정도로\n정말 그렇게 자연스럽게 현실을\n녹아들기 위해서 하려고 하는 건가라는\n생각을 좀 했던 거 같아요.\n>> 가뜩이나 불편한데 이쁘지도 않아. 안\n쓰겠죠. 그러니까 최대한 저걸 썼을\n때 예쁘고 패션업을 해야 되고 뭔가\n어색하지 않아야 되는 거는 기본적인\n조건인 거 같고 아마도 진짜 평상시에\n우리가 쓰고 있는 안경과 같은\n어프로치로 최대한 스며 들어오면서\n이제 대중성이 만들어지는게 이들이\n바라는 가까운 미래가 아닐까 생각해\n봅니다. 도수 없는 거 한번 써\n보세요. 한번 써보시고\n>> 왜냐면 이게 또 잘 어울리는지\n시청자분들이 또 봐 주셔야 되기\n때문에 어떤가요? 잘\n>> 올려 잘 어울려 오네 소리가 들리죠?\n근데 뭐 저는 착용감은 되게 괜찮은네\n아이 정도면 좀 적당히 스타일리시한\n거 같게 돼서 아 저는 되게 마음이\n들거든요. 나중에 네벤데\n>> 메타 잘 광고 부탁드립니다.네\n>> 바라보는 관점의 전환이 있어서 그\nAI가 중심이 되니까 아 그 정도면\n될 거 같다라고 우리가 인식하지만\n꿈고 왔던 AR 글래스는 아직\n멀었죠. 중요한 건 이제 어쨌건 그게\n해결이 안 돼도 AI만 들어가도 쓸\n만한 제품이 됐다. 그냥 초록색\n모노크롬으로 내 눈 앞에 정부만\n정확하게 보여주고 뭐 하루\n끼고 다닐 수 있는 배터리 용량을\n가진 그냥 글래스만 나와도 충분히 쓸\n만한 시대가 됐다라고 다들 지금\n생각을 하고 있고 그래서 아마 올해\n쏟아져 나오는 제품들 중에 대부분의\n공통점들이 이제는 디스플레이가 다\n모크롬이거나 해상도가 높지 않아도\n어쨌건 사람은 시각적 정보를 되게\n중요하게 생각하니까 내비게이션을\n귀로만 야 오른쪽으로가 왼쪽으로가 야\n500m 있다가 오른쪽가 이렇게 하는\n거보다는 화살표라\n는게 훨씬 더 직관적이잖아요. 그래서\n디스플레이가 계속 들어가려고 하는\n시도들은 많아질 거라고 봅니다.\n>> 이쯤에서 또 한번 질문을 드리고\n싶은게 오픈 AI나 애플에서 다음 폼\n팩터를 아예 뭐 핀으로 단다든지 뭐\n요런 얘기도 나오고 있던데 스마트폰\n다음 폼팩터는 저는 안경이라고\n생각합니다만 혹시 다른 폼 팩터가\n존재할 수 있을까요? 어, 워딩이\n되게 중요한데 다음이란 말이\n적절하냐? 모두가 야, 스마트폰\n다음에 올게 엄청 클 거야. 사실\n스마트폰만큼 강력한 디바이스가 지금\n존재하진 않죠. 그리고 더 중요한 건\n디바이스마다 다 목적과 편의성과\n장단점이 있어요. 그 얘기는\n스마트폰이 있음에도 불구하고 우리는\n여전히 태블릿을 쓰고 맥북 같은\n노트북을 사용하고 가끔가다 또\n데스크탑을 쓰죠. 그 이유는 각각의\n가지고 있는 특징이 있기 때문인데\n결국은 새로운 폼팩터의 디바이스들이\n나올 겁니다. 왜 AI가 발전하고\n있으니까. 그래서 지금 폰 AI 같은\n경우는 IO를 인수해서 그 i오 같은\n회사는 지금 루머에 의하면 AI 펜을\n만들고 있다고 해요. 그 팬에는\n당연히 보이스 레코드 그니까 마이크가\n달려 있어서 요즘 AI 디바이스 제일\n많은게 그거잖아요.\n어 음성 인식해서 노트 만들어 주고\n요약해 주고 뭐 할 일 뽑아주고 요런\n것들이 지금 굉장히 쉽게 할 수 있는\n일이다 보니 그런 라이프로깅의 기능을\n당연히 수행하면서 동시에 팬이니까\n내가 실제 꺼내 갖고 쓸 수도\n있잖아요. 그럼 핸드라이팅을 어딘가\n했을 때 그 움직이는 재수처만\n가지고도 AI는 충분히 내가 뭘\n썼는지를 정확하게 디지타이제이션 할\n수 있거든요. 그래서 모든 나의\n주변의 기록들을 로깅해 주고 그걸\n분석해 주는 아마 그런 유행 새로운\n시도들이 가능해질 거고요. 그래서\n아마도 새로운 디바이스들은 쏟아져\n나올 거고 안경들도 많아지겠지만 결국\n핵심은이 스마트폰과의 컴패니언으로서\n왜냐면 이게 워낙 막강한 힘을 가지고\n있고 저기다가 지금 통신 모뎀 넣어\n가지고 클라우드랑 통신하기 쉽지\n않아요. 아\n>> 엄청 무거워야 될 것 같아.\n>> 무거워지기도 하겠지만 그 가격이 또\n비싸지겠죠. 결국 블루투스로 우리\n스마트폰이 연결해서 백 채널을 얘를\n활용하는게 사실 제일 편리하고 제일\n강력하겠죠. 그래서 스마트폰이 더\n강력해질 거고요. 스마트폰과 함께\n컴패니언으로 더 뭔가 이거를\n극대화시켜 줄 수 있는 디바이스들이\n많아질 텐데 그리고 또 10년이 또\n흘러가서 정말 정말 기술이 발전하면\n그때서는 스마트폰이 없어도 저것만\n가지고도 그 역할 할 수 있는\n디바이스가 나올 거라고 봅니다.\n>> 반지 형태라든지 뭐 펜던트 형태라든지\n비슷한 유에 웨어러블로 굉장히 다양한\n시도들이 지금 준비가 되고 있기도\n하고요. 아무래도 그래도 사람들이\n이미 썼던 형태의 그 액세사리를 조금\n더 친숙하게 받아들일 거기 때문에\n우리 지금 이미 스마트 워치 쓰는\n것처럼 글래스 쪽은 그래도 조금 더\n자연스럽게 사람들한테 스며들 거\n같아요.\n>> 이거랑 같이 가야 된다라는 거는 맞는\n거 같아. 그래도 이렇게 강력한\n기기가 또 없기 때문에 어쨌든 뭐\n다음에라기보다는 같이 간다. 여기다\n웨어빌처럼 플러스를 얻는다라고\n이해하는게 맞겠네요. 네.\n알겠습니다.",
+      "analysis_date": "2026-03-30T06:05:53+00:00",
       "channel_name": "월텍남 - 월스트리트 테크남",
-      "topic_tags": [],
+      "topic_tags": [
+        "agents"
+      ],
       "keywords": [
+        "agents",
         "곧",
         "모두가",
         "체감할",
@@ -226,17 +257,21 @@
         "큰 담론보다 작은 병목 하나를 해결해주는 포장 방식이 클릭으로 이어지기 쉽다."
       ],
       "transcript_highlights": [
-        "넥스트 AI, 공간 컴퓨팅 - 애플·구글·메타가 사활을 건 2035 공간 기술 패권 시나리오 ― 교보문고: https://bit.ly/4aytf7J ― 예스24: https://bit.ly/4tQYhzf ― 알라딘: https://bit.ly/3OyxuYj"
+        "자, 저희 월택남 시청자분들께 인사",
+        "한번 같이 해 주시죠.",
+        ">> 안녕하세요. 반갑습니다.",
+        "자, 저희 월택남 시청자분들께 인사 한번 같이 해 주시죠.",
+        "오늘 제가 정말 정말 감명깊게 읽은 책이 있습니다.이 CES에서 두 분을 만나뵙고 그 이후로 제가 공간 컴퓨팅에 대해서 관심을 정말 많이 가졌는데 이번에 또 두 분이 책을 내셨더라고요."
       ],
       "top_comments": [
         {
           "video_id": "3Ne2lYnVoCw",
-          "comment_id": "UgyYEufi8G2_MdGCCkd4AaABAg",
-          "author": "@사삼이일",
-          "text": "공간컴퓨팅과 메타버스에 대한 차이를 좀 더 알게됐습니다. 메타버스 투자했다가 크게 당했(?)었지만...ㅋㅋ",
-          "like_count": 6,
+          "comment_id": "UgyxXdh7Jc0oF5rXtK94AaABAg",
+          "author": "@waltechman",
+          "text": "CES때 스마트 글라스를 쓰고.. AI에이전트가 붙을 곳은 \"글래스\"형태가 될 것이라 직감했습니다.\n첫 인터뷰 영상이라 다소 어색하긴 하지만..ㅎ 제가 궁금했던 내용들을 진짜 전문가 분들을 모시고 물어보았습니다:)\n\n댓글로 영상에 대한 의견을 남겨주시면 추첨을 통해 책을 5권 보내드리고 있으니 많관부입니다!!\n넥스트 AI, 공간 컴퓨팅 - 애플·구글·메타가 사활을 건 2035 공간 기술 패권 시나리오\n― 교보문고: https://bit.ly/4aytf7J\n― 예스24: https://bit.ly/4tQYhzf\n― 알라딘: https://bit.ly/3OyxuYj",
+          "like_count": 7,
           "reply_count": 0,
-          "published_at": "2026-03-29T12:21:43Z"
+          "published_at": "2026-03-29T11:33:34Z"
         },
         {
           "video_id": "3Ne2lYnVoCw",
@@ -283,63 +318,47 @@
       "description": "운동하시는 분들에게는 이미 아주 아주 유명한 샥즈에서 이번엔, 라이프스타일용? 올라운드용? 운동과 일상을 커버할 수 있는 플래그십 모델이 출시되었습니다. 사실 CES 2026에서 미리 공개되어 어느정도 소식은 알고 있었는데요, 샥즈는 무엇보다 착용감으로도 선호하시는 분들이 많아 이번엔 노이즈 리덕션까지 탑재되었다하여 한달간 사용해봤습니다!\n\n🔗 Sponsor.\n- 본 영상은 ‘샥즈’의 유료광고를 포함하고 있습니다.\n- 오픈핏 프로 구매 링크 (잇섭 기획전) : https://shokz.info/itsub_openfitpro\n- 매장 찾기 : https://shokz.co.kr/cs/service_shop.php\n- 오프라인 청음존: 하이마트, 교보문고, 일렉트로마트, ODE, GAZESHOP, 닥터사운드 등\n\n\n🔋 Specs.\n제품명 : 샥즈 오픈핏 프로\n스피커 : 공기 전도 스피커\n연결 : Bluetooth 6.1\n배터리 : 1회 충전 12시간 (노이즈 리덕션 끔) / 1외 충전 6시간 (노이즈 리덕션 켬)\n충전 : 10분 충전 시 약 4시간 음악 재생\n방수방진 : IP55\n가격 : 정가 369,000원\n\n\n🎵 BGM.\nES_Picturesque - Dusty Decks\n\n\n⏲️ Timestamps.\n00:00 너무슬퍼\n00:11 오프닝\n00:59 디자인\n02:49 착용감\n05:11 노이즈 리덕션\n09:19 음질\n12:30 통화 품질 & 기타 \n13:50 오늘의 결론\n\n\n🔖Tags.\n#샥즈\n#오픈핏프로\n#OpenFitPro\n#shokz\n\n\n💡 Merch.\n블랙카우랩스 굿즈를 사고 싶다면?\n-https://abit.ly/blackcowlabs\n\n\n📨 Business contacts.\n itsub@itud.io",
       "published_at": "2026-03-29T11:00:00Z",
       "duration_seconds": 885,
-      "view_count": 129121,
-      "like_count": 1697,
-      "comment_count": 352,
-      "engagement_rate": 0.01586883620789802,
+      "view_count": 131820,
+      "like_count": 1726,
+      "comment_count": 353,
+      "engagement_rate": 0.015771506599908967,
       "thumbnail_url": "https://i.ytimg.com/vi/ybNik9D9UNA/hqdefault.jpg",
       "video_url": "https://www.youtube.com/watch?v=ybNik9D9UNA",
       "format": "사례 분석",
       "hook_type": "문제 해결",
       "title_pattern": "핵심 포인트 직설형",
-      "one_line_summary": "샥즈의 신형 오픈핏 프로 이어폰을 한 달간 사용하며, 오픈형임에도 불구하고 노이즈 캔슬링 기능이 얼마나 효과적인지와 전반적인 음질, 착용감, 통화 품질 등을 솔직하게 리뷰하는 영상입니다.",
-      "why_it_works": "기존 샥즈 브랜드의 강점인 뛰어난 착용감과 운동 적합성을 계승하면서, 가장 의외의 기능인 노이즈 캔슬링을 오픈형 이어폰에 탑재했다는 점에서 호기심을 자극합니다. '이게 될까?'라는 의문을 직접 실험하고 보여주며, IT 전문 유튜버의 신뢰도 높은 리뷰로 일반 사용자들의 구매 결정에 도움을 줍니다.",
-      "recommendation": "• 샥즈 오픈핏 프로 vs 에어팟 프로 노캔 성능 비교 실험: 오픈형과 커널형 노캔 이어폰의 현실적인 차이를 일반인 눈높이에 맞춰 시연 (예: 카페 소음, 지하철 소음 비교) • '귀에 안 꽂는' 이어폰의 장점 극대화 실험: 험한 운동 환경(달리기, 점프 등)에서의 안정적인 착용감과 외부 소리 인지 능력 비교 시연 • 샥즈 오픈핏 프로 vs 타사 오픈형 이어폰(음질/노캔) VS 비교: 일반인이 선호하는 음원(K-Pop, 팝)으로 음질을 직접 비교하고, 노캔 성능을 일상 소음에서 비교하여 '진짜' 차이점 부각 • 샥즈 오픈핏 프로, '일상용'으로 써도 될까? 실험: 재택근무, 온라인 강의 등 다양한 일상 상황에서 노캔 성능과 편의성 집중 실험",
-      "transcript_status": "failed",
-      "transcript_source": "none",
-      "transcript_language": "",
-      "transcript_text": "",
-      "analysis_date": "2026-03-30T04:56:39+00:00",
+      "one_line_summary": "이 영상은 사례 분석 이슈를 사례 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "why_it_works": "문제 해결 훅으로 관심을 끌고, 사례 분석 형식으로 내용을 빠르게 정리해 시청자가 '바로 써먹을 수 있다'고 느끼게 만듭니다.",
+      "recommendation": "훅 구조: 도입 15초 안에 '문제 해결' 관점으로 문제를 못 박고, 왜 지금 봐야 하는지 먼저 선언합니다. • 복제할 포장 요소: 사례 분석 형식을 유지하되 사례 분석를 실제 사용 장면 1개와 결과 변화 2개로 더 좁혀 설명합니다. • 비어 있는 콘텐츠 영역: '사례 분석가 내 작업 흐름에서 어디에 꽂히는가'를 사례 중심으로 보여주는 후속 영상이 비어 있습니다. • 추천 제목: 사례 분석 이슈를 내 채널 관점으로 다시 정리해보자 • 썸네일 카피 힌트: 사례 분석 지금 봐야 할 3가지",
+      "transcript_status": "available",
+      "transcript_source": "apify",
+      "transcript_language": "ko",
+      "transcript_text": "카톡\n카톡 카톡\n카톡\n>> 안녕하세요. 이스비입니다. 많은\n매니아 층이 있고 특히 액티비티\n운동하시는 분들이 선호하는 샥라는\n브랜드에서 이번에 신 제품이\n나왔습니다. 정확히는 CS26에서\n공개되었던 제품인데 국내에서도 이게\n공개되고 나서 기대감도 많아서 오늘은\n샥츠 오픈피 프로 한 달 사용기를\n알려 드리려고 해요. 그냥 명칭은 한\n달 사용기라고 하지만 저는 미리\n테스트 제품으로 오래 전부터\n운동하면서 얘를 좀 사용해 봤습니다.\n그리고 이제이 색칠라는 브랜드도\n재작전장부터 써 보기 시작했거든요.\n이게 의외로 진짜 운동하시는\n분들에게는 인기가 엄청나더라고요.\n운동뿐만 아니라 전화통화를 많이\n하시던 분들에게도 인기가 되게\n많았고요. 근데 그 샥라는 브랜드에서\n하이엔드 급이 이번에 새롭게\n출시했다.이 뭐 참지 착지에서도 여러\n가지 이어폰이 있습니다. 그 중에서\n제가 이전에 소개했던 건 스포츠 따로\n있었고요. 얘는 라이프스타일용.\n거기서도 가장 플래그십으로 이번에\n나온 거예요. 디자인부터 보자면\n어쩌면 비교군이 따로 없긴 하지만\n이전에 이미 출시했던 오픈피\n2플러스가 프리미엄 급이고요. 그\n위에 플래그십으로 이번에 오픈피\n프로가 이제 출시한 것이죠. 먼저\n이제 저도 이제 처음에 봤자마자든\n이제 첫 인상이 어땠냐면 먼저 아쉬운\n건 케이스가 더 커졌습니다. 세로\n길이는 거의 비슷해요. 근데 가로\n길이가 이제 투플러스에 비해서 이제\n옆으로 조금 더 길어졌죠. 좋은\n점이라면 소재는 더 좋아졌어요. 어\n매트한 소재는 동일한데 얘가 뭔가\n마치 조개 같은 느낌. 투는 그냥\n일반 케이스처럼 생겼잖아요. 근데\n얘는 이렇게 투톤으로 되어 있고이\n무광 소재도 되게 많이 신경을 써서\n만든듯한 그런 느낌이 나더라고요.\n많이 고급스러졌어요. 아무래도\n플레너십이라서 그런가? 그리고 이제\n요즘 이제 기본인 케이스에서 이제\n무선 충전도 가능했고요. 여기서도\n열어보면 안쪽에 페어링 버튼도 2\n플러스에 들어가 있는 거랑 똑같이\n이렇게 페어링 버튼도 있어요. 그리고\n이번에 또 재미있게 이제 왼쪽\n오른쪽을 작은 이렇게 색칠를 해\n놨더라고요. 그리고 이제 케이스 이제\n내부 모습은 비슷하지만 요거를 꺼내서\n봐도 이제 유닛끼리 비교해도 꽤\n차이가 많았습니다. 그냥 딱 봐도\n오픈픽 프로가 훨씬 더 고급스러워\n보이죠. 소리를내는 스피커 쪽도 더\n길게 디자인이 되어 있고요. 얘는\n특이하게 새로운 기능 때문에 여기\n안쪽에 피드백 마이크가 있어요.요\n역할이 뭐냐면 귀 안쪽에 있는 소리를\n실시간으로 체크하는 역할을 해요.\n그리고 외부에도 피드 포워드\n마이크라고 외부 소음을 감지하는\n마이크가 두 개가 있고 여기 안쪽에\n버튼도 있습니다. 근데이 버튼이\n안쪽에 되게 작게 있거든요. 솔직히\n사용하면서 버튼 누르는 일이 많지\n않지만어요 버튼이 기존보다 더\n작아지고 약간 사이드 쪽으로 안쪽으로\n많이 들어갔단 말이에요. 그래서 요게\n손이 작거나 여성분들은 괜찮은데 손이\n큰 남성분들을 쓰는 데는 안쪽을\n클릭해야 돼서이 버튼 클릭감은 좀\n아쉬웠습니다. 그 외엔 외부에도 금속\n느낌을 주면서 여기 고급감터도 했고\n방수는 IP 5등급이라서 일반적인\n관경에서는 대부분 괜찮을 거예요.\n사실 제가 샥을 오랫동안 사용하면서\n가장 좋았던게 뭐냐면 운동하면서\n착용감이라고 생각해요. 얘도\n마찬가지로 완전 운동형으로 나온 건\n아니고 라이프 스타일로 나왔다고\n했잖아요. 그럼에도 불구하고 얘는 그\n샥에서는 뒤에 닿는 부분을\n울트라소프트 실리콘 2.0이라는\n이라는 것을 적용했다고 합니다.\n그래서요 부분이 엄청 부드럽습니다.\n그럼 또 그렇게 생각할 수도 있죠.\n얘가 엄청 부드러우면 말캉말한게\n아닌가요? 요것도 실제로\n만져보잖아요. 그러면 막 물친대처럼\n한없씩 부드러운게 아니라 이게\n안쪽에는 되게 단단합니다.이 안쪽에도\n니켈 티타늄 합금으로 되어 있어서이\n후크가 되게 단단하게 되어 있고요.\n귀에 착용했을 때도 요렇게 그냥\n착용하면 되는데 예, 이렇게 되게\n부드럽게 착용됩니다. 후크가 이렇게\n돌아가면서 렇게 고정되어 있어요.\n플러스가 요라 느낌이에요.\n뒤에도 야, 착는 착용할 때마다 진짜\n착용감은 확실히 좋아요. 확실히\n실제로도 착용해 보면 귀에 걸치고\n있다라는 느낌은 분명히 들긴 합니다.\n이게 거의 뭐 깃털처럼 가볍다. 귀에\n착용 안 한 거 같다. 사실 그\n정도까진 아니거든요. 그 착용한\n느낌은 나지만 되게 매우매우\n편합니다. 게다가 샥즈가 커형이나\n귀에 넣는 오픈형처럼 나온게 아니라\n귀에서 닿는 오픈형 방식이거든요. 귀\n안쪽으로 안 들어가죠? 네. 요런\n식으로 되어 있습니다. 약간 그\n골전도 이어폰네 그 느낌이에요. 제가\n얘를 쓰면서이 착용감이 왜 좋았냐면\n특히 제가 운동할 때 땀흘리고\n하잖아요. 그러면 커널염은\n웨이도염이나 땀 때문에 사실 막\n찝찝하기도 하고 또 런닝 머신을 뛰면\n땅반 진동 때문에 귀에서 조금씩\n빠져요. 그래서 예전에 제가\n리뷰했다시피 저는 운동할 때는\n오픈형을 조금 더 선호하는 편이고\n거기서 얘는 귀 안쪽에 아예 닿지\n않다 보니까 통기성이 좋아서 운동할\n때는 진짜 좋더라고요. 또 얘가\n스포츠 용으로 나온 건 아니란\n말이에요. 그래서 아 이게 런닝\n머신에서 강하게 뛰면은 떨어질까 해서\n한번 그것도 해 봤거든요. 러닝\n머신에서 강하게 뛰어도 떨어지지도\n않았어요. 물론 그렇게 전문적으로\n뛰시는 분들은 오플런이라는 시리즈가\n따로 있고요. 그거는 두 유닛이 머리\n뒤에서 잡고 있기 때문에 솔직히\n착용감만 봤을 때 뛸 때의 착용감은\n오플런이 더 좋긴 합니다. 그데 그냥\n일반적인 헬스나 러닝 머 이런 거 할\n때는 얘도 충분해요. 특히 또 그럴\n수도 있거든요. 저처럼 안경 쓰시는\n분이 이게 불편하지 않나요? 하실 수\n있는데 그냥 일반적인 안경에서는\n괜찮습니다. 그 얇은 태적인 태에서는\n괜찮고 아마 뿔테 쓰시는 분들은 이게\n분명히 간섭이 좀 많이 생기고\n불편하긴 할 거예요. 저는 샥츠를\n모든 제품을 써 본 건 아니지만 이번\n모델에 착용 감지 센서가\n들어왔습니다. 그래서 이어 폰을\n벗으면 음악이 일시 정지되고 착용하면\n재생되고 요게 돼요. 그리고 무게감은\n이게 막 엄청 가벼운 건 아닌데\n투플러스보다는 조금은 더 느껴진\n느낌이랄까요? 아무래도 이게\n스피커나이 유닛이 더 커져서 그럴까?\n그리고 이번에 또 새롭게 들어간\n기능이 뭐냐면 노이즈 리덕션이라는게\n이번 오픈 P프에 새롭게 그 처음으로\n들어갔습니다. 그럼 또 그럴 수도\n있습니다. 이거 노이즈 캔슬링\n아니에요. 다른 오픈형 노캔에 비해서\n어때요라고 물어볼 수도 있는데 사실\n이제 샥즈는 아까 말했다시피\n노캔이라는 용어로 쓰지 않고 노이즈\n리덕션이라는 이름을 써요. 그래서\n샥즈에 물어봤습니다. 왜이 기능을\n만들었냐 물어보니까 전 세계 샥스\n사용자분들이 시끄러운 환경에서 음량을\n키우면서 쓰고 있어서 그게 유일하게\n조금 아쉬웠다라고 이야기를 해서 보통\n이제 주변에서 엄청 시끄러우면 우리가\n볼륨을 올리잖아요. 근데 그 주변\n소음을 삭제해 버리면 똑같은 볼륨에서\n더 선명하게들을 수 있다 보니까이\n기능을 만든 거죠. 그래서 얘를 바로\n처음에 받자마자 테스트를 해\n봤거든요. 와, 이게 생각보다 저는\n되게 만족스러웠습니다. 이게 마치\n무슨 느낌이냐면 우리가 일반적으로\n보는 노이즈 캔슬링의 느낌이랑은 좀\n많이 다릅니다. 요즘 스마트폰 보면\n영상을 찍고 나서 후보 그 사람의\n목소리만 캐치하고 주변섬을 삭제하는\n기능이 있잖아요.\n>> 뭐 먹을 거야? 뭐 먹을 거야?\n>> 아, 그거보다 더 진화된\n느낌이랄까요? 주변의 작업은 다\n사라지고 사람의 목소리만 뚜렷하게\n남는 그런 느낌. 물론 이게 분명\n오픈형의 한 개도 있기 때문에\n밀폐되어 있는 노이즈 캔슬링 이런\n거랑 비교가 1대일로 되진 않지만\n그럼에도 불구하고이 노이즈\n리덕션이라고 해서 노켓보다도 많이\n약할 것 같은데 생각보다 상당히\n효과가 좋아요. 이게 또 이제\n노캔이랑 그래도 비교를 하잖아요.\n그러면 작다른 노캔처럼 저역대의\n성능은 아주 좋습니다. 그러니까 저음\n궁정음요 정도의 사운드는 와 아주 잘\n됩니다. 아주 잘돼. 대신 고역대는\n물리적으로 얘가 뚫려 있다 보니까\n고역대는 예, 막지 못하고요.\n아무래도 보통 녹hed들도 저역대의\n성능은 좋지만 고역대는 물리적인 그게\n참으로 많이 맞고 저역 중력대가\n상능에 많이 좌우하거든요. 저는\n진짜이 노이즈 리덕션이 아주 마음에\n들어요. 마치 그 노캔 성능 이어폰을\n제가 엄청 많이 써 봤잖아요. 근데\n그렇게 노캔을 하게 된다면 아무래도\n주변에서 나한테 말을 걸 때는 누가\n나한테 말을 하네? 이어폰을 벗고\n다시 한번 말을 하잖아요. 그게\n아니라 그냥 나는 적당한 노캔을\n쓰면서 목소리는 정확하게 한 번에\n캐치하는 느낌이랄까요? 이게 효과가\n언제 또 좋냐면 사무실에서 만약 뭐\n에어컨이나 히터 뭐 3D 프린터\n이렇게 막 팬이 돌아가는게 있잖아요.\n소음을 다 그냥 없애 줘요. 대신\n살짝 호불러가 있을 수도 있겠다라고\n느낀 점도 있습니다. 저도 저희 내부\n스튜디오에서 테스트를 했을 때\n어땠냐면 모두 거의 대부분은\n호였거든요. 근데 이상한 압박감이 좀\n불편하고 멀미가 난다라고 하시는\n분들도 있어요. 이게 또 어떻게\n되냐면 아까 얘는 마이크가 세 개\n들어갔다고 하잖아요. 그 마이크가\n주변 그리고 귀 안쪽에 소리를\n분석해서 스피커로 여기상의 파형을 쏴\n줘서이 소음을 감소시키는 거라서\n오히려 이게 멀미가 난다라고 느끼시는\n분들도 있더라고요. 그리고 또 이제\n바람 소리가 날 때 달리면서\n야외에서도 한번 테스트를 해 보니까\n너무 강한 바람이 불면 노이즈\n리덕션은 자동으로 꺼졌습니다.\n전반적으로 저는 노이즈 리덕션이\n생각보다 그렇게 막 안 셀 거라고\n생각을 했었는데 실제로 써본이\n개인적으로 아주 아주 만족했고 아마\n최대 단점이라면 노이즈 리덕션을 켰을\n때 배터리 타이밍이 절반으로 줄어서\n든다는 거 그거 빼고는 전 되게\n만족스러워요. 그리고 앱도 뭘까요?\n앱도 이제 샥즈 전용 앱이 있어서\n요거를 보면 기본적으로 이제 노이즈\n리덕션을 착용을 하라고 하네. 네.\n착용해서 뭐들게요. 자, 이렇게\n착용하고 이렇게 착용했을 때 오픈\n모드는 그냥 아예 노이즈 리덕션을\n사용하지 않는 모드이고요. 노이즈\n리덕션을 켜면 뚱둥 뚝 하면서\n주변의 소음을 많이 삭제시킵니다.\n노이즈 리덕션도 이제 1단계부터\n10단계로 조절해서 요렇게 강도\n조절이 가능하고 그리고 돌비\n에트모스도 이번에 지원합니다. 기존엔\n돌비 오디오를 지원했는데 이번에 돌비\n애트모스를 지원하더라고요. 헤드\n트리킹도 이렇게 이제 내가 움직이는\n방향에 따라서 소리가 따라오는고\n기능도 지원을 하고 어 멀티포인트\n페어릭도 가능합니다. 요거는 동시에\n두 개까지 연결 가능하고 제스처\n조작도 아까 말했던 그 버튼\n있잖아요. 버튼을 한 번 누르거나 두\n번 누르거나 꾹 누르거나네 요렇게 할\n수 있는데 요게 아쉬운 점이라면 보통\n이제 한 번 클릭을 좀 많이\n사용해요. 근데 한 번 클릭은 거의\n기능이 사실상 고정되어 있다. 대신\n이제 나머지는 그래도 이제 조금은 더\n커스텀 할 수 있습니다.\n오 오디오 연결. 아 이것 이것도\n재밌어. 이것도 특이하게 그냥 이제\n블루투스를 연결했을 때 표준 균형\n모드가 있고 저지온 우선 모드,\n안정성 우선 모드 이렇게 있더라고요.\n어, EQ도 내가 원하는 대로 할 수\n있습니다. 개인하드 EQ로 하면\n10개의 밴드도 커스텀 가능해요.\n그리고 음질도 한번 비교해서\n들어봤습니다. 물론 이제 2플러스보다\n오픈 프로가 더 상위 모델이기 때문에\n당연히 얘가 더 좋겠지만 그래도\n어떻게 요거를 비교해서 들려 드릴까\n해서 이제 2플러스랑 오픈픽 프로랑\n비교를 해 봤거든요. 일단 프로인만큼\n소리는 역시 꽤 좋아요. 드라이버\n크기도 되게 많이 커졌더라고요. 첫\n번째 곡은 하츠투 하츠의 루드로\n들어봤습니다.이 곡은 하우스베이스의\n케팝이죠. 빠른 템포와 통통 튀는\n신스, 그로브가 돋보이는 귀여운\n스타일의 댄스 곡기예요. 수플러스\n같은 경우에는 중구역대가 굉장히\n강조되어서 들렸고요. 좀 거친\n음색으로 들리더라고요. 시자릅니다.\n외곡이 조금 더 느껴진다까요? 비트가\n원래 있어야 할 위치보다 조금 더\n멀리서 떠다니는듯한 느낌이 들었어요.\n그리고 저녁대가 좀 심심했고요. 그이\n오픈픽 프로로 들었을 때는 거칠게\n들리던 중고역대가 꽤 밸런스 있게\n잡힌듯한 느낌이었습니다. 게다가\n전장에 비해 저역대가 훨씬 더 잘\n들려요. 물론 일반적인 커널형이랑\n비교하면 좀 부족하긴 하지만요. 다만\n이제 오픈픽 프로 같은 경우에는\n베이스가 엄청 강하단 말이에요.\n그래서 뭐랄까이 흥이 돋는 약간 좀\n쿵쿵되는 그런 음악을 들으시는\n분들이라면 마치 그냥 외장 블루투스\n스피커처럼 되게 저음이 강하구나라고\n느껴서 더 좋아하실 분들도 있지만 또\n이제 귀에서이 저음이 많이 떨린단\n말이에요. 그래서 그 작은 진동이\n느껴져서 신경 쓰이실 분들이 있을 것\n같더라고요. 두 번째 곡은 찰리포스의\n홈입니다.이 곡은 컨템리 R&B와\n네오소이 혼합된 미디엄 템포의\n팝이랄까요? 남성과 여성 보컬이\n데비되는 이국적인 곡이죠. 오픈피 2\n같은 경우에는 보컬이 좀 거친\n느낌이랄까요? 훅에서도 멜로디랑\n보컬이 섞이면서 치자랑 같은게 섞여서\n들리는 사운드를 들려줬습니다. 그에\n입비 오픈피 프로는 투플러스에 비\n보컬이든 후기든 부드러워진 사운드를\n들려 주더라고요. 여성 보컬이 되게\n부드럽게 미싱된 곳 같은데 투플러스는\n비교적 거친 성향이라서 그런지 오픈픽\n프로보다 더 인지하기 쉬운 편이고\n오픈피 프로는 부드럽게 되게 잘\n어울리는 사운드로 들려줬습니다. 세\n번째는 우주의 휴먼 익스텐션입니다.이\n곡은 강렬한 락 사운드와 감성적인\n보컬이 어우러지는 날카로운 느낌의\n밴드 사운드예요. 2플러스는 보컬도\n좀 더 잘 들렸고요. 기타의 존재감이\n프로보다 더 잘 사는 느낌이더라고요.\n이런에서는 오픈픽 프로보다 더\n파워풀하게 들리는게 오히려\n투플러스였다. 그러면 풀은 어땠냐?\n얘는 드럼에 존재감은 투플러스보다 더\n잘 살았습니다. 투플러스로 듣다가\n이거로 들으니까 약간 심심한 느낌이\n들기도 했어요. 보컬이 좀 묻히는듯한\n느낌이 들기도 했었고요. 전반적으로\n보자면 프로 같은 경우에는 강화된 점\n부드러워진 중고역대 이게 일반적인\n이어폰이랑은 좀 다른 느낌이랄까요?\n특징이라면 저역대가 생각보다 엄청\n강하게 때려주거든요. 근데 이거를\n무작정 저음 베이스 이거를 부스팅해서\n때리는게 아니라 단단한 형태의\n저음이에요. 아, 이게 베이스가 엄청\n큰 건 아닌데 출력이 강해서 단단한\n사운드를 들려준 느낌. 대신 발라드\n같은 잔잔한 음악을들을 때는 힘을 못\n쓰는 느낌이기도 했어요. 아마\n운동하거나 활동적인 사람은 잔잔한\n음악보다는 신나는 음악을 대체로 듣다\n보니까 이쪽을 더 강화한듯한\n느낌이랄까요? 또 특징이라면 뭐\n베이스나 이런 것도 강하시긴 했지만\n전반적으로 외곡을 없애려고 노력을 한\n흔적이 보였습니다. 다음은 통화\n품질입니다. 보통 요런 이제\n라이프스타일 제품들은 운동할 때\n통화도 많이 하기도 하지만이 통화만을\n위해서 구입하시는 분들도 많더라고요.\n그래서 A사의 유명한 제품과 비교를\n해 봤습니다. 참고로 요거는 이제 집\n앞에서 엄청 크게 이제 뭐 콘크리트를\n깨는 뭐 그런 공사를 해서 엄청\n시끄럽거든요. 그 환경에서 테스트를\n했을 땐\n>> 지금 1번이요 번째 거 1번\n>> 네\n>> 1번 통합품질고 앞에서 크게 지금\n공하고 있거든요. 아 아 아\n들리시나요? 지금 2번이에요. 2번\n차이가 느껴지시나요?\n>> 네네. 기본적으로 통화 품질이 좋은게\n뭐냐면 그냥 사람이 들어도 와 이거는\n좀 많이 시끄럽다 그 정도의 공사\n환경이었는데 둘 다 공사 소음은\n통화에서 전혀 들리진 않았습니다.\nA사의 제품은 그냥 스마트폰으로\n동화하는 것과 유사한 음주가 볼륨으로\n들렸습니다. 이때 이제 오픈비 프로랑\n비교해서 들어봤거든요.요 오픈비\n프로는 목소리가 음질은 좀 떨어지는\n느낌이지만 대신 목소리가 훨씬 크고\n뚜렷하게 들리는 동화품질을\n보여줬어요. 아무래도 얘는 이제 바람\n소리가 많거나 뛰면서 운동하면서\n이렇게 움직이면서 쓰는 환경이 많아서\n그런지 목소리를 강조하는\n느낌이랄까요? 사용하면서 또\n추가적으로 느낀 건 블루투스\n6.21을 미를 지원해서 그런지\n페어링 속도 굉장히 빨랐습니다. 거의\n케이스에 꺼내서 그냥 착용하는 순간\n페어링은 거의 다 돼 있어요. 인식\n거리도 생각보다 되게 길었던게 제가\n컴퓨터 방에서 이렇게 이제 일을\n하면서 얘로 노 듣고 있잖아요. 그때\n이제 물을 가져러 가기 위해서\n부엌까지 가는데이 거리가 꽤 되는데도\n안 끊기고 잘 되더라고요. 제가\n오픈피 프로로를 운동할 때 오랫동안\n사용하면서 느낀 점이 뭐냐면 대체로\n플래그십 나오면서 전반적인 샥즈\n라인업 중에서는 올라온드 향의 성격을\n갖고 있다는 느낌이 들었습니다. 제가\n좀 오래서 뭐 오플런이랑 비교하면\n착용을 제외한다면 저는 오픈비 프로가\n모든 면에서 더 좋았어요. 음도\n비교가 안 될 정도로 오픈비 프로가\n더 좋고 특히 그 해상력도 좋고\n음악의 외곡도 없고 되게 단단한 그런\n느낌. 아마 진짜 달리기를 좋아하시는\n러너분들이라면 여전히 오플러 시리즈로\n더 추천드리지만 전체로 쓰긴이 오픈\n프로가 상당히 괜찮을 것 같습니다.\n특히 기존에 샥질를 쓰면서 되게\n만족하셨던 분들이란 말이죠. 아무튼\n오늘 여기까지며 어 가격을 이제\n이야기하지 않을 수 없는데 가격은 어\n36만9,000원으로 사실 저렴한\n가격은 아닙니다. 근데 편리나 기존\n색치 형태, 오픈형의 경험이 좋아서\n요러한 형태를 또 이제 써야 하시는\n분들도 있는데 그런 분들에게 이번에\n제가 같이 협업을 하면서 이제 이섭자\n전용 기획전을 만들었기 때문에\n필요하신 분들은 더보이랑 고정 댓글에\n제가 남겨 놓을테니까 요거를 한번\n참고해 보셔도 좋을 것 습니다.",
+      "analysis_date": "2026-03-30T06:05:51+00:00",
       "channel_name": "ITSub잇섭",
-      "topic_tags": [
-        "이어폰",
-        "무선이어폰",
-        "샥즈",
-        "오픈핏프로",
-        "노이즈캔슬링",
-        "IT기기"
-      ],
+      "topic_tags": [],
       "keywords": [
-        "샥즈오픈핏프로",
-        "샥즈이어폰",
-        "오픈형이어폰",
-        "골전도이어폰",
-        "노이즈캔슬링이어폰",
-        "운동용이어폰",
-        "IT리뷰",
-        "잇섭"
+        "귀에",
+        "걸치는",
+        "이어폰인데",
+        "왜"
       ],
       "tools": [],
       "flow": [
-        "제품 디자인 및 구성품 소개",
-        "실제 착용감 및 안정성 테스트 (운동 상황 포함)",
-        "가장 핵심적인 노이즈 캔슬링 성능 실험 및 분석 (다양한 환경)",
-        "음질 평가 (음악 감상)",
-        "통화 품질 및 부가 기능 테스트"
+        "처음 15초 안에 문제를 선명하게 정의하고 왜 지금 봐야 하는지 못 박는다.",
+        "중간 구간에서 툴, 사례, 비교 포인트를 빠르게 제시해 정보 밀도를 높인다.",
+        "마지막에는 시청자가 바로 따라할 수 있는 다음 액션과 적용 예시로 닫는다."
       ],
       "claims": [
-        "샥즈 오픈핏 프로는 오픈형 이어폰이지만 노이즈 캔슬링 기능을 제공한다.",
-        "한 달간의 사용 결과, 노이즈 캔슬링 성능이 기대 이상이다.",
-        "착용감이 매우 뛰어나며 운동 시에도 안정적이다.",
-        "음질 또한 만족스러운 수준이다.",
-        "통화 품질도 준수하다."
+        "단순 소개보다 실제 사용 장면을 바로 보여주는 구조가 반응을 만든다.",
+        "큰 담론보다 작은 병목 하나를 해결해주는 포장 방식이 클릭으로 이어지기 쉽다."
       ],
       "transcript_highlights": [
-        "00:59 디자인 - 샥즈 특유의 디자인 언어를 계승하면서도 라이프스타일용으로 다듬어진 외형을 보여줍니다.",
-        "02:49 착용감 - 귀에 거는 방식의 뛰어난 착용감과 격렬한 운동 중에도 흘러내리지 않는 안정성을 강조합니다.",
-        "05:11 노이즈 리덕션 - 오픈형임에도 불구하고 노이즈 캔슬링이 작동하는 원리를 설명하고, 실제 주변 소음 감소 효과를 다양한 상황에서 테스트합니다.",
-        "09:19 음질 - 오픈형 이어폰의 한계를 넘어서는 준수한 음질과 웅장한 사운드를 들려줍니다.",
-        "12:30 통화 품질 & 기타 - 마이크 성능을 통한 통화 품질과 추가적인 편의 기능(멀티포인트 등)에 대해 언급합니다."
+        "카톡 카톡 카톡 카톡 >> 안녕하세요.",
+        "많은 매니아 층이 있고 특히 액티비티 운동하시는 분들이 선호하는 샥라는 브랜드에서 이번에 신 제품이 나왔습니다.",
+        "정확히는 CS26에서 공개되었던 제품인데 국내에서도 이게 공개되고 나서 기대감도 많아서 오늘은 샥츠 오픈피 프로 한 달 사용기를 알려 드리려고 해요.",
+        "그냥 명칭은 한 달 사용기라고 하지만 저는 미리 테스트 제품으로 오래 전부터 운동하면서 얘를 좀 사용해 봤습니다.",
+        "그리고 이제이 색칠라는 브랜드도 재작전장부터 써 보기 시작했거든요."
       ],
       "top_comments": [
         {
@@ -347,7 +366,7 @@
           "comment_id": "UgwBr_Mu5UyTrfN7x8F4AaABAg",
           "author": "@ArcadeArchive_yt",
           "text": "이어폰도 어떻게 보면 귀에 거는 귀고리인데 안빠지게 귀걸이가 잘 되야",
-          "like_count": 66,
+          "like_count": 67,
           "reply_count": 2,
           "published_at": "2026-03-29T11:05:45Z"
         },
@@ -396,40 +415,52 @@
       "description": "해당 영상은 AI로 제작한 팬메이드 영상입니다.\n사용한 툴: freepik 시네마틱 이미지, 나노바나나프로, 클링 3.0, suno",
       "published_at": "2026-03-29T10:09:37Z",
       "duration_seconds": 108,
-      "view_count": 81173,
-      "like_count": 1608,
-      "comment_count": 309,
-      "engagement_rate": 0.023616227070577655,
+      "view_count": 89716,
+      "like_count": 1641,
+      "comment_count": 314,
+      "engagement_rate": 0.021790984885639127,
       "thumbnail_url": "https://i.ytimg.com/vi/ZLWKduivLfo/hqdefault.jpg",
       "video_url": "https://www.youtube.com/watch?v=ZLWKduivLfo",
       "format": "뉴스 분석",
       "hook_type": "문제 해결",
-      "title_pattern": "핵심 포인트 직설형",
-      "one_line_summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "why_it_works": "문제 해결 훅으로 관심을 끌고, 뉴스 분석 형식으로 내용을 빠르게 정리해 시청자가 '바로 써먹을 수 있다'고 느끼게 만듭니다.",
-      "recommendation": "훅 구조: 도입 15초 안에 '문제 해결' 관점으로 문제를 못 박고, 왜 지금 봐야 하는지 먼저 선언합니다. • 복제할 포장 요소: 뉴스 분석 형식을 유지하되 뉴스 분석를 실제 사용 장면 1개와 결과 변화 2개로 더 좁혀 설명합니다. • 비어 있는 콘텐츠 영역: '뉴스 분석가 내 작업 흐름에서 어디에 꽂히는가'를 사례 중심으로 보여주는 후속 영상이 비어 있습니다. • 추천 제목: 뉴스 분석 이슈를 내 채널 관점으로 다시 정리해보자 • 썸네일 카피 힌트: 뉴스 분석 지금 봐야 할 3가지",
+      "title_pattern": "AI + IP + 영상 타입",
+      "one_line_summary": "AI 기술을 활용하여 유명 만화 '베르세르크 황금시대편'의 실사화 트레일러를 팬메이드로 제작한 영상으로, 뛰어난 영상미와 음악으로 원작 팬들의 몰입도를 높였다.",
+      "why_it_works": "익숙하고 팬층이 두터운 '베르세르크' IP를 활용하여 일반인들에게도 흥미를 유발하고, AI 기술로 구현한 높은 퀄리티의 시네마틱 영상이 시각적인 만족감을 제공하기 때문이다. 특히 트레일러 형식으로 제작되어 짧지만 강렬한 인상을 남긴다.",
+      "recommendation": "• 'AI vs 실제' 비교 실험: 스마트대디가 직접 AI 툴을 활용해 '베르세르크' 주요 장면을 재현하고, 원작 영상이나 기존 실사 영화 장면과 비교하여 AI의 한계와 가능성을 보여주는 실험 콘텐츠 기획 • 일반인 타겟 실험: AI로 '나만의 베르세르크 캐릭터' 만들기 혹은 'AI로 베르세르크 평행세계 트레일러 만들기' 등, AI 결과물을 시각화하여 일반인 시청자들이 쉽게 이해하고 흥미를 느낄 수 있는 실험 진행 • 'IP + AI' 융합 콘텐츠 확장: 베르세르크 외에 다른 유명 IP(예: 해리포터, 반지의 제왕 등)를 AI로 재해석하거나, 특정 장면을 AI로 실사화하는 VS 비교 콘텐츠로 확장하여 다양한 IP 팬층 확보 • 'AI 툴 체험기' 포맷 활용: 영상에서 사용된 AI 툴(Kling, Suno 등)을 스마트대디 채널에서 직접 사용해보며, 각 툴의 사용법, 결과물, 장단점을 일반인 눈높이에 맞춰 쉽고 재미있게 소개하는 영상 제작",
       "transcript_status": "failed",
       "transcript_source": "none",
       "transcript_language": "",
       "transcript_text": "",
-      "analysis_date": "2026-03-30T04:56:36+00:00",
+      "analysis_date": "2026-03-30T06:05:48+00:00",
       "channel_name": "Fantasoner(판타소너)",
-      "topic_tags": [],
-      "keywords": [
+      "topic_tags": [
+        "AI",
         "베르세르크",
-        "황금시대편",
         "실사화",
-        "트레일러"
+        "팬메이드",
+        "영화트레일러",
+        "AI베르세르크"
+      ],
+      "keywords": [
+        "AI베르세르크",
+        "베르세르크실사",
+        "AI영화",
+        "팬메이드트레일러",
+        "CG",
+        "가짜예고편",
+        "anime",
+        "manga"
       ],
       "tools": [],
       "flow": [
-        "처음 15초 안에 문제를 선명하게 정의하고 왜 지금 봐야 하는지 못 박는다.",
-        "중간 구간에서 툴, 사례, 비교 포인트를 빠르게 제시해 정보 밀도를 높인다.",
-        "마지막에는 시청자가 바로 따라할 수 있는 다음 액션과 적용 예시로 닫는다."
+        "인트로: AI 기술로 '베르세르크' 실사 트레일러를 만들었음을 알림",
+        "영상 전개: AI로 제작된 '베르세르크 황금시대편'의 주요 장면들을 담은 트레일러 영상 재생 (시네마틱 이미지, AI 영상, 음향 효과)",
+        "아웃트로: 영상 제작에 사용된 AI 툴 소개 및 팬메이드 영상임을 다시 한번 강조"
       ],
       "claims": [
-        "단순 소개보다 실제 사용 장면을 바로 보여주는 구조가 반응을 만든다.",
-        "큰 담론보다 작은 병목 하나를 해결해주는 포장 방식이 클릭으로 이어지기 쉽다."
+        "AI 기술을 활용하여 '베르세르크 황금시대편'의 실사 트레일러를 제작했다.",
+        "Freepik 시네마틱 이미지, Nanobana pro, Kling 3.0, Suno 등의 AI 툴을 사용했다.",
+        "제작된 영상의 퀄리티가 매우 높다."
       ],
       "transcript_highlights": [
         "해당 영상은 AI로 제작한 팬메이드 영상입니다.",
@@ -441,7 +472,7 @@
           "comment_id": "UgzZeMYjN7HNrVx9TAN4AaABAg",
           "author": "@Gerieoeref",
           "text": "이번에도 퀄리티 미쳤네 역시 믿고 보는 판타소너",
-          "like_count": 104,
+          "like_count": 107,
           "reply_count": 1,
           "published_at": "2026-03-29T10:28:16Z"
         },
@@ -450,7 +481,7 @@
           "comment_id": "Ugxe6E9-0S_p5-OUKed4AaABAg",
           "author": "@김스킵",
           "text": "아 이건 진짜 소름돋네요 미친거 아닌가요???",
-          "like_count": 72,
+          "like_count": 75,
           "reply_count": 0,
           "published_at": "2026-03-29T10:37:58Z"
         },
@@ -459,7 +490,7 @@
           "comment_id": "Ugyw-DQ4N52m0nZsE-x4AaABAg",
           "author": "@김씨-e9i",
           "text": "지금까지 나온 판타소너님 ai작품중 역대급이라고 단언할수 있을듯",
-          "like_count": 62,
+          "like_count": 66,
           "reply_count": 0,
           "published_at": "2026-03-29T10:20:26Z"
         },
@@ -468,7 +499,7 @@
           "comment_id": "Ugygz_Yaqew8FpNTROt4AaABAg",
           "author": "@kknd3",
           "text": "굉장히 자연스럽다. 나중에는 진짜 배우가 필요없을 거 같아.",
-          "like_count": 40,
+          "like_count": 41,
           "reply_count": 0,
           "published_at": "2026-03-29T10:51:58Z"
         },
@@ -477,7 +508,7 @@
           "comment_id": "UgzLkmHPtwcWXJfSk0V4AaABAg",
           "author": "@JustAnimalAI-h5s",
           "text": "여기는 보는 맛이 있다.",
-          "like_count": 32,
+          "like_count": 33,
           "reply_count": 0,
           "published_at": "2026-03-29T10:56:44Z"
         }
@@ -490,10 +521,10 @@
       "description": "맥북 네오 vs 맥북 프로 스피커 비교\n주연의 찐 반응ㅋㅋㅋ",
       "published_at": "2026-03-29T08:48:22Z",
       "duration_seconds": 29,
-      "view_count": 84070,
-      "like_count": 910,
+      "view_count": 87351,
+      "like_count": 942,
       "comment_count": 54,
-      "engagement_rate": 0.011466634947067919,
+      "engagement_rate": 0.011402273585877667,
       "thumbnail_url": "https://i.ytimg.com/vi/ClCv0Qmj21g/hqdefault.jpg",
       "video_url": "https://www.youtube.com/watch?v=ClCv0Qmj21g",
       "format": "비교",
@@ -502,11 +533,11 @@
       "one_line_summary": "이 영상은 비교 이슈를 비교 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
       "why_it_works": "솔직 검증 훅으로 관심을 끌고, 비교 형식으로 내용을 빠르게 정리해 시청자가 '바로 써먹을 수 있다'고 느끼게 만듭니다.",
       "recommendation": "훅 구조: 도입 15초 안에 '솔직 검증' 관점으로 문제를 못 박고, 왜 지금 봐야 하는지 먼저 선언합니다. • 복제할 포장 요소: 비교 형식을 유지하되 비교를 실제 사용 장면 1개와 결과 변화 2개로 더 좁혀 설명합니다. • 비어 있는 콘텐츠 영역: '비교가 내 작업 흐름에서 어디에 꽂히는가'를 사례 중심으로 보여주는 후속 영상이 비어 있습니다. • 추천 제목: 비교 이슈를 내 채널 관점으로 다시 정리해보자 • 썸네일 카피 힌트: 비교 지금 봐야 할 3가지",
-      "transcript_status": "failed",
-      "transcript_source": "none",
-      "transcript_language": "",
-      "transcript_text": "",
-      "analysis_date": "2026-03-30T04:56:38+00:00",
+      "transcript_status": "available",
+      "transcript_source": "apify",
+      "transcript_language": "ko",
+      "transcript_text": "북 네오로 한번 틀어 보겠습니다.음\n[음악]\n나쁘지 않은데. 맥북프로 한번 틀어\n볼게요.\n아이고. [웃음]\n아 잠깐만. 아 잠깐만. 진짜\n미안하다. 내가 비교 상대를 신입\n사원을 지금 차장님이랑 비교하려고\n했던 저의 불자 다르긴 다르다.",
+      "analysis_date": "2026-03-30T06:05:51+00:00",
       "channel_name": "주연 ZUYONI",
       "topic_tags": [],
       "keywords": [
@@ -526,7 +557,11 @@
         "큰 담론보다 작은 병목 하나를 해결해주는 포장 방식이 클릭으로 이어지기 쉽다."
       ],
       "transcript_highlights": [
-        "맥북 네오 vs 맥북 프로 스피커 비교 주연의 찐 반응ㅋㅋㅋ"
+        "북 네오로 한번 틀어 보겠습니다.음",
+        "나쁘지 않은데. 맥북프로 한번 틀어",
+        "북 네오로 한번 틀어 보겠습니다.음 [음악] 나쁘지 않은데.",
+        "맥북프로 한번 틀어 볼게요.",
+        "내가 비교 상대를 신입 사원을 지금 차장님이랑 비교하려고 했던 저의 불자 다르긴 다르다."
       ],
       "top_comments": [
         {
@@ -534,7 +569,7 @@
           "comment_id": "UgzTPfFFBRIhXwYWuLB4AaABAg",
           "author": "@itwasjustbored",
           "text": "역시 음향은 역체감이야",
-          "like_count": 170,
+          "like_count": 179,
           "reply_count": 4,
           "published_at": "2026-03-29T09:26:05Z"
         },
@@ -543,7 +578,7 @@
           "comment_id": "Ugwuh5c1qzZUCaGfInJ4AaABAg",
           "author": "@뱀파_Vampire",
           "text": "ㅋㅋㅋ 저 틀자마자 ‘아이고’ 진짜 웃기긴 하네요ㅋㅋ",
-          "like_count": 112,
+          "like_count": 117,
           "reply_count": 0,
           "published_at": "2026-03-29T09:14:49Z"
         },
@@ -552,7 +587,7 @@
           "comment_id": "Ugyq0G24VTleE5I6LcB4AaABAg",
           "author": "@ir20080",
           "text": "맥북프로 소리 듣고 정말 깜짝 놀람.. 이게 노트북 스피커라니..",
-          "like_count": 66,
+          "like_count": 71,
           "reply_count": 3,
           "published_at": "2026-03-29T09:59:48Z"
         },
@@ -561,7 +596,7 @@
           "comment_id": "UgwExoj_D2o4y7oGcl54AaABAg",
           "author": "@pez_eomum",
           "text": "주연님이 죽인거야...! 당신이 죽였어...! ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
-          "like_count": 65,
+          "like_count": 67,
           "reply_count": 0,
           "published_at": "2026-03-29T09:19:20Z"
         },
@@ -570,7 +605,7 @@
           "comment_id": "Ugyp54bUD-g6mkIPayt4AaABAg",
           "author": "@orchard3515",
           "text": "저음 찍어 내리는게 ㄷㄷ",
-          "like_count": 24,
+          "like_count": 26,
           "reply_count": 0,
           "published_at": "2026-03-29T11:46:18Z"
         }
@@ -583,10 +618,10 @@
       "description": "MiniMax 토큰 플랜 12% 할인 혜택: https://platform.minimax.io/subscribe/coding-plan?code=9DvpNevfJr&source=link\nMiniMax 공식 플랫폼 바로가기: https://platform.minimax.io\nMiniMax API 개발 가이드 문서: https://platform.minimax.io/docs/guides/text-generation\n\n클로드 오퍼스나 GPT 코덱스를 제대로 구독해서 사용하려면 한 달에 50만 원 이상의 비용이 지출됩니다. 하지만 이제 그 비용을 50분의 1로 줄이면서도 성능은 코덱스급으로 유지할 수 있는 방법이 있습니다.\n\n오늘 영상에서는 벤치마크 점수에서 GPT 코덱스와 대등한 수치를 기록하고, 속도는 오히려 3배 더 빠른 미친 가성비의 미니맥스 M2.7 모델을 소개합니다. 모델 스스로가 진화에 참여하여 성능을 끌어올린 놀라운 기술력과, 실제 에이전트 팀을 꾸려 프로젝트를 완성하는 모습까지 모두 확인해 보세요.\n\n🔑 핵심 인사이트 (Key Insights)\n1. SWE 벤치마크 프로에서 GPT 코덱스(57.7)와 대등한 56.2점을 기록한 미니맥스 M2.7의 성능\n2. 클로드 오퍼스 대비 인풋과 아웃풋 비용이 최대 50배 이상 저렴한 파격적인 API 가격 체계\n3. 한 명의 엔지니어가 코딩 한 줄 없이 4일 만에 구축한 에이전트 하네스 시스템\n4. 기존 프론티어 모델급 지능을 유지하면서도 3배 더 빠른 응답 속도 제공\n5. 모델 내부에 네이티브로 내재화된 에이전트 팀 기능을 통한 고퀄리티 협업 결과물\n\n📝 상세 가이드 요약 (Detailed Guide Summary)\n🚀 Part 1. 성능 및 벤치마크 검증: 미니맥스 M2.7이 어떻게 GPT 코덱스급 점수를 기록하며 스스로 진화했는지 분석합니다.\n🚀 Part 2. 비용 및 가성비 비교: 클로드 오퍼스와 GPT 코덱스 대비 50배 저렴한 비용 데이터를 구체적으로 비교합니다.\n🚀 Part 3. 실전 에이전트 활용: 오픈코드를 통해 미니맥스 모델을 로드하고 픽셀 오피스 프로젝트를 만드는 과정을 시연합니다.\n\n⏰ 타임라인\n0:00 연 600만 원 아끼는 GPT 코덱스급 AI 모델 소개\n0:11 미니맥스 M2.7의 정체와 독특한 자기 진화 시스템\n1:36 한 명의 엔지니어가 4일 만에 구축한 에이전트 하네스\n2:48 벤치마크 대공개: GPT 코덱스 vs 미니맥스 M2.7\n4:10 고난도 과제 금메달 9개! 실전 코딩 성능 증명\n4:34 전문 업체 수준의 웹사이트 디자인 실시간 생성\n5:01 네이티브 에이전트 팀 기능으로 협업 시너지 내기\n5:49 픽셀 오피스 데모 제작 과정 및 무료 에셋 활용법\n6:46 클로드 오퍼스 대비 50배 저렴한 파격적 비용 비교\n8:14 가성비를 극대화하는 토큰 플랜(Token Plan) 활용 꿀팁\n9:08 오픈코드(OpenCode)에 미니맥스 API 연결하는 3단계 세팅법\n10:18 리밋 걱정 없는 무제한 에이전트 작업의 시작\n11:11 실시간 협업 중인 에이전트(프론트엔드&디자이너) 확인\n12:06 영상 마무리 및 채널 성장을 위한 제언\n\n#미니맥스 #M2.7  #클로드오퍼스 #GPT코덱스 #AI가성비 #AI코딩 #비용절감 #MiniMax",
       "published_at": "2026-03-29T06:43:18Z",
       "duration_seconds": 737,
-      "view_count": 14976,
-      "like_count": 383,
+      "view_count": 15258,
+      "like_count": 388,
       "comment_count": 31,
-      "engagement_rate": 0.027644230769230768,
+      "engagement_rate": 0.027461004063442127,
       "thumbnail_url": "https://i.ytimg.com/vi/LwsA-2pMqS4/hqdefault.jpg",
       "video_url": "https://www.youtube.com/watch?v=LwsA-2pMqS4",
       "format": "비교",
@@ -595,11 +630,11 @@
       "one_line_summary": "이 영상은 agents 이슈를 비교 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
       "why_it_works": "시간 절약 훅으로 관심을 끌고, 비교 형식으로 내용을 빠르게 정리해 시청자가 '바로 써먹을 수 있다'고 느끼게 만듭니다.",
       "recommendation": "훅 구조: 도입 15초 안에 '시간 절약' 관점으로 문제를 못 박고, 왜 지금 봐야 하는지 먼저 선언합니다. • 복제할 포장 요소: 비교 형식을 유지하되 agents를 실제 사용 장면 1개와 결과 변화 2개로 더 좁혀 설명합니다. • 비어 있는 콘텐츠 영역: 'agents가 내 작업 흐름에서 어디에 꽂히는가'를 사례 중심으로 보여주는 후속 영상이 비어 있습니다. • 추천 제목: agents 이슈를 내 채널 관점으로 다시 정리해보자 • 썸네일 카피 힌트: agents 지금 봐야 할 3가지",
-      "transcript_status": "failed",
-      "transcript_source": "none",
-      "transcript_language": "",
-      "transcript_text": "",
-      "analysis_date": "2026-03-30T04:56:36+00:00",
+      "transcript_status": "available",
+      "transcript_source": "apify",
+      "transcript_language": "ko",
+      "transcript_text": "제 AI 에이전트들이 각각 일을 할\n때 어떤 식으로 진행이 되는지\n비주얼할 수 있게 요런 프로젝트를\n간단하게 만들어 봤습니다. 이제\n평소에는 이렇게 사무실을 각자\n자유롭게 돌아다니고 있다가 제가\n이렇게 CLI를 통해서 프롬프트를\n입력하고 에이전트들을 실행을 시켜\n주면요. 픽셀 오피스랑 연결이 되면서\n여기 나와 있는 각각 에이전트가\n본인의 역할에 맞게 일을 진행을 하게\n됩니다. 네. 그리고 방금 보셨던\n에이전트들을 활용해서 만든 웹사이트의\n결과물을 이렇게 확인할 수가\n있습니다. 네. 많은 분들이이 바이브\n코딩을 할 때 코덱스나 오퍼스이 두\n가지 모델을 자주 사용합니다. 물론이\n두 모델의 성능이 좋기도 하기 때문에\n쓰는데 문제는이 비용이 어마무시하다는\n겁니다. 기본적으로 제대로 쓰려면\n코덱스는 프로 모델, 클러드는 맥스\n모델을 써야 되는데이 두 가지를 다\n구독하면은 한 달에 50만 원 이상이\n나가게 됩니다. 자, 그런데 제가\n앞서 보여 드렸던 결과물처럼이 코딩의\n성능은 비슷한데요. 가격은\n속도는 세배가 빠른 모델이\n등장했습니다. 그래서 오늘이\n벤치마크들을 뜯어보면서이 숫자가\n진짜인지 검증을 해 볼 건데요. 우선\n제가 지금까지 써 왔던 결과로는 진짜\n할렐루야가 나오는 괜찮은 모델인 것\n같습니다. 자, 그러면 오늘\n영상에서이 모델과 성능에 대해서 같이\n알아보도록 하겠습니다. 오늘 소개해\n드릴이 가성비 미친 모델은 미니맥스의\nM2.7이라는 모델인데요. 아마 많은\n분들이이 영상 모델인 하이루오로 잘\n알고 계실 네. 바로 그\n미니맥스입니다. 저도 하이로우만 잘\n사용하고 있다가 최근에 기회가\n되어서이 미니맥스의 M2.7 7\n모델을 써 봤는데 그 성능이 진짜\n깜짝 놀랐습니다. 우선 여기\n미니맥스가 정리해 놓은 블로그에 이제\n해당 모델에 대해서 자세한 설명이 잘\n나와 있는데 우선이 2.7 모델의\n포지셔닝이 대단히 독특합니다. 바로\nM2 시리즈 중에서 자기 자신의\n진화에 직접 참여한 최초 모델이라고\n합니다. 어떤 식으로 이게\n작동됐는지이 시스템을 확인할 수가\n있는데요.이 모델이 일을 할 때\n에이전트 하네스라는 걸 먼저 구축을\n했다라고 합니다. 여기 작은 글씨로\n한 명의 엔지니어가 4일 만에\n구축했다라고 나오는데 코딩 한 줄알\n쓰지 않고이 모든 걸 모델로 만든\n겁니다. 그래서 이거를 보면 뭐\n평가도 할 수 있고요. 메모리도 있고\n기본적인 가드레일과 스킬을 쓸 수\n있는 이런 기능을 갖고 있는 에이전트\n하니스를 완성을 했습니다. 자,\n그리고 사람이이 에이전트와 얘기를\n하면서이 모델을 자체적으로 진화를\n시켰다라는 건데요 밑에 예시를 보면\n훨씬 더 이해가 편합니다. 자,\n처음에 계획을 세웁니다. 어떤 식으로\n모델을 진화를 시킬지. 그리고 나서\n두 번째 단계와 세 번째 단계는\n사람이 하지 않고요.이 아이가 직접\n코드를 짜고 기능을 테스트를 합니다.\n그리고 나서 보고서를 작성하면 사람이\n보고서를 잃고 이쪽 방향으로 더\n진화를 시켰으면 좋겠다. 요쪽\n방향에서 조금 더 계산을 시켰으면\n좋겠다. 이런 식의 반복을 적어도\n100번 이상 거쳐서이 새로운 모델인\nM2.7 7 모델이 완성이 되었다라는\n겁니다. 이게 점수를 보면 이제\n우측에 여러분이 잘 알고 계실 소스\n그리고 G5.4 모델이 있죠?이\n대기업들의 프론티어 모델입니다.\n그리고 왼쪽에이 빨간색 두 개가\n미니맥스 2.5버전 그리고 미니맥스\n2.7 버전인데이 점수 차이가 그렇게\n크지가 않습니다. 지금 보면은 SWE\n벤치프로라는 벤치마크에서 이제 코딩할\n때 가장 최상인권이라고 평가를 받는\nGPT 5.4 코덱스가\n57.7입니다. 7입니다. 근데이\n미니맥스 2.7 같은 경우는\n56.2예요. 아주 근소한 차이밖에\n나지가 않습니다. 그리고 바이브\n프로라는 벤치마크 같은 경우는\n미니맥스 자체 벤치마크인데이 클로드의\n오퍼스와 비교했을 때 동일한 점수가\n나온 것도 확인할 수가 있습니다. 즉\n코딩 면에서 최상위권이라는 거죠.\n어떻게 보면. 그렇기 때문에이\n자체적으로 본인 스스로의 모델을\n업그레이드 할 수가 있었다라는\n겁니다. 이게 기본적으로 모델이\n박사급 이상으로 똑똑하지 않으면 이런\n100회 이상 반복되는 업그레이드를\n했을 때 오히려 모델이 망가질 위험이\n있습니다. 근데 이게 성공적으로\n진화가 되었고이 벤치마크가 그걸\n증명한다는 거 자체가이 모델의 성능이\n되게 잘 뽑혔다라는 증거입니다. 이게\n기존 모델이었던 M2.5 5 모델가\n비교하면 그 성능이 더 도드라지게\n보이는데 GDP 발이라던가이 분석하는\n능력이라던가이 점수가 확한 걸 확인할\n수가 있습니다. 자, 그래서이 모델이\n얼마나 강력한지 테스트를 하기 위해서\n머신 러닝 대회 22개에 참여를\n시켰다라고 합니다. 그리고 나서\n결과를 보니까이 고난이도 22개 과제\n중에서 최종적으로 금메달 아홉 개,\n은메달 다섯 개, 동메달 한 개를\n가져가는 엄청난 기록을 세웠다라고\n하는데 당연하게도이 모델이 웬만한\n사람보다이 코딩적인 측면에서 똑똑한게\n사실이고요. 이제는 누가이 모델을\n쓰느냐가 훨씬 더 중요해진 시대가\n되고 있습니다. 그리고 제가 앞서\n보여 드렸지만 이런 웹사이트를 만드는\n디자인도 상당히 뛰어난 걸 확인할\n수가 있습니다. 지금 여기서는 동물을\n후원하는 웹사이트를 데모로 만들어서\n보여 주고 있는데 이런 디자인적인\n측면이라던가 애니메이션 그리고 어떤\n이런 웹사이트의 플로우 같은게 대단히\n전문적인 웹사이트 업체가 만들어 준\n모습을 저희가 직접 눈으로 확인할\n수가 있는데요. 여러분도 미니맥스\nM2.7 7 모델을 쓰시면 요런\n디자인을 내가 하니스를 조정을 해서\n이렇게 만들 수가 있는 겁니다.\n그리고 제가 처음에이 픽셀 오피스로\n에이전트들끼리 어떻게 작동하는지\n이거를 제가 비주얼을 좀 보여\n드렸잖아요. 이게 가능했던 이유 중에\n하나가 이번 M2.7 7 모델에는\n네이티브 에이전트 팀 기능이\n기본적으로 포함이 되어 있는 기능\n중에 하나입니다.이 여기서도 뭐라\n나오냐면 에이전트 팀으로 활동하는 건\n단순히 프롬프트만으로는 달성할 수가\n없고요. 모델의 네이티브 기능으로\n내제화되어 있어야 합니다라고\n나옵니다. 그 모델을 처음부터 만들\n때 이게 결국에는 에이전트로 활용을\n할 거기 때문에 그런 식으로 모델을\n개발을 하자라는게 베이스에 깔려\n있어야 된다라는 말인데 지금 여기\n보시다시피 2.7 7 모델이\n에이전트를 염두에 두고 만들어진\n모델입니다. 그래서 이렇게 여러 가지\n에이전트들이 협업을 할 때 너무나\n좋은 결과를 주고 있고요. 저도\n테스트를 해 보면서 느꼈습니다. 아,\n에이전트로 돌렸을 때 상당히 좋구나.\n그래서 여기 나와 있는 데모는\n미니맥스 측에서 본인들은 요렇게\n활용을 하고 있다라고 보여주는\n데모고요. 아까 픽셀 오피스 같은\n경우는 제가 이런 식으로 비주얼을\n하고 있다라는 걸 여러분께 보여\n드리기 위해서 간단하게 만들어 본\n데모입니다. 아마이 영상 보시는\n분들은 이거를 어떻게 만들었는지\n궁금해하실 수도 있거든요. 네.\n간단합니다. 이런 픽셀 같은 경우는\n이런 에셋들을 무료로 배포하는\n사이트들이 있습니다. 그래서 저는이\nG 4라는 제작자가 만든 메트로시티의\nSS을 활용을 했었고요.이 오픈\n코드를 활용해서 미니맥스 모델을\n로드를 한 다음에이 프로젝트에 대해서\n설명을 하고 코드를 짜 달라고 하니까\n이렇게 파일을 만들어 주고이 파일들이\n조립이 되어서이 픽셀 오피스\n프로젝트를 완성할 수가 있었습니다.\n뭐 만드는 과정이 궁금하신 분들은\n댓글을 달아 주시고요. 오늘\n영상에서는 이걸 어떻게 만드느냐가\n아니라이 미니맥스라는 모델을 사용을\n해서 이런 프로젝트까지 만들 수\n있다가 훨씬 더 핵심 주제기 때문에\n더 미니맥스 모델에 대해서 설명을\n드리도록 하겠습니다. 자, 그러면이\n정도까지 결과물을 만들어 낼 수 있는\n미니맥스 모델의 가격이 궁금하실 수도\n있습니다. 저도 처음에는 아, 이게\n아무래도 모델들이 너무나 성능이\n좋아지다 보니까 비쌀 거다. 그리고\n사실 갈수록 좀 모델이 비싸지는 것도\n맞습니다. 이게 어느 순간부터는\n모델이 싸지다가 사실 또 비싸지고\n있거든요. 근데이 미니맥스 모델은\n기존의 코덱스나 오퍼스 모델보다 무려\n50대나 가격이 가성비가 있습니다.\n자, 우선 미니맥스의 2.7 모델의\n가격입니다. 여러분이 API로이\n모델을 불렀을 때 100만 토큰당\n인풋이 0.3불이고요. 아웃풋은\n1.2불입니다. 그러니까 최신\n프론티어 모델과 성능은 비슷한데\n가격이 엄청나게 낮은 겁니다.이\n프론티어 모델들의 가격을 한번\n볼까요? 자, 클로드인데요. 오퍼스\n4.6을 기준으로요. 100만 토큰당\n인풋이 5불이고요. 아웃풋 같은\n경우는 25불입니다. 가격 차이가\n조금 체감이 되시나요? 어, 진짜로이\n코딩을 해 보시는 분들이라면이\n정도까지 돈을 내고이 오퍼스 4.6을\n써야 되냐? 아니면 훨씬 더 가성비\n있게 미니맥스 2.7 모델을 사용을\n하면서 개발을 하실 거냐? 제가\n물어본다면 아마 많은 분들이\n미니맥스를 써 보시고이 모델에 반하실\n거라고 장담할 수 있습니다. 이게\n단순하게 오퍼스뿐만이 아니라 여러분이\nGPT랑 비교하셔도 비용이 상당히\n차이가 많이 나는 걸 아실 텐데요.\n아마 요즘에 에이전트 작업을 많이\n하시는 분들은 서스크립션뿐만이\n아니라이 API를 꼭 사용해야 되는\n순간들이 있습니다. 그런 경우에이\n모델을 사용하시면 훨씬 더 가성비\n있게 사용이 가능하고요.이\n미니맥스에는 토큰 플랜이라는게 또\n있습니다. 자,이 토큰 플랜이라는게\n뭐냐면 여러분이 클러드 쓰실 때 뭐\n클러드 맥스에 가입되어 있으면 내가\nCLI를 사용을 할 때 A 비용을 안\n내잖아요. T도 똑같습니다. GPT도\n내가 GPT 프로 가입하면은 한 달에\n뭐 200불씩 내고 코덱스에서 쓰는\n거잖아요. 미니맥스 역시이 토큰\n플랜이라는 거를 도입을 해 가지고요.\n여러분이 한 달에 일정 비용을 내시면\n내 특정 모델들을 이렇게 사용을 할\n수 있는이 플랜이 생겼습니다. 그래서\n현재 기준으로는이 스탠더드 플랜이\n있고 그리고 밑에 하이 스피드 플랜이\n있습니다. 사용량 자체에도 차이가\n있고요.이 하이 스피드 플랜 보면\n똑같은 2.7 모델인데 뒤에 하이\n스피드가 붙어 있잖아요.이 모델이\n코드를 뱉어내는 속도가 훨씬 더\n빠르다라는 겁니다. 다섯시간 기준으로\n내가 얼마나 많이 대화할 수 있는지도\n상당히 많죠. 그렇기 때문에이 토큰\n플랜을 사용하시면이 가격적인 가성비가\n훨씬 더 체감이 많이 될 거다라고\n말씀을 드리고 싶습니다. 자, 그래서\n이거를 어떻게 사용할 수가 있냐?\n자, 아까도 보여 드렸지만 저는 오픈\n코드를 사용을 해서이 미니맥스 모델을\n연결을 합니다. 오픈 코드를\n들어오시면 슬래시모델즈라는 명령어를\n쳤을 때 여러분이 어떤 모델을 여기에\n연결할 수 있는지 그 옵션이 나와요.\n그래서 미니맥스를 검색을 하시면 여러\n개가 나옵니다. 내가 API로 연결을\n할 건지 뭐 코딩 플랜으로 연결을 할\n건지 요런 옵션이 있습니다. 여러분이\n어떤 걸 선택하느냐에 따라서 이거를\n결정을 해 주시면 되고 처음에 오픈\n코드 셋업을 하시면이 키를 가져오라고\n할 겁니다. 그래서 어디서 가져오면\n되느냐?이 이 미니맥스 모델을\n관리하는 웹사이트에 와서 왼쪽에 키\n세팅을가 주시고요. 여기서 새로운\n시크릿 키 만들기를 선택을 합니다.\n이름을 자유롭게 입력을 해 주시고\n만들면 이렇게 시크릿 키가 나오겠죠?\n요거를 그대로 복사해서 나중에\n오픈코드 셋업할 때 붙여 넣기를 해\n주시면 됩니다. 자, 그리고 밑에\n토큰 플랜을 만드는 것도 있는데 이제\n요거 같은 경우는 아까 보여\n드렸다시피 토큰 플랜이 있으신 분만\n가능한 겁니다. 현재 월별로 가입을\n할 때 플러스 맥스 그리고 울트라\n하이 스피드가 있는데 어 이게 너무\n이게 지금 울트라 하이 스피드가 솔드\n아웃 같죠? 그 기다리셨다가 나오시는\n순간 바로 가입하셔도 되고 아니면\n이렇게 맥스로 사용해 보셔도 좋을 것\n같습니다. 그래서 돌아와서 이렇게\n오픈 코드에 미니맥스 연결을 해\n주시고요. 그리고 여러분이 어떤 거를\n만들고 싶은지 이렇게 입력을 한\n다음에 엔터를 눌러 주시면 자동적으로\n미니맥스 모델이 불러지면서 일을 할\n겁니다. 물론 저 같은 경우는이\n하니스 자체가 에이전트를 활용하게\n만들었기 때문에 뒤에 보면은 여러\n가지 에이전트들이 알아서 작동을 하게\n되어 있고요. 위에 보면은 연결됨이\n뜨고 어떤 명령어가 지금 실행되고\n있는지 확인할 수가 있죠.데 이런\n시스템을 굳이 구현을 하지 않더라도이\n모델 자체 성능이 대단히 강하기\n때문에 여러분이이 원하는 거를 선택을\n다 해 주시고 내 프로젝트를 당장\n만들기 시작하더라도 이번 미니맥스\n2.7 모델이 얼마나 강력하고 좋은\n모델인지 체감을 할 수가 있을\n겁니다. 이게 엄청나지 않아요? 만\n토큰인데 0.01불이라고 영불이라고\n합니다. 이게 여러분이 토큰을 쓰면\n쓸수록 이게 가성비적인 측면에서 직접\n느끼실 수가 있으니까 어 저는 꼭\n한번 사용해 보시라고 말씀을 드리고\n싶습니다. 에이전트들을 확인하면은\n프런트 엔드와 디자이너가 이렇게 일을\n하고 있는 거를 확인할 수가 있죠.\n그래서이 시스템 자체는 제가 아직\n디벨롭하고 있는 시스템이고 전이\n시스템의 첫삽을 미니맥스 2.7로 뜬\n거거든요. 그래서 계속 해당 모델로이\n프로젝트를 디벨롭을 해 볼 거고\n공유를 드리도록 하겠습니다. 그래서\n내가 지금까지 뭐 클로드나 아니면은\n코덱스나 너무 비용이 비싸서 내가\n원하는 양만큼 작업할 수가 없었다.\n조금만 사용해 봤더니 금세 리밋이\n걸려서 일주일을 기다렸어야 됐더라.\n이런 걸 느껴보신 분들이라면 이번에\n새로 나온 미니맥스의 2.7 모델을\n꼭 진짜 추천드립니다. 그래서 어떻게\n보면 안트로픽이랑 오픈 AI가이\n시장을 주도했었는데 에이전트 시대가\n되면서 정말 많은 모델들이 나오고\n있고 꼭 비싼 모델을 쓰지 않더라도\n좋은 결과를 뽑아낼 수 있는 시대가\n됐습니다. 그래서 하나의 모델에\n국한되는 것뿐만 아니라 다양한 모델을\n다양하게 사용해 보시면서 여러분의\n활용 능력을 키워 나가시기를 정말\n추천드립니다. 네, 제 오늘 영상은\n여기까지고요. 영상이 도움이 되셨다면\n좋아요와 구독, 그리고 알림 설정까지\n부탁드립니다. 그러면 또 다음에 좋은\n영상으로 찾아뵙도록 하겠습니다.\n지금까지 성공 지식가였습니다.\n감사합니다.",
+      "analysis_date": "2026-03-30T06:05:49+00:00",
       "channel_name": "성공지식백과",
       "topic_tags": [
         "agents",
@@ -624,8 +659,11 @@
         "큰 담론보다 작은 병목 하나를 해결해주는 포장 방식이 클릭으로 이어지기 쉽다."
       ],
       "transcript_highlights": [
-        "MiniMax 토큰 플랜 12% 할인 혜택: https://platform.minimax.io/subscribe/coding-plan?code=9DvpNevfJr&source=link MiniMax 공식 플랫폼 바로가기: https://platform.minimax.io MiniMax API 개발 가이드 문서: https://platform.minimax.io/docs/guides/text-generation 클로드 오퍼스나 GPT 코덱스를 제대로 구독해서 사용하려면 한 달에 50만 원 이상의 비용이 지출됩니다.",
-        "하지만 이제 그 비용을 50분의 1로 줄이면서도 성능은 코덱스급으로 유지할 수 있는 방법이 있습니다."
+        "제 AI 에이전트들이 각각 일을 할",
+        "때 어떤 식으로 진행이 되는지",
+        "비주얼할 수 있게 요런 프로젝트를",
+        "제 AI 에이전트들이 각각 일을 할 때 어떤 식으로 진행이 되는지 비주얼할 수 있게 요런 프로젝트를 간단하게 만들어 봤습니다.",
+        "이제 평소에는 이렇게 사무실을 각자 자유롭게 돌아다니고 있다가 제가 이렇게 CLI를 통해서 프롬프트를 입력하고 에이전트들을 실행을 시켜 주면요."
       ],
       "top_comments": [
         {
@@ -642,7 +680,7 @@
           "comment_id": "Ugy-ba-vqeOguq2d_nl4AaABAg",
           "author": "@stockman6968",
           "text": "대충 출시 후 호들갑떨다가 다시 클로드코드로 돌아가는 루틴",
-          "like_count": 9,
+          "like_count": 10,
           "reply_count": 0,
           "published_at": "2026-03-29T19:22:05Z"
         },
