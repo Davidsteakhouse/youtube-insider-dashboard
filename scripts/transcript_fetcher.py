@@ -2,16 +2,21 @@ from __future__ import annotations
 
 import importlib
 import importlib.util
+import json
 import os
 import re
 import subprocess
 import sys
 import tempfile
 import time
+import urllib.error
+import urllib.parse
+import urllib.request
 from typing import Any
 
 
 PREFERRED_LANGUAGES = ["ko", "ko-KR", "en", "en-US"]
+APIFY_BASE = "https://api.apify.com/v2"
 
 
 def transcript_payload(
@@ -233,6 +238,108 @@ def fetch_via_ytdlp(video_id: str) -> dict[str, Any] | None:
         return None
 
 
+def _apify_extract_transcript_text(item: dict[str, Any]) -> tuple[str, str] | None:
+    """Apify 결과 item에서 (text, language) 추출. 언어 우선순위: ko > en."""
+    transcripts = item.get("transcripts") or {}
+    for lang in PREFERRED_LANGUAGES:
+        lang_data = transcripts.get(lang) or {}
+        raw = lang_data.get("transcript") or []
+        if not raw:
+            continue
+        if isinstance(raw, list):
+            parts = [str(s).strip() for s in raw if str(s).strip()]
+        else:
+            parts = [str(raw).strip()]
+        text = "\n".join(parts).strip()
+        if text:
+            return text, lang
+    return None
+
+
+def batch_fetch_via_apify(video_ids: list[str]) -> dict[str, dict[str, Any]]:
+    """여러 video_id를 한 번의 Apify 실행으로 수집. {video_id: transcript_payload} 반환."""
+    token = os.getenv("APIFY_TOKEN", "").strip()
+    actor_id = os.getenv("APIFY_YOUTUBE_TRANSCRIPT_ACTOR_ID", "futurizerush~youtube-transcript-scraper").strip()
+    if not token or not video_ids:
+        return {}
+
+    # 1) 액터 실행 시작
+    run_url = f"{APIFY_BASE}/acts/{urllib.parse.quote(actor_id, safe='~')}/runs?token={token}"
+    payload = json.dumps({
+        "video_ids": video_ids,
+        "languages": PREFERRED_LANGUAGES,
+        "text_only": True,
+        "include_generated": True,
+        "include_translation": True,
+        "fetch_all": False,
+    }).encode()
+    req = urllib.request.Request(run_url, data=payload, method="POST",
+                                 headers={"Content-Type": "application/json"})
+    try:
+        with urllib.request.urlopen(req, timeout=30) as resp:
+            run_data = json.loads(resp.read())
+    except Exception as exc:
+        print(f"[transcript] Apify 배치 실행 시작 실패: {exc}")
+        return {}
+
+    run_id = (run_data.get("data") or {}).get("id")
+    if not run_id:
+        print("[transcript] Apify run_id 없음")
+        return {}
+
+    # 2) 완료 대기 (최대 5분, 10초 간격)
+    status_url = f"{APIFY_BASE}/actor-runs/{run_id}?token={token}"
+    status = ""
+    status_data: dict[str, Any] = {}
+    for _ in range(30):
+        time.sleep(10)
+        try:
+            with urllib.request.urlopen(status_url, timeout=15) as resp:
+                status_data = json.loads(resp.read())
+            status = (status_data.get("data") or {}).get("status", "")
+            if status in {"SUCCEEDED", "FAILED", "ABORTED", "TIMED-OUT"}:
+                break
+        except Exception:
+            pass
+
+    if status != "SUCCEEDED":
+        print(f"[transcript] Apify 배치 완료 안됨: {status}")
+        return {}
+
+    dataset_id = (status_data.get("data") or {}).get("defaultDatasetId", "")
+    if not dataset_id:
+        print("[transcript] Apify dataset_id 없음")
+        return {}
+
+    # 3) 결과 조회
+    items_url = f"{APIFY_BASE}/datasets/{dataset_id}/items?token={token}"
+    try:
+        with urllib.request.urlopen(items_url, timeout=30) as resp:
+            items = json.loads(resp.read())
+    except Exception as exc:
+        print(f"[transcript] Apify 결과 조회 실패: {exc}")
+        return {}
+
+    # 4) video_id → payload 매핑
+    results: dict[str, dict[str, Any]] = {}
+    for item in (items or []):
+        vid = item.get("video_id") or ""
+        if not vid:
+            continue
+        extracted = _apify_extract_transcript_text(item)
+        if extracted:
+            text, lang = extracted
+            results[vid] = transcript_payload(
+                status="available", source="apify", language=lang, text=text
+            )
+            print(f"[transcript] Apify 성공 ({vid}): {len(text)}자")
+        else:
+            print(f"[transcript] Apify 자막 없음 ({vid})")
+
+    print(f"[transcript] Apify 배치 완료: {len(results)}/{len(video_ids)}개 성공")
+    return results
+
+
 def fetch_transcript(video_id: str) -> dict[str, Any]:
     result = fetch_via_youtube_transcript_api(video_id) or fetch_via_ytdlp(video_id)
     if result:
@@ -248,7 +355,7 @@ def fetch_transcript(video_id: str) -> dict[str, Any]:
 
 def enrich_videos_with_transcripts(videos: list[dict[str, Any]]) -> list[dict[str, Any]]:
     max_fetch = int(os.getenv("TRANSCRIPT_FETCH_LIMIT", "24") or 24)
-    prioritized_ids = {
+    prioritized_ids = [
         video.get("video_id")
         for video in sorted(
             videos,
@@ -258,20 +365,48 @@ def enrich_videos_with_transcripts(videos: list[dict[str, Any]]) -> list[dict[st
                 -float(item.get("engagement_rate", 0) or 0),
             ),
         )[:max_fetch]
-    }
+        if video.get("video_id")
+    ]
+    prioritized_set = set(prioritized_ids)
 
+    # 1단계: youtube-transcript-api / yt-dlp로 개별 시도
+    individual_results: dict[str, dict[str, Any]] = {}
+    failed_ids: list[str] = []
+    for video in videos:
+        vid = video.get("video_id", "")
+        has_existing = bool(video.get("transcript_text")) or bool(video.get("transcript_highlights"))
+        if video.get("transcript_status") in {"available", "available_auto", "translated"} and has_existing:
+            continue  # 이미 수집됨
+        if vid not in prioritized_set:
+            continue
+        result = fetch_transcript(vid)
+        if result.get("transcript_status") == "failed":
+            failed_ids.append(vid)
+        else:
+            individual_results[vid] = result
+        time.sleep(3)
+
+    # 2단계: 실패한 영상만 Apify 배치로 재시도
+    apify_results: dict[str, dict[str, Any]] = {}
+    if failed_ids and os.getenv("APIFY_TOKEN", "").strip():
+        print(f"[transcript] Apify 배치 시작: {len(failed_ids)}개 실패 영상")
+        apify_results = batch_fetch_via_apify(failed_ids)
+
+    # 3단계: 결과 병합
     enriched: list[dict[str, Any]] = []
     for video in videos:
-        has_existing_transcript = bool(video.get("transcript_text")) or bool(video.get("transcript_highlights"))
-        if video.get("transcript_status") in {"available", "available_auto", "translated"} and has_existing_transcript:
+        vid = video.get("video_id", "")
+        has_existing = bool(video.get("transcript_text")) or bool(video.get("transcript_highlights"))
+        if video.get("transcript_status") in {"available", "available_auto", "translated"} and has_existing:
             enriched.append(video)
-            continue
-
-        if video.get("video_id") not in prioritized_ids:
+        elif vid in individual_results:
+            enriched.append({**video, **individual_results[vid]})
+        elif vid in apify_results:
+            enriched.append({**video, **apify_results[vid]})
+        elif vid in prioritized_set:
+            enriched.append({**video, "transcript_status": "failed", "transcript_source": "none",
+                              "transcript_language": "", "transcript_text": "", "transcript_highlights": []})
+        else:
             enriched.append({**video, "transcript_status": video.get("transcript_status") or "skipped"})
-            continue
 
-        transcript = fetch_transcript(video.get("video_id", ""))
-        enriched.append({**video, **transcript})
-        time.sleep(5)
     return enriched
