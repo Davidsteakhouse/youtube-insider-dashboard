@@ -322,10 +322,17 @@ def batch_fetch_via_apify(video_ids: list[str]) -> dict[str, dict[str, Any]]:
         return {}
 
     # 4) video_id → payload 매핑
+    # "unavailable" = Apify가 영구적으로 자막 없음을 확인 → 재시도 안 함
+    PERMANENT_ERROR_CODES = {"TRANSCRIPTS_DISABLED", "VIDEO_UNAVAILABLE", "PRIVATE_VIDEO", "AGE_RESTRICTED"}
     results: dict[str, dict[str, Any]] = {}
     for item in (items or []):
         vid = item.get("video_id") or ""
         if not vid:
+            continue
+        error_code = str(item.get("code") or "")
+        if error_code in PERMANENT_ERROR_CODES:
+            results[vid] = transcript_payload(status="unavailable", source="apify", language="", text="")
+            print(f"[transcript] Apify 영구 불가 ({vid}): {error_code}")
             continue
         extracted = _apify_extract_transcript_text(item)
         if extracted:
@@ -378,6 +385,8 @@ def enrich_videos_with_transcripts(videos: list[dict[str, Any]]) -> list[dict[st
         has_existing = bool(video.get("transcript_text")) or bool(video.get("transcript_highlights"))
         if video.get("transcript_status") in {"available", "available_auto", "translated"} and has_existing:
             continue  # 이미 수집됨
+        if video.get("transcript_status") == "unavailable":
+            continue  # Apify가 영구 불가 확인 → 재시도 안 함
         if vid not in prioritized_set:
             continue
         result = fetch_transcript(vid)
@@ -400,6 +409,8 @@ def enrich_videos_with_transcripts(videos: list[dict[str, Any]]) -> list[dict[st
         has_existing = bool(video.get("transcript_text")) or bool(video.get("transcript_highlights"))
         if video.get("transcript_status") in {"available", "available_auto", "translated"} and has_existing:
             enriched.append(video)
+        elif video.get("transcript_status") == "unavailable":
+            enriched.append(video)  # 영구 불가 → 그대로 유지
         elif vid in individual_results:
             enriched.append({**video, **individual_results[vid]})
         elif vid in apify_results:
