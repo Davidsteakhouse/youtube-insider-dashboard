@@ -5,7 +5,7 @@ import os
 import sys
 from typing import Any
 
-from analyzer import enrich_videos_with_analysis
+from analyzer import enrich_videos_with_analysis, refresh_transcript_highlights_for_videos
 from build_static_bundle import write_bundle
 from common import DATA_DIR, load_env_file, read_json, within_lookback_hours
 from digest_builder import build_digest
@@ -164,7 +164,8 @@ def build_video_pipeline(args: argparse.Namespace, watchlist: list[dict[str, Any
     else:
         my_channel = load_my_channel()
 
-    all_videos = load_videos()
+    all_videos = refresh_transcript_highlights_for_videos(load_videos())
+    upsert_videos(all_videos)
     digest = build_digest(all_videos, refreshed_watchlist, my_channel=my_channel)
     upsert_digest(digest)
     refresh_static_bundle()

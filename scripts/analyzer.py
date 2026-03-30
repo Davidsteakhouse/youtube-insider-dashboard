@@ -906,6 +906,30 @@ def ensure_korean_output(video: dict[str, Any], analysis: dict[str, Any]) -> dic
     return localized
 
 
+def refresh_video_transcript_highlights(video: dict[str, Any]) -> dict[str, Any]:
+    transcript_text = video.get("transcript_text", "") or ""
+    if not transcript_text:
+        return video
+
+    current = safe_transcript_highlights(video, video.get("transcript_highlights"))
+    refreshed = derive_transcript_highlights(video, video, current)
+    language = str(video.get("transcript_language", "") or "").lower()
+
+    if language.startswith("en") and refreshed and not any(has_hangul(item) for item in refreshed):
+        translated = translate_list_items_with_gemini(refreshed)
+        if translated:
+            refreshed = safe_transcript_highlights(video, translated)
+
+    if refreshed == current:
+        return video
+
+    return {**video, "transcript_highlights": refreshed}
+
+
+def refresh_transcript_highlights_for_videos(videos: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    return [refresh_video_transcript_highlights(video) for video in videos]
+
+
 def openai_analysis(video: dict[str, Any]) -> dict[str, Any]:
     api_key = os.getenv("OPENAI_API_KEY")
     if not api_key:
