@@ -1,6 +1,6 @@
 window.__DASHBOARD_DATA__ = {
   "watchlist": {
-    "generated_at": "2026-03-30T04:18:39+00:00",
+    "generated_at": "2026-03-30T04:57:38+00:00",
     "source": "sqlite_export",
     "channels": [
       {
@@ -18,7 +18,7 @@ window.__DASHBOARD_DATA__ = {
         "country": "KR",
         "published_at": "2016-08-07T10:23:41Z",
         "thumbnail_url": "https://yt3.ggpht.com/ytc/AIdro_kutxZhVtnH4nWcW7ebuDER5TfHwPZJaqGyBVGjVC52A0A=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-03-30T04:17:21+00:00",
+        "last_synced_at": "2026-03-30T04:56:35+00:00",
         "source": "notion",
         "notes": ""
       },
@@ -37,7 +37,7 @@ window.__DASHBOARD_DATA__ = {
         "country": "US",
         "published_at": "2007-10-04T16:54:13Z",
         "thumbnail_url": "https://yt3.ggpht.com/pLuETMM_cfn5Kdyny-y3YVxgHHsElTOm_k7nh_GGaJ9mSnlDDWIyF_oeYAE7Qabh1zy4mVzI=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-03-30T04:17:21+00:00",
+        "last_synced_at": "2026-03-30T04:56:35+00:00",
         "source": "notion",
         "notes": ""
       },
@@ -56,7 +56,7 @@ window.__DASHBOARD_DATA__ = {
         "country": "KR",
         "published_at": "2020-03-01T07:13:43.531335Z",
         "thumbnail_url": "https://yt3.ggpht.com/ytc/AIdro_kWXdgewHuD89YlbSIkvQaFrnGLalhXjXL3pI4kkOq6BQ=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-03-30T04:17:21+00:00",
+        "last_synced_at": "2026-03-30T04:56:35+00:00",
         "source": "notion",
         "notes": ""
       },
@@ -75,7 +75,7 @@ window.__DASHBOARD_DATA__ = {
         "country": "KR",
         "published_at": "2012-04-18T00:37:09Z",
         "thumbnail_url": "https://yt3.ggpht.com/SN0KJNTKsCoA4GVnJIhi1osLYXNOxtm19jL0N5axhMdjWH149mAzugIcM6reVU7-8lGzlClQ=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-03-30T04:17:21+00:00",
+        "last_synced_at": "2026-03-30T04:56:35+00:00",
         "source": "notion",
         "notes": ""
       },
@@ -94,7 +94,7 @@ window.__DASHBOARD_DATA__ = {
         "country": "KR",
         "published_at": "2018-08-20T09:21:54Z",
         "thumbnail_url": "https://yt3.ggpht.com/et2nVg4weQCeZIW0EIGn93DHg37zceXQdMVtv3XnZDVKRB3dqleAEw5lsNuvM0pzucnLdhfs=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-03-30T04:17:21+00:00",
+        "last_synced_at": "2026-03-30T04:56:35+00:00",
         "source": "notion",
         "notes": ""
       },
@@ -113,7 +113,7 @@ window.__DASHBOARD_DATA__ = {
         "country": "US",
         "published_at": "2022-12-04T00:42:00.412506Z",
         "thumbnail_url": "https://yt3.ggpht.com/7gpWN95XOZ-MO30txO1hyDUM9b830cX3mMANqWNVLVegO4LaoWueslV370g-8dBdkirYOKhUCw=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-03-30T04:17:21+00:00",
+        "last_synced_at": "2026-03-30T04:56:35+00:00",
         "source": "notion",
         "notes": ""
       },
@@ -132,7 +132,7 @@ window.__DASHBOARD_DATA__ = {
         "country": "PT",
         "published_at": "2012-12-25T12:09:42Z",
         "thumbnail_url": "https://yt3.ggpht.com/DvaUGxvtI8_VHscLePaF-JO0kMrzluLkGQWDIOtbHvAkmlRaX_gh3YATlFu8046lrNjBQ0cmIw=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-03-30T04:17:21+00:00",
+        "last_synced_at": "2026-03-30T04:56:35+00:00",
         "source": "notion",
         "notes": ""
       },
@@ -151,7 +151,7 @@ window.__DASHBOARD_DATA__ = {
         "country": "KR",
         "published_at": "2019-04-13T17:13:02Z",
         "thumbnail_url": "https://yt3.ggpht.com/hStraaByOVLDs0eye3XmjD7l1pkYEb9DwGwRhOM5RdOfG-thmMTt0ozg3EOTDcxM-D-S2BlcyA=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-03-30T04:17:21+00:00",
+        "last_synced_at": "2026-03-30T04:56:35+00:00",
         "source": "notion",
         "notes": ""
       },
@@ -170,7 +170,7 @@ window.__DASHBOARD_DATA__ = {
         "country": "AU",
         "published_at": "2019-07-18T08:02:17Z",
         "thumbnail_url": "https://yt3.ggpht.com/vid8YE1bhiQRe_UHZg2pCk8mZ8HBw9pQt9t0wgYW5fztogTsQGF3KzmjHxVxSV2g9-j-4XPytBU=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-03-30T04:17:21+00:00",
+        "last_synced_at": "2026-03-30T04:56:35+00:00",
         "source": "notion",
         "notes": ""
       },
@@ -189,7 +189,7 @@ window.__DASHBOARD_DATA__ = {
         "country": "GB",
         "published_at": "2023-01-03T15:41:34.351116Z",
         "thumbnail_url": "https://yt3.ggpht.com/GFuvgO3IZvs5XkYOxyLoWQto2lyY6-7Ob-7sfZRyoann4eBgvBMxuGgSVU1cvBgRCgAn41St7g=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-03-30T04:17:21+00:00",
+        "last_synced_at": "2026-03-30T04:56:35+00:00",
         "source": "notion",
         "notes": ""
       },
@@ -208,7 +208,7 @@ window.__DASHBOARD_DATA__ = {
         "country": "KR",
         "published_at": "2025-01-15T17:06:47.23928Z",
         "thumbnail_url": "https://yt3.ggpht.com/cUxU-5cQIuUQcQ7BYT0o9XM7lHAL0CawqVnXKhzKsjD3vpP-aXnVSVfuxayYvGyEdhNs-eOH8w=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-03-30T04:17:21+00:00",
+        "last_synced_at": "2026-03-30T04:56:35+00:00",
         "source": "notion",
         "notes": ""
       },
@@ -227,7 +227,7 @@ window.__DASHBOARD_DATA__ = {
         "country": "US",
         "published_at": "2013-02-21T15:55:23Z",
         "thumbnail_url": "https://yt3.ggpht.com/QIYXdEMD970-oV8nd2gKHxPlQ1-BOmJc7EJhgIGcQPlTFopvFPCHDzkyfZIfEFrdCs8wu2Gc8g=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-03-30T04:17:21+00:00",
+        "last_synced_at": "2026-03-30T04:56:35+00:00",
         "source": "notion",
         "notes": ""
       },
@@ -246,7 +246,7 @@ window.__DASHBOARD_DATA__ = {
         "country": "US",
         "published_at": "2018-07-03T08:46:30Z",
         "thumbnail_url": "https://yt3.ggpht.com/eRdOfaOB0YRrKyW3gqWSl7bR77EO73-GukIYgG2XUxwCHRjqGq8jFB3GbnuqwJYP5iAcOPBd=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-03-30T04:17:21+00:00",
+        "last_synced_at": "2026-03-30T04:56:35+00:00",
         "source": "notion",
         "notes": ""
       },
@@ -265,7 +265,7 @@ window.__DASHBOARD_DATA__ = {
         "country": "NO",
         "published_at": "2021-02-15T11:55:45.69754Z",
         "thumbnail_url": "https://yt3.ggpht.com/1Ze8bvp3DQZIwuXsV1xaoW5aCUUEU359xP85SW1ffCK6zPPsFcX4oZ83lhe6-fdWweMDtyGGO_c=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-03-30T04:17:21+00:00",
+        "last_synced_at": "2026-03-30T04:56:35+00:00",
         "source": "notion",
         "notes": ""
       },
@@ -284,7 +284,7 @@ window.__DASHBOARD_DATA__ = {
         "country": "KR",
         "published_at": "2022-05-09T02:21:22.436299Z",
         "thumbnail_url": "https://yt3.ggpht.com/akBPoqnp_PsrxdZNppNuOfPUXUM1BD4aKtgzSUoyNFwxDG_ywVOsDyyM1IMCylHbZuKlUiuc=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-03-30T04:17:21+00:00",
+        "last_synced_at": "2026-03-30T04:56:35+00:00",
         "source": "notion",
         "notes": ""
       },
@@ -303,7 +303,7 @@ window.__DASHBOARD_DATA__ = {
         "country": "NO",
         "published_at": "2020-01-08T03:02:10.415223Z",
         "thumbnail_url": "https://yt3.ggpht.com/IbufHQrLvYW5xUpl4Pv6kcYApZGrydwFA5udKmDAmOPsSKqWfS-SVdUMHsaKaxKAzAj0u34zjw=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-03-30T04:17:21+00:00",
+        "last_synced_at": "2026-03-30T04:56:35+00:00",
         "source": "notion",
         "notes": ""
       },
@@ -316,13 +316,13 @@ window.__DASHBOARD_DATA__ = {
         "language": "미지정",
         "is_active": true,
         "subscriber_count": 175000,
-        "channel_view_count": 23769444,
+        "channel_view_count": 23845352,
         "video_count": 116,
         "description": "인공지능으로 인생이 바뀌는 시대가 왔습니다.\n\n강연/비즈니스 문의 : ailifeinnovation@gmail.com",
         "country": "",
         "published_at": "2024-09-25T05:56:43.595392Z",
         "thumbnail_url": "https://yt3.ggpht.com/IJn-bt0oTKg3oKZ6gBUn0esXEJ-EgTE1sUssZ4ek7i8_hP1EJsOB94HmzQ0FnIDuH9plTJpPOUc=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-03-30T04:17:21+00:00",
+        "last_synced_at": "2026-03-30T04:56:35+00:00",
         "source": "notion",
         "notes": ""
       },
@@ -341,7 +341,7 @@ window.__DASHBOARD_DATA__ = {
         "country": "KR",
         "published_at": "2023-11-13T14:28:33.461422Z",
         "thumbnail_url": "https://yt3.ggpht.com/3OUBOktsyFnSriDFWjWIVQKkFq1pbp7wPLIGNTTjqaN5NBduc-SU-CjxWAPoRtw3ZqxjGqiZvQ=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-03-30T04:17:21+00:00",
+        "last_synced_at": "2026-03-30T04:56:35+00:00",
         "source": "notion",
         "notes": ""
       },
@@ -354,13 +354,13 @@ window.__DASHBOARD_DATA__ = {
         "language": "미지정",
         "is_active": true,
         "subscriber_count": 105000,
-        "channel_view_count": 5589457,
+        "channel_view_count": 5589572,
         "video_count": 94,
         "description": "Build your AI Second Brain — free course: autonomee.ai/telegram-bot-course/ Join 300+ professionals building with GoBot: skool.com/autonomee\n",
         "country": "DE",
         "published_at": "2022-02-05T20:31:58.172017Z",
         "thumbnail_url": "https://yt3.ggpht.com/ZqB_Le7kVrIrpVas3TkSC8pEcyrCJLXvaBoBTRSBPhHvMAxZo875qLAoIdhvkGR2jVrUUxPOGw=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-03-30T04:17:21+00:00",
+        "last_synced_at": "2026-03-30T04:56:35+00:00",
         "source": "notion",
         "notes": ""
       },
@@ -373,13 +373,13 @@ window.__DASHBOARD_DATA__ = {
         "language": "미지정",
         "is_active": true,
         "subscriber_count": 104000,
-        "channel_view_count": 5713088,
+        "channel_view_count": 5717573,
         "video_count": 223,
         "description": "📨강의,협업문의 → business.successwiki@gmail.com\n\n실전 AI, 바이브코딩, 자동화를 알려드립니다.\n\n🔥상위 1% AI, 바이브코딩, 자동화 마스터클래스: https://tinyurl.com/ainocodemasterclass\n\nHIGGS-A3SGE\n950633\n",
         "country": "KR",
         "published_at": "2021-04-29T07:01:59.695259Z",
         "thumbnail_url": "https://yt3.ggpht.com/JwGwfSjTXVAKAmIWsbawhjFAo5d0k6u_M97jDFyhXCaPKjS0SzkRnshPYI4A66k9wQySwlx4=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-03-30T04:17:21+00:00",
+        "last_synced_at": "2026-03-30T04:56:35+00:00",
         "source": "notion",
         "notes": ""
       },
@@ -398,7 +398,7 @@ window.__DASHBOARD_DATA__ = {
         "country": "US",
         "published_at": "2024-08-08T02:35:23.244531Z",
         "thumbnail_url": "https://yt3.ggpht.com/SCqfozWQvx9ibH7MwI_byXXsfRvedkQ679VndlZ1dkQtN6czTw_tbJh-Tr2d_Y8NwtH_yKsqlQ=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-03-30T04:17:21+00:00",
+        "last_synced_at": "2026-03-30T04:56:35+00:00",
         "source": "notion",
         "notes": ""
       },
@@ -417,7 +417,7 @@ window.__DASHBOARD_DATA__ = {
         "country": "US",
         "published_at": "2022-07-18T16:43:49.835882Z",
         "thumbnail_url": "https://yt3.ggpht.com/3_UTOJyQwPwvG2qhDpM63Kn0zqTxv62TazWm0W-DsV8NcebYO83HnWET9VcWi2WucIHnCP2iVz8=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-03-30T04:17:21+00:00",
+        "last_synced_at": "2026-03-30T04:56:35+00:00",
         "source": "notion",
         "notes": ""
       },
@@ -430,13 +430,13 @@ window.__DASHBOARD_DATA__ = {
         "language": "미지정",
         "is_active": true,
         "subscriber_count": 53500,
-        "channel_view_count": 1956297,
+        "channel_view_count": 1963623,
         "video_count": 113,
         "description": "We’re Alan and Daniel Walsh, two brothers passionate about automation and dedicated to helping you succeed. With years of experience running our own online businesses and implementing real-world systems across various industries, we know what works—and what doesn’t.",
         "country": "IE",
         "published_at": "2024-07-17T19:44:18.005204Z",
         "thumbnail_url": "https://yt3.ggpht.com/JdpS01wPnfPY6K1sh09XZEOqvRgrzMTEC_zwpAUNeGp7-63nUfMRMbn8fWjG1RtvDvoxTTwOMh4=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-03-30T04:17:21+00:00",
+        "last_synced_at": "2026-03-30T04:56:35+00:00",
         "source": "notion",
         "notes": ""
       },
@@ -449,13 +449,13 @@ window.__DASHBOARD_DATA__ = {
         "language": "미지정",
         "is_active": true,
         "subscriber_count": 42300,
-        "channel_view_count": 1368798,
+        "channel_view_count": 1374592,
         "video_count": 70,
         "description": "📨강의,협업,프로젝트 문의: hello@joshua.site\n컨설팅 문의: https://joshua.site/\n\nAI를 가지고 '만드는 것'을 좋아하는 디자이너입니다.\n기업과 스타트업씬에 실제로 통용되는 AI를 다루고 있어요.\n\n현재 SK 등의 대기업들과 사내 AI 자동화 및 전환을 위한 프로젝트 12건 진행하고 있습니다.\n프로젝트나 강의 제안이 있다면 언제든 문의주세요.\n\n이전엔 SK텔레콤에서 '에이닷', 'T전화' 프로덕트 디자인을 담당했어요.\n'조쉬의 뉴스레터'로 IT 필드에서 이름을 알렸어요.\n\n강의, 협업, 컨설팅 등 다양한 협업이 열려있습니다.\n\n⚬ 전 SK텔레콤 출신 프로덕트 디자이너\n⚬ AI & 비즈니스 크리에이터\n⚬ '조쉬의 뉴스레터' 작가 및 텍스트 인플루언서 (도합 5만)\n⚬ '나는 솔로프리너다(EO Studio)' 저자\n",
         "country": "KR",
         "published_at": "2025-05-12T03:07:36.371463Z",
         "thumbnail_url": "https://yt3.ggpht.com/W8c2UYA33VOAC6i_86BChIEeVn1KP7_NrSB95VxcpEfKBkdYWGsMaYQcpv3RXsDzhlbgrFuO=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-03-30T04:17:21+00:00",
+        "last_synced_at": "2026-03-30T04:56:35+00:00",
         "source": "notion",
         "notes": ""
       },
@@ -468,13 +468,13 @@ window.__DASHBOARD_DATA__ = {
         "language": "미지정",
         "is_active": true,
         "subscriber_count": 37900,
-        "channel_view_count": 1939028,
+        "channel_view_count": 1939687,
         "video_count": 97,
         "description": "정보의 격차를 줄이고 싶어요.\n\nAI 시대에는 더욱 공평한 세상이 만들어져야 합니다.\n제가 그 시작을 도울게요.\n\n이 채널에 머무르지 마세요.\n졸업하세요.\n\n[동테크 콘텐츠]\n\n1. 초보자를 위한 AI 사용법\n2. 크리에이터로 살아가야 하는 이유\n3. 최신 AI 서비스 리뷰\n4. 동테크의 챌린지\n\n[비즈니스, 강의 문의]\nai0255@naver.com\n",
         "country": "KR",
         "published_at": "2024-08-21T06:58:08.399667Z",
         "thumbnail_url": "https://yt3.ggpht.com/OHl-CQCQS5JzsoTyVVMxDEbgOToetWMoV3tz3v61-0HikaTjDobvRwHvNeFZ-t6Mt_CIg_PJ=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-03-30T04:17:21+00:00",
+        "last_synced_at": "2026-03-30T04:56:35+00:00",
         "source": "notion",
         "notes": ""
       },
@@ -487,13 +487,13 @@ window.__DASHBOARD_DATA__ = {
         "language": "미지정",
         "is_active": true,
         "subscriber_count": 36600,
-        "channel_view_count": 1391470,
+        "channel_view_count": 1391825,
         "video_count": 345,
         "description": "The Next Wave, hosted by Al experts Matt Wolfe and Nathan Lands, is the essential guide for business owners navigating the complexities of artificial intelligence.\n\nThis podcast demystifies Al, making it accessible and actionable for entrepreneurs and businesses looking to harness its potential.\n\nJoin us weekly as we explore real-world applications of Al across various industries, tackle common challenges faced by businesses in implementing Al solutions, and share practical strategies for integrating Al into your operations to drive growth and innovation.\n\nWhether you're just starting to explore the possibilities of Al or seeking to optimize its use in your business, \"The Next Wave\" provides the insights and guidance you need to confidently navigate the Al landscape and unlock new opportunities for your business.\n",
         "country": "US",
         "published_at": "2023-12-07T13:27:52.383898Z",
         "thumbnail_url": "https://yt3.ggpht.com/rICFdrRueE0SI_OE_kaMPYPjnNMOgxH_bq4xteUJeR1_r1Dl0N9me33Q2tqoB0kxR587sAIVbA=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-03-30T04:17:21+00:00",
+        "last_synced_at": "2026-03-30T04:56:35+00:00",
         "source": "notion",
         "notes": ""
       },
@@ -512,14 +512,14 @@ window.__DASHBOARD_DATA__ = {
         "country": "KR",
         "published_at": "2016-10-10T02:58:49Z",
         "thumbnail_url": "https://yt3.ggpht.com/-Og4w6N8RqHvsJGogIBUUBZDVgnlwFuxpjoslTZr-g-io3pT2UCKdkoaDPxHjTl31ViIK-W_PQ=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-03-30T04:17:21+00:00",
+        "last_synced_at": "2026-03-30T04:56:35+00:00",
         "source": "notion",
         "notes": ""
       }
     ]
   },
   "videos": {
-    "generated_at": "2026-03-30T04:18:39+00:00",
+    "generated_at": "2026-03-30T04:57:38+00:00",
     "source": "sqlite_export",
     "video_count": 34,
     "videos": [
@@ -530,56 +530,47 @@ window.__DASHBOARD_DATA__ = {
         "description": "힉스필드 시네마 스튜디오 2.5 체험하기: https://higgsfield.ai/s/higgsfield-ai-cinematic-workflow-success_wiki-ppKBei\n\nAI 영상 제작의 가장 큰 숙제였던 '캐릭터 일관성'이 드디어 해결되었습니다. \nHiggsfield Cinema Studio 2.5는 단순한 AI Video Generator를 넘어, 전문가 수준의 AI Filmmaking을 가능하게 하는 강력한 툴입니다. \n\n이 영상에서는 나만의 배우(Actor)를 설정하고, 전용 로케이션을 만들어, 실제 영화 같은 Cinematic AI Video를 제작하는 모든 과정을 담았습니다.\n\n🔑 핵심 인사이트 (Key Insights)\n1. Character Consistency: 모든 장면에서 동일 인물을 유지하는 Higgsfield만의 독보적 기술\n2. AI Actor Creation: 성별, 인종, 체형까지 정교하게 커스텀하는 나만의 배우 제작법\n3. Cinematic Camera Control: Impact, Speed up 등 프로급 카메라 무빙 연출 노하우\n4. Exclusive Rights: 생성한 캐릭터에 대한 판권을 직접 소유하는 혁신적인 시스템 설명\n5. Pro-level Workflow: 액터와 로케이션을 결합해 한 편의 영화를 완성하는 전체 프로세스\n\n📝 상세 가이드 요약 (Detailed Guide Summary)\n🚀 Part 1. Creating Actors & Locations: 나만의 배우와 영화 배경을 설정하고 생성하는 법\n🚀 Part 2. Scene Composition: 생성된 에셋을 조합해 Cinematic AI Video 장면 연출하기\n🚀 Part 3. Professional Directing: 카메라 옵션과 장르 설정을 통해 영화 퀄리티 극대화하기\n\n⏰ 타임라인\n0:00 Higgsfield Cinema Studio 2.5의 압도적인 캐릭터 일관성\n1:26 AI Filmmaking의 미래, '아레나 제로' 예시 분석\n2:14 Step 1: 내 영화의 주연 배우(Cast) 직접 만들기\n4:42 캐릭터 판권(Exclusive Right)과 힉스필드의 비전\n5:26 Step 2: AI Video Generator로 영화 속 장소(Location) 구현하기\n6:42 Step 3: 배우와 장소를 결합해 Cinematic 씬 제작하기\n7:49 카메라 옵션 활용법: 임팩트(Impact) 있는 추격신 연출\n10:24 실제 제작 사례: 힉스필드로 직접 제작한 첩보 스파이물 공개\n11:12 무제한 생성을 위한 비즈니스 및 울트라 플랜 혜택 안내\n\n#Higgsfield #CinemaStudio #AIVideoGenerator #AIFilmmaking #CinematicAIVideo #AI영화 #힉스필드 #성공지식백과",
         "published_at": "2026-03-30T01:32:42Z",
         "duration_seconds": 720,
-        "view_count": 528,
-        "like_count": 45,
+        "view_count": 723,
+        "like_count": 53,
         "comment_count": 3,
-        "engagement_rate": 0.09090909090909091,
+        "engagement_rate": 0.07745504840940526,
         "thumbnail_url": "https://i.ytimg.com/vi/5AUWYlb1_U0/hqdefault.jpg",
         "video_url": "https://www.youtube.com/watch?v=5AUWYlb1_U0",
         "format": "워크플로우 튜토리얼",
         "hook_type": "문제 해결",
         "title_pattern": "핵심 포인트 직설형",
-        "one_line_summary": "배우나 카메라 없이도 AI 툴 'Higgsfield Cinema Studio 2.5'를 활용해 영화의 캐릭터 일관성을 유지하며 실제 영화 같은 영상을 제작하는 방법을 보여주는 콘텐츠.",
-        "why_it_works": "AI 영상 제작의 고질적인 문제였던 '캐릭터 일관성'을 해결했다는 점을 전면에 내세우며, 실제로 나만의 배우와 로케이션을 설정하고 영화 같은 연출까지 구현하는 과정을 단계별로 보여주기 때문에 시청자의 흥미를 유발하고 AI 영상 제작 기술의 발전 가능성을 느끼게 합니다. '배우 0명, 카메라 0대'라는 자극적인 문구와 '미친 할리우드급'이라는 과장은 호기심을 자극하는 효과가 있습니다.",
-        "recommendation": "• 'AI 배우 vs 실제 배우' 또는 'AI 로케이션 vs 실제 로케이션' 등 시청자가 직관적으로 비교할 수 있는 VS 구도를 활용하여 실험 콘텐츠 제작 • 'AI에게 스토리를 주고 영화를 만들어달라고 했더니...' 와 같이 일반인이 이해하기 쉬운 실험 설정으로 AI 툴의 활용 가능성 탐색 • 아직 경쟁 채널에서 시도하지 않은 'AI 배우 저작권', 'AI 캐릭터 감정 표현' 등 심층적인 주제를 실험 콘텐츠로 다루어 차별화 • '이 정도면 영화감독해도 되겠는데?' 와 같이 시청자가 AI 툴을 직접 활용하고 싶도록 만드는 실험 설계 • AI 툴의 기능 나열이 아닌, 'AI와 함께 영화를 만드는 과정' 자체를 스토리텔링 방식으로 풀어내 시청자 몰입도 증진",
+        "one_line_summary": "이 영상은 automation 이슈를 워크플로우 튜토리얼 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+        "why_it_works": "문제 해결 훅으로 관심을 끌고, 워크플로우 튜토리얼 형식으로 내용을 빠르게 정리해 시청자가 '바로 써먹을 수 있다'고 느끼게 만듭니다.",
+        "recommendation": "훅 구조: 도입 15초 안에 '문제 해결' 관점으로 문제를 못 박고, 왜 지금 봐야 하는지 먼저 선언합니다. • 복제할 포장 요소: 워크플로우 튜토리얼 형식을 유지하되 automation를 실제 사용 장면 1개와 결과 변화 2개로 더 좁혀 설명합니다. • 비어 있는 콘텐츠 영역: 'automation가 내 작업 흐름에서 어디에 꽂히는가'를 사례 중심으로 보여주는 후속 영상이 비어 있습니다. • 추천 제목: automation 이슈를 내 채널 관점으로 다시 정리해보자 • 썸네일 카피 힌트: automation 지금 봐야 할 3가지",
         "transcript_status": "failed",
         "transcript_source": "none",
         "transcript_language": "",
         "transcript_text": "",
-        "analysis_date": "2026-03-30T04:17:22+00:00",
+        "analysis_date": "2026-03-30T04:56:36+00:00",
         "channel_name": "성공지식백과",
         "topic_tags": [
-          "자동화"
+          "automation"
         ],
         "keywords": [
-          "AI영화제작",
-          "AI배우만들기",
-          "AI영상편집",
-          "캐릭터일관성",
-          "AI툴",
-          "시네마틱영상",
-          "영화연출",
-          "HiggsfieldAI"
+          "automation",
+          "배우",
+          "0명",
+          "카메라",
+          "0대"
         ],
         "tools": [],
         "flow": [
-          "AI 영상 제작의 핵심 난제인 '캐릭터 일관성' 해결을 영상의 가장 큰 특징으로 제시",
-          "Higgsfield Cinema Studio 2.5의 주요 기능(AI 배우 생성, 로케이션 구현, 카메라 연출)을 단계별로 소개",
-          "실제 제작 사례(첩보 스파이물)를 공개하여 결과물의 퀄리티 입증",
-          "결과물과 관련하여 AI 툴의 활용 범위와 비전에 대한 설명으로 마무리"
+          "처음 15초 안에 문제를 선명하게 정의하고 왜 지금 봐야 하는지 못 박는다.",
+          "중간 구간에서 툴, 사례, 비교 포인트를 빠르게 제시해 정보 밀도를 높인다.",
+          "마지막에는 시청자가 바로 따라할 수 있는 다음 액션과 적용 예시로 닫는다."
         ],
         "claims": [
-          "AI 영상 제작에서 가장 큰 숙제였던 '캐릭터 일관성'이 해결되었다.",
-          "Higgsfield Cinema Studio 2.5는 전문가 수준의 AI 영화 제작을 가능하게 하는 툴이다.",
-          "나만의 배우(Actor)를 설정하고 전용 로케이션을 만들어 실제 영화 같은 Cinematic AI Video 제작이 가능하다.",
-          "생성한 캐릭터에 대한 판권을 직접 소유할 수 있다."
+          "단순 소개보다 실제 사용 장면을 바로 보여주는 구조가 반응을 만든다.",
+          "큰 담론보다 작은 병목 하나를 해결해주는 포장 방식이 클릭으로 이어지기 쉽다."
         ],
         "transcript_highlights": [
-          "AI 영상 제작의 가장 큰 숙제였던 '캐릭터 일관성'이 드디어 해결되었습니다.",
-          "이 영상에서는 나만의 배우(Actor)를 설정하고, 전용 로케이션을 만들어, 실제 영화 같은 Cinematic AI Video를 제작하는 모든 과정을 담았습니다.",
-          "모든 장면에서 동일 인물을 유지하는 Higgsfield만의 독보적 기술",
-          "성별, 인종, 체형까지 정교하게 커스텀하는 나만의 배우 제작법",
-          "Impact, Speed up 등 프로급 카메라 무빙 연출 노하우"
+          "힉스필드 시네마 스튜디오 2.5 체험하기: https://higgsfield.ai/s/higgsfield-ai-cinematic-workflow-success_wiki-ppKBei AI 영상 제작의 가장 큰 숙제였던 '캐릭터 일관성'이 드디어 해결되었습니다.",
+          "Higgsfield Cinema Studio 2.5는 단순한 AI Video Generator를 넘어, 전문가 수준의 AI Filmmaking을 가능하게 하는 강력한 툴입니다."
         ],
         "top_comments": [
           {
@@ -618,60 +609,51 @@ window.__DASHBOARD_DATA__ = {
         "description": "Want to try Image Generation Designed for well... Design! Check the Amazing Recraft with my link: https://go.recraft.ai/MattVidPro Huge thanks to Recraft for Sponsoring today's video! In today's video, I compared Suno 5.5 against Google’s Lyria 3 across a bunch of different prompts and styles, from rock anthems to chiptune themes to weird genre-switching songs. Lyria is impressively clear and polished, but for me Suno still feels more alive, more creative, and more memorable. I also tested some of Suno’s newer studio and voice features to see how far AI music has come.\n\n▼ Link(s) From Today’s Video:\nSuno 5.5: https://suno.com/\nLyria 3 Pro: https://blog.google/innovation-and-ai/technology/ai/lyria-3-pro/\nGemini Lyria 3: https://gemini.google.com/\nSunauto: https://sonauto.ai/\nMattVidPro Discord: https://discord.gg/mattvidpro\nFollow Me on Twitter: https://twitter.com/MattVidPro\nBuy me a Coffee! https://buymeacoffee.com/mattvidpro\n\n▼ Extra Links of Interest:\nGeneral AI Playlist: https://www.youtube.com/playlist?list=PLrfI66qWYbW3acrBQ4qltDBsjxaoGSl3I\nInstagram: instagram.com/mattvidpro\nTiktok: tiktok.com/@mattvidpro\nGaming & Extras Channel: https://www.youtube.com/@MattVidProGaming\n\nLet's work together!\n- For brand & sponsorship inquiries: https://tally.so/r/3xdz4E\n- For all other business inquiries: mattvidpro@smoothmedia.co\nThanks for watching MattVideoProductions! I make all sorts of videos here on Youtube! Technology, Tutorials, and Reviews! Enjoy Your stay here.\nAll Suggestions, Thoughts And Comments Are Greatly Appreciated\n\n00:00 Intro + New Features\n01:52 Music Generations and Comparisons\n07:50 Recraft Sponsor Message\n09:19 Further Comparisons\n26:57 Suno v5.5 Voice Personalization\n36:14 Final Thoughts Outro",
         "published_at": "2026-03-29T16:38:21Z",
         "duration_seconds": 2401,
-        "view_count": 4272,
-        "like_count": 276,
+        "view_count": 4405,
+        "like_count": 277,
         "comment_count": 63,
-        "engagement_rate": 0.07935393258426966,
+        "engagement_rate": 0.0771850170261067,
         "thumbnail_url": "https://i.ytimg.com/vi/ccDmDDsPjew/hqdefault.jpg",
         "video_url": "https://www.youtube.com/watch?v=ccDmDDsPjew",
-        "format": "워크플로우 튜토리얼",
+        "format": "비교",
         "hook_type": "비교",
         "title_pattern": "핵심 포인트 직설형",
-        "one_line_summary": "AI 음악 생성 툴 Suno v5.5, Google Lyria 3, Sonauto를 다양한 장르의 음악 생성 미션으로 직접 비교하며 각 툴의 강점과 약점을 분석하고, 특히 Suno v5.5의 창의성과 생동감을 높이 평가하는 영상입니다.",
-        "why_it_works": "AI 음악 생성이라는 최신 기술 트렌드를 다루면서, 실제 결과물을 여러 툴로 직접 만들어 비교하는 '실험' 포맷을 통해 일반인도 이해하기 쉽게 정보를 전달합니다. 특히, Suno AI의 창의성과 생동감을 강조하며 시청자의 흥미를 유발하고, Lyria 3의 명확함과의 대비를 통해 각 툴의 특징을 명확히 보여줍니다.",
-        "recommendation": "• Suno v5.5 vs Udio (비교 대상 변경): 현재 가장 주목받는 두 AI 음악 생성 툴의 VS 비교를 통해 시청자들의 궁금증을 해소합니다. • 'AI로 100곡 만들기' 실험: 제한된 시간 안에 특정 주제나 분위기로 AI 음악을 얼마나 많이, 그리고 어떤 퀄리티로 만들 수 있는지 실험하는 포맷을 제안합니다. • 일반인이 따라하기 쉬운 'Suno AI 활용법' 실험: 복잡한 기능 설명 대신, '이대로 따라 하면 나도 AI 작곡가!'라는 콘셉트로 간단한 프롬프트만으로 근사한 음악을 만드는 과정을 보여줍니다. • 킬링 파트 분석: 경쟁 영상에서 사용된 중독성 있는 AI 음악의 특정 구간(훅)을 분석하여, 왜 시청자들이 해당 구간에 매력을 느끼는지 파악하고 스마트대디 채널에 적용할 포인트를 찾습니다.",
+        "one_line_summary": "이 영상은 monetization 이슈를 비교 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+        "why_it_works": "비교 훅으로 관심을 끌고, 비교 형식으로 내용을 빠르게 정리해 시청자가 '바로 써먹을 수 있다'고 느끼게 만듭니다.",
+        "recommendation": "훅 구조: 도입 15초 안에 '비교' 관점으로 문제를 못 박고, 왜 지금 봐야 하는지 먼저 선언합니다. • 복제할 포장 요소: 비교 형식을 유지하되 monetization를 실제 사용 장면 1개와 결과 변화 2개로 더 좁혀 설명합니다. • 비어 있는 콘텐츠 영역: 'monetization가 내 작업 흐름에서 어디에 꽂히는가'를 사례 중심으로 보여주는 후속 영상이 비어 있습니다. • 추천 제목: monetization 이슈를 내 채널 관점으로 다시 정리해보자 • 썸네일 카피 힌트: monetization 지금 봐야 할 3가지",
         "transcript_status": "failed",
         "transcript_source": "none",
         "transcript_language": "",
         "transcript_text": "",
-        "analysis_date": "2026-03-30T04:17:28+00:00",
+        "analysis_date": "2026-03-30T04:56:41+00:00",
         "channel_name": "MattVidPro",
         "topic_tags": [
-          "Gemini",
-          "수익화",
-          "비교"
+          "monetization",
+          "comparison"
         ],
         "keywords": [
-          "AI음악생성",
-          "Sunov5.5",
-          "GoogleLyria3",
-          "Sonauto",
-          "AI작곡",
-          "음악비교",
-          "AI기술",
-          "음악제작도구"
+          "monetization",
+          "comparison",
+          "Gemini",
+          "Suno",
+          "v5.5",
+          "is",
+          "ALIVE"
         ],
         "tools": [
           "Gemini"
         ],
         "flow": [
-          "인트로: Suno v5.5의 새로운 기능 소개 및 영상 주제 제시",
-          "음악 생성 비교 1: Suno v5.5 vs Google Lyria 3 다양한 장르(록, 칩튠 등) 음악 생성 및 결과 비교",
-          "스폰서 광고: Recraft 소개",
-          "음악 생성 비교 2: 추가적인 음악 생성 및 비교",
-          "Suno v5.5 기능 심층 탐구: 스튜디오 및 보이스 기능 테스트"
+          "처음 15초 안에 문제를 선명하게 정의하고 왜 지금 봐야 하는지 못 박는다.",
+          "중간 구간에서 툴, 사례, 비교 포인트를 빠르게 제시해 정보 밀도를 높인다.",
+          "마지막에는 시청자가 바로 따라할 수 있는 다음 액션과 적용 예시로 닫는다."
         ],
         "claims": [
-          "Suno v5.5는 Google Lyria 3보다 더 생동감 있고 창의적이며 기억에 남는 음악을 만든다.",
-          "Google Lyria 3는 명확하고 세련된 결과물을 제공한다.",
-          "Suno v5.5는 새로운 스튜디오 및 보이스 기능을 통해 AI 음악 제작의 발전을 보여준다.",
-          "Sonauto도 좋은 결과물을 낼 수 있는 잠재력이 있다."
+          "단순 소개보다 실제 사용 장면을 바로 보여주는 구조가 반응을 만든다.",
+          "큰 담론보다 작은 병목 하나를 해결해주는 포장 방식이 클릭으로 이어지기 쉽다."
         ],
         "transcript_highlights": [
-          "Suno 5.5는 여전히 살아있습니다!",
-          "다양한 장르의 음악을 생성하고 비교해 보았습니다.",
-          "Lyria는 놀랍도록 명확하고 세련되었지만, Suno는 더 살아있고 창의적이며 기억에 남는 것 같습니다.",
-          "Suno의 새로운 스튜디오 및 보이스 기능들을 테스트했습니다."
+          "자막을 확보하지 못해 제목·댓글·메타데이터 기준으로 분석했습니다."
         ],
         "top_comments": [
           {
@@ -688,7 +670,7 @@ window.__DASHBOARD_DATA__ = {
             "comment_id": "UgyZVe-wz7hS5ucCbqF4AaABAg",
             "author": "@WesTheWizard",
             "text": "Sonauto v3 preview has produced some amazing outputs for me. It's the closest thing we have to a good Udio replacement. It requires a little more skill to get great results, but when it hits it hits _hard_",
-            "like_count": 9,
+            "like_count": 10,
             "reply_count": 1,
             "published_at": "2026-03-29T18:18:44Z"
           },
@@ -728,10 +710,10 @@ window.__DASHBOARD_DATA__ = {
         "description": "넥스트 AI, 공간 컴퓨팅 - 애플·구글·메타가 사활을 건 2035 공간 기술 패권 시나리오\n― 교보문고: https://bit.ly/4aytf7J\n― 예스24: https://bit.ly/4tQYhzf\n― 알라딘: https://bit.ly/3OyxuYj",
         "published_at": "2026-03-29T11:34:09Z",
         "duration_seconds": 1867,
-        "view_count": 4699,
-        "like_count": 135,
+        "view_count": 4761,
+        "like_count": 136,
         "comment_count": 13,
-        "engagement_rate": 0.031496062992125984,
+        "engagement_rate": 0.031295946229783655,
         "thumbnail_url": "https://i.ytimg.com/vi/3Ne2lYnVoCw/hqdefault.jpg",
         "video_url": "https://www.youtube.com/watch?v=3Ne2lYnVoCw",
         "format": "뉴스 분석",
@@ -744,7 +726,7 @@ window.__DASHBOARD_DATA__ = {
         "transcript_source": "none",
         "transcript_language": "",
         "transcript_text": "",
-        "analysis_date": "2026-03-30T04:17:27+00:00",
+        "analysis_date": "2026-03-30T04:56:40+00:00",
         "channel_name": "월텍남 - 월스트리트 테크남",
         "topic_tags": [],
         "keywords": [
@@ -821,62 +803,63 @@ window.__DASHBOARD_DATA__ = {
         "description": "운동하시는 분들에게는 이미 아주 아주 유명한 샥즈에서 이번엔, 라이프스타일용? 올라운드용? 운동과 일상을 커버할 수 있는 플래그십 모델이 출시되었습니다. 사실 CES 2026에서 미리 공개되어 어느정도 소식은 알고 있었는데요, 샥즈는 무엇보다 착용감으로도 선호하시는 분들이 많아 이번엔 노이즈 리덕션까지 탑재되었다하여 한달간 사용해봤습니다!\n\n🔗 Sponsor.\n- 본 영상은 ‘샥즈’의 유료광고를 포함하고 있습니다.\n- 오픈핏 프로 구매 링크 (잇섭 기획전) : https://shokz.info/itsub_openfitpro\n- 매장 찾기 : https://shokz.co.kr/cs/service_shop.php\n- 오프라인 청음존: 하이마트, 교보문고, 일렉트로마트, ODE, GAZESHOP, 닥터사운드 등\n\n\n🔋 Specs.\n제품명 : 샥즈 오픈핏 프로\n스피커 : 공기 전도 스피커\n연결 : Bluetooth 6.1\n배터리 : 1회 충전 12시간 (노이즈 리덕션 끔) / 1외 충전 6시간 (노이즈 리덕션 켬)\n충전 : 10분 충전 시 약 4시간 음악 재생\n방수방진 : IP55\n가격 : 정가 369,000원\n\n\n🎵 BGM.\nES_Picturesque - Dusty Decks\n\n\n⏲️ Timestamps.\n00:00 너무슬퍼\n00:11 오프닝\n00:59 디자인\n02:49 착용감\n05:11 노이즈 리덕션\n09:19 음질\n12:30 통화 품질 & 기타 \n13:50 오늘의 결론\n\n\n🔖Tags.\n#샥즈\n#오픈핏프로\n#OpenFitPro\n#shokz\n\n\n💡 Merch.\n블랙카우랩스 굿즈를 사고 싶다면?\n-https://abit.ly/blackcowlabs\n\n\n📨 Business contacts.\n itsub@itud.io",
         "published_at": "2026-03-29T11:00:00Z",
         "duration_seconds": 885,
-        "view_count": 127637,
-        "like_count": 1677,
-        "comment_count": 351,
-        "engagement_rate": 0.015888809671176854,
+        "view_count": 129121,
+        "like_count": 1697,
+        "comment_count": 352,
+        "engagement_rate": 0.01586883620789802,
         "thumbnail_url": "https://i.ytimg.com/vi/ybNik9D9UNA/hqdefault.jpg",
         "video_url": "https://www.youtube.com/watch?v=ybNik9D9UNA",
         "format": "사례 분석",
         "hook_type": "문제 해결",
-        "title_pattern": "특정 제품명 + 사용 기간 + 핵심 기능/장점 언급",
-        "one_line_summary": "운동으로 유명한 샥즈에서 출시한 플래그십 오픈형 이어폰 '오픈핏 프로'를 한 달간 사용하며 디자인, 착용감, 노이즈 리덕션, 음질, 통화 품질 등을 리뷰합니다.",
-        "why_it_works": "오픈형 이어폰 최초로 노이즈 리덕션을 탑재했다는 점을 전면에 내세워 시청자의 궁금증을 유발하며, 한 달간의 실사용 후기를 통해 제품의 장단점을 구체적으로 제시하여 신뢰도를 높입니다. 특히 운동하는 사람들에게 익숙한 '샥즈'라는 브랜드와 '노이즈 리덕션'이라는 최신 기술을 결합하여 IT 기기 관심층과 운동 관심층 모두에게 어필할 수 있습니다.",
-        "recommendation": "• '오픈형 이어폰 vs 커널형 이어폰' 노이즈 캔슬링 성능 비교 콘텐츠 제작 • '일상 소음 vs 운동 소음' 상황별 노이즈 리덕션 효과를 스마트대디가 직접 실험하는 영상 기획 • '충전 시간 vs 사용 시간' 배터리 효율성을 실제 사용 시나리오에 맞춰 실험하고 일반인 눈높이에 맞춰 설명 • 샥즈 오픈핏 프로와 경쟁사의 최신 완전 무선 이어폰(노이즈 캔슬링 기능 포함)과의 직접적인 VS 비교 콘텐츠 제작",
+        "title_pattern": "핵심 포인트 직설형",
+        "one_line_summary": "샥즈의 신형 오픈핏 프로 이어폰을 한 달간 사용하며, 오픈형임에도 불구하고 노이즈 캔슬링 기능이 얼마나 효과적인지와 전반적인 음질, 착용감, 통화 품질 등을 솔직하게 리뷰하는 영상입니다.",
+        "why_it_works": "기존 샥즈 브랜드의 강점인 뛰어난 착용감과 운동 적합성을 계승하면서, 가장 의외의 기능인 노이즈 캔슬링을 오픈형 이어폰에 탑재했다는 점에서 호기심을 자극합니다. '이게 될까?'라는 의문을 직접 실험하고 보여주며, IT 전문 유튜버의 신뢰도 높은 리뷰로 일반 사용자들의 구매 결정에 도움을 줍니다.",
+        "recommendation": "• 샥즈 오픈핏 프로 vs 에어팟 프로 노캔 성능 비교 실험: 오픈형과 커널형 노캔 이어폰의 현실적인 차이를 일반인 눈높이에 맞춰 시연 (예: 카페 소음, 지하철 소음 비교) • '귀에 안 꽂는' 이어폰의 장점 극대화 실험: 험한 운동 환경(달리기, 점프 등)에서의 안정적인 착용감과 외부 소리 인지 능력 비교 시연 • 샥즈 오픈핏 프로 vs 타사 오픈형 이어폰(음질/노캔) VS 비교: 일반인이 선호하는 음원(K-Pop, 팝)으로 음질을 직접 비교하고, 노캔 성능을 일상 소음에서 비교하여 '진짜' 차이점 부각 • 샥즈 오픈핏 프로, '일상용'으로 써도 될까? 실험: 재택근무, 온라인 강의 등 다양한 일상 상황에서 노캔 성능과 편의성 집중 실험",
         "transcript_status": "failed",
         "transcript_source": "none",
         "transcript_language": "",
         "transcript_text": "",
-        "analysis_date": "2026-03-30T04:17:25+00:00",
+        "analysis_date": "2026-03-30T04:56:39+00:00",
         "channel_name": "ITSub잇섭",
         "topic_tags": [
           "이어폰",
+          "무선이어폰",
           "샥즈",
           "오픈핏프로",
           "노이즈캔슬링",
-          "오픈이어폰",
-          "IT기기리뷰"
+          "IT기기"
         ],
         "keywords": [
           "샥즈오픈핏프로",
-          "ShokzOpenFitPro",
-          "귀걸이이어폰",
-          "노이즈리덕션",
-          "액티브노이즈캔슬링",
+          "샥즈이어폰",
           "오픈형이어폰",
+          "골전도이어폰",
+          "노이즈캔슬링이어폰",
           "운동용이어폰",
-          "음질"
+          "IT리뷰",
+          "잇섭"
         ],
         "tools": [],
         "flow": [
-          "오프닝 및 제품 소개 (궁금증 유발)",
-          "디자인 및 외관 설명",
-          "착용감 테스트 (운동 및 일상)",
-          "노이즈 리덕션 성능 실험 및 설명",
-          "음질 평가"
+          "제품 디자인 및 구성품 소개",
+          "실제 착용감 및 안정성 테스트 (운동 상황 포함)",
+          "가장 핵심적인 노이즈 캔슬링 성능 실험 및 분석 (다양한 환경)",
+          "음질 평가 (음악 감상)",
+          "통화 품질 및 부가 기능 테스트"
         ],
         "claims": [
-          "오픈형 이어폰 최초로 노이즈 리덕션 기능 탑재",
-          "한 달간의 실사용을 통한 솔직한 후기 제공",
-          "운동과 일상 모두 커버 가능한 올라운드 모델임을 강조",
-          "착용감 우수성 재차 강조"
+          "샥즈 오픈핏 프로는 오픈형 이어폰이지만 노이즈 캔슬링 기능을 제공한다.",
+          "한 달간의 사용 결과, 노이즈 캔슬링 성능이 기대 이상이다.",
+          "착용감이 매우 뛰어나며 운동 시에도 안정적이다.",
+          "음질 또한 만족스러운 수준이다.",
+          "통화 품질도 준수하다."
         ],
         "transcript_highlights": [
-          "귀에 걸치는 이어폰인데 노이즈 캔슬링이 된다는 점이 의문이었어요.",
-          "샥즈의 가장 큰 장점은 역시 착용감이고, 이번 오픈핏 프로는 오픈형 이어폰임에도 불구하고 노이즈 리덕션 기능까지 넣었다는 것이 특징입니다.",
-          "실제로 한 달간 사용해보니, 운동할 때도 귀에 부담 없이 편안했고 일상생활에서도 주변 소리를 어느 정도 차단해줘서 만족스러웠습니다.",
-          "다만, 액티브 노이즈 캔슬링 성능은 커널형 이어폰에 비하면 아쉬울 수 있습니다. 하지만 오픈형 이어폰이라는 점을 감안하면 상당히 준수한 편입니다.",
-          "음질 또한 일반적인 오픈형 이어폰보다는 깊이감이 있었고, 통화 품질도 깨끗해서 만족스러웠습니다."
+          "00:59 디자인 - 샥즈 특유의 디자인 언어를 계승하면서도 라이프스타일용으로 다듬어진 외형을 보여줍니다.",
+          "02:49 착용감 - 귀에 거는 방식의 뛰어난 착용감과 격렬한 운동 중에도 흘러내리지 않는 안정성을 강조합니다.",
+          "05:11 노이즈 리덕션 - 오픈형임에도 불구하고 노이즈 캔슬링이 작동하는 원리를 설명하고, 실제 주변 소음 감소 효과를 다양한 상황에서 테스트합니다.",
+          "09:19 음질 - 오픈형 이어폰의 한계를 넘어서는 준수한 음질과 웅장한 사운드를 들려줍니다.",
+          "12:30 통화 품질 & 기타 - 마이크 성능을 통한 통화 품질과 추가적인 편의 기능(멀티포인트 등)에 대해 언급합니다."
         ],
         "top_comments": [
           {
@@ -920,7 +903,7 @@ window.__DASHBOARD_DATA__ = {
             "comment_id": "UgzgMbkzlahSYznMqoZ4AaABAg",
             "author": "@우아아-l8w",
             "text": "4:23 오우야..",
-            "like_count": 8,
+            "like_count": 9,
             "reply_count": 1,
             "published_at": "2026-03-29T11:19:09Z"
           }
@@ -933,10 +916,10 @@ window.__DASHBOARD_DATA__ = {
         "description": "해당 영상은 AI로 제작한 팬메이드 영상입니다.\n사용한 툴: freepik 시네마틱 이미지, 나노바나나프로, 클링 3.0, suno",
         "published_at": "2026-03-29T10:09:37Z",
         "duration_seconds": 108,
-        "view_count": 73755,
-        "like_count": 1577,
-        "comment_count": 305,
-        "engagement_rate": 0.025516914107518135,
+        "view_count": 81173,
+        "like_count": 1608,
+        "comment_count": 309,
+        "engagement_rate": 0.023616227070577655,
         "thumbnail_url": "https://i.ytimg.com/vi/ZLWKduivLfo/hqdefault.jpg",
         "video_url": "https://www.youtube.com/watch?v=ZLWKduivLfo",
         "format": "뉴스 분석",
@@ -949,7 +932,7 @@ window.__DASHBOARD_DATA__ = {
         "transcript_source": "none",
         "transcript_language": "",
         "transcript_text": "",
-        "analysis_date": "2026-03-30T04:17:22+00:00",
+        "analysis_date": "2026-03-30T04:56:36+00:00",
         "channel_name": "Fantasoner(판타소너)",
         "topic_tags": [],
         "keywords": [
@@ -978,7 +961,7 @@ window.__DASHBOARD_DATA__ = {
             "comment_id": "UgzZeMYjN7HNrVx9TAN4AaABAg",
             "author": "@Gerieoeref",
             "text": "이번에도 퀄리티 미쳤네 역시 믿고 보는 판타소너",
-            "like_count": 103,
+            "like_count": 104,
             "reply_count": 1,
             "published_at": "2026-03-29T10:28:16Z"
           },
@@ -987,7 +970,7 @@ window.__DASHBOARD_DATA__ = {
             "comment_id": "Ugxe6E9-0S_p5-OUKed4AaABAg",
             "author": "@김스킵",
             "text": "아 이건 진짜 소름돋네요 미친거 아닌가요???",
-            "like_count": 71,
+            "like_count": 72,
             "reply_count": 0,
             "published_at": "2026-03-29T10:37:58Z"
           },
@@ -1027,10 +1010,10 @@ window.__DASHBOARD_DATA__ = {
         "description": "맥북 네오 vs 맥북 프로 스피커 비교\n주연의 찐 반응ㅋㅋㅋ",
         "published_at": "2026-03-29T08:48:22Z",
         "duration_seconds": 29,
-        "view_count": 82098,
-        "like_count": 893,
-        "comment_count": 53,
-        "engagement_rate": 0.011522814197666204,
+        "view_count": 84070,
+        "like_count": 910,
+        "comment_count": 54,
+        "engagement_rate": 0.011466634947067919,
         "thumbnail_url": "https://i.ytimg.com/vi/ClCv0Qmj21g/hqdefault.jpg",
         "video_url": "https://www.youtube.com/watch?v=ClCv0Qmj21g",
         "format": "비교",
@@ -1043,7 +1026,7 @@ window.__DASHBOARD_DATA__ = {
         "transcript_source": "none",
         "transcript_language": "",
         "transcript_text": "",
-        "analysis_date": "2026-03-30T04:17:24+00:00",
+        "analysis_date": "2026-03-30T04:56:38+00:00",
         "channel_name": "주연 ZUYONI",
         "topic_tags": [],
         "keywords": [
@@ -1071,7 +1054,7 @@ window.__DASHBOARD_DATA__ = {
             "comment_id": "UgzTPfFFBRIhXwYWuLB4AaABAg",
             "author": "@itwasjustbored",
             "text": "역시 음향은 역체감이야",
-            "like_count": 165,
+            "like_count": 170,
             "reply_count": 4,
             "published_at": "2026-03-29T09:26:05Z"
           },
@@ -1080,7 +1063,7 @@ window.__DASHBOARD_DATA__ = {
             "comment_id": "Ugwuh5c1qzZUCaGfInJ4AaABAg",
             "author": "@뱀파_Vampire",
             "text": "ㅋㅋㅋ 저 틀자마자 ‘아이고’ 진짜 웃기긴 하네요ㅋㅋ",
-            "like_count": 110,
+            "like_count": 112,
             "reply_count": 0,
             "published_at": "2026-03-29T09:14:49Z"
           },
@@ -1089,7 +1072,7 @@ window.__DASHBOARD_DATA__ = {
             "comment_id": "Ugyq0G24VTleE5I6LcB4AaABAg",
             "author": "@ir20080",
             "text": "맥북프로 소리 듣고 정말 깜짝 놀람.. 이게 노트북 스피커라니..",
-            "like_count": 63,
+            "like_count": 66,
             "reply_count": 3,
             "published_at": "2026-03-29T09:59:48Z"
           },
@@ -1098,7 +1081,7 @@ window.__DASHBOARD_DATA__ = {
             "comment_id": "UgwExoj_D2o4y7oGcl54AaABAg",
             "author": "@pez_eomum",
             "text": "주연님이 죽인거야...! 당신이 죽였어...! ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
-            "like_count": 63,
+            "like_count": 65,
             "reply_count": 0,
             "published_at": "2026-03-29T09:19:20Z"
           },
@@ -1120,10 +1103,10 @@ window.__DASHBOARD_DATA__ = {
         "description": "MiniMax 토큰 플랜 12% 할인 혜택: https://platform.minimax.io/subscribe/coding-plan?code=9DvpNevfJr&source=link\nMiniMax 공식 플랫폼 바로가기: https://platform.minimax.io\nMiniMax API 개발 가이드 문서: https://platform.minimax.io/docs/guides/text-generation\n\n클로드 오퍼스나 GPT 코덱스를 제대로 구독해서 사용하려면 한 달에 50만 원 이상의 비용이 지출됩니다. 하지만 이제 그 비용을 50분의 1로 줄이면서도 성능은 코덱스급으로 유지할 수 있는 방법이 있습니다.\n\n오늘 영상에서는 벤치마크 점수에서 GPT 코덱스와 대등한 수치를 기록하고, 속도는 오히려 3배 더 빠른 미친 가성비의 미니맥스 M2.7 모델을 소개합니다. 모델 스스로가 진화에 참여하여 성능을 끌어올린 놀라운 기술력과, 실제 에이전트 팀을 꾸려 프로젝트를 완성하는 모습까지 모두 확인해 보세요.\n\n🔑 핵심 인사이트 (Key Insights)\n1. SWE 벤치마크 프로에서 GPT 코덱스(57.7)와 대등한 56.2점을 기록한 미니맥스 M2.7의 성능\n2. 클로드 오퍼스 대비 인풋과 아웃풋 비용이 최대 50배 이상 저렴한 파격적인 API 가격 체계\n3. 한 명의 엔지니어가 코딩 한 줄 없이 4일 만에 구축한 에이전트 하네스 시스템\n4. 기존 프론티어 모델급 지능을 유지하면서도 3배 더 빠른 응답 속도 제공\n5. 모델 내부에 네이티브로 내재화된 에이전트 팀 기능을 통한 고퀄리티 협업 결과물\n\n📝 상세 가이드 요약 (Detailed Guide Summary)\n🚀 Part 1. 성능 및 벤치마크 검증: 미니맥스 M2.7이 어떻게 GPT 코덱스급 점수를 기록하며 스스로 진화했는지 분석합니다.\n🚀 Part 2. 비용 및 가성비 비교: 클로드 오퍼스와 GPT 코덱스 대비 50배 저렴한 비용 데이터를 구체적으로 비교합니다.\n🚀 Part 3. 실전 에이전트 활용: 오픈코드를 통해 미니맥스 모델을 로드하고 픽셀 오피스 프로젝트를 만드는 과정을 시연합니다.\n\n⏰ 타임라인\n0:00 연 600만 원 아끼는 GPT 코덱스급 AI 모델 소개\n0:11 미니맥스 M2.7의 정체와 독특한 자기 진화 시스템\n1:36 한 명의 엔지니어가 4일 만에 구축한 에이전트 하네스\n2:48 벤치마크 대공개: GPT 코덱스 vs 미니맥스 M2.7\n4:10 고난도 과제 금메달 9개! 실전 코딩 성능 증명\n4:34 전문 업체 수준의 웹사이트 디자인 실시간 생성\n5:01 네이티브 에이전트 팀 기능으로 협업 시너지 내기\n5:49 픽셀 오피스 데모 제작 과정 및 무료 에셋 활용법\n6:46 클로드 오퍼스 대비 50배 저렴한 파격적 비용 비교\n8:14 가성비를 극대화하는 토큰 플랜(Token Plan) 활용 꿀팁\n9:08 오픈코드(OpenCode)에 미니맥스 API 연결하는 3단계 세팅법\n10:18 리밋 걱정 없는 무제한 에이전트 작업의 시작\n11:11 실시간 협업 중인 에이전트(프론트엔드&디자이너) 확인\n12:06 영상 마무리 및 채널 성장을 위한 제언\n\n#미니맥스 #M2.7  #클로드오퍼스 #GPT코덱스 #AI가성비 #AI코딩 #비용절감 #MiniMax",
         "published_at": "2026-03-29T06:43:18Z",
         "duration_seconds": 737,
-        "view_count": 14808,
-        "like_count": 380,
+        "view_count": 14976,
+        "like_count": 383,
         "comment_count": 31,
-        "engagement_rate": 0.027755267423014585,
+        "engagement_rate": 0.027644230769230768,
         "thumbnail_url": "https://i.ytimg.com/vi/LwsA-2pMqS4/hqdefault.jpg",
         "video_url": "https://www.youtube.com/watch?v=LwsA-2pMqS4",
         "format": "비교",
@@ -1136,7 +1119,7 @@ window.__DASHBOARD_DATA__ = {
         "transcript_source": "none",
         "transcript_language": "",
         "transcript_text": "",
-        "analysis_date": "2026-03-30T04:17:22+00:00",
+        "analysis_date": "2026-03-30T04:56:36+00:00",
         "channel_name": "성공지식백과",
         "topic_tags": [
           "agents",
@@ -1179,7 +1162,7 @@ window.__DASHBOARD_DATA__ = {
             "comment_id": "Ugy-ba-vqeOguq2d_nl4AaABAg",
             "author": "@stockman6968",
             "text": "대충 출시 후 호들갑떨다가 다시 클로드코드로 돌아가는 루틴",
-            "like_count": 8,
+            "like_count": 9,
             "reply_count": 0,
             "published_at": "2026-03-29T19:22:05Z"
           },
@@ -3792,21 +3775,21 @@ window.__DASHBOARD_DATA__ = {
   },
   "digest": {
     "digest_date": "2026-03-30",
-    "generated_at": "2026-03-30T04:18:39+00:00",
-    "summary": "최근 24시간 영상 7개를 기준으로 보면, 오늘 가장 먼저 볼 축은 '이어폰'입니다. 특히 '귀에 걸치는 이어폰인데 왜? 노캔이 되죠??? 신형 샥즈 오픈핏 프로 한달 사용기'는 조회수 127.6K, 참여율 1.6%로 가장 강하게 반응했습니다.",
-    "creator_takeaway": "'이어폰' 주제가 1개 영상으로 가장 많이 다뤄졌습니다. 일반인 관점 직접 실험 or VS 비교 각도로 차별화할 영역이 있습니다.",
-    "telegram_preview": "📡 스마트대디 모니터링 | 03/30\n\n📊 수집: 영상 7개 | 채널 6개\n\n🔥 참여율 TOP 3\n1. [ITSub잇섭] 1.6% · 127.6K뷰\n   귀에 걸치는 이어폰인데 왜? 노캔이 되죠??? 신형 샥즈 오픈핏 프로 한달 사용기\n2. [주연 ZUYONI] 1.2% · 82.1K뷰\n   네오야 이건 진짜 내가 미안하다.;;\n3. [Fantasoner(판타소너)] 2.6% · 73.8K뷰\n   베르세르크 황금시대편 실사화 트레일러 | Berserk: The Golden Age Live Action Trailer | ベルセルク #ai\n\n📌 화제 키워드\n   자동화 · Gemini · 수익화 · 이어폰 · 샥즈\n\n🎬 포맷: 워크플로우 튜토리얼 2개 · 뉴스 분석 2개 · 비교 2개\n\n📈 스마트대디 어제 실적\n조회수 7.5K (↑42% vs 7일 평균) | 구독 +66\n시청 지속률 38.6% | 평균 시청 2분 12초\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+    "generated_at": "2026-03-30T04:57:38+00:00",
+    "summary": "최근 24시간 영상 7개를 기준으로 보면, 오늘 가장 먼저 볼 축은 '이어폰'입니다. 특히 '귀에 걸치는 이어폰인데 왜? 노캔이 되죠??? 신형 샥즈 오픈핏 프로 한달 사용기'는 조회수 129.1K, 참여율 1.6%로 가장 강하게 반응했습니다.",
+    "creator_takeaway": "'이어폰' 주제가 1개 영상으로 가장 많이 다뤄졌습니다. 일반인 관점 직접 실험 or VS 비교 각도로 차별화할 영역이 있습니다.\n[내 채널] 7일 평균 5.3K회 · 지속률 35.6% / 경쟁사 평균 45.6K회 (격차 -88%)",
+    "telegram_preview": "📡 스마트대디 모니터링 | 03/30\n\n📊 수집: 영상 7개 | 채널 6개\n\n🔥 참여율 TOP 3\n1. [ITSub잇섭] 1.6% · 129.1K뷰\n   귀에 걸치는 이어폰인데 왜? 노캔이 되죠??? 신형 샥즈 오픈핏 프로 한달 사용기\n2. [주연 ZUYONI] 1.1% · 84.1K뷰\n   네오야 이건 진짜 내가 미안하다.;;\n3. [Fantasoner(판타소너)] 2.4% · 81.2K뷰\n   베르세르크 황금시대편 실사화 트레일러 | Berserk: The Golden Age Live Action Trailer | ベルセルク #ai\n\n📌 화제 키워드\n   automation · monetization · 이어폰 · 무선이어폰 · 샥즈\n\n🎬 포맷: 비교 3개 · 뉴스 분석 2개 · 워크플로우 튜토리얼 1개\n\n📈 스마트대디 어제 실적\n조회수 7.5K (↑42% vs 7일 평균) | 구독 +66\n시청 지속률 38.6% | 평균 시청 2분 12초\n경쟁사 평균 45.6K회 대비 내 7일 평균 -88%\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
     "video_count": 7,
     "total_recent_video_count": 7,
     "focus_scope": "all_watchlist",
-    "average_view_count": 43971.0,
-    "average_engagement_rate": 0.04034898455498033,
-    "average_like_count": 712.0,
-    "average_comment_count": 117.0,
+    "average_view_count": 45604.0,
+    "average_engagement_rate": 0.03779027723715285,
+    "average_like_count": 723.0,
+    "average_comment_count": 118.0,
     "best_video_id": "ybNik9D9UNA",
     "best_topic": "이어폰",
     "summary_points": [
-      "가장 겹친 주제는 '이어폰'이며 1개 영상, 평균 조회수 127.6K, 평균 참여율 1.6%입니다.",
+      "가장 겹친 주제는 '이어폰'이며 1개 영상, 평균 조회수 129.1K, 평균 참여율 1.6%입니다.",
       "최고 실적 영상은 '귀에 걸치는 이어폰인데 왜? 노캔이 되죠??? 신형 샥즈 오픈핏 프로 한달 사용기'이며 문제 해결 훅과 사례 분석 포맷 조합이 강했습니다.",
       "반복 노출된 툴은 Gemini 1회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
     ],
@@ -3829,17 +3812,18 @@ window.__DASHBOARD_DATA__ = {
         "thumbnail_copy": "이어폰 바로 해결",
         "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
         "source_video_id": "ybNik9D9UNA",
-        "source": "귀에 걸치는 이어폰인데 왜? 노캔이 되죠??? 신형 샥즈 오픈핏 프로 한달 사용기"
+        "source": "귀에 걸치는 이어폰인데 왜? 노캔이 되죠??? 신형 샥즈 오픈핏 프로 한달 사용기",
+        "my_channel_context": "내 7일 평균 5.3K회 · 지속률 35.6% / 경쟁사 대비 -88%"
       }
     ],
     "topic_clusters": [
       {
         "label": "이어폰",
         "count": 1,
-        "avg_view_count": 127637,
-        "avg_engagement_rate": 0.015888809671176854,
-        "avg_like_count": 1677,
-        "avg_comment_count": 351,
+        "avg_view_count": 129121,
+        "avg_engagement_rate": 0.01586883620789802,
+        "avg_like_count": 1697,
+        "avg_comment_count": 352,
         "source_titles": [
           "귀에 걸치는 이어폰인데 왜? 노캔이 되죠??? 신형 샥즈 오픈핏 프로 한달 사용기"
         ],
@@ -3850,10 +3834,10 @@ window.__DASHBOARD_DATA__ = {
       {
         "label": "네오야",
         "count": 1,
-        "avg_view_count": 82098,
-        "avg_engagement_rate": 0.011522814197666204,
-        "avg_like_count": 893,
-        "avg_comment_count": 53,
+        "avg_view_count": 84070,
+        "avg_engagement_rate": 0.011466634947067919,
+        "avg_like_count": 910,
+        "avg_comment_count": 54,
         "source_titles": [
           "네오야 이건 진짜 내가 미안하다.;;"
         ],
@@ -3864,10 +3848,10 @@ window.__DASHBOARD_DATA__ = {
       {
         "label": "베르세르크",
         "count": 1,
-        "avg_view_count": 73755,
-        "avg_engagement_rate": 0.025516914107518135,
-        "avg_like_count": 1577,
-        "avg_comment_count": 305,
+        "avg_view_count": 81173,
+        "avg_engagement_rate": 0.023616227070577655,
+        "avg_like_count": 1608,
+        "avg_comment_count": 309,
         "source_titles": [
           "베르세르크 황금시대편 실사화 트레일러 | Berserk: The Golden Age Live Action Trailer | ベルセルク #ai"
         ],
@@ -3878,9 +3862,9 @@ window.__DASHBOARD_DATA__ = {
       {
         "label": "agents",
         "count": 1,
-        "avg_view_count": 14808,
-        "avg_engagement_rate": 0.027755267423014585,
-        "avg_like_count": 380,
+        "avg_view_count": 14976,
+        "avg_engagement_rate": 0.027644230769230768,
+        "avg_like_count": 383,
         "avg_comment_count": 31,
         "source_titles": [
           "미친 가성비! $200 클로드맥스급 AI 모델이 50배 싸게 풀렸습니다 (연 600만원 절약)"
@@ -3892,9 +3876,9 @@ window.__DASHBOARD_DATA__ = {
       {
         "label": "곧",
         "count": 1,
-        "avg_view_count": 4699,
-        "avg_engagement_rate": 0.031496062992125984,
-        "avg_like_count": 135,
+        "avg_view_count": 4761,
+        "avg_engagement_rate": 0.031295946229783655,
+        "avg_like_count": 136,
         "avg_comment_count": 13,
         "source_titles": [
           "곧 모두가 체감할 \"00\"컴퓨팅의 시대가 옵니다."
@@ -3906,9 +3890,9 @@ window.__DASHBOARD_DATA__ = {
       {
         "label": "Gemini",
         "count": 1,
-        "avg_view_count": 4272,
-        "avg_engagement_rate": 0.07935393258426966,
-        "avg_like_count": 276,
+        "avg_view_count": 4405,
+        "avg_engagement_rate": 0.0771850170261067,
+        "avg_like_count": 277,
         "avg_comment_count": 63,
         "source_titles": [
           "Suno v5.5 is ALIVE! VS Google Lyria 3 & Sonauto"
@@ -3920,9 +3904,9 @@ window.__DASHBOARD_DATA__ = {
       {
         "label": "자동화",
         "count": 1,
-        "avg_view_count": 528,
-        "avg_engagement_rate": 0.09090909090909091,
-        "avg_like_count": 45,
+        "avg_view_count": 723,
+        "avg_engagement_rate": 0.07745504840940526,
+        "avg_like_count": 53,
         "avg_comment_count": 3,
         "source_titles": [
           "배우 0명? 카메라 0대?! 영화를 만들어주는 AI가 나와버렸습니다 (미친 할리우드급)"
@@ -3940,12 +3924,12 @@ window.__DASHBOARD_DATA__ = {
         "thumbnail_url": "https://i.ytimg.com/vi/ybNik9D9UNA/hqdefault.jpg",
         "video_url": "https://www.youtube.com/watch?v=ybNik9D9UNA",
         "published_at": "2026-03-29T11:00:00Z",
-        "view_count": 127637,
-        "like_count": 1677,
-        "comment_count": 351,
-        "engagement_rate": 0.015888809671176854,
+        "view_count": 129121,
+        "like_count": 1697,
+        "comment_count": 352,
+        "engagement_rate": 0.01586883620789802,
         "topic_cluster": "이어폰",
-        "summary": "운동으로 유명한 샥즈에서 출시한 플래그십 오픈형 이어폰 '오픈핏 프로'를 한 달간 사용하며 디자인, 착용감, 노이즈 리덕션, 음질, 통화 품질 등을 리뷰합니다.",
+        "summary": "샥즈의 신형 오픈핏 프로 이어폰을 한 달간 사용하며, 오픈형임에도 불구하고 노이즈 캔슬링 기능이 얼마나 효과적인지와 전반적인 음질, 착용감, 통화 품질 등을 솔직하…",
         "comment_signal": "이어폰도 어떻게 보면 귀에 거는 귀고리인데 안빠지게 귀걸이가 잘 되야",
         "hook_type": "문제 해결"
       },
@@ -3956,10 +3940,10 @@ window.__DASHBOARD_DATA__ = {
         "thumbnail_url": "https://i.ytimg.com/vi/ClCv0Qmj21g/hqdefault.jpg",
         "video_url": "https://www.youtube.com/watch?v=ClCv0Qmj21g",
         "published_at": "2026-03-29T08:48:22Z",
-        "view_count": 82098,
-        "like_count": 893,
-        "comment_count": 53,
-        "engagement_rate": 0.011522814197666204,
+        "view_count": 84070,
+        "like_count": 910,
+        "comment_count": 54,
+        "engagement_rate": 0.011466634947067919,
         "topic_cluster": "네오야",
         "summary": "이 영상은 비교 이슈를 비교 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
         "comment_signal": "역시 음향은 역체감이야",
@@ -3972,10 +3956,10 @@ window.__DASHBOARD_DATA__ = {
         "thumbnail_url": "https://i.ytimg.com/vi/ZLWKduivLfo/hqdefault.jpg",
         "video_url": "https://www.youtube.com/watch?v=ZLWKduivLfo",
         "published_at": "2026-03-29T10:09:37Z",
-        "view_count": 73755,
-        "like_count": 1577,
-        "comment_count": 305,
-        "engagement_rate": 0.025516914107518135,
+        "view_count": 81173,
+        "like_count": 1608,
+        "comment_count": 309,
+        "engagement_rate": 0.023616227070577655,
         "topic_cluster": "베르세르크",
         "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
         "comment_signal": "이번에도 퀄리티 미쳤네 역시 믿고 보는 판타소너",
@@ -3988,10 +3972,10 @@ window.__DASHBOARD_DATA__ = {
         "thumbnail_url": "https://i.ytimg.com/vi/LwsA-2pMqS4/hqdefault.jpg",
         "video_url": "https://www.youtube.com/watch?v=LwsA-2pMqS4",
         "published_at": "2026-03-29T06:43:18Z",
-        "view_count": 14808,
-        "like_count": 380,
+        "view_count": 14976,
+        "like_count": 383,
         "comment_count": 31,
-        "engagement_rate": 0.027755267423014585,
+        "engagement_rate": 0.027644230769230768,
         "topic_cluster": "agents",
         "summary": "이 영상은 agents 이슈를 비교 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
         "comment_signal": "에이전트 팀 구축 과정 궁금합니다~!",
@@ -4004,10 +3988,10 @@ window.__DASHBOARD_DATA__ = {
         "thumbnail_url": "https://i.ytimg.com/vi/3Ne2lYnVoCw/hqdefault.jpg",
         "video_url": "https://www.youtube.com/watch?v=3Ne2lYnVoCw",
         "published_at": "2026-03-29T11:34:09Z",
-        "view_count": 4699,
-        "like_count": 135,
+        "view_count": 4761,
+        "like_count": 136,
         "comment_count": 13,
-        "engagement_rate": 0.031496062992125984,
+        "engagement_rate": 0.031295946229783655,
         "topic_cluster": "곧",
         "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
         "comment_signal": "공간컴퓨팅과 메타버스에 대한 차이를 좀 더 알게됐습니다. 메타버스 투자했다가 크게 당했(?)었지만...ㅋㅋ",
@@ -4016,7 +4000,7 @@ window.__DASHBOARD_DATA__ = {
     ]
   },
   "my_channel": {
-    "generated_at": "2026-03-30T13:18:39.356108+09:00",
+    "generated_at": "2026-03-30T13:57:38.933858+09:00",
     "channel_name": "스마트대디",
     "period_days": 7,
     "daily": [
@@ -4061,7 +4045,88 @@ window.__DASHBOARD_DATA__ = {
         "avg_view_percentage": 38.6
       }
     ],
-    "video_stats": [],
+    "video_stats": [
+      {
+        "video_id": "lfq_r6r_0XY",
+        "views": 34314,
+        "avg_view_percentage": 40.0,
+        "avg_view_duration_sec": 131.0,
+        "likes": 448,
+        "comments": 8
+      },
+      {
+        "video_id": "Ts-9MMZzkhM",
+        "views": 18250,
+        "avg_view_percentage": 19.55,
+        "avg_view_duration_sec": 167.0,
+        "likes": 449,
+        "comments": 24
+      },
+      {
+        "video_id": "qyTUW0fqgzc",
+        "views": 16828,
+        "avg_view_percentage": 109.88,
+        "avg_view_duration_sec": 51.0,
+        "likes": 85,
+        "comments": 5
+      },
+      {
+        "video_id": "EbKWRA_N4Gs",
+        "views": 9723,
+        "avg_view_percentage": 36.7,
+        "avg_view_duration_sec": 133.0,
+        "likes": 99,
+        "comments": 5
+      },
+      {
+        "video_id": "LawKU0gGr2Q",
+        "views": 6111,
+        "avg_view_percentage": 45.61,
+        "avg_view_duration_sec": 114.0,
+        "likes": 82,
+        "comments": 2
+      },
+      {
+        "video_id": "L0E9X0DzvWs",
+        "views": 2996,
+        "avg_view_percentage": 33.76,
+        "avg_view_duration_sec": 128.0,
+        "likes": 19,
+        "comments": 1
+      },
+      {
+        "video_id": "OKi9ANsbhjY",
+        "views": 1789,
+        "avg_view_percentage": 25.980000000000004,
+        "avg_view_duration_sec": 108.0,
+        "likes": 66,
+        "comments": 9
+      },
+      {
+        "video_id": "RC_6yeYNCA0",
+        "views": 1303,
+        "avg_view_percentage": 24.24,
+        "avg_view_duration_sec": 81.0,
+        "likes": 34,
+        "comments": 7
+      },
+      {
+        "video_id": "sXCcjkltmsw",
+        "views": 922,
+        "avg_view_percentage": 38.26,
+        "avg_view_duration_sec": 135.0,
+        "likes": 11,
+        "comments": 0
+      },
+      {
+        "video_id": "ltJbVR080j4",
+        "views": 390,
+        "avg_view_percentage": 18.32,
+        "avg_view_duration_sec": 157.0,
+        "likes": 4,
+        "comments": 0
+      }
+    ],
     "yesterday": {
       "date": "2026-03-27",
       "views": 7487,
