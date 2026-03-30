@@ -212,6 +212,32 @@ function splitBulletText(value, limit = 5) {
   return uniqueValues(items).slice(0, limit);
 }
 
+function hasHangul(value) {
+  return /[\u3131-\uD79D]/.test(`${value || ""}`);
+}
+
+function transcriptHighlightPoints(video) {
+  const direct = (video.transcript_highlights || [])
+    .map((item) => `${item || ""}`.trim())
+    .filter(Boolean);
+
+  const language = `${video.transcript_language || ""}`.toLowerCase();
+  const hasLocalizedDirect = direct.some((item) => hasHangul(item));
+  const hasOverlongDirect = direct.some((item) => item.length > 320);
+
+  if (direct.length && (!language.startsWith("en") || (hasLocalizedDirect && !hasOverlongDirect))) {
+    return direct.slice(0, 5);
+  }
+
+  const fallback = uniqueValues([
+    ...splitBulletText(video.one_line_summary, 1),
+    ...splitBulletText(video.why_it_works, 2),
+    ...((video.claims || []).map((item) => `${item || ""}`.trim()).filter(Boolean)),
+  ]).slice(0, 5);
+
+  return fallback.length ? fallback : direct.slice(0, 5);
+}
+
 function transcriptParagraphs(value) {
   const text = `${value || ""}`.replace(/\r/g, "").trim();
   if (!text) {
@@ -1107,7 +1133,7 @@ async function renderDetailPanel() {
     .sort((left, right) => (right.like_count || 0) - (left.like_count || 0) || (right.reply_count || 0) - (left.reply_count || 0))
     .slice(0, 5);
   const creatorIdeas = creatorIdeaPoints(video);
-  const transcriptHighlights = (video.transcript_highlights || []).slice(0, 5);
+  const transcriptHighlights = transcriptHighlightPoints(video);
   const transcriptBlocks = transcriptParagraphs(video.transcript_text);
   const channelDescription = channelDetail?.channel?.description
     ? channelDescriptionParagraphs(channelDetail.channel.description)
