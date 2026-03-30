@@ -45,12 +45,41 @@ def _parse_rows(response: dict[str, Any]) -> list[dict[str, Any]]:
     return [dict(zip(col_headers, row)) for row in (response.get("rows") or [])]
 
 
-def fetch_channel_daily(access_token: str, days: int = 7) -> list[dict[str, Any]]:
+def _resolve_channel_ids(access_token: str) -> str:
+    """OAuth 토큰이 가리키는 채널 ID 목록을 진단용으로 출력하고, ids 파라미터 값을 반환."""
+    channel_id = os.getenv("YT_CHANNEL_ID", "").strip()
+    if channel_id:
+        print(f"[Analytics] 명시된 채널 ID 사용: {channel_id}")
+        return f"channel=={channel_id}"
+
+    # 연결된 채널 확인 (YouTube Data API v3)
+    try:
+        url = "https://www.googleapis.com/youtube/v3/channels?part=snippet&mine=true"
+        req = urllib.request.Request(url, headers={"Authorization": f"Bearer {access_token}"})
+        with urllib.request.urlopen(req, timeout=15) as resp:
+            data = json.loads(resp.read())
+        items = data.get("items", [])
+        if items:
+            found_id = items[0]["id"]
+            found_name = items[0]["snippet"]["title"]
+            print(f"[Analytics] channel==MINE 해석 결과: {found_name} ({found_id})")
+            if len(items) > 1:
+                for it in items[1:]:
+                    print(f"[Analytics]   추가 채널: {it['snippet']['title']} ({it['id']})")
+        else:
+            print("[Analytics] channel==MINE 해석 결과: 채널 없음")
+    except Exception as exc:
+        print(f"[Analytics] 채널 ID 확인 실패 (무시): {exc}")
+
+    return "channel==MINE"
+
+
+def fetch_channel_daily(access_token: str, days: int = 7, channel_ids: str = "channel==MINE") -> list[dict[str, Any]]:
     """채널 전체 일별 지표 (최근 N일)."""
     end = datetime.now(KST).date()
     start = end - timedelta(days=days - 1)
     response = _analytics_get({
-        "ids": "channel==MINE",
+        "ids": channel_ids,
         "startDate": start.isoformat(),
         "endDate": end.isoformat(),
         "metrics": (
@@ -76,12 +105,12 @@ def fetch_channel_daily(access_token: str, days: int = 7) -> list[dict[str, Any]
     return result
 
 
-def fetch_video_stats(access_token: str, days: int = 28) -> list[dict[str, Any]]:
+def fetch_video_stats(access_token: str, days: int = 28, channel_ids: str = "channel==MINE") -> list[dict[str, Any]]:
     """최근 N일 내 영상별 지표 (조회수 TOP 10)."""
     end = datetime.now(KST).date()
     start = end - timedelta(days=days - 1)
     response = _analytics_get({
-        "ids": "channel==MINE",
+        "ids": channel_ids,
         "startDate": start.isoformat(),
         "endDate": end.isoformat(),
         "metrics": (
@@ -109,17 +138,26 @@ def fetch_video_stats(access_token: str, days: int = 28) -> list[dict[str, Any]]
 
 
 def yesterday_summary(daily: list[dict[str, Any]]) -> dict[str, Any] | None:
-    """daily 리스트에서 어제(KST) 데이터만 추출."""
+    """daily 리스트에서 가장 최근 가용일 데이터 반환 (YouTube Analytics는 2~3일 지연).
+    어제 날짜가 없으면 가장 최근 날짜로 fallback."""
+    if not daily:
+        return None
     yesterday = (datetime.now(KST).date() - timedelta(days=1)).isoformat()
-    for row in daily:
+    # 어제 데이터 우선, 없으면 최신 가용일
+    candidates = sorted(daily, key=lambda r: r.get("date", ""), reverse=True)
+    target = None
+    for row in candidates:
         if row.get("date") == yesterday:
-            engagement_rate = (
-                (row["likes"] + row["comments"]) / max(row["views"], 1)
-                if row.get("views")
-                else 0.0
-            )
-            return {**row, "engagement_rate": round(engagement_rate, 4)}
-    return None
+            target = row
+            break
+    if target is None:
+        target = candidates[0]
+    engagement_rate = (
+        (target["likes"] + target["comments"]) / max(target["views"], 1)
+        if target.get("views")
+        else 0.0
+    )
+    return {**target, "engagement_rate": round(engagement_rate, 4)}
 
 
 def seven_day_avg(daily: list[dict[str, Any]]) -> dict[str, float]:
@@ -154,16 +192,21 @@ def fetch_my_channel_analytics(days: int = 7) -> dict[str, Any] | None:
         print(f"YouTube Analytics 인증 실패: {exc}")
         return None
 
+    channel_ids = _resolve_channel_ids(access_token)
+
     daily: list[dict[str, Any]] = []
     try:
-        daily = fetch_channel_daily(access_token, days=days)
+        daily = fetch_channel_daily(access_token, days=days, channel_ids=channel_ids)
         print(f"채널 일별 지표 수집 완료: {len(daily)}일치")
+        if daily:
+            sample = daily[-1]
+            print(f"[Analytics] 최근 데이터 샘플 ({sample['date']}): 조회수={sample['views']}, 구독증감={sample['subscribers_net']}")
     except Exception as exc:
         print(f"채널 일별 지표 수집 실패: {exc}")
 
     video_stats: list[dict[str, Any]] = []
     try:
-        video_stats = fetch_video_stats(access_token, days=28)
+        video_stats = fetch_video_stats(access_token, days=28, channel_ids=channel_ids)
         print(f"영상별 지표 수집 완료: {len(video_stats)}개")
     except Exception as exc:
         print(f"영상별 지표 수집 실패: {exc}")

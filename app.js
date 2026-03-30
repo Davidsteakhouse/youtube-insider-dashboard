@@ -653,13 +653,14 @@ function renderMyChannelStats() {
   if (!el) return;
   const mc = appData.myChannel;
   if (!mc || !mc.yesterday) {
-    el.innerHTML = '<p class="empty-state">YouTube Analytics 미연동 또는 어제 데이터 없음</p>';
+    el.innerHTML = '<p class="empty-state">YouTube Analytics 미연동 또는 데이터 없음</p>';
     return;
   }
 
   const y = mc.yesterday;
   const avg = mc.avg_7d || {};
   const channelName = mc.channel_name || "내 채널";
+  const dataDate = y.date || "";
 
   function diffBadge(current, avgVal) {
     if (!avgVal) return "";
@@ -680,6 +681,7 @@ function renderMyChannelStats() {
   const topVideo = (mc.video_stats || [])[0] || null;
 
   el.innerHTML = `
+    <p class="my-channel-date-label">${dataDate} 기준 (YouTube Analytics ${mc.period_days || 7}일치)</p>
     <div class="my-channel-grid">
       <div class="my-channel-stat">
         <span class="my-channel-label">조회수</span>
