@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import html
 import json
 import os
 import re
@@ -44,6 +45,42 @@ SYSTEM_PROMPT = (
     "VS 비교 각도, 일반인도 이해할 수 있는 실험 구도, "
     "경쟁 채널이 아직 안 한 대결 콘텐츠 영역을 포함하라."
 )
+TRANSCRIPT_HIGHLIGHT_SUFFIX = (
+    " transcript_highlights must be based on the full transcript, not the intro. "
+    "Skip greetings, sponsor reads, housekeeping, repeated lyrics, and setup chatter. "
+    "Return 3-5 high-information bullet points that capture the video's real conclusions, comparisons, warnings, verdicts, or takeaways."
+)
+HIGHLIGHT_STOPWORDS = {
+    "the", "and", "that", "this", "with", "from", "into", "just", "have", "has", "had", "were", "what", "when",
+    "then", "than", "your", "you", "they", "them", "their", "there", "here", "about", "today", "video", "guys",
+    "folks", "really", "very", "kind", "sort", "almost", "like", "okay", "yeah", "well", "would", "could",
+    "should", "because", "while", "where", "which", "been", "being", "over", "under", "more", "most", "much",
+    "some", "many", "onto", "also", "still", "even", "only", "make", "made", "does", "doesnt", "dont", "cant",
+    "\uc5ec\ub7ec\ubd84", "\uc624\ub298", "\uc601\uc0c1", "\uc9c0\uae08", "\uadf8\ub0e5", "\uc57d\uac04", "\uc774\uc81c",
+    "\uc815\ub9d0", "\uc9c4\uc9dc", "\uadf8\ub7f0", "\uc774\ub7f0", "\uc800\ub294", "\uc81c\uac00", "\uc6b0\ub9ac",
+}
+SPONSOR_MARKERS = (
+    "sponsor", "sponsoring", "sponsored", "shout-out to our friends", "link and code down below",
+    "thanks to our friends", "word from today's sponsor", "\uc2a4\ud3f0\uc11c", "\uad11\uace0"
+)
+INTRO_MARKERS = (
+    "welcome back", "hey guys", "today we're", "today's video", "some of you may have heard",
+    "if you watched yesterday", "all right guys", "\uc5ec\ub7ec\ubd84 \ubc18\uac11\uc2b5\ub2c8\ub2e4",
+    "\uc624\ub298\uc740", "\ubc14\ub85c \uc2dc\uc791", "\ud55c\ubc88 \uac00\uc838\uc640 \ubd24\ub294\ub370\uc694"
+)
+SETUP_MARKERS = (
+    "let's try", "let's see", "we're going to", "i'm going to", "all right", "welcome to",
+    "\uc790, ", "\uc790 \uadf8\ub7ec\uba74", "\ubcf4\uc5ec \ub4dc\ub9ac\ub3c4\ub85d", "\ud55c\ubc88 \ubcf4\ub3c4\ub85d"
+)
+INSIGHT_MARKERS = (
+    "at the end of the day", "if i'm going to give you my honest", "if i had to pick", "the problem is",
+    "the issue is", "the difference is", "wins by", "sounds worse", "better for", "doesn't have", "doesnt have",
+    "not meaningfully", "the consistent thing", "it impressed me", "clear transition", "too polished", "too safe",
+    "compared to", "versus", "difference", "problem", "issue", "however", "but", "actually", "important", "key",
+    "\uacb0\uad6d", "\ud575\uc2ec", "\ubb38\uc81c", "\ucc28\uc774", "\ube44\uad50", "\uc624\ud788\ub824",
+    "\ud558\uc9c0\ub9cc", "\uadf8\ub798\uc11c", "\uc2e4\uc81c\ub85c", "\uc7a5\uc810", "\ub2e8\uc810", "\ud3ec\uc778\ud2b8"
+)
+LYRIC_MARKERS = ("[music]", "[singing]", ">>", "chorus", "verse")
 FORMAT_RULES = [
     (r"talking head|news", "뉴스 분석"),
     (r"screen recording|tutorial|workflow", "워크플로우 튜토리얼"),
@@ -368,6 +405,220 @@ def sanitize_highlight_line(value: str | None) -> str:
     return text
 
 
+def normalize_transcript_text(text: str | None) -> str:
+    normalized = html.unescape(str(text or ""))
+    normalized = normalized.replace("\r", " ").replace(">>", " ")
+    normalized = re.sub(r"\s+", " ", normalized)
+    return normalized.strip()
+
+
+def transcript_terms(text: str | None) -> list[str]:
+    tokens = re.findall(r"[A-Za-z][A-Za-z0-9.+-]{2,}|[\u3131-\uD79D]{2,}", normalize_transcript_text(text).lower())
+    return [token for token in tokens if token not in HIGHLIGHT_STOPWORDS]
+
+
+def transcript_focus_terms(video: dict[str, Any], context: dict[str, Any] | None = None) -> set[str]:
+    fields = [
+        video.get("title", ""),
+        video.get("description", ""),
+        " ".join(str(item) for item in video.get("keywords", []) or []),
+        " ".join(str(item) for item in video.get("topic_tags", []) or []),
+        " ".join(str(item) for item in video.get("claims", []) or []),
+    ]
+    if context:
+        fields.extend(
+            [
+                context.get("one_line_summary", ""),
+                context.get("why_it_works", ""),
+                " ".join(str(item) for item in context.get("claims", []) or []),
+                " ".join(str(item) for item in context.get("keywords", []) or []),
+                " ".join(str(item) for item in context.get("topic_tags", []) or []),
+                " ".join(str(item) for item in context.get("tools", []) or []),
+            ]
+        )
+    terms: list[str] = []
+    for field in fields:
+        terms.extend(transcript_terms(field))
+    ranked: list[str] = []
+    for term in terms:
+        if term not in ranked:
+            ranked.append(term)
+    return set(ranked[:18])
+
+
+def transcript_chunk_candidates(text: str | None, *, limit: int = 80) -> list[tuple[str, float]]:
+    normalized = normalize_transcript_text(text)
+    if not normalized:
+        return []
+
+    units = [
+        sanitize_highlight_line(item)
+        for item in re.split(r"(?<=[.!?])\s+|(?<=\.)\s+|[\n]+", normalized)
+    ]
+    units = [item for item in units if item and len(item) >= 20]
+    if not units:
+        return []
+
+    candidates: list[tuple[str, float]] = []
+    seen: set[str] = set()
+    total_units = max(len(units) - 1, 1)
+    for index in range(len(units)):
+        for size in (2, 1, 3):
+            chunk = " ".join(units[index:index + size]).strip()
+            if not chunk:
+                continue
+            if len(chunk) < 55 or len(chunk) > 280:
+                continue
+            key = chunk.lower()
+            if key in seen:
+                continue
+            seen.add(key)
+            candidates.append((chunk, index / total_units))
+    if len(candidates) <= limit:
+        return candidates
+
+    sampled: list[tuple[str, float]] = []
+    for bucket_index in range(limit):
+        raw_index = int(bucket_index * len(candidates) / limit)
+        sampled.append(candidates[min(raw_index, len(candidates) - 1)])
+    return sampled
+
+
+def score_transcript_candidate(
+    chunk: str,
+    *,
+    position: float,
+    focus_terms: set[str],
+    title_terms: set[str],
+    opening_terms: set[str],
+) -> float:
+    lowered = chunk.lower()
+    tokens = transcript_terms(chunk)
+    token_set = set(tokens)
+    score = 0.0
+
+    matched_terms = token_set & focus_terms
+    title_matches = token_set & title_terms
+    score += min(len(matched_terms), 6) * 1.8
+    score += min(len(title_matches), 4) * 2.3
+    if len(matched_terms) >= 2:
+        score += 1.0
+
+    has_insight = any(marker in lowered for marker in INSIGHT_MARKERS)
+    if has_insight:
+        score += 2.8
+    if not matched_terms and not title_matches and not has_insight:
+        score -= 2.6
+    elif len(matched_terms | title_matches) <= 1 and not has_insight:
+        score -= 0.8
+
+    if re.search(r"\b\d+(?:\.\d+)?\b", chunk):
+        score += 0.6
+
+    if 80 <= len(chunk) <= 220:
+        score += 1.2
+    elif len(chunk) < 70 or len(chunk) > 250:
+        score -= 0.8
+
+    if position < 0.08:
+        score -= 2.4
+    elif position < 0.15:
+        score -= 1.0
+    elif 0.2 <= position <= 0.9:
+        score += 1.2
+    if position > 0.72 and has_insight:
+        score += 1.4
+
+    if any(marker in lowered for marker in SPONSOR_MARKERS):
+        score -= 8.0
+    if any(marker in lowered for marker in SETUP_MARKERS):
+        score -= 2.2
+
+    lyric_hits = sum(lowered.count(marker) for marker in LYRIC_MARKERS)
+    if lyric_hits:
+        score -= lyric_hits * 1.5
+
+    letters = [char for char in chunk if char.isalpha()]
+    if letters:
+        uppercase_ratio = sum(1 for char in letters if char.isupper()) / len(letters)
+        if uppercase_ratio > 0.24:
+            score -= 2.4
+
+    if tokens:
+        repetition = 1 - (len(token_set) / max(len(tokens), 1))
+        if repetition > 0.42:
+            score -= 1.8
+
+    if position < 0.12 and any(marker in lowered for marker in INTRO_MARKERS) and len(matched_terms) < 3:
+        score -= 3.0
+
+    if position < 0.12 and token_set:
+        opening_overlap = len(token_set & opening_terms) / max(len(token_set), 1)
+        if opening_overlap > 0.72 and len(matched_terms) < 3:
+            score -= 2.5
+
+    return score
+
+
+def derive_transcript_highlights(
+    video: dict[str, Any],
+    context: dict[str, Any] | None = None,
+    candidate_highlights: list[str] | None = None,
+    *,
+    limit: int = 5,
+) -> list[str]:
+    transcript_text = video.get("transcript_text", "") or ""
+    target_count = min(limit, 3)
+    transcript_candidates = transcript_chunk_candidates(transcript_text, limit=100)
+    opening_terms = set(transcript_terms(transcript_text[:1200]))
+    focus_terms = transcript_focus_terms(video, context)
+    title_terms = set(transcript_terms(video.get("title", "")))
+
+    scored: list[tuple[float, str, set[str]]] = []
+    for chunk, position in transcript_candidates:
+        score = score_transcript_candidate(
+            chunk,
+            position=position,
+            focus_terms=focus_terms,
+            title_terms=title_terms,
+            opening_terms=opening_terms,
+        )
+        token_set = set(transcript_terms(chunk))
+        scored.append((score, chunk, token_set))
+
+    selected: list[str] = []
+    selected_tokens: list[set[str]] = []
+    for score, chunk, token_set in sorted(scored, key=lambda item: item[0], reverse=True):
+        if score < 1.5 and selected:
+            continue
+        if any(
+            len(token_set & existing) / max(len(token_set | existing), 1) > 0.58
+            for existing in selected_tokens
+        ):
+            continue
+        selected.append(chunk)
+        selected_tokens.append(token_set)
+        if len(selected) >= target_count:
+            break
+
+    fallback_candidates = expand_highlight_candidates(list(candidate_highlights or []), limit=8)
+    for item in fallback_candidates:
+        token_set = set(transcript_terms(item))
+        if any(
+            len(token_set & existing) / max(len(token_set | existing), 1) > 0.58
+            for existing in selected_tokens
+        ):
+            continue
+        selected.append(item)
+        selected_tokens.append(token_set)
+        if len(selected) >= target_count:
+            break
+
+    if selected:
+        return selected[:target_count]
+    return safe_transcript_highlights(video, fallback_candidates)
+
+
 def transcript_sentence_candidates(text: str, *, limit: int = 5) -> list[str]:
     normalized = normalize_label(text)
     if not normalized:
@@ -403,17 +654,6 @@ def expand_highlight_candidates(items: list[Any], *, limit: int = 8) -> list[str
 def safe_transcript_highlights(video: dict[str, Any], candidate_highlights: list[str] | None = None) -> list[str]:
     source_items = candidate_highlights if candidate_highlights is not None else video.get("transcript_highlights", [])
     filtered = expand_highlight_candidates(list(source_items or []), limit=8)
-    if len(filtered) < 5 and video.get("transcript_text"):
-        extra = transcript_sentence_candidates(video.get("transcript_text", ""), limit=8)
-        merged: list[str] = []
-        seen: set[str] = set()
-        for item in [*filtered, *extra]:
-            key = item.lower()
-            if not item or key in seen:
-                continue
-            seen.add(key)
-            merged.append(item)
-        filtered = merged
     if filtered:
         return filtered[:5]
     if is_informative_description(video.get("description", "")):
@@ -449,7 +689,7 @@ def fallback_analysis(video: dict[str, Any]) -> dict[str, Any]:
         f"썸네일 카피 힌트: {thumbnail_copy}",
     ]
 
-    return {
+    analysis = {
         "format": format_type,
         "hook_type": hook_type,
         "title_pattern": title_pattern,
@@ -468,8 +708,10 @@ def fallback_analysis(video: dict[str, Any]) -> dict[str, Any]:
             "단순 소개보다 실제 사용 장면을 바로 보여주는 구조가 반응을 만든다.",
             "큰 담론보다 작은 병목 하나를 해결해주는 포장 방식이 클릭으로 이어지기 쉽다."
         ],
-        "transcript_highlights": safe_transcript_highlights(video)
+        "transcript_highlights": []
     }
+    analysis["transcript_highlights"] = derive_transcript_highlights(video, analysis)
+    return analysis
 
 
 def analyze_thumbnail(thumbnail_url: str) -> dict[str, Any]:
@@ -629,8 +871,14 @@ def merge_analysis(video: dict[str, Any], parsed: dict[str, Any]) -> dict[str, A
         "recommendation": normalize_text_field(parsed.get("recommendation"), fallback=fallback["recommendation"]),
         "flow": normalize_text_list(parsed.get("flow"), limit=5) or fallback["flow"],
         "claims": normalize_text_list(parsed.get("claims"), limit=5) or fallback["claims"],
-        "transcript_highlights": safe_transcript_highlights(video, parsed.get("transcript_highlights") or fallback["transcript_highlights"])
+        "transcript_highlights": []
     }
+    merged["transcript_highlights"] = derive_transcript_highlights(
+        video,
+        merged,
+        parsed.get("transcript_highlights") or fallback["transcript_highlights"],
+    )
+    return merged
 
 
 def ensure_korean_output(video: dict[str, Any], analysis: dict[str, Any]) -> dict[str, Any]:
@@ -668,7 +916,7 @@ def openai_analysis(video: dict[str, Any]) -> dict[str, Any]:
         "model": os.getenv("OPENAI_MODEL", DEFAULT_MODEL),
         "response_format": {"type": "json_object"},
         "messages": [
-            {"role": "system", "content": SYSTEM_PROMPT},
+            {"role": "system", "content": SYSTEM_PROMPT + TRANSCRIPT_HIGHLIGHT_SUFFIX},
             {"role": "user", "content": json.dumps(prompt, ensure_ascii=False)},
         ],
     }
@@ -696,7 +944,7 @@ def gemini_analysis(video: dict[str, Any]) -> dict[str, Any]:
     prompt = build_prompt(video)
     model = os.getenv("GEMINI_MODEL", DEFAULT_GEMINI_MODEL)
     payload = {
-        "systemInstruction": {"parts": [{"text": SYSTEM_PROMPT}]},
+        "systemInstruction": {"parts": [{"text": SYSTEM_PROMPT + TRANSCRIPT_HIGHLIGHT_SUFFIX}]},
         "generationConfig": {"responseMimeType": "application/json"},
         "contents": [
             {
