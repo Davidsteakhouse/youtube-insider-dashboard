@@ -278,6 +278,49 @@ def translate_list_items_with_gemini(items: list[str]) -> list[str]:
             return normalize_text_list(parsed, limit=5)
     except Exception:
         return []
+
+
+def translate_list_items_with_openai(items: list[str]) -> list[str]:
+    api_key = os.getenv("OPENAI_API_KEY")
+    if not api_key or not items:
+        return []
+
+    payload = {
+        "model": os.getenv("OPENAI_MODEL", DEFAULT_MODEL),
+        "response_format": {"type": "json_object"},
+        "messages": [
+            {
+                "role": "system",
+                "content": LIST_TRANSLATION_PROMPT + " Return a JSON object with one key named items.",
+            },
+            {
+                "role": "user",
+                "content": json.dumps({"items": items}, ensure_ascii=False),
+            },
+        ],
+    }
+
+    try:
+        response = request_json(
+            OPENAI_ENDPOINT,
+            method="POST",
+            headers={"Authorization": f"Bearer {api_key}"},
+            payload=payload,
+            timeout=60,
+        )
+        content = clean_json_text(response["choices"][0]["message"]["content"])
+        parsed = json.loads(content)
+        if isinstance(parsed, dict):
+            return normalize_text_list(parsed.get("items"), limit=5)
+        if isinstance(parsed, list):
+            return normalize_text_list(parsed, limit=5)
+    except Exception:
+        return []
+    return []
+
+
+def translate_list_items(items: list[str]) -> list[str]:
+    return translate_list_items_with_gemini(items) or translate_list_items_with_openai(items)
     return []
 
 
@@ -898,7 +941,7 @@ def ensure_korean_output(video: dict[str, Any], analysis: dict[str, Any]) -> dic
         if field == "transcript_highlights":
             values = safe_transcript_highlights(video, values)
             if values and not any(has_hangul(item) for item in values):
-                translated_values = translate_list_items_with_gemini(values)
+                translated_values = translate_list_items(values)
                 if translated_values:
                     values = translated_values
         localized[field] = values if values and any(has_hangul(item) for item in values) else fallback[field]
@@ -916,7 +959,7 @@ def refresh_video_transcript_highlights(video: dict[str, Any]) -> dict[str, Any]
     language = str(video.get("transcript_language", "") or "").lower()
 
     if language.startswith("en") and refreshed and not any(has_hangul(item) for item in refreshed):
-        translated = translate_list_items_with_gemini(refreshed)
+        translated = translate_list_items(refreshed)
         if translated:
             refreshed = safe_transcript_highlights(video, translated)
 
