@@ -264,7 +264,8 @@ def batch_fetch_via_apify(video_ids: list[str]) -> dict[str, dict[str, Any]]:
         return {}
 
     # 1) 액터 실행 시작
-    run_url = f"{APIFY_BASE}/acts/{urllib.parse.quote(actor_id, safe='~')}/runs?token={token}"
+    memory_mb = int(os.getenv("APIFY_MEMORY_MB", "1024") or 1024)
+    run_url = f"{APIFY_BASE}/acts/{urllib.parse.quote(actor_id, safe='~')}/runs?token={token}&memory={memory_mb}"
     payload = json.dumps({
         "video_ids": video_ids,
         "languages": PREFERRED_LANGUAGES,
