@@ -2,6 +2,10 @@ name: Deploy Dashboard Pages
 
 on:
   workflow_dispatch:
+  workflow_run:
+    workflows: ["YouTube Insider Daily"]
+    types: [completed]
+    branches: [main]
   push:
     branches:
       - main
@@ -28,6 +32,7 @@ concurrency:
 
 jobs:
   deploy:
+    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
