@@ -8,7 +8,7 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Any
 
-from common import DATA_DIR, kst_date_key, parse_datetime, slugify, utcnow_iso, write_json
+from common import DATA_DIR, kst_date_key, parse_datetime, read_json, slugify, utcnow_iso, write_json
 
 
 DB_PATH = DATA_DIR / "youtube_insider.db"
@@ -722,6 +722,7 @@ def build_bootstrap_payload() -> dict[str, Any]:
     all_videos = load_videos()
     today_videos = load_videos(since_hours=24)
     digest = latest_digest()
+    my_channel = read_json(DATA_DIR / "my_channel.json", None)
     return {
         "meta": {
             "generated_at": utcnow_iso(),
@@ -735,4 +736,5 @@ def build_bootstrap_payload() -> dict[str, Any]:
         "todayVideos": today_videos,
         "groupedHistory": group_videos_by_date(all_videos),
         "digest": digest,
+        "my_channel": my_channel,
     }
