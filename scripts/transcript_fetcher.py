@@ -55,9 +55,15 @@ def fetch_items_from_transcript_obj(transcript_obj: Any, max_retries: int = 2) -
     for attempt in range(max_retries + 1):
         try:
             items = transcript_obj.fetch()
-            if isinstance(items, list):
-                return [item for item in items if isinstance(item, dict)]
-            return None
+            result: list[dict[str, Any]] = []
+            for item in items:
+                if isinstance(item, dict):
+                    # 0.6.x: 이미 dict {"text": ..., "start": ..., "duration": ...}
+                    result.append(item)
+                elif hasattr(item, "text"):
+                    # 1.x: FetchedTranscriptSnippet 객체 → dict으로 변환
+                    result.append({"text": str(item.text), "start": getattr(item, "start", 0), "duration": getattr(item, "duration", 0)})
+            return result if result else None
         except Exception as exc:
             error_str = str(exc)
             is_rate_limit = "429" in error_str or "Too Many Requests" in error_str
@@ -65,6 +71,7 @@ def fetch_items_from_transcript_obj(transcript_obj: Any, max_retries: int = 2) -
             if (is_rate_limit or is_empty_xml) and attempt < max_retries:
                 time.sleep(3 * (attempt + 1))
                 continue
+            print(f"[transcript] transcript_obj.fetch() 실패 (시도 {attempt+1}): {exc}")
             return None
     return None
 
@@ -133,11 +140,17 @@ def fetch_via_youtube_transcript_api(video_id: str) -> dict[str, Any] | None:
         from youtube_transcript_api import YouTubeTranscriptApi  # type: ignore
 
         transcript_items = YouTubeTranscriptApi.get_transcript(video_id, languages=PREFERRED_LANGUAGES)
-        transcript_text = "\n".join(
-            str(item.get("text") or "").strip()
-            for item in transcript_items
-            if isinstance(item, dict) and str(item.get("text") or "").strip()
-        ).strip()
+        parts: list[str] = []
+        for item in transcript_items:
+            if isinstance(item, dict):
+                text = str(item.get("text") or "").strip()
+            elif hasattr(item, "text"):
+                text = str(item.text).strip()
+            else:
+                continue
+            if text:
+                parts.append(text)
+        transcript_text = "\n".join(parts).strip()
         if transcript_text:
             return transcript_payload(
                 status="available_auto",
@@ -145,7 +158,8 @@ def fetch_via_youtube_transcript_api(video_id: str) -> dict[str, Any] | None:
                 language="ko_or_en",
                 text=transcript_text,
             )
-    except Exception:
+    except Exception as exc:
+        print(f"[transcript] get_transcript() 실패 ({video_id}): {exc}")
         return None
     return None
 
@@ -214,12 +228,13 @@ def fetch_via_ytdlp(video_id: str) -> dict[str, Any] | None:
             language = "ko" if ".ko" in lowered else ("en" if ".en" in lowered else "ko_or_en")
             status = "available_auto" if ".live_chat" not in lowered else "available"
             return transcript_payload(status=status, source="ytdlp", language=language, text=transcript_text)
-    except Exception:
+    except Exception as exc:
+        print(f"[transcript] yt-dlp 실패 ({video_id}): {exc}")
         return None
 
 
 def fetch_transcript(video_id: str) -> dict[str, Any]:
-    result = fetch_via_ytdlp(video_id) or fetch_via_youtube_transcript_api(video_id)
+    result = fetch_via_youtube_transcript_api(video_id) or fetch_via_ytdlp(video_id)
     if result:
         return result
     return {

@@ -373,6 +373,7 @@ function normalizeRecommendation(item) {
     reason: item.reason || "",
     source_video_id: item.source_video_id || "",
     source: item.source || "",
+    my_channel_context: item.my_channel_context || null,
   };
 }
 
@@ -812,6 +813,7 @@ function renderSummaryView() {
         ${item.hook ? `<p><strong>왜 클릭되는가</strong> ${escapeHtml(item.hook)}</p>` : ""}
         ${item.angle ? `<p><strong>내 채널에서 복제할 포장 요소</strong> ${escapeHtml(item.angle)}</p>` : ""}
         ${item.reason ? `<p><strong>비어 있는 콘텐츠 영역</strong> ${escapeHtml(item.reason)}</p>` : ""}
+        ${item.my_channel_context ? `<p class="my-channel-context">${escapeHtml(item.my_channel_context)}</p>` : ""}
         ${item.source ? `<p class="muted">기준 영상: ${escapeHtml(item.source)}</p>` : ""}
       </article>
     `).join("")

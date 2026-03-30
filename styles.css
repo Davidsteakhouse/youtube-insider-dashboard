@@ -689,6 +689,16 @@ h1 {
   font-size: 0.84rem;
 }
 
+.my-channel-context {
+  margin: 8px 0 0;
+  padding: 6px 10px;
+  background: #f0f4ff;
+  border-left: 3px solid #4c6ef5;
+  border-radius: 0 4px 4px 0;
+  font-size: 0.82rem;
+  color: #3b5bdb;
+}
+
 .text-button {
   display: inline-flex;
   align-items: center;

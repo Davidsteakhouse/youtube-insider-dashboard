@@ -361,7 +361,13 @@ def build_action_chips(best_video: dict[str, Any] | None, best_topic: dict[str, 
     return chips[:4]
 
 
-def build_creator_takeaway(videos: list[dict[str, Any]], best_video: dict[str, Any] | None, best_topic: dict[str, Any] | None) -> str:
+def build_creator_takeaway(
+    videos: list[dict[str, Any]],
+    best_video: dict[str, Any] | None,
+    best_topic: dict[str, Any] | None,
+    my_channel: dict[str, Any] | None = None,
+    average_view_count: float = 0,
+) -> str:
     if not best_video or not best_topic:
         return "오늘은 참여율 상위 영상부터 확인하세요."
     topic_label = best_topic["label"]
@@ -383,10 +389,27 @@ def build_creator_takeaway(videos: list[dict[str, Any]], best_video: dict[str, A
         if comparison_count == 0
         else ""
     )
-    return (
+    base = (
         f"'{topic_label}' 주제가 {count}개 영상으로 가장 많이 다뤄졌습니다."
         f"{format_note} {empty_angle}"
     )
+
+    # 내 채널 vs 경쟁사 비교 한 줄 추가
+    if my_channel:
+        avg_7d = my_channel.get("avg_7d") or {}
+        my_views = float(avg_7d.get("views") or 0)
+        my_pct = float(avg_7d.get("avg_view_percentage") or 0)
+        if my_views > 0 and average_view_count > 0:
+            gap = (my_views - average_view_count) / average_view_count * 100
+            gap_str = f"{'+' if gap >= 0 else ''}{gap:.0f}%"
+            comp_str = compact_number(round(average_view_count))
+            my_str = compact_number(round(my_views))
+            retention_note = ""
+            if my_pct > 0:
+                retention_note = f" · 지속률 {my_pct:.1f}%"
+            base += f"\n[내 채널] 7일 평균 {my_str}회{retention_note} / 경쟁사 평균 {comp_str}회 (격차 {gap_str})"
+
+    return base
 
 
 def build_title_suggestions(best_topic: dict[str, Any] | None, best_video: dict[str, Any] | None) -> list[str]:
@@ -480,7 +503,13 @@ def creator_hook_line(video: dict[str, Any], topic_label: str) -> str:
     return "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅"
 
 
-def build_recommendations(videos: list[dict[str, Any]], title_suggestions: list[str], best_topic: dict[str, Any] | None) -> list[dict[str, Any]]:
+def build_recommendations(
+    videos: list[dict[str, Any]],
+    title_suggestions: list[str],
+    best_topic: dict[str, Any] | None,
+    my_channel: dict[str, Any] | None = None,
+    average_view_count: float = 0,
+) -> list[dict[str, Any]]:
     if not videos:
         return []
 
@@ -497,21 +526,33 @@ def build_recommendations(videos: list[dict[str, Any]], title_suggestions: list[
         reverse=True,
     )
 
+    # 내 채널 컨텍스트 사전 계산
+    my_context_base = ""
+    if my_channel:
+        avg_7d = my_channel.get("avg_7d") or {}
+        my_views = float(avg_7d.get("views") or 0)
+        my_pct = float(avg_7d.get("avg_view_percentage") or 0)
+        if my_views > 0:
+            my_context_base = f"내 7일 평균 {compact_number(round(my_views))}회 · 지속률 {my_pct:.1f}%"
+            if average_view_count > 0:
+                gap = (my_views - average_view_count) / average_view_count * 100
+                my_context_base += f" / 경쟁사 대비 {'+' if gap >= 0 else ''}{gap:.0f}%"
+
     recommendations: list[dict[str, Any]] = []
     for index, video in enumerate(ranked[:3]):
         topic_label = classify_topic_cluster(video)
         title = title_suggestions[index] if index < len(title_suggestions) else video.get("title", "제목 없음")
-        recommendations.append(
-            {
-                "title": title,
-                "hook": creator_hook_line(video, topic_label),
-                "angle": creator_packaging_angle(video, topic_label),
-                "thumbnail_copy": build_thumbnail_copy(topic_label, normalize_label(video.get("hook_type")) or "문제 해결"),
-                "reason": creator_empty_angle(video, topic_label),
-                "source_video_id": video.get("video_id"),
-                "source": video.get("title", "제목 없음"),
-            }
-        )
+        rec: dict[str, Any] = {
+            "title": title,
+            "hook": creator_hook_line(video, topic_label),
+            "angle": creator_packaging_angle(video, topic_label),
+            "thumbnail_copy": build_thumbnail_copy(topic_label, normalize_label(video.get("hook_type")) or "문제 해결"),
+            "reason": creator_empty_angle(video, topic_label),
+            "source_video_id": video.get("video_id"),
+            "source": video.get("title", "제목 없음"),
+            "my_channel_context": my_context_base or None,
+        }
+        recommendations.append(rec)
     return recommendations
 
 
@@ -531,7 +572,7 @@ def build_keyword_counts(videos: list[dict[str, Any]], *, key: str, limit: int =
     return [{"label": label, "count": count} for label, count in counter.most_common(limit)]
 
 
-def build_my_channel_telegram_section(my_channel: dict[str, Any]) -> str:
+def build_my_channel_telegram_section(my_channel: dict[str, Any], average_view_count: float = 0) -> str:
     """내 채널 어제 실적 + 7일 평균 비교 섹션."""
     yesterday = my_channel.get("yesterday")
     avg_7d = my_channel.get("avg_7d") or {}
@@ -561,12 +602,10 @@ def build_my_channel_telegram_section(my_channel: dict[str, Any]) -> str:
     dur_sec = int(avg_dur_sec % 60)
     lines.append(f"시청 지속률 {avg_view_pct:.1f}% | 평균 시청 {dur_min}분 {dur_sec:02d}초")
 
-    video_stats = my_channel.get("video_stats") or []
-    if video_stats:
-        top = video_stats[0]
-        ctr = float(top.get("ctr_pct") or 0)
-        vp = float(top.get("avg_view_percentage") or 0)
-        lines.append(f"최근 TOP 영상 CTR {ctr:.1f}% | 시청 지속률 {vp:.1f}%")
+    # 경쟁사 평균 조회수 대비
+    if average_view_count > 0 and avg_views > 0:
+        gap = (avg_views - average_view_count) / average_view_count * 100
+        lines.append(f"경쟁사 평균 {compact_number(round(average_view_count))}회 대비 내 7일 평균 {'+' if gap >= 0 else ''}{gap:.0f}%")
 
     return "\n".join(lines)
 
@@ -577,6 +616,7 @@ def build_telegram_preview(
     best_topic: dict[str, Any] | None,
     title_suggestions: list[str],
     my_channel: dict[str, Any] | None = None,
+    average_view_count: float = 0,
 ) -> str:
     if not videos:
         return "📡 스마트대디 AI 모니터링\n최근 24시간 수집된 영상이 없습니다."
@@ -629,7 +669,7 @@ def build_telegram_preview(
 
     # 내 채널 어제 실적
     if my_channel:
-        my_section = build_my_channel_telegram_section(my_channel)
+        my_section = build_my_channel_telegram_section(my_channel, average_view_count)
         if my_section:
             lines.append(my_section)
             lines.append("")
@@ -695,7 +735,7 @@ def build_digest(videos: list[dict[str, Any]], watchlist: list[dict[str, Any]], 
     )
 
     title_suggestions = build_title_suggestions(best_topic, best_video)
-    recommendations = build_recommendations(digest_videos, title_suggestions, best_topic)
+    recommendations = build_recommendations(digest_videos, title_suggestions, best_topic, my_channel, average_view_count)
     video_highlights = build_video_highlights(digest_videos)
 
     return {
@@ -703,13 +743,13 @@ def build_digest(videos: list[dict[str, Any]], watchlist: list[dict[str, Any]], 
         "summary": build_summary(digest_videos, best_video, best_topic),
         "summary_points": build_summary_points(digest_videos, best_video, best_topic),
         "action_chips": build_action_chips(best_video, best_topic),
-        "creator_takeaway": build_creator_takeaway(digest_videos, best_video, best_topic),
+        "creator_takeaway": build_creator_takeaway(digest_videos, best_video, best_topic, my_channel, average_view_count),
         "topic_clusters": topic_clusters,
         "title_suggestions": title_suggestions,
         "recommendations": recommendations,
         "video_highlights": video_highlights,
         "my_channel": my_channel,
-        "telegram_preview": build_telegram_preview(digest_videos, best_video, best_topic, title_suggestions, my_channel),
+        "telegram_preview": build_telegram_preview(digest_videos, best_video, best_topic, title_suggestions, my_channel, average_view_count),
         "video_count": len(digest_videos),
         "total_recent_video_count": len(hydrated_recent),
         "focus_scope": focus_scope,
