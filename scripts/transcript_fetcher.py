@@ -12,11 +12,13 @@ import time
 import urllib.error
 import urllib.parse
 import urllib.request
+from pathlib import Path
 from typing import Any
 
 
 PREFERRED_LANGUAGES = ["ko", "ko-KR", "en", "en-US"]
 APIFY_BASE = "https://api.apify.com/v2"
+TMP_DIR = Path(__file__).resolve().parent.parent / ".tmp_transcripts"
 
 
 def extract_video_id_from_url(url: str) -> str:
@@ -53,6 +55,8 @@ def apify_actor_family(actor_id: str) -> str:
     actor = (actor_id or "").strip().lower()
     if "johnvc" in actor and "youtubetranscripts" in actor:
         return "johnvc_youtubetranscripts"
+    if "supreme_coder" in actor and "youtube-transcript-scraper" in actor:
+        return "supreme_coder_youtube_transcript_scraper"
     return "default"
 
 
@@ -61,6 +65,12 @@ def apify_actor_payload(actor_id: str, video_ids: list[str]) -> dict[str, Any]:
     if actor_family == "johnvc_youtubetranscripts":
         return {
             "youtube_url": [f"https://www.youtube.com/watch?v={video_id}" for video_id in video_ids],
+        }
+    if actor_family == "supreme_coder_youtube_transcript_scraper":
+        return {
+            "urls": [{"url": f"https://www.youtube.com/watch?v={video_id}"} for video_id in video_ids],
+            "languages": PREFERRED_LANGUAGES,
+            "outputFormat": "text",
         }
     return {
         "video_ids": video_ids,
@@ -87,6 +97,43 @@ def transcript_payload(
         "transcript_text": text,
         "transcript_highlights": highlights,
     }
+
+
+def unavailable_transcript_payload(*, source: str) -> dict[str, Any]:
+    return transcript_payload(status="unavailable", source=source, language="", text="")
+
+
+def blocked_transcript_payload(*, source: str) -> dict[str, Any]:
+    return transcript_payload(status="blocked", source=source, language="", text="")
+
+
+def is_permanently_unavailable_error(message: str) -> bool:
+    lowered = (message or "").lower()
+    return any(
+        token in lowered
+        for token in [
+            "subtitles are disabled",
+            "transcripts are disabled",
+            "video is unavailable",
+            "private video",
+            "age restricted",
+            "age-restricted",
+        ]
+    )
+
+
+def is_request_blocked_error(message: str) -> bool:
+    lowered = (message or "").lower()
+    return any(
+        token in lowered
+        for token in [
+            "youtube is blocking requests from your ip",
+            "requestblocked",
+            "ipblocked",
+            "too many requests",
+            "http error 429",
+        ]
+    )
 
 
 def transcript_list_instance(video_id: str) -> Any:
@@ -154,50 +201,11 @@ def build_transcript_api_payload(transcript_obj: Any, *, source_status: str, sou
 
 
 def fetch_via_youtube_transcript_api(video_id: str) -> dict[str, Any] | None:
-    transcript_list = transcript_list_instance(video_id)
-    if transcript_list is None:
-        return None
-
-    try:
-        if hasattr(transcript_list, "find_manually_created_transcript"):
-            ko_manual = transcript_list.find_manually_created_transcript(["ko", "ko-KR"])
-            payload = build_transcript_api_payload(ko_manual, source_status="available", source_language="ko")
-            if payload:
-                return payload
-    except Exception:
-        pass
-
-    try:
-        if hasattr(transcript_list, "find_generated_transcript"):
-            ko_generated = transcript_list.find_generated_transcript(["ko", "ko-KR"])
-            payload = build_transcript_api_payload(ko_generated, source_status="available_auto", source_language="ko")
-            if payload:
-                return payload
-    except Exception:
-        pass
-
-    try:
-        if hasattr(transcript_list, "find_transcript"):
-            english = transcript_list.find_transcript(["en", "en-US"])
-            if hasattr(english, "translate"):
-                translated = english.translate("ko")
-                payload = build_transcript_api_payload(translated, source_status="translated", source_language="ko ← en")
-                if payload:
-                    return payload
-            payload = build_transcript_api_payload(
-                english,
-                source_status="available_auto" if getattr(english, "is_generated", False) else "available",
-                source_language="en",
-            )
-            if payload:
-                return payload
-    except Exception:
-        pass
-
     try:
         from youtube_transcript_api import YouTubeTranscriptApi  # type: ignore
 
-        transcript_items = YouTubeTranscriptApi.get_transcript(video_id, languages=PREFERRED_LANGUAGES)
+        api = YouTubeTranscriptApi()
+        transcript_items = api.fetch(video_id, languages=PREFERRED_LANGUAGES)
         parts: list[str] = []
         for item in transcript_items:
             if isinstance(item, dict):
@@ -217,7 +225,13 @@ def fetch_via_youtube_transcript_api(video_id: str) -> dict[str, Any] | None:
                 text=transcript_text,
             )
     except Exception as exc:
-        print(f"[transcript] get_transcript() 실패 ({video_id}): {exc}")
+        error_message = str(exc)
+        if is_permanently_unavailable_error(error_message):
+            return unavailable_transcript_payload(source="transcript_api")
+        if is_request_blocked_error(error_message):
+            print(f"[transcript] transcript_api 차단 ({video_id}): {exc}")
+            return blocked_transcript_payload(source="transcript_api")
+        print(f"[transcript] transcript_api.fetch() 실패 ({video_id}): {exc}")
         return None
     return None
 
@@ -227,7 +241,8 @@ def fetch_via_ytdlp(video_id: str) -> dict[str, Any] | None:
         return None
 
     try:
-        with tempfile.TemporaryDirectory() as tmp_dir:
+        TMP_DIR.mkdir(parents=True, exist_ok=True)
+        with tempfile.TemporaryDirectory(dir=TMP_DIR) as tmp_dir:
             command = [
                 sys.executable,
                 "-m",
@@ -293,6 +308,23 @@ def fetch_via_ytdlp(video_id: str) -> dict[str, Any] | None:
 
 def _apify_extract_transcript_text(item: dict[str, Any]) -> tuple[str, str] | None:
     """Apify 결과 item에서 (text, language) 추출. 언어 우선순위: ko > en."""
+    raw_transcript = item.get("transcript")
+    if isinstance(raw_transcript, str) and raw_transcript.strip():
+        language_code = str(item.get("languageCode") or item.get("language_code") or item.get("language") or "").strip()
+        return raw_transcript.strip(), language_code
+    if isinstance(raw_transcript, list):
+        parts: list[str] = []
+        for snippet in raw_transcript:
+            if isinstance(snippet, dict):
+                text = str(snippet.get("text") or "").strip()
+            else:
+                text = str(snippet or "").strip()
+            if text:
+                parts.append(text)
+        if parts:
+            language_code = str(item.get("languageCode") or item.get("language_code") or item.get("language") or "").strip()
+            return "\n".join(parts).strip(), language_code
+
     raw_non_timestamped = str(item.get("non_timestamped") or "").strip()
     if raw_non_timestamped and item.get("success", True) is not False:
         language_code = str(item.get("language_code") or item.get("language") or "").strip()
@@ -372,17 +404,26 @@ def _batch_fetch_via_apify_actor(video_ids: list[str], actor_id: str, token: str
 
     # 4) video_id → payload 매핑
     # "unavailable" = Apify가 영구적으로 자막 없음을 확인 → 재시도 안 함
-    PERMANENT_ERROR_CODES = {"TRANSCRIPTS_DISABLED", "VIDEO_UNAVAILABLE", "PRIVATE_VIDEO", "AGE_RESTRICTED"}
+    PERMANENT_ERROR_CODES = {
+        "TRANSCRIPTS_DISABLED",
+        "VIDEO_UNAVAILABLE",
+        "PRIVATE_VIDEO",
+        "AGE_RESTRICTED",
+        "TRANSCRIPT_NOT_FOUND",
+    }
     results: dict[str, dict[str, Any]] = {}
     unresolved_ids: set[str] = set()
     for item in (items or []):
         vid = (
             str(item.get("video_id") or "").strip()
+            or str(item.get("videoId") or "").strip()
+            or str(((item.get("videoDetails") or {}) if isinstance(item.get("videoDetails"), dict) else {}).get("videoId") or "").strip()
             or extract_video_id_from_url(str(item.get("url") or "").strip())
+            or extract_video_id_from_url(str(item.get("inputUrl") or "").strip())
         )
         if not vid:
             continue
-        raw_error_code = str(item.get("code") or item.get("error_type") or "").strip()
+        raw_error_code = str(item.get("code") or item.get("error_type") or item.get("errorCode") or "").strip()
         error_code = normalize_error_code(raw_error_code)
         if error_code in PERMANENT_ERROR_CODES:
             results[vid] = transcript_payload(status="unavailable", source="apify", language="", text="")
@@ -414,7 +455,7 @@ def _batch_fetch_via_apify_actor(video_ids: list[str], actor_id: str, token: str
 def batch_fetch_via_apify(video_ids: list[str]) -> dict[str, dict[str, Any]]:
     """여러 video_id를 Apify actor 체인으로 수집. {video_id: transcript_payload} 반환."""
     token = os.getenv("APIFY_TOKEN", "").strip()
-    actor_id = os.getenv("APIFY_YOUTUBE_TRANSCRIPT_ACTOR_ID", "johnvc~youtubetranscripts").strip()
+    actor_id = os.getenv("APIFY_YOUTUBE_TRANSCRIPT_ACTOR_ID", "supreme_coder~youtube-transcript-scraper").strip()
     fallback_actor_id = os.getenv("APIFY_YOUTUBE_TRANSCRIPT_FALLBACK_ACTOR_ID", "").strip()
     if not token or not video_ids:
         return {}
@@ -433,7 +474,10 @@ def batch_fetch_via_apify(video_ids: list[str]) -> dict[str, dict[str, Any]]:
 
 
 def fetch_transcript(video_id: str) -> dict[str, Any]:
-    result = fetch_via_youtube_transcript_api(video_id) or fetch_via_ytdlp(video_id)
+    transcript_api_result = fetch_via_youtube_transcript_api(video_id)
+    if transcript_api_result and transcript_api_result.get("transcript_status") == "blocked":
+        return transcript_api_result
+    result = transcript_api_result or fetch_via_ytdlp(video_id)
     if result:
         return result
     return {
@@ -447,6 +491,7 @@ def fetch_transcript(video_id: str) -> dict[str, Any]:
 
 def enrich_videos_with_transcripts(videos: list[dict[str, Any]]) -> list[dict[str, Any]]:
     max_fetch = int(os.getenv("TRANSCRIPT_FETCH_LIMIT", "24") or 24)
+    fetch_delay_sec = float(os.getenv("TRANSCRIPT_FETCH_DELAY_SEC", "8") or 8)
     prioritized_ids = [
         video.get("video_id")
         for video in sorted(
@@ -474,11 +519,16 @@ def enrich_videos_with_transcripts(videos: list[dict[str, Any]]) -> list[dict[st
         if vid not in prioritized_set:
             continue
         result = fetch_transcript(vid)
+        if result.get("transcript_status") == "blocked":
+            blocked_ids = [candidate for candidate in prioritized_ids if candidate not in individual_results and candidate not in failed_ids]
+            failed_ids.extend(blocked_ids)
+            print(f"[transcript] 현재 IP 차단 감지. 남은 {len(blocked_ids)}개를 Apify 배치로 전환합니다.")
+            break
         if result.get("transcript_status") == "failed":
             failed_ids.append(vid)
         else:
             individual_results[vid] = result
-        time.sleep(3)
+        time.sleep(fetch_delay_sec)
 
     # 2단계: 실패한 영상만 Apify 배치로 재시도
     apify_results: dict[str, dict[str, Any]] = {}
