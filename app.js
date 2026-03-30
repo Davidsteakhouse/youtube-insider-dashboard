@@ -706,7 +706,7 @@ function renderMyChannelStats() {
       ${topVideo ? `
       <div class="my-channel-stat my-channel-stat--wide">
         <span class="my-channel-label">최근 TOP 영상 (최근 28일)</span>
-        <span class="my-channel-value">CTR ${topVideo.ctr_pct.toFixed(1)}% · 지속률 ${topVideo.avg_view_percentage.toFixed(1)}%</span>
+        <span class="my-channel-value">지속률 ${topVideo.avg_view_percentage.toFixed(1)}%</span>
         <span class="my-channel-sub">${compactNumber(topVideo.views)}뷰 · 좋아요 ${compactNumber(topVideo.likes)} · 댓글 ${compactNumber(topVideo.comments)}</span>
       </div>` : ""}
     </div>

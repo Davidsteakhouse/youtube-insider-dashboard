@@ -113,10 +113,7 @@ def fetch_video_stats(access_token: str, days: int = 28, channel_ids: str = "cha
         "ids": channel_ids,
         "startDate": start.isoformat(),
         "endDate": end.isoformat(),
-        "metrics": (
-            "views,impressions,impressionClickThroughRate,"
-            "averageViewPercentage,averageViewDuration,likes,comments"
-        ),
+        "metrics": "views,averageViewPercentage,averageViewDuration,likes,comments",
         "dimensions": "video",
         "sort": "-views",
         "maxResults": 10,
@@ -126,9 +123,6 @@ def fetch_video_stats(access_token: str, days: int = 28, channel_ids: str = "cha
         result.append({
             "video_id": row.get("video"),
             "views": int(row.get("views") or 0),
-            "impressions": int(row.get("impressions") or 0),
-            # API가 퍼센트로 반환 (예: 4.2 = 4.2%)
-            "ctr_pct": float(row.get("impressionClickThroughRate") or 0),
             "avg_view_percentage": float(row.get("averageViewPercentage") or 0),
             "avg_view_duration_sec": float(row.get("averageViewDuration") or 0),
             "likes": int(row.get("likes") or 0),
