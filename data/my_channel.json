@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-31T07:28:35.861551+09:00",
+  "generated_at": "2026-03-31T07:50:07.104269+09:00",
   "channel_name": "스마트대디",
   "period_days": 7,
   "daily": [
@@ -47,7 +47,7 @@
   "video_stats": [
     {
       "video_id": "lfq_r6r_0XY",
-      "views": 33876,
+      "views": 33873,
       "avg_view_percentage": 40.02,
       "avg_view_duration_sec": 131.0,
       "likes": 447,
@@ -55,7 +55,7 @@
     },
     {
       "video_id": "Ts-9MMZzkhM",
-      "views": 17685,
+      "views": 17670,
       "avg_view_percentage": 19.52,
       "avg_view_duration_sec": 167.0,
       "likes": 434,
@@ -63,7 +63,7 @@
     },
     {
       "video_id": "qyTUW0fqgzc",
-      "views": 16200,
+      "views": 16193,
       "avg_view_percentage": 109.27,
       "avg_view_duration_sec": 51.0,
       "likes": 80,
@@ -71,7 +71,7 @@
     },
     {
       "video_id": "EbKWRA_N4Gs",
-      "views": 9227,
+      "views": 9217,
       "avg_view_percentage": 37.0,
       "avg_view_duration_sec": 134.0,
       "likes": 90,
@@ -79,7 +79,7 @@
     },
     {
       "video_id": "LawKU0gGr2Q",
-      "views": 5771,
+      "views": 5765,
       "avg_view_percentage": 45.73,
       "avg_view_duration_sec": 114.0,
       "likes": 73,
@@ -103,8 +103,8 @@
     },
     {
       "video_id": "RC_6yeYNCA0",
-      "views": 1303,
-      "avg_view_percentage": 24.24,
+      "views": 1301,
+      "avg_view_percentage": 24.23,
       "avg_view_duration_sec": 81.0,
       "likes": 34,
       "comments": 7
@@ -119,7 +119,7 @@
     },
     {
       "video_id": "ltJbVR080j4",
-      "views": 374,
+      "views": 373,
       "avg_view_percentage": 18.22,
       "avg_view_duration_sec": 156.0,
       "likes": 4,
