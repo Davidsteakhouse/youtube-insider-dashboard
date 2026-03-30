@@ -207,40 +207,46 @@ def translate_analysis_fields_with_gemini(analysis: dict[str, Any]) -> dict[str,
 
 def infer_format(title: str, description: str) -> str:
     text = f"{title} {description}".lower()
-    if any(token in text for token in ["vs", "versus", "compare", "difference"]):
+    # 한국어 패턴
+    if any(token in text for token in ["vs", "versus", "compare", "difference", "비교", "대결", "차이", "뭐가 다"]):
         return "비교"
-    if any(token in text for token in ["tutorial", "workflow", "how to"]):
+    if any(token in text for token in ["tutorial", "workflow", "how to", "방법", "사용법", "쓰는 법", "활용법", "따라하기", "세팅"]):
         return "워크플로우 튜토리얼"
-    if any(token in text for token in ["build", "repo", "command", "mcp", "cursor"]):
+    if any(token in text for token in ["build", "repo", "command", "mcp", "cursor", "만들어", "개발", "코딩", "자동화"]):
         return "빌드 데모"
-    if any(token in text for token in ["mrr", "revenue", "$", "brand"]):
+    if any(token in text for token in ["mrr", "revenue", "$", "brand", "수익", "매출", "후기", "사용기", "한달", "일주일"]):
         return "사례 분석"
     return "뉴스 분석"
 
 
 def infer_hook(title: str) -> str:
     lowered = title.lower()
-    if any(token in lowered for token in ["replace", "now", "urgent", "breaking"]):
+    # 한국어 패턴
+    if any(token in lowered for token in ["replace", "now", "urgent", "breaking", "드디어", "마침내", "출시", "공개", "발표", "긴급"]):
         return "긴급성"
-    if any(token in lowered for token in ["beat", "save", "faster"]):
+    if any(token in lowered for token in ["beat", "save", "faster", "절약", "빠른", "줄이", "단축", "효율"]):
         return "시간 절약"
-    if any(token in lowered for token in ["versus", "difference", "compare"]):
+    if any(token in lowered for token in ["versus", "difference", "compare", "vs", "비교", "대결", "차이", "뭐가 나"]):
         return "비교"
-    if any(token in lowered for token in ["mrr", "revenue", "money", "made"]):
+    if any(token in lowered for token in ["mrr", "revenue", "money", "made", "수익", "돈", "매출", "만원", "억"]):
         return "수익"
-    if any(token in lowered for token in ["build", "turned", "one command"]):
+    if any(token in lowered for token in ["build", "turned", "one command", "직접", "실험", "해봤", "써봤", "테스트"]):
         return "실험"
+    if any(token in lowered for token in ["진짜", "솔직", "현실", "실제", "후기", "실망", "놀라"]):
+        return "솔직 검증"
     return "문제 해결"
 
 
 def infer_title_pattern(title: str, format_type: str) -> str:
     lowered = title.lower()
-    if "versus" in lowered or "difference" in lowered:
+    if "versus" in lowered or "difference" in lowered or "비교" in lowered or "대결" in lowered:
         return "A 대 B + 실전 약속"
-    if any(token in lowered for token in ["mrr", "revenue", "made"]):
+    if any(token in lowered for token in ["mrr", "revenue", "made", "수익", "매출"]):
         return "금액 수치 + 성과 서사"
-    if any(token in lowered for token in ["replace", "now", "beat"]):
+    if any(token in lowered for token in ["replace", "now", "beat", "드디어", "마침내", "출시"]):
         return "강한 주장 + 결과 약속"
+    if any(token in lowered for token in ["직접", "해봤", "써봤", "실험", "테스트"]):
+        return "직접 실험 + 결과 공개"
     if format_type == "빌드 데모":
         return "툴 조합 + 압축 약속"
     return "핵심 포인트 직설형"
@@ -255,8 +261,8 @@ def infer_topic_tags(text: str) -> list[str]:
     text = text.lower()
     tags = []
     mapping = {
-        "agents": ["agent", "agents", "mcp"],
-        "automation": ["automation", "workflow", "zapier"],
+        "agents": ["agent", "agents", "mcp", "에이전트"],
+        "automation": ["automation", "workflow", "zapier", "자동화", "워크플로우"],
         "research": ["research", "search", "brief"],
         "coding": ["cursor", "repo", "code", "build"],
         "monetization": ["mrr", "revenue", "brand", "offer"],

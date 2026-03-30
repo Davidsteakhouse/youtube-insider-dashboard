@@ -28,6 +28,10 @@ jobs:
       TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
       NOTION_TOKEN_V2: ${{ secrets.NOTION_TOKEN_V2 }}
       NOTION_SOURCE_URL: https://www.notion.so/1c61ff0d0be880d39d6dd9faf563ed5c?v=1c61ff0d0be880d3b12d000c5768d1c9&source=copy_link
+      YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+      YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+      YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+      YT_CHANNEL_NAME: ${{ secrets.YT_CHANNEL_NAME }}
       LLM_PROVIDER: gemini
       GEMINI_MODEL: gemini-2.5-flash-lite
       APIFY_YOUTUBE_TRANSCRIPT_ACTOR_ID: futurizerush~youtube-transcript-scraper

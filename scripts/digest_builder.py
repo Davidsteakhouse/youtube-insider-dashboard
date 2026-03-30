@@ -531,11 +531,52 @@ def build_keyword_counts(videos: list[dict[str, Any]], *, key: str, limit: int =
     return [{"label": label, "count": count} for label, count in counter.most_common(limit)]
 
 
+def build_my_channel_telegram_section(my_channel: dict[str, Any]) -> str:
+    """내 채널 어제 실적 + 7일 평균 비교 섹션."""
+    yesterday = my_channel.get("yesterday")
+    avg_7d = my_channel.get("avg_7d") or {}
+    channel_name = my_channel.get("channel_name", "스마트대디")
+
+    if not yesterday:
+        return ""
+
+    lines: list[str] = []
+    lines.append(f"📈 {channel_name} 어제 실적")
+
+    views = int(yesterday.get("views") or 0)
+    avg_views = float(avg_7d.get("views") or 0)
+    views_diff = ""
+    if avg_views > 0:
+        pct = (views - avg_views) / avg_views * 100
+        arrow = "↑" if pct >= 0 else "↓"
+        views_diff = f" ({arrow}{abs(pct):.0f}% vs 7일 평균)"
+
+    subs = int(yesterday.get("subscribers_net") or 0)
+    subs_str = f"+{subs}" if subs >= 0 else str(subs)
+    lines.append(f"조회수 {compact_number(views)}{views_diff} | 구독 {subs_str}")
+
+    avg_view_pct = float(yesterday.get("avg_view_percentage") or 0)
+    avg_dur_sec = float(yesterday.get("avg_view_duration_sec") or 0)
+    dur_min = int(avg_dur_sec // 60)
+    dur_sec = int(avg_dur_sec % 60)
+    lines.append(f"시청 지속률 {avg_view_pct:.1f}% | 평균 시청 {dur_min}분 {dur_sec:02d}초")
+
+    video_stats = my_channel.get("video_stats") or []
+    if video_stats:
+        top = video_stats[0]
+        ctr = float(top.get("ctr_pct") or 0)
+        vp = float(top.get("avg_view_percentage") or 0)
+        lines.append(f"최근 TOP 영상 CTR {ctr:.1f}% | 시청 지속률 {vp:.1f}%")
+
+    return "\n".join(lines)
+
+
 def build_telegram_preview(
     videos: list[dict[str, Any]],
     best_video: dict[str, Any] | None,
     best_topic: dict[str, Any] | None,
     title_suggestions: list[str],
+    my_channel: dict[str, Any] | None = None,
 ) -> str:
     if not videos:
         return "📡 스마트대디 AI 모니터링\n최근 24시간 수집된 영상이 없습니다."
@@ -586,6 +627,13 @@ def build_telegram_preview(
         lines.append(f"🎬 포맷: {format_str}")
         lines.append("")
 
+    # 내 채널 어제 실적
+    if my_channel:
+        my_section = build_my_channel_telegram_section(my_channel)
+        if my_section:
+            lines.append(my_section)
+            lines.append("")
+
     # VS 비교 각도 힌트 (스마트대디 핵심 포맷)
     if best_topic:
         empty = AI_CREATOR_EMPTY_ANGLES.get(best_topic["label"], "")
@@ -601,7 +649,7 @@ def build_telegram_preview(
     return "\n".join(lines)
 
 
-def build_digest(videos: list[dict[str, Any]], watchlist: list[dict[str, Any]]) -> dict[str, Any]:
+def build_digest(videos: list[dict[str, Any]], watchlist: list[dict[str, Any]], my_channel: dict[str, Any] | None = None) -> dict[str, Any]:
     channel_lookup = {
         channel.get("youtube_channel_id") or channel.get("channel_key") or channel.get("url") or channel.get("name"): channel
         for channel in watchlist
@@ -660,7 +708,8 @@ def build_digest(videos: list[dict[str, Any]], watchlist: list[dict[str, Any]]) 
         "title_suggestions": title_suggestions,
         "recommendations": recommendations,
         "video_highlights": video_highlights,
-        "telegram_preview": build_telegram_preview(digest_videos, best_video, best_topic, title_suggestions),
+        "my_channel": my_channel,
+        "telegram_preview": build_telegram_preview(digest_videos, best_video, best_topic, title_suggestions, my_channel),
         "video_count": len(digest_videos),
         "total_recent_video_count": len(hydrated_recent),
         "focus_scope": focus_scope,

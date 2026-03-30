@@ -20,6 +20,7 @@ from storage import (
     upsert_digest,
     upsert_videos,
 )
+from analytics_fetcher import fetch_my_channel_analytics, load_my_channel, save_my_channel
 from telegram_notify import send_digest_message
 from transcript_fetcher import enrich_videos_with_transcripts
 from youtube_fetcher import merge_video_payload, refresh_watchlist_metadata
@@ -155,8 +156,16 @@ def build_video_pipeline(args: argparse.Namespace, watchlist: list[dict[str, Any
     upsert_channels(refreshed_watchlist)
     upsert_videos(recent_videos)
 
+    # 내 채널 analytics 수집 (인증 정보 없으면 스킵)
+    my_channel = fetch_my_channel_analytics(days=7)
+    if my_channel:
+        save_my_channel(my_channel)
+        print("내 채널 analytics 수집 완료")
+    else:
+        my_channel = load_my_channel()
+
     all_videos = load_videos()
-    digest = build_digest(all_videos, refreshed_watchlist)
+    digest = build_digest(all_videos, refreshed_watchlist, my_channel=my_channel)
     upsert_digest(digest)
     refresh_static_bundle()
     print("digest 생성 및 export 반영 완료")
