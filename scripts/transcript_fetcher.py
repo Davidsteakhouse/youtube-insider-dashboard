@@ -19,6 +19,36 @@ PREFERRED_LANGUAGES = ["ko", "ko-KR", "en", "en-US"]
 APIFY_BASE = "https://api.apify.com/v2"
 
 
+def extract_video_id_from_url(url: str) -> str:
+    if not url:
+        return ""
+    try:
+        parsed = urllib.parse.urlparse(url)
+    except Exception:
+        return ""
+
+    hostname = (parsed.netloc or "").lower()
+    path = parsed.path or ""
+    if "youtu.be" in hostname:
+        candidate = path.strip("/").split("/", 1)[0]
+        return candidate if re.fullmatch(r"[A-Za-z0-9_-]{11}", candidate or "") else ""
+
+    if "youtube.com" in hostname or "m.youtube.com" in hostname:
+        query_video_id = urllib.parse.parse_qs(parsed.query).get("v", [""])[0]
+        if re.fullmatch(r"[A-Za-z0-9_-]{11}", query_video_id or ""):
+            return query_video_id
+        for prefix in ("/shorts/", "/embed/", "/live/"):
+            if path.startswith(prefix):
+                candidate = path[len(prefix):].split("/", 1)[0]
+                if re.fullmatch(r"[A-Za-z0-9_-]{11}", candidate or ""):
+                    return candidate
+    return ""
+
+
+def normalize_error_code(value: str) -> str:
+    return re.sub(r"[^A-Z0-9]+", "_", (value or "").upper()).strip("_")
+
+
 def apify_actor_family(actor_id: str) -> str:
     actor = (actor_id or "").strip().lower()
     if "johnvc" in actor and "youtubetranscripts" in actor:
@@ -284,12 +314,10 @@ def _apify_extract_transcript_text(item: dict[str, Any]) -> tuple[str, str] | No
     return None
 
 
-def batch_fetch_via_apify(video_ids: list[str]) -> dict[str, dict[str, Any]]:
-    """여러 video_id를 한 번의 Apify 실행으로 수집. {video_id: transcript_payload} 반환."""
-    token = os.getenv("APIFY_TOKEN", "").strip()
-    actor_id = os.getenv("APIFY_YOUTUBE_TRANSCRIPT_ACTOR_ID", "johnvc~youtubetranscripts").strip()
+def _batch_fetch_via_apify_actor(video_ids: list[str], actor_id: str, token: str) -> tuple[dict[str, dict[str, Any]], list[str]]:
+    """단일 Apify actor를 실행해 결과와 미해결 video_id 목록을 반환."""
     if not token or not video_ids:
-        return {}
+        return {}, []
 
     # 1) 액터 실행 시작
     memory_mb = int(os.getenv("APIFY_MEMORY_MB", "1024") or 1024)
@@ -301,13 +329,13 @@ def batch_fetch_via_apify(video_ids: list[str]) -> dict[str, dict[str, Any]]:
         with urllib.request.urlopen(req, timeout=30) as resp:
             run_data = json.loads(resp.read())
     except Exception as exc:
-        print(f"[transcript] Apify 배치 실행 시작 실패: {exc}")
-        return {}
+        print(f"[transcript] Apify 배치 실행 시작 실패 ({actor_id}): {exc}")
+        return {}, list(video_ids)
 
     run_id = (run_data.get("data") or {}).get("id")
     if not run_id:
-        print("[transcript] Apify run_id 없음")
-        return {}
+        print(f"[transcript] Apify run_id 없음 ({actor_id})")
+        return {}, list(video_ids)
 
     # 2) 완료 대기 (최대 5분, 10초 간격)
     status_url = f"{APIFY_BASE}/actor-runs/{run_id}?token={token}"
@@ -325,13 +353,13 @@ def batch_fetch_via_apify(video_ids: list[str]) -> dict[str, dict[str, Any]]:
             pass
 
     if status != "SUCCEEDED":
-        print(f"[transcript] Apify 배치 완료 안됨: {status}")
-        return {}
+        print(f"[transcript] Apify 배치 완료 안됨 ({actor_id}): {status}")
+        return {}, list(video_ids)
 
     dataset_id = (status_data.get("data") or {}).get("defaultDatasetId", "")
     if not dataset_id:
-        print("[transcript] Apify dataset_id 없음")
-        return {}
+        print(f"[transcript] Apify dataset_id 없음 ({actor_id})")
+        return {}, list(video_ids)
 
     # 3) 결과 조회
     items_url = f"{APIFY_BASE}/datasets/{dataset_id}/items?token={token}"
@@ -339,27 +367,32 @@ def batch_fetch_via_apify(video_ids: list[str]) -> dict[str, dict[str, Any]]:
         with urllib.request.urlopen(items_url, timeout=30) as resp:
             items = json.loads(resp.read())
     except Exception as exc:
-        print(f"[transcript] Apify 결과 조회 실패: {exc}")
-        return {}
+        print(f"[transcript] Apify 결과 조회 실패 ({actor_id}): {exc}")
+        return {}, list(video_ids)
 
     # 4) video_id → payload 매핑
     # "unavailable" = Apify가 영구적으로 자막 없음을 확인 → 재시도 안 함
     PERMANENT_ERROR_CODES = {"TRANSCRIPTS_DISABLED", "VIDEO_UNAVAILABLE", "PRIVATE_VIDEO", "AGE_RESTRICTED"}
     results: dict[str, dict[str, Any]] = {}
+    unresolved_ids: set[str] = set()
     for item in (items or []):
-        vid = item.get("video_id") or ""
+        vid = (
+            str(item.get("video_id") or "").strip()
+            or extract_video_id_from_url(str(item.get("url") or "").strip())
+        )
         if not vid:
             continue
-        error_code = str(item.get("code") or "")
+        raw_error_code = str(item.get("code") or item.get("error_type") or "").strip()
+        error_code = normalize_error_code(raw_error_code)
         if error_code in PERMANENT_ERROR_CODES:
             results[vid] = transcript_payload(status="unavailable", source="apify", language="", text="")
-            print(f"[transcript] Apify 영구 불가 ({vid}): {error_code}")
+            print(f"[transcript] Apify 영구 불가 ({vid}, {actor_id}): {raw_error_code or error_code}")
             continue
-        error_message = str(item.get("error") or "").strip()
+        error_message = str(item.get("error") or item.get("error_message") or "").strip()
         lowered_error = error_message.lower()
         if any(token in lowered_error for token in ["disabled", "private", "age-restricted", "unavailable"]):
             results[vid] = transcript_payload(status="unavailable", source="apify", language="", text="")
-            print(f"[transcript] Apify 영구 불가 ({vid}): {error_message}")
+            print(f"[transcript] Apify 영구 불가 ({vid}, {actor_id}): {error_message}")
             continue
         extracted = _apify_extract_transcript_text(item)
         if extracted:
@@ -367,11 +400,35 @@ def batch_fetch_via_apify(video_ids: list[str]) -> dict[str, dict[str, Any]]:
             results[vid] = transcript_payload(
                 status="available", source="apify", language=lang, text=text
             )
-            print(f"[transcript] Apify 성공 ({vid}): {len(text)}자")
+            print(f"[transcript] Apify 성공 ({vid}, {actor_id}): {len(text)}자")
         else:
-            print(f"[transcript] Apify 자막 없음 ({vid})")
+            unresolved_ids.add(vid)
+            reason = raw_error_code or error_message or "empty_result"
+            print(f"[transcript] Apify 미해결 ({vid}, {actor_id}): {reason}")
 
-    print(f"[transcript] Apify 배치 완료: {len(results)}/{len(video_ids)}개 성공")
+    unresolved_ids.update(vid for vid in video_ids if vid not in results and vid not in unresolved_ids)
+    print(f"[transcript] Apify 배치 완료 ({actor_id}): {len(results)}/{len(video_ids)}개 처리")
+    return results, sorted(unresolved_ids)
+
+
+def batch_fetch_via_apify(video_ids: list[str]) -> dict[str, dict[str, Any]]:
+    """여러 video_id를 Apify actor 체인으로 수집. {video_id: transcript_payload} 반환."""
+    token = os.getenv("APIFY_TOKEN", "").strip()
+    actor_id = os.getenv("APIFY_YOUTUBE_TRANSCRIPT_ACTOR_ID", "johnvc~youtubetranscripts").strip()
+    fallback_actor_id = os.getenv("APIFY_YOUTUBE_TRANSCRIPT_FALLBACK_ACTOR_ID", "").strip()
+    if not token or not video_ids:
+        return {}
+
+    results, unresolved_ids = _batch_fetch_via_apify_actor(video_ids, actor_id, token)
+
+    if fallback_actor_id and fallback_actor_id != actor_id and unresolved_ids:
+        print(f"[transcript] Apify fallback 시작: {len(unresolved_ids)}개 → {fallback_actor_id}")
+        fallback_results, fallback_unresolved_ids = _batch_fetch_via_apify_actor(unresolved_ids, fallback_actor_id, token)
+        results.update(fallback_results)
+        unresolved_ids = fallback_unresolved_ids
+
+    if unresolved_ids:
+        print(f"[transcript] Apify 최종 미해결: {len(unresolved_ids)}개")
     return results
 
 
