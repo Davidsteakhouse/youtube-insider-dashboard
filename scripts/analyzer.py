@@ -291,7 +291,11 @@ def translate_list_items_with_openai(items: list[str]) -> list[str]:
         "messages": [
             {
                 "role": "system",
-                "content": LIST_TRANSLATION_PROMPT + " Return a JSON object with one key named items.",
+                "content": (
+                    "Translate each transcript highlight into concise Korean key-point bullets. "
+                    "Do not copy the full transcript. Compress each item into one or two Korean sentences. "
+                    "Return valid JSON with exactly one key named items whose value is an array of strings."
+                ),
             },
             {
                 "role": "user",
