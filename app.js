@@ -224,8 +224,12 @@ function transcriptHighlightPoints(video) {
   const language = `${video.transcript_language || ""}`.toLowerCase();
   const hasLocalizedDirect = direct.some((item) => hasHangul(item));
   const hasOverlongDirect = direct.some((item) => item.length > 320);
+  const hasCompactDirect = direct.length > 0 && direct.length <= 3 && direct.every((item) => item.length <= 280);
 
   if (direct.length && (!language.startsWith("en") || (hasLocalizedDirect && !hasOverlongDirect))) {
+    return direct.slice(0, 5);
+  }
+  if (language.startsWith("en") && hasCompactDirect && !hasOverlongDirect) {
     return direct.slice(0, 5);
   }
 
