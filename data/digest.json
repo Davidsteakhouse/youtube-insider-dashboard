@@ -1,250 +1,236 @@
 {
-  "digest_date": "2026-04-01",
-  "generated_at": "2026-03-31T23:44:21+00:00",
-  "summary": "최근 24시간 영상 9개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'Arc'입니다. 특히 '6년만에 나온 애플 에어팟 맥스 2세대.. 진짜 달라진 거 맞아요?'는 조회수 173.8K, 참여율 1.7%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "'Arc' 주제가 2개 영상으로 가장 많이 다뤄졌습니다. 일반인 관점 직접 실험 or VS 비교 각도로 차별화할 영역이 있습니다.\n[내 채널] 7일 평균 12.4K회 · 지속률 38.3% / 경쟁사 평균 28.0K회 (격차 -56%)",
-  "telegram_preview": "📡 스마트대디 모니터링 | 04/01\n\n📊 수집: 영상 9개 | 채널 8개\n\n🔥 참여율 TOP 3\n1. [ITSub잇섭] 1.7% · 173.8K뷰\n   6년만에 나온 애플 에어팟 맥스 2세대.. 진짜 달라진 거 맞아요?\n2. [주연 ZUYONI] 2.8% · 29.8K뷰\n   100만원대 헤드폰, 딱 하나만 사라면 저는 이겁니다 | 잡스가 탐낸 B&O 전부 써봄\n3. [주연 ZUYONI] 2.4% · 16.5K뷰\n   로청 이모님 캐스팅하러 왔습니다만?\n\n📌 화제 키워드\n   monetization · automation · research · coding · 리서치\n\n🎬 포맷: 뉴스 분석 3개 · 비교 2개 · 워크플로우 튜토리얼 2개\n\n📈 스마트대디 어제 실적\n조회수 21.5K (↑73% vs 7일 평균) | 구독 +308\n시청 지속률 38.4% | 평균 시청 2분 09초\n경쟁사 평균 28.0K회 대비 내 7일 평균 -56%\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
-  "video_count": 9,
-  "total_recent_video_count": 9,
+  "digest_date": "2026-04-02",
+  "generated_at": "2026-04-01T23:47:23+00:00",
+  "summary": "최근 24시간 영상 8개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'Claude'입니다. 특히 'AI 모델 성능 경쟁이 더이상 무의미… 하네스 엔지니어링 본격 개화 | NVIDIA는 이미 준비 중, 반도체도 함께 변한다'는 조회수 26.8K, 참여율 2.9%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "'Claude' 주제가 2개 영상으로 가장 많이 다뤄졌습니다. Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n[내 채널] 7일 평균 17.5K회 · 지속률 38.6% / 경쟁사 평균 8.9K회 (격차 +97%)",
+  "telegram_preview": "📡 스마트대디 모니터링 | 04/02\n\n📊 수집: 영상 8개 | 채널 6개\n\n🔥 참여율 TOP 3\n1. [안될공학 - IT 테크 신기술] 2.9% · 26.8K뷰\n   AI 모델 성능 경쟁이 더이상 무의미… 하네스 엔지니어링 본격 개화 | NVIDIA는 이미 준비 중, 반도체도 함께 변한다\n2. [안될공학 - IT 테크 신기술] 3.7% · 26.0K뷰\n   AI 모델 유출보다 더 치명적인 이유 |  클로드 코드 유출, 하네스가 일부 유출\n3. [안될공학 - IT 테크 신기술] 3.2% · 6.0K뷰\n   명령 한번에 파일 정리부터 앱 실행까지… 마누스 My Computer 출시 | 클라우드 AI가 로컬로 내려왔다\n\n📌 화제 키워드\n   agents · automation · Claude · 코딩 · AI인간화\n\n🎬 포맷: 뉴스 분석 5개 · 비교 2개 · 비교/해설 1개\n\n📈 스마트대디 어제 실적\n조회수 24.4K (↑40% vs 7일 평균) | 구독 +353\n시청 지속률 37.5% | 평균 시청 2분 05초\n경쟁사 평균 8.9K회 대비 내 7일 평균 +97%\n\n💡 VS 각도: Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+  "video_count": 8,
+  "total_recent_video_count": 8,
   "focus_scope": "all_watchlist",
-  "average_view_count": 27972.0,
-  "average_engagement_rate": 0.03094105671111289,
-  "average_like_count": 496.0,
-  "average_comment_count": 93.0,
-  "best_video_id": "VsoxjZ5sSLY",
-  "best_topic": "Arc",
+  "average_view_count": 8852.0,
+  "average_engagement_rate": 0.04245615814093605,
+  "average_like_count": 274.0,
+  "average_comment_count": 27.0,
+  "best_video_id": "g6YesZMG40s",
+  "best_topic": "Claude",
   "summary_points": [
-    "가장 겹친 주제는 'Arc'이며 2개 영상, 평균 조회수 15.6K, 평균 참여율 2.8%입니다.",
-    "최고 실적 영상은 '6년만에 나온 애플 에어팟 맥스 2세대.. 진짜 달라진 거 맞아요?'이며 솔직 검증 훅과 비교 포맷 조합이 강했습니다.",
-    "반복 노출된 툴은 Arc 2회, ChatGPT 2회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
+    "가장 겹친 주제는 'Claude'이며 2개 영상, 평균 조회수 3.3K, 평균 참여율 3.8%입니다.",
+    "최고 실적 영상은 'AI 모델 성능 경쟁이 더이상 무의미… 하네스 엔지니어링 본격 개화 | NVIDIA는 이미 준비 중, 반도체도 함께 변한다'이며 문제 해결 훅과 뉴스 분석 포맷 조합이 강했습니다.",
+    "반복 노출된 툴은 Claude 2회, ChatGPT 1회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
   ],
   "action_chips": [
-    "주제: Arc",
-    "훅: 솔직 검증",
-    "포맷: 비교",
-    "기준 채널: ITSub잇섭"
+    "주제: Claude",
+    "훅: 문제 해결",
+    "포맷: 뉴스 분석",
+    "기준 채널: 안될공학 - IT 테크 신기술"
   ],
   "title_suggestions": [
-    "Arc 직접 실험 — 이게 진짜 되나?",
-    "Arc vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
-    "Arc 써봤더니... (기대 vs 현실 솔직 후기)"
+    "Claude vs ChatGPT, 일반인이 직접 써보니 이게 달랐다",
+    "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
+    "AI 비서 대결: Claude가 진짜 강한 상황은 따로 있었다"
   ],
   "recommendations": [
     {
-      "title": "Arc 직접 실험 — 이게 진짜 되나?",
-      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
-      "angle": "큰 주제 하나를 대표 제목으로 세우고, 나머지 포인트는 보조 정보처럼 정리하는 압축형 포장이 좋습니다.",
-      "thumbnail_copy": "Arc 핵심 3가지",
-      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
-      "source_video_id": "SIp9OLY9MqQ",
-      "source": "100만원대 헤드폰, 딱 하나만 사라면 저는 이겁니다 | 잡스가 탐낸 B&O 전부 써봄",
-      "my_channel_context": "내 7일 평균 12.4K회 · 지속률 38.3% / 경쟁사 대비 -56%"
+      "title": "Claude vs ChatGPT, 일반인이 직접 써보니 이게 달랐다",
+      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
+      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
+      "thumbnail_copy": "Claude 지금 봐야 함",
+      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
+      "source_video_id": "b6aZRJjweBs",
+      "source": "명령 한번에 파일 정리부터 앱 실행까지… 마누스 My Computer 출시 | 클라우드 AI가 로컬로 내려왔다",
+      "my_channel_context": "내 7일 평균 17.5K회 · 지속률 38.6% / 경쟁사 대비 +97%"
     },
     {
-      "title": "Arc vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
-      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
-      "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
-      "thumbnail_copy": "Arc 바로 해결",
-      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
-      "source_video_id": "2QlfFwHnrck",
-      "source": "How to Deliver Hard News with Compassion",
-      "my_channel_context": "내 7일 평균 12.4K회 · 지속률 38.3% / 경쟁사 대비 -56%"
+      "title": "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
+      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
+      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
+      "thumbnail_copy": "Claude 지금 봐야 함",
+      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
+      "source_video_id": "oO19lkZiLWw",
+      "source": "너무 강력해서 오히려 공개못한 클로드 모델이 유출되었습니다 ㄷㄷ",
+      "my_channel_context": "내 7일 평균 17.5K회 · 지속률 38.6% / 경쟁사 대비 +97%"
     }
   ],
   "topic_clusters": [
     {
-      "label": "Arc",
+      "label": "Claude",
       "count": 2,
-      "avg_view_count": 15558,
-      "avg_engagement_rate": 0.027801604233374175,
-      "avg_like_count": 340,
-      "avg_comment_count": 98,
+      "avg_view_count": 3300,
+      "avg_engagement_rate": 0.03759543354952971,
+      "avg_like_count": 104,
+      "avg_comment_count": 6,
       "source_titles": [
-        "100만원대 헤드폰, 딱 하나만 사라면 저는 이겁니다 | 잡스가 탐낸 B&O 전부 써봄",
-        "How to Deliver Hard News with Compassion"
+        "명령 한번에 파일 정리부터 앱 실행까지… 마누스 My Computer 출시 | 클라우드 AI가 로컬로 내려왔다",
+        "너무 강력해서 오히려 공개못한 클로드 모델이 유출되었습니다 ㄷㄷ"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/SIp9OLY9MqQ/hqdefault.jpg",
-      "representative_video_id": "SIp9OLY9MqQ",
-      "representative_title": "100만원대 헤드폰, 딱 하나만 사라면 저는 이겁니다 | 잡스가 탐낸 B&O 전부 써봄"
+      "thumbnail_url": "https://i.ytimg.com/vi/b6aZRJjweBs/hqdefault.jpg",
+      "representative_video_id": "b6aZRJjweBs",
+      "representative_title": "명령 한번에 파일 정리부터 앱 실행까지… 마누스 My Computer 출시 | 클라우드 AI가 로컬로 내려왔다"
     },
     {
-      "label": "Apple",
+      "label": "agents",
       "count": 1,
-      "avg_view_count": 173835,
-      "avg_engagement_rate": 0.016636465613944256,
-      "avg_like_count": 2368,
-      "avg_comment_count": 524,
+      "avg_view_count": 26815,
+      "avg_engagement_rate": 0.028677978743240722,
+      "avg_like_count": 718,
+      "avg_comment_count": 51,
       "source_titles": [
-        "6년만에 나온 애플 에어팟 맥스 2세대.. 진짜 달라진 거 맞아요?"
+        "AI 모델 성능 경쟁이 더이상 무의미… 하네스 엔지니어링 본격 개화 | NVIDIA는 이미 준비 중, 반도체도 함께 변한다"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/VsoxjZ5sSLY/hqdefault.jpg",
-      "representative_video_id": "VsoxjZ5sSLY",
-      "representative_title": "6년만에 나온 애플 에어팟 맥스 2세대.. 진짜 달라진 거 맞아요?"
+      "thumbnail_url": "https://i.ytimg.com/vi/g6YesZMG40s/hqdefault.jpg",
+      "representative_video_id": "g6YesZMG40s",
+      "representative_title": "AI 모델 성능 경쟁이 더이상 무의미… 하네스 엔지니어링 본격 개화 | NVIDIA는 이미 준비 중, 반도체도 함께 변한다"
     },
     {
-      "label": "monetization",
+      "label": "인공지능",
       "count": 1,
-      "avg_view_count": 16528,
-      "avg_engagement_rate": 0.024019845111326234,
-      "avg_like_count": 370,
+      "avg_view_count": 25971,
+      "avg_engagement_rate": 0.0365022525124177,
+      "avg_like_count": 853,
+      "avg_comment_count": 95,
+      "source_titles": [
+        "AI 모델 유출보다 더 치명적인 이유 |  클로드 코드 유출, 하네스가 일부 유출"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/USTr-RAytZ4/hqdefault.jpg",
+      "representative_video_id": "USTr-RAytZ4",
+      "representative_title": "AI 모델 유출보다 더 치명적인 이유 |  클로드 코드 유출, 하네스가 일부 유출"
+    },
+    {
+      "label": "스페이스X",
+      "count": 1,
+      "avg_view_count": 5319,
+      "avg_engagement_rate": 0.04098514758413235,
+      "avg_like_count": 191,
       "avg_comment_count": 27,
       "source_titles": [
-        "로청 이모님 캐스팅하러 왔습니다만?"
+        "스페이스 X, 세계 시총 순위 6위 \"충격\""
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/pG43Hu8CVlE/hqdefault.jpg",
-      "representative_video_id": "pG43Hu8CVlE",
-      "representative_title": "로청 이모님 캐스팅하러 왔습니다만?"
+      "thumbnail_url": "https://i.ytimg.com/vi/Djq8HkguDag/hqdefault.jpg",
+      "representative_video_id": "Djq8HkguDag",
+      "representative_title": "스페이스 X, 세계 시총 순위 6위 \"충격\""
     },
     {
-      "label": "기술주",
+      "label": "MCP",
       "count": 1,
-      "avg_view_count": 9834,
-      "avg_engagement_rate": 0.03711612772015457,
-      "avg_like_count": 334,
-      "avg_comment_count": 31,
+      "avg_view_count": 4358,
+      "avg_engagement_rate": 0.03143643873336393,
+      "avg_like_count": 130,
+      "avg_comment_count": 7,
       "source_titles": [
-        "기술주 폭락에 역대급 할인 행사? 엔비디아, 빅테크 PER 15~20..수준 사야할까?"
+        "클로드 코드를 사내 구성원 모두가 쓰게 되면 벌어지는 일 (델타소사이어티 이웅재님, VC)"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/7T_cegX6U6w/hqdefault.jpg",
-      "representative_video_id": "7T_cegX6U6w",
-      "representative_title": "기술주 폭락에 역대급 할인 행사? 엔비디아, 빅테크 PER 15~20..수준 사야할까?"
-    },
-    {
-      "label": "OpenAI",
-      "count": 1,
-      "avg_view_count": 8640,
-      "avg_engagement_rate": 0.048726851851851855,
-      "avg_like_count": 400,
-      "avg_comment_count": 21,
-      "source_titles": [
-        "OpenClaw Free Forever with Local LLM AI Model Setup"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/Pl0s83kpIT0/hqdefault.jpg",
-      "representative_video_id": "Pl0s83kpIT0",
-      "representative_title": "OpenClaw Free Forever with Local LLM AI Model Setup"
-    },
-    {
-      "label": "아이폰",
-      "count": 1,
-      "avg_view_count": 7545,
-      "avg_engagement_rate": 0.032074221338634856,
-      "avg_like_count": 206,
-      "avg_comment_count": 36,
-      "source_titles": [
-        "아이폰 17e에 들어간 기술, 빠진 기술 분석 | 애플이 계산한 의도된 차이를 보면 답이 나옵니다"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/JsyH6XdIXvg/hqdefault.jpg",
-      "representative_video_id": "JsyH6XdIXvg",
-      "representative_title": "아이폰 17e에 들어간 기술, 빠진 기술 분석 | 애플이 계산한 의도된 차이를 보면 답이 나옵니다"
+      "thumbnail_url": "https://i.ytimg.com/vi/VcL_N_csw0s/hqdefault.jpg",
+      "representative_video_id": "VcL_N_csw0s",
+      "representative_title": "클로드 코드를 사내 구성원 모두가 쓰게 되면 벌어지는 일 (델타소사이어티 이웅재님, VC)"
     },
     {
       "label": "ChatGPT",
       "count": 1,
-      "avg_view_count": 3191,
-      "avg_engagement_rate": 0.019743027264180507,
-      "avg_like_count": 62,
-      "avg_comment_count": 1,
+      "avg_view_count": 1023,
+      "avg_engagement_rate": 0.06256109481915934,
+      "avg_like_count": 45,
+      "avg_comment_count": 19,
       "source_titles": [
-        "This Changes ChatGPT Forever!"
+        "This AI Humanizer Bypasses AI Detectors..."
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/WpXbATsVkok/hqdefault.jpg",
-      "representative_video_id": "WpXbATsVkok",
-      "representative_title": "This Changes ChatGPT Forever!"
+      "thumbnail_url": "https://i.ytimg.com/vi/EyVwMoqsyQo/hqdefault.jpg",
+      "representative_video_id": "EyVwMoqsyQo",
+      "representative_title": "This AI Humanizer Bypasses AI Detectors..."
     },
     {
-      "label": "자동화",
+      "label": "Arc",
       "count": 1,
-      "avg_view_count": 1055,
-      "avg_engagement_rate": 0.04454976303317536,
+      "avg_view_count": 731,
+      "avg_engagement_rate": 0.06429548563611491,
       "avg_like_count": 46,
       "avg_comment_count": 1,
       "source_titles": [
-        "미친 퀄리티! 구글의 최신 AI모델이 음악작곡 전문가까지 대체합니다 ㄷㄷ... 영상까지 만드니까 왜 진짜 영화같냐"
+        "Why AI Is Costing You More Productivity Than You Think"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/Hp-LkkwEoNk/hqdefault.jpg",
-      "representative_video_id": "Hp-LkkwEoNk",
-      "representative_title": "미친 퀄리티! 구글의 최신 AI모델이 음악작곡 전문가까지 대체합니다 ㄷㄷ... 영상까지 만드니까 왜 진짜 영화같냐"
+      "thumbnail_url": "https://i.ytimg.com/vi/1u3uZ8zngRE/hqdefault.jpg",
+      "representative_video_id": "1u3uZ8zngRE",
+      "representative_title": "Why AI Is Costing You More Productivity Than You Think"
     }
   ],
   "video_highlights": [
     {
-      "video_id": "VsoxjZ5sSLY",
-      "channel_name": "ITSub잇섭",
-      "title": "6년만에 나온 애플 에어팟 맥스 2세대.. 진짜 달라진 거 맞아요?",
-      "thumbnail_url": "https://i.ytimg.com/vi/VsoxjZ5sSLY/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=VsoxjZ5sSLY",
-      "published_at": "2026-03-31T13:05:00Z",
-      "view_count": 173835,
-      "like_count": 2368,
-      "comment_count": 524,
-      "engagement_rate": 0.016636465613944256,
-      "topic_cluster": "Apple",
-      "summary": "6년 만에 출시된 에어팟 맥스 2세대는 외관상 큰 변화는 없지만, H2 칩 탑재로 적응형 오디오 등 새로운 기능이 추가되었고, 노이즈 캔슬링 및 통화 품질이 향상되…",
-      "comment_signal": "충격적인 인트로 ㅋㅋㅋㅋㅋㅋ",
-      "hook_type": "솔직 검증"
-    },
-    {
-      "video_id": "SIp9OLY9MqQ",
-      "channel_name": "주연 ZUYONI",
-      "title": "100만원대 헤드폰, 딱 하나만 사라면 저는 이겁니다 | 잡스가 탐낸 B&O 전부 써봄",
-      "thumbnail_url": "https://i.ytimg.com/vi/SIp9OLY9MqQ/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=SIp9OLY9MqQ",
-      "published_at": "2026-03-31T00:30:43Z",
-      "view_count": 29803,
-      "like_count": 643,
-      "comment_count": 197,
-      "engagement_rate": 0.028185082038720933,
-      "topic_cluster": "Arc",
-      "summary": "이 영상은 research 이슈를 빌드 데모 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "영상에는 헤드폰과 이어폰만 담았지만 혜택은 스피커 라인업까지 준비했습니다~!! 🎧주연 구독자만을 위한 특별 할인 링크: https://www.bang-olufsen-kor…",
-      "hook_type": "수익"
-    },
-    {
-      "video_id": "pG43Hu8CVlE",
-      "channel_name": "주연 ZUYONI",
-      "title": "로청 이모님 캐스팅하러 왔습니다만?",
-      "thumbnail_url": "https://i.ytimg.com/vi/pG43Hu8CVlE/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=pG43Hu8CVlE",
-      "published_at": "2026-03-31T10:53:19Z",
-      "view_count": 16528,
-      "like_count": 370,
-      "comment_count": 27,
-      "engagement_rate": 0.024019845111326234,
-      "topic_cluster": "monetization",
-      "summary": "이 영상은 monetization 이슈를 사례 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "아직 많이들 모르는 사실.. 드리미는 한국 유저들의 데이터서버를 아예 한국으로 이전했다.작년 말의 일이었다🎉",
+      "video_id": "g6YesZMG40s",
+      "channel_name": "안될공학 - IT 테크 신기술",
+      "title": "AI 모델 성능 경쟁이 더이상 무의미… 하네스 엔지니어링 본격 개화 | NVIDIA는 이미 준비 중, 반도체도 함께 변한다",
+      "thumbnail_url": "https://i.ytimg.com/vi/g6YesZMG40s/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=g6YesZMG40s",
+      "published_at": "2026-04-01T02:51:54Z",
+      "view_count": 26815,
+      "like_count": 718,
+      "comment_count": 51,
+      "engagement_rate": 0.028677978743240722,
+      "topic_cluster": "agents",
+      "summary": "이 영상은 agents 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "정말 자주 바뀌네. 이제 Ai 정책, 제도까지 바꿔야 겠네. 과연 어느 나라, 인간들이 먼저 적응할까....",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "7T_cegX6U6w",
+      "video_id": "USTr-RAytZ4",
+      "channel_name": "안될공학 - IT 테크 신기술",
+      "title": "AI 모델 유출보다 더 치명적인 이유 |  클로드 코드 유출, 하네스가 일부 유출",
+      "thumbnail_url": "https://i.ytimg.com/vi/USTr-RAytZ4/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=USTr-RAytZ4",
+      "published_at": "2026-04-01T04:27:58Z",
+      "view_count": 25971,
+      "like_count": 853,
+      "comment_count": 95,
+      "engagement_rate": 0.0365022525124177,
+      "topic_cluster": "인공지능",
+      "summary": "클로드 코드 유출 사건은 단순한 배포 실수가 아니라, AI 모델 성능을 넘어선 AI 에이전트의 '하네스 엔지니어링' 경쟁력이 얼마나 중요한지를 보여주는 사건입니다.…",
+      "comment_signal": "AI 목소리인거같은데",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "b6aZRJjweBs",
+      "channel_name": "안될공학 - IT 테크 신기술",
+      "title": "명령 한번에 파일 정리부터 앱 실행까지… 마누스 My Computer 출시 | 클라우드 AI가 로컬로 내려왔다",
+      "thumbnail_url": "https://i.ytimg.com/vi/b6aZRJjweBs/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=b6aZRJjweBs",
+      "published_at": "2026-04-01T10:00:42Z",
+      "view_count": 5969,
+      "like_count": 181,
+      "comment_count": 12,
+      "engagement_rate": 0.03233372424191657,
+      "topic_cluster": "Claude",
+      "summary": "이 영상은 agents 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "이거 갑자기 광고 ㅈㄴ 돌리네. 광고에서 명시해야 하는 내용들이 있는 거 같은지 대사들이 다 비슷한데 그 내용이...음....",
+      "hook_type": "긴급성"
+    },
+    {
+      "video_id": "Djq8HkguDag",
       "channel_name": "월텍남 - 월스트리트 테크남",
-      "title": "기술주 폭락에 역대급 할인 행사? 엔비디아, 빅테크 PER 15~20..수준 사야할까?",
-      "thumbnail_url": "https://i.ytimg.com/vi/7T_cegX6U6w/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=7T_cegX6U6w",
-      "published_at": "2026-03-31T09:23:11Z",
-      "view_count": 9834,
-      "like_count": 334,
-      "comment_count": 31,
-      "engagement_rate": 0.03711612772015457,
-      "topic_cluster": "기술주",
-      "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "모아놨던 현금 쓸 데가 된 것 같습니다.. 조금 실현해뒀으면 더 좋았을텐데 ㅠㅠ 그래도 이렇게 명확하게 진단해주시니 감사합니다",
+      "title": "스페이스 X, 세계 시총 순위 6위 \"충격\"",
+      "thumbnail_url": "https://i.ytimg.com/vi/Djq8HkguDag/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=Djq8HkguDag",
+      "published_at": "2026-04-01T11:49:49Z",
+      "view_count": 5319,
+      "like_count": 191,
+      "comment_count": 27,
+      "engagement_rate": 0.04098514758413235,
+      "topic_cluster": "스페이스X",
+      "summary": "스페이스X의 1.5조 달러 기업 가치가 단순히 로켓 발사 기업이 아닌, 압도적인 해자를 가진 글로벌 통신 인프라 기업으로서 스타링크와 XAI를 기반으로 미래 기술(…",
+      "comment_signal": "스페이스 X는 역사적인 기업이 될 것 같네요.",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "Pl0s83kpIT0",
-      "channel_name": "Adrian Twarog",
-      "title": "OpenClaw Free Forever with Local LLM AI Model Setup",
-      "thumbnail_url": "https://i.ytimg.com/vi/Pl0s83kpIT0/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=Pl0s83kpIT0",
-      "published_at": "2026-03-31T09:06:17Z",
-      "view_count": 8640,
-      "like_count": 400,
-      "comment_count": 21,
-      "engagement_rate": 0.048726851851851855,
-      "topic_cluster": "OpenAI",
-      "summary": "이 영상은 agents 이슈를 워크플로우 튜토리얼 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "Great, what's the minimum hardware configuration for this local set-up up should be?",
+      "video_id": "VcL_N_csw0s",
+      "channel_name": "빌더 조쉬 Builder Josh",
+      "title": "클로드 코드를 사내 구성원 모두가 쓰게 되면 벌어지는 일 (델타소사이어티 이웅재님, VC)",
+      "thumbnail_url": "https://i.ytimg.com/vi/VcL_N_csw0s/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=VcL_N_csw0s",
+      "published_at": "2026-04-01T01:42:40Z",
+      "view_count": 4358,
+      "like_count": 130,
+      "comment_count": 7,
+      "engagement_rate": 0.03143643873336393,
+      "topic_cluster": "MCP",
+      "summary": "이 영상은 agents 이슈를 비교 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "존윅이 개발도 하시나요?",
       "hook_type": "문제 해결"
     }
   ]
