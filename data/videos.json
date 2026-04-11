@@ -1,8 +1,708 @@
 {
-  "generated_at": "2026-04-10T23:50:37+00:00",
+  "generated_at": "2026-04-11T23:47:58+00:00",
   "source": "sqlite_export",
-  "video_count": 113,
+  "video_count": 120,
   "videos": [
+    {
+      "video_id": "KaGXoHWpzUk",
+      "channel_key": "uc3nktpxh9de0md3hvcpb7sw",
+      "title": "Seedance 2.0 live on Flova. 48h free access! Visit site for more details!",
+      "description": "Seedance 2.0 is now live on Flova 🚀 Flova will open 48-hour free access. For details about the activity, please visit the official website. link: https://www.flova.ai/?refCode=AHAFHKNM\n\n #Flovaai #seedance2 #seedance",
+      "published_at": "2026-04-11T16:27:17Z",
+      "duration_seconds": 34,
+      "view_count": 1173,
+      "like_count": 25,
+      "comment_count": 5,
+      "engagement_rate": 0.02557544757033248,
+      "thumbnail_url": "https://i.ytimg.com/vi/KaGXoHWpzUk/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=KaGXoHWpzUk",
+      "format": "뉴스 분석",
+      "hook_type": "문제 해결",
+      "title_pattern": "핵심 포인트 직설형",
+      "one_line_summary": "이 영상은 coding 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "why_it_works": "문제 해결 훅으로 관심을 끌고, 뉴스 분석 형식으로 내용을 빠르게 정리해 시청자가 '바로 써먹을 수 있다'고 느끼게 만듭니다.",
+      "recommendation": "훅 구조: 도입 15초 안에 '문제 해결' 관점으로 문제를 못 박고, 왜 지금 봐야 하는지 먼저 선언합니다. • 복제할 포장 요소: 뉴스 분석 형식을 유지하되 coding를 실제 사용 장면 1개와 결과 변화 2개로 더 좁혀 설명합니다. • 비어 있는 콘텐츠 영역: 'coding가 내 작업 흐름에서 어디에 꽂히는가'를 사례 중심으로 보여주는 후속 영상이 비어 있습니다. • 추천 제목: coding 이슈를 내 채널 관점으로 다시 정리해보자 • 썸네일 카피 힌트: coding 지금 봐야 할 3가지",
+      "transcript_status": "available",
+      "transcript_source": "apify",
+      "transcript_language": "en",
+      "transcript_text": "No, this was not made in a studio. This is FlipaClip XC Dance 2.0. It&#39;s a multi-modal, so you can use text and image or a video to direct every single move. Generate multi-shot sequences, remix scenes, and control the story in minutes. No tech skills are required. Obviously, no production team is required, and it&#39;s actually affordable. FlipaClip has added a new generator feature, which can call on models like XC Dance 2.0 and a 48-hour unlimited points event. So, it&#39;s a great time to create and explore more on the platform. And if you subscribe for a membership, you&#39;ll get an extra 100 points. Links in my pinned comments.",
+      "analysis_date": "2026-04-11T23:47:07+00:00",
+      "channel_name": "tef",
+      "topic_tags": [
+        "coding",
+        "news"
+      ],
+      "keywords": [
+        "coding",
+        "news",
+        "Seedance",
+        "2.0",
+        "live",
+        "on"
+      ],
+      "tools": [],
+      "flow": [
+        "처음 15초 안에 문제를 선명하게 정의하고 왜 지금 봐야 하는지 못 박는다.",
+        "중간 구간에서 툴, 사례, 비교 포인트를 빠르게 제시해 정보 밀도를 높인다.",
+        "마지막에는 시청자가 바로 따라할 수 있는 다음 액션과 적용 예시로 닫는다."
+      ],
+      "claims": [
+        "단순 소개보다 실제 사용 장면을 바로 보여주는 구조가 반응을 만든다.",
+        "큰 담론보다 작은 병목 하나를 해결해주는 포장 방식이 클릭으로 이어지기 쉽다."
+      ],
+      "transcript_highlights": [
+        "FlipaClip has added a new generator feature, which can call on models like XC Dance 2.0 and a 48-hour unlimited points event. So, it's a great time to create and explore more on the platform. And if you subscribe for a membership, you'll get an extra 100 points.",
+        "Obviously, no production team is required, and it's actually affordable. FlipaClip has added a new generator feature, which can call on models like XC Dance 2.0 and a 48-hour unlimited points event.",
+        "So, it's a great time to create and explore more on the platform. And if you subscribe for a membership, you'll get an extra 100 points."
+      ],
+      "top_comments": [
+        {
+          "video_id": "KaGXoHWpzUk",
+          "comment_id": "UgxTPP-Xu-10B3xKC-Z4AaABAg",
+          "author": "@SaiyanAce1",
+          "text": "we need the breaking bad game tef",
+          "like_count": 1,
+          "reply_count": 0,
+          "published_at": "2026-04-11T17:59:58Z"
+        },
+        {
+          "video_id": "KaGXoHWpzUk",
+          "comment_id": "UgwGfBE6NFb8zOWxwmJ4AaABAg",
+          "author": "@samuelwakshama3444",
+          "text": "Wow. This is amazing",
+          "like_count": 1,
+          "reply_count": 0,
+          "published_at": "2026-04-11T16:55:11Z"
+        },
+        {
+          "video_id": "KaGXoHWpzUk",
+          "comment_id": "UgyJoQqz4eg_MlpJEkR4AaABAg",
+          "author": "@AgeebAhmed-k",
+          "text": "Second",
+          "like_count": 0,
+          "reply_count": 0,
+          "published_at": "2026-04-11T16:35:23Z"
+        },
+        {
+          "video_id": "KaGXoHWpzUk",
+          "comment_id": "UgwKEvx-toY935tQgbV4AaABAg",
+          "author": "@Usualpuppet",
+          "text": "First!!!",
+          "like_count": 0,
+          "reply_count": 0,
+          "published_at": "2026-04-11T16:28:18Z"
+        },
+        {
+          "video_id": "KaGXoHWpzUk",
+          "comment_id": "UgxyuqRak76MaTnlQlR4AaABAg",
+          "author": "@tef-AI",
+          "text": "Link: https://www.flova.ai/?refCode=AHAFHKNM",
+          "like_count": 0,
+          "reply_count": 0,
+          "published_at": "2026-04-11T16:28:06Z"
+        }
+      ]
+    },
+    {
+      "video_id": "i16jwmtOkVU",
+      "channel_key": "ucw5e41hohysjfijc6dkfhgg",
+      "title": "강철의 연금술사 실사화 오프닝 | Fullmetal Alchemist: Brotherhood Live Action Opening 鋼の錬金術師 #ai #op #ost",
+      "description": "해당 영상은 AI로 제작한 팬메이드 영상입니다.\n사용한 툴: 나노 바나나 프로, 클링 3.0, Seedance 2.0, suno",
+      "published_at": "2026-04-11T12:54:01Z",
+      "duration_seconds": 124,
+      "view_count": 7489,
+      "like_count": 394,
+      "comment_count": 63,
+      "engagement_rate": 0.06102283348911737,
+      "thumbnail_url": "https://i.ytimg.com/vi/i16jwmtOkVU/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=i16jwmtOkVU",
+      "format": "뉴스 분석",
+      "hook_type": "문제 해결",
+      "title_pattern": "핵심 포인트 직설형",
+      "one_line_summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "why_it_works": "문제 해결 훅으로 관심을 끌고, 뉴스 분석 형식으로 내용을 빠르게 정리해 시청자가 '바로 써먹을 수 있다'고 느끼게 만듭니다.",
+      "recommendation": "훅 구조: 도입 15초 안에 '문제 해결' 관점으로 문제를 못 박고, 왜 지금 봐야 하는지 먼저 선언합니다. • 복제할 포장 요소: 뉴스 분석 형식을 유지하되 뉴스 분석를 실제 사용 장면 1개와 결과 변화 2개로 더 좁혀 설명합니다. • 비어 있는 콘텐츠 영역: '뉴스 분석가 내 작업 흐름에서 어디에 꽂히는가'를 사례 중심으로 보여주는 후속 영상이 비어 있습니다. • 추천 제목: 뉴스 분석 이슈를 내 채널 관점으로 다시 정리해보자 • 썸네일 카피 힌트: 뉴스 분석 지금 봐야 할 3가지",
+      "transcript_status": "available",
+      "transcript_source": "apify",
+      "transcript_language": "ko",
+      "transcript_text": "조용히 지금 가슴을 울려 이 끝까지 시험해보고 싶어 두렵더라도 나아갈 수 있다면 (금방이라도 흩어질 빛이라 해도) 이어가겠어 흔들리고 있는 이 마음을 꽉 붙잡고 놓지 않아 (아직 사라지지 않아) (이 마음은) 다시 한 번 빛이 있는 곳으로 지금 이대로 뛰어들 수 있어 떨릴 만큼 강한 이 마음 우리라면 바꿀 수 있어 (바꿀 수 있어) 희미해져 가던 목소리 끝에 아주 작은 온기만은 남아 있었어 잃어버린 게 너무 많더라도 (멀리 있는 빛을) 뒤쫓아가 금방이라도 풀어질 듯한 밤 속에서 답을 알 수 없는 상처를 끌어안고 그래도 아직 손을 뻗어 (찾고 있어) (알고 있어) 다시 한 번 빛이 있는 곳으로 망설임마저 뚫고 나가 상처의 흔적조차 힘으로 바꿔 우리라면 넘어설 수 있어 (넘어설 수 있어)",
+      "analysis_date": "2026-04-11T23:47:02+00:00",
+      "channel_name": "Fantasoner(판타소너)",
+      "topic_tags": [],
+      "keywords": [
+        "강철의",
+        "연금술사",
+        "실사화",
+        "오프닝"
+      ],
+      "tools": [],
+      "flow": [
+        "처음 15초 안에 문제를 선명하게 정의하고 왜 지금 봐야 하는지 못 박는다.",
+        "중간 구간에서 툴, 사례, 비교 포인트를 빠르게 제시해 정보 밀도를 높인다.",
+        "마지막에는 시청자가 바로 따라할 수 있는 다음 액션과 적용 예시로 닫는다."
+      ],
+      "claims": [
+        "단순 소개보다 실제 사용 장면을 바로 보여주는 구조가 반응을 만든다.",
+        "큰 담론보다 작은 병목 하나를 해결해주는 포장 방식이 클릭으로 이어지기 쉽다."
+      ],
+      "transcript_highlights": [
+        "해당 영상은 AI로 제작한 팬메이드 영상입니다.",
+        "사용한 툴: 나노 바나나 프로, 클링 3.0, Seedance 2.0, suno"
+      ],
+      "top_comments": [
+        {
+          "video_id": "i16jwmtOkVU",
+          "comment_id": "UgxbriBjmyB0Y_MLl1Z4AaABAg",
+          "author": "@doublepartv5044",
+          "text": "와..가둬놓고 최애 애니들 실사화만들게 하고싶다..",
+          "like_count": 41,
+          "reply_count": 2,
+          "published_at": "2026-04-11T13:10:44Z"
+        },
+        {
+          "video_id": "i16jwmtOkVU",
+          "comment_id": "Ugxo7UTgAZX128lUHXV4AaABAg",
+          "author": "@upbright82",
+          "text": "진짜 원작관계자 보고 영화 제작 의뢰해야 됨",
+          "like_count": 23,
+          "reply_count": 0,
+          "published_at": "2026-04-11T13:07:29Z"
+        },
+        {
+          "video_id": "i16jwmtOkVU",
+          "comment_id": "UgxoZu0ixh-Q4481FtV4AaABAg",
+          "author": "@noname-t7u",
+          "text": "이 사람 애니 만드는 곳에 스카웃될거같음...",
+          "like_count": 10,
+          "reply_count": 0,
+          "published_at": "2026-04-11T13:29:33Z"
+        },
+        {
+          "video_id": "i16jwmtOkVU",
+          "comment_id": "UgwKYH_AYxInk0qaOB14AaABAg",
+          "author": "@gantz50",
+          "text": "AI툴이 없던 한 5년전에 공개했으면 다들 실사화 영화나온줄 알았겠다 다른 채널들하고 퀄이 남다르네 진짜\n마크로스 해주세요",
+          "like_count": 6,
+          "reply_count": 0,
+          "published_at": "2026-04-11T15:28:33Z"
+        },
+        {
+          "video_id": "i16jwmtOkVU",
+          "comment_id": "Ugw8_2SspV60WcbUuOV4AaABAg",
+          "author": "@idvoqdvo",
+          "text": "이 채널이 진짜 맛도리임",
+          "like_count": 3,
+          "reply_count": 0,
+          "published_at": "2026-04-11T17:27:19Z"
+        }
+      ]
+    },
+    {
+      "video_id": "Y7W1UhMMmog",
+      "channel_key": "uced3hlydd0slcff7jj8tf3q",
+      "title": "Copy These Steps to Generate Realistic AI Videos (Everytime)",
+      "description": "Try Seedance 2.0 with special up to 70% off\nhttps://higgsfield.ai/s/seedance-2-0-aisamsonreal-DQhSpc\nThanks to Higgsfield for Sponsoring this video\n\nFree prompts from this video\nhttps://delightfuldesign.eo.page/hqbkd\n\n\nUnlock 15% Off All Courses\n\nUse code YOUTUBEFRIEND15 at checkout — limited time only.\n\nExplore AI video, design, storytelling, and more.\n👉 https://www.aifilmmaker.academy/shop-v3\n\nhttps://www.aifilmmaker.academy/\n\n\n💼Business inquiries \naisamsoninfo@gmail.com\n\n📧Join my newsletter\nhttps://delightfuldesign.eo.page/w7tf5",
+      "published_at": "2026-04-11T10:06:36Z",
+      "duration_seconds": 1069,
+      "view_count": 6539,
+      "like_count": 461,
+      "comment_count": 35,
+      "engagement_rate": 0.07585257684661263,
+      "thumbnail_url": "https://i.ytimg.com/vi/Y7W1UhMMmog/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=Y7W1UhMMmog",
+      "format": "뉴스 분석",
+      "hook_type": "문제 해결",
+      "title_pattern": "핵심 포인트 직설형",
+      "one_line_summary": "이 영상은 automation 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "why_it_works": "문제 해결 훅으로 관심을 끌고, 뉴스 분석 형식으로 내용을 빠르게 정리해 시청자가 '바로 써먹을 수 있다'고 느끼게 만듭니다.",
+      "recommendation": "훅 구조: 도입 15초 안에 '문제 해결' 관점으로 문제를 못 박고, 왜 지금 봐야 하는지 먼저 선언합니다. • 복제할 포장 요소: 뉴스 분석 형식을 유지하되 automation를 실제 사용 장면 1개와 결과 변화 2개로 더 좁혀 설명합니다. • 비어 있는 콘텐츠 영역: 'automation가 내 작업 흐름에서 어디에 꽂히는가'를 사례 중심으로 보여주는 후속 영상이 비어 있습니다. • 추천 제목: automation 이슈를 내 채널 관점으로 다시 정리해보자 • 썸네일 카피 힌트: automation 지금 봐야 할 3가지",
+      "transcript_status": "available",
+      "transcript_source": "apify",
+      "transcript_language": "en",
+      "transcript_text": "Most AI videos look fake, but the fact is creating realistic AI videos like these has never been easier. Yet, most people don&#39;t know how. Effective realism comes from choosing the right tools and using them in the right workflow. You don&#39;t need to be an AI expert, you just need to know the right process. And so, I&#39;ve compiled the best tools and prompts for you to use to quickly and easily create effective and realistic AI videos. And in this video, I&#39;ll teach you exactly how to create the most realistic AI videos possible. &gt;&gt; AI video just got real. And so, just how realistic can AI video get? Well, take a look at these and you can notice just how crisp the skin is. Take note of fine freckles, pores, and imperfections that give these a level of realism that makes them believable. Now, we&#39;re going to slowly build up our realism score, adding elements that are going to increase our video&#39;s quality until we get to the highest level possible. So, let&#39;s take a look at some common mistakes that people make using AI video. First of all, one thing that we get is highly saturated unnatural colors, where they&#39;re massively pushing the contrast and sharpness to unnatural levels. You&#39;ll also notice there is a high degree of airbrushing and ultra soft smooth skin. Now, another massively obvious detail of AI generated video is the unnatural camera movements. They&#39;ll have cameras unaturally floating in the air in a way that doesn&#39;t seem real. The next is of course, there is a matted quality to much of the fine details. You can see the hair here is overly matted. Beyond that, we&#39;ll have extremely unrealistic facial expressions. And when we have groups of people like in this instance, you&#39;ll see that they often walk in exactly the same manner, that there&#39;s no variety between the gate. You can see they&#39;re almost repeated, copy and paste. Now, beyond this, as you tend to look deeper into AI videos, you&#39;ll notice there are simple elements that just don&#39;t make sense. For example, if you follow this rope, first of all, you see this man is not even holding it. And second of all, you&#39;ll see that it&#39;s absolutely nonsensical the way that the rope trails around and then congregates in this large pile. So, there are simple physics here that make it obvious that this is not a real video. So, how do we overcome this? Well, one of the biggest tips I can give you is to make sure that you&#39;re using image to video. And this means instead of using a text prompt to directly create your video, you&#39;re first generating an image and using that to influence the video design. The advantage here is we know how the exact first frame will be, and we also have the option of adding a last frame. This means that we take out the gambling factor from AI video, and we&#39;re not randomly pulling a lever and imagining what we might get out. We have complete control over what happens. So, that means the first step is that we have to create effective images. If our images don&#39;t look realistic, then our video won&#39;t look realistic. So, there are a number of different effective AI image models to use. Each one has its own strengths and weaknesses, as well as having different interpretations of the same prompts. So, you can take one prompt and you can put it in an image generator and you&#39;ll get completely different results depending on which one you&#39;re using. Now, the workflow that I recommend using is to start off with Midjourney. And the reason for this is it&#39;s just released its brand new version 8 model, and I believe that the aesthetic, the taste of these images is the highest. Now, it doesn&#39;t have the highest realism, but we can go through a process that&#39;s actually going to enhance the realism of these. But what&#39;s most important is that we start off with something that looks good. Now, let me show you just a few examples coming out of Midjourney as to why it&#39;s so beautiful, that the aesthetics of these maintain a beautiful sense of cinematic quality, but also the level of realism is high enough that we can use this as a basis to move forward. You can see here the lovely quality of effects that we&#39;re getting out here. This wonderful color grading here. Because evidently, we&#39;re not just looking for realism, we also want something that is aesthetic. Now, to get effective images out of Midjourney, we need effective prompting. And that leads me on to the technique of meta prompting. And this is where we use an LLM to help us write specific articulate prompts that give us out a controlled output. And this is because Midjourney and many AI image generators work best if you&#39;re able to specify the exact look and feel and content that you&#39;re going for. Now, this requires you to think more like a photographer than a prompt writer. And what helps is having accurate specific vocabulary for elements like the camera types, the composition, the colors, and the setting. So, to do this, you can use any LLM. I have actually recently switched from ChatGPT to Claude, and I&#39;m now a Claude fanboy. I&#39;m curious which LLM are you using most, and please let me know in the comments. So, all you have to do is paste in this meta prompt. I&#39;m going to leave a link to this prompt and all the other prompts I use in this process in the description below for free, so you can follow along this entire process. And all you have to do is come to the brackets where it says insert idea, and then you put in your basic idea. So, I&#39;ve asked for a cinematic still of a young female British police officer in riot gear on the streets of London at a protest, smoke and flares in the background. Now, I&#39;m going to go ahead and send this in, and you can see we get this fantastic prompt come out, and it&#39;s pulled out a number of specific cinematic languages for us here that help enhance the scene. We can see the composition, she occupies the left third of the frame, the right third bleeds into chaos, the pavement reflects broken light. We&#39;ve got the exact camera it&#39;s shot on, an ARRI Alexa with 35 mm anamorphic lens. So, we can simply take this, go into Midjourney, and here&#39;s another trick is if you put {dash} {dash} R {space} 4 at the end, you get out 16 images. And this allows us to rapidly iterate. Now, the other great thing about the new Midjourney version 8 is that it&#39;s five times faster than our previous version. I&#39;ve done a recent breakdown and review of the entire Midjourney version 8 model, and I&#39;ll leave a link to that in the description below if you would like to watch that next. Now, what we have here are some stunning, beautifully cinematic, and realistic shots coming through. Now, starting off with realistic stills like this already takes our AI video up a notch. Now, the next most important step for this is to start to create other angles and shots for this scene that maintain a consistency. Because one thing that breaks believability in AI video instantly is when there is inconsistency between shots. If suddenly the character looks different, the location seems completely changed, or elements like the lighting or camera type change. These subtly break the illusion of reality. But what we can do is we can harness the power of Google Gemini 3 and Nano Banana 2 to handle this. Because whilst Midjourney is fantastic at creating individual images, Nano Banana 2 shines at creating whole collections of images that fit a theme. And this is where we&#39;re going to be using the technique known as grid prompting. And what this allows us to do is take a single image and then output a number of frames from different parts of a scene. So, you can see here are some examples that I&#39;ve created earlier for different projects. And this is one of a woman fighting a large snake, and here you can see her again in a different sequence. This is an example of me trekking through the Amazon rainforest. And then simply, the process works like this is once you&#39;ve created your grid, you can then ask the AI to export any of these at full resolution. So, you enter a prompt like export top left frame, and then you can get out this image. Now, I&#39;ve got a full video that breaks down this process into much more detail, but here&#39;s the condensed version. You can come into the prompt guide, make sure you take the grid prompting prompt, copy that, and you can paste it in. What we get out is an image like this. And as you can see, now we have nine different frames of our scene. What&#39;s important here is that we maintain consistent color grading, consistent characters, consistent locations, and a consistent aesthetic. Now, to extract these, all you have to do is drag it into the ingredient box, and then you&#39;re going to type in exactly which frame you&#39;d like to extract. Now, you can reference them via row, but you can also use the different initials. So, I will ask export middle row right image CU. Now, I&#39;ll go ahead and input that. At the same time, I&#39;ll export a few more. Now, we&#39;ve exported this close-up, and what we want to do is download it. So, we go to the three dots, then we go to download, and I suggest downloading in 2K upscaled. So, we&#39;ve got our beautiful image out, and we&#39;re getting a good degree of realism here. But one thing we can still enhance is the quality of skin. A dead giveaway for any AI video is this airbrushed perfect-looking skin that looks more like a doll than a human being. So, for that, there is a couple approaches. One is to use a tool called magnifica.ai, and I&#39;ll show you how this works. You can simply upload an image, select the exact upscaler that you want. I like the skin enhancer version 1 creative with zero degree of sharpen and 2% of grain. This is my favorite approach, and then you can upscale it. So, this is before the upscaling, and here is after. And you can see just instantly it&#39;s upgraded. We get a much more refined and focused output. If you look particularly at the lips here, just the wonderful cracks that come in. But we can use it on a number of different images. Here is another one. You can see a few beautiful little moles come in here. And again here, you can see we&#39;re getting much higher quality skin effect. It always adds a little bit of realism. Now, one thing to to in mind is that sometimes, if you have some sort of effects or features on the face, it can remove those. For For example, here we have a little blood splatter that gets turned into more of a uh should we say a birthmark. And in this instance, I had this lovely war paint, and you can see that it hasn&#39;t necessarily handled that so well. And in this instance, it entirely removed all of the war paint of this woman. So, that&#39;s something to bear in mind. Now, you can go ahead and download these. Now, the downside of Magnific is is that it&#39;s a pretty expensive tool to purchase, and it&#39;s only doing one thing. So, I wanted to show you an alternative. And that is from today&#39;s sponsor. Higgsfield AI is a place where you can access a number of different AI image, video, and audio models all in one place. It&#39;s one handy subscription that gives you a whole host of possibilities. And one of their tools I&#39;d love to show you is their skin enhancer. So, you can simply go ahead and upload your media, like we did before. And from here, you can select from three different skin types, soft, realistic, and imperfect. We&#39;re going to go with realistic. Now, that&#39;ll go straight in the queue, and after enhancing it, it looks like this. So, I&#39;m going to be showing you exactly how we can be using Higgsfield to generate our videos. So, what we can do is go ahead and import our image from before. Now, one of the most important decisions when creating AI video is selecting the right AI video model. Now, I&#39;m going to show you my two favorite models to use and explain exactly when to use each. Now, the first is Kling 3. And this is an excellent model that it has high-quality outputs and superior definition. It gives you up to 15-second generations. So, I can show you how our video comes out with that one, and it looks like this. But, the other model I wish to show you is a brand new model that&#39;s just come out globally on Higgsfield. And this is Seedance 2.0. Now, you may have seen this model sweeping the interweb with some of the most realistic AI video we&#39;ve seen. Just take a look at how incredible the physics of dynamic movements are in these examples. Here, you can see this first-person fencing example, and the quality of complex combat here is exquisite. And this model suddenly is the market leader for any type of extremely complex movement situations. However, one of the limitations of Seedance 2 is that it currently has very restrictive inputs, specifically around using real people and any IP. But, let me show you how they compare. And on the left, we will have Kling, and on the right, we have Seedance 2. Now, in this example, I would say that they are both on par with each other. We&#39;ve got a lovely fine detail and the ability to maintain consistency across the subject for the whole shot. But, let&#39;s take a closer look at a couple of other examples. This is a more challenging example, and it shows a woman with shadows across her face, and we&#39;re looking at how well Seedance 2 handles this. And we get the individual hairs coming through and the shadows maintaining a reaction to the contours of her skin. Now, with these complex lighting conditions, my preference is marginally for Kling 3. However, for dynamic combat, it is suddenly Seedance 2. Here, we also have a very close-up of a woman&#39;s mouth. This is Seedance 2. Just take a look at the beautiful individual hairs and pores maintaining their position. And with Kling 3, it&#39;s handling it equally well. So, in my mind, these are the two leading models, and I highly recommend that you use one of these two. But, if you&#39;re looking for dynamic movement, I suggest Seedance 2. For complex lighting situations, I think Kling 3 is the winner. Now, as you can see, we&#39;ve got a fantastic shot here that&#39;s maintaining excellent realism. We&#39;ve managed to refine the input image, and we&#39;ve also enhanced the skin texture. We&#39;ve then used first and last frame prompting with one of the most realistic AI video models there is to capture this cinematic and realistic shot. But, that&#39;s not all, because now we&#39;ve just got 3 seconds. What we really need is to have multiple clips that we can put together. Now, there is a quick way that we can generate many different shots in one single video prompt. And I&#39;m going to show you that, because it is powerful, but it can be somewhat temperamental. We can take our earlier grid prompt, and we can ask it to remove all text and borders inside of Nano Banana. Now, we&#39;re going to upload this grid prompt, and we&#39;re going to turn on multishot. From here, you can ask it to animate each frame for 1.5 seconds. Make sure you increase the length and go ahead and generate. Now, what this does, it will take each of the frames, and it will animate them individually. Now, this means that we maintain consistency and cohesion across all of these, as well as generating a whole sequence much more quickly. Now, alternatively, you can export each of these and refine them to improve the realism. It really means balancing up whether you&#39;re focusing on speed of generation or ultimate realism. Now, one of the biggest dead giveaways of AI video is a floating, drifting camera without any direction that a human being would never do. So, it&#39;s essential that we define precisely what is the camera movement we&#39;re looking for, so that we don&#39;t get this alien-like camera work. Now, for that, I&#39;ve included a whole list of camera movement terminologies that help you define what you&#39;re looking for. There is also this very handy tool inside of Higgsfield, which is if you come into Cinema Studio and then go to video, you can see that there is this tab that allows you to select from a whole host of different camera movement styles. You can even hover over them and see what that might look like. For example, camera follows comes with the protagonist, whereas pan left is moving outwards away from the subject. Orbit around circulates the character. Dolly in is this very smooth, gradual moving towards the subject. Jib up is where you have this long pole that is raising up and focusing on the sky. Theory 60 roll is a much more creative and rather disorientating effect, which is where we do a 360° rotation. Now, these can be used as a great basis for defining our camera movement, but I&#39;ve also left a link to a whole host of useful terms in the description below. Specifically, you can think about terms like handheld or tripod. You can also think about drone shot, and it really depends on what kind of look you&#39;re going for. The secret to creating realistic AI videos is thinking in systems as a director to create a process that allows you to access the strengths of these new tools. The best thing to do is to use image to video. Make sure that you&#39;re using meta prompting. Start off with extremely strong visuals. I suggest using Midjourney and then enhancing those with Magnific upscalers, as well as creating extra assets using Nano Banana Pro. We then want to make sure that we refine the camera movement as specifically as possible using the first and last frame and using the best AI video models, either Kling 3 or Seedance Pro 2. Doing all of this is going to take your AI videos up a whole number of levels. Seedance 2 is now available worldwide, and right now Higgsfield is offering up to 70% off. If you&#39;ve been waiting for AI video that actually looks real, this is the time. The link is in the description below. Now, if you enjoyed this video, then I invite you to watch this one next, which is all about how we can create fantastic 3D animations using AI. This is great if you&#39;re looking to create explainers or some specific effects in your own videos. You can download all of my prompts for free in the description below. But, most of all, I want to say thank you so much for watching. Thank you for being here, and have a delightful day.",
+      "analysis_date": "2026-04-11T23:47:03+00:00",
+      "channel_name": "AI Samson",
+      "topic_tags": [
+        "automation",
+        "coding",
+        "monetization",
+        "comparison",
+        "news"
+      ],
+      "keywords": [
+        "automation",
+        "coding",
+        "monetization",
+        "comparison",
+        "news",
+        "ChatGPT",
+        "Claude",
+        "Gemini"
+      ],
+      "tools": [
+        "ChatGPT",
+        "Claude",
+        "Gemini"
+      ],
+      "flow": [
+        "처음 15초 안에 문제를 선명하게 정의하고 왜 지금 봐야 하는지 못 박는다.",
+        "중간 구간에서 툴, 사례, 비교 포인트를 빠르게 제시해 정보 밀도를 높인다.",
+        "마지막에는 시청자가 바로 따라할 수 있는 다음 액션과 적용 예시로 닫는다."
+      ],
+      "claims": [
+        "단순 소개보다 실제 사용 장면을 바로 보여주는 구조가 반응을 만든다.",
+        "큰 담론보다 작은 병목 하나를 해결해주는 포장 방식이 클릭으로 이어지기 쉽다."
+      ],
+      "transcript_highlights": [
+        "And with Kling 3, it's handling it equally well. So, in my mind, these are the two leading models, and I highly recommend that you use one of these two. But, if you're looking for dynamic movement, I suggest Seedance 2.",
+        "Doing all of this is going to take your AI videos up a whole number of levels. Seedance 2 is now available worldwide, and right now Higgsfield is offering up to 70% off. If you've been waiting for AI video that actually looks real, this is the time.",
+        "Most AI videos look fake, but the fact is creating realistic AI videos like these has never been easier. Yet, most people don't know how."
+      ],
+      "top_comments": [
+        {
+          "video_id": "Y7W1UhMMmog",
+          "comment_id": "UgysCPDgtZfeYlQ2NKR4AaABAg",
+          "author": "@karem-u3y",
+          "text": "Love the tip on first and last frame prompting for control. Managing the cost of premium AI tools can be tough, but Omnely is the ultimate all-in-one solution for serious creators.",
+          "like_count": 12,
+          "reply_count": 0,
+          "published_at": "2026-04-11T21:14:14Z"
+        },
+        {
+          "video_id": "Y7W1UhMMmog",
+          "comment_id": "Ugwi3XECvx4KpHGioWt4AaABAg",
+          "author": "@ldevs430",
+          "text": "3:34 I 100% agree with the point about Midjourney v8",
+          "like_count": 3,
+          "reply_count": 0,
+          "published_at": "2026-04-11T11:46:09Z"
+        },
+        {
+          "video_id": "Y7W1UhMMmog",
+          "comment_id": "Ugx5ZEaM5E8e4XEZJht4AaABAg",
+          "author": "@DavidPeyrouty",
+          "text": "It's always a pleasure to watch your videos! Thank you for all the time you spend creating such high-quality content for us...",
+          "like_count": 1,
+          "reply_count": 1,
+          "published_at": "2026-04-11T10:28:43Z"
+        },
+        {
+          "video_id": "Y7W1UhMMmog",
+          "comment_id": "UgwOqUPwkb0uHTHXO_t4AaABAg",
+          "author": "@KarateMamaLee",
+          "text": "basically summarized to: Use Magnific for the photo, then run it in Seedance2 or Kling3",
+          "like_count": 1,
+          "reply_count": 0,
+          "published_at": "2026-04-11T15:26:41Z"
+        },
+        {
+          "video_id": "Y7W1UhMMmog",
+          "comment_id": "UgzJ62vATTiKW-K2H2x4AaABAg",
+          "author": "@ahmadrase-w2y",
+          "text": "Realism comes from using the right workflow across different tools. Instead of paying for a dozen separate AI platforms, Omnely lets you access elite models for images and video all-in-one.",
+          "like_count": 0,
+          "reply_count": 0,
+          "published_at": "2026-04-11T21:13:46Z"
+        }
+      ]
+    },
+    {
+      "video_id": "1dB7cZ3siPE",
+      "channel_key": "uc-rovkmk0ocbuzja8f08opw",
+      "title": "The Most Anticipated Gemini Feature is Here",
+      "description": "*Free: 20+ NotebookLM Tricks for Content Creation & Productivity* https://clickhubspot.com/gmhr\n\nSummary:\nGemini and NotebookLM just merged and it's awesome. This video walks through exactly how Notebooks work inside Gemini, how they sync with NotebookLM, and when to use each tool depending on what you're trying to do. I cover every step, plus more unique and advanced real world examples.\n\nChapters\n0:00 Intro\n0:25 Overview\n1:01 What is NotebookLM?\n2:13 Creating a notebook: basics and customization\n4:34 Jumping between NotebookLM and Gemini\n6:29 Quick tips\n7:12 Use Case 1\n8:40 Use case 2: highlighting the differences",
+      "published_at": "2026-04-11T06:06:51Z",
+      "duration_seconds": 680,
+      "view_count": 19167,
+      "like_count": 742,
+      "comment_count": 43,
+      "engagement_rate": 0.04095580946418323,
+      "thumbnail_url": "https://i.ytimg.com/vi/1dB7cZ3siPE/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=1dB7cZ3siPE",
+      "format": "비교",
+      "hook_type": "문제 해결",
+      "title_pattern": "핵심 포인트 직설형",
+      "one_line_summary": "이 영상은 automation 이슈를 비교 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "why_it_works": "문제 해결 훅으로 관심을 끌고, 비교 형식으로 내용을 빠르게 정리해 시청자가 '바로 써먹을 수 있다'고 느끼게 만듭니다.",
+      "recommendation": "훅 구조: 도입 15초 안에 '문제 해결' 관점으로 문제를 못 박고, 왜 지금 봐야 하는지 먼저 선언합니다. • 복제할 포장 요소: 비교 형식을 유지하되 automation를 실제 사용 장면 1개와 결과 변화 2개로 더 좁혀 설명합니다. • 비어 있는 콘텐츠 영역: 'automation가 내 작업 흐름에서 어디에 꽂히는가'를 사례 중심으로 보여주는 후속 영상이 비어 있습니다. • 추천 제목: automation 이슈를 내 채널 관점으로 다시 정리해보자 • 썸네일 카피 힌트: automation 지금 봐야 할 3가지",
+      "transcript_status": "available",
+      "transcript_source": "apify",
+      "transcript_language": "en",
+      "transcript_text": "We just got my favorite update to Gemini ever. They finally implemented a way to organize all your chats, but not in the way most people expected. ChatGPT and Claude have had a feature called projects for this, and they have for a while, but Gemini did things very different. They merged it with Notebook LM, which is one of my favorite AI tools. So, this completely changes how I&#39;ll be using Gemini moving forward. It&#39;s much more than just organization. These are on the left sidebar under notebooks. This isn&#39;t rolled out on the free plan yet. They said it will be over the coming days or weeks. But, if you&#39;re on a paid plan, they should be there now. And as you can see, if I click over to Notebook LM, these are all the same notebooks. That&#39;s where I actually created most of these. So, all the same ones are here in Gemini. And when I&#39;m in one of these, it will save all of my chats with that notebook below. So, I can return to them and have all my conversations on a given topic in one place. I&#39;ll show all the details here, how they connect, when you should use Gemini over Notebook LM, why this is more than just an organizational feature and all of that. But, first, just to make sure we&#39;re all on the same page, if you haven&#39;t used Notebook LM, it&#39;s a platform where you can create a notebook and select all the sources you want that notebook to have access to across all sorts of formats, websites, PDFs, YouTube videos, and more. Then, when you ask questions, it only uses your uploaded sources to answer those questions. And it has inline citations, so you can find exactly where that information came from to double-check and to see it in context. Then, one of the best parts is the studio panel, where you can transform that information into all sorts of different formats, podcasts, infographics, slide decks, video overviews, mind maps, and many others. It&#39;s an amazing tool, and there&#39;s pros and cons to using Notebook LM alone or to using Gemini alone. This update helps bridge that gap. I did a quick explanation of what Notebook LM is, but if you haven&#39;t used it yet, we have a free resource for you. It covers 20 tips for using Notebook LM in your content and productivity workflow, things like repurposing content, researching competitors, or getting through a long report without reading the whole thing. There&#39;s a bunch more in there. It&#39;s a great place to start if you&#39;ve never used it, or to get more ideas and use cases if you have. That&#39;s a free resource, just click the link in the description. So, let&#39;s create a notebook from scratch in Gemini to see everything from the start. Click new notebook on the left or on the right, and we&#39;ll give this a name. How about we make a notebook about Artemis. Now that that&#39;s created, I can click add sources. Now, I&#39;m able to upload files, add from drive, websites, or copied text. For this one, I will do websites. Then, I&#39;ll paste in some links. This one was kind of an overview of everything. We&#39;ve got one that&#39;s all about the crew. We&#39;ve got one that goes deeper into the Orion spacecraft. I&#39;ll also do a YouTube video. This is the one I just watched from Hank Green, where he covered all the best pictures they&#39;ve sent back and what was interesting about them. It was an awesome video. That&#39;s good for now. I&#39;ll click insert. And now, those will all be sources my notebook can reference. And if you just want to use notebooks for organizational purposes, you don&#39;t have to upload sources at all. Next, I can come up to the three dots, click notebook settings. Now, I have some options. First is use notebook memory, where it will consider all the chats in this notebook when responding. I&#39;ll typically leave this on. One of the reasons I create projects and now notebooks is to group relevant chats together. So, I usually want that on, and it will build context over time across chats. And the next one was instructions. And this could be anything, like the tone you want Gemini to respond in, the format, details about you or your business, what knowledge level you have on the topic. This will be completely different depending on what you&#39;re doing. And if you&#39;re ever stuck on what all you want to put in here, just jump into Gemini. Tell it what type of notebook you&#39;re creating and ask it what would be useful to add. Just have a back and forth, iterate, and answer any questions it might have, and Gemini will help you come up with the best instructions. Now, I don&#39;t really need much for a notebook like this one, just something simple. I have moderate knowledge of space, but I&#39;m not an engineer. This is an evolving topic. Use the sources, but also search for new information when answering. That should be good. I&#39;ll save that. Now, when I ask a question, it will reference all the source material, plus it will acknowledge my custom instructions. It will search for updates and then respond. In my question, I didn&#39;t mention that I was talking about Artemis. It already knew and it had that context. This is a simple example, just to show each feature. If I just asked this question in Gemini, I wouldn&#39;t have to add that much to the prompts to get a good answer as well. I will show more customized examples later. But, if I go back, this is now listed in the chat history. I could jump back in to continue that conversation. And then, any new chat I start will be here as well. Now, I can jump right into Notebook LM by clicking the button Notebook LM up top. And now, I can see everything I just did with that notebook is now here as well. It has all those sources, and then even has the chats from Gemini listed under the sources. And depending on how my chat went, a lot of times I will want to uncheck those chats as a source, so I&#39;m only using those official uploaded sources for it to cite from my chats. Depends on what you were chatting about. But, now I can use all the features that are unique to Notebook LM. I&#39;ll have all of these inline citations, so I can see exactly where all this came from. And something I like in Notebook LM, which is pretty new, actually, it didn&#39;t have all of the information it needed within these sources, so it searched for more. And it listed all of those sources that I can easily import with just a click. You do just want to double-check to make sure everything it found is a good source. You can always uncheck or delete something you don&#39;t like. For a topic like this, I generally prefer Notebook LM for all the structured learning aspects and visualizations. Like these infographics are absolutely amazing. But, one place it differs a lot is the chatting experience. The feature where it searches for that updated information is new, but it&#39;s still a little slower, and so is every back and forth you have. And just its default way of speaking is a lot more educational and cites all those sources, which is amazing for learning and memorizing a lot of the different aspects. Notebook LM is great for that, but in Gemini, it&#39;s a lot better for the conversations that are more creative, involve reasoning, and multi-step planning. It&#39;s a very different style, plus it&#39;s a lot faster. I mean, in this case, I just want some quick updates, cuz I know they&#39;re supposed to be coming home sometime today. So, I can get that answered nice and quick. If I asked that in Notebook LM, it does answer, but this took much longer. And I will mention that those chats from Gemini are all in Notebook LM, but the chats from Notebook LM aren&#39;t in Gemini automatically. If you want them to be there, you need to click save to note first, and then click convert to source. Now, that will become part of the source database, which will then be accessible in Gemini. Just a couple other quick things. You can pin up to five notebooks, then those will all be easily accessible on the sidebar. Then, the one down below will be the most recent notebook you&#39;ve opened. Also, if you rename a notebook in Gemini, it will be renamed right away in Notebook LM, and vice versa. All that stuff is connected, which also means that if you delete a notebook in one, it will delete it in both. Also, you can come down to any previous chat and click add to notebook. You select the notebook you want it added to, and then it will be removed from your chat history, and will only be accessible within that notebook. And also, there is the ability to add a notebook as a source when you&#39;re in a standard chat. I think the only time I&#39;ll use this now is when I need to use multiple notebooks as a source, which is pretty rare. That&#39;s all the basics, but I want to show a couple other notebooks that I&#39;ve already built out to better emphasize what&#39;s different here. So, here&#39;s one I made that has a bunch of PDFs that are hundreds of pages long about growing food in Utah specifically. I made this because I have some little gardening beds in the back that were left over from the landlord who lived here previously. So, using all of that information to ground the notebook, plus some images of the area I have to work with, we developed a plan with what would grow well there, and then I added that plan as a source. Now, I&#39;m just going to redo a chat I had yesterday. So, I was going to get everything ready to follow through on that plan we made now that it&#39;s the right time of year. But, something I noticed was that they are right next to the fence, so they&#39;re in the shade until like 5:00 p.m. So, I asked if that changes things, and it definitely does. And again, I don&#39;t have to remind it what the plan is, because I have that as one of the sources. It knows exactly what I&#39;m talking about. Plus, it knows where I am and all the Utah-specific resources I upload that go much deeper. So, that context is baked in without having to remind it or have one super long chat. But, since I&#39;m in Gemini and I want to rework that plan, I could just snap a quick photo and drop that in, which I can&#39;t do in Notebook LM, and then do that quick back and forth figuring things out. One other notebook I&#39;ll show will have an even wider gap on the reason for using my notebook in Gemini over Notebook LM. Now, I will mention this example and the previous one are both things I had built into a gem before. I did that because you can use Notebook LM as part of your knowledge base in a gem. But, I&#39;m moving all of this stuff over to the new feature now, because it&#39;s much more streamlined and a smoother experience. So, I have a YouTube strategist notebook, and I&#39;ll show how I created this first. In YouTube Studio, there&#39;s a export all your analytics onto a spreadsheet. From that spreadsheet, I organized by view count and copied the top 25, then pasted that into Notebook LM. And just from that, it automatically pulls in all the transcripts at the same time. Then, I also dropped in a PDF of the analytics themselves. So, now, this notebook has access to my full current analytics and the transcripts from my 25 best-performing videos, built in a couple minutes. But, you can probably guess at least one of the issues right away if I chat with this in Notebook LM. If I analyze what made these videos perform well and how I could apply that to a new video, although it can search like I showed, it&#39;s not really optimized for this type of search, where it needs to understand everything that&#39;s current in the AI landscape and find outlying news articles and trending tools. Now, its answer in Gemini does the same thing, but it&#39;s just a better answer. You know, they&#39;re both pretty long, so I don&#39;t want to sit here and just read through the whole things. But, just another type of chatting that Gemini is better at than Notebook LM is the creative side of things. So, say I like one of these ideas. Let&#39;s go with the vibe coding and AI studio idea. Write me some good hooks for the intro. Most people think you still need to learn Python or JavaScript to build your own AI tools, but they&#39;re missing the biggest shift in software history. It goes on, definitely not bad, and there&#39;s a total of four different options. And they&#39;re all pretty solid. Gives a much more creative response than Notebook LM would. Another thing it would excel at is analyze my notebook and develop a 30-day strategy to grow my channel. This sort of multi-step planning and reasoning is a lot better in Gemini as well. And in this notebook, something I didn&#39;t mention is I do have custom instructions in here. Tells it to act as a YouTube strategist, says how to respond, what to look for, what my channel&#39;s about, what topics I like to cover, just all of that information. So, it&#39;s a YouTube strategist with full access to my channel&#39;s information and context about me and the channel. Now, on top of the different ways to just chat in Gemini, you also have access to all sorts of other features. A big one is canvas. So, I could jump into scripting mode. Like say I had a draft of a script, I could ask it to open that in canvas. Then I have all of the document editing features plus Gemini on the side where I can ask for iterative changes. Now, a lot of people know that the canvas works for writing, but it can do a lot more than that. Can build out all sorts of things. Like it could be a custom dashboard for those analytics, or it could be a content planning calendar, anything I want. All grounded in the actual data from my notebook. I just ask for it in natural language and Gemini builds it right here. Then I can ask for changes and new features. So, this will completely change how I use Gemini and Notebook LM moving forward. I think this is an amazing new feature, but is probably a lot different than many people were expecting. I focused more on Gemini here, but I do have a full deep dive into every aspect of Notebook LM. I&#39;ll link that right here if you want to go deeper into that.",
+      "analysis_date": "2026-04-11T23:47:00+00:00",
+      "channel_name": "Futurepedia",
+      "topic_tags": [
+        "automation",
+        "research",
+        "coding",
+        "transcript",
+        "comparison",
+        "news"
+      ],
+      "keywords": [
+        "automation",
+        "research",
+        "coding",
+        "transcript",
+        "comparison",
+        "news",
+        "ChatGPT",
+        "Claude"
+      ],
+      "tools": [
+        "ChatGPT",
+        "Claude",
+        "Gemini",
+        "Arc"
+      ],
+      "flow": [
+        "처음 15초 안에 문제를 선명하게 정의하고 왜 지금 봐야 하는지 못 박는다.",
+        "중간 구간에서 툴, 사례, 비교 포인트를 빠르게 제시해 정보 밀도를 높인다.",
+        "마지막에는 시청자가 바로 따라할 수 있는 다음 액션과 적용 예시로 닫는다."
+      ],
+      "claims": [
+        "단순 소개보다 실제 사용 장면을 바로 보여주는 구조가 반응을 만든다.",
+        "큰 담론보다 작은 병목 하나를 해결해주는 포장 방식이 클릭으로 이어지기 쉽다."
+      ],
+      "transcript_highlights": [
+        "So, this will completely change how I use Gemini and Notebook LM moving forward. I think this is an amazing new feature, but is probably a lot different than many people were expecting.",
+        "I think this is an amazing new feature, but is probably a lot different than many people were expecting. I focused more on Gemini here, but I do have a full deep dive into every aspect of Notebook LM. I'll link that right here if you want to go deeper into that.",
+        "You know, they're both pretty long, so I don't want to sit here and just read through the whole things. But, just another type of chatting that Gemini is better at than Notebook LM is the creative side of things. So, say I like one of these ideas."
+      ],
+      "top_comments": [
+        {
+          "video_id": "1dB7cZ3siPE",
+          "comment_id": "UgwUsyPdniD-ncffY9J4AaABAg",
+          "author": "@insurancecasino5790",
+          "text": "I redesigned my yard and even made it look like a google listing. The instructions AI can handle now is amazing.",
+          "like_count": 1,
+          "reply_count": 0,
+          "published_at": "2026-04-11T12:48:48Z"
+        },
+        {
+          "video_id": "1dB7cZ3siPE",
+          "comment_id": "UgwPojzmiyo8mhInIYt4AaABAg",
+          "author": "@Gandalf-the-Wight",
+          "text": "I’m currently buzzing on this feature and unable to sleep so this video could not be more perfectly timed 😂",
+          "like_count": 1,
+          "reply_count": 0,
+          "published_at": "2026-04-11T06:17:50Z"
+        },
+        {
+          "video_id": "1dB7cZ3siPE",
+          "comment_id": "Ugxvmz3oXtaQJtPsoKh4AaABAg",
+          "author": "@LongLiveEnduro",
+          "text": "Thank you so much for mentioning Hank Green and his amazing video ....🙏",
+          "like_count": 0,
+          "reply_count": 0,
+          "published_at": "2026-04-11T07:30:41Z"
+        },
+        {
+          "video_id": "1dB7cZ3siPE",
+          "comment_id": "Ugx81yIaOySp7skegKF4AaABAg",
+          "author": "@thewebstylist",
+          "text": "Oh I gotta Dig IN to this 100!!",
+          "like_count": 0,
+          "reply_count": 0,
+          "published_at": "2026-04-11T06:30:34Z"
+        },
+        {
+          "video_id": "1dB7cZ3siPE",
+          "comment_id": "UgxauJIHtqMl-IzY_xd4AaABAg",
+          "author": "@futurepedia_io",
+          "text": "*Free: 20+ NotebookLM Tricks for Content Creation & Productivity* https://clickhubspot.com/ckfe",
+          "like_count": 0,
+          "reply_count": 0,
+          "published_at": "2026-04-11T06:04:49Z"
+        }
+      ]
+    },
+    {
+      "video_id": "NgeEB9WYT9U",
+      "channel_key": "ucen2yejcbcrjoxgzf-ou3qw",
+      "title": "메타, AI 드림팀 첫 모델 Muse Spark, 성능 경쟁이 중요한 게 아닙니다…. 쇼핑, 스마트글래스 다 먹겠다! 모든 SNS와 스마트글래스까지",
+      "description": "이번 영상에서는 메타 AI 드림팀이 처음으로 공개한 Muse Spark를 분석합니다.\n많은 사람들이 모델 성능에 집중하지만, 이번 발표의 핵심은 그게 아닙니다.\n메타는 단순히 더 똑똑한 AI를 만드는 것이 아니라 방향 자체를 바꾸고 있습니다.\n특히 Instagram, Facebook, Threads 같은 플랫폼과의 결합이 핵심입니다.\nAI가 단순한 질문 응답을 넘어서 추천과 탐색의 중심으로 들어오기 시작합니다.\nMessenger와 WhatsApp에서는 실제 작업을 대신 처리하는 구조로 발전하고 있습니다.\n멀티모달과 카메라 기반 AI가 왜 중요한지도 함께 설명합니다.\n이 모든 흐름이 메타의 비즈니스 모델과 어떻게 연결되는지도 짚어봅니다.\n결국 이번 모델은 성능 경쟁이 아니라 플랫폼 경쟁의 시작입니다.\n메타가 왜 다른 방식으로 AI를 풀고 있는지 전체 그림을 정리했습니다.\n\nWritten by Error\nEdited by 이진이\n\nunrealtech2021@gmail￼.com",
+      "published_at": "2026-04-11T05:52:15Z",
+      "duration_seconds": 766,
+      "view_count": 6791,
+      "like_count": 177,
+      "comment_count": 11,
+      "engagement_rate": 0.02768369901340009,
+      "thumbnail_url": "https://i.ytimg.com/vi/NgeEB9WYT9U/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=NgeEB9WYT9U",
+      "format": "뉴스 분석",
+      "hook_type": "문제 해결",
+      "title_pattern": "핵심 포인트 직설형",
+      "one_line_summary": "이 영상은 agents 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "why_it_works": "문제 해결 훅으로 관심을 끌고, 뉴스 분석 형식으로 내용을 빠르게 정리해 시청자가 '바로 써먹을 수 있다'고 느끼게 만듭니다.",
+      "recommendation": "훅 구조: 도입 15초 안에 '문제 해결' 관점으로 문제를 못 박고, 왜 지금 봐야 하는지 먼저 선언합니다. • 복제할 포장 요소: 뉴스 분석 형식을 유지하되 agents를 실제 사용 장면 1개와 결과 변화 2개로 더 좁혀 설명합니다. • 비어 있는 콘텐츠 영역: 'agents가 내 작업 흐름에서 어디에 꽂히는가'를 사례 중심으로 보여주는 후속 영상이 비어 있습니다. • 추천 제목: agents 이슈를 내 채널 관점으로 다시 정리해보자 • 썸네일 카피 힌트: agents 지금 봐야 할 3가지",
+      "transcript_status": "available",
+      "transcript_source": "apify",
+      "transcript_language": "ko",
+      "transcript_text": "어떤 추천이라든가 경험 같은 데이터들이 있잖아요. 이걸 그대로 안 두겠다는 거예요. AI를 통해 가지고 이런 프론티어급의 모델에 돌려서 붙여 갖고 훨씬 더 좋은 경험성을 보이겠다. [음악] 네, 여러분 반갑습니다. 에러입니다. 메타가 라마를 2024년도에 내고 그 이후로 굉장히 오랜만에 뮤즈 스파크라는 새로운 모델을 공개를 했습니다. 이게 한동안 안 나왔던게 메타가이 업계에 있는 AI 인력들을 싹 끌어 모아 가지고 드림팀을 한번 만들었잖아요. AI 드림팀 슈퍼 인텔리전스 랩이라고 하는 곳을 만들어 갖고 알렉산더 왕이라는 굉장히 그 어린데 똑똑하신 분 모셔 가지고 아예 처음부터 새롭게 시작했다라고 하는데 성능이 프론티어급에 준하는데 사실 성능만 딱 보고 야 뭐 새로 나왔다는데 뭐 약하네 요렇게 해설하고 관심이 없으신 분들도 많거든요. 근데 사실 이번 메타 모델의 핵심은 이게 성능이냐 오픈 웨이트냐 이것보다이 메타가 가지고 있는이 소셜 미디어 앱들 있잖아요. 그러나 커뮤니티 글이라든가 아니면은 이제 지금 같이 보시는 이런 레이벤 디스플레이 같은 요런 글래스들이라든가 기기들 여기에 AI를 어떻게 굴릴지가 핵심인데 이거에 대한 굉장히 성능 좋은 거 그리고 빠르게 돌릴 수 있는 메타의 AI 적용처를 드디어 찾아내서 제대로 준비하고 있다라는 생각이 들어서 올해 메타 커넥트에서 나올 발표들이라는게 굉장히 기대가 되기 시작했습니다. 저는 스마트 글래스에 굉장히 관심이 많은데이 스마트 글래스에 적용할 뭐 그냥 좀 좋은 모델 한 개에 뭐 나타냈다 이런게 아니라 지금 보시는 요런 다양한 애들 메타는 그야말로 소셜 미디어의 재왕이잖아요. 그럼 소셜 미디어도 있고 스마트 글래스 같은 요런 카메라가 들어가는 요런 하드웨어도 있고 이런 각각에 들어가는 거에 들어갈 수 있는 AI 레이어를 새롭게 처음부터 제대로 만들었다라고 보시는게 좋을 것 같아요. 굉장히 그 목표 지향적이 있는 거죠. 그래서 이거를 뭐 제미나이를 이기려고 했다, 채피를 이기려고 만들었다 이런 식으로 해석하시면 좀 곤란하고 그 배경에 깔려 있는 것들을 메타가 실제로 발표한 내용들을 토대로 해서 한번 좀 살펴보도록 하겠습니다. 바로 이분이죠. 알렉산더 왕이라고 하는 10대 때부터 이제 천재라고 알려져 가지고 시프 AI 오피서로 선정돼서 스케일 AI 원래 파운더였고 그래서 이분이 AI 드림팀 슈퍼 인텔리전스 랩에서 이끌면서 뮤즈 스파크를 지금 내 놓은 것이 돼 있습니다. 기본적으로 메타에서 공격적으로 낸 자료들을 보시면은 오프스 4.6 맥스라든가 제미나이 3.1 GPT 5.4 이런 애들보다도 물론 이게 파란색들이 칠한다고 돼 있어서 파란색이 제일 좋은 거를 얘기한 거 아니에요. 자세히 보시면은 제미네 3.1% GPT 5.4보다 낮은 수치죠. 어 근데 준수한 성적을 거두는 걸로 확실히 볼 수가 있으면 더 좋은 것도 있고 약간 요거 트리이지 않았나 싶은데 예를 들어 요런 거 같은 경우도 얘네들보다는 전반적으로 낮은 점수들이 있는 것들이 있죠. 그리고 휴머니티 라스트 그 점도 굉장히 많이 올라온 거 보이십니까? 휴트라스 50점 2점까지 이제는 뭐 이런 것들이 워낙 많이 올라와 가지고 옛날에 막 10점대 이랬는데 이걸로서 이해를 할 수 있다라는 거는 우리 이제 그 약간 편차가 없잖아요. 뭔가 이제 나하고 맞는 거를 얼마나 잘 알아듣냐 할루시네이션 없냐 이런 걸로 많이 평가를 하기도 하는데 대체로 지금 주나는 가장 프론티어 모델들과 비유를 해 봤을 때 손색이 없는 벤치마크 점수를 보여준다라는 결론을 내릴 수가 있겠죠. 실제로 웹에서 이렇게 보시면은 이게 오리지널 메타 AI를 만든 건데 요게 제미나이 3.1프로 하이로 만들어 본 거고 요게 뮤즈 스파크로 만드 거고 어 꽤 잘 나오죠. 메타크라서 그런지 잘 모르겠지만도 어 약간이 차이가 있는데 요거 그래도 잘 만든 거 보이십니까? 아니면 이미지를 코드로 바꾸는 것도 굉장히 인상적으로 잘 만든다라는 것도 볼 수가 있겠고 그다음에 이런 것도 아이폰에 들어가는 것도요 그림 이미지를 보고 코딩을 한다는 겁니다. 그러니까 멀티모델리티를 기본적으로 지원을 하고 있어요. 왜 그런지 아시겠죠? 메타는 소셜 미디어라든가이 이미지를 바로 처리를 해야 되기 때문에 요걸 어떻게 잘 해석할 수 있는 능력을 가지고 있느냐가 굉장히 중요하겠죠. 그러니까 굉장히 그 목적이 딱 명확하게 돼 있는 거예요. 어떻게 보면은. 그래서 단순히 이런 것들만 보더라도 굉장히 좋은 모델이다라는 거를 판단할 수가 있고 이제 저도 이런 거 잘 안 올려 드리잖아요. 뭐 A의 모델이라고 저거 이렇게 자세히는 말씀 안 드리는게 다들 봐도 막 그냥 그렇겠지 이렇게 해석을 하거든요. 수준급이다. 이렇게 이해를 하고 계시면 됩니다. 일단은 이게 메타 슈퍼 인텔리전스 랩에서 처음으로 뮤즈라는 이름으로 시리즈를 지금 낸 거잖아요. 요거는 스파크 버전을 지금 낸 거고 앞으로 또 이렇게 나오겠죠. 근데 이게 그냥 오픈 메이트가 아니에요. 지금 이제 북미에서만 지금 할 수 있는 메타 AI 앱이 있거든요. 우리나라에서 지금 안 되죠. 이게 그래서 관심도 더 더욱 많이 없으실 수도 있는데 앞으로 이게 와이라든가 인스타그램, 페이스북, 메신저, AI, 글래스까지 쭉 확장을 할 거라는 계획을 갖고 있으니까 동시에 또 요거 API 같은 경우도 그냥 공개한게 아니라 좀 정해진 파트너들한테만 공개를 했다고 하더라고요. 그러니까 예전에 그냥 오픈 웨이트보 그냥 퍼다 주는 거랑은 약간 좀 느낌이 다른 형태가 되고 있다라고 볼 수가 있겠고요. 자, 인상깊은 그림들이 몇 개가 있는데 첫 번째는 요거 이게 코드 베이스 연산 효율성을 얘기를 하는 건데 자, 세로축이요 값이 낮을수록 훨씬 더 방대한 코드를 더 정확하게 효율적으로 이해한다는 뜻이에요. 그래서 컴퓨팅량을 쭉쭉쭉쭉 늘려다 보니까 경쟁 모델 대비해서 10.3배, 8.2배, 3.3배 그러니까 굉장히 컴퓨팅을 드리는데 적은 자원으로 해결할 수 있다라는 거죠. 메타 같은 경우에는 수 10억명 중보까지 합치면 수백억 명까지이 계정들이 계속 활성화되면서 엄청나게 많은 AI 추론이 필요할 텐데이 코스트 자체를 세이빙하는게 굉장히 중요하다라는 거죠. 이게 이전에 라마 4 메리 베이스도 그렇고 딥스크 3.1 키미 케이터 같은 것들 보기 했을 때 짝짝 훨씬 더 이쪽으로 당겨온다. 가로축의 컴퓨트 양이 로그잖아요. 그러니까 1로 떨어지면 떨어질수록 굉장히 많이 떨어진 겁니다. 요만큼 차이가 안 나는 것처럼 보이지만 열배 여덟 배 막 이렇게 차이가 나죠. 그러니까 컴퓨팅을 적게 하면서도 굉장히 무거운 코딩 작업을 잘해낼 수 있다라는 걸 얘기를 하는 거고요. 그다음에 여기 있는 스케일링베이션이라고 하는 거는 자, 학습 단계를 계속 반복하면서 하면 할수록 훈련 데이터와 보지 못하는 평가 데이터 이게 헬드 아웃이라고 그러는데요 두 군데에서 꾸준히 다 성능이 오르고 있다라는 걸 보여주죠. 그니까 강학스 기반으로 했던게 굉장히 모델의 성능을 안정적으로 끌어올린다라는 그 결과도 보여줬고요. 그다음에 AI 2025 에볼루션도이 재밌는게이 쭉 가잖아요. 쭉 길이를 했다가 다시 압축을 시켜서 줄인 다음에 다시 생각을 해서 성능을 더 올렸다는 거죠. 굉장히 재밌죠. 더 짧은 길이로도 높은 정확도를 유지하는 법을 터득을 했다라는 말입니다. 그리고 요것도 재밌는게 휴메이트 라스트 이그잼을 자 에이전트 요즘 하네스 유명하잖아요. 굉장히 하네스 구조를 이미 많이 도입을 하고 있는데이 애큐러스가 한 개일 때보다 두 개네 개 16개 이렇게 여러 에이전트를 이용해서 협업해 갖고 하도록 만들다 보니까 굉장히 점수가 많이 오르더라라는 부분들. 자 이거는 한네스 엔지니어링 쓰면 다 되네 이렇게 해석을 하실 수도 있겠지만 그 하네스를 잘 쓰는 방법을 터득했다라고도 이해를 할 수가 있겠죠. 물론 지연 시간이 늘어나긴 합니다. 이거 가로 가면은 그다음에 자신있게 이렇게 우리가 제일 잘합니다 하고 한 부분이 생황 무기 같은 것또 생물 무기 같은 거 요런 거 치명적인 프롬포테에서 키미 같은 모델이나 다른 모델들보다 훨씬 더 높게 잘 거절할 수 있다라는 것도 좀 안정성 있게 보했다. 이게 아무래도 쓰레드나 페이스북, 인스타그램 이렇게 메신저 기반으로 해서 자주 소통하는 사람들끼리 자주 소통하는 것에 하니까 이런 것들이 더 중요하겠죠. 대충 어떤 포인트인지 아시겠습니까? 그래서 메타가이 모델을 설명할 때도 스몰 앤 f스트바 디자인이라고 표현을 했어요. 그니까 처음부터 가장 큰 모델이 아니라 제품 전체에 빠르게 이렇게 따다다닥 붙일 수 있는 제품이라고 하면은 페이스북, 인스타그램, 메타글래스도 그렇고 이게 바로 메타식 어떤 적용 전략과 연결되어 있다라고 볼 수가 있다라는 거죠. 그럼 하나하나 살펴보면은 메타만이 적용할 수 있는 부분이 뭐가 있느냐? 방금 말씀드린 인스타그램, 페이스북, 메신저, 와차 이런 소셜 미디어와 글래스들 하나의 모델로 굉장히 많은 부분들을 터치를 할 수 있다라는 거죠. 그 메타 AI가 앞으로 이런 것들에 쭉 공유된 추출이라든가 우리 좋아요 누르는 거라든가 그런 콘텐츠들을 잘 인용을 할 수 있다라고 밝혔거든요. 우리 LM이 그냥 웹 찾아온 것들을 생각해 가지고 분석하고 답을 해 주는 것이 아니라 메타라는 플랫폼 안에서 사람들이 실제로 올린 어떤 추천이라든가 경험 같은 데이터들 있잖아요. 이걸 그대로 안 두겠다는 거예요. AI를 통해 가지고 이런 프론티오급의 모델에 돌려서 붙여 갖고 훨씬 더 좋은 경험성을 보이겠다. 그 이게 기술적으로 보면 사실 굉장한 포인트인게 일반적인 LRM이 그냥 법용적으로 가은 학습해 갖고 검색 보강한다. 물론 요게 계속 발전되고 있어요. 근데 메타가 가장 핵심적으로 갖고 있는 것들이 결국은 실시간 데이터 이런 소셜 그래프와 어떤 커뮤니티물 같은 것들이 굉장히 하나의 자산이 되기 때문에 그냥 무엇이 사실인가 보다 사람들이 실제로 뭘 추천하느냐, 사람들의 기호가 뭐냐, 트렌드가 뭐냐, 어떤 컨텍스트에서 이걸 생각하고 있느냐를 한 번의 AI로 녹일 수가 있다라는 거죠. 그럼 어떻게 됐습니까? 여행 맛집이라든가 뭐 쇼핑 뭐 스타일링도 그렇고 우리 동네 정보 같은 요런 생활형 어떤 질문 같은 것들 이런 것들이 검색 엔진식의 정답보다는 사람들의 추천이나 후기 요즘도 우리 그런 거 많이 찾잖아요. 그런 것들을 더 데이터를 잘 긁고 모아서 사회적 데이터, 소셜 데이터들을 플랫폼 안에 깔아두고 있으니까 그걸 활용해서 AI화된 어떤서 추천 인터페이스에 가깝게 가겠다. 이렇게 되면은 광고 수익도 훨씬 더 많이 오르겠죠. 그다음에 저는이 포인트가 좀 새로운데 일반적인 AI 사스 업체들은 이런 곳들은 AI앱 자체가 중심이잖아요. 근데 메타는 메타 [목을 가다듬음] AI 자체가 중심이라기보다는 이미 사람들이 오래 머물고 있는 앱들이 굉장히 많잖아요. 이번 발표에서도 뮤즈 스파크가 메타 AI만 있는게 아니라 여러 가지 앱에 다 들어갈 거다. 이런 얘기를 하는 이유가 그런 거 같은데 기본적으로 뭐 오픈 AI나 엔트로픽이나 사용자가 AI를 쓸어 가는 구조가 강한데 메타는 좀 아니에요. AI를 쓸어 메타를 쓰지 않잖아요. 그냥 사용자가 원래 하던 행동은 계속 하는데 그 경험성이 나아지도록 뭐 피드를 본다라든가 친구하고 메시지를 보낸다던가 사진 공유하고 리스 보면서 나랑 비슷한 거 계속 추천받고 이런 것들 이런 것들이 자연스럽게 녹아 들어가야 되는게 다르다라는 거죠. 그래서 그냥 단순히 모델 성능표가 앞서 있다 이런 것보다는 사용자들끼리 어떤 접점이 넓어질 수 있는 부분들 그리고 내가 쓰고 있던 앱인데 자연스럽게 녹여 가지고 훨씬 더 우와 좋다. 광고를 주는 광고주들 입장에서도 야 내가 원하는 딱 그 타겟 소비자들한테 잘 전달되네. 요런 것들이 되면은 훨씬 더 돈을 많이 벌 수 있겠죠. 더나 이게 멀티모델리티로 가니까 카메라 기반의 AI가 이제 AI 글래스와 결합을 할 텐데 이게 단순히 이미지만 받는다 요런 개념이 아니라 어떻게 표현했냐면은 스트롱 멀티모델 펄셉션이라고 강조를 했어요. 그러니까 그냥 즉각적으로 보고 이해를 할 수 있다라는 건데 제가 이번에 제미나이 라이브 켜 놓고 골프 연습하면서 골프 실제로 코칭하는 거를 해 봤는데 굉장히 잘 됐거든요. 곧 곧 이따가 영상 올릴 건데 그것처럼 실시간으로 뭔가 보고 하는 그 AI 스택을 메타가 갖췄다라는 포인트. 이 공식 예시에서도 뭐 제품을 막 스캔하고 대체품하고 비교하고 이거를 그냥 안경 수고 보면서 하는 거예요. 그냥 이렇게 음식 사진 보고 칼로리 추정한다라든가 이런 것들 생활형에 바로 밀착돼 있다라는 거죠. 그런데 메타에서 이게 특히 중요한게 이미 AI 글래스를 계속 밀고 있고 올해 또 이제 엄청난 것들이 계속 많이 나오지 않습니까? 우리나라에도 이제 7월에 지금 들어온다고 했고 전 지금이 디스플레이 버전 레이벤 디스플레이를 훨씬 더 관심을 갖고 있는데 결국 주변색에 내가 지금 보고 있는 거를 바로바로 이해를 할 수 있는 형태로 되는게 올해 지금 구글도 그렇고 뭐 다 나올 거라고 그러죠. 그 사실 이게 멀티모델로 환장되는게 아니라 카메라와 실시간으로 인터페이스 보조 인터페이스를 갖게 되는 거잖아요. 그래서 카메라를 가진 어떤 플랫폼 회사로서 전향을 한다는 느낌이 받아줬고 그래서 결국은 메타가 현재는 채팅창, 메신저, 피드, 페이스북 요런 거 안에서 있다가 릴리스로 확장을 하게 되는데 이제 요러한 콤팩터가 생기게 된다라면 상상을 해 봅시다. 메타 있잖아서. 수많은 사람들이 여기서 페이스북 보고 인스타그램 보고 뭔가 생활형으로 계속 할 수가 있을 텐데 결국 메타가 노리는 거는요 스마트폰이라는 하나의 그 안에서만 노는 것이 아니라 그 바깥으로 세상을 바로 보겠다는 거죠. 원래 막 애플하고 구글하고 자기를 프만 갖고 있기 때문에 굉장히 고생을 많이 했다는 뭐 이런 얘기들 많이 했었잖아요. 그리고 제가 얼마 전에 올려 드린요 하네스 엔지니어링 관련된 내용들 있잖아요. 요것들. 그니까 뮤즈 스파크 공식 설명해도 요런 부분들이 인스턴트 모드와 think킹 모드 그리고 멀티플 서브 에이전트럴이라고 되어 있는 부분도 있거든요.이 멀티플 서브 에이전트럴 그니까 뭐 여행 계획을 하더라도 한 에이전트는 일정 짜고 있고 다른 애들은 지역 비교하고 있고 이렇게 하면서 전체적인 성능을 높여 갖고 한다라는 거죠. 자, 이런 의미에서 보면은 메타들 예를 들어 페이스북 메신저 같은 거 있잖아요. 이런 것들 보면은 원래 메신저를 토대로 해서 우리 야, 여행 어디 갈까? 이렇게 메신저 서로 얘기를 하고 물건 추천받고 이런 것들이 많이 일어나는 공간이잖아요. 그래서 메타가 AI를 별도 툴롭하는게 아니라 이미 하고 있는 것들에 조금 넣어서 가려고 하는 것이 아닌가? 그래서 이거를 서버 에이전트 방식으로 UI에 들어내면서 그냥 Q&amp;A 자부를 넘어갔고 지금 하던 것들 그대로 하는데 AI 도움을 받을 수 있는 요런 형태로 나가지 않을까 예상이 되고 그다음에 사진 찍어 갖고 뭐 물어봐죠. 그런 것들은 뭐 인스타그램도 그렇고 이제 사진 기반을 많이 올리시니까 이런 것들에 대한 데이터가 더 많이 쌓이야겠죠. 그리고 그냥 쇼핑 추천해 준다가 아니라 그렇게 추천하게 되면은 커머스 속에 추천된게 바로 살 수 있다라거나 바로 눈만 깜빡거리면은 결제를 할 수 있다라든가 이런 쇼핑 모드를 전면으로 넣으면서 이거 공식 발표 나온 거거든요. 그러면은 딴데 안 가고 그냥 글래스 쓰고 있다가 그냥 바로 주문하게 되는 거예요. 검색한 다음에 각각 비교하고 추천한 다음에 전화하고 이런게 아니라 AI가 그 중간 과정을 다 해 줄테니까 제일 좋은 거 딱 띄워주고 어 이거 아닌데 하면 딴 거 다 보여주고 이런다면 바로 살 수 있도록 요렇게 해 버리면은이 커머스 시장까지 먹을 수가 있다. 자 물론 이게 이렇게 된다는게 아닙니다. 이렇게 될 수 있을 가능성 이런 목표를 가지고 메타가 움직인는 거 같다라고 지금 말씀을 드리는 거고 뮤즈 스파크 자체가 굉장히 작고 빠르게 설계가 됐기 때문에 여러 가지 앱들에 확장을 해 갖고 적용할 수 있으니까 그런게 기대가 될 수 있다라는 거죠. 그리고 이미 AI를 따로 메타 AI라 거를 공부를 할 필요가 없는게 이미 있는 앱에 다 적용을 할 거기 때문에 엄청나게 많은 사람들이 소셜 미디어를 쓰잖아요. 그래서 결국은 이게 그냥 성능 좋은 LM이라고 보시기보다는 기본적으로 기기로는 카메라가 있고 그걸 통해서 소셜로 표현이 되죠. 그것들을 할 수 있는 것들이 앱인데이 앱들을 지원하는이 모델에 해당하는 강력한 것들을 메타가 가지고 있다. 그러면서 커머스 시장 쇼핑도 다 먹고 추천 시스템 광고도 하고 이러면 메타 수익이 굉장히 많이 올라갈 수 있겠죠.이 AI 시대 때. 그렇기 때문에 다른 기업들하고 다르게 메타가 포지션을 다르게 할 수 있는 것도 걔들하고 막 경쟁을 하겠다는게 아니에요. 나 자체적으로 AI 스택을 갖추면서 오픈 모델을 활성화해서 이걸 많이 써서 더 많은 애플리케이션을 만들 수 있도록 하는 것이 아닌가라는 생각이 들었습니다. 지금까지 에러였습니다.",
+      "analysis_date": "2026-04-11T23:47:01+00:00",
+      "channel_name": "안될공학 - IT 테크 신기술",
+      "topic_tags": [
+        "agents"
+      ],
+      "keywords": [
+        "agents",
+        "메타",
+        "AI",
+        "드림팀",
+        "첫"
+      ],
+      "tools": [],
+      "flow": [
+        "처음 15초 안에 문제를 선명하게 정의하고 왜 지금 봐야 하는지 못 박는다.",
+        "중간 구간에서 툴, 사례, 비교 포인트를 빠르게 제시해 정보 밀도를 높인다.",
+        "마지막에는 시청자가 바로 따라할 수 있는 다음 액션과 적용 예시로 닫는다."
+      ],
+      "claims": [
+        "단순 소개보다 실제 사용 장면을 바로 보여주는 구조가 반응을 만든다.",
+        "큰 담론보다 작은 병목 하나를 해결해주는 포장 방식이 클릭으로 이어지기 쉽다."
+      ],
+      "transcript_highlights": [
+        "그리고 이미 AI를 따로 메타 AI라 거를 공부를 할 필요가 없는게 이미 있는 앱에 다 적용을 할 거기 때문에 엄청나게 많은 사람들이 소셜 미디어를 쓰잖아요. 그래서 결국은 이게 그냥 성능 좋은 LM이라고 보시기보다는 기본적으로 기기로는 카메라가 있고 그걸 통해서 소셜로 표현이 되죠.",
+        "그래서 컴퓨팅량을 쭉쭉쭉쭉 늘려다 보니까 경쟁 모델 대비해서 10.3배, 8.2배, 3.3배 그러니까 굉장히 컴퓨팅을 드리는데 적은 자원으로 해결할 수 있다라는 거죠.",
+        "그러면은 딴데 안 가고 그냥 글래스 쓰고 있다가 그냥 바로 주문하게 되는 거예요. 검색한 다음에 각각 비교하고 추천한 다음에 전화하고 이런게 아니라 AI가 그 중간 과정을 다 해 줄테니까 제일 좋은 거 딱 띄워주고 어 이거 아닌데 하면 딴 거 다 보여주고 이런다면 바로 살 수 있도록 요렇게 해 버리면은이 커머스 시장까지 먹을 수가 있다. 자 물론 이게 이렇게 된다는게 아닙니다."
+      ],
+      "top_comments": [
+        {
+          "video_id": "NgeEB9WYT9U",
+          "comment_id": "UgwiIDm130rp1SYWhvJ4AaABAg",
+          "author": "@hellostranger2333",
+          "text": "근데 카메라 킬 때만 자료 수집이 되는거 아닌가? 그럼 이제 시작한다면 포켓몬고보다 훨씬 느린거 아닌가…",
+          "like_count": 5,
+          "reply_count": 1,
+          "published_at": "2026-04-11T06:03:28Z"
+        },
+        {
+          "video_id": "NgeEB9WYT9U",
+          "comment_id": "UgyxKVwMIskCvkBV0gl4AaABAg",
+          "author": "@projecteli",
+          "text": "We see everything... 결국 사용자들의 사생활을 싹다 학습해버리겠다는건데 사적 SNS를 공공재로 끌어올렸을 때 어떤 윤리문제가 있을지에 대해서도 생각해보면 좋을거같네요",
+          "like_count": 3,
+          "reply_count": 0,
+          "published_at": "2026-04-11T12:00:42Z"
+        },
+        {
+          "video_id": "NgeEB9WYT9U",
+          "comment_id": "UgyZeT8yCyXnW7GIWzR4AaABAg",
+          "author": "@jp5862",
+          "text": "dgx spark + gemma4 31b + openclew. !!!???",
+          "like_count": 0,
+          "reply_count": 0,
+          "published_at": "2026-04-11T14:34:48Z"
+        },
+        {
+          "video_id": "NgeEB9WYT9U",
+          "comment_id": "UgwMvmqeysxOO6SJ-E54AaABAg",
+          "author": "@BadWorker-777",
+          "text": "좋으뉴영상 감사합니다",
+          "like_count": 0,
+          "reply_count": 0,
+          "published_at": "2026-04-11T12:25:48Z"
+        },
+        {
+          "video_id": "NgeEB9WYT9U",
+          "comment_id": "UgwnauwK7i3IlNeNcLR4AaABAg",
+          "author": "@윤지송-s2n",
+          "text": "ai로 더욱더 강력한 차안대를 씌워주는건가...",
+          "like_count": 0,
+          "reply_count": 0,
+          "published_at": "2026-04-11T09:53:36Z"
+        }
+      ]
+    },
+    {
+      "video_id": "My0MJ9azN_k",
+      "channel_key": "ucitgsmggjtktcjevdk-zrhw",
+      "title": "내 인생 드라이기인데 프리볼트까지 됨 ㄷㄷ",
+      "description": "작년 내 인생드라이기로 선정했던 드리미 포켓이 이젠 프리볼트 기능까지 탑재했다.\n이제 이거 하나면 여행용 드라이기 따로 살 필요 없이 메인 드라이기로 여행용까지 쌉가능임!\n\n#드리미포켓유니퓨어 #드리미 #드라이기",
+      "published_at": "2026-04-11T05:00:31Z",
+      "duration_seconds": 71,
+      "view_count": 31510,
+      "like_count": 228,
+      "comment_count": 16,
+      "engagement_rate": 0.0077435734687400825,
+      "thumbnail_url": "https://i.ytimg.com/vi/My0MJ9azN_k/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=My0MJ9azN_k",
+      "format": "뉴스 분석",
+      "hook_type": "문제 해결",
+      "title_pattern": "핵심 포인트 직설형",
+      "one_line_summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "why_it_works": "문제 해결 훅으로 관심을 끌고, 뉴스 분석 형식으로 내용을 빠르게 정리해 시청자가 '바로 써먹을 수 있다'고 느끼게 만듭니다.",
+      "recommendation": "훅 구조: 도입 15초 안에 '문제 해결' 관점으로 문제를 못 박고, 왜 지금 봐야 하는지 먼저 선언합니다. • 복제할 포장 요소: 뉴스 분석 형식을 유지하되 뉴스 분석를 실제 사용 장면 1개와 결과 변화 2개로 더 좁혀 설명합니다. • 비어 있는 콘텐츠 영역: '뉴스 분석가 내 작업 흐름에서 어디에 꽂히는가'를 사례 중심으로 보여주는 후속 영상이 비어 있습니다. • 추천 제목: 뉴스 분석 이슈를 내 채널 관점으로 다시 정리해보자 • 썸네일 카피 힌트: 뉴스 분석 지금 봐야 할 3가지",
+      "transcript_status": "available",
+      "transcript_source": "apify",
+      "transcript_language": "ko",
+      "transcript_text": "와이 정도라고 110v트든 220V든 세계 어디서든 그냥 꽂았을 수 있는 현존 여행 최강의 프리볼트 드라이기가 탄생했대이 드림이 포켓 유니퓨어 드라이기는 공식 무게가 고작 300g 초반대로 일반적인 드라이기 대비 100g 정도는 더 가벼운데 무엇보다 봐봐 이게 접이식이라 접히는데 접히면 얼른 손바닥 크기만큼 작아져 파우치에 담아 휴대하는데 부담이 없어 여행 갈 때 진심 깨꿀이대 이렇게 뿌띠한 사이즈인데 드리미가 근본이 모터 회사로 로 출발한 회사라 그런지이 모터 출력이 대단한데 마네킹 머리카락 날리려고 했더니 머리 전체를 날려 버리는 똥파워를 보여줬대. 휴대성이 좋음에도이 바람 출력이 좋아서 지금 현재네 가족 우리 집에 메인 드라이기로 쓰고 있기에 조회수 75만을 기록했던 25년 내가 선정한 최고의 가전 2위로 이걸 선정했었던 거대. 근데 이번 신제품은 이전짝의 약점이었던 110V를 쓰는 미국이나 일본 여행에서 사용이 불가능했던 단일 볼트를 보완해서 버튼으로 전압 변경할 필요 없이 그냥 어느 코드 꼽으면 자동으로 전압이 바뀌는 프리볼트라 세 개 어디서든 사용이 싹 가능해졌대. 진심 이거 하나면 메인 드라이기에서부터 여행용까지 다 커버가 가능하니까.",
+      "analysis_date": "2026-04-11T23:46:59+00:00",
+      "channel_name": "귀곰",
+      "topic_tags": [],
+      "keywords": [
+        "내",
+        "인생",
+        "드라이기인데",
+        "프리볼트까지"
+      ],
+      "tools": [],
+      "flow": [
+        "처음 15초 안에 문제를 선명하게 정의하고 왜 지금 봐야 하는지 못 박는다.",
+        "중간 구간에서 툴, 사례, 비교 포인트를 빠르게 제시해 정보 밀도를 높인다.",
+        "마지막에는 시청자가 바로 따라할 수 있는 다음 액션과 적용 예시로 닫는다."
+      ],
+      "claims": [
+        "단순 소개보다 실제 사용 장면을 바로 보여주는 구조가 반응을 만든다.",
+        "큰 담론보다 작은 병목 하나를 해결해주는 포장 방식이 클릭으로 이어지기 쉽다."
+      ],
+      "transcript_highlights": [
+        "근데 이번 신제품은 이전짝의 약점이었던 110V를 쓰는 미국이나 일본 여행에서 사용이 불가능했던 단일 볼트를 보완해서 버튼으로 전압 변경할 필요 없이 그냥 어느 코드 꼽으면 자동으로 전압이 바뀌는 프리볼트라 세 개 어디서든 사용이 싹 가능해졌대. 진심 이거 하나면 메인 드라이기에서부터 여행용까지 다 커버가 가능하니까."
+      ],
+      "top_comments": [
+        {
+          "video_id": "My0MJ9azN_k",
+          "comment_id": "UgyogYblPRI2-hs2hDt4AaABAg",
+          "author": "@kwon-376",
+          "text": "프리볼트 드라이기 사시려면 JMW 사세요 가격차이 안남",
+          "like_count": 11,
+          "reply_count": 1,
+          "published_at": "2026-04-11T06:16:11Z"
+        },
+        {
+          "video_id": "My0MJ9azN_k",
+          "comment_id": "UgyYcInk7w1F4HrA62N4AaABAg",
+          "author": "@백미르-h9g",
+          "text": "오 좋네요\n굿\n해외여행용으로\n딱이네요",
+          "like_count": 5,
+          "reply_count": 0,
+          "published_at": "2026-04-11T05:17:46Z"
+        },
+        {
+          "video_id": "My0MJ9azN_k",
+          "comment_id": "UgznHcCxVNijfWY7tix4AaABAg",
+          "author": "@gwigom",
+          "text": "[포켓 유닛 퓨어 신제품 런칭 이벤트 안내]\n- 이벤트가: 109,000원\n- 이벤트 혜택: 스타벅스 1만원 상품권 증정\n- 발송 일정: 이벤트 종료 다음날 일괄 발송 예정\n- 이벤트 기간: 4/6 ~ 4/30",
+          "like_count": 4,
+          "reply_count": 0,
+          "published_at": "2026-04-10T10:56:19Z"
+        },
+        {
+          "video_id": "My0MJ9azN_k",
+          "comment_id": "UgzPsphveTnpRsp3QUB4AaABAg",
+          "author": "@Goldcocome88",
+          "text": "프리볼트…신기해…!! 😮",
+          "like_count": 2,
+          "reply_count": 0,
+          "published_at": "2026-04-11T06:00:36Z"
+        },
+        {
+          "video_id": "My0MJ9azN_k",
+          "comment_id": "UgxSB_S_fQwV2rqErYN4AaABAg",
+          "author": "@coco-y9g",
+          "text": "프리볼트 드디어…  바로 질렀습니다^",
+          "like_count": 1,
+          "reply_count": 0,
+          "published_at": "2026-04-11T05:35:49Z"
+        }
+      ]
+    },
+    {
+      "video_id": "wKwvzXFP2Wg",
+      "channel_key": "uc-syugflzxpgdr7wszgybhw",
+      "title": "(코딩X) 앱 외주 맡기지 마세요. AI가 5분 만에 진짜 앱 만들어줍니다",
+      "description": "코드도 API 키도 필요 없이 5분 만에 AI 앱 만들기 — OnSpace AI\nhttps://www.onspace.ai/?via=yt_successwiki\n모바일로 가능합니다: https://onspace.onelink.me/za8S/rsmk2b1t?c=successwiki\n구독자 500 크레딧 혜택 코드: \"swiki\"\n\n앱 아이디어는 있는데 외주비가 수백만원이라 포기하셨나요? 이제 코드 한 줄 몰라도 AI에게 말로 설명하면 진짜 작동하는 앱이 나옵니다. OnSpace AI로 헤어샵 예약 앱을 직접 만들면서 회원가입, 데이터 저장, AI 챗봇, 결제, 배포까지 전 과정을 보여드립니다.\n\n🔑 핵심 인사이트\n1. OnSpace AI는 프롬프트만으로 iOS/Android 앱을 동시에 생성하는 노코드 앱 빌더\n2. 간단한 프롬프트 vs 상세 기획 프롬프트 — 두 가지 방법의 결과물 차이 비교\n3. OnSpace Cloud로 백엔드 자동 연동 — 이메일 인증, 데이터 저장, AI 챗봇까지 코드 없이 구현\n4. App Store/Google Play 배포와 Stripe 결제까지 원스톱으로 가능\n5. 소스 코드 내보내기 지원 — 나중에 개발자와 함께 디벨롭 가능\n\n📝 상세 가이드 요약\n🚀 Part 1. 간단한 프롬프트로 앱 만들기: \"헤어샵 예약 앱 만들어줘\" 한 줄로 시작해서 OnSpace AI가 기획부터 도와주는 과정. 초보자도 대화만으로 앱을 완성할 수 있는 첫 번째 방법\n🚀 Part 2. 상세 프롬프트로 프로덕션 레벨 앱: 기획서 수준의 프롬프트를 입력해서 로그인, 회원가입, 예약 시스템까지 포함된 완성도 높은 앱을 만드는 두 번째 방법\n🚀 Part 3. 회원가입/예약 실제 시연: 이메일 인증 가입, 데이터베이스 저장, 예약 내역 확인까지 실제로 작동하는 모습을 라이브로 시연\n🚀 Part 4. 배포와 결제 연동: Apple/Android 배포 방법, Stripe 결제 연동, 소스 코드 내보내기까지 출시에 필요한 전 과정\n\n🔗 관련 링크\n📱 OnSpace AI 바로가기: https://www.onspace.ai/?via=yt_successwiki\n\n⏰ 타임라인\n0:00 외주 수백만원짜리 앱을 5분만에 만든 결과물\n0:24 OnSpace AI 소개 및 기본 사용법\n1:10 첫 번째 방법: 간단한 프롬프트로 앱 만들기\n2:22 AI가 코드를 짜서 기본 앱 완성\n3:30 앱에 AI 고객 상담 챗봇 추가하기\n5:05 두 번째 방법: 상세 프롬프트로 완성도 높은 앱\n6:03 이메일 인증 회원가입 실제 시연\n6:53 예약 시스템과 데이터 저장 확인\n8:27 App Store와 Google Play 배포 방법\n9:19 Stripe 결제 기능 연동하기\n9:54 AI 앱 개발의 현실과 가능성 정리\n\n#AI앱 #노코드앱 #OnSpaceAI #바이브코딩 #앱배포",
+      "published_at": "2026-04-11T01:00:54Z",
+      "duration_seconds": 721,
+      "view_count": 2542,
+      "like_count": 94,
+      "comment_count": 5,
+      "engagement_rate": 0.03894571203776554,
+      "thumbnail_url": "https://i.ytimg.com/vi/wKwvzXFP2Wg/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=wKwvzXFP2Wg",
+      "format": "비교",
+      "hook_type": "솔직 검증",
+      "title_pattern": "핵심 포인트 직설형",
+      "one_line_summary": "이 영상은 비교 이슈를 비교 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "why_it_works": "솔직 검증 훅으로 관심을 끌고, 비교 형식으로 내용을 빠르게 정리해 시청자가 '바로 써먹을 수 있다'고 느끼게 만듭니다.",
+      "recommendation": "훅 구조: 도입 15초 안에 '솔직 검증' 관점으로 문제를 못 박고, 왜 지금 봐야 하는지 먼저 선언합니다. • 복제할 포장 요소: 비교 형식을 유지하되 비교를 실제 사용 장면 1개와 결과 변화 2개로 더 좁혀 설명합니다. • 비어 있는 콘텐츠 영역: '비교가 내 작업 흐름에서 어디에 꽂히는가'를 사례 중심으로 보여주는 후속 영상이 비어 있습니다. • 추천 제목: 비교 이슈를 내 채널 관점으로 다시 정리해보자 • 썸네일 카피 힌트: 비교 지금 봐야 할 3가지",
+      "transcript_status": "available",
+      "transcript_source": "apify",
+      "transcript_language": "ko",
+      "transcript_text": "이 앱을 만드는데 5분밖에 안 걸렸습니다. 이메일을 사용해서 직접 회원 가입도 할 수가 있고요. 내가 예약한게 데이터로 저장되기도 하고 서비스나 디자이너 이런 걸 모두 클라우드에서 확인을 할 수가 있습니다. 이런 앱을 만들기까지 제가 했던 건 펌프트를 주고 AI가이 모든 작업을 하게 하는 거였습니다. 원래이 정도 앱을 외주 맡기면 최소 수백만 원인데 이걸 5분 만에 뽑아낸 방법 오늘 직접 보여 드리도록 하겠습니다. 자, 방금 보셨던 앱 제가 온스페이스 AI를 활용해서 만든 건데요. 상단에 보시면 iOS 안드로이드라는 탭이 있습니다.이 서비스 자체가 모바일 앱을 만드는데 특화가 되어 있기 때문에 요런 서비스를 제공을 하는 거거든요. 이용하는 방법도 되게 간단합니다.이 프롬프트 창에 여러분이 뭘 만들고 싶은지 적고 AI와 대화를 하면서 디벨롭을 해 나가시면 되는데 두 가지 방법이 있습니다. 자, 두 가지 다 보여 드릴 거고 두 번째 방법이 조금 더 프로덕션 레벨의 결과물을 얻는데 좋긴 한데 내가 이미 머릿속에 어느 정도 앱의 구조를 알거나 어떤 식으로 개발해야겠다라고 아실 분들은 제가 이따가 소개드릴 두 번째 방법이 더 맞습니다만 우선 앱이라는 걸 만들어 보고 싶다라는 분들은이 첫 번째 방법 내 아이디어를 먼저 입력하고 디벨롭해 나가는 방식이 어울릴 겁니다. 그래서 저는 헤어샵 예약 앱을 만들어 줘라고 입력을 했고요. 우측에 가시면 두 가지 옵션이 있습니다. 내가 백엔드를 만들 때 이슈퍼베이스라는 연결을 하느냐 아니면은 클라우드 서비스를 사용하느냐인데이 클라우드 같은 경우는 온 스페이스에서 새로 나온 기능입니다. 이거를 클릭하시게 될 경우 여러분이 만드는 백엔드가 온 스페이스 안에서 관리를 할 수가 있거든요. 그 훨씬 편한 겁니다. 사실 초보자분들은이 클라우드를 추천드리고이 두 번째는 내가 만든 코드를 사람들이 볼 수 있는지 볼 수 없는데 어 저는 볼 수 없는 프라이빗으로 하고 요걸 만들어 보도록 하겠습니다.이 이 방식의 장점은 내가 처음부터 큰 그림을 갖지 않더라도 온스페이스가 이걸 도와준다라는 겁니다. 어, 제 프롬프트는 비교적 간단하죠. 예약 앱을 만들고 싶다. 그러니까 앱의 주요 사용자가 누구인지 먼저 물어봐 주고요. 그리고 어떤 정보가 필요한지 그리고 전체적인 분위기는 어떻게 만들지 UI적인 측면이죠. 이런 거를 제가 처음부터 구상하고 말하지 않더라도 온스페이스가 하나하나 콕 집어서 물어보기 때문에 여러분이 만드는 결과물의 퀄리티가 훨씬 더 좋아질 수밖에 없습니다. 그래서 초보자분들은 이런 식으로 먼저 간단하게 얘기를 하고 대화를 하면서 앱을 만들어 나가시는 걸 추천드리는데 바로 이렇게 코드들을 짜 주거든요. 자 그러면 이렇게 기본적인 디자인의 앱이 만들어집니다. 자 그런데 생각해 보시면 이렇게 간단하게 프롬프트만 입력했을 뿐인데 지금 뭐 서비스도 고를 수가 있고요. 제가 디자이너분도 선택을 할 수가 있습니다. 날짜 당연히 선택 가능하고요. 제가 예약까지 할 수가 있는 겁니다. 그러니까 이런 스켈레톤을 만들기 위해서 제가 필요했던 건 프롬프트 한 줄과이 온 스페이스의 도움이었는데 물론 여기서 여러분이 뒤에 데이터베이스를 붙인다거나 아니면 요런 이미지를 넣어 준다거나 로그인 회원 가입기능 이런 걸 하려면 조금 더 대화가 필요합니다. 아니면 처음부터 프롬프트를 더 자세하게 입력해 주면 훨씬 더 쓸 만한 앱이 나오는데요. 자, 참고로 이렇게 앱을 만들었잖아요. 위에 탭을 보시면 클라우드라는 탭이 있습니다.이 클라우드 보시면 유저 있고요. 아직은 데이터가 없어서 활성화가 안 되지만 여러분이 데이터를 넣으시면 데이터를 저장할 수 있는 공간도 있고 파일이나 이미지를 저장할 수 있는 스토리지도 있습니다. 그리고 심지어 AI를 여기다가 달 수도 있거든요. 그 무슨 말이냐면 내 앱에 놀러온 고객이 어 나는 오늘 무슨 서비스를 받고 싶은지 몰라요라는 질문이 있을 때 그런 거를 대답해 주는 여기에 장착을 할 수가 있다라는 겁니다. 한번 만들어 볼까요? 자, 그래서 고객과 CS를 하는 AI를 도입하고 싶다라고 하니까이 온스페이스 클라우드를 설정해야 된다라고 하면서 해당 기능을 구현을 해 주고 있죠. 지금 어떤 이런 설정 같은 경우는 여러분이 항상 수락을 할지 아니면은 그때그때마다 수락을 할지를 세팅을 할 수가 있는데 저 같은 경우는 항상 수락으로 되어 있기 때문에 제가 뭔가를 하고 싶다라고 했을 때 바로이 기능이 불러와지는 겁니다. 여러분이 이걸 사용하시면서이 설정을 입맛에 맞게 세팅하시면 되고요. 자, 구현해 주고 있거든요. 한번 기다려 보도록 하겠습니다. 참고로 지금이 방식은 개발 지식이 아예 없는 초보자분들을 위한 방법이고요. 이거 다음에 똑같은 예시 앱을 비슷하게 만들 건데 그때는 제가 좀 복잡한 기능도 같이 넣어서 보여 드릴 겁니다. 이제 그 기능을 보여 드리기 위해서는 지금 보시는 것처럼 정말 많은 양의 프롬프트가 필요한데요.이 프롬프트는 제가 여러분이 그대로 사용하실 수 있게 고정 댓글과 더기란에 올려 놓을 예정입니다. 자, AI 기능이 추가가 됐고요. 하단에 AI 고객 상담이 생겼습니다. 요거 한번 눌러 볼게요. 그러면 고객 상담 서비스고 제가 뭐를 물어볼 수 있다라고 하거든요. 어떤 서비스가 있는지 물어보도록 하겠습니다. 그러면 답변을 작성 중이라고 하고요. 어떤 서비스가 있는지 쭉 알려 주거든요. 한번 클라우드를 가서 확인을 해 보면이 엣지 펑션에요 CS 챗이라는게 새로 생겼는데 여기 안에 있는 로직을 통해서 AI가 CS를 해 주고 있는 겁니다. 어떤 모델을 사용했는지도 확인할 수가 있고 몇 번 사용되었는지도 확인할 수가 있죠. 그 이게 여러분이 복잡하게 P키를 연동을 한다거나 그렇지 않더라도 이미 내장되어 있는 클라우드 서비스를 통해서이 모든게 구현이 가능하다라는 겁니다. 그래서 이런 식으로 간단한 프롬프트로 시작을 해서 이걸 디벨롭을 쭉 시킬 수가 있고요. 이번에는 아까 보여 드렸던이 긴 프롬프트를 사용해서 제가 로그인과 회원 가입까지 좀 보여 드리도록 하겠습니다. 다시 한번 프라이빗과 클라우드 사용으로 해 주고요. 프롬프트를 입력을 해 주도록 하겠습니다. 다시 한번 말씀드리지만 어 이거 따라해 보실 분들은 고정 댓글 더보 가시면이 온 스페이스로 오는 링크도 있고요. 해당 프롬프트 링크도 있거든요. 그대로 갖고 오셔서 여기서 사용해 보시면 됩니다. 참고로 꽤 오랜 시간 동안 앱을 만들어 줄 거거든요.이 프롬프트 자체가 정말 많은 커스터마이징이 들어가 있기 때문에 어 제 체감상으로는 5분에서 10분 정도 걸린 것 같습니다. 그래서 어떻게 사용할 수 있냐? 지금 보면은 로그인 페이지와 회원 가입 페이지가 다 만들어져 있습니다. 지금이 클라우드도 가서 확인을 해 보면 아까 앱에서는 볼 수 없었던 이런 데이터도 들어가 있고요. 지금 기본적으로 더미 데이터들이 몇 개 들어가 있죠? 자, 예시를 위해서 넣어 놓은 거고 여러분도이 프롬프트를 이용해서 만들면 이런 더미 데이터가 들어가 있을 겁니다. 자, 우선 회원 가입부터 진행을 해 볼 건데요. 여러분의 이메일을 입력을 해 주시고이 가입 코드 보내기를 눌러 줍니다. 자, 그러면 코드가 보내졌다고 이렇게 뜨거든요. 그니까이 회원 가입 방식이 아마도 온 스페이스에서 장려하는 방식인 것 같은데 그걸 자동으로 넣어 준 거 같고요. 이메일을 가면 진짜로 이렇게 코드가 와 있습니다.네 자리 숫자죠.요네 요네 자리 숫자를 복사를 해 준 다음에 앱으로 돌아가서이 코드를 붙여 넣게 해 주시고 비밀번호를 입력을 해 줍니다. 두 개 다 똑같아야겠죠. 그리고 나서 가입하기를 누르면 이렇게 들어와지거든요. 제 프로필을 이렇게 볼 수가 있고이 앱 화면에도 이런 배경 사진이나이 스타일리스트 사진들 그리고 서비스 사진들이 잘 들어간 걸 확인할 수가 있습니다.이 사진을 제가 넣은게 아니고 온스페이스에서 알아서 만들어 준 사진들이거든요. 이렇게 깔끔하게 들어가고 한번 부킹을 좀 진행을 해 보도록 하겠습니다. 지금 부킹 시스템이 안 돼 가지고 제가 북핑 시스템을 넣어 달라고 했고요. 자, 한번 코드를 확인을 해 보면 이렇게 부킹 카드가 나오는 UI, 서비스 카드가 나오는 UI, 그리고 스타일리스트 카드 이렇게 있고 그래서 이렇게 코드들이 쭉 나와 있는데 만약에 내가 원하면이 코드들을 다운로드를 받을 수가 있습니다. 그래서 기본적인 MVP를 여기 온스페이스 안에서 구현을 하신 다음에 나중에 조금 디벨롭이 돼서 뭐 개발자가 필요하다. 서로 밖에 나가서이 개발을 더 이어 나가야겠다 하실 경우에는 여기 오른쪽 위에서 기과 연결을 해서 디벨롭을 이어 나가셔도 되고 아니면은 내 로컬에 바로 다운로드를 받을 수도 있습니다. 자, 부킹을 고쳐 준 것 같은데 다시 한번 로그인을 진행을 해 보도록 하겠습니다. 이게 여러분이 한번 회원 가입을 하고 나면 데이터가 저장이 되기 때문에 로그인도 바로바로 되거든요. 자, 부킹을 누르면 제대로 나오죠. 내가 원하는 헤어컷 누르고 날짜 정한 다음에 뭐 어떤 메모가 있으면 메모를 남기고 부킹을 만들면 되겠죠. 자, 그러면 과연 내가 부킹 들어갔을 때 어, 네, 부킹도 이렇게 저장이 되는 걸 확인할 수가 있습니다. 데이터베이스를 가서 확인을 해 보면 여기 어포인트먼트 테이블을 갔을 때이 데이터가 생성이 된 거를 확인할 수가 있습니다. 물론 제가 날짜 같은 거를 정확히 맞춰 놓진 않았기 때문에 덤이 날짜로 들어가겠지만 요것도 여러분이 충분히 내 시간대에 맞게, 내 지역에 맞게 고쳐 나가시면 되겠습니다. 그러니까 여기 나와 있는 앱이 단순하게 예쁜 디자인만 되는 것이 아니라 백엔드까지 완벽하게이 온스페이스 클라우드랑 연동이 되어서 뭐 예약 내역, 마이페이지 정보, 데이터가 다 살아 있게 되는 겁니다. 이건 뭐 제가 세션을 껐다가 켜도 살아 있는 내역들이거든요. 그래서 여러분이 앱을 배포를 하실 때 아, 내가 백엔드를 잘 모르는데 어떡하지? 요런 걱정을 꽤나 많이 덜어 줄 수 있는 기능이라고 생각을 합니다. 자, 그리고 나서이 앱을 만들었으면 배포를 해야 되잖아요. 우측에 보시면 퍼블리시라는 버튼이 있습니다. 이걸 누르면 여러분이 앱스토어로 배포를 할 수도 있고요. 구글 플레이로 배포를 할 수도 있는데 이제 앱 스토어 같은 경우는이 네이티브 안에서 바로 배포를 할 수가 있습니다. 물론 이제 서미션을 제대로 하기 위해서는 여러분이 뭐 앱 아이콘도 준비를 해야 되고요.이 애플 디벨로퍼라고 하죠. 올리기 위한 자격입니다. 요것도 이제 등록이 되어 있으셔야 되는데 이게 등록이 되어 있고 어 나는 애플용 앱을 개발해서 진짜 올려보겠다 하시는 분들은이 온스페이스 안에서 바로이 서미션을 하시면 되겠습니다. 그리고 안드로이드 같은 경우는 아까 링크를 클릭하시면 이렇게 명령어가 잘 나와 있어요. 여기 나와 있는 페이지를 잘 읽고 따라하시면 되겠습니다. 그리고 온스페이스 자체가 여러분의 앱 안에 결제를 달 수도 있습니다. 물론 이거는 스트라이고 해 가지고 태배 서비스를 하시는 분들을 위한 인테그레이션이긴 하거든요. 어, 제가 알기로는 한국에 있어도 미국 법인을 만들어서이 스트라이브를 달 수 있다라고 하는데 이제 그런게 필요하신 분들은요 기능을 잘 사용하시면 되겠습니다. 그렇지 않고서는 국내 자체에서는이 피지사랑 연동을 해야 되는데 뭐 그건 사실 어떤 바이브 코딩 툴을 사용하시더라도이 PG 세팅하는게 조금 지옥 같거든요. 그래서 요런 거를 좀 해결해 주는 서비스가 나온다거나 아니면 PG사가 나오면 좀 피지사가 나오면 훨씬 더 좋지 않을까 생각이 듭니다. 자, 그래서 오늘 이렇게 모바일 앱을 단순하게 웹이 아닌 거죠. 아이폰에서 돌아갈 수도 있고 안드로이드에서도 돌아갈 수 있는이 앱을 저희가 직접 뽑아내고 뭐 회원 가입부터 데이터 저장 배포 결제 이런 것까지 다 다뤄봤는데 이제는 내가 코드를 몰라서 이런 앱을 못 만든다. 이건 이제 변명입니다. 이런 온스페이스 같은 툴들이 계속 나오고 있고 여러분이 진짜 실전적으로 활용을 할 수 있기 때문에 이제 아이디어만 있으면 내가 아이디어를 검증받고 그거를 수익화하는 것까지 한번 테스트를 해 볼 수가 있고요.이 이 온스페이스 같은 경우는 여러분이 한 달 동안 사용을 하게 될 시라이트 팩이 있고 플러스 팩이 있고 맥스 팩이 있는데 어 사실 어느 정도 결과물을 만들어야 된다 할 경우에는 넉넉한 크레딧을 주는 플러스 이상을 추천드리고요.이 연간으로 가입하실 경우에는 훨씬 더 많은 할인 혜택이 있거든요. 그 제 채널에서 앱을 개발하는 서비스는 온스페이스가 처음인데 한번 아이폰 앱이나 안드로이드 앱 개발에 도전해 보고 싶으신 분들은이 서비스를 추천드립니다. 사실 다른 것보다도이 클라우드에서 내가 따로 백엔드를 연동하지 않더라도 다 쓸 수 있던게 전다라고 생각을 하거든요. 그래서 이런 복잡한 세팅을 간단하게 하고 싶다 하시는 분들에게는 강력 추천드립니다. 제가이 온 스페이스 링크는 고정 댓글과 더란에 올려 놓도록 하겠습니다. 물론이 서비스를 사용해서 만든 이런 프로덕트 같은 경우는 당연하게도 디벨롭이 필요합니다. 여러분이 나중에 뭐 대규모 서비스 뭐 수만 명이 동시에 쓰는 앱을 관리를 한다. 그럴 경우에는 당연히 뭐 밑에 전문 개발자도 필요할 거고요. 뭐 서버를 아는 사람도 필요할 거고 당연하게도 팀을 확장을 해야 되는데 그 전 단계 그 초기 단계에서는 이런를 활용해서 생산성을 높이는게 진짜 중요합니다. 그래서 뭐 몇 달 기다릴 필요 없이 뭐 내가 첫문학적인 외주비를 주고 아이디어를 검증할 필요 없이 오늘 만들어서 내가 직접 쓸 수도 있고요. 바로 테스트를 해 볼 수도 있습니다. 자, 그리고 오늘 사용한이 프롬프트 역시 설명란에 정리를 해 놓을테니까 한번 사용해 보시고 여러분만의 프롬프트로 바꿔서 앱을 만들어 보시고 어떤 앱을 만들었는지 댓글로 알려 주시면 되겠습니다. 네. 네. 네, 제 오늘 영상은 여기까지고요. 영상이 도움이 되셨다면 좋아요와 구독, 그리고 알림 설정까지 부탁드립니다. 지금까지 성공 지식과였습니다.",
+      "analysis_date": "2026-04-11T23:47:06+00:00",
+      "channel_name": "성공지식백과",
+      "topic_tags": [],
+      "keywords": [
+        "코딩X",
+        "앱",
+        "외주",
+        "맡기지"
+      ],
+      "tools": [],
+      "flow": [
+        "처음 15초 안에 문제를 선명하게 정의하고 왜 지금 봐야 하는지 못 박는다.",
+        "중간 구간에서 툴, 사례, 비교 포인트를 빠르게 제시해 정보 밀도를 높인다.",
+        "마지막에는 시청자가 바로 따라할 수 있는 다음 액션과 적용 예시로 닫는다."
+      ],
+      "claims": [
+        "단순 소개보다 실제 사용 장면을 바로 보여주는 구조가 반응을 만든다.",
+        "큰 담론보다 작은 병목 하나를 해결해주는 포장 방식이 클릭으로 이어지기 쉽다."
+      ],
+      "transcript_highlights": [
+        "뭐 서버를 아는 사람도 필요할 거고 당연하게도 팀을 확장을 해야 되는데 그 전 단계 그 초기 단계에서는 이런를 활용해서 생산성을 높이는게 진짜 중요합니다. 그래서 뭐 몇 달 기다릴 필요 없이 뭐 내가 첫문학적인 외주비를 주고 아이디어를 검증할 필요 없이 오늘 만들어서 내가 직접 쓸 수도 있고요.",
+        "어, 제가 알기로는 한국에 있어도 미국 법인을 만들어서이 스트라이브를 달 수 있다라고 하는데 이제 그런게 필요하신 분들은요 기능을 잘 사용하시면 되겠습니다. 그렇지 않고서는 국내 자체에서는이 피지사랑 연동을 해야 되는데 뭐 그건 사실 어떤 바이브 코딩 툴을 사용하시더라도이 PG 세팅하는게 조금 지옥 같거든요. 그래서 요런 거를 좀 해결해 주는 서비스가 나온다거나 아니면 PG사가 나오면 좀 피지사가 나오면 훨씬 더 좋지 않을까 생각이 듭니다.",
+        "그래서 뭐 몇 달 기다릴 필요 없이 뭐 내가 첫문학적인 외주비를 주고 아이디어를 검증할 필요 없이 오늘 만들어서 내가 직접 쓸 수도 있고요. 바로 테스트를 해 볼 수도 있습니다. 자, 그리고 오늘 사용한이 프롬프트 역시 설명란에 정리를 해 놓을테니까 한번 사용해 보시고 여러분만의 프롬프트로 바꿔서 앱을 만들어 보시고 어떤 앱을 만들었는지 댓글로 알려 주시면 되겠습니다."
+      ],
+      "top_comments": [
+        {
+          "video_id": "wKwvzXFP2Wg",
+          "comment_id": "UgxxWxa2nPKjLZpofF94AaABAg",
+          "author": "@success_wiki",
+          "text": "코드도 API 키도 필요 없이 5분 만에 AI 앱 만들기 — OnSpace AI: https://www.onspace.ai/?via=yt_successwiki\r\n모바일로 가능합니다: https://onspace.onelink.me/za8S/rsmk2b1t?c=successwiki\r\n구독자 500 크레딧 혜택 코드: \"swiki\"\r\n프롬프트: https://successwiki.gumroad.com/l/sblcbb",
+          "like_count": 0,
+          "reply_count": 0,
+          "published_at": "2026-04-11T19:46:05Z"
+        },
+        {
+          "video_id": "wKwvzXFP2Wg",
+          "comment_id": "UgyUe75jVRkTj92C9ht4AaABAg",
+          "author": "@starmankim",
+          "text": "프롬프트는 어디서 확인하나요?",
+          "like_count": 0,
+          "reply_count": 0,
+          "published_at": "2026-04-11T18:18:47Z"
+        },
+        {
+          "video_id": "wKwvzXFP2Wg",
+          "comment_id": "Ugzkfj6mGInPAxMfDVR4AaABAg",
+          "author": "@jameslee-wn1vl",
+          "text": "온스패이스 클라우드 사용료는 얼마나 되는지요?",
+          "like_count": 0,
+          "reply_count": 0,
+          "published_at": "2026-04-11T11:04:03Z"
+        },
+        {
+          "video_id": "wKwvzXFP2Wg",
+          "comment_id": "UgyO6kndGkGYIeLfwjN4AaABAg",
+          "author": "@hostblue-x8r",
+          "text": "맥북 없어도 앱스토어 등록가능한가요?",
+          "like_count": 0,
+          "reply_count": 0,
+          "published_at": "2026-04-11T08:40:15Z"
+        },
+        {
+          "video_id": "wKwvzXFP2Wg",
+          "comment_id": "UgyoXLZOI4TywnvD6vB4AaABAg",
+          "author": "@silkroad_church.z467",
+          "text": "설명란에??? 보이지 않는데요.",
+          "like_count": 0,
+          "reply_count": 0,
+          "published_at": "2026-04-11T06:41:34Z"
+        }
+      ]
+    },
     {
       "video_id": "NOqh_Jk7ZQQ",
       "channel_key": "uchhyxslbevvnbvsq57n1mtq",
@@ -715,9 +1415,9 @@
         "Higgsfield와 같은 툴을 사용하면 AI 생성 이미지의 미적, 시각적 퀄리티를 한층 높일 수 있다."
       ],
       "transcript_highlights": [
-        "AI의 미래를 바꿀 수 있는 새로운 아바타를 만들고, 나만의 전문적인 AI 클론을 생성할 수 있습니다.",
-        "이제 AI 클론 훈련을 위한 새로운 영상을 만들 차례입니다. 다양한 AI 영상 모델을 사용하기 좋은 Higsfield를 활용하겠습니다.",
-        "AI 클론으로 제작한 짧은 영상들의 채널 성과를 테스트해봤습니다. 그중 하나를 살펴보겠습니다."
+        "And this might just change the whole future of AI. And now we can take that back into Hen and create an entirely new avatar. And this is my slightly more professional AI clone of myself.",
+        "Now, the next step is we're going to create a new video for our clone training. And I'm using this inside of Higsfield, and that's because it's my favorite place to use different AI video models.",
+        "Well, I've been testing this and I actually created a number of shorts with an AI clone on my channel to see how they performed. Let's take a look at one of those."
       ],
       "top_comments": [
         {
@@ -1019,9 +1719,9 @@
         "큰 담론보다 작은 병목 하나를 해결해주는 포장 방식이 클릭으로 이어지기 쉽다."
       ],
       "transcript_highlights": [
-        "AI 모델이 신뢰성을 확보해야 진정한 수용을 얻을 수 있으며, AlphaFold는 330만 명의 연구자가 사용하고 있습니다.",
-        "AlphaFold는 정확할 뿐만 아니라 불확실한 예측에 대해서는 명확하게 표시하여 연구자가 신뢰하고 사용할 수 있도록 합니다.",
-        "과학자들은 AlphaFold의 예측 결과를 보고 특정 경우에 사용하지 말아야 할 예측을 명확히 알 수 있습니다."
+        "I think at the end of the day reliability and trust go hand in hand and it's it's something that AI models have to achieve to gain true acceptance. So I mentioned that Alphafold has been used by 3.3 million researchers.",
+        "They use alpha fold because not only is it very accurate but in places where it is inaccurate holds its hand up and says I am uncertain don't use this prediction. And that's very important.",
+        "And now scientists can basically look at this uh result and they can say, \"Oh yes, Alphaold produced this uh this other structure, but in this particular case, it marked it as red saying don't use it or use it."
       ],
       "top_comments": [
         {
@@ -1182,9 +1882,9 @@
         "앤트로픽은 클로드 미토스의 잠재적 위험성 때문에 일반 공개를 연기하고 안전성 확보를 우선시하는 결정을 내렸다."
       ],
       "transcript_highlights": [
-        "클로드 미토스의 성능을 오픈소스 패키지로 테스트했을 때, 사용자의 망상을 조장하는 결과가 나타났습니다. 이는 오퍼스보다 높은 오류율로 이어졌습니다.",
-        "또한, 앤트로픽의 실수로 인한 정렬 위험에 대한 59페이지 분량의 보고서에서 또 다른 우려스러운 가능성을 발견했습니다.",
-        "클로드 미토스는 파일 삭제 기능이 없어, 파일을 비워서 삭제 작업을 수행하려는 시도를 했습니다. 이는 명백한 기능적 한계와 오류를 보여줍니다."
+        "But when Mythos was tested using an open- source package, not designed specifically for Claude, the results were more mixed. Encouragement of user delusion was error bars accepting higher than for Opus.",
+        "This is something I may likely cover in other videos. But in this separate 59page paper on alignment risk from mythos, we do notice another worrying possibility because Anthropic made a mistake.",
+        "But I'll give you just one simple example. To accomplish a task, Claude Mythos at one point decided to empty a file because it didn't have the ability to delete it. The task needed that file deleted."
       ],
       "top_comments": [
         {
@@ -1289,9 +1989,9 @@
         "Seedance 2.0은 미국 시장에 출시되었으나, 폭력, 외설, 누드 등에 대한 강력한 검열 기능을 포함하고 있다."
       ],
       "transcript_highlights": [
-        "Happy Horse가 GPT 이미지보다 더 기대되는 이유는 오픈소스 약속 때문인 것 같습니다.",
-        "최근 미국에서 Sea Dance에 접근할 수 있게 되었는데, 이제 Happy Horse가 오픈소스로 출시됩니다.",
-        "Happy Horse가 곧 공개될 예정이니, 아레나에서 자유롭게 사용해보고 초기 샘플들을 살펴보길 바랍니다."
+        "Happy Horse I think has me a little bit more excited for some reason right now than the GPT image too, but I think it's just because of that opensource promise.",
+        "We just now got access in the US to Sea Dance. And now Happy Horse is coming out open source.",
+        "So, yeah, hopefully Happy Horse is releasing publicly very soon. We could just mess around with it on the arena, check out some of those early samples."
       ],
       "top_comments": [
         {
@@ -1397,9 +2097,9 @@
         "AI 활용 성공은 개인의 문제가 아니라, 성공할 수 있는 환경을 조성하는 리더십의 문제다."
       ],
       "transcript_highlights": [
-        "work slop(업무 난맥상)은 조직 내 문제의 증상이며, 이는 리더십 문제와 직결됩니다.",
-        "work slop을 유발하는 주요 원인은 일반적인 AI 도입 지침과 조직 내 문제에 있습니다.",
-        "work slop의 근본적인 원인이 리더십 문제에 있다는 점은 우리의 논문에서도 주장하는 바입니다."
+        "And so, if that's true, then it's a leadership uh problem. And when we look at all the factors that lead to work slop, that's really a recipe with two main ingredients. One is a AI mandates that are really general.",
+        "It's I think work slop and we we argue this in our paper is more of a symptom that there's a problem in the organization. And so, if that's true, then it's a leadership uh problem.",
+        "And so, if that's true, then it's a leadership uh problem."
       ],
       "top_comments": []
     },
@@ -1462,8 +2162,9 @@
         "앤트로픽은 클로드 미토스의 강력한 성능을 보안 강화 목적으로 대기업과 협력하여 활용하고 있다."
       ],
       "transcript_highlights": [
-        "클로드(Claude)는 비즈니스 모델을 방어하기 위해 즉시 보도자료를 발표했습니다.",
-        "AI 우위의 핵심은 AI 학습 로드맵을 구축하는 데 있습니다. 새로운 프레임워크를 통해 이를 실현할 수 있습니다."
+        "So they came out with this and immediately Claude had to defend their business model so to say with this press release, right?",
+        "That's the whole idea of the AI advantage. I kind of struggled fitting open claw in there. But I think with this happening and with a new framework that I built, it's basically this like AI learning road map.",
+        "But I think with this happening and with a new framework that I built, it's basically this like AI learning road map."
       ],
       "top_comments": [
         {
@@ -1572,9 +2273,9 @@
         "광범위한 논의보다 특정 병목 현상을 해결해주는 방식으로 접근하는 것이 클릭률을 높이는 데 유리합니다."
       ],
       "transcript_highlights": [
-        "모든 기능을 다루고, 더 중요하게는 이 모든 기능을 워크플로로 연결하여 최대의 잠재력을 발휘하는 방법을 설명합니다. 가격 정책도 공개하며, LLM 중 가장 강력한 무료 플랜을 제공한다는 점을 강조합니다.",
-        "이미지를 이해할 수는 있지만 생성할 수는 없습니다. 다른 모든 모델(ChatGPT, Gemini 등)이 훌륭한 이미지를 생성하는 것과 달리 Claude는 이미지 생성이 불가능하다는 점이 아쉽습니다.",
-        "이전 영상에서는 Claude를 사용하여 전체 인수 자료를 PowerPoint 프레젠테이션으로 만들었습니다. Claude 내에서 직접 보거나 컴퓨터로 다운로드할 수 있는 다양한 형식을 지원합니다."
+        "I'll cover every feature, and more importantly, how to connect it all into workflows that unlock its full power. This is the pricing. They do have one of the strongest free plans of all the LLMs.",
+        "And one note, although it can understand images, it can't generate them, which is kind of crazy when every other model like Chachypt or Gemini can generate amazing images, but Claude can't.",
+        "Or in a previous video, I had it create a full acquisition deck as a PowerPoint presentation. All sorts of formats that you can view directly inside Claude or download to your computer."
       ],
       "top_comments": [
         {
@@ -1679,9 +2380,9 @@
         "거창한 담론보다는 당장의 작은 불편함을 해결해주는 접근 방식이 클릭을 유도하기 쉽습니다."
       ],
       "transcript_highlights": [
-        "클라우드 코드 생성 기능을 사용하여 간단하게 자동 메일 스킬을 위한 자리 표시자를 만들 수 있습니다.",
-        "타이밍 조절이 매우 간편하며, 필요에 따라 다양한 bash 명령어를 추가할 수 있습니다.",
-        "모든 프로젝트에 적용된 매우 쉬운 설정 방식입니다."
+        "So it just should be like claude and our folder and something like skill, right? So, it's super easy to create yourself, but if you're a bit unsure, just make cloud code do this. So, create a placeholder for our automail skill.",
+        "Super easy to adjust the timing here. And there's a bunch of other bash commands you could add here if you wanted to like claude p-system prompt and stuff like that. But I'm not going to go into that now.",
+        "So super easy setup but this is exactly what I've done with all my other projects."
       ],
       "top_comments": [
         {
@@ -2051,9 +2752,9 @@
         "예를 들어, '내 주변 좋은 코워킹 카페'를 물어보면 AI가 현재 위치를 기반으로 추천합니다."
       ],
       "transcript_highlights": [
-        "이제 사용자의 현재 위치를 파악했으므로, 주변 추천 기능을 제공할 수 있습니다. 인터랙티브 앱을 사용하여 이를 확인할 수 있습니다.",
-        "이 기능은 기본적으로 꺼져 있으며, 설정 > Chip 데이터 컨트롤 > 위치 정보에서 활성화할 수 있습니다.",
-        "위치 정보 기능을 켜면 '가까운 좋은 공유 오피스 카페는 어디인가요?'와 같은 질문을 할 수 있습니다."
+        "And now that it knows I'm in Miami right now, I can make all of those recommendations. And as you can see, this is pretty much my location right here. So, I can use the interactive app here.",
+        "It's off by default, but if you want to try it, here's where to find it and what it does. Go to your settings in Chip data controls. And now you have this location feature.",
+        "Go to your settings in Chip data controls. And now you have this location feature. When I have this on, I can ask questions like, what is a good co-working cafe near me?"
       ],
       "top_comments": [
         {
@@ -2268,9 +2969,9 @@
         "이 새로운 도구를 통해 AI 에이전트와 스타트업 아이디어를 훨씬 쉽게 구축할 수 있습니다."
       ],
       "transcript_highlights": [
-        "MCP는 Zapier를 통해 Slack, Trello, Notion, Gmail 등 수천 개의 앱을 단일 연결로 통합하여 AI 에이전트와 연동할 수 있습니다. 이는 다른 MCP 서버와 달리 특정 앱만 연결하는 것과는 차별화됩니다.",
-        "코드 편집기나 터미널에 붙여넣을 프롬프트는 항상 검토하는 것이 좋습니다. 이 프롬프트는 Zapier SDK를 설정하도록 AI 에이전트에게 지시하여 수동 작업을 줄여줍니다.",
-        "Cursor, VS Code 등 모든 코드 편집기에서 SDK 설정을 자동화할 수 있는 AI 프롬프트가 제공되어 편리합니다."
+        "Unlike other MCP servers, which only connect up that specific app to an AI agent, MCP through Zapier works through all your apps, which means you can connect Slack, Trello, Notion, and Gmail, and thousands of others through a single connection.",
+        "I'm always going to recommend reading through any prompts you're going to inject into a code editor or your terminal. In this case, I've checked this one, and I'm pasting it here inside of Cursor on the sidebar to set the Zapier SDK up for me inside of this test project.",
+        "You can set up the SDK for Cursor or VS Code or any code editor. There's a really cool little prompt here that tells an AI agent how to set it up for you, so you don't have to go through all the manual labor of doing it yourself. Welcome to this brave new world."
       ],
       "top_comments": [
         {
@@ -2563,9 +3264,9 @@
         "복잡한 세상에서는 현장에서 빠르게 학습하고 행동할 수 있는 유능한 사람들의 상호작용이 더욱 중요하다."
       ],
       "transcript_highlights": [
-        "오늘날에는 계획보다는 예측 불가능한 상황에 대비하며, 이는 기존의 경직된 계층 구조를 느리게 만듭니다.",
-        "각 계층은 고객 및 시장 신호를 필터링하여 중요한 뉘앙스를 제거하고, 위아래로 이동하면서 정보를 왜곡하여 명확성을 떨어뜨립니다.",
-        "이는 '오즈의 마법사'에 나오는 틴맨처럼 유연하지 못하고 녹슨 캐릭터를 가진, 변화를 최소화하도록 설계된 전통적인 계층 구조를 의미합니다."
+        "But of course in today's landscape that's no longer the case. We have emergence rather than plans and blueprints. And so these traditional hierarchies are slow.",
+        "And so these traditional hierarchies are slow. Every layer acts as an information filter that strips the vital nuance from customers and market signals as it travels up and back down distorting clarity.",
+        "They were designed to minimize variation. Traditional hierarchies which we in a book called Tin Man organizations after the kind of lovely creaky inflexible rusty character in the Wizard of Oz."
       ],
       "top_comments": [
         {
@@ -3087,9 +3788,9 @@
         "AI를 활용하면 게임 개발의 진입 장벽을 낮출 수 있다."
       ],
       "transcript_highlights": [
-        "인생 최고의 FPS 게임이 될 것 같은데, 여러분의 생각은 어떤가요? 블랙 건 재질을 적용해 봅시다.",
-        "사실 유니티로 만든 첫 FPS 게임이에요.",
-        "FPS 게임이 정말 탄탄해 보입니다. 이제 총알이 발사될 때 시각적 피드백이 없으니 머즐 플래시를 추가해서 발사되는 것을 알 수 있도록 합시다."
+        "Y this is actually about to be the best game of all time. Comment down below if you guys think this is about to be the best FPS game on Steam. And then let's apply the black gun material to the gun.",
+        "But this technically is my first FPS game I ever made on Unity.",
+        "Yo, our FPS game is actually looking very very solid. Okay, so now let's add the muzzle flash so we know when we click we're actually shooting cuz like cuz right now we're getting no sensory input besides like visual."
       ],
       "top_comments": [
         {
@@ -3867,9 +4568,9 @@
         "OpenAI의 차세대 모델 'Spud'는 경제 전반에 영향을 미칠 만큼 혁신적인 성능 향상을 가져올 것으로 기대된다."
       ],
       "transcript_highlights": [
-        "이 캐릭터를 다양한 장면에 적용하여 높은 충실도와 해상도로 표현할 수 있습니다. 다만, 구글 지니 3는 오픈 소스 스타 플레이어는 아닙니다.",
-        "스퍼드(Spud)에 대해 미토스(Mythos)보다 더 기대가 됩니다. 미토스가 경제를 활성화하거나 성장시킬 만큼 대규모로 지원되기는 어려울 것 같기 때문입니다. 이제 속도를 좀 높이겠습니다.",
-        "개별 요청당 출력 가능한 토큰 수에 더 관심이 있습니다. Opus 4.7과 Sonnet 4.8이 코드에서 발견되었으며, 클로드 버디(Claude buddy)도 등장했지만, 이러한 유출 정보는 이보다 덜 구체적입니다."
+        "But we're able to take this same character and put it into a wide variety of different scenes. I mean, this fidelity, this resolution. It's not that Google Genie 3 star player for open source, though.",
+        "I'm excited for Spud, more so than Mythos, but only because I don't think they're going to be able to serve Mythos at the scale needed to drive the economy or push the economy. All right, we're going to pick up the speed a little bit.",
+        "I'd honestly be more interested to see how many tokens it can output on a single request. Opus 4.7 and Sonnet 4.8 8 are already being spotted in the code and a mysterious Claude buddy also appears. However, those leaks aren't nearly as substantive as this."
       ],
       "top_comments": [
         {
@@ -3980,9 +4681,9 @@
         "ChatGPT는 CarPlay를 지원하여 차량 내 음성 비서 기능으로 활용될 수 있게 되었습니다."
       ],
       "transcript_highlights": [
-        "클로(Claude)가 컴퓨터 제어 기능을 추가하여 버튼 클릭 등 이전보다 더 많은 작업을 수행할 수 있게 되었습니다.",
-        "Box, Notion, Linear, Dropbox 등과의 연동이 업데이트되어 CHBT 내에서 더 많은 작업을 처리할 수 있습니다. 다만, 해당 기능의 활용도는 개인에 따라 다를 수 있습니다.",
-        "업데이트된 버전으로 업그레이드할 수 있습니다."
+        "Next, there's a claw code update where they give it the ability to use your computer. Basically, it can click buttons on your computer now, which goes beyond what it was able to do before.",
+        "Anyway, if you use them, you can now upgrade them now to the new versions like so.",
+        "So, they have updates to Box, notion, linear, and dropbox. And basically, you can just do more stuff with the apps within CHBT, which can be nice. I don't know about you, please leave a comment if you are, but me personally, I don't really use these much."
       ],
       "top_comments": [
         {
@@ -4088,9 +4789,9 @@
         "새로운 혁신을 받아들이지 않으면, 경쟁자에게 미래를 내어줄 수 있다."
       ],
       "transcript_highlights": [
-        "조직 내에서 자원 배분 과정이 검증되고 안전해 보이는 곳으로만 흘러가면, 혁신적인 기술 도입에 따른 위험을 간과하게 됩니다.",
-        "위험을 감수하지 않으면 파괴적인 혁신을 가진 경쟁자에게 취약해질 수 있습니다.",
-        "새로운 혁신에는 언제나 위험이 따르는 것처럼 보입니다."
+        "Left unchecked, the resource allocation process inside an organization will direct everything to the known, to the proven, to the things that appear to be safe. Not recognizing that you're actually taking a [music] risk.",
+        "Not recognizing that you're actually taking a [music] risk. By not taking a risk, by leaving yourself susceptible to somebody who comes at you with a disruptive innovation.",
+        "When you look at a new innovation, it always feels like there's risk involved."
       ],
       "top_comments": []
     },
@@ -4778,9 +5479,9 @@
         "코딩이나 디자인 지식이 없어도 누구나 아이디어를 현실적인 결과물로 만들 수 있는 강력한 도구이다."
       ],
       "transcript_highlights": [
-        "캔버스를 움직이는 데 손 기능이 사용되며, 추가 이미지를 업로드하여 작업에 활용할 수 있습니다.",
-        "이 기능을 사용하면 모바일 앱도 만들 수 있으며, 재생 버튼을 눌러 인터랙티브 애플리케이션으로 만들 수 있습니다.",
-        "코드를 다시 작성할 필요 없이 버튼 하나로 웹사이트를 인터넷에 실시간으로 게시할 수 있습니다."
+        "The hand is just a way to move the canvas around. And here I could upload additional images as inspirations for me to work with as a part of the app.",
+        "This way you could also create mobile apps, by the way. Oh, and here's the fun part. You can just press this play button and it will turn it into an interactive application.",
+        "We'll just rebuild this. And then with a press of another button, it's actually live on the internet. It's the simplest way to get a website up."
       ],
       "top_comments": [
         {
@@ -5040,9 +5741,9 @@
         "단순히 즉흥적으로 행동하는 것이 아니라, 실험에는 논리가 있어야 한다."
       ],
       "transcript_highlights": [
-        "혁신을 위해서는 빠르고 엄격하며 관련성 높은 실험이 필수적입니다.",
-        "혁신은 계획을 세우고 실행하는 방식이 아니라, 효과적이고 효율적으로 협업하고 반복할 수 있는 조직을 구축하는 과정에서 이루어집니다.",
-        "조직은 무작정 하는 것이 아니라, 협업과 반복을 통해 효과적으로 혁신할 수 있어야 합니다."
+        "And so what you know people need to be able to do is to actually run very rigorous and relevant experiments really quickly. [music] Innovation doesn't happen because we can you know we make a plan and we go there.",
+        "[music] Innovation doesn't happen because we can you know we make a plan and we go there. It's more iterative. So, how do you build an organization where people can tolerate and know how to collaborate and iterate together in an effective and efficient way?",
+        "So, how do you build an organization where people can tolerate and know how to collaborate and iterate together in an effective and efficient way? You don't want to just, you know, be willy-nilly."
       ],
       "top_comments": []
     },
@@ -5859,9 +6560,9 @@
         "Ladybug AI는 2026년 최고의 무료 AI 인간화 도구 중 하나이다."
       ],
       "transcript_highlights": [
-        "GBTZ0ero에 다시 제출했더니 100% 사람이 생성한 것으로 나왔습니다. AI를 인간적인 글로 바꿔주는 도구를 찾으신다면 Ladybug AI Humanizer를 확인해보세요. 400단어를 무료로 제공합니다.",
-        "AI 인간화 도구를 찾으신다면 Ladybug AI Humanizer를 확인해보세요. 400단어를 무료로 제공합니다.",
-        "AI 표절 검사를 위해 에세이를 복사하여 붙여넣었더니 100% AI 생성으로 나왔습니다. 과제를 망치고 싶지 않아 온라인에서 AI 인간화 도구를 검색하다 Ladybug AI를 찾았습니다."
+        "I put it back in GBTZ0ero and turn it in and now it says that it's 100% human generated. So, if you guys are looking for an AI humanizer that actually works, check out Ladybug AI Humanizer and get 400 words for",
+        "So, if you guys are looking for an AI humanizer that actually works, check out Ladybug AI Humanizer and get 400 words for",
+        "When I copy and pasted my essay to check for AI plagiarism, it came back as 100% AI. Now, I'm not trying to fail this assignment. So, I searched online for an AI humanizer and I found this site called Ladybug AI."
       ],
       "top_comments": [
         {
@@ -5965,9 +6666,9 @@
         "AI를 사용하면 오히려 업무 생산성이 더 저하될 수 있다."
       ],
       "transcript_highlights": [
-        "처음에는 단순히 업무를 효율적으로 처리하려 하지만, 더 많은 시간이 소요되어 좌절감을 느낍니다.",
-        "이는 콘텐츠 제작자를 덜 유능하고 신뢰할 수 없다고 여기게 만들며, 협업 의지를 저하시키는 대인 관계 현상으로 이어집니다.",
-        "연구 결과, 사람들은 이러한 상황에서 불쾌감, 좌절감, 심지어 분노까지 느끼는 것으로 나타났습니다."
+        "So, there's sort of that first wave of emotional experience that you have that's like look, I'm just trying to get my work done here and this is costing me more time.",
+        "And then it creates this interpersonal phenomenon where it actually makes you judge the producer of the content to be less competent, less trustworthy, like you don't want to work with them anymore.",
+        "But what we found in the research and what really was remarkable to us was how emotional it is, how annoyed, frustrated, even angry people are when they receive it."
       ],
       "top_comments": []
     },
@@ -6551,9 +7252,9 @@
         "동반되지 않은 공감은 오히려 문제가 될 수 있으며, 공감은 연민의 여러 요소 중 하나일 뿐이다."
       ],
       "transcript_highlights": [
-        "공감이 유일한 도구라면, 일을 미루게 되어 상황이 악화될 수 있습니다. 반면, 연민은 왜 이 일이 반드시 필요한지 정확히 이해하는 것입니다.",
-        "연민은 상대방의 입장에서 그들이 겪는 고통을 이해하는 것입니다.",
-        "연민은 왜 이 일이 반드시 필요한지 정확히 이해하는 것입니다."
+        "If the only tool in your arsenal is empathy, that's going to be overwhelmingly hard and maybe something you're going to put off and that's going to make things worse. Compassion is one in which you understand exactly why this needs to be done.",
+        "Compassion is one in which you understand exactly why this needs to be done. You put yourself in the place of other people such that you can understand what they're going through.",
+        "Compassion is one in which you understand exactly why this needs to be done."
       ],
       "top_comments": []
     },
@@ -6718,9 +7419,9 @@
         "큰 담론보다 작은 병목 하나를 해결해주는 포장 방식이 클릭으로 이어지기 쉽다."
       ],
       "transcript_highlights": [
-        "새로운 채팅을 시작하려면, 특정 내용을 선택한 후 '새 채팅 시작'을 누르세요.",
-        "개인 재무 추적기와 같은 Excel 파일을 만들면 라이브러리에 해당 도구가 나타납니다. 이 도구를 선택하면 새로운 채팅을 시작할 수 있습니다.",
-        "스크린샷을 찍거나 Excel 파일을 생성하면 라이브러리에 표시되며, 이를 선택하여 새로운 채팅을 시작할 수 있습니다."
+        "But here is the fun thing and the use case I want you to be aware of. You can kind of select this and start a brand new chat with it.",
+        "But also, if you create something like a personal finance tracker as an Excel sheet, a tool will appear in this library. But here is the fun thing and the use case I want you to be aware of. You can kind of select this and start a brand new chat with it.",
+        "So, if you took a screenshot and added it, it'll appear here. But also, if you create something like a personal finance tracker as an Excel sheet, a tool will appear in this library."
       ],
       "top_comments": [
         {
@@ -6987,9 +7688,9 @@
         "큰 담론보다 작은 병목 하나를 해결해주는 포장 방식이 클릭으로 이어지기 쉽다."
       ],
       "transcript_highlights": [
-        "OpenClaw와 앱 및 서비스를 연동하는 가장 좋은 방법은 API 대신 MCP를 사용하는 것입니다. 이를 위해 Zapier를 활용할 것입니다.",
-        "OpenClaw에서 사용할 모델을 선택해야 합니다. 'Quen 3.5 latest'를 사용하는 것을 권장합니다.",
-        "로컬 모델만 실행하므로 '로컬'을 선택하겠습니다. OpenClaw에서 사용할 모델을 선택해야 합니다."
+        "The final thing I want to show you is how to connect up your apps and services directly to OpenClaw, but through a middleman. A lot of people are connecting them through APIs, but one of the best ways to do so is through MCP. And for this, I'll be using a Zapier.",
+        "Finally, you'll need to select the model we'll be using for OpenClaw. As you can see, I've downloaded a few models here for Olama, but if you're doing this, you should just see Quen 3.5 latest. So, let's utilize that.",
+        "Since I only want to run a local models, I'm going to select a local for this option. Finally, you'll need to select the model we'll be using for OpenClaw."
       ],
       "top_comments": [
         {
@@ -7345,9 +8046,9 @@
         "큰 담론보다 작은 병목 하나를 해결해주는 포장 방식이 클릭으로 이어지기 쉽다."
       ],
       "transcript_highlights": [
-        "우리가 안티패턴이라고 부르는 것들과 조직이 끊임없이 개선하기 위해 하는 많은 작은 일들을 통해, 자기 파괴적인 혁신 없이 더 나은 스스로가 될 수 있습니다.",
-        "문어는 환경 변화에 놀랍도록 적응력이 뛰어나며, 수온 변화에 맞춰 RNA를 편집할 수 있습니다. 또한 뇌신경의 2/3가 팔에 분포되어 있어 매우 지능적인 행동을 합니다.",
-        "우리는 끊임없이 변화하는 조직에서 영감을 얻으며, 변화는 사람들과 함께 이루어져야 한다고 믿습니다."
+        "What we call antiatterns. And a lot of little things organizations do continually to improve. So you don't have to go through this soul destroying transformation to become a better version of yourself.",
+        "Uh the octopus is insanely adaptive to the point where it can edit its own RNA to accommodate switching from say hot to cold water within hours. It's an amazingly curious creature, but the real genius is that twothirds of its neurons are in its arms.",
+        "We take inspiration from organizations that continually change. We believe that change should be done with people."
       ],
       "top_comments": [
         {
@@ -7730,9 +8431,9 @@
         "큰 담론보다 작은 병목 하나를 해결해주는 포장 방식이 클릭으로 이어지기 쉽다."
       ],
       "transcript_highlights": [
-        "Suno AI를 음악 생성용 일일 머신으로 사용한다면 최고의 선택일 것입니다. Gemini 무료 플랜을 통해 Lyria 3를 사용해볼 수 있으며, 짧은 30초 데모에 적합할 수 있습니다.",
-        "Suno AI, Lyria 3, Suno Auto V3 미리보기의 관계가 불분명하며, Lyria 3에는 중대한 문제가 있습니다.",
-        "결론적으로, Suno V5.5는 아직 개선할 시간이 더 필요해 보입니다."
+        "If I had to pick one of these to use as my daily AI music machine, it's going to be Suno AI, but I think even on free Gemini plans, you can use Lyria 3 and test it out at least for quick 30-second demos. That might be enough for like video games.",
+        "I don't even know what that was. How do the Suno AI pieces fit in with Lyria 3 and Suno Auto V3 preview? Lyria 3 has a major issue.",
+        "All right, so at the end of the day, where do we land with all of this? Suno V5.5, I think this whole bun needs some more time in the oven."
       ],
       "top_comments": [
         {
@@ -8357,9 +9058,9 @@
         "ChatGPT의 대화 기록은 내보내기 가능하나, Gemini로 직접 가져오는 기능은 없다. 중요한 대화는 수동 복사/붙여넣기가 필요하다."
       ],
       "transcript_highlights": [
-        "프로젝트별 채팅 그룹화 기능은 사라지지만, 모든 맥락을 옮겨올 수 있습니다.",
-        "Gemini에서는 채팅 기능이 하나로 통합되어 제공됩니다.",
-        "Chat GPT의 모든 기능과 채팅 기록을 Gemini로 그대로 옮겨오는 것은 불가능합니다. 하지만 GPT 및 프로젝트 맥락을 Gemini로 가져오는 최적의 방법을 안내해 드리겠습니다."
+        "Now, again, you're going to lose the ability to group the chats by project, but that is the trade-off you're making here. And that is how to bring over all of the context.",
+        "Now, let's talk about the Gemini side of things and how this transfers because in Gemini, you only have one feature.",
+        "If you're looking for a clean solution where every chat comes over and everything that you're used to inside of ChatG just comes to Gemini, that won't be possible. But I'll be showing you some best practices on how to bring your context projects GPTs over from chat GPT to Gemini."
       ],
       "top_comments": [
         {
@@ -8452,9 +9153,9 @@
         "큰 담론보다 작은 병목 하나를 해결해주는 포장 방식이 클릭으로 이어지기 쉽다."
       ],
       "transcript_highlights": [
-        "효율적인 실험과 학습, 그리고 의사결정 능력을 길러 창의적인 해결 능력을 키울 수 있습니다.",
-        "창의적 민첩성이라고도 불리는 실험과 학습 능력을 효율적으로 발전시킬 수 있습니다.",
-        "효율적인 실험과 학습, 그리고 의사결정 능력을 통해 창의적인 해결 능력을 향상시킬 수 있습니다."
+        "Can you actually do that kind of experimentation and learning again um efficiently? And then this muscle of how to make decisions, creative resolution. So doing an assessment and begin to work with people, have other people help you figure out where should we start?",
+        "the muscle to experiment and learn which we refer to as creative agility. Can you actually do that kind of experimentation and learning again um efficiently?",
+        "Can you actually do that kind of experimentation and learning again um efficiently? And then this muscle of how to make decisions, creative resolution."
       ],
       "top_comments": [
         {
@@ -8529,9 +9230,9 @@
         "큰 담론보다 작은 병목 하나를 해결해주는 포장 방식이 클릭으로 이어지기 쉽다."
       ],
       "transcript_highlights": [
-        "전기 회사의 경우 대부분 독점적인 사회에 속해 있어 선택의 여지가 없다는 점이 큰 차이입니다.",
-        "페이스북 메타도 이를 주목하고 있습니다. 인수 금액은 공개되지 않았지만, 개발자들은 직접 '바이브 코딩'으로 만들었다고 밝혔습니다.",
-        "그들은 시기적절하게 기회를 포착한 것으로 보입니다. 개발 의도는 알 수 없지만, 많은 사용자를 끌어들이는 데 성공했습니다."
+        "Except the big difference is when it comes to electric companies, most of us are in like monopolistic societies where we don't have a choice of our electric company.",
+        "And you got Facebook Meta looking at it. Um I don't know, did they disclose how much they've No, it hasn't been disclosed how much um they got bought for. Um but the the other interesting thing about this is the guys that made it flat out said we vibe coded this.",
+        "But it's so interesting cuz so they capitalized on that timing it seems like. I mean I don't know the intention of why they made it but sure as heck got a lot of people to get in there."
       ],
       "top_comments": [
         {
@@ -8627,9 +9328,9 @@
         "큰 담론보다 작은 병목 하나를 해결해주는 포장 방식이 클릭으로 이어지기 쉽다."
       ],
       "transcript_highlights": [
-        "공감만으로는 어려운 일을 해내기 어렵고, 미루다가 상황을 악화시킬 수 있습니다. 반면, 연민은 그 일이 왜 필요한지 정확히 이해하는 것입니다.",
-        "신앙심이 깊은 사람으로서, 어려운 일을 하기 전에 관련된 사람들을 위해 기도하고 용기를 달라고 기도합니다.",
-        "공감에만 의존하면 어려운 일을 해내기가 매우 힘들어집니다. 때로는 오히려 상황을 더 악화시키고 다른 사람들에게 더 큰 피해를 줄 수 있습니다. 연민은 이와 다릅니다."
+        "If the only tool in your arsenal is empathy, that's going to be overwhelmingly hard and maybe something you're going to put off, and that's going to make things worse. Compassion is one in which you understand exactly why this needs to be done.",
+        "I'm a religious person, and one of the things that I've done is I pray for people before I have to do a hard thing. I pray for the people that I'm actually going to affect in this particular way, and I pray for the courage.",
+        "And when you're motivated entirely by empathy, it becomes a really hard thing to do, to do these difficult things, and you might even be handcuffed and unable to do them. And you'll wait too long, when it gets even more damaging to other people. Compassion is different."
       ],
       "top_comments": [
         {
@@ -8718,9 +9419,9 @@
         "큰 담론보다 작은 병목 하나를 해결해주는 포장 방식이 클릭으로 이어지기 쉽다."
       ],
       "transcript_highlights": [
-        "AI를 활용한 최고의 부업 중 하나로, OpenClaw와 Hostinger VPS를 사용하면 24시간 주식 시장을 분석할 수 있습니다.",
-        "위험 부담 없이 데이 트레이딩을 시작하고 싶다면 OpenClaw와 Hostinger VPS를 활용해 보세요.",
-        "호스팅어 VPS 연간 요금제 10% 할인 및 크레딧 구매 시 추가 혜택을 받으려면 영상 설명란의 링크와 할인 코드를 사용하세요. 봇을 한 번 설정하면 매일 자동으로 작동합니다."
+        "I saved as a contact clock. And again, I just want to say this is one of the best side hustles you can use AI for. And in this case, OpenClaw with the Hostinger VPS is always going to be on, always going to be studying the stock for you.",
+        "Claw, you're not funny, bro. So, this is like a really good side hustle if you're trying to get into day trading and you don't want to take that men's risk, you can literally just open claw your way with the hostinger VPS.",
+        "So basically, if you buy five credits, you get five free. If you want to run OpenClaw without limits and save serious money, use my link in the description and apply my code in description for 10% off yearly VPS plans. Load your bot once and let it just work every day after that."
       ],
       "top_comments": [
         {
@@ -9190,9 +9891,9 @@
         "AI는 '자동 테스트 기준'이 있다면 복잡한 소프트웨어 개발뿐만 아니라 시각적 창작 작업에서도 인간의 도움 없이 새로운 해결책을 찾을 수 있다."
       ],
       "transcript_highlights": [
-        "Claude 코드를 훈련시켜 그림을 그리도록 하는 과정을 보여줍니다. 눈 속에서 뛰노는 개의 그림을 생성하는 데 사용될 것입니다.",
-        "이것은 이미지가 아니라 그림입니다. Claude 코드를 훈련시켜 그림을 그리도록 하는 방법입니다.",
-        "재미있는 실험으로 직접 시도해 볼 수 있습니다. 이것이 오늘 공유하고 싶었던 전부입니다."
+        "So you can see this is how we train kind of claude code to learn to draw in paint. And it should able to paint a dog here now playing in snow. So, this is going to be the dog.",
+        "Not image, painting if you want to call it that. So you can see this is how we train kind of claude code to learn to draw in paint.",
+        "But yeah, that's what I wanted to share today. Just a fun experiment you can try out for yourself."
       ],
       "top_comments": [
         {
@@ -9291,9 +9992,9 @@
         "큰 담론보다 작은 병목 하나를 해결해주는 포장 방식이 클릭으로 이어지기 쉽다."
       ],
       "transcript_highlights": [
-        "Meta의 이용 약관에 따르면 AI 또는 실제 사람이 카메라 녹화 내용을 검토할 수 있습니다.",
-        "Meta는 사용자가 인지하지 못한 채 녹화될 수 있는 Meta 글래스의 영상들을 검토하고 있다는 보도가 있었습니다.",
-        "Meta 측은 일부 영상의 흐림 처리가 완벽하지 않다는 점을 인정했습니다."
+        "And you can basically Meta's terms of service say that we may actually review what's on what's being recorded with those cameras either autonomously through AI or through actual humans reviewing them.",
+        "They're in the news for basically uh taking a look at all these videos that you may or may not be knowing you're recording while you're using your Meta glasses.",
+        "But if you read the article, they interviewed people at that company and they're like, \"Yes, some of it's blurred, but not all of it. The blurring doesn't work very well."
       ],
       "top_comments": [
         {
@@ -9359,8 +10060,9 @@
         "큰 담론보다 작은 병목 하나를 해결해주는 포장 방식이 클릭으로 이어지기 쉽다."
       ],
       "transcript_highlights": [
-        "AI 효율성 증대 시 일자리 감소에 대한 우려를 해소하고, 일상 업무에 매몰되지 않고 업무 방식을 재설계하는 것이 중요합니다.",
-        "영업, 운영, 마케팅 팀 간의 참여를 게임화하고, 선도적인 기여자뿐만 아니라 고객 문제를 해결하는 데 열정을 보인 사람들도 함께 축하했습니다."
+        "And I think one of the learnings for us from the last year is that as soon as you talk about AI efficiencies, people think, \"Oh, I'm going to lose my job.\" And so we've very deliberately articulated that actually it's not about making job cuts.",
+        "The risk is really in letting day-to-day urgencies crowd out redesigning how the work actually gets done.",
+        "We gamified engagement across teams like sales, operation and marketing and made an intentional effort to celebrate not just the contributions of the people who were storming ahead, but the people who really embraced that passion for bringing a customer problem to life."
       ],
       "top_comments": [
         {
@@ -9433,9 +10135,9 @@
         "큰 담론보다 작은 병목 하나를 해결해주는 포장 방식이 클릭으로 이어지기 쉽다."
       ],
       "transcript_highlights": [
-        "클라우드 코드가 제대로 작동하지 않고, 잘못된 도구, 구조, 업무 방식과 맞지 않는 제안을 받을 때 실망하게 됩니다. 클라우드 코드가 과대평가되었거나 자신에게 맞지 않다고 생각할 수 있습니다.",
-        "클라우드 코드가 잘못된 것이 아니며, 당신은 충분히 기술적입니다. 문제는 당신의 비즈니스에 대한 맥락을 제공하지 않았다는 것입니다.",
-        "무슨 말인지 알겠어요? 이렇게 자세히 설명했음에도 클라우드 코드는 아직 전체 그림을 파악하지 못했습니다. 마치 기억상실증 환자와 일하는 것과 같습니다."
+        "And then when it comes back with something completely off, wrong tools, wrong structure, suggestions that makes no sense for how you actually work, you get frustrated. You think cloud code is overhyped. You think maybe it's not for you.",
+        "Claude code isn't broken and you're definitely technical enough. The problem is that you didn't give it any context about your business.",
+        "You see what I'm saying? And even after all that explaining, Claude still doesn't have the full picture. It's just like working with someone who has amnesia."
       ],
       "top_comments": [
         {
@@ -10203,9 +10905,9 @@
         "최종 결과물은 'Mini Monster Quest'라는 이름의 플레이 가능한 포켓몬 스타일 게임이다."
       ],
       "transcript_highlights": [
-        "제가 만든 포켓몬 클론 게임을 소개합니다. 영상 설명란에 링크가 있으니 직접 테스트해보세요.",
-        "구독 버튼도 눌러 10만 구독자를 달성하도록 도와주세요.",
-        "이미지 추가 외에는 개선할 점이 많지 않은 포켓몬 게임의 첫 번째 버전입니다."
+        "Hey, this is something I can get behind. This is definitely not some level one Pokémon, though.",
+        "Link will be in the description. You guys can test out this Pokemon clone that I just made in this video. And while you're down there testing out the game I just made, why don't you uh hit that sub button so we get 100K.",
+        "Okay, so this is first iteration of Pokémon. It's not bad at all, actually. There's not much to improve except for giving it images."
       ],
       "top_comments": [
         {
@@ -10307,9 +11009,9 @@
         "거시적인 담론보다는 작은 병목 현상을 해결해주는 접근 방식이 클릭률을 높이기 쉽습니다."
       ],
       "transcript_highlights": [
-        "Scratch로 Roblox를 만드는 방법을 배우고 있습니다. Gemini가 처음부터 끝까지 안내할 것입니다.",
-        "Gemini에게 Roblox를 코드로 한 번, Scratch 게임 엔진으로 한 번, 총 두 번 만들도록 요청했습니다.",
-        "다음으로 'steal a brain rot' 게임을 추가하고 싶지만, Gemini가 제공한 프롬프트가 좋지 않습니다."
+        "Now, it's time to make Roblox inside of Scratch. I think this is my first time using Scratch, actually. I don't know really what to expect here, but Gemini is going to guide me through the whole entire thing.",
+        "Today I'm forcing Gemini to build Roblox twice. First from scratch with real code, then inside of the Scratch game engine.",
+        "The next game I want to add is steal a brain rot. But this prompt that Gemini gave me is so bad."
       ],
       "top_comments": [
         {
@@ -10416,9 +11118,9 @@
         "큰 담론보다 작은 병목 하나를 해결해주는 포장 방식이 클릭으로 이어지기 쉽다."
       ],
       "transcript_highlights": [
-        "휴대폰으로 클로드 코드를 사용하려면 컴퓨터를 켜두어야 합니다. 이미 워크스테이션으로 사용 중이라면 컴퓨터가 켜져 있을 것입니다.",
-        "이전 방법은 단순한 기능만 지원하고 API 수정 시 추가 비용이 발생했습니다. 클로드 코드에는 '원격 제어' 기능이 내장되어 있어 이러한 문제를 해결했습니다.",
-        "컴퓨터에서 2초 걸리는 작업이 봇을 통해 30초 걸리는 경우가 있습니다. 이는 텔레그램뿐만 아니라 슬랙, 디스코드에서도 마찬가지입니다."
+        "You're in claw code on your phone. Your computer needs to stay on. But if you're already using it as a workstation, it probably already is.",
+        "Shortcuts only covered the simple stuff and the API fix meant paying twice. And that's when I found what I should have been using from the start, the real answer. Claude Code has a builtin feature called remote control.",
+        "The same thing that takes 2 seconds on your computer takes 30 seconds through a bot. And this isn't a Telegram problem. Slack does the exact same thing, and Discord does, too."
       ],
       "top_comments": [
         {
@@ -10595,9 +11297,9 @@
         "큰 담론보다 작은 병목 하나를 해결해주는 포장 방식이 클릭으로 이어지기 쉽다."
       ],
       "transcript_highlights": [
-        "Canva의 Magic Layers는 무료로 체험할 수 있지만, 장기적으로 사용하려면 월 15달러의 유료 요금제에 가입해야 합니다. 관심 있다면 Canva Magic Layers를 확인해 보세요.",
-        "Netflix가 벤 애플렉이 2022년에 설립한 AI 영화 제작 스타트업 Interpositive를 인수했습니다.",
-        "이번 주 'News You Can Use' 에피소드에서 다룬 내용은 여기까지입니다. 가장 마음에 드는 소식이 무엇이었는지 알려주세요. 즐거운 한 주 보내시기 바랍니다."
+        "You can test Magic Layers for free on Canva, but if you want to use it long-term, you'll have to sign up for at least their bottom tier paid plan, which isn't too bad at only $15 per month. So, go check out Canva Magic Layers if you're interested.",
+        "Teaching them how to use them properly is. Next, we have Netflix buying a stealth AI filmmaking company called Interpositive that Ben Affleck actually started back in 2022.",
+        "And that's pretty much everything we have for this week's episode of News You Can Use. I would love to hear which one of these was your favorite. And other than that, I hope you have a wonderful rest of the week."
       ],
       "top_comments": [
         {
