@@ -1,197 +1,251 @@
 {
-  "digest_date": "2026-04-16",
-  "generated_at": "2026-04-15T23:54:37+00:00",
-  "summary": "최근 24시간 영상 5개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'Claude'입니다. 특히 '50+ Insane Seedance Prompts You Have To Try (FREE Prompts)'는 조회수 5.4K, 참여율 6.8%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "'Claude' 주제가 1개 영상으로 가장 많이 다뤄졌습니다. 오늘 수집 영상 5개는 주로 '뉴스 분석' 포맷이라, VS 비교·직접 실험 각도는 아직 비어 있습니다. Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n[내 채널] 7일 평균 13.2K회 · 지속률 37.6% / 경쟁사 평균 3.1K회 (격차 +323%)",
-  "telegram_preview": "📡 스마트대디 모니터링 | 04/16\n\n📊 수집: 영상 5개 | 채널 5개\n\n🔥 참여율 TOP 3\n1. [AI Samson] 6.8% · 5.4K뷰\n   50+ Insane Seedance Prompts You Have To Try (FREE Prompts)\n2. [월텍남 - 월스트리트 테크남] 3.2% · 4.5K뷰\n   테슬라보다 스페이스X가 비싼 세가지 이유\n3. [안될공학 - IT 테크 신기술] 2.8% · 4.2K뷰\n   AI가 실시간 자세 교정까지... Gemini Live 로 무료 골프레슨을 받아보는 방법 | 골프 자세 교정 실험 | 생각보다 너무 좋다 ㅋㅋㅋ\n\n📌 화제 키워드\n   agents · automation · coding · monetization\n\n🎬 포맷: 뉴스 분석 4개 · 워크플로우 튜토리얼 1개\n\n📈 스마트대디 어제 실적\n조회수 8.0K (↓40% vs 7일 평균) | 구독 +109\n시청 지속률 36.0% | 평균 시청 2분 04초\n경쟁사 평균 3.1K회 대비 내 7일 평균 +323%\n\n💡 VS 각도: Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
-  "video_count": 5,
-  "total_recent_video_count": 5,
+  "digest_date": "2026-04-17",
+  "generated_at": "2026-04-16T23:53:59+00:00",
+  "summary": "최근 24시간 영상 12개를 기준으로 보면, 오늘 가장 먼저 볼 축은 '코딩'입니다. 특히 '처음 맥북 샀다면 '이것' 안 하면 손해다? Mac 왕초보 입문 필수 설정 및 추천앱 ver2026.'는 조회수 121.4K, 참여율 3.7%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "'코딩' 주제가 2개 영상으로 가장 많이 다뤄졌습니다. 일반인 관점 직접 실험 or VS 비교 각도로 차별화할 영역이 있습니다.\n[내 채널] 7일 평균 10.8K회 · 지속률 36.6% / 경쟁사 평균 20.0K회 (격차 -46%)",
+  "telegram_preview": "📡 스마트대디 모니터링 | 04/17\n\n📊 수집: 영상 12개 | 채널 10개\n\n🔥 참여율 TOP 3\n1. [ITSub잇섭] 3.7% · 121.4K뷰\n   처음 맥북 샀다면 '이것' 안 하면 손해다? Mac 왕초보 입문 필수 설정 및 추천앱 ver2026.\n2. [주연 ZUYONI] 2.7% · 70.2K뷰\n   한 달 썼는데도 만족도 계속 올라감;; S26 울트라 실사용 후기\n3. [테크몽 Techmong] 4.0% · 17.3K뷰\n   다이소 3천원짜리 이건 무조건 사세요!\n\n📌 화제 키워드\n   coding · agents · research · automation\n\n🎬 포맷: 뉴스 분석 8개 · 빌드 데모 2개 · 사례 분석 1개\n\n📈 스마트대디 어제 실적\n조회수 8.0K (↓26% vs 7일 평균) | 구독 +101\n시청 지속률 34.7% | 평균 시청 1분 57초\n경쟁사 평균 20.0K회 대비 내 7일 평균 -46%\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+  "video_count": 12,
+  "total_recent_video_count": 12,
   "focus_scope": "all_watchlist",
-  "average_view_count": 3132.0,
-  "average_engagement_rate": 0.028925411671345484,
-  "average_like_count": 120.0,
-  "average_comment_count": 11.0,
-  "best_video_id": "rXtuzDMLa_Y",
-  "best_topic": "Claude",
+  "average_view_count": 19954.0,
+  "average_engagement_rate": 0.037012737816811234,
+  "average_like_count": 583.0,
+  "average_comment_count": 83.0,
+  "best_video_id": "o3-7G1xqsKc",
+  "best_topic": "코딩",
   "summary_points": [
-    "가장 겹친 주제는 'Claude'이며 1개 영상, 평균 조회수 5.4K, 평균 참여율 6.8%입니다.",
-    "최고 실적 영상은 '50+ Insane Seedance Prompts You Have To Try (FREE Prompts)'이며 문제 해결 훅과 뉴스 분석 포맷 조합이 강했습니다.",
-    "반복 노출된 툴은 ChatGPT 1회, Claude 1회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
+    "가장 겹친 주제는 '코딩'이며 2개 영상, 평균 조회수 9.0K, 평균 참여율 4.5%입니다.",
+    "최고 실적 영상은 '처음 맥북 샀다면 '이것' 안 하면 손해다? Mac 왕초보 입문 필수 설정 및 추천앱 ver2026.'이며 문제 해결 훅과 빌드 데모 포맷 조합이 강했습니다.",
+    "반복 노출된 툴은 Claude 2회, Arc 2회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
   ],
   "action_chips": [
-    "주제: Claude",
+    "주제: 코딩",
     "훅: 문제 해결",
-    "포맷: 뉴스 분석",
-    "기준 채널: AI Samson"
+    "포맷: 빌드 데모",
+    "기준 채널: ITSub잇섭"
   ],
   "title_suggestions": [
-    "Claude vs ChatGPT, 일반인이 직접 써보니 이게 달랐다",
-    "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
-    "AI 비서 대결: Claude가 진짜 강한 상황은 따로 있었다"
+    "코딩 직접 실험 — 이게 진짜 되나?",
+    "코딩 vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
+    "코딩 써봤더니... (기대 vs 현실 솔직 후기)"
   ],
   "recommendations": [
     {
-      "title": "Claude vs ChatGPT, 일반인이 직접 써보니 이게 달랐다",
-      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "Claude 바로 해결",
-      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
-      "source_video_id": "rXtuzDMLa_Y",
-      "source": "50+ Insane Seedance Prompts You Have To Try (FREE Prompts)",
-      "my_channel_context": "내 7일 평균 13.2K회 · 지속률 37.6% / 경쟁사 대비 +323%"
+      "title": "코딩 직접 실험 — 이게 진짜 되나?",
+      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
+      "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
+      "thumbnail_copy": "코딩 바로 해결",
+      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
+      "source_video_id": "orHsM5hGn2A",
+      "source": "AI 경쟁, 모델보다 중요해지는 컴퓨트 경쟁 [2026 스탠포드 AI 인덱스 리포트 1부]",
+      "my_channel_context": "내 7일 평균 10.8K회 · 지속률 36.6% / 경쟁사 대비 -46%"
+    },
+    {
+      "title": "코딩 vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
+      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
+      "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
+      "thumbnail_copy": "코딩 바로 해결",
+      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
+      "source_video_id": "trK_tCCZrg8",
+      "source": "Why \"Winning\" an Argument Is a Losing Strategy",
+      "my_channel_context": "내 7일 평균 10.8K회 · 지속률 36.6% / 경쟁사 대비 -46%"
     }
   ],
   "topic_clusters": [
     {
-      "label": "Claude",
-      "count": 1,
-      "avg_view_count": 5430,
-      "avg_engagement_rate": 0.06777163904235728,
-      "avg_like_count": 333,
-      "avg_comment_count": 35,
+      "label": "코딩",
+      "count": 2,
+      "avg_view_count": 9037,
+      "avg_engagement_rate": 0.04476132651771438,
+      "avg_like_count": 250,
+      "avg_comment_count": 28,
       "source_titles": [
-        "50+ Insane Seedance Prompts You Have To Try (FREE Prompts)"
+        "AI 경쟁, 모델보다 중요해지는 컴퓨트 경쟁 [2026 스탠포드 AI 인덱스 리포트 1부]",
+        "Why \"Winning\" an Argument Is a Losing Strategy"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/rXtuzDMLa_Y/hqdefault.jpg",
-      "representative_video_id": "rXtuzDMLa_Y",
-      "representative_title": "50+ Insane Seedance Prompts You Have To Try (FREE Prompts)"
+      "thumbnail_url": "https://i.ytimg.com/vi/orHsM5hGn2A/hqdefault.jpg",
+      "representative_video_id": "orHsM5hGn2A",
+      "representative_title": "AI 경쟁, 모델보다 중요해지는 컴퓨트 경쟁 [2026 스탠포드 AI 인덱스 리포트 1부]"
     },
     {
-      "label": "테슬라보다",
-      "count": 1,
-      "avg_view_count": 4492,
-      "avg_engagement_rate": 0.032056990204808546,
-      "avg_like_count": 139,
-      "avg_comment_count": 5,
-      "source_titles": [
-        "테슬라보다 스페이스X가 비싼 세가지 이유"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/rtqLvPH81GE/hqdefault.jpg",
-      "representative_video_id": "rtqLvPH81GE",
-      "representative_title": "테슬라보다 스페이스X가 비싼 세가지 이유"
-    },
-    {
-      "label": "Gemini",
-      "count": 1,
-      "avg_view_count": 4159,
-      "avg_engagement_rate": 0.028131762442894927,
-      "avg_like_count": 104,
-      "avg_comment_count": 13,
-      "source_titles": [
-        "AI가 실시간 자세 교정까지... Gemini Live 로 무료 골프레슨을 받아보는 방법 | 골프 자세 교정 실험 | 생각보다 너무 좋다 ㅋㅋㅋ"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/x_WBKFjXI-Q/hqdefault.jpg",
-      "representative_video_id": "x_WBKFjXI-Q",
-      "representative_title": "AI가 실시간 자세 교정까지... Gemini Live 로 무료 골프레슨을 받아보는 방법 | 골프 자세 교정 실험 | 생각보다 너무 좋다 ㅋㅋㅋ"
-    },
-    {
-      "label": "ChatGPT",
-      "count": 1,
-      "avg_view_count": 1440,
-      "avg_engagement_rate": 0.016666666666666666,
-      "avg_like_count": 23,
-      "avg_comment_count": 1,
-      "source_titles": [
-        "didn't even know Google Vids existed until this week tbh"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/D8u0AaJaCNU/hqdefault.jpg",
-      "representative_video_id": "D8u0AaJaCNU",
-      "representative_title": "didn't even know Google Vids existed until this week tbh"
-    },
-    {
-      "label": "agents",
-      "count": 1,
-      "avg_view_count": 140,
-      "avg_engagement_rate": 0.0,
-      "avg_like_count": 0,
+      "label": "Seedance",
+      "count": 2,
+      "avg_view_count": 872,
+      "avg_engagement_rate": 0.007864916266046806,
+      "avg_like_count": 7,
       "avg_comment_count": 0,
       "source_titles": [
-        "멋쟁이사자처럼 백엔드 Java 부트캠프 사전설명회"
+        "Seedance 2: Master Multi-Shot Prompting for Consistency #shorts",
+        "Seedance 2: Revolutionizing AI Video with Multimodal Power! #shorts"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/YO_yEkcaCiQ/hqdefault.jpg",
-      "representative_video_id": "YO_yEkcaCiQ",
-      "representative_title": "멋쟁이사자처럼 백엔드 Java 부트캠프 사전설명회"
+      "thumbnail_url": "https://i.ytimg.com/vi/MpyqM4gzQiY/hqdefault.jpg",
+      "representative_video_id": "MpyqM4gzQiY",
+      "representative_title": "Seedance 2: Master Multi-Shot Prompting for Consistency #shorts"
+    },
+    {
+      "label": "Arc",
+      "count": 1,
+      "avg_view_count": 121378,
+      "avg_engagement_rate": 0.037115457496416156,
+      "avg_like_count": 3990,
+      "avg_comment_count": 515,
+      "source_titles": [
+        "처음 맥북 샀다면 '이것' 안 하면 손해다? Mac 왕초보 입문 필수 설정 및 추천앱 ver2026."
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/o3-7G1xqsKc/hqdefault.jpg",
+      "representative_video_id": "o3-7G1xqsKc",
+      "representative_title": "처음 맥북 샀다면 '이것' 안 하면 손해다? Mac 왕초보 입문 필수 설정 및 추천앱 ver2026."
+    },
+    {
+      "label": "한",
+      "count": 1,
+      "avg_view_count": 70178,
+      "avg_engagement_rate": 0.02733050243666106,
+      "avg_like_count": 1568,
+      "avg_comment_count": 350,
+      "source_titles": [
+        "한 달 썼는데도 만족도 계속 올라감;; S26 울트라 실사용 후기"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/nSIdXXSX1Ow/hqdefault.jpg",
+      "representative_video_id": "nSIdXXSX1Ow",
+      "representative_title": "한 달 썼는데도 만족도 계속 올라감;; S26 울트라 실사용 후기"
+    },
+    {
+      "label": "다이소",
+      "count": 1,
+      "avg_view_count": 17262,
+      "avg_engagement_rate": 0.04003012397172981,
+      "avg_like_count": 648,
+      "avg_comment_count": 43,
+      "source_titles": [
+        "다이소 3천원짜리 이건 무조건 사세요!"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/dtnlTopd_Mg/hqdefault.jpg",
+      "representative_video_id": "dtnlTopd_Mg",
+      "representative_title": "다이소 3천원짜리 이건 무조건 사세요!"
+    },
+    {
+      "label": "나이트",
+      "count": 1,
+      "avg_view_count": 5946,
+      "avg_engagement_rate": 0.01093171880255634,
+      "avg_like_count": 56,
+      "avg_comment_count": 9,
+      "source_titles": [
+        "나이트 크로우 신규 클래스 권갑 전투 실사화 #ai"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/-7WpNGuifdw/hqdefault.jpg",
+      "representative_video_id": "-7WpNGuifdw",
+      "representative_title": "나이트 크로우 신규 클래스 권갑 전투 실사화 #ai"
+    },
+    {
+      "label": "스페이스X",
+      "count": 1,
+      "avg_view_count": 2790,
+      "avg_engagement_rate": 0.04014336917562724,
+      "avg_like_count": 103,
+      "avg_comment_count": 9,
+      "source_titles": [
+        "스페이스X 기업가치 2조 달러? IPO 전에 반드시 확인하세요"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/xKIDf62MAhM/hqdefault.jpg",
+      "representative_video_id": "xKIDf62MAhM",
+      "representative_title": "스페이스X 기업가치 2조 달러? IPO 전에 반드시 확인하세요"
+    },
+    {
+      "label": "Claude",
+      "count": 1,
+      "avg_view_count": 903,
+      "avg_engagement_rate": 0.07641196013289037,
+      "avg_like_count": 64,
+      "avg_comment_count": 5,
+      "source_titles": [
+        "클로드 오퍼스 4.7 + 힉스필드AI = 광고업계 끝났습니다..."
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/pwKU0UXfhBE/hqdefault.jpg",
+      "representative_video_id": "pwKU0UXfhBE",
+      "representative_title": "클로드 오퍼스 4.7 + 힉스필드AI = 광고업계 끝났습니다..."
     }
   ],
   "video_highlights": [
     {
-      "video_id": "rXtuzDMLa_Y",
-      "channel_name": "AI Samson",
-      "title": "50+ Insane Seedance Prompts You Have To Try (FREE Prompts)",
-      "thumbnail_url": "https://i.ytimg.com/vi/rXtuzDMLa_Y/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=rXtuzDMLa_Y",
-      "published_at": "2026-04-15T14:12:40Z",
-      "view_count": 5430,
-      "like_count": 333,
-      "comment_count": 35,
-      "engagement_rate": 0.06777163904235728,
-      "topic_cluster": "Claude",
-      "summary": "이 영상은 coding 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "that bullet time is so surreal.. who would ever think we'd be getting tools like this 25 years…",
+      "video_id": "o3-7G1xqsKc",
+      "channel_name": "ITSub잇섭",
+      "title": "처음 맥북 샀다면 '이것' 안 하면 손해다? Mac 왕초보 입문 필수 설정 및 추천앱 ver2026.",
+      "thumbnail_url": "https://i.ytimg.com/vi/o3-7G1xqsKc/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=o3-7G1xqsKc",
+      "published_at": "2026-04-16T11:01:25Z",
+      "view_count": 121378,
+      "like_count": 3990,
+      "comment_count": 515,
+      "engagement_rate": 0.037115457496416156,
+      "topic_cluster": "Arc",
+      "summary": "이 영상은 빌드 데모 이슈를 빌드 데모 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "맥 앱 추천 (무료) coteditor: 간단한 텍스트 에디터 AltTab: 말그대로 알트탭(옵션+탭)을 추가해줍니다 Appcleaner: 앱삭제할때 자동으로 캐쉬파일이나…",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "rtqLvPH81GE",
-      "channel_name": "월텍남 - 월스트리트 테크남",
-      "title": "테슬라보다 스페이스X가 비싼 세가지 이유",
-      "thumbnail_url": "https://i.ytimg.com/vi/rtqLvPH81GE/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=rtqLvPH81GE",
-      "published_at": "2026-04-15T08:12:53Z",
-      "view_count": 4492,
-      "like_count": 139,
-      "comment_count": 5,
-      "engagement_rate": 0.032056990204808546,
-      "topic_cluster": "테슬라보다",
+      "video_id": "nSIdXXSX1Ow",
+      "channel_name": "주연 ZUYONI",
+      "title": "한 달 썼는데도 만족도 계속 올라감;; S26 울트라 실사용 후기",
+      "thumbnail_url": "https://i.ytimg.com/vi/nSIdXXSX1Ow/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=nSIdXXSX1Ow",
+      "published_at": "2026-04-16T10:01:19Z",
+      "view_count": 70178,
+      "like_count": 1568,
+      "comment_count": 350,
+      "engagement_rate": 0.02733050243666106,
+      "topic_cluster": "한",
+      "summary": "이 영상은 사례 분석 이슈를 사례 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "주연누님 드디어 찐 목소리 공개하시는군요. 아주 굵직굵직한게 아주 사나이답고 매력있으십니다bb",
+      "hook_type": "솔직 검증"
+    },
+    {
+      "video_id": "dtnlTopd_Mg",
+      "channel_name": "테크몽 Techmong",
+      "title": "다이소 3천원짜리 이건 무조건 사세요!",
+      "thumbnail_url": "https://i.ytimg.com/vi/dtnlTopd_Mg/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=dtnlTopd_Mg",
+      "published_at": "2026-04-16T11:01:06Z",
+      "view_count": 17262,
+      "like_count": 648,
+      "comment_count": 43,
+      "engagement_rate": 0.04003012397172981,
+      "topic_cluster": "다이소",
       "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "이 포멧도 재밌네요ㅎㅎ인사이트가 너무좋습니다!😊",
+      "comment_signal": "릴케이블 공구할 때 왜 못봤을까.... 슬리퍼 되게 좋은것같네요!!!무겁진 않나용?",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "x_WBKFjXI-Q",
+      "video_id": "orHsM5hGn2A",
       "channel_name": "안될공학 - IT 테크 신기술",
-      "title": "AI가 실시간 자세 교정까지... Gemini Live 로 무료 골프레슨을 받아보는 방법 | 골프 자세 교정 실험 | 생각보다 너무 좋다 ㅋㅋㅋ",
-      "thumbnail_url": "https://i.ytimg.com/vi/x_WBKFjXI-Q/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=x_WBKFjXI-Q",
-      "published_at": "2026-04-15T10:01:38Z",
-      "view_count": 4159,
-      "like_count": 104,
-      "comment_count": 13,
-      "engagement_rate": 0.028131762442894927,
-      "topic_cluster": "Gemini",
-      "summary": "이 영상은 워크플로우 튜토리얼 이슈를 워크플로우 튜토리얼 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "요즘 안티그래비티 서버가 아파 해서 골치아프네요",
-      "hook_type": "실험"
+      "title": "AI 경쟁, 모델보다 중요해지는 컴퓨트 경쟁 [2026 스탠포드 AI 인덱스 리포트 1부]",
+      "thumbnail_url": "https://i.ytimg.com/vi/orHsM5hGn2A/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=orHsM5hGn2A",
+      "published_at": "2026-04-16T05:20:40Z",
+      "view_count": 16747,
+      "like_count": 424,
+      "comment_count": 53,
+      "engagement_rate": 0.028482713321788977,
+      "topic_cluster": "코딩",
+      "summary": "이 영상은 coding 이슈를 비교 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "이러나 저러나 결국 현재 상황에서 한국은 AI 풀스텍(AI 모델 + 데이터 센터 + 전력 발전 및 공급망)을 완비하기 위해서 나가는것 말고는 답이 없지요. 앞으로도 세상은…",
+      "hook_type": "문제 해결"
     },
     {
-      "video_id": "D8u0AaJaCNU",
-      "channel_name": "The AI Advantage",
-      "title": "didn't even know Google Vids existed until this week tbh",
-      "thumbnail_url": "https://i.ytimg.com/vi/D8u0AaJaCNU/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=D8u0AaJaCNU",
-      "published_at": "2026-04-15T18:25:31Z",
-      "view_count": 1440,
-      "like_count": 23,
-      "comment_count": 1,
-      "engagement_rate": 0.016666666666666666,
-      "topic_cluster": "ChatGPT",
-      "summary": "이 영상은 comparison 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "초기 댓글 반응은 붙었지만 아직 대화가 확장되지는 않았습니다.",
-      "hook_type": "긴급성"
-    },
-    {
-      "video_id": "YO_yEkcaCiQ",
-      "channel_name": "멋쟁이사자처럼",
-      "title": "멋쟁이사자처럼 백엔드 Java 부트캠프 사전설명회",
-      "thumbnail_url": "https://i.ytimg.com/vi/YO_yEkcaCiQ/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=YO_yEkcaCiQ",
-      "published_at": "2026-04-15T23:11:15Z",
-      "view_count": 140,
-      "like_count": 0,
-      "comment_count": 0,
-      "engagement_rate": 0.0,
-      "topic_cluster": "agents",
-      "summary": "이 영상은 agents 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "댓글 반응은 아직 약한 편입니다.",
+      "video_id": "-7WpNGuifdw",
+      "channel_name": "Fantasoner(판타소너)",
+      "title": "나이트 크로우 신규 클래스 권갑 전투 실사화 #ai",
+      "thumbnail_url": "https://i.ytimg.com/vi/-7WpNGuifdw/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=-7WpNGuifdw",
+      "published_at": "2026-04-16T10:43:53Z",
+      "view_count": 5946,
+      "like_count": 56,
+      "comment_count": 9,
+      "engagement_rate": 0.01093171880255634,
+      "topic_cluster": "나이트",
+      "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "이야 게임 광고까지 대박입니다 저도 해봣던게임인데 진짜 대박입니다 ❤",
       "hook_type": "문제 해결"
     }
   ]
