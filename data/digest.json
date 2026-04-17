@@ -1,251 +1,248 @@
 {
-  "digest_date": "2026-04-17",
-  "generated_at": "2026-04-16T23:53:59+00:00",
-  "summary": "최근 24시간 영상 12개를 기준으로 보면, 오늘 가장 먼저 볼 축은 '코딩'입니다. 특히 '처음 맥북 샀다면 '이것' 안 하면 손해다? Mac 왕초보 입문 필수 설정 및 추천앱 ver2026.'는 조회수 121.4K, 참여율 3.7%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "'코딩' 주제가 2개 영상으로 가장 많이 다뤄졌습니다. 일반인 관점 직접 실험 or VS 비교 각도로 차별화할 영역이 있습니다.\n[내 채널] 7일 평균 10.8K회 · 지속률 36.6% / 경쟁사 평균 20.0K회 (격차 -46%)",
-  "telegram_preview": "📡 스마트대디 모니터링 | 04/17\n\n📊 수집: 영상 12개 | 채널 10개\n\n🔥 참여율 TOP 3\n1. [ITSub잇섭] 3.7% · 121.4K뷰\n   처음 맥북 샀다면 '이것' 안 하면 손해다? Mac 왕초보 입문 필수 설정 및 추천앱 ver2026.\n2. [주연 ZUYONI] 2.7% · 70.2K뷰\n   한 달 썼는데도 만족도 계속 올라감;; S26 울트라 실사용 후기\n3. [테크몽 Techmong] 4.0% · 17.3K뷰\n   다이소 3천원짜리 이건 무조건 사세요!\n\n📌 화제 키워드\n   coding · agents · research · automation\n\n🎬 포맷: 뉴스 분석 8개 · 빌드 데모 2개 · 사례 분석 1개\n\n📈 스마트대디 어제 실적\n조회수 8.0K (↓26% vs 7일 평균) | 구독 +101\n시청 지속률 34.7% | 평균 시청 1분 57초\n경쟁사 평균 20.0K회 대비 내 7일 평균 -46%\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
-  "video_count": 12,
-  "total_recent_video_count": 12,
+  "digest_date": "2026-04-18",
+  "generated_at": "2026-04-17T23:51:39+00:00",
+  "summary": "최근 24시간 영상 10개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'OpenAI'입니다. 특히 '문 열자마자 \"계약할게요!”ㅣ감탄사만 100번한 집'는 조회수 137.2K, 참여율 2.6%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "'OpenAI' 주제가 3개 영상으로 가장 많이 다뤄졌습니다. 일반인 관점 직접 실험 or VS 비교 각도로 차별화할 영역이 있습니다.\n[내 채널] 7일 평균 8.8K회 · 지속률 35.8% / 경쟁사 평균 24.2K회 (격차 -64%)",
+  "telegram_preview": "📡 스마트대디 모니터링 | 04/18\n\n📊 수집: 영상 10개 | 채널 9개\n\n🔥 참여율 TOP 3\n1. [귀곰] 2.6% · 137.2K뷰\n   문 열자마자 \"계약할게요!”ㅣ감탄사만 100번한 집\n2. [주연 ZUYONI] 1.9% · 63.9K뷰\n   갤럭시로 넘어갈까 고민하는 사람?? 아이폰 18프로 소식 싹 다 정리해봄\n3. [AI Explained] 5.7% · 26.1K뷰\n   Claude Opus 4.7 - A New Frontier, in Performance … and Drama\n\n📌 화제 키워드\n   agents · coding · research · automation · monetization\n\n🎬 포맷: 워크플로우 튜토리얼 4개 · 뉴스 분석 4개 · 비교 2개\n\n📈 스마트대디 어제 실적\n조회수 7.2K (↓18% vs 7일 평균) | 구독 +73\n시청 지속률 34.7% | 평균 시청 1분 59초\n경쟁사 평균 24.2K회 대비 내 7일 평균 -64%\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+  "video_count": 10,
+  "total_recent_video_count": 10,
   "focus_scope": "all_watchlist",
-  "average_view_count": 19954.0,
-  "average_engagement_rate": 0.037012737816811234,
-  "average_like_count": 583.0,
-  "average_comment_count": 83.0,
-  "best_video_id": "o3-7G1xqsKc",
-  "best_topic": "코딩",
+  "average_view_count": 24215.0,
+  "average_engagement_rate": 0.05344505674260182,
+  "average_like_count": 628.0,
+  "average_comment_count": 71.0,
+  "best_video_id": "-W_KaXRru1Y",
+  "best_topic": "OpenAI",
   "summary_points": [
-    "가장 겹친 주제는 '코딩'이며 2개 영상, 평균 조회수 9.0K, 평균 참여율 4.5%입니다.",
-    "최고 실적 영상은 '처음 맥북 샀다면 '이것' 안 하면 손해다? Mac 왕초보 입문 필수 설정 및 추천앱 ver2026.'이며 문제 해결 훅과 빌드 데모 포맷 조합이 강했습니다.",
-    "반복 노출된 툴은 Claude 2회, Arc 2회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
+    "가장 겹친 주제는 'OpenAI'이며 3개 영상, 평균 조회수 10.2K, 평균 참여율 8.6%입니다.",
+    "최고 실적 영상은 '문 열자마자 \"계약할게요!”ㅣ감탄사만 100번한 집'이며 문제 해결 훅과 뉴스 분석 포맷 조합이 강했습니다.",
+    "반복 노출된 툴은 Claude 5회, Gemini 4회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
   ],
   "action_chips": [
-    "주제: 코딩",
+    "주제: OpenAI",
     "훅: 문제 해결",
-    "포맷: 빌드 데모",
-    "기준 채널: ITSub잇섭"
+    "포맷: 뉴스 분석",
+    "기준 채널: 귀곰"
   ],
   "title_suggestions": [
-    "코딩 직접 실험 — 이게 진짜 되나?",
-    "코딩 vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
-    "코딩 써봤더니... (기대 vs 현실 솔직 후기)"
+    "OpenAI 직접 실험 — 이게 진짜 되나?",
+    "OpenAI vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
+    "OpenAI 써봤더니... (기대 vs 현실 솔직 후기)"
   ],
   "recommendations": [
     {
-      "title": "코딩 직접 실험 — 이게 진짜 되나?",
+      "title": "OpenAI 직접 실험 — 이게 진짜 되나?",
       "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
       "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
-      "thumbnail_copy": "코딩 바로 해결",
+      "thumbnail_copy": "OpenAI 바로 해결",
       "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
-      "source_video_id": "orHsM5hGn2A",
-      "source": "AI 경쟁, 모델보다 중요해지는 컴퓨트 경쟁 [2026 스탠포드 AI 인덱스 리포트 1부]",
-      "my_channel_context": "내 7일 평균 10.8K회 · 지속률 36.6% / 경쟁사 대비 -46%"
+      "source_video_id": "QVJcdfkRpH8",
+      "source": "Claude Opus 4.7 - A New Frontier, in Performance … and Drama",
+      "my_channel_context": "내 7일 평균 8.8K회 · 지속률 35.8% / 경쟁사 대비 -64%"
     },
     {
-      "title": "코딩 vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
+      "title": "OpenAI vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
       "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
       "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
-      "thumbnail_copy": "코딩 바로 해결",
+      "thumbnail_copy": "OpenAI 바로 해결",
       "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
-      "source_video_id": "trK_tCCZrg8",
-      "source": "Why \"Winning\" an Argument Is a Losing Strategy",
-      "my_channel_context": "내 7일 평균 10.8K회 · 지속률 36.6% / 경쟁사 대비 -46%"
+      "source_video_id": "HOI0_j13qPU",
+      "source": "You Need to Learn This New Claude Function...",
+      "my_channel_context": "내 7일 평균 8.8K회 · 지속률 35.8% / 경쟁사 대비 -64%"
+    },
+    {
+      "title": "OpenAI 써봤더니... (기대 vs 현실 솔직 후기)",
+      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
+      "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
+      "thumbnail_copy": "OpenAI 바로 해결",
+      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
+      "source_video_id": "q3SZ3HWZXJ8",
+      "source": "Opus 4.7 arrived & Googles new TTS Absurdly fun and Unusually Controllable!",
+      "my_channel_context": "내 7일 평균 8.8K회 · 지속률 35.8% / 경쟁사 대비 -64%"
     }
   ],
   "topic_clusters": [
     {
-      "label": "코딩",
-      "count": 2,
-      "avg_view_count": 9037,
-      "avg_engagement_rate": 0.04476132651771438,
-      "avg_like_count": 250,
-      "avg_comment_count": 28,
+      "label": "OpenAI",
+      "count": 3,
+      "avg_view_count": 10231,
+      "avg_engagement_rate": 0.08634517982037358,
+      "avg_like_count": 564,
+      "avg_comment_count": 72,
       "source_titles": [
-        "AI 경쟁, 모델보다 중요해지는 컴퓨트 경쟁 [2026 스탠포드 AI 인덱스 리포트 1부]",
-        "Why \"Winning\" an Argument Is a Losing Strategy"
+        "Claude Opus 4.7 - A New Frontier, in Performance … and Drama",
+        "You Need to Learn This New Claude Function...",
+        "Opus 4.7 arrived & Googles new TTS Absurdly fun and Unusually Controllable!"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/orHsM5hGn2A/hqdefault.jpg",
-      "representative_video_id": "orHsM5hGn2A",
-      "representative_title": "AI 경쟁, 모델보다 중요해지는 컴퓨트 경쟁 [2026 스탠포드 AI 인덱스 리포트 1부]"
-    },
-    {
-      "label": "Seedance",
-      "count": 2,
-      "avg_view_count": 872,
-      "avg_engagement_rate": 0.007864916266046806,
-      "avg_like_count": 7,
-      "avg_comment_count": 0,
-      "source_titles": [
-        "Seedance 2: Master Multi-Shot Prompting for Consistency #shorts",
-        "Seedance 2: Revolutionizing AI Video with Multimodal Power! #shorts"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/MpyqM4gzQiY/hqdefault.jpg",
-      "representative_video_id": "MpyqM4gzQiY",
-      "representative_title": "Seedance 2: Master Multi-Shot Prompting for Consistency #shorts"
-    },
-    {
-      "label": "Arc",
-      "count": 1,
-      "avg_view_count": 121378,
-      "avg_engagement_rate": 0.037115457496416156,
-      "avg_like_count": 3990,
-      "avg_comment_count": 515,
-      "source_titles": [
-        "처음 맥북 샀다면 '이것' 안 하면 손해다? Mac 왕초보 입문 필수 설정 및 추천앱 ver2026."
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/o3-7G1xqsKc/hqdefault.jpg",
-      "representative_video_id": "o3-7G1xqsKc",
-      "representative_title": "처음 맥북 샀다면 '이것' 안 하면 손해다? Mac 왕초보 입문 필수 설정 및 추천앱 ver2026."
-    },
-    {
-      "label": "한",
-      "count": 1,
-      "avg_view_count": 70178,
-      "avg_engagement_rate": 0.02733050243666106,
-      "avg_like_count": 1568,
-      "avg_comment_count": 350,
-      "source_titles": [
-        "한 달 썼는데도 만족도 계속 올라감;; S26 울트라 실사용 후기"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/nSIdXXSX1Ow/hqdefault.jpg",
-      "representative_video_id": "nSIdXXSX1Ow",
-      "representative_title": "한 달 썼는데도 만족도 계속 올라감;; S26 울트라 실사용 후기"
-    },
-    {
-      "label": "다이소",
-      "count": 1,
-      "avg_view_count": 17262,
-      "avg_engagement_rate": 0.04003012397172981,
-      "avg_like_count": 648,
-      "avg_comment_count": 43,
-      "source_titles": [
-        "다이소 3천원짜리 이건 무조건 사세요!"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/dtnlTopd_Mg/hqdefault.jpg",
-      "representative_video_id": "dtnlTopd_Mg",
-      "representative_title": "다이소 3천원짜리 이건 무조건 사세요!"
-    },
-    {
-      "label": "나이트",
-      "count": 1,
-      "avg_view_count": 5946,
-      "avg_engagement_rate": 0.01093171880255634,
-      "avg_like_count": 56,
-      "avg_comment_count": 9,
-      "source_titles": [
-        "나이트 크로우 신규 클래스 권갑 전투 실사화 #ai"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/-7WpNGuifdw/hqdefault.jpg",
-      "representative_video_id": "-7WpNGuifdw",
-      "representative_title": "나이트 크로우 신규 클래스 권갑 전투 실사화 #ai"
-    },
-    {
-      "label": "스페이스X",
-      "count": 1,
-      "avg_view_count": 2790,
-      "avg_engagement_rate": 0.04014336917562724,
-      "avg_like_count": 103,
-      "avg_comment_count": 9,
-      "source_titles": [
-        "스페이스X 기업가치 2조 달러? IPO 전에 반드시 확인하세요"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/xKIDf62MAhM/hqdefault.jpg",
-      "representative_video_id": "xKIDf62MAhM",
-      "representative_title": "스페이스X 기업가치 2조 달러? IPO 전에 반드시 확인하세요"
+      "thumbnail_url": "https://i.ytimg.com/vi/QVJcdfkRpH8/hqdefault.jpg",
+      "representative_video_id": "QVJcdfkRpH8",
+      "representative_title": "Claude Opus 4.7 - A New Frontier, in Performance … and Drama"
     },
     {
       "label": "Claude",
+      "count": 2,
+      "avg_view_count": 2183,
+      "avg_engagement_rate": 0.039053285675290095,
+      "avg_like_count": 82,
+      "avg_comment_count": 6,
+      "source_titles": [
+        "이걸 모르면 30%도 활용하지 못 하는 겁니다. 생산성을 미친듯이 올려주는 클로드 개꿀기능 Cowork 활용법",
+        "클로드 오퍼스 4.7 출시.. 이거 진짜 미친 모델 나와버렸네요ㄷㄷ (벤치마크 압살)"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/iIFVJwzZiDc/hqdefault.jpg",
+      "representative_video_id": "iIFVJwzZiDc",
+      "representative_title": "이걸 모르면 30%도 활용하지 못 하는 겁니다. 생산성을 미친듯이 올려주는 클로드 개꿀기능 Cowork 활용법"
+    },
+    {
+      "label": "문",
       "count": 1,
-      "avg_view_count": 903,
-      "avg_engagement_rate": 0.07641196013289037,
-      "avg_like_count": 64,
+      "avg_view_count": 137169,
+      "avg_engagement_rate": 0.02584403181476864,
+      "avg_like_count": 3299,
+      "avg_comment_count": 246,
+      "source_titles": [
+        "문 열자마자 \"계약할게요!”ㅣ감탄사만 100번한 집"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/-W_KaXRru1Y/hqdefault.jpg",
+      "representative_video_id": "-W_KaXRru1Y",
+      "representative_title": "문 열자마자 \"계약할게요!”ㅣ감탄사만 100번한 집"
+    },
+    {
+      "label": "갤럭시로",
+      "count": 1,
+      "avg_view_count": 63874,
+      "avg_engagement_rate": 0.018693051946018724,
+      "avg_like_count": 968,
+      "avg_comment_count": 226,
+      "source_titles": [
+        "갤럭시로 넘어갈까 고민하는 사람?? 아이폰 18프로 소식 싹 다 정리해봄"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/Sw4JNjQDDgE/hqdefault.jpg",
+      "representative_video_id": "Sw4JNjQDDgE",
+      "representative_title": "갤럭시로 넘어갈까 고민하는 사람?? 아이폰 18프로 소식 싹 다 정리해봄"
+    },
+    {
+      "label": "요즘",
+      "count": 1,
+      "avg_view_count": 3372,
+      "avg_engagement_rate": 0.009193357058125741,
+      "avg_like_count": 30,
+      "avg_comment_count": 1,
+      "source_titles": [
+        "요즘 AI는 클로드만 쓰는 이유"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/X-7JZ6KDDts/hqdefault.jpg",
+      "representative_video_id": "X-7JZ6KDDts",
+      "representative_title": "요즘 AI는 클로드만 쓰는 이유"
+    },
+    {
+      "label": "코딩",
+      "count": 1,
+      "avg_view_count": 2129,
+      "avg_engagement_rate": 0.03428839830906529,
+      "avg_like_count": 71,
+      "avg_comment_count": 2,
+      "source_titles": [
+        "The Bias That Makes You Think You're Right"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/gjkXxXNFMs8/hqdefault.jpg",
+      "representative_video_id": "gjkXxXNFMs8",
+      "representative_title": "The Bias That Makes You Think You're Right"
+    },
+    {
+      "label": "완전",
+      "count": 1,
+      "avg_view_count": 549,
+      "avg_engagement_rate": 0.1092896174863388,
+      "avg_like_count": 55,
       "avg_comment_count": 5,
       "source_titles": [
-        "클로드 오퍼스 4.7 + 힉스필드AI = 광고업계 끝났습니다..."
+        "완전 무료!! 구글 AI로 하나로 20분 만에 유튜버 데뷔하기(킬러 대본 제작법)"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/pwKU0UXfhBE/hqdefault.jpg",
-      "representative_video_id": "pwKU0UXfhBE",
-      "representative_title": "클로드 오퍼스 4.7 + 힉스필드AI = 광고업계 끝났습니다..."
+      "thumbnail_url": "https://i.ytimg.com/vi/ZS2Wh2LI5Z4/hqdefault.jpg",
+      "representative_video_id": "ZS2Wh2LI5Z4",
+      "representative_title": "완전 무료!! 구글 AI로 하나로 20분 만에 유튜버 데뷔하기(킬러 대본 제작법)"
     }
   ],
   "video_highlights": [
     {
-      "video_id": "o3-7G1xqsKc",
-      "channel_name": "ITSub잇섭",
-      "title": "처음 맥북 샀다면 '이것' 안 하면 손해다? Mac 왕초보 입문 필수 설정 및 추천앱 ver2026.",
-      "thumbnail_url": "https://i.ytimg.com/vi/o3-7G1xqsKc/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=o3-7G1xqsKc",
-      "published_at": "2026-04-16T11:01:25Z",
-      "view_count": 121378,
-      "like_count": 3990,
-      "comment_count": 515,
-      "engagement_rate": 0.037115457496416156,
-      "topic_cluster": "Arc",
-      "summary": "이 영상은 빌드 데모 이슈를 빌드 데모 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "맥 앱 추천 (무료) coteditor: 간단한 텍스트 에디터 AltTab: 말그대로 알트탭(옵션+탭)을 추가해줍니다 Appcleaner: 앱삭제할때 자동으로 캐쉬파일이나…",
+      "video_id": "-W_KaXRru1Y",
+      "channel_name": "귀곰",
+      "title": "문 열자마자 \"계약할게요!”ㅣ감탄사만 100번한 집",
+      "thumbnail_url": "https://i.ytimg.com/vi/-W_KaXRru1Y/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=-W_KaXRru1Y",
+      "published_at": "2026-04-17T08:00:00Z",
+      "view_count": 137169,
+      "like_count": 3299,
+      "comment_count": 246,
+      "engagement_rate": 0.02584403181476864,
+      "topic_cluster": "문",
+      "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "집에서 아주 쫓겨났구나.. 등짝은 안맞겠다",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "nSIdXXSX1Ow",
+      "video_id": "Sw4JNjQDDgE",
       "channel_name": "주연 ZUYONI",
-      "title": "한 달 썼는데도 만족도 계속 올라감;; S26 울트라 실사용 후기",
-      "thumbnail_url": "https://i.ytimg.com/vi/nSIdXXSX1Ow/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=nSIdXXSX1Ow",
-      "published_at": "2026-04-16T10:01:19Z",
-      "view_count": 70178,
-      "like_count": 1568,
-      "comment_count": 350,
-      "engagement_rate": 0.02733050243666106,
-      "topic_cluster": "한",
-      "summary": "이 영상은 사례 분석 이슈를 사례 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "주연누님 드디어 찐 목소리 공개하시는군요. 아주 굵직굵직한게 아주 사나이답고 매력있으십니다bb",
-      "hook_type": "솔직 검증"
-    },
-    {
-      "video_id": "dtnlTopd_Mg",
-      "channel_name": "테크몽 Techmong",
-      "title": "다이소 3천원짜리 이건 무조건 사세요!",
-      "thumbnail_url": "https://i.ytimg.com/vi/dtnlTopd_Mg/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=dtnlTopd_Mg",
-      "published_at": "2026-04-16T11:01:06Z",
-      "view_count": 17262,
-      "like_count": 648,
-      "comment_count": 43,
-      "engagement_rate": 0.04003012397172981,
-      "topic_cluster": "다이소",
+      "title": "갤럭시로 넘어갈까 고민하는 사람?? 아이폰 18프로 소식 싹 다 정리해봄",
+      "thumbnail_url": "https://i.ytimg.com/vi/Sw4JNjQDDgE/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=Sw4JNjQDDgE",
+      "published_at": "2026-04-17T10:30:17Z",
+      "view_count": 63874,
+      "like_count": 968,
+      "comment_count": 226,
+      "engagement_rate": 0.018693051946018724,
+      "topic_cluster": "갤럭시로",
       "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "릴케이블 공구할 때 왜 못봤을까.... 슬리퍼 되게 좋은것같네요!!!무겁진 않나용?",
+      "comment_signal": "17프로의 후면 투톤이 맘에 안 들어서 안 바꿨었는데 이게 완화된다고 하니 18프로로 가야할 이유가 생긴 것 같습니다!",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "orHsM5hGn2A",
-      "channel_name": "안될공학 - IT 테크 신기술",
-      "title": "AI 경쟁, 모델보다 중요해지는 컴퓨트 경쟁 [2026 스탠포드 AI 인덱스 리포트 1부]",
-      "thumbnail_url": "https://i.ytimg.com/vi/orHsM5hGn2A/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=orHsM5hGn2A",
-      "published_at": "2026-04-16T05:20:40Z",
-      "view_count": 16747,
-      "like_count": 424,
-      "comment_count": 53,
-      "engagement_rate": 0.028482713321788977,
-      "topic_cluster": "코딩",
-      "summary": "이 영상은 coding 이슈를 비교 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "이러나 저러나 결국 현재 상황에서 한국은 AI 풀스텍(AI 모델 + 데이터 센터 + 전력 발전 및 공급망)을 완비하기 위해서 나가는것 말고는 답이 없지요. 앞으로도 세상은…",
+      "video_id": "QVJcdfkRpH8",
+      "channel_name": "AI Explained",
+      "title": "Claude Opus 4.7 - A New Frontier, in Performance … and Drama",
+      "thumbnail_url": "https://i.ytimg.com/vi/QVJcdfkRpH8/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=QVJcdfkRpH8",
+      "published_at": "2026-04-17T18:07:46Z",
+      "view_count": 26100,
+      "like_count": 1330,
+      "comment_count": 166,
+      "engagement_rate": 0.05731800766283525,
+      "topic_cluster": "OpenAI",
+      "summary": "이 영상은 agents 이슈를 비교 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "the desktop app updated THRICE yesterday lol.",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "-7WpNGuifdw",
-      "channel_name": "Fantasoner(판타소너)",
-      "title": "나이트 크로우 신규 클래스 권갑 전투 실사화 #ai",
-      "thumbnail_url": "https://i.ytimg.com/vi/-7WpNGuifdw/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=-7WpNGuifdw",
-      "published_at": "2026-04-16T10:43:53Z",
-      "view_count": 5946,
-      "like_count": 56,
-      "comment_count": 9,
-      "engagement_rate": 0.01093171880255634,
-      "topic_cluster": "나이트",
-      "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "이야 게임 광고까지 대박입니다 저도 해봣던게임인데 진짜 대박입니다 ❤",
+      "video_id": "X-7JZ6KDDts",
+      "channel_name": "알린 ALINN",
+      "title": "요즘 AI는 클로드만 쓰는 이유",
+      "thumbnail_url": "https://i.ytimg.com/vi/X-7JZ6KDDts/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=X-7JZ6KDDts",
+      "published_at": "2026-04-17T07:47:17Z",
+      "view_count": 3372,
+      "like_count": 30,
+      "comment_count": 1,
+      "engagement_rate": 0.009193357058125741,
+      "topic_cluster": "요즘",
+      "summary": "이 영상은 워크플로우 튜토리얼 이슈를 워크플로우 튜토리얼 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "자세한 사용법이 궁금하다면? 본 영상 : https://youtu.be/iIFVJwzZiDc",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "HOI0_j13qPU",
+      "channel_name": "The AI Advantage",
+      "title": "You Need to Learn This New Claude Function...",
+      "thumbnail_url": "https://i.ytimg.com/vi/HOI0_j13qPU/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=HOI0_j13qPU",
+      "published_at": "2026-04-17T18:16:31Z",
+      "view_count": 3108,
+      "like_count": 203,
+      "comment_count": 14,
+      "engagement_rate": 0.06981981981981981,
+      "topic_cluster": "OpenAI",
+      "summary": "이 영상은 agents 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "I love and hate how a new feature can drop just as you upload 😄 plz cover the claude design upd…",
       "hook_type": "문제 해결"
     }
   ]

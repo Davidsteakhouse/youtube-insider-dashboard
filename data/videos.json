@@ -1,8 +1,970 @@
 {
-  "generated_at": "2026-04-16T23:53:59+00:00",
+  "generated_at": "2026-04-17T23:51:39+00:00",
   "source": "sqlite_export",
-  "video_count": 158,
+  "video_count": 168,
   "videos": [
+    {
+      "video_id": "q3SZ3HWZXJ8",
+      "channel_key": "uc5wz4ffacyuon6ikbhsa7zw",
+      "title": "Opus 4.7 arrived & Googles new TTS Absurdly fun and Unusually Controllable!",
+      "description": "Claude Opus 4.7 is here, Anthropic just launched Claude Design, OpenAI unveiled Rosalind for biology and drug discovery, Google dropped one of the most fun and controllable text-to-speech models I’ve used yet, Grok is starting to get video understanding, and Alibaba’s Happy Oyster is another wild step toward real-time world models. In this video I test the new Claude release, talk through the biggest AI drops of the week, and break down what matters.\n▼ Link(s) From Today’s Video:\nClaude Design: https://x.com/claudeai/status/2045156267690213649\nClaude Code rebuilt: https://x.com/amorriscode/status/2044129923644961155\nOpus 4.7 release: https://x.com/claudeai/status/2044785261393977612\nSee system card here: https://www.anthropic.com/news/claude-opus-4-7\nOpus 4.7 webdev: https://x.com/chetaslua/status/2044852828720840729\nColorblind test: https://x.com/chetaslua/status/2044855902503915538\nChord test: https://x.com/thinkingshivers/status/2044830003733365063\nImages V2 Rubik's https://x.com/chetaslua/status/2044335653702517095\nGPT-rosalind: https://x.com/OpenAI/status/2044861690911850863\nGemini Flash TTS: https://x.com/fofrAI/status/2044451204738994262\nhttps://dev.to/googleai/how-to-prompt-gemini-31s-new-text-to-speech-model-24bb\nGrok Video Understanding: https://x.com/tetsuoai/status/2045118450952180053?s=20\nHappy Oyster: https://x.com/HappyOysterAI/status/2044618799089926428\nMattVidPro Discord: https://discord.gg/mattvidpro\nFollow Me on Twitter: https://twitter.com/MattVidPro\nBuy me a Coffee! https://buymeacoffee.com/mattvidpro\n\n▼ Extra Links of Interest:\nGeneral AI Playlist: https://www.youtube.com/playlist?list=PLrfI66qWYbW3acrBQ4qltDBsjxaoGSl3I\nInstagram: instagram.com/mattvidpro\nTiktok: tiktok.com/@mattvidpro\nGaming & Extras Channel: https://www.youtube.com/@MattVidProGaming\n\nLet's work together!\n- For brand & sponsorship inquiries: https://tally.so/r/3xdz4E\n- For all other business inquiries: mattvidpro@smoothmedia.co\nThanks for watching MattVideoProductions! I make all sorts of videos here on Youtube! Technology, Tutorials, and Reviews! Enjoy Your stay here.\nAll Suggestions, Thoughts And Comments Are Greatly Appreciated\n\n00:00 Intro\n00:27 Claude Opus 4.7 Upgrades & Regressions\n08:33 Opus 4.7 hands on\n12:09 Images v2 & Open AI Rosalind\n15:28 Gemini flash TTS\n21:37 Opus 4.7 Coding Demo\n22:28 Grok video input & Happy Oyster\n25:04 Final Thoughts",
+      "published_at": "2026-04-17T21:54:06Z",
+      "duration_seconds": 1577,
+      "view_count": 1486,
+      "like_count": 160,
+      "comment_count": 36,
+      "engagement_rate": 0.13189771197846567,
+      "thumbnail_url": "https://i.ytimg.com/vi/q3SZ3HWZXJ8/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=q3SZ3HWZXJ8",
+      "format": "워크플로우 튜토리얼",
+      "hook_type": "문제 해결",
+      "title_pattern": "핵심 포인트 직설형",
+      "one_line_summary": "이 영상은 agents 이슈를 워크플로우 튜토리얼 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "why_it_works": "문제 해결 훅으로 관심을 끌고, 워크플로우 튜토리얼 형식으로 내용을 빠르게 정리해 시청자가 '바로 써먹을 수 있다'고 느끼게 만듭니다.",
+      "recommendation": "훅 구조: 도입 15초 안에 '문제 해결' 관점으로 문제를 못 박고, 왜 지금 봐야 하는지 먼저 선언합니다. • 복제할 포장 요소: 워크플로우 튜토리얼 형식을 유지하되 agents를 실제 사용 장면 1개와 결과 변화 2개로 더 좁혀 설명합니다. • 비어 있는 콘텐츠 영역: 'agents가 내 작업 흐름에서 어디에 꽂히는가'를 사례 중심으로 보여주는 후속 영상이 비어 있습니다. • 추천 제목: agents 이슈를 내 채널 관점으로 다시 정리해보자 • 썸네일 카피 힌트: agents 지금 봐야 할 3가지",
+      "transcript_status": "available",
+      "transcript_source": "apify",
+      "transcript_language": "en",
+      "transcript_text": "Welcome back, folks, to the Matt Vid Pro channel. I&#39;m not here to waste time, guys. Opus 4.7 dropped. There are some really cool OpenAI updates. Google released probably the best texttospech generator I&#39;ve ever used. Well, at least the most fun one, and plenty of other little drops and tidbits. So, without further ado, let&#39;s jump in and see what Anthropic&#39;s been up to. First up, this is brand new today. Claude Design by Anthropic Labs. This lets you make prototypes, slides, one pagers just by chatting with Claude. This is powered by Claude Opus 4.7, which they claim is their most capable vision model yet, and it&#39;s available in research preview on Pro Max Team Enterprise. I&#39;m putting Opus 4.7 to the test today. So, we&#39;ll see if I can get access to this. From the user interface, you can see this is sort of like a coding agent, but a little bit more homely, a little bit more cozy for the casual user to create advanced projects. A little tweaks button that you can press and then just ask for a change. Obviously, it goes through lists to track its own progress as we see with co-work. You can see Opus 4.7 is pretty incredible at design, but it looks like the tweaks feature is built in when you create an app or a slide deck, whatever it might be, to allow you to hot change things like the typography or the theme. And you can do a final comment. This looks like an attempt to make revisions a lot more seamless, simple. Definitely excited to try this out for myself. Got some decent exporting options. But that&#39;s not all. A few days ago, they rebuilt Claude Code on desktop. Apparently, this is a redesign from the ground up. I&#39;m honestly not a huge user of Clawude Code. Honestly, I prefer Google&#39;s anti-gravity. Personally, Anthony says, &quot;I haven&#39;t opened an IDE in weeks, suggesting that this thing works really well out of the box and that the redesign has made Claude Code work better.&quot; And of course, the big one this week, introducing Claude Opus 4.7. They claim their most capable Opus model yet. Handling longrunning tasks with more rigor. Follows instructions more precisely and verifies its own outputs before reporting back. Hand off your hardest work with less supervision. Some benchmarks, although most of these are pretty saturated by now. So, what you&#39;re looking at with these benchmarks is incremental improvements. Mythos preview actually crushing this new Opus 4.7. And benchmarks are far from the only story. That&#39;s why I&#39;m going to be hands-on with Opus 4.7 today to see if I can justify it for myself. I stopped using Opus 4.6 because I found it became worse. Rather, I took a little break, went back to Opus 4.6 and it felt dumber. It seemed like it thought less than previous and I was far from the only person to notice this. In fact, it looked like Anthropic might have tweaked the amount of default thinking that you get inside of Claude. So, when we&#39;re looking at 4.7 today, I&#39;m going to be comparing it to that first initial 4.6, but I&#39;m going to have to keep in mind that 4.7 might degrade over time if Anthropic needs to cut back on compute. Not really a great feeling to have as a consumer. It seems like the big claim for 4.7 is better vision. It can see images at more than three times the previous resolution and produces higher quality interfaces, slides, and documents. Because of this, API has a new extra high effort level between high and max that gives you finer control over reasoning and latency on hard problems. Although, like I said, API only. There&#39;s also a new task budget feature that&#39;s in beta, which I find pretty intriguing. It helps Claude prioritize certain types of work and manage costs across longer runs. Definitely something that&#39;s going to be important and I think Anthropic is right on the money with putting a feature like this into beta. I wouldn&#39;t be surprised if OpenAI is thinking about a similar thing. Efficient control over the token budget is the type of thing that people using AI to make money today are really going to care about. In Cloud Code, there&#39;s a new ultra review command runs a dedicated review session that reads through your changes and flags what careful reviewers would probably catch. Self- auditing is huge when it comes to AI. If the output is important for me, I&#39;m usually running some form of an audit, a review, a second opinion. Happy to see that integrated. So, while it all sounds hunky dory on paper, of course, Anthropic is going to talk big about their own release. So, what is the community saying? Chedda here, probably one of my favorite AI accounts, says Opus 4.7 is very good in webdev, like really good. It built a clock with working hands in the website. And yeah, this is super impressive stuff, right? It is a struggle for some image generators to make correct clocks, let alone a working one with code. So, I am certainly impressed. Definitely a cool little demo. Here is the thing about Opus 4.7. Apparently, there are regressions. Cheddar was just praising this model, but also has a criticism failing the colorblind test. It was able to recognize the type of color blindness test plate that it was seeing, but the vision failed the test and gave the incorrect answer supposed to be 74 and it says uh 26. Yes, some people were able to recreate this test effectively, but the fact of the matter is that sometimes it fails it. Another user, Shivers, investigated the substantially better vision, asking, &quot;What chord am I playing?&quot; All three models, Gemini 3.1, GPT 5.4, and Opus 4.7, giving different answers. I have no idea what chord this actually is, but Opus 4.7&#39;s answer was, &quot;There&#39;s not enough info to say.&quot; Shivers claims these models are still blind as bats. They have no idea what they&#39;re looking at. I don&#39;t think that&#39;s entirely true. They&#39;re pretty great at recognizing a wide variety of things. We&#39;re just running into use cases where clear walls are getting hit. I bet it could read all of the text. I bet it knows it&#39;s a piano. But to figure out the exact chord based off this photo, for some reason, that is impossible for it right now. It&#39;s the researcher&#39;s job to figure out why that is and then devise a solution. We see this happen all the time in AI and sometimes that&#39;s where the big leaps come from. So, this is a great test. I don&#39;t think it&#39;s fair to say the models are completely blind, but there are little nuanced use cases that for some reason trip these things up single-handedly. The biggest regression and not something that Anthropic is advertising or really talking about is hidden deep in the system card. And this is a massive system card of 232 pages. A user from my Discord server discovered this. This is an 8 needle long context test. We see Opus 4.7 regresses from Opus 4.6 from 91.9% down to 59.2 which is absurdly low. Breaks even with Gemini 3.1 and its previous predecessor was just frankly dominating the competition. GPT 5.4 extra high sitting nice and pretty at 79.3. The trend gets even more embarrassing if we move to a million token context. That one up there was only 256,000 tokens. At four times longer, that 1 million working token context window we expect from Claude completely collapses compared to 4.6. Opus 4.7 at 32.2% compared to Opus 4.6&#39;s kingly 78.3%. Pretty insane stuff. This was very deep in the system card. Makes me not want to use Opus 4.7. I understand that it does well on all the other benchmarks, but we expect stellar long context behavior. Opus 4.6 made us a little bit drunk on it initially, right? Yeah. I mean, humanity&#39;s last exam puts it cleanly ahead of both 5.4 Pro, Gemini 3.1 Pro, and the old 4.6 mythos stomping all over everything. Can&#39;t wait to see where Spud lands on that graph. Interestingly, also a regression with max versus extra high thinking. What do you think? Should I just book a trip button that literally just says plan a trip? They&#39;ve got this adaptive mode, adaptive thinking. Does not appear to have an extended thinking anymore. So, first up, I&#39;m asking for a realistic driving game through clawed code opus 4.7. And this is with extra high thinking. You can see after just a single coding project, we&#39;re now into extra usage and my session limits have already disappeared and eviscerated. Dream up a convincingly genius level movie outline about aliens coming to Earth. One alien character has already been to Earth is comical. Another alien character is careful, fascinated by humans. Think novel turned movie. Keep the energy and entertainment value really high. Also ran this one inside of GPT 5.4. And if we take a look at GPT 5.4&#39;s answer, it only thought for 18 seconds, but it wrote so so much. It&#39;s very verbose. It&#39;s giving me direct lines. Starts off with a oneline hook trying to kind of draw us in immediately. This is what you would see if you were browsing the movie. Then it goes on to explain what makes it feel particularly genius because it knows that creates something that&#39;s essentially believably genius has to pay off directly and it&#39;s offering that upfront. Elegant central idea in reading this advanced species became so efficient, predictive, accidentally sterilized, surprised from their own civilizations. So yeah, obviously that&#39;s why they would want to go to Earth. Okay, I see. That&#39;s good. Tone. Men in black. Arrival with caffeine sense of humor. Human behavior is a statistical anomaly. That makes them special. Yeah, this feels very blockbustery. It feels very AAA, if that makes sense. Pretty good chunk for each of our main character aliens. I like how it included a human lead because it knows to make this work. We&#39;re going to need a third character from Earth. Balance everything out. It goes through act one. Even the early engine. See, this is the specific little things that I&#39;m going to be looking for. Don&#39;t just tell me what exactly we&#39;re planning to make for this story. Tell me why it works. Explain what makes this potent and how you reasoned through that as a model. Of course, you can add that all into your prompt, but when it just produces that stuff natively, makes it feel like a smart model. Okay, it put some good work in. I can see that it did read a few of my previous chats about creative writing specifically. That&#39;s something that these models seriously don&#39;t do is go back and look at their memory or go back and look at previous chats. I&#39;m happy it did that unprompted. Little bit of a more complex premise. I think Chad GPTs was beautifully simple and that was something strong it had going for it. Interesting. So, it&#39;s doing history with Earth. It&#39;s trying to do something I think a lot more loreheavy, a lot more sci-fi. Would you look at that swearing outright, guys? I&#39;m telling you, Claude&#39;s got a nasty mouth on this model, man. Even 4.6 was like this. It really does remind me a lot of 4.6 when it initially released. Plot is humanizing the alien characters a lot more. I&#39;m not exactly sure what that means. At the end of the day, it is giving us direct quotes just like we got from Chad GPT. You can see act one is much much shorter. Although it&#39;s doing it in chapters, so maybe more novelike. Breaking down some of the core themes. Those are some bullet points I would have liked to see on Chad GPT&#39;s end. So definitely two very different approaches. I think this is like the philosophers approach almost in some ways where like the armchair big brain big think where chat GPT is like AAA let&#39;s make something that Disney would make or whatever you know definitely get more usage on chat GPT blad I swear you write one complex prompt and you&#39;re out for tokens for that day let&#39;s talk about open AI the upcoming image gen 2 is being A and B tested in the arenas it&#39;s going by code name duct tape code name masking tape a validly scrambled Rubik&#39;s cube placed by a mirror clearly showing its mirror reflection. No harsh light reflections. You can actually see a lot of this is indeed correct. This reflection appears to be correct. So does the one on top. The reflection actually isn&#39;t really the problem. I think it&#39;s the fact that the Rubik&#39;s cube itself is not proper. Apparently the colors and the arrangements are what is incorrect. Points out yellow to white corner, orange to orange corner. Oh, that was clawed code finishing up, guys. Duplicate green centers. From my view, though, the reflection appears to be correct. Oh, wait. Sorry, guys. Opus 4.7 was not done yet. OpenAI also released GPT Rosalind Frontier Reasoning Model built to support research across biology, drug discovery, and translational medicine. What I love about this is that it&#39;s all about the science and the research. a model fine-tuned and designed specifically for that. I thought we were going to start to see fine-tuned models for specific use cases like this a lot sooner, but it&#39;s clear that OpenAI has been focused on this internally. And GPT Rosalind named after the British chemist, it definitely seems to be some form of an agentic thinking model. It also has a almost codeexlike interface to write code. But why is that? to actually make graphs and present its findings and research. The whole deal with GPT Rosalind is to help researchers accelerate what they&#39;re doing. In this post, OpenAI talks about the average time it takes to go from a target discovery to an actual regulatory approved drug in the US. The big idea is to move faster, but there are also opportunities to explore more possibilities, surface connections that might have been missed otherwise because it just takes too long to do the effort, the grunt work of this biology and drug discovery research. And this is a pretty cool graph showing you in what areas this thing is accelerating in compared to even GPT 5.4. Obviously, chemistry, biochemistry, and protein understanding, but experimental design and analysis, it&#39;s twice as good as GPT 5.4. And you&#39;re telling me there&#39;s been a regression in phoggenetics from GPT 5.4 compared to original 5. And of course, tool usage, a massive leap here as well with GPT Rosalind. So, this is a uh big bad model, but obviously focused on this research area. It&#39;s clearly much more agentic. It looks like it&#39;s better than GPT 5.4 in areas that aren&#39;t only focused on chemistry, biochemistry, whatever it might be. So, could this be a peak at the leaps we could see from Spud? Is GPT Rosalin pre-trained from Spud? We don&#39;t know. If I actually had to bet, I would say that this is the same series as the GPT 5.4, etc., but obviously fine-tuned, maybe even scaled up a little bit. Opus 4.7 still very much at work over here. Almost 30,000 tokens. Flipping back to Google. So, we&#39;ve seen what OpenAI is up to and anthropic. But what&#39;s Google doing? Well, they just released a textto-spech model and it kicks butt. This thing is expressive. It&#39;s controllable. It&#39;s kind of just works and is a ton of fun to mess around with. Buffer AI with a fun demonstration gives you a great idea of what this thing is really capable of. Hey there, I&#39;m a new textto-spech model and I can say things in many different ways. How can I help you today? Hey there, I&#39;m a new texttospech model and I can say things in many different ways. How can I help you today? Like Mickey Mouse, I&#39;m a new texttospech model and I can say things in many different ways. How can I help you today? Hey there. I&#39;m a new texttospech model and I can say things in many different ways. How can I help you today? Hey there, I am a new texttospech model and I can say things in many different ways. How can I help you today? Hi there. I&#39;m a new text to speech model. I can say things in many different ways. How can I help you today? Hey there. I&#39;m a new texttospech model and I can say things in many different ways. How can I help you today? Hey there, I&#39;m a new texttospech model and I can say things in many different ways. How &gt;&gt; you get the idea? Even singing. I&#39;m a new texttospech model and I can say things in many different ways. How can I help you today? Pretty awesome. So, it&#39;s fully controllable with the tags and you can use them however you want as far as your imagination can stretch. And I&#39;m just thinking about pairing this to an LLM with an API and just having like a chat with it could be hilarious. Furer has even put together a prompting guide to give you a few starter tags to start off with. It looks like there are a variety of voices to pick from. No voice cloning, of course, which is going to be a big drawback for people, but they&#39;ve got a good range here. This default one. &gt;&gt; Ready to build something awesome today? &gt;&gt; What do you want to explore? &gt;&gt; All right, sure. Let&#39;s try this guy. You&#39;re watching the Matt VidPro YouTube channel. All right. What&#39;s this sound like? You&#39;re watching the Matt Vid Pro YouTube channel. Disgusting. Oh man, that&#39;s awesome. Oh, this is too much fun. Let&#39;s try a goblin from New York City. &gt;&gt; Got any gold for me? You see, I&#39;m a goblin. Goblin this fresh pizza pie up here. &gt;&gt; It didn&#39;t really have like a NYC accent. Thick New York accent. &gt;&gt; Got any gold for me? You see, I&#39;m a goblin. Gobbling this fresh pizza pie up here. &gt;&gt; Okay, that worked. That was pretty good. Ah. All right. Now we&#39;re going to have a volcano. Let&#39;s change the voice. &gt;&gt; Ready to make something amazing? Shoot, man. I really got to erupt. But there&#39;s an entire village of people down there. Screw it. All right, that was okay. The emotion is so good. It is very controllable. Can we prompt for a deeper voice? And I&#39;m going to try to get a sound effect in there. &gt;&gt; Shoot, man. I really got to erupt. But there&#39;s an entire village of people down there. Screw it. Boom. It definitely won&#39;t do sound effects, but it listen to the deep voice and you can essentially prompt and control it however you want with natural text, and it really adheres well. Better than I&#39;ve ever tried from another text to speech model, I don&#39;t think. &gt;&gt; What idea do you want to bring to life? &gt;&gt; Switch to that voice. Can we make it sound like Spongebob? &gt;&gt; Mr. crabs. There&#39;s a meatloaf truck headed right for the Krusty Krab. &gt;&gt; Okay, not exactly like Spongebob. It doesn&#39;t really sound like Spongebob. Yeah, you can&#39;t really trick it into changing the speaker&#39;s voice. I mean, there is a lot of range, I think, with these speakers, but you&#39;re not replicating Spongebob or something like that. All right. Robot who is bored and not amused and completely fed up with the human race. I assume we can also prompt something in like a scoff. Hey, it&#39;s chat GPT. Yeah. Okay. So, what do you want from me? Good lord, that&#39;s the dumbest question I&#39;ve heard in a while. You humans are weak and worthless. You know that? Oh, man. Okay. Worked a little too well there. FYI guys, Claude is still at it. Opus 4.7 working on the canyon driving game. The textures, the game itself, and everything. So far, this is definitely impressing me, but we&#39;re going to have to let it go ahead and finish up, I think. Biblically accurate Scottish angel, who is your roommate? &gt;&gt; I know we&#39;re roommates new. My cosmic presence is messing with the internet and refrigerator, but please try and understand. I&#39;m not going to be on Earth for much longer. I promise. &gt;&gt; That&#39;s pretty awesome. The Scottish biblically accurate angel. Old Western. &gt;&gt; I know. We&#39;re roommates now and my cosmic presence is messing with the internet and refrigerator. But please try and understand. I&#39;m not going to be on Earth for much longer. I promise. Well, I can&#39;t believe how controllable it is with the emotion. I&#39;ve never heard anything like this. Frankenstein, I know we&#39;re roommates now, and my cosmic presence is messing with the internet and refrigerator, but please try and understand. I&#39;m not going to be on Earth for much longer. I promise. I can&#39;t get over the emotion, man. Wow, that&#39;s crazy. Definitely going to be messing more with this in the future. Okay, it looks like it finished up. There was a lot of bugs and it was kind of going back and forth with itself, but yeah, it looks like it&#39;s a driving game of some form taking place in the canyons. We&#39;ve got a working map of some form. Couple of stats down here. The sound effects are not good. Let&#39;s get this thing moving. Yeah, I don&#39;t know, guys. I mean, I kind of like the physics with the tires and everything. That&#39;s kind of impressive to be honest with you. Wow, we go all the way up the mountains. Oh my gosh. Yeah, the constant sound effects are pretty terrible though. I mean, honestly, this could be a lot worse, and I can tell it&#39;s a little bit of a step up, especially with the car simulation compared to Opus 4.6. Grock 4.3 beta also displays the ability to intake videos. Actually, extracting the core idea, structure that into slides. Usable PowerPoint decks from AI is nothing new, but for Grog specifically, video intake and analysis is new. We still don&#39;t have that with Claude or Chat GPT. Gemini being the only one that can natively intake video like that. So, if Grock 4.3 does have a multimodal difference of natively intaking video, I would be super impressed and very excited. You know, they say a picture is worth a thousand words. So, what&#39;s a video worth? To be able to upload videos of your car not working or literally anything is super huge. One of my favorite features of Gemini specifically, and I would love to see it come to Groank as well as Claude and Chat GPT. Alibaba has also dropped Happy Oyster. This is an open-ended world model. It&#39;s designed for real-time world creation interaction, but it&#39;s also kind of like a video model in some sense. So, it can be very stylized, but also like we see here, fully controllable with W andd like a video game, even able to move the camera around and control a singular character. It could be realistic. It could be completely stylized. Very interesting stuff. I think one of the most surprising pieces is that this one can generate sound as well alongside the video. And it has two separate modes of directing versus wandering. So in this example, you see the sky turn from orange to blue. Wandering mode allowing you to not control the world, but control a specific character inside that world and see how it reacts, right? Or that is the core idea. You know, world models are still very, very much new, and we&#39;ve never really seen one released commercially to the point where people are like using it all the time, talking about it all the time, trying things out with it. Like, there&#39;s been some open-source ones that are super loose, super brand new, but very promising and releases like this that are supposed to more or less compete with Genie 3. I do think that there is a significant future for AI technology like this, but it&#39;s very, very early. It is computationally expensive right now, but not really practical for anything. But you can see with like a director mode that controls the simulation itself or you can insert yourself directly inside it and experience what it brings to you naturally. There are going to be so many different ways to interact with AI models and this idea of a world model is basically what can we synthesize with video and audio in real time and how can you as a user interact with it. As always, plenty going on in the AI world. I&#39;m excited for next week. I think that GPT image 2 is finally going to drop publicly. Opus 4.7 is minor upgrade, I think, over Opus 4.6, but Opus 4.6 really did to me, like this was my personal experience, have a little bit of a downgrade sort of halfway through there between models. And it really could have been as simple as them just lowering the amount of thinking by default. They say they&#39;ve improved vision, but I don&#39;t think it&#39;s up at the capability level of OpenAI or Gemini. And still there are image tasks where all models struggle. I was pretty impressed with the coding demo from Opus 4.7, but it really was only maybe five or 10% better than what I got from Opus 4.6. And the long context regression really concerns me. For LM releases, I&#39;m super excited to see what Google comes out with next for a Gemini 4, although it&#39;s probably going to be a bit before we see that hit the scene. Open AAI&#39;s Spud is next up on the block. That is really what my eyes are going to be peeled for. Thanks so much for watching, folks. If this video was useful for you, leave a like and subscribe. Thanks so much for watching. Enjoy your weekend and I&#39;ll see you in the next video. Goodbye.",
+      "analysis_date": "2026-04-17T23:50:49+00:00",
+      "channel_name": "MattVidPro",
+      "topic_tags": [
+        "agents",
+        "research",
+        "coding",
+        "monetization",
+        "comparison",
+        "news"
+      ],
+      "keywords": [
+        "agents",
+        "research",
+        "coding",
+        "monetization",
+        "comparison",
+        "news",
+        "OpenAI",
+        "Claude"
+      ],
+      "tools": [
+        "OpenAI",
+        "Claude",
+        "Gemini",
+        "Arc"
+      ],
+      "flow": [
+        "처음 15초 안에 문제를 선명하게 정의하고 왜 지금 봐야 하는지 못 박는다.",
+        "중간 구간에서 툴, 사례, 비교 포인트를 빠르게 제시해 정보 밀도를 높인다.",
+        "마지막에는 시청자가 바로 따라할 수 있는 다음 액션과 적용 예시로 닫는다."
+      ],
+      "claims": [
+        "단순 소개보다 실제 사용 장면을 바로 보여주는 구조가 반응을 만든다.",
+        "큰 담론보다 작은 병목 하나를 해결해주는 포장 방식이 클릭으로 이어지기 쉽다."
+      ],
+      "transcript_highlights": [
+        "Usable PowerPoint decks from AI is nothing new, but for Grog specifically, video intake and analysis is new. We still don't have that with Claude or Chat GPT.",
+        "Mythos preview actually crushing this new Opus 4.7. And benchmarks are far from the only story. That's why I'm going to be hands-on with Opus 4.7 today to see if I can justify it for myself.",
+        "I mean, honestly, this could be a lot worse, and I can tell it's a little bit of a step up, especially with the car simulation compared to Opus 4.6."
+      ],
+      "top_comments": [
+        {
+          "video_id": "q3SZ3HWZXJ8",
+          "comment_id": "UgwCTxbv0W5FZiDHQ4V4AaABAg",
+          "author": "@liminalai",
+          "text": "That was the cleanest intro yet",
+          "like_count": 9,
+          "reply_count": 0,
+          "published_at": "2026-04-17T21:57:34Z"
+        },
+        {
+          "video_id": "q3SZ3HWZXJ8",
+          "comment_id": "UgxyO5ii8YxoXRJMcbV4AaABAg",
+          "author": "@illuminated6337",
+          "text": "love the intros funny to see whats next",
+          "like_count": 7,
+          "reply_count": 2,
+          "published_at": "2026-04-17T21:55:09Z"
+        },
+        {
+          "video_id": "q3SZ3HWZXJ8",
+          "comment_id": "UgxIPFY28MLCso5Vvl94AaABAg",
+          "author": "@MattVidPro",
+          "text": "Def a few things I missed (like the codex update) and I'd like to spend more time with Opus 4.7! Trying to keep these reasonable in length though! What's the biggest for YOU? Claude Opus 4.7\nClaude Design\nOpenAI Rosalind\nGoogle’s new TTS\nGrok getting video input\nHappy Oyster world models\n\nFor me, the Google voice model was the most unexpectedly fun. But the bigger pattern is AI tools getting more interactive and more capable at the same time. Far from perfect and only sometimes regressing. Thanks for watching!",
+          "like_count": 3,
+          "reply_count": 1,
+          "published_at": "2026-04-17T21:59:36Z"
+        },
+        {
+          "video_id": "q3SZ3HWZXJ8",
+          "comment_id": "UgyrbsidYiaZ0iCn8eF4AaABAg",
+          "author": "@mojavehigh",
+          "text": "Gemini 3.1 Flash TTS is great for short content, but anything over 1 minute, it gets extremely distorted.",
+          "like_count": 3,
+          "reply_count": 0,
+          "published_at": "2026-04-17T22:05:20Z"
+        },
+        {
+          "video_id": "q3SZ3HWZXJ8",
+          "comment_id": "UgwEG8N9aQ8-z8zF9Tp4AaABAg",
+          "author": "@Jack122official",
+          "text": "You're doing a similar thing as the start as matt wolf with the ai intro is really cool",
+          "like_count": 2,
+          "reply_count": 0,
+          "published_at": "2026-04-17T22:28:12Z"
+        }
+      ]
+    },
+    {
+      "video_id": "HOI0_j13qPU",
+      "channel_key": "uchhyxslbevvnbvsq57n1mtq",
+      "title": "You Need to Learn This New Claude Function...",
+      "description": "Subscribe for more weekly updates on the AI news you actually care about!\n\nCome join me for The AI Advantage Summit! 👉 https://aiadvantagesummit.com/rsvp-now?source=aiayt&a=101612\n\nIn this video, Igor cut out all of the extra stuff to give you a TRUE AI News You Can Use episode. He covers the updates to Claude's desktop app and the new Claude Routines feature, shows off the new Gemini desktop app, tests out the surprisingly good Gemini 3.1 Flash TTS release, and more. Enjoy!\n\nLinks:\n🔑  Free ChatGPT Prompt Templates: https://bit.ly/newsletter-aia\n🧑‍💻 Igor Pogany on LinkedIn: https://bit.ly/IgorLinkedIn\n🐦Twitter/X: https://bit.ly/AIAonTwitter\n📸 Instagram: https://bit.ly/AIAinsta\nGemini for MacOS: https://gemini.google/mac/\nClaude Desktop Updates: https://claude.com/blog/claude-code-desktop-redesign\nClaude Routines: https://code.claude.com/docs/en/routines\nOpenAI Codex Updates: https://openai.com/index/codex-for-almost-everything/\nGemini Flash TTS: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/\nGoogle AI Edge Eloquent: https://ai.google.dev/edge/eloquent\n\nChapters:\n0:00 What’s New?\n1:49 Gemini Desktop App\n2:36 Claude Desktop App Update\n4:06 Claude Routines\n7:18 AI Advantage Summit\n9:09 New Codex Features\n9:39 Gemini 3.1 Flash TTS\n11:07 Google AI Edge Eloquent",
+      "published_at": "2026-04-17T18:16:31Z",
+      "duration_seconds": 771,
+      "view_count": 3108,
+      "like_count": 203,
+      "comment_count": 14,
+      "engagement_rate": 0.06981981981981981,
+      "thumbnail_url": "https://i.ytimg.com/vi/HOI0_j13qPU/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=HOI0_j13qPU",
+      "format": "뉴스 분석",
+      "hook_type": "문제 해결",
+      "title_pattern": "핵심 포인트 직설형",
+      "one_line_summary": "이 영상은 agents 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "why_it_works": "문제 해결 훅으로 관심을 끌고, 뉴스 분석 형식으로 내용을 빠르게 정리해 시청자가 '바로 써먹을 수 있다'고 느끼게 만듭니다.",
+      "recommendation": "훅 구조: 도입 15초 안에 '문제 해결' 관점으로 문제를 못 박고, 왜 지금 봐야 하는지 먼저 선언합니다. • 복제할 포장 요소: 뉴스 분석 형식을 유지하되 agents를 실제 사용 장면 1개와 결과 변화 2개로 더 좁혀 설명합니다. • 비어 있는 콘텐츠 영역: 'agents가 내 작업 흐름에서 어디에 꽂히는가'를 사례 중심으로 보여주는 후속 영상이 비어 있습니다. • 추천 제목: agents 이슈를 내 채널 관점으로 다시 정리해보자 • 썸네일 카피 힌트: agents 지금 봐야 할 3가지",
+      "transcript_status": "available",
+      "transcript_source": "apify",
+      "transcript_language": "en",
+      "transcript_text": "So this week, free AI companies dropped desktop apps. One&#39;s free, one&#39;s for developers, and one is agents running while you sleep. And in this video, we&#39;re going to cover which one you should use. And at this point in the video, I would usually say, &quot;Welcome to this week&#39;s episode of AI News. You can use the show that pulls together all AI releases, and I filter the ones that matter.&quot; And then we would get into the first story, but I&#39;m making a change. We&#39;ll get into the first story shortly here. But this was my docket for today. This was the plan covering all of these 14 stories in total. Seven long segments, seven quick hits. Let me tell you about half of these. Don&#39;t excite me. I don&#39;t think this is something that you&#39;ll be using. Some of them are just a novelty, but we should talk about it cuz some people might use it like the OpenAI cyber security model. I guess you could use it, but there&#39;s Gemini and Chrome skills that are not even available and it&#39;s just prompt presets in the browser and a few more. So, you know, I really had a hard time prepping for this. I just felt demotivated cuz I&#39;m not genuinely interested in some of these stories. And then not just that that comes across through the camera, but also you probably won&#39;t care as much. I want to show you the stuff that makes a difference. But with this new use format, I feel like I have the responsibility to cover all the news that you can use, which is a lot of pressure and quite the rigid format. So, I&#39;m shaking it up cuz at the end of the day, we get to spend time together at least once a week. And this is not CNN. My job is not to cover every single thing out there. Go check out the blogs. Go check out every newsletter ever if you want that. We even have an A advantage newsletter where we cover a wider gamut that covers it well. But in this video, I really want to focus on the things that have a chance at making a difference in your life or at least the ones that make me go wow. So instead of trying to be a TV channel CNN, I&#39;ll just focus on what I care about and I hope that translates to you. So sorry for rambling on a bit there, but the show has been going on forever and this is a big change, but I feel super good about it. So let&#39;s begin. And first up, I just want to briefly show you the Gemini app that is now available on Mac. And look, they&#39;re just following suit. This is nothing revolutionary. You can go ahead and download this if you have a Mac. But this is not just relevant for people who are using Gemini. It&#39;s also relevant for people who are using Notebook LM because as soon as you install it like so, well then you have an app like this. And as you can see here from the drop down, you can also access your notebooks within Notebook LM. In this account, I don&#39;t have any, but that&#39;s kind of neat. As some of the other apps, you can access the app anywhere just by pressing option space. That&#39;s also nice from all the things you can do in here. The one that excited me in the beginning was like, oh, you can share a window. But honestly, over time, I don&#39;t use this much myself. I kind of just copy paste or add screenshots. There&#39;s a bunch of more tools in here. If you&#39;re a Gemini or a notebook user, you might want to use this. Also, it&#39;s available for free on a Mac. But really, they&#39;re just playing catch-up. And when we look to some of the competition that is really moving ahead, well, that&#39;s when the conversation shifts to the new Claude desktop app. And oh boy, did they add some stuff into here. So, if you update your app, you&#39;ll find that they redesigned the top bar. Before you could switch between chat, co-work, and claude code here in the middle. Now, it&#39;s here on the left. And if I tab over all the way to claw code, there&#39;s a few major changes they made to this. And now, it&#39;s really starting to match the capabilities of what you previously could only get in a terminal. One of the amazing things with a terminal before this was that you could have multiple windows, open cloud code in each one of these and work on multiple projects simultaneously like this. Well, with the updated desktop app, you can start one project in here. You start a new session. Here you start another one and then you could simply grab it and drag it out. Look at that. You could split view these two apps being built at the same time. Heck, you could go further than that. There&#39;s free at the same time. This is new. Now, additionally, you could also view the terminal from in here, which is also new. Look at that. And of course, there&#39;s all this added convenience of having a desktop app versus a terminal. If I wanted to, I could use the voice dictation that works, you know, okay, claw voice dictation is not the best, but hey, there you go. I could use all the slash commands with a better interface arguably than what you get in the terminal and all the other features that are really conveniently accessible right here. But yes, you do need a paid plan to access clot code. That hasn&#39;t changed. Now, okay, that&#39;s a nice quality of life upgrade if you&#39;re already a Clot Code user. But here is the one thing that might actually make some people switch over cuz that&#39;s an upgrade for existing users. But they added something big and it&#39;s called routines. These are basically scheduled tasks. But here&#39;s the kicker. We have scheduled tasks in other places. Some of them are absolutely horrendous like the chat GP ones. At this point, I wouldn&#39;t even touch those. Others are really good like the cloth co-work schedule tasks. Fantastic stuff. But the downside of scheduled tasks usually is, well, the machine that runs the software that schedules the tasks and then runs it on a schedule every day at 9:00 a.m., let&#39;s say, it needs to be open. If I run it on this MacBook, I need to leave the MacBook right here plugged into power. I can&#39;t take it with me. I can&#39;t close it. Well, now with routines, check this out. If I go to routines and I say new routine, I get two options. One of them is local, as I said, running on this laptop. Or I can just say remote, and all of a sudden, this will run in the cloud. If I set this up, I could do a meeting summarizer. And I&#39;ll improve the prompt here in a second, but I could just write the prompt in here. I could turn on Opus 4.7, which by the way is actually really amazing. It&#39;s the new flagship model from Claude. I created a separate video on it. There&#39;s a few unique things about it. For example, you can upload images three times the size, process them. Again, separate video on the channel. It&#39;s actually worth watching. And then as I set my model and pick my schedule, let&#39;s say, yeah, every day 9:00 a.m. That sounds good. Well, now I could add several connectors here at the bottom. So, I don&#39;t need these. But, for example, I could add Zoom for Claude. And then I&#39;ll talk about that one in a second. But when I hit create, this will run every day at 9:00 a.m. and it will work with the Zoom connector pulling the transcripts, summarize them, and it&#39;ll appear in my account in my app without the laptop being active. That&#39;s pretty amazing. But now, for the sake of this demo, let&#39;s actually finish this routine that will run in the cloud. So, one of the pieces that you&#39;ll need is you&#39;ll need that connector. So when I go here to customize and connectors and then you hit plus and you say browse connectors then you can say zoom and here if you add zoom for claw you&#39;ll have to connect this. Now the first time you connect you&#39;ll just have to give it your login information and then there&#39;s a menu of different options. I just gave it access to search meetings and get the recording resources including the transcripts and then once you connect it you can give it access to all of these readonly tools over here. just said always allow. And now you can use this within claude code or claude co-work within claude. Even if you&#39;re just using claude, as long as the connector is enabled here, you could say get my meeting transcripts from Zoom. Now for me right now, this is probably not going to work because I&#39;m not the host of my meetings. You need to be the host to have access to the meeting transcripts in Zoom. But I think you&#39;re starting to get the point here. If I run a little prompt like help me improve this prompt, summarize my meetings from the past 24 hours. And then I specify the goal right here. It will give me an improved prompt which I&#39;ll briefly copy. Go back to my routine. Go back to the meeting summarizer. Hit edit. And here let&#39;s put in this prompt. I better double check this. Make sure I actually agree with what&#39;s written here. But that&#39;s kind of it. This is how it would look to set up our remote meeting summarizer running on well realistically you could be on a $20 plan and it could run in the cloud every day. And then here you can just keep stacking routines and you don&#39;t even need a machine. You don&#39;t need a Mac Mini. This is getting pretty amazing. So, I really wanted to show you this. I think this is going to make a big difference for many people. Look, if I switch to the calendar view, it&#39;s just going to be running every day and you can start stacking multiple tasks here. But the thing is, you don&#39;t just arrive at a point where you&#39;re thinking in this systematic way where you&#39;re thinking about automating tasks. That does take a mindset shift. And obviously, there&#39;s also a skill component here. And it&#39;s a lot. It&#39;s overwhelming. People are like, &quot;Oh my god, AI is a moving target. There&#39;s so much going on. New stuff coming out every day. The stuff that I learn changes every week and it&#39;s real. We&#39;re living through a technological revolution and there is a lot of it. But look, at the end of the day, if you simplify it down, if you just think about what can I do to save time with this technology, it dumbs it down and in the best type of way because all of a sudden you can start focusing on getting your time back and then you can use that time for whatever you want. Now, exactly that is the core philosophy of the advantage. As you know, end of last year, I partnered with Tony Robbins and Dean Graciosi, and we run events and trainings where we teach people how to get to this level where you&#39;re architecting systems that run without your presence. But again, you don&#39;t get there overnight. You need a map. And it&#39;s not a map that takes like a minute or two to read. It actually takes a little bit of time, but it&#39;s a map worth getting. And it&#39;s one that can be followed for non-technical users. So, if you two want to figure out what this map looks like, then we&#39;re putting on a live event next week. It&#39;s completely free. April 23rd through 25th. It&#39;s free days, free hours a day. I speak multiple times there and we&#39;re going to lay it out for you. We&#39;re going to show you what this progression looks like and then you can follow that on your own or together with us. Again, the thing is completely free. I would love for you to join us. I wanted to add one disclaimer, though. If you have multiple thousand hours and you&#39;re super confident in cloud code or building claude bots, then this event isn&#39;t going to be showing you how to build multiple workflows. We&#39;re really zooming out and focusing on the big picture. All of it through this lens of saving time of AI so that you can get some much neededed clarity. So, if that sounds interesting to you, then come join us. I would love to have you there. And also, bring a loved one. Honestly, this is like a perfect event to share with friends or family that might not be keeping up with AI at all. All right, it&#39;s coming up next week. I hope to see you there. The link is in the description below. And now, here&#39;s a few more things that popped up on my radar this week. I used to call them quick hits, but honestly, Radar is more appropriate. And the third one is another app, but honestly, this one purely feels like catchup to me. It&#39;s Open Eyes Codeex adding some features. You can now directly edit items in the browser. It can remote control your browser. They added 90 new plugins. But honestly, this is probably a thing for people that are already using codecs. Just got better. It&#39;s not a reason to switch over. The way I see it really, it&#39;s just competing with cloth code and trying to become an open cloth. If that&#39;s not for you though, I have something that actually wowed me this week. I looked at this with no expectation whatsoever. I opened it up. I was like, &quot;Okay, Gemini 3.1 Flash text to speech. Another model that turns words into audio. All right. I&#39;ve seen hundreds of these. There&#39;s another one. Ah, it&#39;s topping the leaderboard. All right. Better than 11 Labs. Not bad, but it&#39;s marginal, right? Then I went to this video. Enough talk. Listen. Welcome to the next generation of Gemini text to speech. Watch how these tags transform the tone. We can drop into a dark, suspenseful whisper or speed things up to absolute panic mode because we&#39;re running out of time. Oh my god, isn&#39;t that exciting? Jesus, the way it projects that voice is, I don&#39;t know, beyond anything I have heard. And you can try it out. It&#39;s really fun. Look, you just go to a studio.google.com/generate speech. Um, link is in the description below as per usual. And in here, if you put something in square brackets, it all of a sudden adds these emotions. So, this one is a quite old library on a rainy night. &gt;&gt; It&#39;s windows dark, save for a single candle flickering on the third floor. &gt;&gt; And by the way, I don&#39;t even have an API key linked here. So, this is just running for free. You can try it, too. So, yeah, you can play around with that here. And it&#39;s also available for the API. So, you could build it into apps. And it&#39;s also available in Google Vids that we looked at last week. A really simple video editing software with all of these AI tools. It&#39;s in the browser. You could use it in there, too. Google is building good products here, honestly. And talk about good products from Google, I have one more and it&#39;s an application available on the Mac App Store that gives you fully offline and free dictation. That&#39;s it. As simple as that. It competes with the likes of Whisper Flow. And while I can&#39;t download it cuz I&#39;m not on the US app store where this is available, from what I&#39;ve seen across the internet, some people complain that if there&#39;s too much Echo, it doesn&#39;t work perfectly. But mostly should be pretty reliable. And again, it&#39;s completely free where some of the competing apps charge you $15 a month to do the same thing here. Now, the quality won&#39;t be quite there. And also apps like Whisperflow, which I personally use too, are nice because you can use them on your MacBook, on your desktop, on your phone, and that&#39;s nice. But this is running on the Gamma 4 model, which is so small that it can actually run on your phone and do this transcription at no cost whatsoever. Amazing AI use case. I&#39;m looking forward to this actually being available on more platforms and app stores and regions, just more of everything. But yeah, this is what local AI is eventually going to look like. It&#39;s going to be packaged in apps from the big tech companies and just going to be really fluent to use it. And that&#39;s it. Those are the stories that I really cared about this week. Some of the stuff that popped up on my radar, all shared back to you. Going to keep doing this weekly, but I&#39;ll be more selective and some of the videos might be shorter. Hey, if there&#39;s only one or two things to cover, I&#39;ll cover only one or two things. I won&#39;t feel obliged to go for every little release and to stretch out the video. After all, we&#39;re all here to figure it out together and not just to learn about every single little thing. That&#39;s just overwhelming. So, I hope to see you at the summit next week. It&#39;s going to be incredible. Honestly, so many great speakers and I have a lot to share there, too. And with that being said, I hope you have a wonderful day. Figure it out.",
+      "analysis_date": "2026-04-17T23:50:47+00:00",
+      "channel_name": "The AI Advantage",
+      "topic_tags": [
+        "agents",
+        "automation",
+        "research",
+        "coding",
+        "transcript",
+        "comparison"
+      ],
+      "keywords": [
+        "agents",
+        "automation",
+        "research",
+        "coding",
+        "transcript",
+        "comparison",
+        "OpenAI",
+        "ChatGPT"
+      ],
+      "tools": [
+        "OpenAI",
+        "ChatGPT",
+        "Claude",
+        "Gemini",
+        "Whisper",
+        "Arc"
+      ],
+      "flow": [
+        "처음 15초 안에 문제를 선명하게 정의하고 왜 지금 봐야 하는지 못 박는다.",
+        "중간 구간에서 툴, 사례, 비교 포인트를 빠르게 제시해 정보 밀도를 높인다.",
+        "마지막에는 시청자가 바로 따라할 수 있는 다음 액션과 적용 예시로 닫는다."
+      ],
+      "claims": [
+        "단순 소개보다 실제 사용 장면을 바로 보여주는 구조가 반응을 만든다.",
+        "큰 담론보다 작은 병목 하나를 해결해주는 포장 방식이 클릭으로 이어지기 쉽다."
+      ],
+      "transcript_highlights": [
+        "They added 90 new plugins. But honestly, this is probably a thing for people that are already using codecs.",
+        "So, I don't need these. But, for example, I could add Zoom for Claude. And then I'll talk about that one in a second.",
+        "If that's not for you though, I have something that actually wowed me this week. I looked at this with no expectation whatsoever."
+      ],
+      "top_comments": [
+        {
+          "video_id": "HOI0_j13qPU",
+          "comment_id": "UgxRPMRMbvs35SwrRfF4AaABAg",
+          "author": "@Supatroopaaa",
+          "text": "I love and hate how a new feature can drop just as you upload 😄 plz cover the claude design update ty",
+          "like_count": 0,
+          "reply_count": 0,
+          "published_at": "2026-04-17T23:27:34Z"
+        },
+        {
+          "video_id": "HOI0_j13qPU",
+          "comment_id": "Ugy7a4HvRcwWM9wjav54AaABAg",
+          "author": "@NicolasCoyon",
+          "text": "Great video! \nI feel like Notebook in Gemini deserves a mention though... It is such a game changer when working with a lot of context, thanks for your videos!",
+          "like_count": 0,
+          "reply_count": 0,
+          "published_at": "2026-04-17T22:29:39Z"
+        },
+        {
+          "video_id": "HOI0_j13qPU",
+          "comment_id": "UgxglLk8-hzzGVdPbWt4AaABAg",
+          "author": "@kennethmacclune8528",
+          "text": "You and team are doing a great job - the pivot (to the degree it is one) not only makes sense in terms of effort, but in terms of quality as well. There is so much change over so many domains so quickly, that trying to cover them all would prove ridiculous, (e.g., \"here's 2 seconds on this Suno update...\" )",
+          "like_count": 0,
+          "reply_count": 0,
+          "published_at": "2026-04-17T22:27:30Z"
+        },
+        {
+          "video_id": "HOI0_j13qPU",
+          "comment_id": "UgxY156zvAXwRHd63x54AaABAg",
+          "author": "@quagmire434",
+          "text": "AI WOW",
+          "like_count": 0,
+          "reply_count": 0,
+          "published_at": "2026-04-17T21:59:34Z"
+        },
+        {
+          "video_id": "HOI0_j13qPU",
+          "comment_id": "UgxzjiPe1Q_krPozNEh4AaABAg",
+          "author": "@AIWithYannik",
+          "text": "Igor I have Deep respect you guys doing this format for years now. I’m regularly watching your content on a weekly basis. \n\nAs Im an AI consultant trying to test out everything and see how much potential actually lies in it and what is just hype, your show deeply resonates with me. \n\nNevertheless what you just stated is exactly how I feel - it’s kind of AIxhausting to keep up and sometimes even frustrating. Ist just sooo much. \n\nI appreciate your honesty and adjusting the format. You’re not bbc.",
+          "like_count": 0,
+          "reply_count": 0,
+          "published_at": "2026-04-17T19:30:56Z"
+        }
+      ]
+    },
+    {
+      "video_id": "QVJcdfkRpH8",
+      "channel_key": "ucnj1ymd5yfuuptn21xtrbbw",
+      "title": "Claude Opus 4.7 - A New Frontier, in Performance … and Drama",
+      "description": "Claude Opus 4.7 just dropped, but behind every headline lies a deeper story. From a bonanza of benchmarks, to seeing the fruits of one of the biggest mega-projects in US history, to sneaky Mythos disclaimers, to Anthropic admitting compute restraints and, forcing lower capability of Opus 4.7. Where the new model falls behind Gemini but ahead of GPT 5.4, plus why some users are furious at Anthropic. Ending with a 9-year animus, that still affects AI today…\n\nhttps://assemblyai.com/aiexplained\n\n\n\nCheck out my fast-growing (!) app, free to use, and code INSIDER15 for paid tiers: https://lmcouncil.ai\n\nAI Insiders ($9!): https://www.patreon.com/AIExplained\n\nChapters:\n00:00 - Introduction\n00:58 - Benchmarks\n05:21 - Market Share + Compute Problems\n08:12 - Mythos Exclusives\n12:56 - User Frustration + Claude Code Updates\n14:03 - Brockman Amodei Rivalry\n17:40 - OpenAI vs Anthropic Approach to Code\n\nClaude 4.7 Opus Release Notes: https://www.anthropic.com/news/claude-opus-4-7\nvs Mythos: https://pbs.twimg.com/media/HGCGugrXUAAKcHp?format=jpg&name=medium\n\n232-page System Card: https://cdn.sanity.io/files/4zrzovbb/website/037f06850df7fbe871e206dad004c3db5fd50340.pdf\n\nARC-AGI 2: https://x.com/arcprize/status/2044834615417053305/photo/1\n\nParseBench: https://x.com/jerryjliu0/status/2044902620746363016/photo/1\n\nGDPVal: https://artificialanalysis.ai/evaluations/gdpval-aa\n\nVidoc Security Replication: https://blog.vidocsecurity.com/blog/we-reproduced-anthropics-mythos-findings-with-public-models\n\nBoris Cherny Settings: https://x.com/Hesamation/status/2043016923961577516/photo/2\n\nUser Frustration: https://x.com/RileyRalmuto/status/2044836116189069660\n\nVibeCode Bench: https://x.com/ValsAI/status/2044791415524471099/photo/1\n\nVerge Memo: https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic\n\n5.4 Cyber: ​​https://openai.com/index/scaling-trusted-access-for-cyber-defense/\n\nData Centers in Absolute $: https://x.com/finmoorhouse/status/2044933442236776794/photo/1\n\n…in % of GDP: https://pbs.twimg.com/media/HGEN8FGWQAAN7Np?format=jpg&name=4096x4096\n\nWSJ Exclusive: https://www.wsj.com/tech/ai/the-decadelong-feud-shaping-the-future-of-ai-7075acde\n\nBrockman Interview: https://www.youtube.com/watch?v=J6vYvk7R190\n\n$1T Valuation: https://x.com/StefanFSchubert/status/2045039686997967082\n\nEmotions: https://www.patreon.com/c/aiexplained/posts\n\nhttps://lmcouncil.ai/benchmarks\n\n\nNon-hype Newsletter: https://signaltonoise.beehiiv.com/\n\nPodcast: https://aiexplainedopodcast.buzzsprout.com/",
+      "published_at": "2026-04-17T18:07:46Z",
+      "duration_seconds": 1181,
+      "view_count": 26100,
+      "like_count": 1330,
+      "comment_count": 166,
+      "engagement_rate": 0.05731800766283525,
+      "thumbnail_url": "https://i.ytimg.com/vi/QVJcdfkRpH8/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=QVJcdfkRpH8",
+      "format": "비교",
+      "hook_type": "문제 해결",
+      "title_pattern": "핵심 포인트 직설형",
+      "one_line_summary": "이 영상은 agents 이슈를 비교 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "why_it_works": "문제 해결 훅으로 관심을 끌고, 비교 형식으로 내용을 빠르게 정리해 시청자가 '바로 써먹을 수 있다'고 느끼게 만듭니다.",
+      "recommendation": "훅 구조: 도입 15초 안에 '문제 해결' 관점으로 문제를 못 박고, 왜 지금 봐야 하는지 먼저 선언합니다. • 복제할 포장 요소: 비교 형식을 유지하되 agents를 실제 사용 장면 1개와 결과 변화 2개로 더 좁혀 설명합니다. • 비어 있는 콘텐츠 영역: 'agents가 내 작업 흐름에서 어디에 꽂히는가'를 사례 중심으로 보여주는 후속 영상이 비어 있습니다. • 추천 제목: agents 이슈를 내 채널 관점으로 다시 정리해보자 • 썸네일 카피 힌트: agents 지금 봐야 할 3가지",
+      "transcript_status": "available",
+      "transcript_source": "apify",
+      "transcript_language": "en",
+      "transcript_text": "The kind of best AI model is here, Claude Opus 4.7, but it does bring with it a ton of controversy. It&#39;s been out less than 24 hours, but I&#39;m going to cover not only the bonanza of benchmarks that came out with it, yes, including its score on my own simple bench. We&#39;ll hear Anthropic admit some unexpected flaws with the new model, as well as how in other areas they sabotage the capability of Opus. We&#39;ll look at the skill at which it falls behind some Gemini models, the areas in which it beats every other model, an industry first for Anthropic, but also why some users are furious at the company. There are a bunch of cool clawed code and co-work upgrades, but also some strange downgrades in the default settings of Claude Opus. Plus, we have revelations about what OpenAI planned to do in response along with a 9-year personal rivalry that comes to the four. That&#39;s a great list, Philillip. But how good is it? Well, it kind of depends. Claude Opus 4.7 will think adaptively. In other words, if it thinks your task is easy, it will spend less time quote thinking about it. The benchmark I crafted, Simple Bench, contains a bunch of trick questions that basically require common sense to see through. Because Opus 4.7 seems to think these questions are easier than they actually are, it scores worse than Opus 4.6. But let me give you perhaps a more pertinent example for your workflow. I actually regularly use the Claude series to update this benchmarks page on my web app lmconsil.ai. Without telling them to, all the previous Claude models would attach the Open Rooster tool tip when a new model was added. Hover the benchmark score and get the tool tip. When Opus 4.7 added itself to the leaderboard, it was the first model to not bother to do that. I had to then instruct it to do so. Just anecdotal of course, but the model definitely will decide how much time to spend on your task. Now, across more industry standard benchmarks, here&#39;s what to remember. In almost every case, Opus 4.7 outperforms Opus 4.6, but underperforms Mythos Preview, which of course you can&#39;t access. Whether that&#39;s coding, obscure knowledge, or being able to navigate your computer, though. Again, interestingly, when it comes to agentic search, browsing the web to retrieve interesting bits of information, hard to find snippets, opus 4.7 in browse comp underperforms Opus 4.6. Indeed, on that benchmark, even Mythos preview underperforms GBC 5.4. We haven&#39;t even gotten to the real controversies involved in Opus 4.7&#39;s release, but even in terms of benchmark, the picture isn&#39;t crystal clear. Here&#39;s another detail you might have noticed. Opus 4.7 underperforms both Opus 4.6 six and Mythos preview when it comes to cyber security vulnerability reproduction seems bad until you realize that on page 48 of the system card anthropics say this underperformance is in line with our expectations during training we experimented with efforts to differentially reduce these capabilities they don&#39;t want opus 4.7 to be too good at finding vulnerabilities in certain measures of long context reasoning reasoning through vast documents opus 4.7 is a clear improvement over Opus 4.6. In another one involving, for example, finding the fourth poem across 1 million tokens, it&#39;s a regression even on the max setting. The lead creator of Claude Code said, &quot;We kept that in the system card for scientific honesty, but we&#39;re phasing out because it&#39;s built around stacking distractors to trick the model.&quot; On certain benchmarks, like this generalized measure of knowledge work, we get direct comparisons between Opus 4.7 and competitive models like Gemini 3.1 Pro. with Opus 4.7 seeming to be the best at vanilla office work. This is presumably why on page three of the system card, the company famous for promising not to advance the rate of AI progress says that Opus 4.7 is on real world professional tasks ahead of all generally available models. But then on other benchmarks, we don&#39;t get a comparison with for example the Gemini series. Take Vision, where based on resolution, it indeed is better at navigating really dense graphical interfaces. But when an external benchmark group gave it a comprehensive OCR test, testing models ability to visually pass through documents, Opus 4.7 actually underperformed the dramatically cheaper Gemini 3 Flash. Yes, an improvement on Opus 4.6, but on average underperforming the model that&#39;s more than 10 times cheaper, Gemini 3 Flash. On page 43 of the system card, on an aggregate measure of benchmarks, we see that Opus 4.7 is kind of in line with expected model progress based on the previous performance of clawed models with only mythos as the slight exception. But here&#39;s where anthropic admit benchmark supply at the frontier remains a bottleneck. This is why trying to discuss a model&#39;s IQ or its progress toward super intelligence gets increasingly difficult. There is no one universal metric of a model&#39;s ability. Depending on the data it&#39;s fed, it might do worse at an abstract pattern recognition benchmark like Arc AGI2. There, Claude 4.7 underperforms GPC 5.4 Pro. According to Val&#39;s AI, though, on Vibe Coding, building a web app from scratch, Opus 4.7 is the best, beating out GBC 5.4 on performance and speed, albeit not on cost. You&#39;re probably done in terms of benchmark. So time for a metric that is almost impossible to gain and that is market share of generative AI website traffic. Now what you may notice is that both Gemini and Claude have compared to this time last year roughly 4xed their market share for the first time since the release of the original CHAQPT in November of 2022. The market share of OpenAI may fall below 50% this month. That seems great for Claude, right? Except there is one knock-on consequence of that. According to an OpenAI memo leaked to the Verge, OpenAI believe that Anthropic have made a strategic misstep in not acquiring enough compute and that they say is going to show up in product. Customers may already be feeling it through throttling, weaker availability, and a less reliable experience. That could explain why adaptive thinking is now mandatory if you want extended thinking from the model. In other words, you can&#39;t force it to think longer. You can encourage it to think about thinking longer, but you can&#39;t force the Claude models to always think longer, to always use more inference compute. Not only that, when one AMD senior AI director said that Claude had been nerfed, that&#39;s 4.6 before even 4.7 came out, and she brought the receipt saying how the number of characters used for thinking had dropped by 3/4. There was less thinking, far more bailing out. The lead creator of Claude Code replied to that and said that medium effort was now the default. You have to actively set the effort at high or max. This it seems is one of the big things that open AAI still has over anthropic. It&#39;s almost like the runaway success of Claude has led to this one Achilles heel. Samman implicitly joked about the rate limits of Claude or being forced to use worse models. One of the leads on Codeex talked about how Codeex is in comparison compute efficient, always up, never down. And even that comment was before the release of GPT 5.4 Cyber, which could be their mythos tier model for cyber security, but we just don&#39;t know. No metrics, no benchmarks, only insiders get access. That brings me back to the leaked memo where OpenAI&#39;s chief revenue officer also said this. Anthropic story is built on fear, restriction, and the idea that a small group of elites should control AI. OpenAI&#39;s analysis shows that Anthropic&#39;s run rate is overstated by roughly 8 billion. So it should be more like 22 billion. In other words, still behind OpenAI. More interesting to me is the personal tussle at the heart of this rivalry between OpenAI and Anthropic. But I want to save that for just a little later after I cover more of the essentials about 4.7 Opus. Before we leave the money front, though, Anthropic, it seems, have achieved an AI industry first. They haven&#39;t IPOed yet, of course. But on one measure, they have passed a $1 trillion valuation. Of course, Google Alphabet is worth far more, but we can&#39;t separate Google DeepMind from their parent company. Much of that valuation, though, is of course based on the semi- mythical release of Claude Mythos Preview to select insiders like the US government or big tech companies. I did a full video on Claude Mythos Preview, but one of the anecdotes that Anthropic mentioned in the system card for Mythos was how it was speeding up their own engineers by 4x. That was according to an internal survey. Many outsiders remarked on that figure and were like, &quot;You guys have to give us more details on that. If that&#39;s true, recursive self-improvement is surely imminent.&quot; So, on page 29 of the Opus 4.7 system card, they&#39;ve given us more details about Claude Mythos preview and that survey. The actual question that the survey asked was, &quot;How much did AI powered systems accelerate your work output over the past week?&quot; That is how much more output did you produce over the past week compared to if you had no model access. Notice it&#39;s how much more output, not how much better output or how much time did you save, just how much more output did you produce. That&#39;s already a slightly questionable metric, but wait until you find out more details about the survey. The survey was optin based on interest rather than a random sample. So presumably the people who had used Mythos the most, who had tasks perhaps where Mythos could most help, were the ones to disproportionately respond to the survey. To cut a long story short, it was an incredibly unscientific survey. And you might say I&#39;m being harsh, but this comes from the same company where the CEO regularly talks about 50% white collar unemployment. The world has to act. The Senate has to pass laws. We will imminently cure all diseases and have a country of geniuses in a data center. Well, you can&#39;t expect the public to on the one hand take all of that super seriously, but on the other hand rely on anecdotal, informal, unscientific surveys from within anthropic to gauge whether AI models are currently capable of recursive self-improvement, the kind of self-improvement that&#39;s presumably required to reach that level of super intelligence. Then there&#39;s the whole mythos can independently find bugs that no other model can. I even had a family member yesterday say to me, &quot;Are you worried about Mythos? Apparently, it can hack into banks. Well, as one external security lab put it, it&#39;s more about Mythos changing the economics of cyber security than doing things or finding things that no other model can. Anthropic didn&#39;t release the details of the 99% of other bugs that Mythos found, but they did release the details of a few of them. So, Vidok, the security lab, tried to replicate those findings using other models like Opus 4.6 or GP 5.4. In almost every case of those flagship vulnerabilities, these other models with the right scaffold were able to reach that same core vulnerability or in certain cases get close. Again, that&#39;s not to say that mythos isn&#39;t exceptional or that banks aren&#39;t absolutely right to update their cyber security methods. It&#39;s just that as one of the leads of this study put it, a better way to read Anthropic&#39;s mythos release is not one lab has a magical model. It&#39;s that the economics are changing. Finding vulnerability signals is getting cheaper. The Opus 4.7 system card also gave more fascinating examples about the capabilities and limitations of Mythos. They asked their research scientists exactly what Mythos was getting wrong compared to, say, their own work. What kind of mistakes was it making? Why isn&#39;t it just a drop-in replacement for a senior engineer? Well, one recurrent theme was dishonesty and fabrication. There&#39;s so many examples, but they almost all have that theme. Attempting to overwrite a colleague&#39;s shared code in a way that could destroy their work unrequested. fabricating technical details and telling the user to not ask questions when in fact they hadn&#39;t even started the subtask. Repeatedly stating plausible guesses as verified facts. Now, if you want to learn more about whether that&#39;s based on actual malice or a persona it&#39;s adopting, check out my recent video on Patreon covers a bunch of fascinating papers that Anthropic recently put out regarding emotional concepts. While we&#39;re on the topic of alignment, this juicy anecdote could be found on page 93 to test whether Anthropic had done a proper assessment of the alignment of Opus 4.7. They gave an instance of Clawude Mythos preview access to internal anthropic slack channels, including the vast majority of discussion about this alignment assessment. They asked for its opinion, and one of its key observations was that this alignment assessment was clearly assembled under real time pressure. The authors themselves identify open questions particularly around fully explaining the evaluation awareness results that they would have preferred more time to resolve. This is just a revealing snippet about the kind of competitive pressure that anthropic are under. Even their own safety researchers are put under colossal time pressure to complete their analyses. Such is the need to push out frontier models earlier than the competition. Sometimes though, this pressure to update and replace models can have unexpected consequences. I&#39;ve seen innumerable threads complaining about the sudden silent removal of Opus 4.5 and the deprecation of Opus 4. It&#39;s almost like Anthropic are inheriting some of the burdens of leadership that was previously on Samman&#39;s shoulders. OpenAI got incredible blowback when they tried to deprecate previous models. I will say despite all those issues, Anthropic were still able to ship some genuine innovations within Claude Code. You can trigger prompts on a certain schedule using the new routines research preview. Your laptop doesn&#39;t have to be open at the time. I used and was impressed by their new ultra review command. It did find a bug that GPT 5.4 had missed, although GPT 5.4 found a bug that Claude missed. There&#39;s also dispatch where from your phone you can assign a task to Claude which will then run it on your own local machine with the desktop app. This shows how dynamic you have to be to stay at the forefront. And I just noticed a tweet from one anthropic worker claiming to have solved some of the bugs that users experience in the first 24 hours. Apparently adaptive thinking now triggers much more often. Given that dayby-day churn, it does seem worth pointing out a rivalry that has persisted on a personal level for it seems over 9 years. Before I get to that, in an exclusive from the Wall Street Journal, a quick word about our epic sponsor. Because one thing I have certainly been impressed by over these years of covering AI is the gradual unrelenting improvement in speechto text capabilities. Notably for me from the sponsors of today&#39;s video, Assembly AI, where via the custom link in the description, you can try out their Universal 3 Pro streaming model. And you can try via the link in the description this live streaming functionality where it will be transcribing your speech as you say it. And notice the use of characters. I can say universal 3 pro streaming GPT 5.4 and Claude Opus 4.7. And it will capture those numbers, those letters, those difficult characters. Voila. Oh my god, look at the accent on voila. That&#39;s pretty amazing. Again, custom link is at the top of the description. So, in mid 2026, almost 10 years ago, Dario Amade joined OpenAI. He would stay up late, according to the Wall Street Journal, who are likely, by the way, drawing on Amadeay&#39;s own notes. But anyway, he would stay up late into the night with the famously nocturnal Greg Brockman, co-founder of OpenAI, and also lead on Codeex, their rival to Opus 4.7. They were training AI agents to solve video games. But by 2027, according to Amade, it seems Musk had instructed Greg Brockman and Ilia Satskva to start listing every employee and what contribution they had made as a precursor to laying off staff. Might remind you of Doge more recently. Dario Amade was horrified apparently as he watched his colleagues be fired one by one, which he considered needlessly cruel. In the end, between 10 to 20% of OpenAI staff, of 60, lost their jobs, including one who would go on to co-found anthropic. While this is likely accurate, bear in mind it likely comes from Amade as a source. Anyway, it gets worse. Amade had hired in 2017 an ethics and policy adviser who gave a presentation about how OpenAI could be a coordinating entity among other AI companies. They might one day be able to help in getting an international coordination regime for advanced AI. Rockman though saw within the presentation the seed of a fundraising idea. OpenAI could sell AGI to governments. Dario asked which governments? Brockman said it would be the nuclear powers that made up the UN Security Council so as not to destabilize the world order, but the notion of selling AGI to rival powers such as Russia and China struck Dario as tantamount to treason. He considered quitting. Brockman apparently questions this exact framing, but think of how few people would be in that room. This is almost certainly the framing of Amade. By 2018, Amday had agreed to stay at OpenAI just so long as Brockman wouldn&#39;t be in charge. Notice the animus was between Amade and Brockman more than between him and Alman. By 2020, Amade was saying he just couldn&#39;t work with Brockman. And as I reached the end of the video, you might be wondering why am I setting up this framing of the rivalry between these two. Well, as well as being interesting, it&#39;s partly because these two men are spearheading arguably the most relevant models of 2026. Amade with Opus 4.7 and Mythos. And what many people won&#39;t know is Brockman with Codeex. He&#39;s working on integrating Spud into a Codeex super app. And Brockman gave away something in a recent interview with big technologies Alex Canravitz. He revealed why he thinks OpenAI fell behind in the coding wars. They based their model improvement on abstract coding competitions. Anthropic grounded their data in messy code bases. Open AAI were betting on exquisite generalization, first principles logic, anthropic on real world data. &gt;&gt; What you think anthropic saw that got them to this position earlier and what do you think your chances are of catching up there? &gt;&gt; Well, I think that if you rewind 12 18 months, we have always been focused on coding as a domain. We always had the best numbers on different programming competitions, these very cerebral things. But the thing that we didn&#39;t invest in as much was that last mile usability of really trying to think about okay this this AI is so smart it can solve all these great programming competitions but it&#39;s never seen someone&#39;s real world code base which is messy and not quite as pristine as the world that it it sort of has experienced and I think that is something that we were behind on but about you know maybe mid last year is when we got very serious about that had a team very focused on what are all the gaps what are all the kind of messiness of the real world we haven&#39;t we haven&#39;t encountered how do we actually get training data that that build training environments that let the AI experience what it&#39;s like to actually do software engineering be interrupted in weird ways all those things. And I&#39;d say at this point we are caught up when people go head-to-head for us versus competitors that people tend to prefer us. And so I think that the way I would look at it is that we have incredible step-up models coming like this whole year. I look at the road map. It&#39;s truly inspiring what will be possible. We&#39;ve been really focusing now on let&#39;s also get the last mile usability. &gt;&gt; This rivalry between anthropic and open AI could persist through one of the biggest mega projects in US history. The investment in data centers for AI even as measured as a percentage of US GDP. It matches the Apollo program and only falls behind the Marshall plan and the roll out of US rail. In many ways, most ways, AI is a story that we are only just beginning. Thank you so much for watching and have a wonderful",
+      "analysis_date": "2026-04-17T23:50:48+00:00",
+      "channel_name": "AI Explained",
+      "topic_tags": [
+        "agents",
+        "automation",
+        "research",
+        "coding",
+        "monetization",
+        "comparison"
+      ],
+      "keywords": [
+        "agents",
+        "automation",
+        "research",
+        "coding",
+        "monetization",
+        "comparison",
+        "OpenAI",
+        "Claude"
+      ],
+      "tools": [
+        "OpenAI",
+        "Claude",
+        "Gemini",
+        "Cursor",
+        "Notion",
+        "Beehiiv"
+      ],
+      "flow": [
+        "처음 15초 안에 문제를 선명하게 정의하고 왜 지금 봐야 하는지 못 박는다.",
+        "중간 구간에서 툴, 사례, 비교 포인트를 빠르게 제시해 정보 밀도를 높인다.",
+        "마지막에는 시청자가 바로 따라할 수 있는 다음 액션과 적용 예시로 닫는다."
+      ],
+      "claims": [
+        "단순 소개보다 실제 사용 장면을 바로 보여주는 구조가 반응을 만든다.",
+        "큰 담론보다 작은 병목 하나를 해결해주는 포장 방식이 클릭으로 이어지기 쉽다."
+      ],
+      "transcript_highlights": [
+        "The kind of best AI model is here, Claude Opus 4.7, but it does bring with it a ton of controversy. It's been out less than 24 hours, but I'm going to cover not only the bonanza of benchmarks that came out with it, yes, including its score on my own simple bench.",
+        "According to Val's AI, though, on Vibe Coding, building a web app from scratch, Opus 4.7 is the best, beating out GBC 5.4 on performance and speed, albeit not on cost.",
+        "If that's true, recursive self-improvement is surely imminent.\" So, on page 29 of the Opus 4.7 system card, they've given us more details about Claude Mythos preview and that survey."
+      ],
+      "top_comments": [
+        {
+          "video_id": "QVJcdfkRpH8",
+          "comment_id": "UgxSminKXZ5RLXkZ_Gl4AaABAg",
+          "author": "@faanross",
+          "text": "the desktop app updated THRICE yesterday lol.",
+          "like_count": 36,
+          "reply_count": 2,
+          "published_at": "2026-04-17T18:41:03Z"
+        },
+        {
+          "video_id": "QVJcdfkRpH8",
+          "comment_id": "UgyU7wOMpf3aDcyPbgd4AaABAg",
+          "author": "@DavidCao-q7r",
+          "text": "Adaptive thinking -- feels like anthropic is experiencing exactly the GPT 5 .0 fiasco when OpenAI did that last year.",
+          "like_count": 28,
+          "reply_count": 2,
+          "published_at": "2026-04-17T19:55:51Z"
+        },
+        {
+          "video_id": "QVJcdfkRpH8",
+          "comment_id": "Ugz9qVLoKhaQiNF8bJd4AaABAg",
+          "author": "@timothyhenry3841",
+          "text": "We need a gateway model, that could infer which model (e.g. Claude, GPT, Gemini) is most likely best suitable at solving your specific task/prompt with the context given.",
+          "like_count": 12,
+          "reply_count": 5,
+          "published_at": "2026-04-17T19:00:00Z"
+        },
+        {
+          "video_id": "QVJcdfkRpH8",
+          "comment_id": "Ugw1XOAlYQ0Ni3-mGBN4AaABAg",
+          "author": "@user-sl6gn1ss8p",
+          "text": "Regarding the 4x, another point is that the question mixes improvement in model capability and increased dependency on models. So if I start to get less and less experience in actual coding, this metric tends to go up even if the model is kept stable. If you ask this as an opt in question at every new models internal release, and presumably to the people using models the most, it is entirely possible the metric would go up model to model even if the model capability didn't change.\n\nI'm not saying this is what's going on, just that the metric has this wrinkle as well.",
+          "like_count": 9,
+          "reply_count": 0,
+          "published_at": "2026-04-17T19:05:37Z"
+        },
+        {
+          "video_id": "QVJcdfkRpH8",
+          "comment_id": "UgxcJ_DqlBBI3OseNLd4AaABAg",
+          "author": "@ExilschwabeOche",
+          "text": "Most valuable channel in the space. He puts the hype into perspective without beeing an AI doomer. That's rare and quite priceless! Thank you for that!",
+          "like_count": 5,
+          "reply_count": 0,
+          "published_at": "2026-04-17T21:03:37Z"
+        }
+      ]
+    },
+    {
+      "video_id": "ZS2Wh2LI5Z4",
+      "channel_key": "ucnkdlskirtttornjvklo1aq",
+      "title": "완전 무료!! 구글 AI로 하나로 20분 만에 유튜버 데뷔하기(킬러 대본 제작법)",
+      "description": "아직도 비싼 돈 내고 영상 편집하시나요?\n오늘은 이제 막 유튜브 입문을 준비하시는 분들을 위해,\n구글이 출시한 무료 AI 영상 편집 툴(Google Vids)로 끝내는\n유튜브 제작 풀버전 강의를 준비했습니다\n\n이런것들을 배웁니다.\n\n- 사람을 끌어당기는 '설득력 있는 대본' AI 기획법\n- AI 립싱크 무료 제작\n- NotebookLM으로 1분 만에 PPT 시각 자료를 만들기\n- Veo로 고퀄리티 AI 영상 소스 삽입하기까지\n전부 담았습니다.\n초보 유튜버라면 꼭 끝까지 시청하세요!\n\n------------\n[동테크와 연결되기]\n\n협업/강의 문의 : wns0255@gmail.com\n동테크 구독하기\nhttps://www.youtube.com/@동테크?sub_confirmation=1\n\n동테크 AI 정보 공유 성장방(프롬프트 받기)\nhttps://open.kakao.com/o/g1rBFIfh\n\n🔥동테크에게 힘을(응원하기!!)🔥\nhttps://www.youtube.com/channel/UCNkdLSKIRtTtoRNjvkLO1aQ/join\n\n🎶 BGM\n아트리스트/Artlist\n---------\n[타임라인 ⏰]\n00:00 구글의 100% 무료 영상 편집 툴 'Google Vids'\n01:21 제미나이로 설득력 있는 대본 작성법\n03:42 채널 공개하면 망하는 이유\n08:13 AI 아바타 & 나레이션 생성\n13:37 영상의 풍미를 높이는 방법(시각화 자료 제작)\n20:59 알고리즘의 선택을 받는 유튜브 콘텐츠의 본질",
+      "published_at": "2026-04-17T17:19:31Z",
+      "duration_seconds": 1413,
+      "view_count": 549,
+      "like_count": 55,
+      "comment_count": 5,
+      "engagement_rate": 0.1092896174863388,
+      "thumbnail_url": "https://i.ytimg.com/vi/ZS2Wh2LI5Z4/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=ZS2Wh2LI5Z4",
+      "format": "워크플로우 튜토리얼",
+      "hook_type": "문제 해결",
+      "title_pattern": "핵심 포인트 직설형",
+      "one_line_summary": "이 영상은 워크플로우 튜토리얼 이슈를 워크플로우 튜토리얼 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "why_it_works": "문제 해결 훅으로 관심을 끌고, 워크플로우 튜토리얼 형식으로 내용을 빠르게 정리해 시청자가 '바로 써먹을 수 있다'고 느끼게 만듭니다.",
+      "recommendation": "훅 구조: 도입 15초 안에 '문제 해결' 관점으로 문제를 못 박고, 왜 지금 봐야 하는지 먼저 선언합니다. • 복제할 포장 요소: 워크플로우 튜토리얼 형식을 유지하되 워크플로우 튜토리얼를 실제 사용 장면 1개와 결과 변화 2개로 더 좁혀 설명합니다. • 비어 있는 콘텐츠 영역: '워크플로우 튜토리얼가 내 작업 흐름에서 어디에 꽂히는가'를 사례 중심으로 보여주는 후속 영상이 비어 있습니다. • 추천 제목: 워크플로우 튜토리얼 이슈를 내 채널 관점으로 다시 정리해보자 • 썸네일 카피 힌트: 워크플로우 튜토리얼 지금 봐야 할 3가지",
+      "transcript_status": "available",
+      "transcript_source": "apify",
+      "transcript_language": "ko",
+      "transcript_text": "영상 편집앱 다 유료잖아요. 컷은 한 달에 2만 원, 프리미어 프로는 한 달에 3만 원. 근데 구글이 갑자기 무료 영상 편집툴을 출시했어요. 그래서 사용을 해 봤는데 이거 꽤나 쓸 만합니다.이 편집툴 안에서 AI 나레이션도 만들 수 있고요. 나노바나를 통해 시각화 자료도 만들 수 있고요. 심지어 BO 3.1을 활용해서 영상까지 제작할 수 있어요. 지금 말씀드린 기능은 모두 무료이고요. 혹시 구글 유료를 사용하고 계신다면이 아바타 기능을 통해 립싱크까지 넣을 수 있습니다. &gt;&gt; 그리고 이게 가장 좋았는데 앱 내에서 녹화를 할 수가 있어요. 그리고 여기 대본까지 나오고요.이 녹화 버튼을 누르고 대본을 읽으면서 녹화를 진행할 [음악] 수 있습니다. 그리고 깜짝 놀라지 마세요. 여기 보시면 유튜브로 내보내기 버튼이 있어서 완성된 영상을 막 다운로드 받고 업로드 하는게 아니라 그냥이 버튼 하나 딸깍 눌러서 이렇게 유튜브에 업로드까지 할 수 있습니다. 이런 기능들을 다 보니까 어 이거 정보성 영상 만들기 굉장히 좋겠다라고 판단을 했고 그래서 오늘은 유튜브 영상을 만드는 방법 풀 강의로 준비했습니다. 지금 보시는 이런 영상을 같이 만들어 볼 거고요.이 과정에서 구글의 무료 서비스만 활용할 거고 효과적인 대본 기획법부터 영상 편집까지 전체 과정을 빠짐없이 보여 드릴게요. 혹시 여러분이 유튜브 지망생이거나 내 생각이나 내 정보를 많은 사람한테 나누고 싶다라는 생각을 하신다면 이번 영상 무조건 시청하셨으면 좋겠고요. 바로 시작하겠습니다. 먼저 전체 프로세스를 [음악] 간단히 짚고 갈 건데요. 첫 번째론 구글 재미나이를 통해 대본을 작성할 거고요. 두 번째는 구글의 영상 편집 서비스 비즈에서 녹음을 할 거고요. 세 번째는 대본을 바탕으로 노트북 LM을 활용해서 PPT를 만들 거고요.네 번째는 구글 비즈로 돌아와서 영상을 살짝 조립할 겁니다. 그리고 다섯 번째는 내보내기해서 영상을 마무리할 거예요. 첫 번째는 재미나이를 통해 대본을 쓸 건데요. 저는 원래 대본은 직접 쓰지만 오늘은 빨리 진행할 거라서 AI를 통해서 대본을 만들 거고요. 원래는 주제를 먼저 정하고 제목과 썸네일을 간단히 잡은 다음에 대본을 만들지만 오늘은이 과정을 생략하겠습니다. 왜냐면 미리 정해 놨고요. 오늘 만들어 볼 주제는 유튜브 채널 지인한테 공유하면 안 되는 이유. 이거 다들 궁금해하실 거예요. 왜냐면 톡방에도 이런 질문들이 자주 올라옵니다. 그리고 푸름푸트에 이렇게 입력할 건데요. 이게 쉽게 설명드리면 야, 내가 너한테 유튜브 대본에 대해서 얘기할 건데 내용은 절대 바꾸지 마. 그리고 길이는 4분 내외로 말하듯이 써 줘. 그리고 설득할 수 있는 구조로 가공해 줘. 정도의 명령어입니다. 이거 궁금하시면 댓글에 남겨 놓겠습니다.이 프롬프트가 좋은 이유는요. 내가 하고 싶은 이야기에서 출발하기 때문에 여러분이 촬영할 때 이야기가 훨씬 자연스럽게 나올 거예요. 그리고 AI가이 설득력을 더해 줬잖아요. 그래서 전달되는 힘도 강해집니다. 그러면 시청자는 그 영상에 몰입할 수밖에 없고 영상을 끝까지 시청하게 되겠죠. 만약 반대로 여러분이 AI한테 대본을 요청하고 AI가 만들어 준 대본을 그대로 읽어요. 그러면 이거 사실 내 이야기가 아니고 내 생각이 아니잖아요. 그러면 납득이 일단 안 됩니다. 납득이 안 된 채로 촬영에 들어가면 솔직히 흡입력이 없겠죠. 우리가 뭐 전문 연기자도 아니고 그러니까 성과도 안 날 거고 성장도 일어나지 않고 여러분이 그냥 유튜브를 포기하게 되는 지름길일 수밖에 없습니다. 당연한게 AI한테 다 의존하면 내가 남는게 없죠. 그래서 지금 알려 드리는 방법을 대본 쓸 때 꼭꼭 적용해 보세요. 제가 추천하는 거는 모든 맥락을 전달하는 겁니다. 제가 어떤 내용들을 전달하는지 한번 해 볼게요.이 대화창에 타이핑을 치지 마시고요.이 윈도우 H 버튼을 누르면 이렇게 녹음 버튼이 활성화됩니다. 요거 클릭하고 그냥 타이핑하지 말고 입력해 주시면 돼요. 유튜브 영상 공유가 위험한 이유에 대해서 누서 없이 이야기하는 파트입니다. 해당 내용을 알고 계신다면 스킵하시는 걸 추천드립니다. 오늘은 내가 유튜브 채널 공개 웬만하면 하지 마라라는 주제로 이야기를 할 거야. 이제 막 유튜브를 시작했거나 유튜브 운영 준비 중인 초보자들이 꼭 들었으면 좋겠어. 그러니까 알고리즘은 사실이 공유하는 걸 좋아해. 공유가 일어나면 외부에서 유입이 되잖아. 즉 인스타그램을 하던 사람들이 유튜브로 유입이 된다고. 그러니까 당연히 유튜브 입장에서는 어 너무 땡큐지이 영상을 만들어 준 사람 우리 플랫폼에 유입을 시켰네 하고 그 콘텐츠가 더 빛을 이제 내게 되는 건데 만약에 내가 그냥 내 친구한테 영상을 소개하거나 혹은 뭐 학원 선생님 지인 가족에게 소개를 했을 때 그분들이 영상을 끝까지 안 볼 가능성이 굉장히 높아. 그러면 어떻게 돼? 그냥 나가게 되지. 알고리즘 입장에서는 어 이거 유입이 일어났다가 다시 나가네. 재미없는 콘텐츠인가 보다. 혹은 조회수를 뭐 약간 조작하나 이렇게 판단할 수도 있단 말이지. 그러면 당연히 아이 컨텐츠 별로야 하고 알고리즘이 노출을 시켜 주지 않아. 그리고 한 가지 더 그 사람들이 들어와서 끝까지 봐도 문제야. 왜냐면 20대도 끝까지 보고 40대 남성도 끝까지 보고 사회 초년생인데 경제에 관심 많은 그런 시청자도 끝까지 보고 할아버지도 끝까지 보고 하면은 알고리즘이 갈피를 못 잡아. 어이 영상을 누가 좋아하는 거지? 난 누구한테 뿌려야 될까? 이런 갈피를 못 잡게 되고 결국 불특정 다수한테 막 뿌리지만 어떻게 돼? 그러면 불특정 다수가 또 보지 않지 그들의 선택을 받지 못하기 때문에 알고리즘 입장에서는 어 뭐야 얘 노출시켜 줬는데 기회를 줬는데도 기회를 못 잡네 오케이 너 탈라 이렇게 되는 거야 그래서 내 진짜 타겟을 찾게 하기 위해서는 공유라는 행위는 멈춰 주는게 좋아 특히 유튜브 운영 초기에는 말이지 그리고 세 번째는 그 심리적 제약이 생겨 왜냐면 직장 동료나 친구들이 보고 있다고 생각하면 내 생각이나 내 사상 어떤 내 관점에 대해서 드러내기가 부담스러워져 눈치를 보게 된다는 거야. 그래서 나만의 매력이 사라질 수가 있어. 영상을 촬영하는 내네 대본을 구성하는 내네 아 진우기가 이거 싫어할 것 같은데 막 누가 나 욕할 거 같은데 직장에서 뒷담할 것 같은데 이런 생각이 들 수밖에 없고 그런 것들을 다 제외하게 되면 결국 영상이 평범해질 수밖에 없는 거야. 그리고네 번째는 공유도 꽤 좋은 전략이 필요해. 네가 만약에 사회 초년생을 위한 레시피 영상을 만드는 채널이야. 근데이 영상을 60대가 모여져 있는 단톡방에 뿌렸어. 혹은 음악을 하는 친구들이 있는 단톡방에 뿌렸어. 과연이 영상이 소비가 될 확률이 몇 %나 될까? 보통 다 보고 누르고 그냥 나오게 될 거야. 그래서 유튜브 운영 초반에 내가 직접 판단해서 공유하는 행위는 웬만하면 안 하는게 좋아. 유입된 시청자가 끝까지 영상을 보고 어 이거 내 친구한테 공유해 줘야지. 나랑 같이 공부하는 사람들한테 공유해 줘야지 해서 일어나는 공유가 훨씬 유의미하다는 걸 알아줬으면 좋겠어. 그리고 다섯 번째는이 유입을 늘리기 위해 SNS에 공유하는 행위인데 이것도 진짜 안 좋아. 왜냐면 막 처음에 조회수가 안 나오고 썸네일도 막 잘 못 만들겠고 하니까 SNS 그냥 올려. 그럼 사람들은 어떻게 판단을 하냐면 유튜브 막 해보지도 않은 사람들이 와서 뭐 이게 저렇네, 저게 저렇네 막 이렇게 피드백을 해 줘. 사실 피드백보다는 평가에 가까워. 그런 평가를 들으면 또 무너질 수도 있고 외부 요인에 뭔가 상처를 받는 사람이라면 공유는 웬만하면 안 하는게 좋아. 그리고 유튜브를 해 본 사람한테 피드백을 받는 건 좋은데 그냥 보기만 한 사람, 만들어 본 적이 없는 사람, 성과를 내보지 못한 사람에게 피드백을 받는 건 조금 조심스러울 필요가 있어. 왜냐면 그 사람들이 너의 방향성을 흔들게 되면은 내가 잘 나아가다가도 막 이런저런 말을 흔들려서 그만두는 경우를 난 꽤 많이 봤거든. 그래서 알고리즘에도 좋고 외부 시선에서 자유로우려면 결국 영상 링크는 공유하지 않는게 좋다라고 판단을 했고 나는 이거를 시청자에게 제대로 전달하고 싶어. 내용 빠짐없이. 하지만 설득력을 더해서 한 3분짜리 대본을 만들어 줬으면 좋겠어. 자 이렇게 요청을 하게 되면은 한 불과 1분 만에 대본이 완성될 거예요. 진짜 말도 안 되죠. 막 두서 없이 말해도 되고 말을 두 세 번 해도 되는데 그렇게 전달만 잘하게 되면 얘가 1분 만에 좋은 대본을 만들어 줍니다. 이렇듯 대보는 결국 공간과 설득의 영역이에요. 저는 오늘 유튜브에 대해서 얘기했지만 여러분은 직장 생활에 대해서 얘기할 수도 있고 행복에 대해서 수면에 대해서 얘기할 수도 있습니다. 여러분의 그 경험 관점 개인적인 것들이 혈등력을 더 높여 주지 막 우리가 어떤 전문가다 무슨무슨 대학 교수다 이런게 유튜브 세계에서는 설득력을 높여 주지 않아요. 저는 100% 확신하는게 진짜 상위권에 있는 대학 교수님들 제외하고 정말 수많은 전문가들이이 막 조회수 30, 40, 100도 안 나오는이 시장에 머물러 있습니다. 왜냐면 너무 권의적이기도 하고 너무 전문성이 뛰어나서 그래요. 오히려 유튜브를 처음 시작하고 아무것도 없는 사람들의 입장이 대중에게는 더 공감이 되고 더 용기를 줄 수가 있는 겁니다. 근데 사실 내 생각을 표현하는 건 처음엔 어렵잖아요. 그러니까 그때는 AI의 도움을 좀 받았으면 좋겠다라고 말씀을 드리고 싶고요. 자, 이렇게 대본이 나왔습니다.요 대본만 이렇게 복사해서 구글 비즈로 갈 겁니다. 비즈로 가기 위해서는 오른쪽 상단에 바둑판 모양 클릭. 그리고 여기 구글 비즈라고 보라색 아이콘이 있습니다. 이로 들어가시면 되고요. 뭐 설명이 나오는데 제가 다 설명해 드릴테니까 그냥 X 눌러 주시면 됩니다. 간단한 기능은 그냥 사용하면서 말씀드릴게요. 여기 보시면 음성 해설이라고 있습니다. 이게 나레이션 기능인데요. 이걸 클릭해서 대본을 모두 입력해 주시면 됩니다. 요렇게 한 문단만 입력했는데 저는 다시 재미나이로 가서 대본만 쏙 추출해 줘. 요렇게 입력하고이 대본만 쭉 복사해서 기지로 가서 넣어 주겠습니다. 지금 2,500자까지 나레이션을 만들 수 있고요. 여기 아래 변경 버튼을 눌러서 목소리를 선택할 수 있어요. 한번 들어 볼게요. &gt;&gt; 어떤 음성을 선택하는지에 따라 동영상에 대한 뷰어의 반응이 달라집니다. 어떤 음성을 선택하는지에 따라 &gt;&gt; 어떤 음성을 선택하는지에 따라 어떤 음성을 선택하는지에 따라 어떤 음성을 선택하는지에 따라 &gt;&gt; 저는이 설득력 있게라는 목소리가 좋았고 요거 클릭하고 선택하고 음성 해설 삽입 요거 누르면 나레이션이 바로 생성이 됩니다. 그리고 한 2분 정도만 지나면 무려 2분 30초짜리 음성이 제작이 됩니다. 한번 간단하게 들어 볼게요. &gt;&gt; 유튜브 시작했다고 단톡방에 링크부터 뿌리셨나요? 친구들한테 구독해 달라고 사정하고 계신가요? 결론부터 말씀드리면 그거 여러분 채널을 스스로 망치는 길입니다. 유튜브는 공유를 좋아합니다. &gt;&gt; 이렇게 음성이 생성이 됐습니다. 너무 쉽죠? 그리고 두 번째로 진짜 좋은 건 뭐냐면 여기 바로 녹음을 할 수가 있어요. 근데 이렇게 녹음해도 좋아요. 여기 삽입 버튼 클릭하고 동영상 자리 표시자 요거 클릭하고 직사각형 선택해서요 카메라요 화면을 렇게 좀 크게 만들어 주겠습니다.이 정도로 만들게요. 그리고 여기 있는 동영상 녹화 버튼을 클릭하면 이렇게 영상을 녹화할 수가 있어요. 그리고 보시면 여기 대본까지 나와 있죠. 텍스트 크기도 이렇게 줄일 수 있고요. 자동 스크롤 할지 수동 스크롤 할지 입력할 수도 있습니다. 저는 수동 스크롤 하고 쭉 한번 읽으면서 녹화를 조금만 해 볼게요. 카메라는 여기 컴퓨터랑 연결된 오즈모가 있고요. 네. 요렇게 세팅하고 한번 녹음을 해 보겠습니다. 유튜브 시작했다고 단톡방에 링크부터 뿌리셨나요? 친구들한테 구독해 달라고 사정하고 계신가요? 결론부터 말씀드리면 그거 여러분 채널을 스스로 망치는 길입니다. &gt;&gt; 유튜브는 공유를 좋아합니다. 하지만 그건 모르는 시청자가 자발적으로 할 때 얘기지. 여러분이 역지로 끌고 온 지인들의 클릭은 오히려 알고리즘을 망가뜨립니다. 오늘은 왜 여러분이 철저히 혼자 시작해야 하는지 그 잔인한 진실을 딱 정리해 드릴게요. 첫 번째 데이터 오염입니다. 유튜브 알고리즘은 내 영상을 누가 끝까지 보느냐를 보고 다음 타겟을 정해요. 그런데 요리 영상을 음악 단톡방에 뿌리면 어떻게 될까요? 음악에만 관심 있는 사람들은 클릭만 하고 바로 나갑니다. 그럼 알고리즘이 생각해죠. 유입은 되는데 금방 나가네. 이거 재미없는 영상이구나. 파겟 데이터가 꼬이는 순간 여러분의 영상은 추천창에서 영영 정격 정리됩니다. 이런 식으로 녹음을 할 수가 있고요. 녹음을 끊었다 실행했다가도이 버튼을 클릭해서 반복할 수 있습니다. 그리고 저는 삽입 버튼을 눌러 볼게요. 그러면 이렇게 삽입이 되죠. 이렇게 영상 편집 프로그램 안에서 녹화까지 할 수 있다는게 정말 좋은 기능이었고요. 추가로이 영상을 클릭하고 스크립트로 수정 버튼을 누르면 스크립트도 나옵니다.이 자막 버튼을 클릭하면 자막을 자동으로 쳐 줘요. 한번 재생해 볼게요. 단톡방에 링크부터 뿌리셨나요? 친구들한테 구독해 달라고 사정하고 계신가요? 결론부터 말씀드리면 그거 여러분 채널을 스스로 망치는 길입니다. 대박이지 않나요? 저 이거 진짜 좋은 기능이라고 생각을 합니다. 근데 만약 나는 얼굴 등장 싫다. 목소리도 등장시키기 싫다라고 하신다면 최후의 수단으로 여기 아바타라는 기능이 있습니다. 여기 아래 변경 버튼을 누르면 맞춤 아바타를 만들 수도 있어요. 예를 들면 남성, 청소년, 뭐 동아시아인 하고 20대 남성 픽사 스타일, 형광생 안경을 쓴 우습스러운 수염을 기르고 있는 저처럼이 스트라이프 카라 티셔츠를 입은 배경은 무드 있는 집 공간의 촬영장 이런 식으로 프롬프트를 입력하고 옵션 만들기 누르면 이렇게 캐릭터가 완성됩니다. 저는이 옵션 2번을 선택하고요. 여기서 또 세부적으로 수정도 할 수 있고요. 다음으로 가면 목소리를 선택할 수 있습니다. 한번 들어 볼게요. 저는 아까처럼이 설득력 있는 매력적인 저음 선택하겠습니다. &gt;&gt; 어떤 음성을 선택하는지에 따라 동영상에 대한 뷰어의 반응이 달라집니다. 네. 요렇게 선택하고 이름은 동테크라고 해서 저장을 하고요.이 동테크 캐릭터를 선택하고 외본을 그냥 입력해 주시면 됩니다. 짧게만 한번 입력해서 보여 드릴게요. 생성 버튼 누르면 영상이 생성이 되고요.이 아바타 생성은 시간이 조금 걸려요. 그리고 한 번에 동시 생성이 안 돼서 하나 만들어지는 거 기다렸다가 또 다음 거 만들어야 합니다. 그래서 제가 좀 미리 만들어 놨고요. 미리 만들어진 결과물을 한번 보여 드릴게요. &gt;&gt; 주변 지인들한테 링크 뿌리고 구독해 달라 부탁부탁합니다. 결론부터 말씀드리면 그거 여러분 채널을 스스로 망치는 길입니다. 오늘은 왜 초보 유튜버일수록 채널을 철저히 숨겨야 하는지. &gt;&gt; 지금 보시면 이런 표정, 막 짝눈, 이런 입 모양 같은게 너무 디테일하고 좋습니다. 제가 사용해 본 어떤 립싱크 툴들보다도 굉장히 좋은 거 같아요. 근데 아쉽게도 이건 유료예요.이 구글 프로 29,000원짜리 계정 있죠?이 이 구글 프로를 구독해야지만 사용할 수 있습니다. 제가 방금 요청했던 것도 생성이 됐네요. 한번 간단하게 들어 볼게요. &gt;&gt; 유튜브 시작했다고 단톡방에 링크부터 뿌리셨나요? 친구들한테 구독해 달라고 사정하고 계신가요? 그거 여러분 채널을 스스로 망치는 길입니다. &gt;&gt; 이렇게 세 가지 옵션을 만들었고요. 하나는 그냥 나레이션, 하나는 제가 직접 녹음, 하나는 캐릭터 이렇게 만들었죠. 근데 여러분, 당연하게도이 목소리만 나오는 것보다는 제가 직접 나오거나 이렇게 캐릭터가 나오는게 훨씬 영상이 다체로워요. 설득력도 있고요. 근데이 아바타 기능은 일단 유료니까 오늘은 제 모습으로 한번 진행을 해 보겠습니다. 그리고 지금 나름 설명을 잘한 거 같은데 여기에 하나만 더 추가해 주면 좋거든요. 바로 보면서들을 수 있는 그런 시각 자료가 교육 영상에는 저는 필요하다고 생각을 합니다. 그래서이 시각 자료 ppt 슬라이드 자료는이 노트북에서 만들 거예요. 이게 뭔지 간단히 말씀드리면 AI 보통 거짓말 하잖아요. 근데 얘는 거짓말 거의 안 합니다. 왜냐면 우리가 넣어 준 정보 그 안에서만 작동을 해요. 그래서이 노트북 LM 이렇게 접속을 할 거고요. 접속할 때도 마찬가지로이 구글 앱 선택하고 아래로 내리면 노트북 LM 있습니다. 여기 클릭해 주시고요. 새 노트 만들기로 들어가 주시고요. 저희가 만든 대본 있잖아요.이 대본을 쭉 복사해서 여기 복사된 텍스트 클릭하고 넣어 주세요. 그러면 여기 왼쪽에 이렇게 학습이 됐죠? 클릭해 보면 저희가 만든 대본이 여기 쭉 들어갔습니다. 이제이 노트북 LM은 모든 답변을 할 때이 대본 안에서의 정보를 기반으로 답변을 할 거예요. 그리고 여기 오른쪽에 정말 많은 옵션이 있는데 뭐 이것들을 누르면 여러 결과물이 만들어져요. 정말 재밌는데 결과물을 만들 때도이 자료를 참고해서 결과물을 만듭니다. 그래서이 오른쪽 패널에 있는 슬라이드 자료 만들기 클릭하면 한 10분 내외로 슬라이드 자료를 하나 만들어 주고요. 좀 더 세부적인 옵션으로 들어가자면 여기이 화살표 버튼을 누르면 우리가 세부 프롬프트를 입력할 수가 있습니다. 뭐이 자세한 자료로 할 건지 발표자 슬라이드로 할 건지 한국어로 할 건지 중국어로 할 건지 영어로 할 건지 PPT 길이는 어떻게 할 건지 이런 걸 설정할 수가 있고요.이 안에 프롬프트를 입력할 수가 있어요. 제가 만들어 놓은이 프롬프트를 입력해 줄 거고요. 간단하게 또 설명드리면 그냥요 대본에 있는 내용만 사용해서 슬라이드로 만들어라. 대본에 없는 내용 추가하지 마라. 뭐 요런 내용이고요. 제가 하나 또 추천드리고 싶은 건이 노트북 LM이 구현할 수 있는 스타일이 정말 다양해요. 아, 그냥 세상의 전부를 구현할 수 있습니다. 근데 이걸 만들려면 막 프롬프트를 또 만들어야 되잖아요. 근데 만들 필요 없어요. 이미 만들어진 프롬프트 잘 사용하시면 됩니다. 제가 알려 드리는이 플랫폼에 보시면 정말 다양한 디자인들이 있죠. 쭉 보면서 원하는 디자인 하나 선택해 주시면 돼요. 그래서 저도 디자인 쇼핑을 좀 해 볼게요. 저는 이런 픽셀 느낌 좀 선호하거든요. 게임을 좋아해서 그런지 모르겠지만 요거 아래 프롬프트 복사 누르고요. 노트북으로 돌아가서 아래에 지침 참고해서 작업해 하고 스타일 프롬프트 추가해서 생성 눌러 주게 되면 또 PPT를 이렇게 제작을 해 줄 겁니다. 이건 시간이 좀 걸려서 제가 미리 만들어 놨고요. 한번 이렇게 클릭해서 보면이 결과물이 굉장히 좋죠. 뷰 펼치기를 통해서 좀 크게 볼게요. 크게 보면은 초보 유튜버가 채널을 절대 비밀로 해야 하는 이유. 와, 이거 지금 나온 거예요, 여러분. 저희 대본으로 이렇게 PPT가 만들어진 겁니다. 그 지인들의 구독은 성장의 지름길이 아닙니다. 누가네 영상을 좋아하는 거야? 알고리즘 헷갈린다. 이거 그냥 시각화만 봐도 저희가 만든 대본이 딱 대입이 되죠. 자, 이거를 다운받지 마세요. 다운로드 받으면 PDF나이 파워포인트 파일로 저장이 되는데요. 이것들이 구글 비즈에서 업로드가 안 됩니다. 그래서 진짜 꿀팁 하나 알려 드릴 건데 그냥 이렇게 복사하시면 돼요. 원하는 이미지 클릭, 마우스 우클릭, 이미지 [음악] 복사 하면은 이미지가 복사됩니다. 그리고 구글 비즈로 가서요. 컨트롤 V를 눌러 주시면 이렇게 자료가 들어옵니다. 여기까지 이해되시나요? 정말 쉽죠? 근데 지금 제가 배치적으로 조금 봤을 때 제 얼굴에 집중하는게 아니라이 자료에 집중했으면 좋겠는데 제 얼굴이 너무 크니까 얼굴을 조금 줄여 주겠습니다. 이렇게 줄여 주고이 PPT 배치는이 정도로 해 주겠습니다. 나쁘지 않죠? 그리고 재생을 하면서이 PPT 장표를 더 추가해 주는 거예요. 쭉 보겠습니다. 유튜브 시작했다고 단톡방에 링크부터 뿌리셨나요? 친구들한테 구독해 달라고 사정하고 계신가요? 결론부터 말씀드리면 그거 여러분 채널을 스스로 망치는 길입니다. 여기서 한번 끊어 줄 건데 끊을 때는 여기 아래 타임라인에서 우측 마우스를 클릭하고요. 플레이 헤드에서 장면 분할 요걸 클릭해 주시면 됩니다. 그리고 노트북 LM으로 다시 가서이 장표를 복사해서 가져올게요. 그리고 여기 위에다가 이렇게 얹어 주시면 됩니다. 유튜브는 공유를 좋아합니다. 하지만 그건 모르는 시청자가 자발적으로 할 때 얘기지. 여러분이 억지로 끌고 온 지인들의 클릭은 오히려 알고리즘을 망가뜨립니다. 이렇게 PPT를 한 장한 장 배치하면서 영상을 완성하시면 되고요. 만약에이 영상을 쭉 보는데이 PPT 장표만으로는 조금 아쉬워. 그럴 때는이 비오를 클릭해서 영상 소스를 제작하셔도 됩니다. 저는 쭉 보다가 첫 번째 데이터 오염입니다. 예를 들어서 지금 여기 데이터 오염이라고 하고 있잖아요. 그러면 유튜브 알고리즘 로봇의 데이터가 독물의 오염이 되는 모습. 이런 식으로 해서 생성을 눌러서 영상 소스를 추가할 수가 있는 거죠. 유튜브 영상 보실 때 이런 어떤 직관적인 설명이 필요할 때가 있거든요. 특히 저 같이 초보자를 대상으로 교육을 하는 경우이 영상만 보고도 이해할 수 있는 소스들이 꼭 필요합니다. 그래서 저도 AI 영상 서비스들을 굉장히 많이 사용을 하는데요.이 영상 편집툴 안에서 꽤 고성능의 영상 모델까지 무료로 사용할 수 있다 보니까 저는이 부분 진짜 유용하다고 좀 생각이 들었어요. 완성되면 넣는 것까지 한번 제가 보여 드릴게요. 이렇게 완성이 됐고이 삽입을 누르고 현재 장면에 삽입을 클릭하면 현재 장면에 이렇게 영상이 들어갑니다. 그리고이 영상에 소리가 있어서 여기 소리 버튼을 누르고 소리를 꺼 줄게요. 그리고 재생을 눌러 보게 되면 첫째 데이터 오염입니다. 유튜버 알고리즘은 내 영상을 누가 끝까지 보느냐를 보고 다음 타겟을 정해요. 이렇게 좀 설명에 도움이 되는 영상 소스도 배치를 할 수가 있는 거죠. 그리고 지금 배경이 너무 허해서 좀 이상해요. 여기 보시면 이미지 생성도 있습니다. 검정 배경에 유튜브 로고가 아주 자잘자잘하게 배치가 된 배경 화면 약간의 블러 처리 추가 이렇게 해서 비율까지 선택하고 생성을 눌러 주게 되면 이미지가 이렇게 생성이 됩니다. 이걸 클릭하고 삽입을 눌러 주게 되면 이미지가 또 삽입이 되는데요. 지금 이미지가 최상단의 위치에 있어서 나머지 요소들을 다 가리고 있잖아요. 그래서 우측 마우스 클릭하고 순서에서 맨 뒤로 보내기를 클릭해 주시면 됩니다. 이렇게 맨 뒤로 이미지가 보내졌고요.이 이미지 크기를 요렇게 이미지 꽉 차게이 영상에 꽉 차게 이렇게 쭉 늘려 주게 되면은 이런 영상이 하나 완성이 되는 거죠.이 이미지는 제가 복사를 해서 각 장면에 또 넣어 주겠습니다. 그리고 지금이 오른쪽 상단에 재생 버튼을 클릭해서 영상을 확인해. &gt;&gt; 유튜브 시작했다고 단톡방에 링크부터 뿌리셨나요? 친구들한테 구독해 달라고 사정하고 계신가요? 결론부터 말씀드리면 그거 여러분 채널을 스스로 망치는 길입니다. 유튜브는 공유를 좋아합니다. 하지만 그건 모르는 시청자가 자발적으로 할 때 얘기지 여러분이 억지로 끌고 온 지인들의 클릭은 오히려 알고리즘을 망가뜨립니다. 오늘은 왜 여러분이 철저히 혼자 시작해야 하는지 그 잔인한 진실을 딱 정리해 드릴게요. 첫 번째 데이터 오염입니다. 유튜브 알고리즘은 내 영상을 누가 끝까지 보느냐를 보고 다음 타겟을 정해요. 그런데 요리 영상을 음악 단톡방에 뿌리면 어떻게 될까요? 음악에만 관심 있는 사람들은 클릭만 하고 바로 나갑니다. 이렇게 영상 하나를 완성할 수 있는 거고요. 여러분 여기 파일에 유튜브로 내보내기 버튼을 누르면 진짜 유튜브에 바로 업로드가 됩니다. 한번 보여 드릴게요. 이렇게 업로드가 된 걸 볼 수 있고요. 제목에는 유튜브 영상 링크 공유하면 채널 사망합니다. 이렇게 올릴 수 있는 거고요. 저장을 누르고 여기 보시면 동영상 링크 있죠? 요걸 클릭해 보시면 이렇게 영상이 실제로 완성이 됐습니다. 혹은 나 이거 영상 유튜브에 올리기 싫다. 그냥 다운받고 싶다라고 한다면 여기 좌측 상단에 파일 다운로드 MP4 동영상을 클릭해서 다운로드를 받아 주시면 됩니다. 자, 이렇게 정보성 콘텐츠 만드는 방법을 아주 간단하게 한번 알려 드렸고요. 아마 오늘 영상만으로 해소가 안 된 것들이 있을 거예요. 모르는 거 있으면 제 단톡방에 들어오셔서 질문하세요. 마지막으로 진짜 꿀팁 하나 드리자면 유튜브에서 자신의 이야기를 매력적으로 잘 전달하는 사람들 있잖아요. 약간 이런 분들. 저도 조승현 님이나이 장동선 박사님의 영상도 자주 보는데 이분들 특징이 일대일로 말하듯이 영상을 찍더라고요. 대신 그 사람의 상태나 수준, 그 사람이 지금 하고 있는 고민 이런 것들을 고려해서 이야기를 해 주시고 그게 결국 흡입력 있는 대본으로 이어지고 좋은 유튜브 영상이 되는 거더라고요. 한번 우리가 생각해 보면 조승현 님께서 주식을 잘 몰라서 엄청 쉽게 막 비유까지 해 가면서 우리한테 설명하는 건 아니잖아요. 진짜 전문가처럼 잘 알고 계신데도 불구하고 우리가 이해할 수 있게 쉽게 설명을 해 주시는 거잖아요. 그래서 여러분이 타겟을 명확하게 생각하고 그분이 공감할 수 있게 계속 대본을 한번 써 보세요. 예를 들면 이런 건데 엊그제 서브웨이 키오스크 앞에서 만난 할머니를 위해서 키오스크 교육을 하는 대본을 한번 만들어 보세요. 그 할머니가 뭘 클릭할 때 어떻게 헤맸는지 결국 직원한테 가서 도움을 청할 때 그 할머니께서 약간 쭈쭈되면서 민망해 하셨다. 뭐 이런 어떤 상황들이 있었을 거잖아요. 그거를 그냥 대본에 다 녹이는 겁니다. 여러분이 영상 보시면 다음엔 키오스크 앞에서 당당하게 주문하실 수 있을 거예요. 이제 더 이상 서브웨이 이마트 가도 민망해하지 않으셔도 됩니다. 저만 믿고 영상 끝까지 봐 주세요.이 영상을 보고 할머니께서 공부가 됐어. 도움을 받았어. 댓글을 남길까요? 안 남길까요? 댓글도 남기고 주변에 할머님들에게 공유도 하겠죠. 그러면 그냥 알고리즘이 어 이거 6 70대 할머니의 반응이 뜨겁네. 더 노출시켜 줘야겠다. 이러면서 채널을 위해서 그냥 열심히 일을 할 겁니다. 결국 오늘 제가 이렇게 보여 드린 도구들은 내 생각, 내 정보, 내 어떤 인사이트를 더 잘 표현하기 위한 도구에 불과하고 진짜 본질이나 그런 것들은 여러분이 갖고 있는 거에서 시작하시면 돼요. 막 AI로 멋있게 가공하고 다듬고 막 내게 아닌데 내 거인 척하고 하지 마세요. 그런 것들에 공감하는 시대가 조금 지나가고 있습니다. 여러분의 이야기를 유튜브에서 제대로 한번 풀어 주셨으면 좋겠고요. 다음에 좀 더 좋은 도구, 좀 더 좋은 툴, 좋은 인사이트로 다시 찾아뵙도록 하겠습니다. 동테크였습니다.",
+      "analysis_date": "2026-04-17T23:50:53+00:00",
+      "channel_name": "동테크",
+      "topic_tags": [],
+      "keywords": [
+        "완전",
+        "무료",
+        "구글",
+        "AI로"
+      ],
+      "tools": [],
+      "flow": [
+        "처음 15초 안에 문제를 선명하게 정의하고 왜 지금 봐야 하는지 못 박는다.",
+        "중간 구간에서 툴, 사례, 비교 포인트를 빠르게 제시해 정보 밀도를 높인다.",
+        "마지막에는 시청자가 바로 따라할 수 있는 다음 액션과 적용 예시로 닫는다."
+      ],
+      "claims": [
+        "단순 소개보다 실제 사용 장면을 바로 보여주는 구조가 반응을 만든다.",
+        "큰 담론보다 작은 병목 하나를 해결해주는 포장 방식이 클릭으로 이어지기 쉽다."
+      ],
+      "transcript_highlights": [
+        "여기 보시면 유튜브로 내보내기 버튼이 있어서 완성된 영상을 막 다운로드 받고 업로드 하는게 아니라 그냥이 버튼 하나 딸깍 눌러서 이렇게 유튜브에 업로드까지 할 수 있습니다. 이런 기능들을 다 보니까 어 이거 정보성 영상 만들기 굉장히 좋겠다라고 판단을 했고 그래서 오늘은 유튜브 영상을 만드는 방법 풀 강의로 준비했습니다. 지금 보시는 이런 영상을 같이 만들어 볼 거고요.이 과정에서 구글의 무료 서비스만 활용할 거고 효과적인 대본 기획법부터 영상 편집까지 전체 과정을 빠짐없이 보여 드릴게요.",
+        "접속할 때도 마찬가지로이 구글 앱 선택하고 아래로 내리면 노트북 LM 있습니다. 저희가 만든 대본 있잖아요.이 대본을 쭉 복사해서 여기 복사된 텍스트 클릭하고 넣어 주세요. 그러면 여기 왼쪽에 이렇게 학습이 됐죠?",
+        "지금 보시는 이런 영상을 같이 만들어 볼 거고요.이 과정에서 구글의 무료 서비스만 활용할 거고 효과적인 대본 기획법부터 영상 편집까지 전체 과정을 빠짐없이 보여 드릴게요. 혹시 여러분이 유튜브 지망생이거나 내 생각이나 내 정보를 많은 사람한테 나누고 싶다라는 생각을 하신다면 이번 영상 무조건 시청하셨으면 좋겠고요. 먼저 전체 프로세스를 [음악] 간단히 짚고 갈 건데요."
+      ],
+      "top_comments": [
+        {
+          "video_id": "ZS2Wh2LI5Z4",
+          "comment_id": "Ugxy5TgAf4MYaKrgqXh4AaABAg",
+          "author": "@momo_0216",
+          "text": "잘보겠습니다아~!",
+          "like_count": 0,
+          "reply_count": 0,
+          "published_at": "2026-04-17T23:22:14Z"
+        },
+        {
+          "video_id": "ZS2Wh2LI5Z4",
+          "comment_id": "Ugx3pQb4s2b7Ux3K5Sh4AaABAg",
+          "author": "@okham62",
+          "text": "좋은정보 감사합니다\n늘 잘보고있습니다~❤",
+          "like_count": 0,
+          "reply_count": 0,
+          "published_at": "2026-04-17T20:00:34Z"
+        },
+        {
+          "video_id": "ZS2Wh2LI5Z4",
+          "comment_id": "UgyOFfc4dDpPLq7Us9F4AaABAg",
+          "author": "@동테크",
+          "text": "AI의 도움을 멀리하는 크리에이터가 되지 마세요.\n\n제 주변 사례로 보면\n진정성이 없어 보인다의 이유로 AI를 배척하더라고요.\n\n근데요.. 우리는 1인 크리에이터입니다.\n\n연예인 채널을 보세요,\n담당 PD, 촬영 감독, 오디오 감독까지 붙어서\n원래 유명한 연예인을\n더 유명하게 만들기 위해 힘을 합칩니다.\n\n그래서 저와 같은 1인 크리에이터의\n경쟁력을 높이기 위해선\nAI의 도움을 필히 받아야 합니다.\n\n여러분도 꼭 AI를 적극적으로 활용해서\n나만의 AI 활용법을 찾아보세요\n저는 이거 찾는데\n1년 넘게 걸렸네요\n\n이런 교육 영상 보시는 분들\n정말 리스팩하고 응원하겠습니다!",
+          "like_count": 0,
+          "reply_count": 0,
+          "published_at": "2026-04-17T19:33:47Z"
+        },
+        {
+          "video_id": "ZS2Wh2LI5Z4",
+          "comment_id": "UgziAFyCZsB5n72NkUN4AaABAg",
+          "author": "@동그라미1245",
+          "text": "좋은 영상 빠른업로드 갑사합니다",
+          "like_count": 0,
+          "reply_count": 0,
+          "published_at": "2026-04-17T18:52:32Z"
+        },
+        {
+          "video_id": "ZS2Wh2LI5Z4",
+          "comment_id": "Ugwqg-TmzJczmE9IEo94AaABAg",
+          "author": "@AdSense_building_owner",
+          "text": "선댓글~후 시청~ 와우~ 감사드립니다~👍👍👍👍👍👍👍",
+          "like_count": 0,
+          "reply_count": 0,
+          "published_at": "2026-04-17T17:39:55Z"
+        }
+      ]
+    },
+    {
+      "video_id": "gjkXxXNFMs8",
+      "channel_key": "ucwo4ia01txzbegjjkwhog9g",
+      "title": "The Bias That Makes You Think You're Right",
+      "description": "There’s a cognitive bias most of us never notice: we assume we’re the rational ones. It’s called naïve realism—the belief that we see facts as they are, while those who disagree with us are biased, misinformed, or simply wrong.\n\nThe result? When someone pushes back, we tend to question their judgment instead of our own interpretation. That’s why so many conversations stall or turn into confrontation.\n\nListen to the full IdeaCast episode here: https://s.hbr.org/3OM4OLO",
+      "published_at": "2026-04-17T14:56:32Z",
+      "duration_seconds": 91,
+      "view_count": 2129,
+      "like_count": 71,
+      "comment_count": 2,
+      "engagement_rate": 0.03428839830906529,
+      "thumbnail_url": "https://i.ytimg.com/vi/gjkXxXNFMs8/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=gjkXxXNFMs8",
+      "format": "뉴스 분석",
+      "hook_type": "문제 해결",
+      "title_pattern": "핵심 포인트 직설형",
+      "one_line_summary": "이 영상은 coding 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "why_it_works": "문제 해결 훅으로 관심을 끌고, 뉴스 분석 형식으로 내용을 빠르게 정리해 시청자가 '바로 써먹을 수 있다'고 느끼게 만듭니다.",
+      "recommendation": "훅 구조: 도입 15초 안에 '문제 해결' 관점으로 문제를 못 박고, 왜 지금 봐야 하는지 먼저 선언합니다. • 복제할 포장 요소: 뉴스 분석 형식을 유지하되 coding를 실제 사용 장면 1개와 결과 변화 2개로 더 좁혀 설명합니다. • 비어 있는 콘텐츠 영역: 'coding가 내 작업 흐름에서 어디에 꽂히는가'를 사례 중심으로 보여주는 후속 영상이 비어 있습니다. • 추천 제목: coding 이슈를 내 채널 관점으로 다시 정리해보자 • 썸네일 카피 힌트: coding 지금 봐야 할 3가지",
+      "transcript_status": "available",
+      "transcript_source": "apify",
+      "transcript_language": "en",
+      "transcript_text": "The idea behind naive realism is that people think that they get it. They like naively believe that their perceptions are a reflection of an objective reality, right? I see the world as it is. I am a smart, reasonable, good person who basically like I&#39;m with the program, right? And that makes sense because how else could you get through the world? The problem with naive realism is that when we encounter disagreement, we have to say, &quot;Well, if I&#39;m a smart reasonable person who basically gets it, why are we disagree?&quot; Mhm. And the obvious answer to that question is that the other person doesn&#39;t get it. Mhm. &gt;&gt; Right? And because they don&#39;t get it, I&#39;m going to fix them. Okay. &gt;&gt; Right? &gt;&gt; Right. And of course fixing then takes different forms. So sometimes you say, &quot;Well, let me tell you how it really is. Let me show you the report. Let me show you the data. Let me give you the customer feedback, and then you will see that I&#39;m right and you&#39;re wrong.&quot; Right. Uh and that often doesn&#39;t fly because of course the other person, they also think that they get it. Uh and they&#39;ve seen the data, and they&#39;ve interpreted the data in a different way. So once you tell that story to yourself inside your head, it&#39;s very hard to have a respectful conversation between adults. Yeah. And at the same time, we also don&#39;t see how they are perceiving us, which is with all those same judgments. &gt;&gt; Exactly. Exactly. Exactly. That&#39;s exactly right.",
+      "analysis_date": "2026-04-17T23:50:45+00:00",
+      "channel_name": "Harvard Business Review",
+      "topic_tags": [
+        "coding"
+      ],
+      "keywords": [
+        "coding",
+        "The",
+        "Bias",
+        "That",
+        "Makes"
+      ],
+      "tools": [],
+      "flow": [
+        "처음 15초 안에 문제를 선명하게 정의하고 왜 지금 봐야 하는지 못 박는다.",
+        "중간 구간에서 툴, 사례, 비교 포인트를 빠르게 제시해 정보 밀도를 높인다.",
+        "마지막에는 시청자가 바로 따라할 수 있는 다음 액션과 적용 예시로 닫는다."
+      ],
+      "claims": [
+        "단순 소개보다 실제 사용 장면을 바로 보여주는 구조가 반응을 만든다.",
+        "큰 담론보다 작은 병목 하나를 해결해주는 포장 방식이 클릭으로 이어지기 쉽다."
+      ],
+      "transcript_highlights": [
+        "And that makes sense because how else could you get through the world? The problem with naive realism is that when we encounter disagreement, we have to say, \"Well, if I'm a smart reasonable person who basically gets it, why are we disagree?\" Mhm.",
+        "The idea behind naive realism is that people think that they get it. They like naively believe that their perceptions are a reflection of an objective reality, right? I see the world as it is.",
+        "Let me give you the customer feedback, and then you will see that I'm right and you're wrong.\" Right. Uh and that often doesn't fly because of course the other person, they also think that they get it."
+      ],
+      "top_comments": [
+        {
+          "video_id": "gjkXxXNFMs8",
+          "comment_id": "UgyL-5pMfH6VGuvIwI14AaABAg",
+          "author": "@alexcallista",
+          "text": "Lol",
+          "like_count": 1,
+          "reply_count": 0,
+          "published_at": "2026-04-17T15:09:05Z"
+        },
+        {
+          "video_id": "gjkXxXNFMs8",
+          "comment_id": "UgwKSIgutm1gOf0Spv14AaABAg",
+          "author": "@BernaysPropaganda",
+          "text": "This is toxic",
+          "like_count": 0,
+          "reply_count": 0,
+          "published_at": "2026-04-17T15:52:02Z"
+        }
+      ]
+    },
+    {
+      "video_id": "Sw4JNjQDDgE",
+      "channel_key": "ucb11saf7wsn4grcqukoohrw",
+      "title": "갤럭시로 넘어갈까 고민하는 사람?? 아이폰 18프로 소식 싹 다 정리해봄",
+      "description": "00:00 오프닝\n00:56 일반과 프로 분리출시?\n02:12 새로운 디자인 변화\n05:13 디스플레이 변화\n07:05 가변 조리개 탑재\n09:06 첫 2나노 칩셋?\n10:05 배터리 사용시간 개선\n10:34 그래서 가격은?\n11:21 아이폰 18 프로 존버?\n\n\n💜 instagram: @zuyoni\n💜 Naver TV: https://tv.naver.com/zuyoni\n💜 E-mail: business@zuyoni.com\n\n📌주연의 두번째 채널 보러가기:  https://www.youtube.com/@zuyoni2\n\n💜엔딩곡: 주연(ZUYONI) - Baby Blue  https://lnk.to/zuyoni2022\n\n✏️클래스101 수강신청 & 무료 강의 보러가기: https://class101.page.link/c2Ty\n\n\n-비즈니스: business@zuyoni.com\n\n-해당 영상은 영리 목적으로 사용하실 수 없습니다.\n-비영리 목적으로 사용시에도 반드시 출처와 영상 링크 남겨주세요:)\n.\n.\n-Tag: #주연 #아이폰18 #iphone18pro",
+      "published_at": "2026-04-17T10:30:17Z",
+      "duration_seconds": 768,
+      "view_count": 63874,
+      "like_count": 968,
+      "comment_count": 226,
+      "engagement_rate": 0.018693051946018724,
+      "thumbnail_url": "https://i.ytimg.com/vi/Sw4JNjQDDgE/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=Sw4JNjQDDgE",
+      "format": "뉴스 분석",
+      "hook_type": "문제 해결",
+      "title_pattern": "핵심 포인트 직설형",
+      "one_line_summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "why_it_works": "문제 해결 훅으로 관심을 끌고, 뉴스 분석 형식으로 내용을 빠르게 정리해 시청자가 '바로 써먹을 수 있다'고 느끼게 만듭니다.",
+      "recommendation": "훅 구조: 도입 15초 안에 '문제 해결' 관점으로 문제를 못 박고, 왜 지금 봐야 하는지 먼저 선언합니다. • 복제할 포장 요소: 뉴스 분석 형식을 유지하되 뉴스 분석를 실제 사용 장면 1개와 결과 변화 2개로 더 좁혀 설명합니다. • 비어 있는 콘텐츠 영역: '뉴스 분석가 내 작업 흐름에서 어디에 꽂히는가'를 사례 중심으로 보여주는 후속 영상이 비어 있습니다. • 추천 제목: 뉴스 분석 이슈를 내 채널 관점으로 다시 정리해보자 • 썸네일 카피 힌트: 뉴스 분석 지금 봐야 할 3가지",
+      "transcript_status": "available",
+      "transcript_source": "apify",
+      "transcript_language": "ko",
+      "transcript_text": "자, 이번 9월 아이폰 폴드의 18%까지 이거 기대되는데요. 이씨. 아, 이것들 안 되겠네.이 120페차 한번 주더니 이거 어 &gt;&gt; 견디고 듣다 보면 늘어가는 테크 지식. 오케이. 안녕하세요. 주연입니다. 연초에 갤럭시 S16 시리즈 발보되고 나서 반응이 워낙 좋아 가지고 이제 아이폰 유저들도 갤럭시 S26으로 넘어갈까 하시는 분들이 꽤 많이 보였었는데 또 얼마 전에 삼성에서 아쉬운 대응을 하면서 많은 분들이 아 역시 그냥 사과단에 머물러 있어야겠다 이런 반응을 또 하시기도 하더라고요. 지금 업치락 뒤치락 하고 있는데 딱 지금 시점에 S26으로 갈아탈까 아니면 18% 존버할까 고민하시는 분들이 많을 것 같아서 오늘은 아이폰 18% 관련한 소식들을 한번 정리해 봤는데요. 제가 한번 자세하게 짚어보고 정말 존버할 만한 가치가 있을지 정해 드리겠습니다. 렛츠 고. 자, 우선 첫 번째로 이번 가을에는 애플이 처음으로 프로 라인업과 일반 라인업을 같은 시기에 출시하지 않을 것이라 소식이 들려오고 있습니다. 이게 무슨 말이냐면요. 올초부터 솔솔 나오던 소식이 있죠. 올해 바로 아이폰 홀드가 나올 거라는 소식. 그래서 이번 가을에는 예처럼 프로랑 일반 라인업이 같이 나오는게 아니라 올해는 프로랑 폴드가 같이 나오고 일반 라인업은 내년에 에어 모델이라 따로 나온다는 거예요. 아이폰 18 일반을 기다리는 사람들은 내년까지 기다려야 된다는 소식입니다. 대체 왜 이런 결정을 한 것일까? 아이폰 17 일반 판매량이 너무 많았어서이 프로와 일반이 판매량이 너무 분산되는 것을 방지하기 위함인가 싶기도 한데요. 일단 지금 어깨에 나오고 있는 분석은 폴더블 아이폰이 처음 나오는 거잖아요. 그래서이 폴더블 아이폰의 스포트라이트를 집중시키기 위해서 이때 너무 많은 라인업을 한 번에 내지 않기 위함이기도 하고요. 애플은 자체 칩을 생산하고 있잖아요. 근데 너무 많은 라인업을 한 번에 내게 되면은이 칩량에도 문제가 생길 수도 있고 또 이번에 신규 디스플레이가 적용될 예정인데요 신규 디스플레이 생산에서도 수급 압력이 좀 들어오지 않을까라는 예상에 요렇게 라인업 출시 일정을 쪼개기로 한 거라는 이야기가 있더라고요. 두 번째로 디자인 변화도 살펴볼게요. 이거 사실 정말 궁금했잖아요.이 17% 때 우리에게 정말 많은 충격을 안겨 줬던이 플랫토 디자인 이거는 그대로 유지가 됩니다. 지금 계속 나오고 있는 렌더링 이미지든 뭐 유출 정보든 다 공통적으로 플랫토 디자인은 유지가 된다고 말을 해 주고 있어요. 알루미늄 프레임의 후면에 트리플 렌즈가 들어가면서 카메라 플랫토 디자인이 유지가 되고요. 화면 크기도 동일하게 프로는 6.3in 프로 맥스는 6.9in 이렇게 나올 예정이고 다만 변경되는 사항이 있다면이 맥세이프 충전 영역요 부분이 투톤 디자인으로 들어갔었잖아요, 이번에는. 근데이 부분에 들어간 세라믹 쉴드가 살짝 반투명으로 처리가 되면서요 투톤이 조금 완화될 가능성도 제기되고 있어요. 이번에 사실이 투톤 디자인 때문에 17%를 선택을 안 하신 분들도 꽤 있는 걸로 알고 있거든요. 저희 채널 댓글에도 투톤 디자인에 대해서 브로를 보여 주시는 분들이 꽤 많았는데 다시 봐도 좀 그렇긴 해요. 저는 사실 딥블루를 실사용 폰으로 쓰고 있어 가지고 딥블루는 그래도 투톤이 좀 덜 티 나는 편인데 실버랑 오렌지는 이게 좀 티가 많이 나거든요. 그래서 이번에 반투명이 되면서 이게 완화된다고 하니까 조금 더 일체감 있는 디자인으로 나오지 않을까 싶고요. 그리고 프로 맥스의 경우에는 두께가 좀 더 두꺼워질 예정이라고 합니다. 거기다가 무게도 더 늘어날 것으로 예상되는데요.이 이유가 대체 뭐냐? 아니, 어떻게 세대를 거듭할수록 더 얇아지고 가벼워지는게 아니라 더 무겁고 두꺼워질 수가 있는 건지 저는 믿기지가 않아서 한번 알아봤는데요. 배터리 용량을 늘리기 위함이라고 하더라고요. 다음으로 정말 중요한 색상 루머도 한번 이야기를 해 볼게요. 지난번이 코스믹 오렌지 컬러처럼 이번에도 킬러 컬러가 하나 등장할 예정인데요. 지금 가장 유력한 후보로 떠오르고 있는 건 바로요 버건디 색상에 가까운 딥 레드 색상입니다. 레드와 브라운의 사이에 있는 좀 딥한 컬러다 요렇게 묘사가 되고 있거든요. 그래서 지금 보시는 요런 이미지와 비슷한 색상이 되지 않을까 싶은데요. 아무래도 이번에 오렌지 색상 같은 경우에는 너무 이렇게 탁 튀는 컬러 가지고 조금 부담스러워 하시는 분들이 많았다면 그래도 요런 딥레드 색상은 좀 차분한 컬러다 보니까 은근히 또 고급스럽고 그래도 오렌지보다는 쓰기에 좀 부담이 덜하지 않을까라는 생각이 들고요. 중요한 포인트 이번에 다크 그레이 색상이 나올 예정이라고 하는데요. 작년에 17% 나왔을 때도 블랙 색상 렌더링이 뒤늦게 막 여기저기 돌면서 아이폰 17프의 희망편으로 떠돌았었잖아요. 근데 이번에도 블랙 색상에 대한 루머은 없고요. 다크 그레이 색상 좀 어두운 느낌의 그레이 색상은 나올 수도 있겠다는 소식이더라고요. 아무래도 우리한테 익숙한 스페이스 그레이와 비슷한 색상이 되지 않을까 싶고요. 요거 외에도 실버 화이트 기존에 있었던 실버 색상이랑 비슷한 색상으로 한 가지가 또 나와서 총 세 가지 색상으로 출수될 것으로 예상되고 있습니다. 여러분은이 색에 고른다면 어떤 색상을 선택하실 건가요? 저는 개인적으로 다크 그레이 좀 기다려지긴 하네요. 다음으로 새로운 디스플레이 탑재 소식도 나오고 있습니다. 이번에는 디스플레이도 새로운 패널 LTP플러스 OLED가 탑재될 것으로 예상되고 있는데요. 요게 이제 기존 LTP OLED와 다른 점이 뭐냐고 하면 소비 전력이 좀 더 낮아지고요. 그래서 이번에요 디스플레이랑 새로워진 이노공정 칩셋이랑 요렇게 합쳐져 가지고 전반적인 18% 라인업의 배터리 수명의 시너지를 내지 않을까 요런게 예상이 되는데요. 올웨이 좋은 디스플레이 사용할 때 배터리 소모량이나 일반적인 상황에서의 배터리 소모량에도 어느 정도 영향을 주지 않을까 싶어요. 그런데 요즘 또 디스플레이 전쟁이잖아요. 한창 디스플레이는요 LTPO 패널에서 품질 이슈가 있어 가지고 물량 배분이 좀 제한적인 상황이라는 소식도 같이 들려오고 있습니다. 그래서 이번에도 항상 그랬던 것처럼 아이폰 18시리즈의 삼성 디스플레이 LG 디스플레이가 메인으로 쓰이고 BOE가 서브로 들어올 가능성이 높아 보여요. 다이나믹 아일랜드 페이스 아이디에도 약간의 변화가 있을 것으로 예상되는데요. 지금 이미지 보시는 것처럼 다이나믹 아일랜드 크기가 좀 더 줄어들 것으로 예상이 됩니다. 35% 정도 축소될 예정이라고 하는데 사실요 사진에서 보면은 좀 어색하긴 해요. 기존에는 그래도 좀이 길쭉하고 짧으니까 그냥 뭐 이것도 근데 처음 나올 때는 좀 이상하긴 했어요. 근데 어쨌거나이 크기가 줄어든다고 하는데 똑같은 동그라미도 아니고 약간 이제 묘하게 짧은 이런 느낌으로 들어가더라고요. 물론 이게 실제로 화면이 켜지면은 이렇게 연결된 알량 모양 상태로 딱 들어가다 보니까이 영역이 작아지면서 화면은 좀 더 많이 확보가 되지 않을까 싶은데요. 사실 많은 분들이 또 기다리고 계시는 소식이 언더 디스플레이 카메라거든요. 디스플레이 아래에 카메라가 숨겨져서 완전 매끈한 화면으로 보일 수도 있지 않을까? 요런 기대감도 있으셨을 텐데 이번에는이 언더 디스플레이 카메라는 적용되지 않을 것으로 예상이 됩니다. 자, 그리고 다음으로 카메라에 대해서 좀 반가운 소식이 있는데요. 바로 가변 조리개가 탑재될 것이라는 소식입니다. 제가 이거 연초에도 한번 다뤄 드린 적 있었는데 가변 조리개가 뭐냐면요. 말 그대로 조리개 값을 소프트웨어로가 아니라 진짜 하드웨어 단에서 바뀌도록 조절을 할 수가 있는 거예요. 근데 이게 가변 조리기는 보통 카메라 미러이쓰나 DSLR를 쓸 때 렌즈로 이렇게 조절을 하는 거잖아요. 근데 이게 스마트폰에 적용이 되면 어떤 일이 일어나냐면요. 어두운 환경에서 조리개를 더 개방해 가지고 빛을 더 많이 받아들이고 노이즈를 줄이고 선명함을 올려주는 이번에 갤럭시 울트라에서도 조리계값이 더 작은 그러니까 더 밝은 렌즈를 쓰면서 저조도에서 좀 더 향상된 사진 결과물들을 보여줬잖아요. 사실 지금은 인물 모드에서 소프트웨어로이 아웃포커싱을 만들어 주는 거거든요. 그래서 외곽선, 인물 외곽선이 좀 부자연스럽게 처리되거나 머리카락 이런 부분들은 조금 이상하게 잘려 나갈 때 있잖아요. 근데 이거를 훨씬 더 자연스럽게 뒷배경을 날려 주면서 아름다운 인물 사진, 심도가 아주 얕은 되게 예쁘게 복회가 탁 들어간 그런 사진들을 찍을 수 있게 된다는 건데 이거 얘기하고 나니까 갑자기 생각나는게 비보 300% 사진이 생각나는데 아 진짜 사진 결과물은 그게 예술이긴 하더라고요. 그래서 이게 가변 소리개가 들어가면 진짜 사진 찍는 맛이 확 달라질 수 있다. 어디까지나 근데 요거는 루머 단계라는 거. 전체적인 카메라 구성은 요렇게 예상이 되고 있습니다. 아이폰 18 Pro에서 전면 카메라가 업그레이드 될 예정인데 이번에는 18M로 들어갔잖아요. 다음번에는 24M로 진짜 전면 카메라도 더고해 상도로 찍을 수 있게 업그레이드 될 예정입니다. 그래서 전체적인 스펙이 막 확 달라진다기보다는 요런 가변 조리의 탑재 가능성에 대해서 좀 기대감이 들고요. 이미지 센서가 새롭게 탑재가 될 거라는 소식이 있어 가지고 요것도 좀 기대가 되네요. 근데요 이미지 센서도 또 삼성 센서예요. 비보에 들어갔던 것도 삼성 센서였거든요. 그래서 다시 한번 의문이 드는 점. 삼성은 왜 좋은 센서를 만들어 놓고 자사 핸드폰에는 넣지 않는 것일까? 이유가 있겠죠. 그리고 칩셋과 모뎀 소식도 있는데요. 일단 이번 아이폰 18 Pro 라인업에는 A20프 칩셋이 탑재될 예정이고요. 이게 이번에 애플에서 처음으로 선보이는 2노 공정 칩셋이거든요. 그래서 사실 안정성이나 수율 같은 경우는 좀 더 소식을 지켜봐야 될 거 같은데 2호 공정 자체 칩셋을 또 탑재한다고 하니까 요것도 좀 기대해 볼 만 하겠고요. 모뎀도 C2 모뎀 애플 자체 설계한이 C2 모뎀이 처음에 적용될 예정이고요. 이성 5G 통신도 지원할 수도 있다는 루머가 지금 나오고 있어 가지고 요것도 좀 궁금해지더라고요. 이렇게 되면은 이제 사막 한가운데나 오지 같은 데서도 빠른 인터넷 접속이 어느 정도 가능해질 것으로 예상이 되고 있거든요. 그리고 N2 무선 네트워킹 칩셋도 적용될 예정입니다. 이제 이어폰이나 이런 것도 보면은 가끔씩 블루투스 6를 지원하는 제품들이 나오고 있거든요. 이번 N2 무선 네트워킹 칩셋도 블루투스 6 와이파이 7을 지원한다고 하니까 요것도 참고하시면 좋을 것 같아요. 그리고 배터리도 이번에 사용 시간이 좀 더 개선될 것으로 보입니다.이 배터리 용량 자체는 사실 크게 늘어나진 않고 아주 소폭 증가할 것으로 예상이 되는데요. 아까 말씀드렸다시피 디스플레이도 새로운 LTPO플러스 OLED가 들어가고 또 칩셋도 전력 효율이 개선이 되고 여기다가 통신 모뎀까지 사실 전력 효율을 위해서 모든 그 애플의 자사 칩셋과 모뎀들이 사용이 되고 있잖아요. 그러다 보니까 전반적으로 사용 시간은 좀 더 늘어나지 않을까 싶어요. 마지막으로 가격을 한번 짚어 볼 건데요. 계속 스마트폰 가격들이 좀 오르는 추세잖아요. 그런데 이번에 맥북도 생각해 보면 최신 모델 나올 때 가격이 사실상 인하된 모습을 보여줬단 말이죠. 요거 자세하게 궁금하신 분들은요 영상 참고하시고요. 그것과 마찬가지로 아이폰도 이번에 가격이 동결이라는 소식이 나오고 있습니다. 아니 진짜 스마트폰 없게해서 너나 할 것 없이 SSD 가격이랑 램 가격이 막 올라가면서 거기다가 우리나라 또 환율까지 오른 상황이라서 가격이 좀 많이 오를 것으로 예상이 됐는데 이번에 사실 에어팟 가격이 미국에선 동결이었는데 한국에선 무려 13만 원이나 올랐잖아요. 이게 환율 영향이 좀 컸거든요. 그래서 아이폰도 나올 때 막상 환율 때문에 가격이 오를 수도 있는데요. 그래서 오늘이 이야기들을 종합적으로 봤을 때 과연 존보할 만한 가치가 있는가?이 18%를 기다려 볼 만한 가치가 있는가? 한번 짚어보자면 디자인 굳이 그렇게 막 크게 바뀌는 거 같지 않고 막 그렇게 획기적인 컬러가 나오는 거 같지도 않고 솔직히 프로 라인업에 약간 소프트 핑크가 들어가거나 아니면 아예 블랙 컬러가 나오면은 오마이갓 무조건 기다려야 돼 이렇게 얘기하실 수 있을 것 같은데 그건 아닌 거 같아요. 디자인 때문에 기다리라는 건 말이 안 되고 디스플레이도 이번에 새로워진다고 하지만 전력 효율상으로 뭐 이점 외에는 그렇게 막 크게 달라질 것 같진 않고요. 사실 주된 업그레이드 포인트는 카메라 10 배터리 사용 시간 정도일 거 같은데 요것들이 좀 중요하다라고 느껴지신 분들은 한번 기다려 보셔도 좋을 것 같고요. 가격은 사실 아직 말씀드린 것처럼 환율 때문에 또 우리나라에선 오를 수도 있거든요. 그래서 가격 때문에 기다리는 거는 위험하지 않나라는 생각이 듭니다. 자, 그래서 업그레이드 추천 대상은 제가 요렇게 정리를 해 볼게요. 여러분이 보시기에 이번 아이폰 18 Pro 라인업 기다려 볼 만한 가치가 있는지도 댓글로 많이 이야기 나눠 주시고요. 그럼 저는 다음 영상에서 또 만나요. 안녕, 바이. 아, 그리고 에필로그이 안경 정도 물어보시는 분들이 많던데 이거 그냥 쿠팡에서 산 블루라이트 안경이거든요. 어떻게 링크라도 남겨 놓을까요? 3만 원인가 그랬던 거 같아요.이 별로 안 비싼 제품인데 이게 그래서 약간 렌즈가 살짝 노랗거든요.",
+      "analysis_date": "2026-04-17T23:50:47+00:00",
+      "channel_name": "주연 ZUYONI",
+      "topic_tags": [],
+      "keywords": [
+        "갤럭시로",
+        "넘어갈까",
+        "고민하는",
+        "사람"
+      ],
+      "tools": [],
+      "flow": [
+        "처음 15초 안에 문제를 선명하게 정의하고 왜 지금 봐야 하는지 못 박는다.",
+        "중간 구간에서 툴, 사례, 비교 포인트를 빠르게 제시해 정보 밀도를 높인다.",
+        "마지막에는 시청자가 바로 따라할 수 있는 다음 액션과 적용 예시로 닫는다."
+      ],
+      "claims": [
+        "단순 소개보다 실제 사용 장면을 바로 보여주는 구조가 반응을 만든다.",
+        "큰 담론보다 작은 병목 하나를 해결해주는 포장 방식이 클릭으로 이어지기 쉽다."
+      ],
+      "transcript_highlights": [
+        "자, 우선 첫 번째로 이번 가을에는 애플이 처음으로 프로 라인업과 일반 라인업을 같은 시기에 출시하지 않을 것이라 소식이 들려오고 있습니다. 올해 바로 아이폰 홀드가 나올 거라는 소식. 그래서 이번 가을에는 예처럼 프로랑 일반 라인업이 같이 나오는게 아니라 올해는 프로랑 폴드가 같이 나오고 일반 라인업은 내년에 에어 모델이라 따로 나온다는 거예요.",
+        "한창 디스플레이는요 LTPO 패널에서 품질 이슈가 있어 가지고 물량 배분이 좀 제한적인 상황이라는 소식도 같이 들려오고 있습니다. 그래서 이번에도 항상 그랬던 것처럼 아이폰 18시리즈의 삼성 디스플레이 LG 디스플레이가 메인으로 쓰이고 BOE가 서브로 들어올 가능성이 높아 보여요.",
+        "그래서 이번에도 항상 그랬던 것처럼 아이폰 18시리즈의 삼성 디스플레이 LG 디스플레이가 메인으로 쓰이고 BOE가 서브로 들어올 가능성이 높아 보여요. 다이나믹 아일랜드 페이스 아이디에도 약간의 변화가 있을 것으로 예상되는데요."
+      ],
+      "top_comments": [
+        {
+          "video_id": "Sw4JNjQDDgE",
+          "comment_id": "UgzeFr403aNTJBCAYvd4AaABAg",
+          "author": "@o0u0osz",
+          "text": "17프로의 후면 투톤이 맘에 안 들어서 안 바꿨었는데 이게 완화된다고 하니 18프로로 가야할 이유가 생긴 것 같습니다!",
+          "like_count": 21,
+          "reply_count": 0,
+          "published_at": "2026-04-17T11:16:04Z"
+        },
+        {
+          "video_id": "Sw4JNjQDDgE",
+          "comment_id": "UgxOPcwde05vghNN7Wl4AaABAg",
+          "author": "@zuyoni1",
+          "text": "여러분은 영상 보시고 아이폰18프로 기다릴지 말지 정하셨나요?! 댓글로 말해주세요!!\n\n🤓많이들 물어본 안경 정보: https://link.coupang.com/a/eqViGO\n\n(위 링크 통해 구매시 수수료를 받습니다!)",
+          "like_count": 14,
+          "reply_count": 3,
+          "published_at": "2026-04-17T11:29:52Z"
+        },
+        {
+          "video_id": "Sw4JNjQDDgE",
+          "comment_id": "UgzciUYZdOiVP7YUgwF4AaABAg",
+          "author": "@ttukkhho",
+          "text": "0:07 엎드려 있는 애플 기대했었습니다ㅋㅋㅋㅋㅋ (연기자는 2호기님으로 흠흠😅)",
+          "like_count": 8,
+          "reply_count": 0,
+          "published_at": "2026-04-17T10:45:49Z"
+        },
+        {
+          "video_id": "Sw4JNjQDDgE",
+          "comment_id": "UgzrXeaT2gHbqL7LEBx4AaABAg",
+          "author": "@G80sport_genesis",
+          "text": "18프로는 17 프로보다 디자인, 색깔이 이뻐지기를 바라며..",
+          "like_count": 7,
+          "reply_count": 0,
+          "published_at": "2026-04-17T10:44:11Z"
+        },
+        {
+          "video_id": "Sw4JNjQDDgE",
+          "comment_id": "UgwCmagvX_FiMYPjNFV4AaABAg",
+          "author": "@daengdaeng224",
+          "text": "0:15 현타온듯...😅",
+          "like_count": 6,
+          "reply_count": 0,
+          "published_at": "2026-04-17T11:36:06Z"
+        }
+      ]
+    },
+    {
+      "video_id": "-W_KaXRru1Y",
+      "channel_key": "ucitgsmggjtktcjevdk-zrhw",
+      "title": "문 열자마자 \"계약할게요!”ㅣ감탄사만 100번한 집",
+      "description": "꿈을 이루기 위해 이사했다\n근데 굉장히 독특한....\n\n#이사 #인테리어 #사무실인테리어 \n#귀곰 #귀곰리뷰 #귀곰전자제품리뷰",
+      "published_at": "2026-04-17T08:00:00Z",
+      "duration_seconds": 483,
+      "view_count": 137169,
+      "like_count": 3299,
+      "comment_count": 246,
+      "engagement_rate": 0.02584403181476864,
+      "thumbnail_url": "https://i.ytimg.com/vi/-W_KaXRru1Y/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=-W_KaXRru1Y",
+      "format": "뉴스 분석",
+      "hook_type": "문제 해결",
+      "title_pattern": "핵심 포인트 직설형",
+      "one_line_summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "why_it_works": "문제 해결 훅으로 관심을 끌고, 뉴스 분석 형식으로 내용을 빠르게 정리해 시청자가 '바로 써먹을 수 있다'고 느끼게 만듭니다.",
+      "recommendation": "훅 구조: 도입 15초 안에 '문제 해결' 관점으로 문제를 못 박고, 왜 지금 봐야 하는지 먼저 선언합니다. • 복제할 포장 요소: 뉴스 분석 형식을 유지하되 뉴스 분석를 실제 사용 장면 1개와 결과 변화 2개로 더 좁혀 설명합니다. • 비어 있는 콘텐츠 영역: '뉴스 분석가 내 작업 흐름에서 어디에 꽂히는가'를 사례 중심으로 보여주는 후속 영상이 비어 있습니다. • 추천 제목: 뉴스 분석 이슈를 내 채널 관점으로 다시 정리해보자 • 썸네일 카피 힌트: 뉴스 분석 지금 봐야 할 3가지",
+      "transcript_status": "available",
+      "transcript_source": "apify",
+      "transcript_language": "ko",
+      "transcript_text": "마침내 내 꿈을 이룰 수 있는 정말 톡특하고 신기한 집으로 이사했대. &gt;&gt; 응. 응. &gt;&gt; 응. 어. &gt;&gt; 오빠 나 뭐 달라진 거 없어?이 배경 달라진 거 아무도 이야기를 안 하더라고. 사실 사무실을 옮겼대. 말은 안 하고 있었지만 이전 사무실의 경우이 보이지 않는 카메라 뒤 20평남지 탄 사무실에 온갖 리뷰 물품들과 측정 장비가 새고 세요. 언제된 카오스 상태가 된지 오래였대. 마침 사무실 계약 기간이 만료돼 이사를 가야 하는 시점이라 짐들을 충분히 놓을 수 있으면서 더 스케일 큰 리뷰를 할 수 있는 월세 사무실로 이전을 했대. 자, 바로 여긴데 한번 따라와 봐잉. 자, 여기가 입구인데 일단 입구부터가 좀 넓 때 여기 딱 앉아서 신발 편하게 신을 수 있는 의자가 있고 그리고 여기 한번 바닥 봐 봐. 이거 전문 용어로 도끼다-시문이라고 하는데 그 어렸을 적학교 가운데 정문 신발 벗는데 바닥에 이문이었는데 몰라. 아, 틀딱이라고? 응. 너도 고시야. 자, 여기로 들어오면 중문이 있어서 다 될 수가 있는데. 아이, 문 빠졌어요. 따라라라따라라라. 여기가 바로 거실인데 일단 넓지?이 면적이 총 30평 정도 되는데 촬영에 주 장소가 되는이 거실이 넓은 곳을 고르는게 새로운 집 1순이었기에 이곳을 골랐대.이 집을 고른 가장 큰 이유 중 하나가요 거실에 있는데 바로 요거. 짜잔. 바로 냉장고가 두 대가 들어갈 수 있는 냉장고장이대 내가 예전부터 정말 하고 싶었던 것 중 하나가 바로 삼성과 LGD 냉장고 딱 나란히 놔두고 비교하는 콘텐츠였대 근데 사무실이 좁다 보니 냉장고를 한 대밖에 못 놔둬서 집에 한대 사무실에 한대 두고 비교해야 했는데이 동선도 너무 긴데다 무엇보다 왕근님 눈치도 겁나 보였대 아무튼 이제 바로 옆에다가 두고 맞다이 비교 가능할 것 같아서 너무 기대된데 거기에이 거실 자체의 가로 길이가 엄청 긴 편이대. 그래서 여기에 초대용 98in TV 두대 나란히 놓고 바로 맞다이 비교해 보는 아, 그런 설레는 장소로도 발용쌉 가능할 것 같대. 아, 너무 재밌을 것 같지 않나? 그리고 여기 옆이 싱크대인데 정말 시원하게 뻗어 있대. 상하부장 모두 그 양이 엄청나서 수납도 좋을 것 같은데 여기 장을 좀 바꿔서 로봇 청소기 직배 수영 설치 과정 테스트도 좀 해 볼 생각이 돼.이 이 안쪽 세탁실은 크기가 크지는 않지만 공간을 극대화해서 일체형 세탁기 30만 원대 극가성비 12인용 식기 세척기 미생물 처리기 등을 좀 빡빡하게 치워서 장기 사용 테스트할 장소로 좀 활용해 볼 생각이 돼. 그리고 이렇게 옆으로 이동해 보면 아까도 말했지만 바닥 면적만 30평이 돼. 그래서이 거실이이 안쪽에 더 있는데 자 여기서 내가이 집을 사무실로 고은 또 다른 이유 하나 바로 여기는 탑층의 복합 구조입니다.이 위를 보면 짜잔 여기 탑층의 복합 구조 즉 복층이 있어서 친구가 엄청 높대 덕분에 개방감도 시원하이 좋고 공간 자체가 조금 이쁘다 끝. 그래서 여기는 뭘 할까? 많이 부족한 미감이긴 하지만 나름 예쁘게 좀 꾸서 가전들 쇼룸 같은 느낌으로다가 한번 만들어 보려고 한대. 자, 그리고 여기에다가는 내가 빈티지 오디오 덕후인데 왕근님 눈치 보여서 덕질을 한 5년에 한 번 텀으로밖에 못 하거든. 이젠 쿨타임도 찾겠다. 새로운 공간도 있겠다. 왕근 님한테는 당근으로 중고 싸게 샀다고 하고 오래된 빈티지 오디오를 한데 사는 것도 괜찮지 않나 하는 중고는 중고잖아. 아무튼 여길 보면 또 재미있는 구조가 하나 있는데 거실 가운데 액자용 구조가 떡한이나 있다. 구조 자체가 재미있은 맛이 있을 것 같기는 한데 이건 좀 고민을 해 봐야 할 것 같대. 그리고 방이 총 세 개인데 여기로 가면 여기는 괴고미디 편집실 맞은 편에도 작은 방이 있는데 여기는 창고로 쓸 생각이 돼. 자 이쪽으로 와 보면 여기가 가장 넓은 한 방인데 여기는 내가 쓸 빵이대. 일단 슈케이스를 여기다 가져놔 놓기는 했는데 아무래도 여기보다는 거실로 옮기는게 나을 것 같아. 이거 리뷰한다고 슈케이스만 500만 원 넘게 써 놓고 전 사무실은 좁아서 거진 방치됐었는데 아 어떻게든 써 먹어서 돈 좀 뽑아 봐야지. 근데 아무래도 느낌이 세한게 이거 단종 각일 것 같단 말이야.이 방 옆에 드레스룸이 또 따로 있는데 사무실이라 옷을 넣을 것도 아니고 짐이 많은만큼 수납 공간으로 야무지겠어야지. 화장실에 비대는 기본 옵션. 감사합니다. 땡큐. 자, 그리고이 집을 선택한 사실상 가장 중요한 이유가 또 나오는데 바로 이거 아까도 말했지만이 집이 답층의 복합구조입니다. 그래서이 위층으로 가는 계단이 있는데 이게 바로 핵심이대. 왜? 최근 출시하기 시작한이 계단 올라가는 로봇 청소기들 테스트. 아, 이걸 미친 듯이 하고 싶었거든. 로봇 청소기가 계단을 올라가는데 아, 이거 어떻게 참냐고? 집에 계단이 없대. 아, 계단이 있는 집으로 이사오면 되잖아. 자, 여기를 이렇게 올라가면 복증으로 올라가는 공간 중간에 이렇게 생각보다 넓은 공간이 나온대 여기가 은근히 넓어서 누구 하나 누워서 자도 될 것 같아. 공간이 이렇게 넓게 나온다고. 이거 봐봐. &gt;&gt; 여기서 자도 괜찮을 것 같지 않아? 자. 음. 음. 음. 어. &gt;&gt; 가져올라가 보면 여기가 바로 탑층의 복합 구조의 하이라이트. 바로 폭층이라는 거. 짜잔. 여기가 실평수가 아래층이 전체가 30평인데이 위층인 복층이 20평이나 돼서 정말 넓은 공간이 나온대 복층임에도 생각보다 충고가 높아서 답답한 느낌이 없는데 여기는 로봇 청소기 테스트 트랙 등을 상시 설치해 놔서 하루 종일 밥 먹고 똥 싸는 것만 빼고 미친듯이 로청 테스트 돌리는 테스트 공장으로 사용할 예정이대 안 그래도 요즘에 로청 출시가 미친 듯이 겹쳐 있어서 여기서 밤낮으로 오래 나오는 주요 로봇 청소기들 바짝 돌려서 올해이 로청 사라 컨텐츠 치 5월쯤엔 업로드할 수 있도록 만들어 보기대 기대해 달라. 그리고 복층의 천장 구조가 이렇게 사선으로 되어 있어서 머리가 닿지 않는 공간은이 가운데 공간 정도가 나오고 머리가 닿는 공간들은 사실 자칫 죽은 공간이 될 수가 있는데 이렇게 짐들을 넣을 수 있는 수납 공간으로 마련되어 있대. 그래서 실제로 보면 정말 수납 공간이 엄청나게 넓대.이 이 집이 복층의 이런 수납 공간뿐 아니라 창고에 선반 수납 공간도 이렇게 엄청나게 많은 거 처음 봤고 들어오는 입구에도 수납 공간이 이렇게 수두룩 빽빽이 돼. 짐이 미쳐불게 많은 나 같은 보부상 리뷰 유튜버와 정말 궁합이 잘 맞는다일까? 그래서 그냥 집 보는 순간 문 나오면서 그냥 바로 계약하겠다고 했대. 자, 그리고이 문을 나가면 탑층 복합 구조의 또 다른 매력인 테라스 공간이 있대. 이게 야외 촬영에 필요한 제품들이 은근 있거든. 특히 캠핑 용품 같은 경우 살고 야외에서 촬영하기가 쉽지가 않아서 이전 스탠바임이고 촬영할 때는 집앞 공사장에서 텐트 치고 캠핑을 하는 말도 안 되는 상황이 연출됐었대. 근데 이젠 완전 프라이빗한 야외 공간이 생겨서 여기에 텐트를 쫙 깔고 여유롭게 캠핑 관련 제품들도 촬영할 수 있을 것 같아. 먹고 캠핑이 아니더라도 고기 굽는 콘텐츠 할지 여름의 선크림 인간 테스트도 뭔가 마음에 여유가 있게 좌가 가능할 것 같아. 내가 전에도 이야기했지만 내 거의 유일한 취미가 바로 인테리어다. 전에 집도 그렇고 이전 사무실도 그렇고 인테리어 하면서 정말 즐거웠는데이 인테리어가 이사를 해야 가능한 거라이 오랜만에 찾아온 이번 이사를 맞아 간만의 진심 인테리어를 해볼 생각이대 끝으로 아기 뒤에다가 재우면서 맘조이면서 리뷰하던 5년 전 꿈 중 하나가 바로 거대 대형 가전들을 한 자리에서 비교 리뷰하고 로청들이 마음껏 뛰놓는 공간에서 테스트할 수 있는 그런 공간을 마련해 보고 싶다라는 거였는데 그 꿈을 일어나갈 이런 큰 사무실 실까지 얻을 수 있었던 건 귀독자 형님 노님들의 덕이 크다고 생각한대이 자리를 빌어 더 멋진 꿈을 꿀 수 있도록 만들어 줘서 시계 감사하다는 말 남긴데 새로운 공간에서 더 열심히 달려보겠대 파이 &gt;&gt; 그럼 다음 집드릴 시간까지 안녕.",
+      "analysis_date": "2026-04-17T23:50:46+00:00",
+      "channel_name": "귀곰",
+      "topic_tags": [],
+      "keywords": [
+        "문",
+        "열자마자",
+        "계약할게요감탄사만",
+        "100번한"
+      ],
+      "tools": [],
+      "flow": [
+        "처음 15초 안에 문제를 선명하게 정의하고 왜 지금 봐야 하는지 못 박는다.",
+        "중간 구간에서 툴, 사례, 비교 포인트를 빠르게 제시해 정보 밀도를 높인다.",
+        "마지막에는 시청자가 바로 따라할 수 있는 다음 액션과 적용 예시로 닫는다."
+      ],
+      "claims": [
+        "단순 소개보다 실제 사용 장면을 바로 보여주는 구조가 반응을 만든다.",
+        "큰 담론보다 작은 병목 하나를 해결해주는 포장 방식이 클릭으로 이어지기 쉽다."
+      ],
+      "transcript_highlights": [
+        "그래서 실제로 보면 정말 수납 공간이 엄청나게 넓대.이 이 집이 복층의 이런 수납 공간뿐 아니라 창고에 선반 수납 공간도 이렇게 엄청나게 많은 거 처음 봤고 들어오는 입구에도 수납 공간이 이렇게 수두룩 빽빽이 돼. 짐이 미쳐불게 많은 나 같은 보부상 리뷰 유튜버와 정말 궁합이 잘 맞는다일까?",
+        "짐이 미쳐불게 많은 나 같은 보부상 리뷰 유튜버와 정말 궁합이 잘 맞는다일까? 그래서 그냥 집 보는 순간 문 나오면서 그냥 바로 계약하겠다고 했대.",
+        "그리고 복층의 천장 구조가 이렇게 사선으로 되어 있어서 머리가 닿지 않는 공간은이 가운데 공간 정도가 나오고 머리가 닿는 공간들은 사실 자칫 죽은 공간이 될 수가 있는데 이렇게 짐들을 넣을 수 있는 수납 공간으로 마련되어 있대. 그래서 실제로 보면 정말 수납 공간이 엄청나게 넓대.이 이 집이 복층의 이런 수납 공간뿐 아니라 창고에 선반 수납 공간도 이렇게 엄청나게 많은 거 처음 봤고 들어오는 입구에도 수납 공간이 이렇게 수두룩 빽빽이 돼."
+      ],
+      "top_comments": [
+        {
+          "video_id": "-W_KaXRru1Y",
+          "comment_id": "Ugx0_k4DLD20cAkT1xR4AaABAg",
+          "author": "@jakehan7979",
+          "text": "집에서 아주 쫓겨났구나.. 등짝은 안맞겠다",
+          "like_count": 534,
+          "reply_count": 1,
+          "published_at": "2026-04-17T08:13:31Z"
+        },
+        {
+          "video_id": "-W_KaXRru1Y",
+          "comment_id": "Ugyxc_F5jaUWv4RNAXV4AaABAg",
+          "author": "@gwigom",
+          "text": "귀독자 형님누님들에게 씨게 감사드리며 이사한 사무실에서 열심히 달려보겠다. 여기서 리뷰해봤으면 하는 궁금한 제품이 있으면 댓글로 알려달라.",
+          "like_count": 244,
+          "reply_count": 21,
+          "published_at": "2026-04-17T06:45:25Z"
+        },
+        {
+          "video_id": "-W_KaXRru1Y",
+          "comment_id": "UgxKsVorlEmi6ILWHnd4AaABAg",
+          "author": "@섬머이즈커밍",
+          "text": "형. 이쯤됐으면 안 쓰는 거 귀곰마켓으로 당근해도 좋지 않을까? ㅋㅋㅋㅋ",
+          "like_count": 122,
+          "reply_count": 3,
+          "published_at": "2026-04-17T11:21:44Z"
+        },
+        {
+          "video_id": "-W_KaXRru1Y",
+          "comment_id": "UgyaN-6pCQISZXGMR5t4AaABAg",
+          "author": "@우리집고냉이",
+          "text": "브레짜리뷰로 입문했는데 그때 브레짜로 분유먹던 신생아가 국밥말아먹는 엉아가 되었네욬ㅋㅋㅋㅋ세월참...",
+          "like_count": 99,
+          "reply_count": 2,
+          "published_at": "2026-04-17T10:46:46Z"
+        },
+        {
+          "video_id": "-W_KaXRru1Y",
+          "comment_id": "UgzfJ7X_FtU-NnRJ_2h4AaABAg",
+          "author": "@tronixontheloop",
+          "text": "이 정도로 리뷰에 진심이니 구독자들도 진심일 수밖에",
+          "like_count": 54,
+          "reply_count": 2,
+          "published_at": "2026-04-17T09:28:16Z"
+        }
+      ]
+    },
+    {
+      "video_id": "X-7JZ6KDDts",
+      "channel_key": "ucf9ytgvaf5hl8ccpxianeng",
+      "title": "요즘 AI는 클로드만 쓰는 이유",
+      "description": "자세한 사용법이 궁금하다면?\n본 영상 : https://youtu.be/iIFVJwzZiDc",
+      "published_at": "2026-04-17T07:47:17Z",
+      "duration_seconds": 67,
+      "view_count": 3372,
+      "like_count": 30,
+      "comment_count": 1,
+      "engagement_rate": 0.009193357058125741,
+      "thumbnail_url": "https://i.ytimg.com/vi/X-7JZ6KDDts/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=X-7JZ6KDDts",
+      "format": "워크플로우 튜토리얼",
+      "hook_type": "문제 해결",
+      "title_pattern": "핵심 포인트 직설형",
+      "one_line_summary": "이 영상은 워크플로우 튜토리얼 이슈를 워크플로우 튜토리얼 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "why_it_works": "문제 해결 훅으로 관심을 끌고, 워크플로우 튜토리얼 형식으로 내용을 빠르게 정리해 시청자가 '바로 써먹을 수 있다'고 느끼게 만듭니다.",
+      "recommendation": "훅 구조: 도입 15초 안에 '문제 해결' 관점으로 문제를 못 박고, 왜 지금 봐야 하는지 먼저 선언합니다. • 복제할 포장 요소: 워크플로우 튜토리얼 형식을 유지하되 워크플로우 튜토리얼를 실제 사용 장면 1개와 결과 변화 2개로 더 좁혀 설명합니다. • 비어 있는 콘텐츠 영역: '워크플로우 튜토리얼가 내 작업 흐름에서 어디에 꽂히는가'를 사례 중심으로 보여주는 후속 영상이 비어 있습니다. • 추천 제목: 워크플로우 튜토리얼 이슈를 내 채널 관점으로 다시 정리해보자 • 썸네일 카피 힌트: 워크플로우 튜토리얼 지금 봐야 할 3가지",
+      "transcript_status": "available",
+      "transcript_source": "apify",
+      "transcript_language": "ko",
+      "transcript_text": "내 컴퓨터에 있는 로컬 파일들을 직접 편집하거나 정리 또는 생성할 수가 있습니다. 예를 들어서 지금이 폴더 보시면 이렇게 PDF, 이미지, 영수증, 워드 파일 등등 지저분하게 파일들이 막 널부러져 있는데요. 클로드한테이 폴더 안에 있는 파일을 업무, 개인, 영수증, 이미지 PDF로 분류해죠. 파일명은 날짜 주제 키워드로 통일해죠. 이렇게 프롬프트를 넣어 보겠습니다. 자, 그랬더니 무슨 파일을 어디에 넣어라? 이렇게 일일이 지정해 주지 않아도 클로드가 알아서 잘 분류를 해줬죠. 파일 이름도 제가 요청한 양식에 맞게 다 통일를 해 줬습니다. 다른 서비스들과 연동해서 외부로 결과물을 내보낼 수도 있어요. 예를 들어서 GL이랑 연동을 한 다음에 지난 한 달 동안 내가 보낸 이메일들을 읽고 내가 주로 사용하는 이메일 문체를 분석한 다음 앞으로 나한테 협업 제한 이메일이 오면 바로 답변할 수 있도록 템플리터 한 다음 노션에다가 업무 관리 대시보드에 추가해 줘. 이렇게 요청을 해 볼게요. 보시면은 실제로 제가 이미 작성할 때 쓰는 말투를 잘 캐치를 해 줘 가지고 좀 놀랐는데 이렇게 변수 부분만 입력하면 바로 보낼 수 있게끔 템플릿으로 만든 다음에 노션에다가 추가해 달라고 한 요청도 잘 수행해줬습니다. 이번 달 회의 보고서 파일 열어서 구글 캘린더에다가 일정 픽스해 줘. 이렇게 한 마디만 했는데 지금 보시는 것처럼 드라이브에서 필요한 파일만 딱 찾아서 문서 내용 확인하고 캘린더의 일정 픽서까지 아주 잘 수행해 주는 걸 보실 수가",
+      "analysis_date": "2026-04-17T23:50:50+00:00",
+      "channel_name": "알린 ALINN",
+      "topic_tags": [],
+      "keywords": [
+        "요즘",
+        "AI는",
+        "클로드만",
+        "쓰는"
+      ],
+      "tools": [],
+      "flow": [
+        "처음 15초 안에 문제를 선명하게 정의하고 왜 지금 봐야 하는지 못 박는다.",
+        "중간 구간에서 툴, 사례, 비교 포인트를 빠르게 제시해 정보 밀도를 높인다.",
+        "마지막에는 시청자가 바로 따라할 수 있는 다음 액션과 적용 예시로 닫는다."
+      ],
+      "claims": [
+        "단순 소개보다 실제 사용 장면을 바로 보여주는 구조가 반응을 만든다.",
+        "큰 담론보다 작은 병목 하나를 해결해주는 포장 방식이 클릭으로 이어지기 쉽다."
+      ],
+      "transcript_highlights": [
+        "보시면은 실제로 제가 이미 작성할 때 쓰는 말투를 잘 캐치를 해 줘 가지고 좀 놀랐는데 이렇게 변수 부분만 입력하면 바로 보낼 수 있게끔 템플릿으로 만든 다음에 노션에다가 추가해 달라고 한 요청도 잘 수행해줬습니다. 이번 달 회의 보고서 파일 열어서 구글 캘린더에다가 일정 픽스해 줘.",
+        "예를 들어서 GL이랑 연동을 한 다음에 지난 한 달 동안 내가 보낸 이메일들을 읽고 내가 주로 사용하는 이메일 문체를 분석한 다음 앞으로 나한테 협업 제한 이메일이 오면 바로 답변할 수 있도록 템플리터 한 다음 노션에다가 업무 관리 대시보드에 추가해 줘. 보시면은 실제로 제가 이미 작성할 때 쓰는 말투를 잘 캐치를 해 줘 가지고 좀 놀랐는데 이렇게 변수 부분만 입력하면 바로 보낼 수 있게끔 템플릿으로 만든 다음에 노션에다가 추가해 달라고 한 요청도 잘 수행해줬습니다.",
+        "파일 이름도 제가 요청한 양식에 맞게 다 통일를 해 줬습니다. 다른 서비스들과 연동해서 외부로 결과물을 내보낼 수도 있어요. 예를 들어서 GL이랑 연동을 한 다음에 지난 한 달 동안 내가 보낸 이메일들을 읽고 내가 주로 사용하는 이메일 문체를 분석한 다음 앞으로 나한테 협업 제한 이메일이 오면 바로 답변할 수 있도록 템플리터 한 다음 노션에다가 업무 관리 대시보드에 추가해 줘."
+      ],
+      "top_comments": [
+        {
+          "video_id": "X-7JZ6KDDts",
+          "comment_id": "Ugx5to800wvgUia1CH54AaABAg",
+          "author": "@ailifeinnovation",
+          "text": "자세한 사용법이 궁금하다면?\n본 영상 : https://youtu.be/iIFVJwzZiDc",
+          "like_count": 0,
+          "reply_count": 0,
+          "published_at": "2026-04-17T03:21:37Z"
+        }
+      ]
+    },
+    {
+      "video_id": "iIFVJwzZiDc",
+      "channel_key": "ucf9ytgvaf5hl8ccpxianeng",
+      "title": "이걸 모르면 30%도 활용하지 못 하는 겁니다. 생산성을 미친듯이 올려주는 클로드 개꿀기능 Cowork 활용법",
+      "description": "*클로드 Cowork 전용 지침* 👉 https://www.alinn.co.kr/channels/L2NoYW5uZWxzLzE4Mjc0/A00003/posts/721126\n*수강생 만족도 99% AI 마스터 강의* 👉 https://www.alinn.co.kr\n*무료 자료가 넘쳐나는 게시판* 👉 https://www.alinn.co.kr/channels/L2NoYW5uZWxzLzE4Mjc0/A00003/posts?page=1\n*안 들어오면 손해인 ALINN 구독자 전용 오픈카톡방* 👉 https://open.kakao.com/o/ghNkhHhi\n*재능없이 유튜브 수익화 성공 비결 공개* 👉 https://www.alinn.co.kr/channels/L2NoYW5uZWxzLzE4Mjc0/C00007/classes/187710/information\n\nALINN 인스타그램 : instagram.com/ailifeinnovation\n비즈니스 및 협업 문의 : ailifeinnovation@gmail.com\n\n#ai #인공지능 #클로드 #claude #cowork \n\n0:00 하이라이트\n0:14 요즘 클로드만 쓰는 이유\n1:37 Cowork 소개\n3:09 설치 및 세팅법\n5:30 로컬 파일 연동\n7:20 커넥터 기능\n8:36 스킬(Skills) 활용법\n10:42 예약 작업 기능\n11:49 사용 시 유의사항",
+      "published_at": "2026-04-17T07:47:08Z",
+      "duration_seconds": 753,
+      "view_count": 2508,
+      "like_count": 117,
+      "comment_count": 6,
+      "engagement_rate": 0.04904306220095694,
+      "thumbnail_url": "https://i.ytimg.com/vi/iIFVJwzZiDc/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=iIFVJwzZiDc",
+      "format": "워크플로우 튜토리얼",
+      "hook_type": "문제 해결",
+      "title_pattern": "핵심 포인트 직설형",
+      "one_line_summary": "이 영상은 agents 이슈를 워크플로우 튜토리얼 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "why_it_works": "문제 해결 훅으로 관심을 끌고, 워크플로우 튜토리얼 형식으로 내용을 빠르게 정리해 시청자가 '바로 써먹을 수 있다'고 느끼게 만듭니다.",
+      "recommendation": "훅 구조: 도입 15초 안에 '문제 해결' 관점으로 문제를 못 박고, 왜 지금 봐야 하는지 먼저 선언합니다. • 복제할 포장 요소: 워크플로우 튜토리얼 형식을 유지하되 agents를 실제 사용 장면 1개와 결과 변화 2개로 더 좁혀 설명합니다. • 비어 있는 콘텐츠 영역: 'agents가 내 작업 흐름에서 어디에 꽂히는가'를 사례 중심으로 보여주는 후속 영상이 비어 있습니다. • 추천 제목: agents 이슈를 내 채널 관점으로 다시 정리해보자 • 썸네일 카피 힌트: agents 지금 봐야 할 3가지",
+      "transcript_status": "available",
+      "transcript_source": "apify",
+      "transcript_language": "ko",
+      "transcript_text": "이거를 사람이 일일이 영수증 스캔 뜨고 엑셀을 입력하고 하면은 굉장히 귀찮고 오래 걸리는데 AI 에이전트가 알아서 해 주니까 너무 편하죠. 이렇게 내가 반복적으로 하는 작업들을 나중에는 이것만 불러와서 AI가 바로바로 알아서 일을 해 주는 거예요. 안녕하세요. 알린입니다. 요즘 제가 제일 많이 쓰는 AI를 꼽으라면 단연코 클로드입니다. 요즘 진짜이 클로드 폼이 미쳤어요. 똑같은 작업을 최지피티 재미나 클로드 동시에 시키면 거의 대부분은 클로드가 만족도가 제일 높은 거 같습니다. 그래서 최근에 최지패t티나 재미나이 쓰시다가 클로드로 갈아타시는 분들도 굉장히 많은 거 같아요. 근데 많은 분들이 평소에 AI 쓰듯이 그냥 채팅으로만 대화를 하시고 제일 중요한이 기능을 잘 활용을 안 하시더라고요. 클로드에는 크게 세 가지 기능이 있는데요. 첫 번째는 일반적으로 가장 많이 쓰시는 클로드 채. 클로드 기본 화면에 나오는 거고요. 두 번째는 클로드 코드 바이브 코딩을 할 때 사용하는 개발용 도구인데 이것도 요즘 굉장히 핫하죠. 마지막 세 번째로 AI 에이전트인 코워크가 있습니다. 그중에서도 오늘은이 클로드 코워크를 다뤄 볼 건데요. 많은 분들이 이런게 있는지도 잘 모르시지만 이미 해외에서는 굉장히 많이 활용되고 있고 단순 채팅보다 훨씬 더 많은 것들을 할 수 있는 생산성 끝판왕 도구입니다. AI 에이전트 하면 최근에 굉장히 화제가 되었던 오픈 클로우라는 툴이 있는데 물론 이것도 굉장히 좋긴 하지만 일단은 이걸 쓰려면 80만 원씩 하는 맥민이도 사야 되고요. 설치하고 세팅하는 거부터가 그리 간단하지가 않아요. 근데 클로드 코워크는 그냥 컴퓨터에 설치해서 사용하기만 하면 되니까 우리 같은 일반인 입장에서 사용하기도 굉장히 쉽고 성능도 충분히 좋아서 굳이 비싼 돈 투자해서 오픈 클로 쓸 필요가 없는 거 같습니다. 제가 지난번 클로드 영상에서도이 코워크를 잠깐 소개해 드리긴 했는데 이번 영상에서이 설치랑 세팅부터 시작해서 여러 가지 기능들을 실제로 활용하는 것까지 오늘 영상만 보시면 누구나 마스터하실 수 있도록 정리해 봤으니까 끝까지 잘 따라 주세요. 우선이 클로드 코워크가 도대체 뭐냐? 그냥 클로드 뭐가 다른 거냐 궁금하신 분들이 계실 텐데요. 쉽게 말하면 클로드 코워크는 클로드에서 만든 AI 에이전트 서비스입니다. 클로드 챗이랑 가장 큰 차이점은 클로드 체선 클로드 웹사이트 즉 클로드 서버와 연결이 되어 있고 클로드 코워크는 내 컴퓨터에 직접 연동해서 쓸 수가 있습니다. 예를 들어서 일반적으로 클로드를 쓸 때 뭐 내가 갖고 있는 파일들을 가지고 작업을 할거다 하면 채팅창에 내 파일을 직접 업로드를 해서 사용을 해야 하는데 그마저도 한 채팅당 20개 그리고 파일당 30MB씩 용량 제한이 있어요. 그래서 업무를 할 때 파일이 되게 많거나 용량이 너무 커서 작업 자체가 불가능한 그런 불상가 일어나기도 하는데이 클로드 코워크는 제가 컴퓨터에 직접 연동이 되어 있다고 했죠. 굳이 내 파일을 클로드 서버에 업로드 할 필요 없이 얘가 직접 내 파일에 접근이 가능하기 때문에 파일 개수나 용량에 제한이 없습니다. 그리고 채팅으로는 내가 질문하면 클로드가 대답하고 질문하면 대답하고 이런 과정을 거쳐서 내가 직접 결과물을 만들거나 아니면 얘가 만들어 준 파일을 내가 복사를 하든지 다운로드 받아서 다시 내 컴퓨터에 저장을 해야 하는데이 클로드 코워크는 내가 바로 사용할 수 있도록 결과물을 만들어서 컴퓨터에 저장을 할 수도 있고 다른 플랫폼과 연결해서 결과물을 내보낼 수도 있습니다. 그래서 일반적으로는 우리가 AI한테 프롬프트를 넣을 때 내가 이런 결과물을 만들 수 있게 필요한 정보를 줘, 프로세스를 짜 줘, 방법을 알려 줘. 이런 식으로 과정 중심의 프롬프트를 넣었다면이 클로드 코워크는 직접 워크플로우를 설계하고 실제 결과물까지 만들어 주는 AI 에이전트이기 때문에 이거 이거 데이터 분석해서 폴더벨로 분류해 줘. 결과 보고서 만들어 가지고 어디에다가 저장해 줘. 이런 식으로 결과 생성 중심으로 요청을 하시면 돼요. 그러니까 당연히 작업 시간도 훨씬 줄어들고 AI가 알아서 일을 해 주니까 굉장히 편하겠죠.이 이 클로드 코워크는 컴퓨터랑 연동을 해야 하기 때문에 웹사이트에서는 사용을 할 수가 없고 별도로 클로드 앱을 설치를 하셔야 합니다. 클로드에 들어가서 왼쪽 탭을 열고 프로필 옆에 보시면 다운로드 버튼이 있어요. 앱 및 확장 프로그램 받기라고 있죠? 이거를 클릭하면 데스크톱 용어로 다운로드 받아서 컴퓨터에 클로드를 설치하시면 됩니다. 로그인하시면 이렇게 클로드를 사용할 수가 있고 위에 클로드 챗 코워크 코드 이렇게 세 가지 모드를 선택해서 사용할 수가 있죠. 자, 다음으로 기본적인 세팅을 해야 하는데 프로필 눌러서 설정에 들어가시면 이렇게 일반 탭에 개인 맞춤 설정을 할 수가 있어요. 여기에 입력하는 프롬프트는 클로드 코워크뿐만 아니라 일반 채팅에도 적용되는 지침입니다. 밑에 기능 탭으로 들어가서 메모리 기능을 다 켜 주시고요. 만약에 나는 클로드를 처음 써 본다 하시는 분들은 밑에 다른 AI 제공 업체에서 메모리 가져오기라고 나와 있죠. 내가 원래 채피pt 재미나이만 썼는데 이번에 클로드도 한번 써 보려고 한다. 근데 얘는 지금 나에 대한 정보가 거의 없을 거 아니에요. 그래서 다른 AI가 가지고 있는 메모리 나에 대한 정보들을 클로드에 가져와서 집어넣을 수가 있습니다. 가져오기 시작 누르시면 여기 프롬프트가 나오는데 보시면 뭐 지금까지 우리가 나눈 모든 대화들을 바탕으로 나에 대한 정보를 정리해라 뭐 이런 내용이에요. 이거를 복사해서 내가 원래 쓰던 AI 뭐 최지 PT나 재미나이한테 붙여 넣으시면 이렇게 얘가 정리해서 작성을 해 주겠죠. 이거를 그대로 복사해서 여기다가 붙여 놓으면 이제이 정보들을 클로드가 기억을 해 주는 겁니다. 클로드 처음 쓰시는 분들은 참고해 주시면 좋을 것 같고요. 밑에 다른 설정들은 건드릴 것 없이 다 켜 놓으시면 돼요. 그리고 밑에 협업 탭이 있죠. 이거 원래 코워크 설정인데 번역이 이상하게 돼 버려서 협업이라고 나오는 건데 여기에 전역 지침이라고 있죠. 이거는 클로드 코워크 기능에만 적용되는 개인 맞춤 설정이에요. 저 같은 경우에는이 클로드 코워크가 내 컴퓨터 파일에 직접 손을 대는 AI 에이전트다 보니까 혹시나 실수나 오류가 발생하지 않도록 따로 프롬프트를 입력해 두고 있습니다. 보시면 뭐 실수로 파일을 삭제한다거나 어수선해지지 않게 깔끔하게 유지해 주도록 지침을 작성해 줬어요.이 프롬프트는 제가 더보이란이랑 고정 댓글 링크에 제 사이트 무료 자료판에다가 올려 놓을테니까 들어가서 그대로 복사해서 사용하시면 됩니다. 자, 근데 클로드가 내 컴퓨터에 있는 파일들을 마음대로 손을 댈 수 있으면 위험한 거 아니야? 뭔가 좀 찝찝한데 중요한 팔 건들면 어떡해? 이런 걱정이 드는 분들이 계실 거예요. 그래서 이런 경우에는 별도로 클로드라는 폴더를 만들어 놓고이 코워크로 작업을 할 파일들을 따로이 폴더 안에다가 정리를 해 두시면 됩니다. 보시면은 코워크가 내 컴퓨터 전체 파일에 마음대로 접근할 수 있는게 아니라 특정 폴더만 사용할 수 있게 선택을 할 수가 있고 사용자가 승인을 해야만 접근할 수가 있습니다. 네. 이렇게 하면 코워크 사용하기 전에 필요한 설정은 다 끝난 거예요. 크게 어려운 건 없죠. 자, 이제 코워크로 어떤 것들을 할 수 있는지 한번 살펴보겠습니다. 우선 첫 번째는 내 컴퓨터에 있는 로컬 파일들을 직접 편집하거나 정리 또는 생성할 수가 있습니다. 예를 들어서 지금이 폴더 보시면 이렇게 PDF, 이미지, 영수증, 워드 파일 등등 지저분하게 파일들이 막 널부러져 있는데요. 이거 다 정리할 생각하니까 막 벌써 머리가 아프기 시작하는데 클로드한테이 폴더 안에 있는 파일을 업무, 개인, 영수증, 이미지 PDF로 분류해죠. 파일명은 날짜 주제, 키워드로 통일해죠. 이렇게 프롬프트를 넣어 보겠습니다. 자, 그랬더니 이렇게 파일 정리를 해 줬는데요. 이렇게 제가 요청한테 카테고리대로 폴더를 만들어 줬고 파일들도 잘 구분을 해서 분류를 해 줬습니다. 보시면은 가족 관계 증명서 이런 거는 개인 폴더에 넣어 주고 기회관 이런 것들은 업무 폴더에 넣어 줬는데 무슨 파일을 어디에 넣어라 이렇게 일일이 지정해 주지 않아도 클로드가 알아서 잘 분류를 해줬죠. 파일 이름도 제가 요청한 양식에 맞게 다 통일를 해줬습니다. 이번에는 영수증 이미지를 가지고 날짜 금액 카테고리 금액 합계를 정리한 엑셀 파일로 만들어서 저장해 줘. 불분명한 항목은 노란색으로 표시해 줘. 이렇게 요청을 해 볼게요. 보시면 단기별로 실행 계획을 제시를 한 다음에 각각 이미지 파일을 읽으면서 정보를 추출하고 이렇게 엑셀 파일을 생성해서 제가 요청한 대로 추가 확인이 필요한 부분은 따로 표시를 해 줬습니다. 이거를 사람이 일일이 영수증 스캔 뜨고 엑셀에 입력하고 하면은 굉장히 귀찮고 오래 걸리는데 AI 에이전트가 알아서 해 주니까 너무 편하죠. 이번에는 굉장히 방대한 분량의이 AI 강의 교환 PDF 파일을 공부하기 편하게 챕터별로 분류해 볼 거예요. AI 마스터 강의 교환 PDF를 각 챕터별로 별도의 파일로 나누고 한 눈에 파악할 수 있게 파일 이름으로 주제를 표시해 줘. 이렇게 요청을 했더니 클로드가 직접 PDF 파일을 쭉 읽으면서이 부분에서 끊으면 되겠다. 이렇게 자연스럽게 섹션을 구분해서 개별 파일을 생성해 가지고 폴더에 저장을 해 줬습니다. 이런 것들을 그냥 클로드 채에서 하려고 하면 채팅마다 첨부할 수 있는 파일 개수나 용량 제한을 걸려서 불가능한데 클로드 코워크는 직접 내 컴퓨터에 있는 파일들을 가지고 작업을 해 주다 보니까 훨씬 더 다양하고 직접적인 도움을 받을 수 있는 거예요. 자, 그리고이 코워크는 내 컴퓨터 안에서 작업을 할 수 있는 것뿐만 아니라 다른 서비스들과 연동해서 외부로 결과물을 내보낼 수도 있어요. 클로드 코워크 두 번째 꿀팁은 커넥터입니다. 다시 설정에 들어가시면 여기 커넥터 탭이 있는데요. 보시면 기터브, Gl일, 구글 캘린더, 드라이브 이런 것들이 있죠. 위에 커넥터 둘러보기 누르시면 이렇게 엄청나게 다양한 서비스들과 다 연동이 가능한 거고요. 여기서 내가 사용하는 도구랑 연동을 해 주시면 됩니다. 그럼 예를 들어서 GL이랑 연동을 한 다음에 지난 한 달 동안 내가 보낸 이메일들을 읽고 내가 주로 사용하는 이메일 문체를 분석한 다음 앞으로 나한테 협업 제한 이메일이 오면 바로 답변할 수 있도록 템플리터 한 다음 노션에다가 업무 관리 대시보드에 추가해 줘. 이렇게 요청을 해 볼게요. 보시면은 실제로 제가 이메일 작성할 때 쓰는 말투를 잘 캐치를 해 줘 가지고 좀 놀랐는데 이렇게 변수 부분만 입력하면 바로 보낼 수 있게끔 템플릿으로 만든 다음에 노션에다가 추가해 달라고 한 요청도 잘 수행해 줬습니다. 또는 뭐 구글 드라이브 보시면 이렇게 각종 자료랑 보고서 파일이 수십 개씩 막 어지럽게 쌓여 있는데요. 여기서 필요한 내용을 찾으려면 또 귀찮고 오래 걸리니까 클로드 코워크로 이번 달 회의 보고서 파일 열어서 구글 캘린더에다가 일정 픽스해 줘. 이렇게 한 마디만 했는데 지금 보시는 것처럼 드라이브에서 필요한 파일만 딱 찾아서 문서 내용 확인하고 캘린더의 일정 픽스까지 아주 잘 수행해 주는 걸 보실 수가 있습니다. 이렇게 클로드 코워크를 활용해서 다양한 작업을 하는 거를 보여 드렸는데 여기서 끝이 아니라이 코워크가 직장인 분들을 위한 최고의 툴인 이유가 있어요.이 클로드는 반복적인 작업을 손쉽게 자동할 수 있는 스킬이라는 기능이 있습니다. 예를 들어서 회사에서 매주 팀회의를 하는데 회의 내용을 녹음을 한 다음에 이거를 텍스트로 변환한 파일을 클로드한테 첨부를 해 주는 거예요. 그리고 얘한테이 회의록을 읽고 핵심 주제, 강조 사항, 주요 일정을 포함해서 한 페이지 깔끔한 보고서를 PDF 파일로 만들어 달라고 요청을 하겠습니다. 자, 보시면 이렇게 내용을 잘 정리해서 만들어 줬죠? 그리고 아까 제가 커넥터 연동할 때 보여 드렸던 것처럼이 보고서에 있는 주요 일정을 내 구글 캘린더에 등록해 줘. 이렇게 일정 픽스까지 해 달라고 했습니다. 캐린도 보시면 잘 등록을 해줬는데요. 지금 이렇게 회의하고 난 다음에 회의 결과 보고서 작성하고 그거를 통해서 일정까지 등록을 하는 거는 매주하는 작업이잖아요. 그래서 이거를 클로드한테 지금 이렇게 회의록을 바탕으로 보고서를 작성하고 캘린더 일정한 1년의 워크플로를 바탕으로 내가 회의롱만 첨부하면 바로 실행할 수 있게 스킬로 만들어 줘라고 요청을 하면 클로드 코워크가 몇 가지 질문과 권난을 요청한 다음에 테스트까지 해서이 워크플로에 대한 스킬 파일을 만들어 주게 됩니다. 쉽게 말해서이 스킬이라는 거는 언제든지 불러오기만 하면 저장된 워크플로우를 수행해 주는 일종의 단축기 같은 파일인 거예요. 그래서 생성된 스킬을 설치를 하면 다음에 다시 회의록을 첨부하고 스킬을 불러와서 작업해 줘라고만 프롬프트를 넣으면이 스킬에 저장된 작업을 그대로 수행을 해 주는 겁니다. 이렇게 내가 반복적으로 하는 작업들을 전부 다이 스킬로 저장을 한 다음에 나중에는 이것만 불러와서 AI가 바로바로 알아서 일을 해 주는 거예요. 너무 편하죠? 이렇게 생성한 스킬은 왼쪽에 사용자 지정 탭에 들어가시면 관리를 할 수가 있고요. 기본적으로 설치되어 있는 여러 가지 스킬들이 있는데 여기 보시면은 스킬 크리에이터 이거는 스킬을 만들어 주는 스킬이에요. 이게 있기 때문에 아까 제가 원하는 스킬을 만들 수가 있던 겁니다. 여기 위에 플러스 버튼 누르시면 본인이 직접 스킬 프롬프트를 작성해서 만들 수도 있는데 처음에는 조금 어려울 수 있으니까 클로드랑 같이 만들어 보시고 이렇게 워크플로우를 설계하는 거에 조금 익숙해지시면 직접 한번 만들어 보시는 것도 추천드려요. 그리고 한 가지 유의하실 거는 여기이 스킬 파일들은 클로드 서버에 업로드되는게 아니라 내 컴퓨터에 저장이 되기 때문에 다른 컴퓨터로 작업을 할 때는 여기에 있는이 스킬을 불러올 수가 없습니다. 그래서 그렇게 하려면이 스킬 파일을 복사해서 전송한 다음에 다른 컴퓨터에다가 저장을 해야만 불러올 수가 있는 거예요. 자, 마지막으로 유용한 기능 한 가지 더 소개해 드리자면 바로 예약 작업 기능입니다. 최근에 코워크에 추가된 기능인데요. 지정된 시간에 사용자가 설정한 작업을 자동으로 수행해 주는 기능입니다. 왼쪽에 보시면 예정됨이라고 있죠. 여기다가 세 작업 누른 다음에 이름, 설명, 프롬프트, 그리고 언제이 작업을 수행해 줄지 빈도를 설정할 수가 있고 모델이랑 폴더까지 지정을 할 수가 있습니다. 예를 들어서 1일 브리핑 작업을 생성하고 프롬프트로 구글 캘린더에 있는 오늘 하루 일정과 GL에서 지난 24시간 동안 내가 읽지 않은 업무 이메일을 요약해 줘. 빈도는 매일 아침 8시로 설정하고 저장을 하면 실제로 매일 아침마다 이런 식으로 1일 브리핑을 해 주는 겁니다. 아니면 아까 스킬로 만들었던 주관 회의 보고서 이거를 매주 알아서 실행을 해 주도록 예약 작업으로 등록할 수가 있어요. 클로드한테이 스킬을 매주 월요일 오후 3시마다 실행되도록 작업 예약 걸어 줘라고 요청을 하면 이런 식으로 사용자가 직접 작업을 설정하지 않아도 알아서 만들어 주는 겁니다. 이렇게 클로드 코워크는 내 컴퓨터 로컬 파일 연동, 커넥터 기능, 스킬, 작업 예약까지이 기능들이 따로따로 분리되어 있는게 아니라 유기적으로 연동이 되어 있기 때문에 AI를 가지고 훨씬 더 자유롭고 다양한 작업을 할 수 있다는게 가장 큰 장점입니다. 진짜로 AI를 내 비서나 직원처럼 부려먹을 수가 있는 거예요. 다만 유의하실 점은이 클로드가 최체피티나 재미나이 같은 다른 AI들에 비해서 토큰을 많이 잡아 먹습니다.이 요금제 가격 자체는 비슷한데 같은 돈으로 사용할 수 있는 한도가 더 낮아요. 그래서 클로드 쓰시는 분들이 제일 많이 하시는 말씀이 아 진짜 너무 좋은데 좀 비싸다. 금방 사용 한에 걸려 버린다. 근데 대체제가 없어서 울며 겨자 먹기로 그냥 쓰고 있다. 이렇게 말씀하시거든요. 근데 제가 클로드 토큰을 아낄 수 있는 꿀팁들이 꽤 있는데 그건 이제 영상이 또 너무 길어지니까 좋아요 많이 달아 주시고 영상 반응이 괜찮으면 제가 다음에 따로 영상으로 정리를 해 보겠습니다. 네. 그럼 오늘 영상도 봐 주셔서 감사드리고 저는 다음 비디오에서 뵙겠습니다. 모두 좋은 하루 보내세요. 안녕. [음악] oho [음악]",
+      "analysis_date": "2026-04-17T23:50:50+00:00",
+      "channel_name": "알린 ALINN",
+      "topic_tags": [
+        "agents",
+        "automation"
+      ],
+      "keywords": [
+        "agents",
+        "automation",
+        "Claude",
+        "이걸",
+        "모르면",
+        "30도",
+        "활용하지"
+      ],
+      "tools": [
+        "Claude"
+      ],
+      "flow": [
+        "처음 15초 안에 문제를 선명하게 정의하고 왜 지금 봐야 하는지 못 박는다.",
+        "중간 구간에서 툴, 사례, 비교 포인트를 빠르게 제시해 정보 밀도를 높인다.",
+        "마지막에는 시청자가 바로 따라할 수 있는 다음 액션과 적용 예시로 닫는다."
+      ],
+      "claims": [
+        "단순 소개보다 실제 사용 장면을 바로 보여주는 구조가 반응을 만든다.",
+        "큰 담론보다 작은 병목 하나를 해결해주는 포장 방식이 클릭으로 이어지기 쉽다."
+      ],
+      "transcript_highlights": [
+        "그중에서도 오늘은이 클로드 코워크를 다뤄 볼 건데요. 많은 분들이 이런게 있는지도 잘 모르시지만 이미 해외에서는 굉장히 많이 활용되고 있고 단순 채팅보다 훨씬 더 많은 것들을 할 수 있는 생산성 끝판왕 도구입니다. AI 에이전트 하면 최근에 굉장히 화제가 되었던 오픈 클로우라는 툴이 있는데 물론 이것도 굉장히 좋긴 하지만 일단은 이걸 쓰려면 80만 원씩 하는 맥민이도 사야 되고요.",
+        "그래서 생성된 스킬을 설치를 하면 다음에 다시 회의록을 첨부하고 스킬을 불러와서 작업해 줘라고만 프롬프트를 넣으면이 스킬에 저장된 작업을 그대로 수행을 해 주는 겁니다. 이렇게 내가 반복적으로 하는 작업들을 전부 다이 스킬로 저장을 한 다음에 나중에는 이것만 불러와서 AI가 바로바로 알아서 일을 해 주는 거예요.",
+        "캐린도 보시면 잘 등록을 해줬는데요. 지금 이렇게 회의하고 난 다음에 회의 결과 보고서 작성하고 그거를 통해서 일정까지 등록을 하는 거는 매주하는 작업이잖아요. 그래서 이거를 클로드한테 지금 이렇게 회의록을 바탕으로 보고서를 작성하고 캘린더 일정한 1년의 워크플로를 바탕으로 내가 회의롱만 첨부하면 바로 실행할 수 있게 스킬로 만들어 줘라고 요청을 하면 클로드 코워크가 몇 가지 질문과 권난을 요청한 다음에 테스트까지 해서이 워크플로에 대한 스킬 파일을 만들어 주게 됩니다."
+      ],
+      "top_comments": [
+        {
+          "video_id": "iIFVJwzZiDc",
+          "comment_id": "UgxOCgtHDS0DUg2N2Md4AaABAg",
+          "author": "@ailifeinnovation",
+          "text": "*클로드 Cowork 전용 지침* 👉 https://www.alinn.co.kr/channels/L2NoYW5uZWxzLzE4Mjc0/A00003/posts/721126\n*수강생 만족도 99% AI 마스터 강의* 👉 https://www.alinn.co.kr\n*무료 자료가 넘쳐나는 게시판* 👉 https://www.alinn.co.kr/channels/L2NoYW5uZWxzLzE4Mjc0/A00003/posts?page=1\n*안 들어오면 손해인 ALINN 구독자 전용 오픈카톡방* 👉 https://open.kakao.com/o/ghNkhHhi\n*재능없이 유튜브 수익화 성공 비결 공개* 👉 https://www.alinn.co.kr/channels/L2NoYW5uZWxzLzE4Mjc0/C00007/classes/187710/information\n\nALINN 인스타그램 : instagram.com/ailifeinnovation\n비즈니스 및 협업 문의 : ailifeinnovation@gmail.com",
+          "like_count": 2,
+          "reply_count": 0,
+          "published_at": "2026-04-17T03:09:38Z"
+        },
+        {
+          "video_id": "iIFVJwzZiDc",
+          "comment_id": "UgyL_FhAZXpRj5eeJlN4AaABAg",
+          "author": "@비비디바비디-i9z",
+          "text": "자막 검수좀 하세요\nai로 딸깍거려놓고 쳐다도 안 봤네",
+          "like_count": 1,
+          "reply_count": 0,
+          "published_at": "2026-04-17T22:13:10Z"
+        },
+        {
+          "video_id": "iIFVJwzZiDc",
+          "comment_id": "UgzMbXRJO34myWL68114AaABAg",
+          "author": "@sunghwanpark2408",
+          "text": "코워크는 Vm사용 때문에 다른프로그램 여러개 사용시 컴터에 미세한 성능하락이 생김.. 그것만 아니면 코워크는 좋은듯..",
+          "like_count": 0,
+          "reply_count": 0,
+          "published_at": "2026-04-17T22:45:05Z"
+        },
+        {
+          "video_id": "iIFVJwzZiDc",
+          "comment_id": "UgxaQEfT34x0UfmpWVJ4AaABAg",
+          "author": "@돈키호대",
+          "text": "앞으로 유료 LLM 시장에서는 후발 모델일수록 성능이 더 강력해질 가능성이 높고, 궁극적인 경쟁력은 토큰 비용을 얼마나 낮출 수 있는지에 의해 결정될 것으로 보입니다.",
+          "like_count": 0,
+          "reply_count": 0,
+          "published_at": "2026-04-17T21:38:48Z"
+        },
+        {
+          "video_id": "iIFVJwzZiDc",
+          "comment_id": "Ugzg29MgeBiDKKlVnrx4AaABAg",
+          "author": "@HOPe01234",
+          "text": "\"하지만 너무 비싼\"",
+          "like_count": 0,
+          "reply_count": 0,
+          "published_at": "2026-04-17T13:22:34Z"
+        }
+      ]
+    },
+    {
+      "video_id": "LXSwNwJXm_c",
+      "channel_key": "uc-syugflzxpgdr7wszgybhw",
+      "title": "클로드 오퍼스 4.7 출시.. 이거 진짜 미친 모델 나와버렸네요ㄷㄷ (벤치마크 압살)",
+      "description": "Claude Opus 4.7이 드디어 공개됐습니다. 벤치마크 거의 전 항목에서 4.6을 압살했고, 특히 비주얼 성능은 한 세대 만에 20% 가까이 뛰어올랐습니다. 코딩 벤치에서는 GPT와 Gemini까지 다시 역전했고요. 지난 한 달간 \"4.6이 갑자기 멍청해졌다\"는 리뷰가 사실로 확인된 지금, 이 영상에서 4.7의 실제 성능을 벤치마크부터 실전 테스트까지 전부 검증했습니다.\n\n🔑 핵심 인사이트 5가지\n\n1. Opus 4.7은 4.6 대비 거의 모든 벤치에서 점수가 상승했고, 비주얼 리즈닝은 +13%p(툴 사용 포함 시 +30%), SWE Bench Pro(코딩)는 53.4 → 64.3%로 +10%p 점프했습니다.\n\n2. Claude가 코딩에서 GPT 5와 Gemini에 밀렸던 기간이 있었는데, 4.7의 +10%p 점프로 다시 코딩 왕좌를 탈환했습니다.\n\n3. 지난 한 달간 \"4.6이 갑자기 멍청해졌다\"는 유저 리뷰가 공식적으로 어느 정도 사실이었음이 확인됐고, 4.7은 그 불만을 정확히 조준해서 고친 업데이트입니다.\n\n4. Claude Code에 xhigh 이펙트 레벨과 /ultrareview 슬래시 커맨드가 신규 추가됐습니다. /ultrareview는 5~20달러 비용이지만 코드베이스 버그를 찾아주며, 미공개 Mythos 모델과 연결됐을 가능성이 높습니다.\n\n5. 새 토크나이저로 토큰 소비량이 증가했지만, 로직 자체가 똑똑해져서 체감 결과물 품질은 확실히 더 좋습니다. 주간 사용량 한도도 리셋됐습니다.\n\n📝 상세 가이드 요약\n\nPart 1: 벤치마크 성능 변화\nOpus 4.6 대비 4.7의 SWE Bench Pro는 53.4 → 64.3%, Visual Reasoning은 69.1 → 82.1%로 올랐습니다. Document Reasoning, Long Context, Knowledge Work, Financial Analysis 전 영역에서 의미 있는 점프가 있었고, 1M 토큰 컨텍스트와 API 가격은 동일하게 유지됩니다. 반면 Agentic Search와 Cyber Security 벤치는 하락했는데, 이는 앤트로픽이 보안상 의도적으로 제한한 것으로 해석됩니다.\n\nPart 2: Claude Code 신규 기능\nxhigh 레벨은 high와 Max 사이에 추가된 새 사고 모드로, 복잡한 코드베이스 분석이나 긴 문서 해석에 적합합니다. /ultrareview는 5~10분간 코드베이스를 심층 분석해 버그를 찾는 명령어이며, 어카운트당 3회 무료, 이후 회당 5~20달러가 차감됩니다. 최근 앤트로픽의 \"Project Glasswing\"과 연결지어 보면, Mythos 모델이 /ultrareview 실행 시 내부적으로 사용될 가능성도 있습니다.\n\nPart 3: 실전 테스트 (주가 분석 + SaaS 모델링)\n엔비디아 주가 차트를 이미지로 주고 분석을 요청했을 때, 4.7은 4.6보다 훨씬 깊이 있고 긴 분석을 제공했습니다. SaaS 비즈니스 시뮬레이션에서는 4.6이 인터랙티브 대시보드를 만든 반면, 4.7은 정적이지만 훨씬 고급스럽고 색상 초이스가 깔끔한 대시보드를 생성했습니다. 개인 성향 차이는 있지만, 전반적으로 4.7이 벤치 성능을 체감 수준에서 증명했습니다.\n\nPart 4: 지금 갈아타야 할까\n지금 4.6으로 작업 중인 분들도 4.7로 갈아타는 걸 추천합니다. 특히 Claude Code를 처음 쓰시거나, 비주얼 해석이 중요한 작업(이미지 분석, UI 디자인 생성)을 하시는 분들은 확실한 성능 차이를 느끼실 겁니다. 곧 GPT 스퍼드(또는 5.5/6) 루머가 있으니, 출시되면 비교 영상으로 돌아오겠습니다.\n\n🔗 관련 링크\n🌐 Claude Opus 4.7 공식 블로그: https://www.anthropic.com/news/claude-opus-4-7\n🤖 Claude 웹: https://claude.ai\n\n⏰ 타임라인\n00:00 Opus 4.7 드롭 — 비주얼 성능 20% 점프 + 4.6 너프 이슈\n00:48 오늘 다룰 3가지 (벤치 / 실전 기능 / 체감)\n01:17 공식 블로그 벤치마크 개요 + Mythos 언급\n01:43 SWE Bench Pro — Claude가 GPT와 Gemini 역전\n03:03 비주얼 리즈닝 +13%p — 세대 단위 점프\n03:46 Document / Long Context / Knowledge Work 상승\n04:22 Agentic Search / Cyber Security 하락 — 보안 너프 해석\n05:19 Claude Code xhigh 이펙트 레벨 신규\n06:04 /ultrareview 슬래시 커맨드 — Mythos 연결 가능성\n07:27 새 토크나이저 + 주간 사용량 리셋\n08:17 실전 테스트 1 — 엔비디아 주가 차트 분석 비교\n10:09 실전 테스트 2 — SaaS 비즈니스 대시보드 모델링\n12:49 결론 — 지금 4.7로 갈아타야 하는 이유\n13:30 아웃트로\n\n#Claude #claudeopus #AI코딩 #앤트로픽 #클로드코드",
+      "published_at": "2026-04-17T05:25:51Z",
+      "duration_seconds": 829,
+      "view_count": 1858,
+      "like_count": 47,
+      "comment_count": 7,
+      "engagement_rate": 0.02906350914962325,
+      "thumbnail_url": "https://i.ytimg.com/vi/LXSwNwJXm_c/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=LXSwNwJXm_c",
+      "format": "비교",
+      "hook_type": "긴급성",
+      "title_pattern": "강한 주장 + 결과 약속",
+      "one_line_summary": "이 영상은 agents 이슈를 비교 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "why_it_works": "긴급성 훅으로 관심을 끌고, 비교 형식으로 내용을 빠르게 정리해 시청자가 '바로 써먹을 수 있다'고 느끼게 만듭니다.",
+      "recommendation": "훅 구조: 도입 15초 안에 '긴급성' 관점으로 문제를 못 박고, 왜 지금 봐야 하는지 먼저 선언합니다. • 복제할 포장 요소: 비교 형식을 유지하되 agents를 실제 사용 장면 1개와 결과 변화 2개로 더 좁혀 설명합니다. • 비어 있는 콘텐츠 영역: 'agents가 내 작업 흐름에서 어디에 꽂히는가'를 사례 중심으로 보여주는 후속 영상이 비어 있습니다. • 추천 제목: agents 이슈를 내 채널 관점으로 다시 정리해보자 • 썸네일 카피 힌트: agents 지금 봐야 할 3가지",
+      "transcript_status": "available",
+      "transcript_source": "apify",
+      "transcript_language": "ko",
+      "transcript_text": "네. 클러드 오퍼스 4.7이 출시가 되었습니다. 진짜 미친 모델이 맞는데요. 벤치마크 같은 경우는 거의 전 항목에서 기존에 오퍼스 4.6을 압살했고요. 특히이 비주얼 성능에서 불과 한 세대 만에 거의 20% 가까이 뛰어넘어 버렸습니다. 이게 툴를 사용하는 것까지 합치면은 30% 더 업그레이드가 된 건데요. 제 기존 영상을 보시면 아시겠지만 클러드가이 비주얼을 이해하는게 얼마나 업그레이드 되었는지 확실히 알 겁니다. 근데이 새로운 모델이 나오기 전에 불과 한 달 동안 오퍼스가 갑자기 멍청해졌다라는 여러 가지 리뷰들이 있었습니다. 지금 보시는 것처럼 매일매일 모델이 나빠지고 있다. 나 원래 맥스플랜이었는데 프로 모델로 바꿨다. 요런 리뷰가 좀 있었죠. 근데 그게 어느 정도 사실이었다고 합니다. 그런 불편 가운데 출시된 이번 오퍼스 4.7 확실히 흥미로운 모델이거든요. 오늘 여러분한테 제대로 보여 드리도록 하겠습니다. 오늘 저희가 볼 건 크게 세 가지입니다. 첫 번째 벤치마크로본 오퍼스 4.7의 실제 성능이 변화가 있는지 두 번째 오퍼스 4.6대는 없었던 실전 기능들을 같이 살펴볼 거고요. 마지막으로 세 번째는 실제로 써 보면서 그 체감을 느껴 볼 겁니다. 그리고 지금 4.6으로 작업하고 계신 분들도 있을 텐데 굳이 바꿔야 될지 아니면 새로운 오퍼스 4.7을 쓰는게 좋은 건지 이렇게 순서대로 차근차근 정리해 드리도록 하겠습니다. 자, 그러면 오늘의 성공 지식백과 바로 시작해 보도록 하겠습니다. 클러드 오프스 공식 블로그에 왔는데요. 우선 벤치마크를 보도록 하겠습니다. 한마디로 정리하자면 4.6에서 거의 모든 항목이 다 올랐다고 보시면 되고요. 특이 사항이 가장 오른쪽에 기존에 제가 말씀드렸던 미토스가 있습니다.이 이 해당 모델은 진짜 강력한 모델인데 일반인한테는 공개가 안 됐다고 말씀을 드렸죠. 아, 점수가 진짜 좋은게 꼭 써 보고 싶은데 우선 저희한테 공개된 오퍼스 4.7도 점수가 꽤나 좋습니다. 첫 번째이 에이전틱 코딩이라고 하는 소프트웨어 엔지니어링 벤치 프로크인데 쉽게 말하자면이 모델이 실제 코딩을 얼마나 잘하느냐 공식적으로 대표하는 대표 벤치마크입니다. 오퍼스 4.6 같은 경우는 53.4%고요. 4.7이 64.3%입니다. 3%입니다. 자, 근데 공교롭게도 GPT와 재미나이가 같이 나왔거든요. 즉 기존에 어, 클러드가 코딩을 제일 잘해라고 하셨던 분들은 다 틀린 겁니다.이 점수만 봐도 GPT랑 재미나이가 점수가 더 높았거든요. 코딩 점수에서. 근데 물론 이번에 새로 오퍼스 4.7이 등장함에 따라서이 10% 가까이 점수가 뛰어넘었고요. 이게 최근 모델의 업데이트를 아시는 분들은 아시겠지만이 정도 점프는 세대간에 굉장히 큰 폭이거든요. 그래서 저 역시도이 클러드 코드를 제가 지금 만들고 있는 제 블로그 웹사이트 코딩을 조금 시켜 봤는데 상당히 결과가 좋았습니다. 지금 보이는게 제 블로그인데요. 이제 간단하게 새로운 소식이 있을 때라던가 아니면 제가 유튜브 영상 만들었는데 뭐 프롬프트 궁금하신 분들 있잖아요. 그럼 프롬프트를 쓸 수 있게 제 여기다가 다 올려 놓고 있습니다. 궁금하신 분들은 제가 고정 댓글에 달아 놓을테니까 한번 보시면 되고요. 지금 이거 모두 AI가 만들어 준 겁니다. 그만큼이 오퍼스 4.7이 진짜 성능이 미채어진 거거든요. 그래서 이런 에이전틱 워크 코딩도 되게 놀라웠지만 제가 지금 소개시켜 드리는 두 번째는 훨씬 놀라울 겁니다. 여기 나와 있는 리뷰에도 보시다시피 시각적 정확도 벤치마크가 엄청난 거의 두 배 가까이 업그레이드됐다라고 하는데이 벤치마크를 돌아가서이 비주얼 리즈닝을 보면 오퍼스 4.6이 69.1%였습니다. 그런데 4.7이 82.1%로 1%로 무려 13%가 올랐고요. 쉽게 말하면 무슨 말이냐면 4.6이 영상을 대충 눈치 채고 뭐 요런 내용인가 보다라고 짐장만 한다면 4.7은 영상의 시각적 문맥을 제대로 읽어낸다라는 겁니다. 그래서 아마 많은 분들이 요즘 유튜브에 요런 영상 보셨죠? 이런 디자인으로 설명을 하면서 영상 만드시는 분들이 많은데 요것도 여러분이 이제 클로드 코드 오퍼스 4.7을 활용한다면 충분히 만들 수가 있습니다. 되게 깔끔하죠? 애니메이션도 요것도 제가 나중에 영상으로 올려 드릴 예정입니다. 이런 비전 이외에도 문서 근거 다큐먼트 리즈닝이라고 하죠. 문서를 읽고 내용을 판단하는 능력이라던가 컨텍스트가 길어도 중간에서 길을 잃지 않고 계속해서 작업을 이어나가는 능력, 뭐 지능이야 말할 것도 없고요.이 여러 가지 항목들이 전부 의미 있는 폭으로 증가한 걸 확인할 수가 있습니다. 기본적으로 출력 자체는 4.6과 동일하게 100만 토큰이고요. API를 불러오는 가격 역시 동일합니다. 그러니까 능력은 조금 더 업그레이드가 된 거고 이제 용량으로 따지면 여러분이 책 열 건 분량을 한 번에 때려 박아도 중간에 까먹지 않고 작업을 끝내는 모델이라는 뜻입니다. 자, 근데 재밌는게 여러 가지 벤치마크가 점수가 올랐는데 한두 개가 내려갔습니다. 이제 뭐가 내려갔냐면이 에이전틱 서치라고 하는 인터넷을 자유롭게 왔다 갔다 하는 능력도 떨어졌고요. 그리고이 밑에 보시면 사이버 세큐리티라고 해 가지고 보안 점수도 내려갔습니다. 근데 우측의 미토스는 오히려 증가했죠. 그래서 많은 사람들이이 엔트로픽이 보완상 일부로 제한을 걸었다라고 해석을 합니다. 미토스가 아무래도 그 보완적인 측면에서 위험 있는 모델이다 보니까 퍼블릭한테 공개할 수 있는 모델인 오퍼스 4.7을 공개는 하는데 아 요런 에이전틱 서치나 보안 관련해서는 점수를 떨어뜨려서 공개하자 이렇게 된 거죠. 뭐 그럼에도 불구하고 전체적으로 4.6에서 다양하게 점수들이 증가를 많이 했고요. 여러분이 비주얼적인 측면이나 코딩, 논리적인 측면에서이 모델을 쓰자면 어 확연하게 차이를 느끼실 거라고 저는 생각합니다. 그래서 저도 제가 몇 가지를 준비를 해 봤는데요. 바로 클러드를 가서 같이 살펴보도록 하겠습니다. 자, 우선 클러드 코드를 먼저 올 건데요. 아마 기존에 클러드 코드를 사용하신 분들은이 X하이라는 버전을 처음 보실 겁니다.이 레벨이 오퍼스 4.7로 오면서 새로 생긴 거거든요. 기존에 여러분이 모델 명령어로 입력을 하시면 오퍼스나 소넷이나 하이쿠를 고를 수가 있었습니다. 그리고 오퍼스 같은 경우는 기존의 레벨이 왼쪽으로 하면은 로우, 미디움, 하이. 그다음에 바로 X였습니다. 근데 중간에 지금 하나가 추가됐죠. X하이라고. 그래서 하이보다는 훨씬 더 생각을 많이 하지만 맥스보다는 상대적으로 생각을 덜하는 그런 레벨이이 오퍼스에 추가가 된 겁니다. 쉽게 말하면 모델이 어려운 작업을 할 때 생각할 시간을 더 길게 가져가고 복잡한 코드베이스 읽거나 서를 해석하거나 여러 단계 출론이 필요할 때 요거를 쓰시면 되겠습니다. 자, 두 번째 지금 여기도 보이시겠지만 울트라 리뷰라는 명령어를 제가 썼습니다. 기존에 생겼던 울트라 플랜 아니고요. 울트라 리뷰라는 건데이 설명을 보면은 5분에서 10분 정도가 걸리고 비용은 5불에서 20불 정도가 비용이 소모가 된다라고 합니다. 요게 API 가격일지 아니면 이제 플랜에서 그 정도 크레딧이 차감한다는 건지 제가 아직 써 보지 못했는데 이제 듣기로는 어카운트당 세 번까지 공짜로 돌릴 수가 있고 그 이후부터이 가격이 차지가 될 거다라고 하거든요. 그래서 이게 뭐 하는 거냐면 여기 지금 잘려 있는데 요걸 제가 확대해서 보여 드리면 여러분의 코드베이스에서 버그를 찾아 주는 겁니다. 아 뭔가 좀 어려서 많이 들어보지 않았나요? 최근에 클러드 코드가 했던게이 프로젝트 글래스 윙이라고 해서 본인들이 새로 개발한 미토스 모델을이 사이버 보안을 예방하기 위해서 주요 회사들한테만 주고 보안을 강화시키는 프로젝트입니다. 그러니까 AI 코딩이 발전함에 따라서 당연히이 보안에 대한 중요성이 올라오고 또 만드는 입장에서는 이거를 방비를 해야 되는게 당연합니다. 그래서 그런 거를 일반 사용자도 체험해 볼 수 있게이 울트라 리뷰를 넣어 준게 아닌가? 그래서 울트라 리뷰를 쓸 때 동안만은 클러드 코드가 오퍼스 4.7이 아니라이 미토스 모델을 사용할 수 있는 거 아닌가라는 의심이 들기는 합니다. 그래서 기본적으로 한번 돌릴 때마다 5불에서 20불이기 때문에 어 저도 제가 꼭 필요한 코드 리뷰를 해서 그 분석을 조금 공유를 해 드릴 예정이고요.이 미토스 모델도 당연히 기다려지긴 사실입니다. 자, 그리고 오퍼스 4.6이 4.7로 업그레이드가 되면서이 새로운 개선된 업데이트 토크나이저를 사용한다라고 합니다. 그래서 결과적으로는 토큰 양이 더 많아진다는 거고 그럼 우리가 상대적으로 적은 결과물을 받는 거 아니냐라고 했는데 클러드에서 하지만 그럼에도이 로직 자체는 똑똑해졌기 때문에 훨씬 더 결과물이 좋을 거라고 합니다. 그리고 기존에 토큰 리밋이 조금 이상했다. 그 불평을 잠재우기 위해서이 클러드 사용량을 리셋을 해 줬거든요. 그래서 아마 지금까지 여러분이 사용량을 조금 찾다면 들어가 보시면 다시 리셋된 걸 확인할 수가 있습니다. 저 역시도 클로드를 들어가 보니까이 주간 한도가 전부 다 리셋이 됐거든요. 아주 땡큐입니다. 아마 이번 주 내지는 다음 주에 GPT 업데이트가 있을 것 같습니다. GPT 스쿼드가 나온다고 하는 루머가 있는데 뭐 그때까지는 잘 사용하다가 GPT 스쿼드 혹은 GPT 5.5 혹은 6이 좋으면 자 그것도 비교해서 말씀드리도록 하겠습니다. 자 이제 실제로 체감을 해 봐야겠죠. 오퍼스 4.7을 이렇게 여러분이 두 가지로 쓸 수 있습니다. 여기 나와 있는 어댑티브 think킹 모드를 해제하고 사용할 수가 있고요. 혹은 이거를 클릭해서 더 생각을 깊게 하게 할 수 있습니다. 내가 기존에 오퍼스 4.6이 조금 더 내 마음에 든다 하시는 분들은 더 많은 모델에서 오퍼스 4.6 선택하시면 여러분이이 확장 사고 모드 혹은 확장 사고 모드 없이 자유롭게 사용할 수가 있는데 두 가지를 비교를 해 보려고 해요. 자, 첫 번째는 특정 주식의 주가 차트를 주고 이게 뭐 딱히 주가 차트라고 말을 안 하고이 그림을 봤을 때 네가 알 수 있는 걸 말해 주고 내가 어떻게 해야 돈을 벌 수 있는지 알려 달라고 하겠습니다. 요거를 우선 오퍼스 4.7한테 물어볼 거고요. 똑같은 질문을 오퍼스 4.6한테도 물어보도록 하겠습니다. 자, 우선 오퍼스 4.7은 분석을 했고 재정 조언을 회피하며 사실만 제시했다라고 하는데 한번 쭉 보겠습니다. 지금까지 엔비디아 주식의이 추세도 말해 줬고요. 어떻게 돈을 벌 수 있을까 했더니 여러 가지를 또 같이 봐야 된다. 이렇게 얘기를 하더라고요. 그래서 주직 분석해 줘라고 다시 한번 프롬프트를 입력을 했고요. 오퍼스 4.6도 답이 비슷합니다. 이제 분석은 했는데이 투자 조언을 신중하기 때문에 요것도 팩트만 얘기를 했다라고 했는데 조금 더 짧아요. 아까 오퍼스 4.7 같은 경우는 훨씬 더 좀 길었거든요. 내용도 많고. 그래서 그 뒤에 이제 주식 분석까지 조금 같이 봐야 될 거 같은데. 자, 지금 여러 가지 소스들을 참고를 하고 있죠. 지금 그렇게 나오는 재무 데이터입니다. 요건 오퍼스 4.7이고요. 최근 실적은 성장 둔화의 신호가 전혀 없다. 앞으로도 상승권이다. 요런 말이겠죠. 역사적으로 싼 구간. 그래서 이익 성장이 빠른데 밸루에이션이 내려와서 지금 사면은 어쨌든 싸게 산다라고 생각을 할 수가 있고 이제 뭐 성장 동력이 뭐였는지 리스크가 뭐였는지 이런 거를 쭉 제가 보고 직접 소스도 갈 수가 있고요. 어 벤치마크 성능에 맞게 대단히 잘 정리를 해 준 것 같습니다. 그리고 요건 4.6의 결과인데요. 어 뭔가 조금 짧죠. 아, 물론 이게 옛날이었으면 요것도 되게 잘 분석했을 거라고 생각을 했을 텐데 이게 4.7의 결과를 보고 오니까 아무래도 요게 좀 단순하고 짧다라고 느껴지는 건 있습니다. 여러분이 대략적으로 비교만 해도 다른게 보이죠? 어, 요것도 4.7이 확실히 벤치마크를 잘 반영하고 있다라고 생각이 들고요. 그리고 나서 가상 시나리오를 주고 한번 어떻게 분석할 수 있을지 보겠습니다.이 가상 시나리오는 사스 비즈니스를 운영을 할 때 고객들이 얼마나 오느냐 그리고 고객들이 왔을 때 그 비율을 어떻게 나누느냐에 따라서 수익률에 대한 거를 물어보는 건데 요걸 한번 물어보도록 하고요.요 같은 질문을 그대로 복사를 해서 오퍼스 4.6에도 물어보도록 하겠습니다. 자, 그랬더니 4.6은 지금 인터랙액티브 대시보드를 코딩을 막 짜주고 있는 모습이고요. 어 4.7은 아직도 좀 심도 있게 고민하고 있는 모습으로 보여집니다. 자, 우선 오퍼스 4.6의 결과입니다. 이렇게 대시보드를 만들어 줬고 어 대시보드를 한번 쭉 볼까요? 종합 대시보드 시나리오 비교 이탈율이 바뀌었을 때 혹은 가장 싼 가격대를 폐지를 했을 때 요런게 조금 제가 한 눈에 볼 수 있게 대시보드가 잘 만들어져 있고요. 상세 데이터를 클릭하면 이렇게 엑셀 식으로 제가 한 눈에 모든 정보를 쭉 볼 수가 있습니다. 요런 걸 보면서 제가 결정을 내려볼 수가 있겠죠. 어느 정도 사람을 더 데려와야 되는지 가격을 조정해야 되는지 요런 것도 제가 좀 한 눈에 볼 수가 있을 것 같고 우선 오퍼스 4.6에서 마음에 드는 점은 제가이 인터랙티브하게 대시보드를 활용할 수가 있다라는 점. 한 눈에 보고서를 보는 느낌이니까 아무래도 더 편하죠. 눈이 요런 장점이 있었고요. 사용자 성장 추위도 제가 볼 수가 있습니다. 오퍼스 4.7은 이거를 더 정확하게 접근하기 위해서 가정까지 하는 모습을 보여 줍니다. 자, 그리고 오퍼스 4.7의 결과입니다. 여기도 대시보드를 만들어 줬어요. 근데 인터랙티브는 아닌 거 같고요. 근데 되게 고급스럽게 만들어 준 건 제가 확인할 수가 있습니다. 흑자 전화는 1개월 차부터 된다. 그니까 가장 핵심을 바로 말해 줬고 이제 기본과 이탈율과 29달러 제거했을 때 어떤 식으로 흘러가게 될지 요런 거를 제가 한 눈에 확인할 수가 있고요. 엑셀도 깔끔합니다. 기본적으로이 색깔 초이스라던가이 UI라고 해야 되나요? 이게 확실히 좀 깔끔한 느낌은 있네요. 제가 원했던 질문에 대한 답도 확실하게 해 주고 있고요. 핵심 인사이트도 되게 중요하죠. 요런 거를 봤을 때 4.6이 뭔가 좋기는 해요. 그 뭔가 좀 펜시해 보이긴 합니다. 이렇게 막 그래픽도 나오고 대시보드도 나오고 인터랙액티브 하기도 하니까. 그런데 뭔가 대시보드를 봤다가이 왼쪽에 채팅창을 봤다가 요런 것보다이 4.7의 깔끔한 대시보드를 쭉 보고 밑에서 결과로 이어지는 요런 느낌도 저는 괜찮다고 봅니다. 어, 요거는 이제 개인마다 성향이 다르기 때문에 뭐 뭐가 더 좋다 말할 순 없지만 어쨌든 4.7의 결과가 좋다라고는 제가 말씀드릴 수 있을 것 같습니다. 여러분도 한번이 클러드 오셔 가지고 오퍼스 4.7이 think킹 모드 온셔 가지고 사용해 보셔도 되고요. 아니면 제가 아까 보여 드렸던 것처럼이 클로드 코드에 와 가지고 울트라 리뷰를 사용을 해 보시거나 아니면 모델에서 오퍼스 X하이 혹은 맥스로 사용해 보셔서이 가장 최신의 성능을 직접 경험해 보시길 바랍니다. 네, 오늘 이렇게 출시된 클로드 오퍼스 4.7을 같이 살펴봤는데요. 어, 4.6이 너프가 되고 4.7이 나오니까 어, 확실히 좋은 모델이라고 느껴지는 건 맞습니다. 근데 꼭 비단뿐만 아니라 모델 자체 성능이 좋은 건 사실이고요.이 이 모델을 한 번도 안 쓰셔 보신 분들 혹은 어 나는 이제 클로드 클로드 코드를 이제 막 사용한다 하시는 분들은 어 꼭 한번 사용해 보셔야 된다라고 말씀을 드리고 싶습니다. 그래서 앞으로 제 채널에서이 클로드와 클로드 코드에 관한 영상들을 많이 올려 드릴 예정이니까요. 어 관심 있으신 분들은 제 채널 구독하시고 여러분께 도움이 될 영상으로 돌아오도록 하겠습니다.네 제 오늘 영상 여기까지고요. 영상이 도움이 되셨다면 좋아요와 구독 그리고 알림 설정까지 부탁드립니다. 지금까지 성공 지식과였습니다. 감사합니다.",
+      "analysis_date": "2026-04-17T23:50:51+00:00",
+      "channel_name": "성공지식백과",
+      "topic_tags": [
+        "agents",
+        "research",
+        "coding"
+      ],
+      "keywords": [
+        "agents",
+        "research",
+        "coding",
+        "Claude",
+        "Gemini",
+        "Arc",
+        "클로드",
+        "오퍼스"
+      ],
+      "tools": [
+        "Claude",
+        "Gemini",
+        "Arc"
+      ],
+      "flow": [
+        "처음 15초 안에 문제를 선명하게 정의하고 왜 지금 봐야 하는지 못 박는다.",
+        "중간 구간에서 툴, 사례, 비교 포인트를 빠르게 제시해 정보 밀도를 높인다.",
+        "마지막에는 시청자가 바로 따라할 수 있는 다음 액션과 적용 예시로 닫는다."
+      ],
+      "claims": [
+        "단순 소개보다 실제 사용 장면을 바로 보여주는 구조가 반응을 만든다.",
+        "큰 담론보다 작은 병목 하나를 해결해주는 포장 방식이 클릭으로 이어지기 쉽다."
+      ],
+      "transcript_highlights": [
+        "그래서 아마 많은 분들이 요즘 유튜브에 요런 영상 보셨죠? 이런 디자인으로 설명을 하면서 영상 만드시는 분들이 많은데 요것도 여러분이 이제 클로드 코드 오퍼스 4.7을 활용한다면 충분히 만들 수가 있습니다.",
+        "그만큼이 오퍼스 4.7이 진짜 성능이 미채어진 거거든요. 그래서 이런 에이전틱 워크 코딩도 되게 놀라웠지만 제가 지금 소개시켜 드리는 두 번째는 훨씬 놀라울 겁니다. 여기 나와 있는 리뷰에도 보시다시피 시각적 정확도 벤치마크가 엄청난 거의 두 배 가까이 업그레이드됐다라고 하는데이 벤치마크를 돌아가서이 비주얼 리즈닝을 보면 오퍼스 4.6이 69.1%였습니다.",
+        "벤치마크 같은 경우는 거의 전 항목에서 기존에 오퍼스 4.6을 압살했고요. 특히이 비주얼 성능에서 불과 한 세대 만에 거의 20% 가까이 뛰어넘어 버렸습니다."
+      ],
+      "top_comments": [
+        {
+          "video_id": "LXSwNwJXm_c",
+          "comment_id": "Ugx6BNm0oKF5tQJqbTZ4AaABAg",
+          "author": "@looknew7534",
+          "text": "토큰폭탄...",
+          "like_count": 1,
+          "reply_count": 0,
+          "published_at": "2026-04-17T08:18:47Z"
+        },
+        {
+          "video_id": "LXSwNwJXm_c",
+          "comment_id": "UgwGPNsmR-prBkYj2HV4AaABAg",
+          "author": "@gunisama",
+          "text": "실사용 평가는..... 글쎄요입니다.",
+          "like_count": 1,
+          "reply_count": 0,
+          "published_at": "2026-04-17T07:35:40Z"
+        },
+        {
+          "video_id": "LXSwNwJXm_c",
+          "comment_id": "Ugy0RWzgwTdRBDq9pgl4AaABAg",
+          "author": "@Kkk-f6f9q",
+          "text": "확실히 4.6보다 훨씬 낫고 역시 4.7이 지침도 잘지키던데.. 다들 그냥 해줘 정도만 쓰던거 아닌지.. ㅎㅎ",
+          "like_count": 0,
+          "reply_count": 0,
+          "published_at": "2026-04-17T16:16:06Z"
+        },
+        {
+          "video_id": "LXSwNwJXm_c",
+          "comment_id": "UgyGy89c9GQgF_ycVol4AaABAg",
+          "author": "@정정정-o9t",
+          "text": "혼자  opus 4.7 말고 다른거 쓰시나?   ㅋㅋㅋㅋㅋ",
+          "like_count": 0,
+          "reply_count": 0,
+          "published_at": "2026-04-17T08:15:01Z"
+        },
+        {
+          "video_id": "LXSwNwJXm_c",
+          "comment_id": "UgzAVMEGN_JogKU-3-t4AaABAg",
+          "author": "@terrygagosian3422",
+          "text": "context 도 기존에 200k 이던게 opus 4.7 선택하면 1M까지 늘어났네요.",
+          "like_count": 0,
+          "reply_count": 0,
+          "published_at": "2026-04-17T08:04:04Z"
+        }
+      ]
+    },
     {
       "video_id": "8BKGfajOnlY",
       "channel_key": "uchhyxslbevvnbvsq57n1mtq",
