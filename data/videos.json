@@ -1,8 +1,312 @@
 {
-  "generated_at": "2026-04-18T23:47:56+00:00",
+  "generated_at": "2026-04-19T23:49:41+00:00",
   "source": "sqlite_export",
-  "video_count": 173,
+  "video_count": 176,
   "videos": [
+    {
+      "video_id": "fdBT0OAtzLo",
+      "channel_key": "ucr9j1jqqb5rse69wjunbywa",
+      "title": "How I Made Money Automating iOS Apps With AI In 3 Days",
+      "description": "How I Made Money Automating iOS Apps With AI In 3 Days\n\n🏄 Surfagent:\nhttps://surfagent-site.vercel.app/\n\n👊 Become a YouTube Member to Support Me:\nhttps://www.youtube.com/c/AllAboutAI/join\n\nFor Agents:\nwww.skillsmd.store\n\nMy AI Video Course:\nhttps://www.theaivideocourse.com/\n\n🔥Open GH:\nhttps://github.com/AllAboutAI-YT/\n\nBusiness Inquiries:\nkbfseo@gmail.com​",
+      "published_at": "2026-04-19T15:01:07Z",
+      "duration_seconds": 1074,
+      "view_count": 1510,
+      "like_count": 73,
+      "comment_count": 10,
+      "engagement_rate": 0.05496688741721854,
+      "thumbnail_url": "https://i.ytimg.com/vi/fdBT0OAtzLo/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=fdBT0OAtzLo",
+      "format": "뉴스 분석",
+      "hook_type": "수익",
+      "title_pattern": "금액 수치 + 성과 서사",
+      "one_line_summary": "이 영상은 agents 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "why_it_works": "수익 훅으로 관심을 끌고, 뉴스 분석 형식으로 내용을 빠르게 정리해 시청자가 '바로 써먹을 수 있다'고 느끼게 만듭니다.",
+      "recommendation": "훅 구조: 도입 15초 안에 '수익' 관점으로 문제를 못 박고, 왜 지금 봐야 하는지 먼저 선언합니다. • 복제할 포장 요소: 뉴스 분석 형식을 유지하되 agents를 실제 사용 장면 1개와 결과 변화 2개로 더 좁혀 설명합니다. • 비어 있는 콘텐츠 영역: 'agents가 내 작업 흐름에서 어디에 꽂히는가'를 사례 중심으로 보여주는 후속 영상이 비어 있습니다. • 추천 제목: agents 이슈를 내 채널 관점으로 다시 정리해보자 • 썸네일 카피 힌트: agents 지금 봐야 할 3가지",
+      "transcript_status": "available",
+      "transcript_source": "apify",
+      "transcript_language": "en",
+      "transcript_text": "Okay, so I just wanted to get straight to the point in this video because I just wanted to show you that this actually works because the yeah, the title and the thumbnail is a bit of a click bait, right? But you can see here, here is the apps I have created so far. We have the Needle Collector and the Poke Machine. These are the two I created this week. Basically in just a few hours. So if you go into this now, the Needle Collector app, we can go to analytics and you can see the first time we only have one data point, April 17th. And we got two sales and we got $3, right? 262 impressions, 69 product page views. So this is looking pretty good. So while I was recording this video, we got a new data points for April 18th and this looks pretty better, right? Now we have 16 downloads. So we made $27, right? So if you go to trends now, I think you can kind of see the total amount we have sold for, $33 in just 3 days. And down here you can see our app, it&#39;s 100% of the Needle Collector, right? 16 units sold and we made $33. So you can see this is working. So let me just show you history and you can see that we only have had this up app for a couple of days now up on the App Store. And if you go to the history of the app, you can see uh version 1.0 was April uh April 16th, right? So you can basically see that this um and the latest version was yesterday. So I&#39;ve made this in just one day, a few hours with my automated setup. And this shows that this can work, right? We have already made some money and if you go to the apps list, we go to top charts for paid and lifestyle, you can see our app is on 12th place here on the top list for paid in the lifestyle category. So I&#39;m really looking forward to seeing the stats from April 18th when we get access to that. That was yesterday. So basically I just wanted to start off this video by showing you that this can actually work. Uh but now I think we&#39;re going to head over and I&#39;m going to show you how I set up this automation using AI. And yeah, maybe you can learn something from it. Okay, so I&#39;m not going to spend too much time on this, but basically this is the Cloud Code automation for the iOS apps I set up. And there are five things. I&#39;m not going to spend too much time because you will see everything in this video. The first thing I set up is like a research phase, so we can try to find new app ideas using our browser automation agent Surf Agent that I did last video. Uh and so yeah, Cloud Code research tools. We can do move into the build phase, that is using Cloud Code in my case. Uh could be anything, Codex, Open Code, whatever. And Xcode automation to build the actual app. And while we are building it, we&#39;re also doing the testing phase with Xcode and the simulator. Finally, uh not finally, but then we&#39;re going to move into the Apple Dev browser automation using Surf Agent again because we need to go into the Pilates forms and upload the build, right? And finally, there is a bit of a manual thing at the end end here because before we click like add to review, uh just a quick user inspection to see if everything looks good. That is only the kind of the manual thing you have to do, right? So that is it. Let&#39;s just head straight into the research phase and I&#39;m going to show you how I set this up and how this works. Okay, so what I went ahead and did, this is a private repo, but basically this is the scaffolding for this automation setup. So every time I want to do a new app, I just clone this repo here and I should have basically everything I need to do like a full run of automation. So I went ahead and did that. I created like an app six and I cloned this repo, right? And I opened this in Cloud Code. You can see we are in the app six directory. I am going to pick Opus 4.7 now. I set it to high, I think, because I haven&#39;t really I&#39;m not quite sure about Opus 4.7 yet. It&#39;s very slow and it uses a lot of tokens, but I&#39;m going to give it a bit more time. But basically now we should have something called skill. That is the research part. So I&#39;m just going to say read skill.md, right? This is the research part of the project that kind of looks at um uh looks for new ideas, right? So we&#39;re going to start by using an npm install my Surf Agent. This is the the browser tool I talked about for AI agents. I did a video on it, so this is npm install Surf Agent. And this should help us control this browser here, right? So yeah, that is installed and that should be everything we need for the research phase now. So I&#39;m just going to prompt this now to start a research phase just to find an app ID. So I&#39;m just going to say start a new research phase to find a new app ID. Look for at least five ideas. Okay, so that was the loop finished. You can see we ended up with top candidates, but these were not so interesting. It&#39;s like a UPF Scanner, Head Tunnel for Beats, uh Remember Names App. That&#39;s a bit strange. Uh Doom Scroll Daily Report. That&#39;s boring. Hidden Camera Detector. That&#39;s a bit interesting, but this was not the best, I would say. So I wouldn&#39;t say this research loops works all the time, uh but I want to probe it one more time and just to see if we can find anything that is interesting. If not, I have an idea I want to test out anyways. Okay, so now we found a few more ideas I thought was a bit more interesting. Voice Mom Bedtime Stories read in your cloned voice from a parent. Okay. Uh Leather Vault schedule letters voice video for descendants. Okay, that was a bit strange, but I kind of like it. Like here it says uh leave a message for your future self. Uh but I&#39;m going to alter it maybe and go for this. Packlytics House Routines Care Log. Uh I think we&#39;re going to go for this Leather Vault idea, but I&#39;m going to tune it a bit. So basically it&#39;s going to be like a a future notice. So we can set it up like in 6 months you&#39;re going to get a notification for this something something. Let&#39;s just make it simple for this um for this video. I&#39;m just going to do like a simple thing. And let&#39;s go with this Leather Vault idea, but I&#39;m going to modify it a bit. So let me do that. So we&#39;re just going to do Let&#39;s go for the let Leather Vault idea with a modification. Let&#39;s the user record a voice message or a text message and lock it for a future time date. Market it like a message to your future self. That is going to be it. So this is going to be the idea we&#39;re going to build out now. I&#39;m going to give it a bit more instructions on the detail, but detail design, but this could be automated if you wanted to. Just put that in your Cloud Code skill and everything gets kind of automated if you wanted to. But for this video, I just wanted to kind of take this step by step. So let me just give like a detailed not a detail, but an instruction on how I want the design to look and then we&#39;re just going to build it. So I just made some quick addition here. I want the message design to be like a classic minimalistic brown cream color look, very simple to use, smooth, no login, user ID base, stored locally, no data collection, locked message disappear when app is deleted. That is all I&#39;m going to give it. And I&#39;m going to say now uh let&#39;s start the automated phase for building the app and testing, uh simulator screenshots, etc. etc. Good luck. So that&#39;s what I&#39;m going to say and hopefully now all the systems that I have will understand that now we&#39;re going to build the app, right? Maybe create a plan for it and all of this will be automated. So let&#39;s just see what happens now. So now you can see Cloud Corp setup. We have verified that we have Xcode simulator and everything installed. We&#39;re going to pick a name, check bundle availability. We&#39;re going to scaffold the Xcode and project. Basically we have like a big to-do list here to actually write the app. And this from now on should be automated. You can see we have the simulator here. That&#39;s probably going to pop up. So I&#39;m just going to let this run now and I&#39;m going to take you back when we are at some interesting points, maybe in the testing phase because you can see now we are starting to write Swift code here and set up the whole project. Okay, so now you can see we&#39;re actually trying to do our first build here. You can see we&#39;re running the generate build and hopefully now we&#39;re going to pop up the simulator because from there we can actually see if the app works. And I did set up a pipeline, so it should do screenshots and it should do some more automated testing of the app inside using the simulator. And yeah, I think it did. It&#39;s behind here. Okay, so here we have it. So this is the first look at it. Send you push messages. Yes, I&#39;m going to say and we can see seal a message, compose your first. That looks pretty good. But now I don&#39;t want to mess with this now because I want to see if the if you&#39;re going to do some automated testing here. You can see it did a screenshot. That looks pretty good. And I want to see if it tries now to go into different modes of this app. And I kind of already like the design here. It looks pretty neat. This was kind of the look I was look looking for and it&#39;s called Sealed Notes to your future self. Not bad. I kind of like it. Uh but let&#39;s see if we do any more testing now on this and if we can go to the launch sequence after a while here. Okay, good. So you can see we added some mock data here. We have a sealed message here, 30 days from now. letter to 1 year older me, okay? Ready to open. We have a pep talk and an after the move message. So, yeah, this is looking pretty good. And here we&#39;re going to try to seal the message. So, this is what I wanted to see that we&#39;re actually testing the app using Xcode, using Cloud Code. Now we are actually validating that the app works before we actually put out the build and start uploading this. So, this is good and we are doing screenshots. Hopefully screenshots, yeah. So, we can use in the app now and you can see this is still sealed. This is ready to open. We can break the seal and yeah, this is a pretty neat app. I might actually just launch this app because I think it looks pretty good. I can see all eight screenshots captured, closing out the build phase, what shipped. And have you have a big list of everything. Demo controls, what we did here, next steps when you&#39;re ready, real device test, and app icon. Privacy policy page. And yeah, we have some the ship pipeline. So, this is a bit important because we need an app icon, right? And a real device test. So, I&#39;m going to try it out now, right? Let&#39;s see if we can actually do a voice input here and see if the app works from the simulator. Okay, so let&#39;s do a quick test. So, we&#39;re going to do compose your first message. I&#39;m going to do speak. Hello, this is a test for the future me. You will hear this in about 1 minute. Okay, so we did that. Let&#39;s change the date. Let&#39;s just do it 19th and let&#39;s do it in 1 minute. Something like that. Let&#39;s click seal. Now we have it. Opens in 1 minute. Let&#39;s see what happens. Okay, and now you can see we have voice message unlocked 59 seconds ago and we can click on this and we can do break the seal. Yes, and let&#39;s try to play it. Hello, this is a test for the future me. You will hear this in about 1 Yeah, so I guess that&#39;s all we needed, right? Now I guess we are done. So, let&#39;s just clear the test data and let&#39;s continue. Okay, so the next thing I did, I created like a logo for the app. So, I just put this down here and have the app logo at sealed, right? Now create the privacy page and start the loop with the 13 pipelines with Surf Agent. So, this is kind of the rest of the pipeline because there&#39;s a lot of work here on the app developer&#39;s side to actually upload the build and app and everything. But I think I have that pretty much automated now. So, I&#39;m going to minimize this a bit. And I want to see how this works now. So, I&#39;m just going to let this run. We have the logo. We need to create the privacy page. So, we&#39;re just going to use GitHub pages for that. That works fine. And then we&#39;re going to get into the upload part using the developer store here on App Connect, I think it&#39;s called. So, yeah, let&#39;s see how it goes. So, you can see the full to-do list here, right? Install the app icon, create a page, Surf Agent will start and we&#39;re going to go through all the steps we need to actually upload the page. This is going to take some time, but as long as it&#39;s automated, it doesn&#39;t really matter too much. So, we&#39;re just going to sit back, watch, and see what happens. I&#39;m probably going to speed this up for you. I just wanted to comment a bit on the start here because it is pretty interesting to kind of watch the Surf Agent do its work here. So, this is what I built. I did a video on this last time, but you can see it navigated to this page. We were already logged in, right? And now it&#39;s probably going to do like a plus on the apps here. It&#39;s going to select a new app. It&#39;s going to start to fill out all the information about the sealed app we just created. So, you can see we have a bundle registered. It&#39;s going to do that via the API to actually do the things we need to do in the API, upload the build and everything. So, all of that is automated and then it&#39;s going to start to use the Surf Agent to navigate the browser as we did so far. And yeah, that is what you&#39;re going to see now when I speed everything up. Okay, so we are almost done now. You can see we have uploaded the build. It&#39;s just going to be processed on Apple&#39;s side and we should be able to fetch the build from the distribution page here. And that is basically it. I saw we had to change the name to Sealed Notes, but that is fine. Don&#39;t see the logo yet. I might have to ask about the logo, but other than that it looks pretty good. But I&#39;m just going to wait for the build to complete here now and we should be pretty much ready to actually add this for review. Just click add for review and let&#39;s see if there are any issues here. No, that looks pretty good. So, you can see we are ready to submit this for review and I think we&#39;re just going to do it because we probably get some response back that we have to correct anyway. So, yeah, let&#39;s just submit this for review and that is the whole pipeline. So, that was super smooth in like a couple of hours we created a new iOS App Store app from scratch using Cloud Code, some research tools, some Surf Agent tools. And basically this is what I&#39;ve been doing. So, if you do a quick recap, remember we used Surf Agent to do all the manual browsing. We used like a skill and D file to set up all the tools we wanted to automate using the API and stuff like that. And we used my my Apple automation, but of course you need an Apple developer account to do this. That&#39;s like $70, I think, or something like that. And you will get the API keys and stuff you can use to actually automate parts of this. And I write an experience.markdown file from all my learnings. And basically I just put all of this into I don&#39;t know if I showed this, but yeah, this framework here or this scaffolding here. And when we have this, we can just have Cloud Code look at this and it could basically do anything from scratch. Of course you need to install like the simulators and Xcode and stuff like that. But when you have everything set up, you can fire up the research loop. We got the ID from that now. You can see we have the everything from there. So, it&#39;s pretty motivating. If we go to kind of Yeah, you can see making Yeah, like 20, 30 bucks. And this has already started to pay back the $70 we used on the developer. So, when we kind of pass the $70 for the developer cost, we can start actually being in profit. So, I&#39;m going to keep making these apps and if this is something you find interesting and you think you can maybe learn some something because I&#39;ve been automating a lot of stuff lately. And of course with the Surf Agent, go check that out. I&#39;m going to leave a link in the description. This gets much easier. So, now I have built many like these small income streams, passive incomes that just runs in the background, right? And creates It&#39;s not like a huge amount of money, but if you add everything up, it can be something over time, right? So, this is just one of them and I&#39;m going to keep automating, trying out new different things. So, if you like this, give this video a like and subscribe. And yeah, that was basically what I wanted to share today. Hope this gave you some inspiration. You picked something up. And yeah, I will be back with more like content like this. So, have a great day and hopefully I&#39;ll see you again, yeah, very soon.",
+      "analysis_date": "2026-04-19T23:48:59+00:00",
+      "channel_name": "All About AI",
+      "topic_tags": [
+        "agents",
+        "automation",
+        "research",
+        "coding"
+      ],
+      "keywords": [
+        "agents",
+        "automation",
+        "research",
+        "coding",
+        "Claude",
+        "Cursor",
+        "Arc",
+        "How"
+      ],
+      "tools": [
+        "Claude",
+        "Cursor",
+        "Arc"
+      ],
+      "flow": [
+        "처음 15초 안에 문제를 선명하게 정의하고 왜 지금 봐야 하는지 못 박는다.",
+        "중간 구간에서 툴, 사례, 비교 포인트를 빠르게 제시해 정보 밀도를 높인다.",
+        "마지막에는 시청자가 바로 따라할 수 있는 다음 액션과 적용 예시로 닫는다."
+      ],
+      "claims": [
+        "단순 소개보다 실제 사용 장면을 바로 보여주는 구조가 반응을 만든다.",
+        "큰 담론보다 작은 병목 하나를 해결해주는 포장 방식이 클릭으로 이어지기 쉽다."
+      ],
+      "transcript_highlights": [
+        "Okay, so I'm not going to spend too much time on this, but basically this is the Cloud Code automation for the iOS apps I set up.",
+        "We have already made some money and if you go to the apps list, we go to top charts for paid and lifestyle, you can see our app is on 12th place here on the top list for paid in the lifestyle category.",
+        "This is going to take some time, but as long as it's automated, it doesn't really matter too much. So, we're just going to sit back, watch, and see what happens. I'm probably going to speed this up for you."
+      ],
+      "top_comments": [
+        {
+          "video_id": "fdBT0OAtzLo",
+          "comment_id": "UgxIcodIiqSoTRgURkh4AaABAg",
+          "author": "@novanovva-l7j12",
+          "text": "I feel dumb, How do I actually get Claude Code to open up the simulator and take pictures and test the app itself?",
+          "like_count": 2,
+          "reply_count": 1,
+          "published_at": "2026-04-19T17:58:40Z"
+        },
+        {
+          "video_id": "fdBT0OAtzLo",
+          "comment_id": "UgwPRyGet_n4wT9Ze494AaABAg",
+          "author": "@devolli3401",
+          "text": "Love your content. I got a quick question for you. Why are you also using Cursor? It looks like Claude Code is your primary weapon of choice, but yeah.. why also include Cursor?",
+          "like_count": 0,
+          "reply_count": 0,
+          "published_at": "2026-04-19T22:50:19Z"
+        },
+        {
+          "video_id": "fdBT0OAtzLo",
+          "comment_id": "UgzzMymwo7WAZYmPCEZ4AaABAg",
+          "author": "@ShpanMan",
+          "text": "I gotta say the fact that Claude came up with that collector app is brilliant..\nTake a trendy thing, figure out software that could be useful but no one has built, and then it even does all the hard work for you.\nSoftware development is melting away quickly. What a time to be alive.",
+          "like_count": 0,
+          "reply_count": 0,
+          "published_at": "2026-04-19T18:21:50Z"
+        },
+        {
+          "video_id": "fdBT0OAtzLo",
+          "comment_id": "UgyVMkqobuO8g2_45JF4AaABAg",
+          "author": "@negadan77",
+          "text": "Great video Kris",
+          "like_count": 0,
+          "reply_count": 0,
+          "published_at": "2026-04-19T17:27:46Z"
+        },
+        {
+          "video_id": "fdBT0OAtzLo",
+          "comment_id": "UgyXTGJCLto4nUoKloR4AaABAg",
+          "author": "@NightSpyderTech",
+          "text": "Sweet timing!",
+          "like_count": 0,
+          "reply_count": 0,
+          "published_at": "2026-04-19T15:03:39Z"
+        }
+      ]
+    },
+    {
+      "video_id": "8r59q-53fbA",
+      "channel_key": "ucfx6adxoyqkxft933nb3rma",
+      "title": "와.. 삼성노트보다 좋은데요? 전세계에서 난리난 노트앱, 스타노트 상세리뷰",
+      "description": "요즘 삼성노트보다 더 좋다고 난리난 앱이 있길래 써봤는데요.\n생각보다 좋은 점이 너무 많아서 헛웃음만 나오더라구요.\n어떤 것 때문에 놀랐는지, 또 단점은 뭔지 스타노트에 대해 영상에서 자세히 설명드릴게요!\n\n⏰ TimeStamp ⏰\n00:00 삼성노트보다 더 좋다고?\n00:41 필기감을 바꿀 수 있다고?\n03:39 노트 템플릿 미쳤는데\n06:03 개쩌는 무한노트\n06:56 파워포인트 불러오기\n08:02 PDF 속도 보세요\n09:18 터치 한번에 챕터로 이동\n11:32 발췌 기능.. 이거 역대급\n13:32 PDF 내보내도 안깨집니다\n15:51 이거 포토샵 기능 아닌가요\n17:57 표, 테이프, 두페이지 보기\n19:19 다운받은 폰트도 쓸수있다?\n19:57 단점은 없어요?\n\n📧 협업 문의: tcm_biz@techmong.co.kr",
+      "published_at": "2026-04-19T11:12:54Z",
+      "duration_seconds": 1380,
+      "view_count": 19940,
+      "like_count": 541,
+      "comment_count": 104,
+      "engagement_rate": 0.03234704112337011,
+      "thumbnail_url": "https://i.ytimg.com/vi/8r59q-53fbA/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=8r59q-53fbA",
+      "format": "뉴스 분석",
+      "hook_type": "문제 해결",
+      "title_pattern": "핵심 포인트 직설형",
+      "one_line_summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "why_it_works": "문제 해결 훅으로 관심을 끌고, 뉴스 분석 형식으로 내용을 빠르게 정리해 시청자가 '바로 써먹을 수 있다'고 느끼게 만듭니다.",
+      "recommendation": "훅 구조: 도입 15초 안에 '문제 해결' 관점으로 문제를 못 박고, 왜 지금 봐야 하는지 먼저 선언합니다. • 복제할 포장 요소: 뉴스 분석 형식을 유지하되 뉴스 분석를 실제 사용 장면 1개와 결과 변화 2개로 더 좁혀 설명합니다. • 비어 있는 콘텐츠 영역: '뉴스 분석가 내 작업 흐름에서 어디에 꽂히는가'를 사례 중심으로 보여주는 후속 영상이 비어 있습니다. • 추천 제목: 뉴스 분석 이슈를 내 채널 관점으로 다시 정리해보자 • 썸네일 카피 힌트: 뉴스 분석 지금 봐야 할 3가지",
+      "transcript_status": "available",
+      "transcript_source": "apify",
+      "transcript_language": "ko",
+      "transcript_text": "갤럭시 탭 쓰면서 여태까지 삼성트만 쓰셨다면이 영상 끝까지 보셔야 됩니다. 최근 몇 년 사이에요. 좋은 필기앱들이 진짜 많이 생겼는데 아 기능이 진짜 살벌하거든요. 최근에 삼성거트만 쓰시던 분들이 다른 필기앱으로 많이 넘어갔고 저도 그 중 한 명입니다. 그럼 최근에 좀 어떤 필기앱이 가장 핫하냐 바로 많은 분들이 리뷰해 달라고 요청하셨던 스타노트예요. 그래서 아 진짜 얘는요 뭐 일반인이나 직장인 분들에게도 좋지만 만약에 여러분들이 학생이시다 그러면 스타노트가 삼성트보다 훨씬 아니 훨씬 비효 불가인가 싶을 정도로 장점이 되게 많은데요. 놀랍게도 무료예요. 그럼 지금부터 요즘 가장 핫한 앱 스타노트에 대해서 삼성트랑 비교해 가지고 자세히 알려 드릴게요. 일단 가장 먼저 여러분은 필기에 비해서 제일 중요한게 뭐라고 생각하세요? 저는 필기 감이라고 생각합니다. 근데 사실 필기감, 그러니까 필기할 때 그 느낌은요. 에비를 어떤 거 쓰냐보다도 펜촉이랑 보호 필름을 어떤게 쓰느냐 이게 영향이 훨씬 더 크거든요. 근데 디지털 노트앱을 얘기할 때 필기감이라 하면요. 터치감뿐만 아니라 글자가 얼마나 빠르고 예쁘게 내 을도대로 써지느냐가 포함된 건데요. 그런 점에서 스타노트는요. 삼성노트보다 필기감이 훨씬 낮고요. 정말 많은 삼성트 유저들이 발해왔던 필기감 커스터마이징까지 가능해요. 자, 지금 저는요. 왼쪽에는 스타노트, 오른쪽에는 삼성노트를 띄어 가지고 한번 필기감을 비교를 한번 해 봤는데요. 보시면 삼성노트 같은 경우에는 글자 끝에 이런 식으로 삐침이 굉장히 많이 일어나거든요. 뭐 여기도 그렇고 여기도 그렇고 굉장히 좀 심한 편이에요. 근데 스타운트는요. 여기 이렇게 펜을 눌러서 보시면 스트로크 안정화란 기능이 있어서요. 빛침이 굉장히 적게 깔끔하게 써집니다. 삼성호트는 펜 두께는 조절이 가능한데 뭐 획 안정화라든지 뭐 필압 조절 이런 거 전혀 안 되고요. 반면 스타노트는 이렇게 다 조절이 가능한데요. 여기서 먼저 스트로크 안정화부터 설명드리면 얘는 기본 값이 20이거든요. 근데 이게 크면 클수록 내가 필기를 할 때 자동으로 보정되는 값이 굉장히 커집니다. 굉장히 실시간으로 많이 변하죠. 이게 스트로크 안정한 100%일 때이고요. 이게 0%면은 거의 아무런 요런 삐침 같은게 거의 그대로 나타나 가지고 굉장히 좀 불편하게 써집니다. 그래서 저는 스토한 정화를 한 30% 정도이 정도 해 가지고 필기를 하니까 딱 제 마음에 드는요 정도 수준으로 필기가 됐는데요. 그리고 여기도 압력 감도라는 부분 있잖아요. 이게 기본값이 50이거든요. 낮으면 낮을수록 굉장히 약하게 터치했을 때 좀 두껍게 이렇게 나오고요. 100%로 하게 되면 굉장히 화면에 약하게 터했을 때 거의 잘 보이지도 않을 정도로 요렇게 얇게 필기가 돼서요.이 삼성노트 필기가 맹숙해져 있다가 스타노트의 기본 값인이 50% 기준으로 필기를 하게 되면 이렇게 얇게 표현되는 걸 원하지 않았는데 이런 느낌이 좀 많이 들어서 저는 이거를 한 10% 중간 맞춰 가지고 압력감도를 40 스트록 안정화를 한 30 정도 하니까 딱 원했던 이런 피기감이 그대로 나와 가지고 굉장히 만족스러웠습니다. 요거 쓰다가 일로 넘어오게 되면 아 삼성2는 굉장히 좀 iously ¿no다 이런 느낌을 좀 많이 받아요. 근데요. 스타노트에 있는 압력 감도랑 스트로크 획 안정화는 사람마다 자기한테 딱 맞는 값이 다르거든요. 제가 마음에 드는 압력 감도하고 스트로크 안정화 이거를 저희 PD 님한테 한번 줘 보니까 그 친구는 필기할 때 좀 약하게 주고 쓰는지 아 너무 얇게 나오는게 이런게 좀 별로해요라고 얘기를 하더라고요. 그래서 그 친구한테는이 압력 감도를 20으로 낮춰서 주니까 만족하면서 쓰시던데 그래서 나한테 딱 맞게 압력 감도랑 스트로크 한정화 그리고 두께 같은 걸 딱 커스터마이징해 쓰잖아요. 그러면 진짜 삼성 노트랑 필기감이 솔직히 좀 비교가 되나 싶을 정도로 차이가 많이 나요. 스타노트가 훨씬 좋습니다.이 펜 따라오는 속도도 보세요. 굉장히 빠릅니다. 뭐 느리고 지연된다 그런 느낌이 거의 없어요. 그럼 이제 필기감 다음으로 필기에 대해서 중요한 건 뭘까요? 저는 그 노트 구성이랑 약간 편의성이라고 생각하는데요. 이것도 스타노트가 삼성 노트보다 훨씬 좋아요. 삼성노트는 한 번 페이지를 세로로 만들잖아요. 그러면 중간에 가로로 된 페이지는 추가할 수 없습니다. 계속 그냥 세로로 써야 돼요. 그리고 노트 템플릿에 들어가서도요.이 가로 줄을 제가 원하는 간격으로 커스터마이징 해 가지고 넣는 거 안 돼요. 그리고이 기본 템플릿도 외에 다른 템플릿을 사용자 템플릿으로 뭐 다운 받고 내 이런다 뭐 스토어 같은 것도 따로 없고요. 이렇게 일일이 수동으로 추가해 줘야 됩니다. 근데 스타노트는요. 처음 메모를 만들 때부터 메모 생성을 누르잖아요. 여기 가는 선이 있어요. 이걸 누렀을 때 주 간격을 제가 뭐 이렇게 원하는 대로 간격을 조절할 수 있고 그게 또 실시간으로 이렇게 반영이 바로바로 되고요. 그리고 기본 양식도 굉장히 다양하고 많긴 한데요. 맨 밑에 추가된 종이를 누른 다음에 리소스 센터로 이동을 누르잖아요. 그러면 스토어에 있는 많은 양식들을 다 받아서 쓸 수도 있고요. 스티커도 제가 여기 있는 것 중에서 무료가 굉장히 많은데 받아 가지고 제가 쓸 수가 있습니다. 그러니까 이런 양식 편의성에서는 비교가 안 될 정도로 스타운트가 좋은데 스타노트는 또 페이지를 추가하려 그러면 옆으로 이렇게 넘기면 페이지가 잠깐 놓았다가 돌아가면서 요렇게 추가가 되는데 난 세로로 된 페이지 말고 가로로 된 페이지를 중간에 만들고 싶다 하시면 여기서 페이지 회전이라는게 있어서 지금 페이지를 바로 이렇게 가로로 돌리거나 이런 것도 되고요.이 이 페이지 추가를 누르면은 지금 보는 페이지 앞에, 지금 보는 페이지 뒤에 뭐 마지막 페이지 이렇게 원하는 템플릿을 가로가 됐든 세로가 됐든 원하는 양식으로 추가를 할 수가 있어요. 예를 들어 중간에 제가 뭐 체크리스트 같은 거 요런 거 만들어 가지고 세로 형식으로 중간에 이렇게 추가하고 싶다. 그럼 적용을 누르면 원래스턴 방식에서 가로 페이지죠. 세로 방식으로 바로 추가가 되고 이런 식으로 가로와 세로를 섞었을 쓸 수 있다는게 이게 사실 노트로서 당연한 거 아닌가요? 그때 삼성자는 욕이 안 됐습니다. 그리고 저는 지금 여기 있는 양식 말고요. 다른 메모에서 쓰던 거 좀 괜찮은 페이지만 부분 끌어서 오고 싶은데 하시면요. 여기에 다른 메모 페이지 추가를 누르잖아요. 그러면 제가 다른 메모 페이지에 쓰던 거를 그대로 특정 페이지만 딱 끌어 가지고 요것만 요런 식으로 가져올 수도 있어요. 그러니까 뭐 페이지 추가 관리 속지 이런 관리 측면에서는 삼성호트랑 스타노트가 사실 비교 대상이 많나 싶을 정도로 스타운트가 훨씬 좋습니다. 아, 그리고 페이지 얘기한 김에요. 스타운트가 진짜 개쩌는 기능이 있는데요. 무한 노트라 그러죠? 사이즈를 무제한으로 크게 할 수 있는 이런 무한노트 기능도 지원을 합니다. 그래서 제가 지금 무한 노트를 만들어 놓고 여기다가 텍스트 1이라고 쓰고요. 그리고 옆으로 또 옮겨 가지고 여기다가 뭐 텍스트 2라고 쓸게요. 그러면 이게 텍스트가 뭐 작게 되고 크게 되고 이러면 되게 좋긴 한데 내가이 글을 진짜 많이 쓰게 되면 어디에 무슨 텍스트를 썼는지 이렇게 옮겨서 가는 거 귀찮잖아요. 근데 옆으로 이동 이동을 누르면 글자가 있는 부분으로 알아서 이동이 됩니다. 게다가 이런 식으로 확대 수도 많이 하시다가요. 난 딱이 정도 확대가 좋아. 어 400% 할 때마다 이렇게 아 이렇게 하기 힘든데 싶으면 별표로 누르잖아요. 그러면 내가 언제든지 확대 축도하다가 400% 확대를 요렇게 한 방에 바로 할 수 있게 자주 사용하는 확대 축도 범위를 등록을 할 수도 있고요. 확대 축도 잔금도 당연히 지원을 합니다. 그러면 주돈으로 했을 때 확대 축도가 되지 않죠. 그래서 와 진짜 스타운트가 이런 기본기가 굉장히 좋네 싶었는데 진짜는 지금부터예요. 정말 놀라운 거는 아직 시작도 안 씁니다. 아마 일반 직장인 분들이나 뭐 간단한 필기 정도 하시는 그런 분들이라면 그냥 뭐 삼성호트를 쓰시나 스타노트를 쓰시나 이런 뭐 줄로트 하나만 있으면 충분할 수도 있는데요. 삼성호트는요. 그냥 페이지를 만드는 거 되고 그리고 PDF를 불러오는 거는 되는데 파워포인트를 불러오거나 워드를 불러오거나 요런 우리가 많이 쓰는 오피스 계열은 불러오는게 따로 안 됩니다. 근데 스타노트는요. 플러스를 눌렀을 때 PDF는 기본이고 PPT, DOC, 파워포인트나 워드 각종 전자책 양식을 그대로 여기서 불러올 수가 있어요. 예를 들면 파워포인트 같은 거 이런 거를 여기서 바로 변환해 가지고 요런 식으로 파워포인트 위에다가 원래 쓰던 필기 방식 그대로 필기를 할 수 있다는 겁니다. 그래서 손필기앱을 여러 개 쓸 필요 없이 스타노트 하나로 다 할 수 있다는 거는 진짜 좋긴 한데 사실 학생분들은 PPT나 워드 이런 것도 많이 쓰시지만 PDF 파일로 북스캔한 파일을 여기 띄어 가지고 쓸 때가 진짜 많잖아요. 아, 다른 부분도 다른 부분인데이 PDF에 필기하는 입장에서는 스타노트랑 삼성노트랑 비교 대상이 아닐 정도로 스타노트가 압도적으로 좋습니다. 지금 삼성노트에서 한 989페이지 있쓴 데는 굉장히 많은 페이지의 PDF 파일을 불러왔습니다. 그리고 요렇게 내려서 보시면이 미리 보기 뜨는 속도가 삼성호트는 좀 시간이 좀 걸리기도 하고요. 그리고 한 번에 보이는 페이지 개수가요 정도가다고 이걸 옆으로 뭐 늘리거나 키우거나 이런게 안 돼서 내가 만약에 뭐 500페이지, 600페이지를 간다 그러면 좀 아 굉장히 쉽지가 않습니다. 그런데요. 스타노트에서 제가 똑같은 PDF 파일 한번 띄어 볼게요.이 이 메뉴를 누르게 되면 지금 여기 있는 페이지들을 한 번에 볼 수 있는데 얘는 기본적으로 한 페이지 단위로 이렇게 보이거든요. 근데 옆으로 늘리게 되면 두 페이지 단위로 볼 수도 있고요. 더 늘리게 되면 세 페이지,네 페이지 이렇게 한 번에 굉장히 많은 페이지를 볼 수 있고 그리고 만약에 이걸 없애고 싶다 그러면 이걸 눌러서 뭐 꺼도 되는데 이렇게 많이 켜져 있는 상태에서 이렇게 끝까지 밀어 가지고 사라지게 하고 아 이런 것도 되게 감정적이고 좋고요. 그리고 페이지를 이렇게 내렸을 때 페이지 뜨는 속도가 삼성2보다 훨씬 빠릅니다. 그리고 여기서 내가 좀 더 화면을 넓게 보고 싶다 그러면 보기 전화를 누르면 요런 식으로 전체 화면으로 봐주고요. 화면 뜨는 속도가 다르니까 쓸 때 삼성트보다 훨씬 편해요. 근데 진짜는 지금부터예요. 예를 들면 제가 삼성트에서 여기 목차 페이지가 있어요. 그리고 여기 있는 뭐 챕터 14 뭐 여기로 지금 가고 싶다고 해요. 509페이지네요. 근데 이거는 북캔된 거 기준으로 509페이지니까 여기에서 페이지가 딱 509페이지로 1대로 매칭은 안 될 거예요. 그리고 509페이지를 가려 그래도 굉장히 좀 많이 가야 되고 약간 불편함이 있단 말이에요. 509페이지 눌렀을 때 챕터가 안 넘어가죠. 그래서 내가 원하는 페이지로 딱 넘어가는게 삼성트에서는 쉽지가 않습니다. 저렇게 뭐 페이지 넘기는 거 힘든 거는 이런 노트앱 쓰면 당연한 거 아니야? 스타운트는 그럼 도대체 뭐가 다른데라고 할 수도 있는데요. 스타트는요.이 메뉴를 눌렀을 때 문서 개어 이거 말고 옆에 있는 이걸 누르잖아요. 그러면 요렇게 개우가 쭉 뜨고요. 여기서 챕터 12를 누르면 챕터 12로 넘어가고요. 챕터 14로 누르면 14로 넘어가고 원하는 챕터로 터치 한 번으로 바로바로 넘어갈 수 있습니다. 이게 진짜 좋은 거예요. 그래서 PDF 많이 보신 분들은이 개오 기능 또는 PDF 목차 기능이라고 얘기하는데 이건 여기서 또 보기 전화를 누르면 각 챕터별로 이런 썸네일까지 한번 내다 보이거든요. 요거에 만약에 익숙해져 계신 분이 3정트로 넘어가신다. 그럼 이거 안 되는게 진짜 불편합니다. 그래서 옛날부터 삼성트 쓰 분들이 아, PDF 목차 기능 제발 좀 지원해 주세요. 지원해 주세요 했는데 이게 아직도 안 됐거든요. 근데 스타운트는 무료인데 이게 된다는 거예요. 물론 이제이 개 페이지는 처음부터 PDF를 넣으면 자동으로 이걸 뭐 인식해 가지고 그렇게 되는 건 아닌데 예를 들면 제가 뭐 챕터 15로 추가하고 싶다 그러면 챕터 15를 요렇게 길게 눌러 가지고이 텍스트를 한번 복사를 하고요. 그리고 맨 처음에 한 번 정도는 요렇게 페이지를 쭉 내려 가지고 특정 페이지에가 가지고 여기를 개요에 추가를 눌러서 방금 저장했던요 복상 거 붙여 넣어 가지고 이렇게 챕터를 수동으로 한번 추가해 줘야 되긴 하는데요. 요렇게 한 번만 추가해 주면 그다음부터는 이렇게 편리하게 터치 한 번으로 챕터를 넘어갈 수 있다는 거. 뭐 요렇게 제가 추가했다는 거는 참고하시고요. 특히 이런 과정을 할 때 페이지 넘어가는데 시간이 되게 많이 걸리거나이 뜨는 속도가 느리면 좀 번거롭고 힘들 텐데 얘는 한 번에 정말 많은 페이지를 볼 수 있고 이렇게 하게 되면 챕터 15 찾고 이런 거는 바로바로 또 보이니까 이걸 수동으로 추가하는게 그렇게 불편하진 않을 겁니다. 그래서 여기까지 보셨으면요. 아 뭐 개요 챕터는 좋긴 하네. 근데 이거 가지고 스타노트가 삼성보다 훨씬 좋다. 그 과장하냐 할 수도 있는데요. 전 개인적으로이 스타노트에 방금 보여 드린 개요드 기능인데요 발체 기능이라는 거 요게 진짜 대박이에요. 예를 들어 교수님이 수업을 하시다가요. 그 시험 기간 전에는이 부분은 시험 나오니까 꼭 보세요. 이런 식으로 막 알려주잖아요. 그런 거 제가 여기다가 표시를 하려면 어떻게 하실 것 같아요, 여러분은? 뭐 이런 식으로 확대해 가지고 뭐 이런 거 별표치고 시험, 나옴 뭐 이런 식으로 하실 거 같나요? 물론 이렇게 아날로그적으로 해도 되는데 이런 거는 나중에 찾을 때 좀 불편합니다. 그럼 이거를 어떤 식으로 추가하면 될까요?이 발체 메뉴를 누른 다음에 박스 발체를 누른 상태로 요렇게 한번 선택을 해 주고요. 그리고 비고를 한번 눌러 주시고요. 여기다가 이름을 따로 붙여도 되는데 따로 그냥 안 붙일게요. 그다음에 또 다음 페이지로 넘어갔을 때 어 이것도 시험에 나온다 그러면 요것도 또 요런 식으로 표현하고요. 비고를 누르고요. 그리고 또 다른 페이지에 어 이것도 또 시험에 나온다. 뭐 시험 문제 다 나오네. 어쨌든 요런 식으로 표기한 다음에 또 비고를 누르면요. 지금 제가 이렇게 발체에 넣었던 것들 요거랑 요거랑 이런 거 있잖아요. 이런 거를 수동으로 이렇게 찾아 들어가지 않아도 여기 눌렀을 때 맨 끝에 기본적으로 보이는게이 메뉴면 맨 끝에 있는이 발체 메뉴로 들어가게 되면요. 제가 방금 요런 식으로 추가했던 것들을 한 번 누르 페이지로 바로바로 넘어갈 수 있다는 얘기입니다. 그리고 여기또 보세요. 제가 한번 눌렀을 때 보라색으로 표현되는데 서서히 이렇게 사라지는 거. 아, 요런 애니메이션도 진짜 감정적이고 눈에 확 띄어서 되게 좋은 거 같고 그리고 꼭 이런 거 아니더라도 어떤 문제를 풀다가 특정 문제를 내가 자주 틀린다. 그러면 그거를 요런 식으로 표기한 다음에 비고를 누른 다음에 여기다가 제가 뭐 5답 이런 식으로 쓰잖아요. 그러면이 발체된 거에 이름을 다 붙일 수 있어서 제가 예전에 틀렸던 것만 다 찾아보고 싶다. 그러면이 발체에서 오답이라고 검색하게 되면 오답이라고 제항됐던 것들 한 번에 다 보이고요. 그리고 시험에 나온다라고 얘기했던 것들은 시험 이런 식으로 이름을 붙이게 되면 그것만 또 이렇게 모아서 볼 수 있어서 꼭 발체 기능은 학생분들이 쓰기에 진짜 좋은 기능이라고 생각합니다. 제가 왜 스타노트의 PDF 기능이 삼성노트랑 비교 안 된다고 말씀드리는지 조금은 아시겠죠? 근데 아직 안 끝났습니다. 진짜 결정적으로 PDF 기능에서 차이가 나는 부분이 아직까지 많이 남았어요. 자, 상황을 한번 설정해 볼게요. 제가 대학생이에요. 그리고 평소에 삼성노트에 필기를 했고 내일이 이제 기말고사인데 오픈북 테스트래요. 그럼 요즘 오픈북 테스트 할 때는 뭐 책이랑 내가 직접 필기한 필기기 노트는 가져갈 수 있는데 전자 기기, 태블릭 이런 거는 못 들고 간단 말이에요. 그럼 이제 삼성트에 필기한는데 필기들을 어떻게 하면 될까요? 인쇄해 가지고 종이로 들고 가면 됩니다. 근데 삼성노트는 인쇄를 할 때 그러니까 삼성 노트를 PDF로 변환해 가지고 인쇄를 할 때 치명적인 단점이 있어요. 바로 삼성호트는요. PDF로 내보내기 하게 되면 원래 있던 벡터 방식이 이렇게 비트맵 방식으로 바뀌면서 깨집니다. 그래서 원래 필기를 되게 작게 실제 이런 글씨체랑 비슷하게 확대해 가지고 이렇게 필기를 하시는 분들은 3정트를 이렇게 내보낸 다음에 이거를 인쇄해 가지고 보면 글자가 안 보이는 경우가 되게 많아요. 그래서 시험치기 하루 전날에 어 이거 인쇄하니까 깨져요. 어떻게 남면 쫓나요라고만 얘기하시는 분들이 좀 계시긴 하더라고요. 근데 그런 분들은 사실 답이 없어요. 근데 스타운트는요. PDF로 저장할 때 벡터 방식으로 그대로 저장이 되기 때문에 인쇄에도 글자가 안 깨져요. 그러니까 이런 것 때문에 진짜 삼성트 쓰신 분들이 시험 기간만 되면은 삼성 멤버스가 가지고 삼성트 손필기 벡터 대게 해 주세요. 벡터 대게 해 주세요. 이러는데 정말 많은 분들이 시험 직전에 되게 낭패를 겪는 분들이 많이 계십니다. 삼성호트보다 스타노트가 더 좋은 거 아직 안 끝났어요. 예를 들어서 삼성호트는요. 중간에 제가 삽입을 눌러 가지고 특정 PDF를 추가를 하잖아요. 그러면이 PDF 파일이 굉장히 많은 페이지가 들어가 있는데 특정 페이지만 추가하는 거 안 됩니다. 강제로 모든 페이지가 다 들어가요. 그런데 스타노트는 어떠냐? 내가 여기다가 추가로 PDF를 삽입을 하고 싶다. 그러면 플러스를 누른 다음에 파일 가져오기를 누르잖아요. 그다음에 PDF 페이지를 선택을 해요. 그러면 여기서 내가 원하는 페이지만 가져오는 거 누런 것도 얘는 가능하고요. 그리고 삼성트는 요런 텍스트 같은 거 선택은 요렇게 뭐 잘 되거든요. 근데 이렇게 선택을 해 놓고 여기다가 뭐 현관펜을 지하거나 밑줄을 긋거나 이런 건 안 되고 그냥 수동으로 뭐 요런 식으로 해야 되긴 해요. 근데 스타운트 같은 경우에는 요런 식으로 범위를 선택을 한 다음에이 부분을 밑줄를 긋거나 아니면 요런 식으로 선택을 해 가지고 현광 팬치거나 요런 것도 잘 되고요. 그리고 다시 삼성트로 돌아와 가지고 점선을 끄고 싶다. 수동으로 점선 끄요. 그럼 스타운트는 어떨까요? 그냥 끄시면 됩니다. 물결무늬 하고 싶다. 그냥 물결무늬 끄시면 돼요. 그리고 다시 삼성트에서 내가 어떤 도형 같은 걸 그리고 싶다. 그러면 여기 도형추를 누른 다음에 요렇게 마른모 뭐 이런 거 뭐 할 수도 있고 네모 그리려 그러면 요런 거 할 순 있는데 막 입체 도형을 그리거나 그러려 그러면 어떻게 이게 되는게 아니거든요. 그리고 성 같은 경우에도 요런 식으로 표을 깔끔하게 이런 거 그리려 그러면 뭔가 좀 엉성해요. 근데 사운트 같은 경우에는요. 도형을 눌렀을 때 이런 뭐 사각, 원형, 타원 이런 것도 다 되는 건 기본이고요. 입체 도형 같은 것도 이런 거 되게 많이 쓰는데 이런 것도 요런 식으로 가로세로 비를 조정해 가지고 다 그릴 수가 있고요. 그리고 내가 만약에 선을 그리고 싶다 그러면 여기서 선을 이렇게 눌러 가지고 한번 여기서 요런 식으로 그려 볼게요. 그러면 진짜 마치 배지호 곡선마냥 내가 원하는 대로 요런 식으로 선을 끌을 수가 있습니다. 그리고 여기서 또 결정적인 거 나는 을대생이야. 그래 가지고 신체 모형 같은 거 요런 거를 막 손으로 다 그렸다고 쳐요. 저는 이런 거 못 그리니까 그냥 도형을 하나 뭐 이렇게 그릴게요. 그러면 이거 위에다가 막 이렇게 필기를 하고 이거 이름은 뭐다 막 이렇게 쓰고 막 이렇게 하다 보면 나중에 지우개로 지울 때 같이 지워진단 말이에요. 근데 얘는요 깜짝 놀라질 겁니다. 이거 누르면 레이어 추가 기능이 있거든요. 그리고 여기서 레이어를 추가하게 되면 지금 보이는이 도형 있잖아요.이 도형은 아래 레이어가에 있거든요.이 이 레이어를 누른 다음에이 도형을 선택하고요. 그리고 레이어로 이동을 눌러서 이거를 2번 레이어로 보내 버립니다. 그러면 레이어 1과 2가 따로 분리가 되어 있어서 켜고 끄고 뭐 이런 것도 되는데요. 여기서 레이어 1은 필기가 들어가 있는 거고 레이어 2는이 배경이 들어가 있는 거라서 지우개를 켜 놓고 또는 이제 S펜에 있는 측면 버튼을 이용해 가지고 레이어 1번에 있는이 필기된 거를 지워도 얘는 영향을 받지 않아요. 이런 식으로 레이어 관리가 된다는게 이게 무료 필기에 비해서 말이나 되는 얘기예요. 너무 너무 좋은 기능이에요. 게다가이 레이어도 보세요. 아, 이게 포토샵인 줄 알았네. 막 이렇게 병합 기능도 지원을 하고 레이어 순서도 조절이 가능해. 와, 진짜 이거는 미쳤다. 그러면 이제 PDF 기능은 충분히 설명드린 거 같고 PDF 외에 몇 가지 눈에 띄는 점을 뭐 짧게 짧게 조금 설명드리면요. 얘는 제가 굿노트에서 진짜 좋아했던 기능인데 위쪽에 있는 이런 메모 탭들이 있어 가지고이 탭 한번 눌러 가지고 바로바로 옆으로 넘어갈 수 있다. 요거 되는 거 너무 좋고요. 그리고 표 삽입 기능도 요런 식으로 표를 삽입하고 여기서 한 번 더 옆에다가 추가하고 요런 표를 여러 개 선택해 가지고 병합하고 막 이런 기능들. 그리고 영어 단어 같은 거 공부하시는 분들한테는 스티커 기능이라고 하는게 있죠. 이걸로 위에다가 직선으로 대충 제가 필요한 부분을 이렇게 찍찍 끌거나 직사각형 그리기 방식으로 범위를 선택해 가지고 요렇게 테이프로 가리게 되면 요걸 터치하게 되면은 뒤쪽에 있는게 요런 식으로 보이거든요. 그러니까 단어 공부 같은 거 할 때도이 앱은 진짜 좋아요. 요것도 삼성 분들이 정말 많이 원했는데 이것도 다시 가리고 싶다 그러면 하나하나 눌러 가지고 가려도 되는데 그냥 눌러 가지고 모든 테이프 표시 요런 식으로 한 번에 없애고 한 번에 끌 수도 있어요. 그리고 여기서 하 혹시 저렇게 좋은 앱인데 두 페이지 미리 보기 기능은 안 되는 거 아니야? 당연히 됩니다. 여기서 두 페이지 보기 누르면 한 번에 두 페이지가 보이고요. 그러면 터치를 하게 되면 두 페이지 단위로 넘어가요. 근데어 여기 있는이 페이지랑 여기 있는이 페이지랑 좀 비교해서 보고 싶어. 한 번에 두 페이지 넘어가는게 싫어 하시는 분들은 여기서 연속 스크롤이라는게 있거든요. 요걸 누르게 되면 기가 막히게 또 요런 식으로 한 페이지 단위로 넘어와 가지고 내가 원하는 두 페이지를 또 한 번에 놓고 비교할 수도 있어요. 아, 그리고요. 저는 이거는 뭐 서드 파티 앱이나 삼성앱이나 다 안 되는게 당연하다고 생각했었는데 텍스트를 물리 뭐 이런 식으로 치는 거예요. 근데이 글씨체 어디서 많이 본 거 아니에요? 배달의 민족 주하체고요. 얘는 글꼴를 여기 있는 것 중에 하나 선택해도 되는데 제가 원하는 글꼴을 이렇게 TTF 파일이 됐든 OTF 파일이 됐든 다운받은 다음에 이걸로 불러올 수 있다는 얘기예요. 게다가 삼성트 같은 경우에는 글자를 이렇게 쓰고 엔터로 누르면요 줄간 조절하고 이런 것도 안 되거든요. 근데 얘는요 줄 간격도 이렇게 조절할 수 있네요. 와 진짜 어이가 없다. 그럼 스타노트는 삼성호트랑 비교했을 때 아쉬운 점 없냐? 당연히 아쉬운 점이 있어요. 그래서 약간 산동 쓰는 모든 분들이 스타운트 이제부터 쓰세요 하기에는 좀 주의화될 점이 여기까지 있습니다. 그중에서 가장 큰 단점을 이제 순서대로 좀 말씀드리면 제가 지금까지는 다 보여 드린 기능이 무료 기능이거든요. 그리고 전 앞으로도이 무료 기능 내에서 충분히 쓸 수 있을 것 같긴 한데 저는 사실 노트 하나를 만들어도 굉장히 페이지를 여러 개 만든 방식이지 뭐 필기할 때마다 노트를 새로 새로 새로 새로 만드는 타입은 아니란 말이에요. 근데 학생분들 같은 경우에는 과목별로 노트를 따로 따로 따로 만드신 분들이 많을 거잖아요. 그런 분들한테는이 앱은 무료 앱이라고 말씀드리면 안 될 거 같아요. 왜냐면 지금 제가 테스트한다고 한 열 개의 노트를 만들었는데 열 개의 노트가 넘어가잖아요. 그러면 메모를 만들 때 잔금 표시가 했죠. 더 이상 노트를 만들 수가 없습니다. 물론 이제 저 같은 경우에는 기존에 안 쓰는 노트들을 이렇게 지워 가지고 그러고 나도 휴식통에 있는 걸 비우면은 또 새로 노트가 만들어져 가지고 노트가 10열개 기준으로 더 만들 때 유료를 결제해야 된다는 거는 크리티컬한 문제일 수도 있으니까 이걸 제가 단점이라고 말씀드렸는데 그럼 유료 버전을 얼마를 내야 되냐? 아까 잠깐 보셨죠? 여기다가 이렇게 눌렀을 때 9,500원이라고 지금 쓰는 거예요. 그리고 이거는 구독제가 아니고요. 1회성 결제입니다. 그러면 이거를 단점이라고 안 해도 되지 않나?이 이 정도 기능이라면 생각이 전 솔직히 들긴 하는데요. 어쨌든 완전히 무료 버전은 아니다. 그리고 지금 여기 기능에 보면이 유료 결제를 하지 않으면 음성 녹음이 한시간까지만 되는데 더 하려고 그러면 어쨌든 유료 결제를 해야 된다. 뭐 요런 거는 참고하시면 될 거 같고요. 그리고 다른 단점이라고 하면 삼성트는 요렇게 손필기도 검색이 잘 되는데 근데 스타운트 같은 경우에는이 키보드로 타이핑한 건 검색이 되는데 손으로 쓴 글씨는 검색이 안 된다. 요런 건 좀 아쉬울 수도 있을 것 같고요. 그리고 삼성호트는 여러 기기 동기화 기능이 되게 잘 되는데 스타운트는요 뭐 자동업, 수동 백업 그리고 클라우드 백업도 구글 드라이브나 원드라이브 백업 다 되거든요. 근데 실시간 동기화라고 할 정도의 기능은 안 된다. 지금은 백업 기능만 된다. 요런 거는 뭐 참고하셔야 될 부분이라고 생각하고요. 그리고 스타운트는 아이패드용 버전이 있는데 윈도우이 따로 없어 가지고 지금 필기한 거를 뭐 윈도우에서 보고 막 이렇게 하는 거는 안 된다. 이것도 삼성노트랑 비교하게 되면 약점이라고 할 수 있을 것 같습니다. 그 외에는 스타노트의 단점이라고 할 만한게 어 진짜 잘 없는 거 같은데. 아 맞다 맞다 맞다. 이거는 사람에 따라 좀 결정적일 수도 있는데요.이 앱은 보시면 한글화는 굉장히 완벽하거든요. 근데이 앱은 중국 앱입니다. 그래서 나는 아 중국 앱 그런 거 싫어. 그리고 뭐 동기화되는 윈도우기 기능 꼭 필요해. 그리고 송물씨 검색 기능도 필요하고 어쨌든 뭐 열장 넘어가면 유료다 싫어. 뭐 워하신 분들한테는 삼성호트가 스타운트보다 훨씬 낫긴 한데요. 근데 지금 최근에 스타운트 업데이트 거 보니까 앞으로 기능적인 측면에서 삼성트보다 훨씬 더 많이 차이가 벌어질 것 같거든요. 그래서 삼성호트도 요즘 많이 업데이트 되고 있다곤 하지만 좀 더 업데이트가 되었으면 좋겠고요. 삼성호트만 쓰시던 분들도 꼭 스타운트로 안 넘어가시더라도 아 저런게 있었네. 삼성태 저런게 들어갔으면 좋겠네 하는 약간 시야를 넓히는데 이번 영상이 좀 도움이됐으면 좋겠습니다. 네. 그럼 이번 영상 여기까지 할게요. 감사합니다.",
+      "analysis_date": "2026-04-19T23:48:56+00:00",
+      "channel_name": "테크몽 Techmong",
+      "topic_tags": [],
+      "keywords": [
+        "와..",
+        "삼성노트보다",
+        "좋은데요",
+        "전세계에서"
+      ],
+      "tools": [],
+      "flow": [
+        "처음 15초 안에 문제를 선명하게 정의하고 왜 지금 봐야 하는지 못 박는다.",
+        "중간 구간에서 툴, 사례, 비교 포인트를 빠르게 제시해 정보 밀도를 높인다.",
+        "마지막에는 시청자가 바로 따라할 수 있는 다음 액션과 적용 예시로 닫는다."
+      ],
+      "claims": [
+        "단순 소개보다 실제 사용 장면을 바로 보여주는 구조가 반응을 만든다.",
+        "큰 담론보다 작은 병목 하나를 해결해주는 포장 방식이 클릭으로 이어지기 쉽다."
+      ],
+      "transcript_highlights": [
+        "근데 얘는요 줄 간격도 이렇게 조절할 수 있네요. 그럼 스타노트는 삼성호트랑 비교했을 때 아쉬운 점 없냐? 그래서 약간 산동 쓰는 모든 분들이 스타운트 이제부터 쓰세요 하기에는 좀 주의화될 점이 여기까지 있습니다.",
+        "그래서 손필기앱을 여러 개 쓸 필요 없이 스타노트 하나로 다 할 수 있다는 거는 진짜 좋긴 한데 사실 학생분들은 PPT나 워드 이런 것도 많이 쓰시지만 PDF 파일로 북스캔한 파일을 여기 띄어 가지고 쓸 때가 진짜 많잖아요. 아, 다른 부분도 다른 부분인데이 PDF에 필기하는 입장에서는 스타노트랑 삼성노트랑 비교 대상이 아닐 정도로 스타노트가 압도적으로 좋습니다. 지금 삼성노트에서 한 989페이지 있쓴 데는 굉장히 많은 페이지의 PDF 파일을 불러왔습니다.",
+        "그래서 약간 산동 쓰는 모든 분들이 스타운트 이제부터 쓰세요 하기에는 좀 주의화될 점이 여기까지 있습니다. 그중에서 가장 큰 단점을 이제 순서대로 좀 말씀드리면 제가 지금까지는 다 보여 드린 기능이 무료 기능이거든요. 그리고 전 앞으로도이 무료 기능 내에서 충분히 쓸 수 있을 것 같긴 한데 저는 사실 노트 하나를 만들어도 굉장히 페이지를 여러 개 만든 방식이지 뭐 필기할 때마다 노트를 새로 새로 새로 새로 만드는 타입은 아니란 말이에요."
+      ],
+      "top_comments": [
+        {
+          "video_id": "8r59q-53fbA",
+          "comment_id": "Ugz0tH5KjnPljcItgoJ4AaABAg",
+          "author": "@언노운7",
+          "text": "IP 주소 등 민감정보를 정부의 요청상 수집할 수 있다고 명시되어있습니다. \n무료는 무료인 이유가 있습니다. 조심하셔요 다들.",
+          "like_count": 90,
+          "reply_count": 15,
+          "published_at": "2026-04-19T11:38:04Z"
+        },
+        {
+          "video_id": "8r59q-53fbA",
+          "comment_id": "Ugwx4_I9fw9wACyi8St4AaABAg",
+          "author": "@JJE",
+          "text": "하수 : 이번에 스타노트로 넘어가야겠다.\n고수 : 곧 삼성노트에도 추가될 기능들 이구나!",
+          "like_count": 24,
+          "reply_count": 0,
+          "published_at": "2026-04-19T14:50:42Z"
+        },
+        {
+          "video_id": "8r59q-53fbA",
+          "comment_id": "Ugwx9UZ8jjTd2XmtHRh4AaABAg",
+          "author": "@종인35",
+          "text": "동기화 기능이 최대의 단점.\n전 유료 결제했는데도 동기화 문제 때문에 다시 플렉슬로 넘어왔습니다\n진짜 너무 심각한 단점...",
+          "like_count": 16,
+          "reply_count": 4,
+          "published_at": "2026-04-19T12:01:42Z"
+        },
+        {
+          "video_id": "8r59q-53fbA",
+          "comment_id": "UgxO_b9BFn2p2HYECHp4AaABAg",
+          "author": "@햄님-m2f",
+          "text": "와 기능 진짜 좋네요..! 근데 옮기기 너무 귀찮아서 삼성노트 발전할때까지 더 기다려볼래요...ㅋㅋㅋㅠㅠ",
+          "like_count": 3,
+          "reply_count": 0,
+          "published_at": "2026-04-19T13:37:50Z"
+        },
+        {
+          "video_id": "8r59q-53fbA",
+          "comment_id": "Ugx5KbgkKhV5YHWxJaR4AaABAg",
+          "author": "@hanchonghyun",
+          "text": "좋은정보 감사합니다.",
+          "like_count": 0,
+          "reply_count": 0,
+          "published_at": "2026-04-19T12:43:01Z"
+        }
+      ]
+    },
+    {
+      "video_id": "IEItmsDDcIs",
+      "channel_key": "ucr-bsquguonpv3kxjsjorga",
+      "title": "클로드가 만든 역대급 디자인 툴, 영상 편집의 판도를 바꿔버렸습니다 ㄷㄷ",
+      "description": "클로드가 영상 편집까지 정복했습니다. 그 방법, 이번 영상에서 다 보여드릴게요.\n\n👉 유튜브 시작이 막막하신가요? 제가 도와드릴게요: https://bit.ly/4haVYBa\n\n▶ 300만 원 유료 강의급 유튜브 노하우, 더 유명해지기 전에 빨리 보세요: https://youtu.be/jN-aIOejkVI \n\n——————————————\n\n클로드 디자인: https://claude.ai/design\n\n——————————————\n\n✨ AI 머니 프롬프트 공유 & 공지방 2: https://open.kakao.com/o/gSFZTOli\n\n——————————————\n\n📘 [출간 즉시 베스트셀러 1위] 부의 자율주행: AI 머니 플로우: https://bit.ly/4bHJyjf\n\n——————————————\n\n📧 비즈니스 문의: aimoney489@gmail.com",
+      "published_at": "2026-04-19T08:00:21Z",
+      "duration_seconds": 258,
+      "view_count": 2488,
+      "like_count": 83,
+      "comment_count": 6,
+      "engagement_rate": 0.03577170418006431,
+      "thumbnail_url": "https://i.ytimg.com/vi/IEItmsDDcIs/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=IEItmsDDcIs",
+      "format": "워크플로우 튜토리얼",
+      "hook_type": "문제 해결",
+      "title_pattern": "핵심 포인트 직설형",
+      "one_line_summary": "이 영상은 automation 이슈를 워크플로우 튜토리얼 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "why_it_works": "문제 해결 훅으로 관심을 끌고, 워크플로우 튜토리얼 형식으로 내용을 빠르게 정리해 시청자가 '바로 써먹을 수 있다'고 느끼게 만듭니다.",
+      "recommendation": "훅 구조: 도입 15초 안에 '문제 해결' 관점으로 문제를 못 박고, 왜 지금 봐야 하는지 먼저 선언합니다. • 복제할 포장 요소: 워크플로우 튜토리얼 형식을 유지하되 automation를 실제 사용 장면 1개와 결과 변화 2개로 더 좁혀 설명합니다. • 비어 있는 콘텐츠 영역: 'automation가 내 작업 흐름에서 어디에 꽂히는가'를 사례 중심으로 보여주는 후속 영상이 비어 있습니다. • 추천 제목: automation 이슈를 내 채널 관점으로 다시 정리해보자 • 썸네일 카피 힌트: automation 지금 봐야 할 3가지",
+      "transcript_status": "available",
+      "transcript_source": "apify",
+      "transcript_language": "ko",
+      "transcript_text": "여러분, 클로드가 정말 역대급 디자인툴을 얼마 전에 만들었습니다. 혹시 유튜브 채널 운영하시면서 이런 고민해 보신 적 있으세요? 영상은 찍고 싶은데 얼굴 공개는 부담스럽고 그렇다고 애프터 이펙트 같은 모션 그래픽 프로그램을 배우자니 너무 어렵고 그래서 결국 시작도 못 하고 계시잖아요. 오늘 제가 그 고민을 완전히 해결해 드릴게요.이 영상 하나만 보시면 디자인 지식 하나 없이도 방송국 수준의 모션 그래픽을 직접 만들 수 있게 됩니다. 그것도 단 몇 초만해요. 끝까지 집중해서 봐 주세요. 먼저 고정 댓글 링크를 통해 클로드 디자인에 접속합니다. 클로드 디자인은 AI 회사 엔트로픽이 최근에 공개한 비주얼 제작 툴인데요. 글로 설명만 하면 그래프, 애니메이션, 인포그래픽 같은 모션 그래픽을 몇 초 만에 뚝딱 만들어 줍니다. 디자인 지식이 전혀 없어도 누구나 쉽게 쓸 수 있어요. 참고로 클로드 디자인은 클로드 유로플랜 구독자만 사용 가능하니이 점 참고 바랍니다. 먼저 모션 그래픽을 만들기 위해 좌측 메뉴에서 프롬 템플릿을 클릭합니다. 그리고 프로젝트명을 아무거나 지은 후 애니메이션에 체크하고 크리에이트 프롬 템플릿을 클릭합니다. 이제 중앙에 이걸 클릭합니다. 여기서 대박인 점은 저희가 그린 그림을 토대로 모션 그래픽 애니메이션을 생성할 수 있습니다. 먼저 마우스 자측 버튼을 클릭한 채로 이렇게 움직이면 선을 그을 수 있고요.이 버튼을 클릭하면 선 색깔도 원하는 걸로 변경하실 수 있습니다. 그리고 만약 선을 지우고 싶다면 키보드의 컨트롤 버튼과지 버튼을 클릭하면 제거할 수 있습니다. 이제 본격적으로 모션 그래픽을 만들어 보겠습니다. 저는 지금 보이는 그래프가 우상향하는 애니메이션을 만들어 볼 예정입니다. 클로드 디자인으로 돌아와서 시프트를 누른 채에 마우스로 이렇게 드래그하면 직선을 손쉽게 그릴 수 있습니다. 가로 직선도 동일한 방법으로 만들어 보겠습니다. 이제 아까 예시 영상처럼 그래프가 우상향하는 모습을 마우스로 드래그해서 만들어 보겠습니다. 이건 시프트 키를 누를 필요 없이 그냥 그리시면 됩니다. 좋습니다. 이제 좌측하단 프롬프트란에 어떤 모션 그래픽을 생성하고 싶은지 클로드 디자인에게 구체적인 지시를 내리면 됩니다. 저 같은 경우 어두운 검은색 배경 위에 미니멀 한 주가 그래프를 만들어 달라고 요청하겠습니다. 제가 이번 영상에서 활용한 모든 프롬프트는 고정 댓글에 있는 프롬프트 공유방 공지 사항에 모아두겠습니다. 다음으로 하단에 샌드를 클릭해서 애니메이션을 생성합니다. 여기서 조금만 기다리시면 이렇게 애니메이션이 생성되는데 한번 확인해 보겠습니다. 클릭단 몇 번만으로고 퀄리티의 모션 그래픽 애니메이션이 생성됐네요. 완벽합니다. 이번엔 조금 더 구체적인 프롬프트를 넣어서 그래프가 상승하는 부분이 더욱 더 강조되도록 만들어 보겠습니다. 그래프가 상승하기 시작하는 부분부터 그래프가 빨간색으로 변했네요. 제가 원한 대로 그래프가 생성됐습니다. 좋습니다. 이번엔 다른 애니메이션 또한 만들어 보겠습니다. 프롬프트 공유방에 있는 세 번째 프롬프트를 복사해서 좌측 프롬프트란에 붙여 넣겠습니다. 해당 프롬프트를 통해 검은색 배경의 미니멀한 막대 그래프를 만들어 볼 예정입니다. 보시다시피 프롬프트가 구체적이면 구체적일수록 여러분께서 원하는 애니메이션이 생성될 확률이 높아집니다. 좌측 하단에 샌드를 클릭해서 애니메이션을 생성합니다. 한번 확인해 보겠습니다. 제가 의도한 대로 막대 그래프가 점점 커지는 애니메이션이 생성됐네요. 여기서 한 가지 꿀팁을 드리겠습니다. 이렇게 애니메이션에서 수정하고 싶은 부분에서 정지 버튼을 누른 뒤 우측 상단에 에디 버튼을 클릭하면 애니메이션을 수정할 수 있습니다. 예를 들어 막대 그래프에서 숫자 94.6 6부분을 100으로 수정할 수 있습니다. 이외에도 다른 요소들 또한 수정이 가능하니 이건 여러분께서 직접 해 보시면서 배워 보시는 걸 추천드립니다. 이제 몇 가지 프롬프트를 통해 애니메이션을 더 생성해 보겠습니다. 예를 들어 제가 최근에 출간한 책 부의 자율주행이라는 문구가 한 글자씩 타이핑되듯이 나타나는 애니메이션을 만들어 보겠습니다. 결과물을 한번 보시죠. 단 몇 초만에 고퀄리티의 애니메이션이 생성됐네요. 좋습니다. 다음으로 숫자가 점점 내려가는 카운트다운 애니메이션을 만들어 보겠습니다. 좋습니다. 마지막으로 제가 생성한지도 애니메이션도 확인해 보시죠. 퀄리티가 정말 대박입니다. 클로드 디자인으로 인해 애프터 이펙트 등 모션 그래픽 2를 꼭 활용해야만 가능했던 작업들을 디자인에 대해 1도 모르는 일반인도 이제 할 수 있게 됐습니다. 제가 이번 영상에서 보여 드린 예시는 극히 일부분에 불과하며 활용하기에 따라 잠재력은 정말 무궁무진하다고 생각됩니다. 혹시 하다가 궁금한 점이 생긴다면 댓글로 질문 주시고 이번 영상이 도움되셨다면 지금 화면 중앙에 보이는이 영상도 꼭 확인해 보세요. 유튜브 운영에 많은 도움이 되실 겁니다.",
+      "analysis_date": "2026-04-19T23:49:00+00:00",
+      "channel_name": "AI 머니",
+      "topic_tags": [
+        "automation"
+      ],
+      "keywords": [
+        "automation",
+        "Claude",
+        "클로드가",
+        "만든",
+        "역대급",
+        "디자인"
+      ],
+      "tools": [
+        "Claude"
+      ],
+      "flow": [
+        "처음 15초 안에 문제를 선명하게 정의하고 왜 지금 봐야 하는지 못 박는다.",
+        "중간 구간에서 툴, 사례, 비교 포인트를 빠르게 제시해 정보 밀도를 높인다.",
+        "마지막에는 시청자가 바로 따라할 수 있는 다음 액션과 적용 예시로 닫는다."
+      ],
+      "claims": [
+        "단순 소개보다 실제 사용 장면을 바로 보여주는 구조가 반응을 만든다.",
+        "큰 담론보다 작은 병목 하나를 해결해주는 포장 방식이 클릭으로 이어지기 쉽다."
+      ],
+      "transcript_highlights": [
+        "여러분, 클로드가 정말 역대급 디자인툴을 얼마 전에 만들었습니다. 혹시 유튜브 채널 운영하시면서 이런 고민해 보신 적 있으세요? 영상은 찍고 싶은데 얼굴 공개는 부담스럽고 그렇다고 애프터 이펙트 같은 모션 그래픽 프로그램을 배우자니 너무 어렵고 그래서 결국 시작도 못 하고 계시잖아요.",
+        "여러분, 클로드가 정말 역대급 디자인툴을 얼마 전에 만들었습니다. 혹시 유튜브 채널 운영하시면서 이런 고민해 보신 적 있으세요?",
+        "제가 이번 영상에서 보여 드린 예시는 극히 일부분에 불과하며 활용하기에 따라 잠재력은 정말 무궁무진하다고 생각됩니다. 혹시 하다가 궁금한 점이 생긴다면 댓글로 질문 주시고 이번 영상이 도움되셨다면 지금 화면 중앙에 보이는이 영상도 꼭 확인해 보세요. 유튜브 운영에 많은 도움이 되실 겁니다."
+      ],
+      "top_comments": [
+        {
+          "video_id": "IEItmsDDcIs",
+          "comment_id": "Ugw8inQ8ln7i7mQnBlh4AaABAg",
+          "author": "@제프리02",
+          "text": "와..  클로드 디자인  활용하면  수월해지는 분야가 많겠네요",
+          "like_count": 0,
+          "reply_count": 0,
+          "published_at": "2026-04-19T11:30:42Z"
+        },
+        {
+          "video_id": "IEItmsDDcIs",
+          "comment_id": "UgwcMUMlo56MFmgBwiV4AaABAg",
+          "author": "@BaeGS배강식tv",
+          "text": "감사합니다💯💯💯",
+          "like_count": 0,
+          "reply_count": 0,
+          "published_at": "2026-04-19T11:25:53Z"
+        },
+        {
+          "video_id": "IEItmsDDcIs",
+          "comment_id": "UgzBgyUhyqcDCVwXVoF4AaABAg",
+          "author": "@okham62",
+          "text": "새로나온 클로드 디자인 궁금했는데, 역시 여기는 쉽게 빠르게 다뤄주시네, 참 좋네요, 감사합니다^^",
+          "like_count": 0,
+          "reply_count": 0,
+          "published_at": "2026-04-19T09:05:23Z"
+        },
+        {
+          "video_id": "IEItmsDDcIs",
+          "comment_id": "Ugz9fjLpCnvH8nF5nwJ4AaABAg",
+          "author": "@cucuyoo1780",
+          "text": "항상 감사합니다 잘 보고 있어용!얼마전에 클로드 구독했는데 클로드를 활용해서 ai노래를 옛날동화감성 ai영상(뮤비처럼)으로 제작하는 꿀팁 알려 주실 수 있을까요? 자동화면 더 좋구요!(그록 이외의 방법)",
+          "like_count": 0,
+          "reply_count": 0,
+          "published_at": "2026-04-19T08:54:29Z"
+        },
+        {
+          "video_id": "IEItmsDDcIs",
+          "comment_id": "Ugx7sEz2ADyYq1mQNBp4AaABAg",
+          "author": "@AI머니",
+          "text": "👉 유튜브 시작이 막막하신가요? 제가 도와드릴게요: https://bit.ly/4haVYBa\r\n\r\n▶ 클로드 코드로 어떤 유튜브 채널이든 복사하는 방법 (코딩 필요 없음): https://youtu.be/A8-pmsgGBXI\n\n——————————————\r\n\r\n클로드 디자인: https://claude.ai/design\n\n——————————————\n\n✨ AI 머니 프롬프트 공유 & 공지방 2: https://open.kakao.com/o/gSFZTOli\r\n\r\n——————————————\r\n\r\n📘 [출간 즉시 베스트셀러 1위] 부의 자율주행: AI 머니 플로우: https://bit.ly/4bHJyjf\r\n\r\n——————————————\r\n\r\n📧 비즈니스 문의: aimoney489@gmail.com",
+          "like_count": 0,
+          "reply_count": 0,
+          "published_at": "2026-04-19T07:55:02Z"
+        }
+      ]
+    },
     {
       "video_id": "H5UrlNRSzYc",
       "channel_key": "ucducjkyztf-1wjyppietf1g",
