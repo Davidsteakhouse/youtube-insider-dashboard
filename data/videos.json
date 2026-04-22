@@ -1,8 +1,999 @@
 {
-  "generated_at": "2026-04-21T23:48:29+00:00",
+  "generated_at": "2026-04-22T23:55:27+00:00",
   "source": "sqlite_export",
-  "video_count": 198,
+  "video_count": 209,
   "videos": [
+    {
+      "video_id": "8TkCz3S85rA",
+      "channel_key": "uchhyxslbevvnbvsq57n1mtq",
+      "title": "I Spent 10K Hours with AI. Here's How to Avoid Getting Overwhelmed...",
+      "description": "Subscribe for weekly AI tutorials and news you can actually use!\n\nCome join me for The AI Advantage Summit! 👉 https://aiadvantagesummit.com/rsvp-now?source=aiayt&a=101612\n\nIn this video, Igor teaches you what he thinks is the most important concept to understand after 10k hours with AI. Learn this technique and you will be able to avoid the AI overwhelm and actually start getting results from AI. Enjoy!\n\nLinks:\n🔑  Free ChatGPT Prompt Templates: https://bit.ly/newsletter-aia\n🧑‍💻 Igor Pogany on LinkedIn: https://bit.ly/IgorLinkedIn\n🐦Twitter/X: https://bit.ly/AIAonTwitter\n📸 Instagram: https://bit.ly/AIAinsta",
+      "published_at": "2026-04-22T18:35:55Z",
+      "duration_seconds": 716,
+      "view_count": 1916,
+      "like_count": 141,
+      "comment_count": 5,
+      "engagement_rate": 0.07620041753653445,
+      "thumbnail_url": "https://i.ytimg.com/vi/8TkCz3S85rA/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=8TkCz3S85rA",
+      "format": "워크플로우 튜토리얼",
+      "hook_type": "문제 해결",
+      "title_pattern": "핵심 포인트 직설형",
+      "one_line_summary": "이 영상은 agents 이슈를 워크플로우 튜토리얼 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "why_it_works": "문제 해결 훅으로 관심을 끌고, 워크플로우 튜토리얼 형식으로 내용을 빠르게 정리해 시청자가 '바로 써먹을 수 있다'고 느끼게 만듭니다.",
+      "recommendation": "훅 구조: 도입 15초 안에 '문제 해결' 관점으로 문제를 못 박고, 왜 지금 봐야 하는지 먼저 선언합니다. • 복제할 포장 요소: 워크플로우 튜토리얼 형식을 유지하되 agents를 실제 사용 장면 1개와 결과 변화 2개로 더 좁혀 설명합니다. • 비어 있는 콘텐츠 영역: 'agents가 내 작업 흐름에서 어디에 꽂히는가'를 사례 중심으로 보여주는 후속 영상이 비어 있습니다. • 추천 제목: agents 이슈를 내 채널 관점으로 다시 정리해보자 • 썸네일 카피 힌트: agents 지금 봐야 할 3가지",
+      "transcript_status": "available",
+      "transcript_source": "apify",
+      "transcript_language": "en",
+      "transcript_text": "I&#39;ve spent over 10,000 hours with AI tools, using them, exploring with them, building a business around them. And at this point in a live setting, I&#39;ve taught well over a 100,000 people. If you look at the YouTube channel, over 30 million people. And here&#39;s the thing, to be completely honest, 90% of what I learned doesn&#39;t matter anymore. It&#39;s outdated, replaced by a new tool, a new technique, a new way to work. But the 10% that&#39;s left, that&#39;s what I want to share today. not another tool, not another prompting technique, not another workflow or thing to pay attention to, but the principles behind getting actually proficient at this. Fluent, not just confident at using AI in your everyday life, your business, your processes, all of that. I know that&#39;s the reason why a lot of people get into the space, the reason a lot of people open YouTube, go on Twitter, subscribe to newsletters. They want an understanding of how to apply it for themselves and how to apply it in their business and in their career. But the problem is, you go online and it&#39;s noise. The internet is noise when it comes to AI. Every creator pushes their version of what is the next gamechanging thing. Every news outlet pushes the latest PR release of the big tech company so they can push their valuations further. And it makes sense. But the consumer at the end of the day, the individual gets left behind, gets overwhelmed, gets frustrated with the fact that they keep trying, keep consuming, but there&#39;s no real progress. Anybody else feels like they&#39;re consuming it all, but really nothing is changing in the way they operate. I know I&#39;ve been there so many times. I know so many people get stuck at a certain point where they&#39;re like, I don&#39;t know what&#39;s next. And it&#39;s not you. It&#39;s not your mistake. It&#39;s the system. It&#39;s not designed to actually grow your skill, grow your capability, grow your systems. It&#39;s designed to hype the latest thing. And I&#39;m guilty of that, too. Heck, I mean, here I&#39;m creating content on YouTube, often times covering the latest and greatest. But let me tell you, all of these outlets, they have one thing in common. They have this subtext of h you need to learn AI. And then you land on a channel like this or somewhere else on the internet and you&#39;re like, &quot;Okay, I&#39;m ready to do it.&quot; You know, you roll up your sleeves, you create your chat account, you upgrade, you start learning, you consume videos, all of that. But the problem is that it&#39;s so fragmented, right? Nobody tells you what to learn in what order. And it&#39;s not because they don&#39;t care, but often times the time horizon is just too short. The creators focus on getting views today. That&#39;s how the game works. That&#39;s what the algo is optimized for. But as I said, I&#39;ve seen this pattern so many times at this point that I kind of like zoomed out and looked at the bigger picture and then I looked at the results that all the students who were successful have gotten and they have one thing in common. And that one thing I captured in this free level framework. I call this the pyramid of AI progression. And that&#39;s a core topic of today&#39;s video. Usually I do how-to videos, right? I share my screen. I show you the step by step. But this is really more about the high level of how to think about progressing with AI if this is actually something you want to implement in your life, whether it&#39;s work or personal. and together with the team I turned it into visuals. So have a look at it. It&#39;s quite simple. I call it the free levels of AI. Okay. So here are the free levels and we begin at the bottom. AI for answers. This is where everybody begins. As soon as you create a chat GB account or claude account or whatever it might be, you&#39;re using AI as basically a fancy Google. You type in questions that you have and you get answers immediately. It&#39;s useful instantly. And then maybe you go to these basic use cases like writing emails and generating ideas and creating meal plans. All of that is amazing. You&#39;re basically creating answers to questions in your head. In other words, you&#39;re actively solving problems. Now, there&#39;s nothing wrong with this level at all. Instantly, you&#39;re getting time savings. You&#39;re getting more leverage in your life by doing that, right? It&#39;s faster than a Google search. It does things that you couldn&#39;t do otherwise, like writing an email. But essentially, you&#39;re just answering questions. And usually, people at this level, they just have this feeling of like there must be more. There&#39;s nothing wrong with AI for answers with this first level, but that feeling is correct. There&#39;s definitely more. But what often happens is they often look all the way to the top of the mountain to this third level, AI working for you. And we&#39;ll get to that connecting tissue in a second here. But they look at AI working for you. They look at the term of an AI agent. And they want that. And it makes sense. It&#39;s so human, right? Like, oh my god, I could save energy, save time, have more leverage in my life if I just had an agent doing the work for me. It&#39;s just so intuitive, right? Like people just instantly get it. It&#39;s like having an extra employee at the cost of $20 a month or something. That&#39;s just something everybody wants and everybody grasps. Whether that&#39;s from all the sci-fi novels in the past or just basic human imagination, an agent is just something people want. And they usually try to jump from AI for answers straight to AI agent working for me. That&#39;s the third level. AI working for you. Now, here&#39;s the problem. If I were to compare it to human relationships, it&#39;s like going on a first date with a girl and then marrying her instantly. Like, does that have a good success rate? Absolutely not. How about you guys get to know each other first? See if you&#39;re compatible. maybe learn about each other a little bit, build a real relationship, and then decide if you want to spend the rest of your life together. Now, that&#39;s just an analogy, but the truth of the matter is people do that all the time, right? They get into AI, they start doing these basic things, and immediately they&#39;re like, &quot;Oh my god, let me check out Claude code. Let me check out, oh my god, Claude Co-work. What is this? I can schedule workflows. I&#39;m going to buy a Mac Mini and run my own Clawbot. This is going to be incredible.&quot; They go down that rabbit hole. The rabbit hole might be even fun. I&#39;m not denying that. But what I&#39;m talking about is here like long-term really measurable results in your personal life, in your work life, where you just objectively have so much more leverage where you couldn&#39;t imagine a reality before this radical change. That&#39;s what I&#39;m talking about. And when you do this jump from level one to level three, usually doesn&#39;t work. I see it all the time, right? Like people get hyped by the latest greatest, especially lately. Now everybody&#39;s like buying Mac minis and learning cloud code and figuring things out and connecting MCPs and doing all this stuff. And then I won&#39;t even ask you to leave a comment because some people will be like embarrassed by the fact that it&#39;s the reality of it. But a lot of people do this transition. They go to this goal of having an agent and one month later they&#39;re at exactly the spot where they were at before. They&#39;re again back to using AI for answers and none of these automations or aentic systems are actually running parts of their life. Now this is very common but the mistake is again not you. It&#39;s how AI is kind of handled on the internet these days. It&#39;s how the latest and greatest thing is always hyped up, but there&#39;s no conversation around, all right, so this thing exists now, but let&#39;s talk about where you&#39;re at for a second and let&#39;s talk about how to bridge that gap cuz that gap is very real. We&#39;re not in 2023 anymore where you kind of just pick up Chat GPT and start prompting and get into it. There&#39;s so much more now. And by the way, all of this is kind of talking to a mostly non-technical consumer. If you&#39;re building a startup or you&#39;re a developer, you have a lot of these prerequisites to go, you know, straight to Agentig and figure things out. But for most people, for most people that do not come from a deeply technical background, there is a progression. And that progression is from level one AI for answers to level two AI as daily work partner, which we can talk about now. And then eventually they level up from level two to level three AI working for you. Now, what is this level two about? And why is it essential to eventually get to level three? Well, AI as a daily work partner, the idea is really context management. It&#39;s context on you. It&#39;s context on your goals. It&#39;s context on your fears, on things that you accomplished, but also on what your life is set up like and what you like doing. And I added different applications and use cases at these three levels. But I really want to point out one thing for anybody who&#39;s at level one. Don&#39;t even bother with an app outside of the main LLM. What I mean by that is just pick one. Chachi, Claude, Gemini, and get good at that and start saving your context in an extra document. Information about your identity and other things that are irrelevant uniquely to you so that you can provide it to the AI so that at level two, you can eventually get answers that wouldn&#39;t make sense to anybody else on this planet. That&#39;s the goal, getting an answer that is so customized that it&#39;s uniquely useful to you. And that&#39;s when AI turns from this AI for answers machine to a daily work partner. And there&#39;s this keyword in there, daily. I think that&#39;s kind of the key and the prerequisite to even looking at level three. If you can&#39;t use naked chat GPT in a way that you&#39;re using seven days a week, don&#39;t think about getting an agent. Sure, you can look at some of the content. It&#39;s like, okay, this is interesting, but don&#39;t try to get your hands dirty. More likely than not, you will get burned, frustrated, and then have a resistance to even trying it again. Although the value there today is real. The cool thing at level two is that things like drafting documents that might seem intuitive at level one is like, okay, I&#39;m just using it for answers. It doesn&#39;t have deep context on me, but I can draft documents. Well, you can, but they&#39;re probably like 60 to 70% done. Whereas, if it has enough context, you&#39;ll get like 90 to 95% of the way done. It&#39;s a different world than whatever you do really. And the main thing is that if your goal is to get to level three where AI is working for you, which I believe that is the goal of most people watching this channel, I think living at level two is completely fine. And there&#39;s so much there. And level three is changing dayto-day. It really keeps developing so fast. But the key to get from level two to level three is you both being confident in your usage, but also being fluent with the tools. And if that&#39;s the case, then you&#39;re going to be using them daily. I don&#39;t care what you&#39;re doing. And if you&#39;re using them daily, you&#39;re also building context, whether that&#39;s through the memory feature or hopefully you curating it manually into files. And if you have that, then you can try all of the genetic stuff, which you know, pressing the buttons isn&#39;t hard, but making it work and finding the use cases and making the output of those use cases high quality enough so that it even becomes worth your time. A document that is only 50% of the way done wastes more time than it saves me. It&#39;s not worth using AI for. A document that is 80% of the way done, 90%, yes, sign me up. I&#39;m okay with finishing the last 10%. It saves so much time. And then the fun thing is that at level three, everything that you made work before, you can now put a system in place where it&#39;s truly automated. It triggers without your presence. You can be sleeping and the use cases that you found earlier with the right context attached to it just run by themselves. And the outputs are actually useful. Sort of just getting a faster car. But if the GPS is broken in the car, then there&#39;s no point in having a faster car. You&#39;re going in the wrong direction, but just going really fast now. So in other words, level three where AI working for you, it&#39;s really just about accelerating what you already discovered. And if you haven&#39;t discovered anything, don&#39;t bother venturing into that territory and get good first. Now, we&#39;re really taking this framework and building the entire AI advantage ecosystem around it. Whatever we teach now, we think about it through this lens. And if people start at level one, we make sure that they&#39;re damn solid at level two before we dare to enter level three. And I hope that this is also going to be helpful on your journey. Now, we actually think this educational framework and these ideas are so valuable that we designed an entire 3-day summit. Three hours a day for three days straight. incredible guests, Tony Robbins, Dean Graciosce, Ray Korsval, Arfur Brooks, so many more incredible guests, including me speaking about this exact framework and doing teaching sessions outside of that. All completely for free. Well, later this week, April 23rd through 25th. If you want, there&#39;s a link below in the description. You can come watch me talk. You can come watch the whole event. Again, it&#39;s completely free to participate. And now that you know this framework, I can tell you that the event is designed for level one and level two people. And this channel oftentimes is well level three, sometimes level one, sometimes level two, but from here on out I&#39;ll be able to reference this so you can contextualize everything that I might be teaching, showing off with this map of AI so that you can understand that, hey, if we&#39;re looking at a level three thing, this might be interesting to me, but I have some work left to do before I dive into the deep end of the pool just to find myself wondering why I&#39;m struggling to stay afloat. Well, the reason is that you should learn swimming first, which is level two, before you go into the deep end. So ultimately, I&#39;ll leave you with this. If you selfidentify as level one or level two, you don&#39;t need another video. You don&#39;t need another tutorial. You need to go use the tool and you need to consciously think about what the context is that you&#39;re giving it. And then ultimately, if you&#39;re comfortable at level three, there is a thing that we call level 3 plus, which would be all that madness. That is open claw. But I would never invite you to try that if you&#39;re not comfortable at level three yet. Funny thing is now with this in place, I kind of gave myself permission to create level three plus content without overwhelming the people who are just getting into it because I want to help those too because I really do want to help everybody. It&#39;s just not always possible at the same time as you can see. All right, I hope this was helpful and I&#39;ll hopefully see you at the summit.",
+      "analysis_date": "2026-04-22T23:54:25+00:00",
+      "channel_name": "The AI Advantage",
+      "topic_tags": [
+        "agents",
+        "automation",
+        "research",
+        "coding",
+        "comparison",
+        "news"
+      ],
+      "keywords": [
+        "agents",
+        "automation",
+        "research",
+        "coding",
+        "comparison",
+        "news",
+        "ChatGPT",
+        "Claude"
+      ],
+      "tools": [
+        "ChatGPT",
+        "Claude",
+        "Gemini",
+        "MCP",
+        "Arc"
+      ],
+      "flow": [
+        "처음 15초 안에 문제를 선명하게 정의하고 왜 지금 봐야 하는지 못 박는다.",
+        "중간 구간에서 툴, 사례, 비교 포인트를 빠르게 제시해 정보 밀도를 높인다.",
+        "마지막에는 시청자가 바로 따라할 수 있는 다음 액션과 적용 예시로 닫는다."
+      ],
+      "claims": [
+        "단순 소개보다 실제 사용 장면을 바로 보여주는 구조가 반응을 만든다.",
+        "큰 담론보다 작은 병목 하나를 해결해주는 포장 방식이 클릭으로 이어지기 쉽다."
+      ],
+      "transcript_highlights": [
+        "You can be sleeping and the use cases that you found earlier with the right context attached to it just run by themselves. And the outputs are actually useful. Sort of just getting a faster car.",
+        "I think that's kind of the key and the prerequisite to even looking at level three. If you can't use naked chat GPT in a way that you're using seven days a week, don't think about getting an agent.",
+        "They're again back to using AI for answers and none of these automations or aentic systems are actually running parts of their life. Now this is very common but the mistake is again not you. It's how AI is kind of handled on the internet these days."
+      ],
+      "top_comments": [
+        {
+          "video_id": "8TkCz3S85rA",
+          "comment_id": "UgwGZrDQr1APMXex34B4AaABAg",
+          "author": "@SanchezHenryMusic",
+          "text": "This was really helpful bro, thanks for content and insight 💯",
+          "like_count": 1,
+          "reply_count": 0,
+          "published_at": "2026-04-22T18:55:40Z"
+        },
+        {
+          "video_id": "8TkCz3S85rA",
+          "comment_id": "UgwvGfKTf3ft2_pEkuZ4AaABAg",
+          "author": "@nastied",
+          "text": "Igor im Happy to hear about your collab with the event. Ive been following you since 5k subs and really enjoyed it!  I host an event called Introvert Career Advantage since 5 years as a Career Coach , so we are cousins 😁",
+          "like_count": 0,
+          "reply_count": 0,
+          "published_at": "2026-04-22T19:28:33Z"
+        },
+        {
+          "video_id": "8TkCz3S85rA",
+          "comment_id": "UgzvMt8XFQAR82Ft30l4AaABAg",
+          "author": "@OpenWord2026",
+          "text": "At level 3 but just a beginner level 3!",
+          "like_count": 0,
+          "reply_count": 0,
+          "published_at": "2026-04-22T19:19:10Z"
+        },
+        {
+          "video_id": "8TkCz3S85rA",
+          "comment_id": "Ugy-tiABresfX4F_Vbh4AaABAg",
+          "author": "@aletheuscompendium",
+          "text": "this this this!!! 🎯 just went over this with a newbie in the SEM space. you covered a few things i missed. great explainer that i'll pass on to him and others. 🤙🏻",
+          "like_count": 0,
+          "reply_count": 0,
+          "published_at": "2026-04-22T19:13:40Z"
+        },
+        {
+          "video_id": "8TkCz3S85rA",
+          "comment_id": "Ugyvd44rBLHYyVh-iO14AaABAg",
+          "author": "@BayaniNLPH",
+          "text": "S/O to the OG !",
+          "like_count": 0,
+          "reply_count": 0,
+          "published_at": "2026-04-22T18:40:01Z"
+        }
+      ]
+    },
+    {
+      "video_id": "bFMu6JwHoUw",
+      "channel_key": "ucb11saf7wsn4grcqukoohrw",
+      "title": "???: 갤럭시 사생활 보호 기능? 10년 전에도 되던거네ㅋㅋㅋㅋ 스마트폰월드컵 #베가레이서",
+      "description": "",
+      "published_at": "2026-04-22T14:07:02Z",
+      "duration_seconds": 30,
+      "view_count": 12304,
+      "like_count": 104,
+      "comment_count": 6,
+      "engagement_rate": 0.008940182054616386,
+      "thumbnail_url": "https://i.ytimg.com/vi/bFMu6JwHoUw/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=bFMu6JwHoUw",
+      "format": "뉴스 분석",
+      "hook_type": "문제 해결",
+      "title_pattern": "핵심 포인트 직설형",
+      "one_line_summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "why_it_works": "문제 해결 훅으로 관심을 끌고, 뉴스 분석 형식으로 내용을 빠르게 정리해 시청자가 '바로 써먹을 수 있다'고 느끼게 만듭니다.",
+      "recommendation": "훅 구조: 도입 15초 안에 '문제 해결' 관점으로 문제를 못 박고, 왜 지금 봐야 하는지 먼저 선언합니다. • 복제할 포장 요소: 뉴스 분석 형식을 유지하되 뉴스 분석를 실제 사용 장면 1개와 결과 변화 2개로 더 좁혀 설명합니다. • 비어 있는 콘텐츠 영역: '뉴스 분석가 내 작업 흐름에서 어디에 꽂히는가'를 사례 중심으로 보여주는 후속 영상이 비어 있습니다. • 추천 제목: 뉴스 분석 이슈를 내 채널 관점으로 다시 정리해보자 • 썸네일 카피 힌트: 뉴스 분석 지금 봐야 할 3가지",
+      "transcript_status": "available",
+      "transcript_source": "apify",
+      "transcript_language": "ko",
+      "transcript_text": "야, 와. 화난 고향이 어떡해? 잠깐. 아, 너무 킹. 이때 시크릿 뷰라는 기능이 있었는데 뭘 봐. 화난 고양이. 이번에 S26 울트라에 들어갔잖아요, 기능이. 근데 이때 이게 사실 시초예요. 이미지 막 격자무늬 같은게 이렇게바 들어가면서 야, 와, 화난 고양이 어떡해? 잠깐만. 아, 너무 킹 받는데 이거는 솔직히 SE216 울트라 너무 잘 쓰고 있는 입장에서 영감을 준 팬택 메가레이스원. Yeah.",
+      "analysis_date": "2026-04-22T23:54:24+00:00",
+      "channel_name": "주연 ZUYONI",
+      "topic_tags": [],
+      "keywords": [
+        "갤럭시",
+        "사생활",
+        "보호"
+      ],
+      "tools": [],
+      "flow": [
+        "처음 15초 안에 문제를 선명하게 정의하고 왜 지금 봐야 하는지 못 박는다.",
+        "중간 구간에서 툴, 사례, 비교 포인트를 빠르게 제시해 정보 밀도를 높인다.",
+        "마지막에는 시청자가 바로 따라할 수 있는 다음 액션과 적용 예시로 닫는다."
+      ],
+      "claims": [
+        "단순 소개보다 실제 사용 장면을 바로 보여주는 구조가 반응을 만든다.",
+        "큰 담론보다 작은 병목 하나를 해결해주는 포장 방식이 클릭으로 이어지기 쉽다."
+      ],
+      "transcript_highlights": [
+        "이번에 S26 울트라에 들어갔잖아요, 기능이. 이미지 막 격자무늬 같은게 이렇게바 들어가면서 야, 와, 화난 고양이 어떡해? 아, 너무 킹 받는데 이거는 솔직히 SE216 울트라 너무 잘 쓰고 있는 입장에서 영감을 준 팬택 메가레이스원."
+      ],
+      "top_comments": [
+        {
+          "video_id": "bFMu6JwHoUw",
+          "comment_id": "UgwSVVCS_o1ei7lIgZR4AaABAg",
+          "author": "@Airbus380-h5i",
+          "text": "스카이 ~ \n진심 베가시리즈들 보면 은근 잘만들었지 ㅎㅎ \n부활했으면 좋겠다",
+          "like_count": 4,
+          "reply_count": 2,
+          "published_at": "2026-04-22T14:13:14Z"
+        },
+        {
+          "video_id": "bFMu6JwHoUw",
+          "comment_id": "UgyietUc_vQeV-f7fE54AaABAg",
+          "author": "@1IlIlIlIlIlIlIl",
+          "text": "일본 Sharp에서 veil view라는게 2005년부터 있었어요. 이게 진정 세계최초가 아닌지 싶어요. 예전에 다른 it유튜버한테도 댓글달았었는데 (컬러스케일님인지 뻘짓님인지..) 주연님도 한번 살펴봐주세요",
+          "like_count": 0,
+          "reply_count": 0,
+          "published_at": "2026-04-22T19:13:43Z"
+        },
+        {
+          "video_id": "bFMu6JwHoUw",
+          "comment_id": "UgwCCx49dylSiwPnzk94AaABAg",
+          "author": "@yuno1321",
+          "text": "베가 썼었는데 은근 잘 만들어서 좀비폰마냥 한참을 썼었던 ㅋㅋㅋ😂",
+          "like_count": 0,
+          "reply_count": 0,
+          "published_at": "2026-04-22T15:32:11Z"
+        },
+        {
+          "video_id": "bFMu6JwHoUw",
+          "comment_id": "Ugxljj_gSpe_eemUz7F4AaABAg",
+          "author": "@YouWun",
+          "text": "저게 뭐야  저런기능이라는게 있었어요?😮😮😮",
+          "like_count": 0,
+          "reply_count": 0,
+          "published_at": "2026-04-22T14:29:26Z"
+        }
+      ]
+    },
+    {
+      "video_id": "QrLaO-_r1aE",
+      "channel_key": "ucfx6adxoyqkxft933nb3rma",
+      "title": "아이폰 폴드 VS 갤럭시 와이드 폴드! 직접 만들어봤습니다",
+      "description": "무려 한 달이라는 시간을 갈아서 만든 아이폰 폴드와 갤럭시 와이드 폴드 목업🔥\n생각보다 너무 퀄리티있게 나와서 저희도 깜짝 놀랐는데요.\n자세한 내용은 영상에서 확인해보세요!\n\n⏰ TimeStamp ⏰\n00:00 - 아이폰 폴드 언박싱\n01:14 - 알루미늄 깎아봤습니다\n03:07 - 폴드7에서 힌지 뜯어옴ㅋㅋ\n05:40 - 이야 잘 접힌다\n06:30 - 완성본 기가 막힌다\n07:23 - 박스까지 만들어봤습니다\n07:50 - 디자인 1위는?\n11:10 - 그립감이.. 어..\n13:24 - 예상 가격 실화냐",
+      "published_at": "2026-04-22T11:20:15Z",
+      "duration_seconds": 856,
+      "view_count": 66195,
+      "like_count": 2568,
+      "comment_count": 454,
+      "engagement_rate": 0.0456529949391948,
+      "thumbnail_url": "https://i.ytimg.com/vi/QrLaO-_r1aE/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=QrLaO-_r1aE",
+      "format": "비교",
+      "hook_type": "비교",
+      "title_pattern": "직접 실험 + 결과 공개",
+      "one_line_summary": "이 영상은 비교 이슈를 비교 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "why_it_works": "비교 훅으로 관심을 끌고, 비교 형식으로 내용을 빠르게 정리해 시청자가 '바로 써먹을 수 있다'고 느끼게 만듭니다.",
+      "recommendation": "훅 구조: 도입 15초 안에 '비교' 관점으로 문제를 못 박고, 왜 지금 봐야 하는지 먼저 선언합니다. • 복제할 포장 요소: 비교 형식을 유지하되 비교를 실제 사용 장면 1개와 결과 변화 2개로 더 좁혀 설명합니다. • 비어 있는 콘텐츠 영역: '비교가 내 작업 흐름에서 어디에 꽂히는가'를 사례 중심으로 보여주는 후속 영상이 비어 있습니다. • 추천 제목: 비교 이슈를 내 채널 관점으로 다시 정리해보자 • 썸네일 카피 힌트: 비교 지금 봐야 할 3가지",
+      "transcript_status": "available",
+      "transcript_source": "apify",
+      "transcript_language": "ko",
+      "transcript_text": "안녕하세요. 테크몽입니다. 이번 영상에서는 폴더블 아이폰이랑 갤럭시 와이드 폴드에 대해서 얘기해 볼 건데요. 근데 이게 말로만 뭐 이렇게 나올 거 같아요. 뭐 루머가 이럴 거예요라 이런 것만 얘기를 하게 되면 좀 아쉬울 거 같아서요. 저희가 3D 프린터 씨 누가 저기로저런 어쨌든 이런 3D 프린터를 이용해 가지고 만들어 보긴 했는데요. 너무 허접해서 폰 가치가 않은 거예요. 그래서 저희가 이번에 약간 미친 척하고요. 재질이랑요. 무게도 실제 폰처럼 딱 맞추고 갤럭시 폴트 7을 직접 분해를 해서요. 내부 구조를 벤치마킹한 다음에 구속품을 하나하나 다 디자인을 하고요. 접히는 구조까지 직접 설계를 해서 폴더블 아이폰이랑 갤럭시 와이드 폴드를 요렇게 한번 만들어 봤습니다. 그리고 만든 김에 박스까지 한번 직접 만들어 봤는데요. 와, 진짜 퀄리티 죽이지 않나요? 그럼 저희가 열심히 만든 제품이니까 이걸 어떻게 만들었는지 간단하게 설명드리고요. 다른 폰이랑 좀 비교해서 살펴보도록 할게요. 저희는 처음에이 아이폰 울트라 아, 이것도 확정된 이름은 아니니까 그냥 편의상 아이폰 폴드라고 이제 부를게요. 요거를요 3D 프린팅으로 만든이 모급 제품을 딱 봤을 때요. 이걸 기준으로 제품이 뭐 어떤 거 같아요? 평가하면은 안 될 것 같다는 생각이 많이 들었습니다. 왜냐면 진짜 폰이라면요. 금속에 차가운 느낌과 적당히 묵직한이 느낌이 있어야 되는데 얘는 무게가 60g밖에 안 된단 말이에요. 그래서 저희는 스마트폰의 느낌을 낼 수 있는 재질을 좀 찾다가이 6061 알루미늄을 구했습니다. 사실 맘 같아선요. 삼성이 진짜 스마트폰 만들 때 사용하는 그 아머 알루미늄이라고 하는 그거 구하고 싶었는데 요거는 삼성이 만든 커스텀마금이고 저 같은 유튜버 나불랭이가 어떻게 구할 수 있는 수준이 아니에요. 그래서는 뭐 소형 전자 제품이나 뭐 자전거 프레임 같은데 많이 사용하게 되는이 6061 알루미늄으로 할 건데요. 그럼 이제 이거를 깎아 가지고 요런 식으로 스마트폰 테두리 프레임을 만들어야 되는데 요거는 진짜 딱딱한 금속이라서 사람 손으로 이렇게 깎는 거 안 되고요. 업체에 맡겨 가지고 요런 식으로 CNC 가공으로 정밀하게 가공을 해야 됩니다. 그래서 저희가 가공이 끝난 결과물을 좀 봤는데요. 측면이 좀 이렇게 까진 부분도 굉장히 많고요. 요런 돌출부 마감이 또 깔끔하게 안 나오더라고요. 아, 제가 예전에 엔지니어로 일했을 때 이런 제품을 업체에서 가져오게 되면 아, 이거 못 쓰겠는데요. 다시 만들어 줄 수 있겠어요라고 이렇게 막 얘기를 했는데 이번에는 제가 그 탑의를 들여 가지고 하는거다 보니까 아, 그냥 쓸까라는 생각이 좀 들더라고요. 근데 그래도 한번 했으면 좀 제대로 해야 되지 않을까 싶어 가지고 다시 만들어 가지고 좀 다듬은 결과가 이건데요. 지금 보시면 앞면이랑 뒷면 그리고 힌지 커버가 보이고요. 나중에 실패할 때를 대비해 가지고 아이폰 폴드 두 세트 갤럭시 와이드 폴드 두 세트를 만들었고 버튼도 실물 느낌이 나도록 요렇게 알루미늄을 깎아 가지고 준비했습니다. 참고로 지금은 아노다이징으로 표면 처리가 안 된 거라서 맨손으로 만지면 안 돼서 이렇게 장갑을 끼고 만지고 있는데요. 여기에 좀 실제 무게를 그대로 구현하려면 설계할 때부터 이렇게 황동 무게추에 비중이랑 부피까지 다 고려해 가지고 정밀하게 설계했고요. 지금 보이는이 황동이 바로 그 무게추입니다. 근데 저희가 만드는 폰은요. 이런 일반 빠타이 폰이 아니라 접었다 폈다 할 수 있는 폴더블 폰이잖아요.이 접히는 구조를 어떻게 설계할까라고 고민을 좀 하다가 폴드 세을 한번 뜯어 가지고 이렇게 흰지를 봤는데요. 이건 저희가 어떻게 설계할 수 있는 수준이 아니어서이 폴드 세의 흰지를 그대로 재활용해 가지고 쓰기로 했습니다.이 흰지 작동 방식을 자세히 보시면요. 이렇게 뒤로 돌리면은 중앙 기준으로 양쪽 끝에 힌지가 접히는 방식이고요. 요걸 옆에서 보면 요렇게 물방울 모양처럼 생기는 그래서 이거는 물방울 흰지라고도 불리는 그 흰지잖아요. 그래서 이걸 다시 펼치을 때 보면 여기 이렇게 매칭부가 있는데 저희가 깎은 알루미늄에도이 매칭부를 그대로 똑같이 구현을 해서 여기다가 나중에 흰지를 조립하게 될 거예요. 그리고 폴드 흰지를 재활용한 김에 여기에 사용된 부족품도 그대로 쓸 겁니다. 근데 신질을 접고 넣는 것까지는 좋은데 본체를 알루미늄으로 만들면 요걸 접을 때 약간 금속 소리가 나잖아요. 접었을 때이 소리가 나 된단 말이에요. 그래서이 소리를 구현하려 그러면 별도의 범퍼가 있어야 돼서 저희가 이것도 따로 만들었고요. 또 디스플레이도 어떻게 재용해 가지고 화면도 직접 띄울 수 있게 해 볼까 싶었는데 설계하는 것도 되게 어렵고 비용이 막 배로 더 뛰어 가지고 저희는 그냥 Pet 필름에다가 저희가 직접 디자인한 시안을 이렇게 UV 경화 디지털 프린팅 방식으로 이용해 가지고 인쇄를 했고요. 나중에 CNC 방식으로 자를 겁니다. 그리고 스마트폰 뒷면에 있는이 백커버는요. 글라스 소재를 이용해야 무선 충전이나 사용하는데 좀 문제가 없는데 그래서 저희는이 글라스 감의 후면 커버는 따로 만들었고요. 삼성은 보시면 음각으로 이렇게 삼성 애플은 이렇게 애플 로그까지 새겨 넣었습니다. 그럼 이제 재료 준비는 끝났고 여기다가 또 색을 입히고 그리고 표면에 강도로 올릴 수 있는 아노다이징 처리를 한번 해 볼게요. 저희는 무난하게 삼성 갤럭시에 흔히 쓰이는 약간 은빛을 띄는 실버 섀도우 색이라고도 하는데 요런 색으로 아노다이징 처리를 했고요. 이제 아노다이징이 끝났으니까 손으로 이렇게 맨손으로 만져도 되고 부품을 좀 겹쳐서 보여 드릴 수 있을 것 같은데 지금 이제 여기 보이는 칸에는 배터리 대신에 무게를 맞추기 위해서 이런 식으로 황동이 들어갈 예정이고요. 여기에 이제 후면 커버랑 그리고 CNC 가공이 된 디스플레이를 얹으면 요런 모습이고요. 여기에 또 카메라 렌즈까지 올리니까 아 진짜 약간 폼 같아 보이지 않나요? 그리고 전면도요. 힌지 조립하고 그 위에다가 디스플레이를 올리면 대략 이런 모습인데 여기까지 해보니까 이게 무게는 괜찮나라는 걱정이 좀 들더라고요. 지금 아이폰 폴드에 유출된 무게를 보면요. 한 250에서 255g 정도 되는데요. 저울에 저희가 만든 알루미늄 올리고요. 그리고 무게 추역하라는 황동 올리고 힌지 두 개도 순서대로 올리고 그리고 메인 디스플레이랑 커버 디스플레이 힌지 커버를 포함한 여러 가지 범퍼까지 올리니까 거의 무게가 예상치대로 나오더라고요. 여기에 나중에 측면 버튼이나 안에 나사 같은 거 좀 넣으면 거의 딱 맞을 것 같았어요. 그럼 이제 가장 중요한 힌지 조립을 하고 나면 요런 모양입니다. 이걸 가까이서 이렇게 보니까 폴즈 7의 힌지를 적출해서 제가 이렇게 연결하긴 했지만요. 진짜 이게 매칭이 너무 딱 맞으니까 약간 저희가 저기한 힌지 같지 않나요? 그리고 이렇게 만든 김에 요즘 또 갤럭시랑 아이폰의 대표 색상을 입히면 대충 요런 느낌입니다. 아 이렇게 보니까 진짜 괜찮아 보이지 않나요? 그럼 이제 신지 조류도 끝났으니까 작동감도 한번 확인해 봤는데요. 와 진짜 이건 제가 폴드를 많이 써 본 입장에서 딱 갤럭시 폴드 그러니까 폴드에서 느껴지는 그 작동감입니다. 사실 뭐 폴드 흰지를 뽑아서 만든 거니까 작동감이 똑같은 건 당연하긴 한데 만약에 제가 제품 만들 때 조금이라도 치수가 어디 하나가 안 맞게 되면 굉장히 쫙 펼쳐진 느낌이 안 날 수가 있는데 다행히 그런 문제는 전혀 없었고요. 그리고 폰을 닫고 나서 벌어지지 않게 이렇게 자속도 센스게 넣어서 다쳤을 때 그대로 벌어지지 않게 모양도 만들어 봤는데 딱 을도대로 되니까 진짜 좋고요. 그럼 여기에 디스플레이 얹고 각종 버튼이랑 카메라랑 플래시까지 다 붙여서 만들면 요런 모습입니다. 와 진짜 이건 다시 봐도 모이 아니라 실제품 같지 않나요? 너무 잘 만들었다. 진짜 닫을 때 느낌도 아 소리 고급진 거 보세요.이 소리 질감까지 그대로 구현을 했습니다. 진짜 제품이라고 해도 믿을 정도로 굉장히 정밀합니다. 저도 그래서 중간에 막 이렇게 잔금 해지하려고 손가락이 몇 번씩 이렇게 가더라고요. 사실 저희는요. 혹시나 이렇게 접었다 폈다 할 수 있는 샘플 만들다가 요거 실패할까 봐 이렇게 접는 샘플 말고 아예 펼쳐진 채로 유지가 되어 있는 요런 샘플도 같이 만들었거든요. 그래서 얘네들을 보면 주름이 하나도 없어요. 근데 이렇게 폴더블 모업이 잘 나올 줄 알았으면 얘네들은 그냥 안 만들고 했으면은 훨씬 더 돈을 아낄 수 있지 않을까라는 생각이 지금에서야 드는데 뭐 어쨌든 잘 나와서 참 다행이라는 생각이 들고 그리고 이렇게 만들다 보니까요. 또 욕심이 나 가지고 이번에 아이폰 4라고 하는이 아이폰 울트라 박스까지 실제로 마치 애플이 직접 만든 것처럼 굉장히 비슷하게 저희가 디자인도 실제로 했고요. 패키지까지 이렇게 만들어 가지고 인트로에서 보여 드렸던 건데요. 요거 AI로 만든 거 아니고요. 지금 보시면 이런 글자 하나하나, 폰트 하나하나까지 굉장히 저희가 공들에서 만든 제품이고이 커버 디자인도 저희가 어떻게 나올지 몰라 가지고 약간 예상해 가지고 그렇게 만들게 했는데 그런 의미에서 저희 채널 아직 구독 안 했으면 구독 한 번만 부탁드릴게요. 자, 그럼 이제 만드는 과정은 됐고요. 이제 다른 폰하고 비교해 가지고 한번 살펴볼 건데 지금 이게 아이폰 폴드고요. 이게 갤럭시 와이트 폴드 그리고 이게 갤럭시 폴드 7인데 화면 비율 차이가 진짜 많이 나긴 한다 그죠? 그리고 곧 나올 갤럭시 폴드 8도 7이랑 디자인이 거의 비슷하다고 알려져 있기 때문에 엔지은 폴드 7이지만랑 비슷하다고 생각하셔도 될 거 같은데요. 여러분은이 중에서 어느 디자인이 가장 마음에 드세요? 저희 내부 디자인 평가에서요.이 갤럭시 와이트폴드 디자인이 가장 평가가 좋았고요.요 두 개는 약간 호브로가 나녔습니다. 사실 저는 얘네 실무를 보기 전까지는요. 아, 이렇게 넓은 거는 디자인적으로 좀 부담스럽지 않나? 그리고 아무래도 애플이 디자인이 예쁘지 않을까라는 생각을 좀 했는데 요쪽만 봤을 때는 아이폰 폴드가 되게 예뻐 보이긴 하거든요. 왜냐면이 테두리가 둥글둥글해서요. 근데 이쪽을 보시면 이쪽은 접혔을 때 구조 때문에 동그랗게 만드는게 굉장히 힘들어요. 그럼 여기 공간이 또 남잖아요. 그래서 지금이 부분은 뭐 렌더링에서도 그렇고 저희가 만든 제품에서도 그렇고 요렇게 약간 틈이 굉장히 크게 있는데요. 알파벳 D 모양에 가깝게 요렇게 좌우 대층이 되지 않는 요런 디자인이 디자인적으로는 좀 아쉽더라고요. 그래서 이쪽 부분이 아이폰 폴드처럼 둥글둥글하게 라운드 값이 크지 않은 건 아쉽지만 그래도 여기랑 여기랑 공유 차이가 거의 안 나고 약간 좌우 대칭이 잘 되게끔 만든이 갤럭시 와이드폴드가 조금 더 디자인으로 정론된게 아닌가라는 생각이 들었습니다. 그리고 화면 비율은 위아래만 놓고 봤을 때는 갤럭시 와이드 폴드가 좀 더 길고 좌우 폭은 아이폰 폴드가 조금 더 넓았는데 와 이거보다가 폴드 비율 보니까 진짜 세로로 길긴 기네요. 근데 이번에 나오는 갤럭시 와이드 폴드라든지 이런 아이폰 폴드를 보면 좌우 폭이 일반 빠 타입보다 길어서요. 이렇게 키보드로 타이핑할 때 오타가 좀 적겠다는 생각은 드네요. 그래서 이게 폴드랑 플립이랑 보면요. 폴드는 약간 나이가 좀 있는 저 같은 사람이 쓰는 약간 아세폰 얼음 느낌이 좀 든다며 플립은 조금 젊은 사람들이 쓰는 폰 느낌 있잖아요. 그런데 지금이 갤럭시 와이드 폴드나 아이폰 폴드 같은 경우에는 화면 비율이 갤럭시 폴드보다 약간 플립이랑 좀 더 비슷한가라는 생각이 들어서 그런지 저희 내부에서도 이렇게 약간 가로로 넓은 디자인이 젊고 트렌디한 느낌이 든다. 그래서 저희 회사 여직원분들도 갤럭시 폴드는 써 보고 싶다는 생각이 별로 안 들었는데 얘네들은 한번 써 보고 싶다라는 얘기가 좀 나올 정도로이 비율에 대해선 긍정적이었습니다. 다만 이게요. 저희가 숫자로 봤을 때는 잘 체감이 안 됐는데 실제로 지금 유출되어 있는 무게 기준으로 똑같이 이렇게 만들어 보니까요. 폴즈 7은 무게가 한 210g 정도로 진짜 가벼운 느낌이고요. 와이드 폴즈도 이게 한 무게가 220g 정도로요 정도면 좀 들만하라는 느낌이 들었거든요. 근데 지금 알려진 정보에 따르면 아이폰 폴드의 무게는 250g 이게 조금 넘는 수준이라서 저희가 그거랑 비슷하게 만들어 봤는데 아 좀 무겁다는 느낌이 듭니다. 왜냐면 아이폰 17프로 맥스의 무게가 230g인데 그것도 무겁다고 못 드는 사람도 많고 그리고 아이폰 프로도 무겁다고 못든 사람들이 좀 있거든요. 그럼 이제 뒷면을 평가해 볼 차례인데요. 뒷면도 갤럭시 와이드 폴드는 여기 테두리 프레임 부분을 제외하고는 전부 다 글라스 재지로 돼 있다 보니까 좀 깔끔한 느낌이 들고요. 아이폰 폴드는 최신 아이폰 디자인 답게 위쪽에는 알루미늄으로 되어 있고 여기이 부분만 글라스로 되어 있어서 위아래 층이 이렇게 구분되어 있다 보니까 아 이건 제가 아직 뇌이징이 덜 돼서 그런지 조금 디자인적으로 아쉽다는 느낌이 들긴 하네요. 뒷면만 딱 놓고 봤을 때는 갤럭시 와이드폴드의 디자인이 훨씬 더 깔끔하고 예쁘다는 편이 많았습니다. 게다가 두께나 뭐 이런 걸 봐도요. 아이폰 폴드나 갤럭시 와이드 폴드나 거의 비슷하고이 그립감도 저 같은 경우엔 손이 좀 커 가지고 폴즈 7세을지면 이런 느낌, 와이트 폴드를지면 또 이런 느낌이라며 아이폰 폴즈도 제송 기준으로는 굉장히 잘 맞는데 하는 정도의 크기거든요. 그리고 저희 회사에서 보통 손 크기를 가지고 있는 남성이 이렇게 주니까 폴즈 7세은 아 위아래로 조금 긴가 싶은 느낌이 좀 들었고 와이드 폴즈는 정말 딱 쓰기 좋은 사이즈라는 느낌이 들었고요. 아이폰 폴드는 좌우로 폭이 좀 넓어져 가지고 약간 불편해 보이는 정도의 크기였긴 했습니다. 그리고 참고하시라고 이렇게 손이 작은 여성분이 이렇게 주셨을 때 느낌을 봤는데 와 이건 한 손으로 조작하는 거 기준으로는 지금 이렇게 아이폰 폴즈나 갤럭시 와이트 폴드나 다 커버이긴 하네요. 손이 작은 여성분 기준으로는 커버 디스플레이 사용성 측면에서는 일반 갤럭시 폴드가 가장 좋아 보이긴 했습니다. 그럼 이제 내부 디스플레이 기준으로 디자인이나 이런 평가를 해 보면 어떨까요? 아이폰 폴드가 압도적으로 예뻐요. 요런 둥글둥글한 테두리가 자방으로 다 둘러져 있는게 진짜 밑적 완성도가 높아 보입니다. 요런 안에 들어가 있는 공 같은 것들이 전부 다이 테두리 공이랑 너무 비슷해 가지고 굉장히 통일감 있고 예쁘긴 하거든요. 근데 갤럭시 와이드 폴드 같은 경우에는 이런 공률이 좀 다르기도 하고 여기 사용된 색 자체가 갤럭시는 약간 고급스러움, 아이폰 폴드는 약간 예쁨 이걸 강조해서 그런지 전 내부 디스플레이 기준으로는 이쪽이 훨씬 더 나은 거 같습니다. 아 그리고 이렇게 펼친 김에요. 제가 이렇게 폰을 양손으로 잡았을 때 그립감이요. 갤럭시 와이드 폴드는이 카메라 부분이 손에 약간 걸리짓거리 요런 느낌이 살짝 들었는데 아이폰 폴드는 또 지었을 때 그런 느낌이 하나도 없이 진짜 깔끔하게 이렇게 지어진 느낌이 들어 가지고 그리고 펼쳐서 두 손으로 드니까 아이폰 폴드는 그렇게 무거운 느낌도 덜 들고 그래서 아 요렇게 드니까 약간 괜찮은 거 같다라는 생각이 약간 들긴 합니다. 아 그리고 이번에 이렇게 커버 디스플레이랑 내부 디스플레이가 이렇게 넓어지니까요. 영상 볼 때 디스플레이를 훨씬 더 효율적으로 쓸 것 같다는 생각이 들었습니다. 일반 갤럭시 폴드 같은 경우에는 커버 디스플레이로 영상을 볼 때 좀 나왔는데 내부 디스플레이로 영상을 볼 때는 화면에 남는 공간이 굉장히 많았잖아요. 근데 지금 아이폰 폴드라든지 갤럭시 와이드 폴드는요. 특히 아이폰 폴드가 가로로 조금 더 길다 보니까 영상 볼 때 가장 최적의 폴더 볼는 아이폰 폴드가 가장 비율이 나아 보여요. 물론 옆에 갤럭시 트라이폴드 들어오게 되면 느낌이 많이 다르긴 한데요. 그리고 그냥 참고하시라고 옆에 아이패드 미니도 이렇게 한번 가져와 봤는데 확실히 얘는 태블리급 크기라고 하기에는 조금 작긴 하네요. 자, 그럼 이제 어떻게 보면 가장 중요한 가격을 얘기할 차례인데요. 지금 알려진 바에 따르면 아이폰 폴드는 거의 한 300만 원. 갤럭시 폴드나 와이드 폴드는 그거보다 조금 저렴할 거라는 얘기가 돌던데 와 진짜 요즘 아무리 랭이 반도체 가격이 올랐다고 하지만 300만 원 대부터 시작이다 요건 좀 비싸게 느껴지긴 하죠. 물론 아직 가격은 루머 단계고 실제로 얼마에 나올지는 좀 봐야 알겠지만 가격도 가격이고 그리고 이런 디자인도 디자인인데 화면 UI가 얼마나 또 깔끔하게 이쁘게 나오냐. 그리고 또 이런 비율를 썼을 때 실제로 얼마나 편리하게 멀티테스킹이나 기능들을 잘 쓸 수 있냐 요런 것도 되게 중요하다고 생각해서 지금 제가요 제품 기준으로 평가하는 것보다 실제로 나중에 제품 나왔을 때 주름이 얼마나 있는지 그리고 제가 만든 모샘플이랑 시제품이랑 얼마나 비슷한지 요런 것도 좀 궁금하긴 하네요.",
+      "analysis_date": "2026-04-22T23:54:24+00:00",
+      "channel_name": "테크몽 Techmong",
+      "topic_tags": [],
+      "keywords": [
+        "아이폰",
+        "폴드",
+        "VS",
+        "갤럭시"
+      ],
+      "tools": [],
+      "flow": [
+        "처음 15초 안에 문제를 선명하게 정의하고 왜 지금 봐야 하는지 못 박는다.",
+        "중간 구간에서 툴, 사례, 비교 포인트를 빠르게 제시해 정보 밀도를 높인다.",
+        "마지막에는 시청자가 바로 따라할 수 있는 다음 액션과 적용 예시로 닫는다."
+      ],
+      "claims": [
+        "단순 소개보다 실제 사용 장면을 바로 보여주는 구조가 반응을 만든다.",
+        "큰 담론보다 작은 병목 하나를 해결해주는 포장 방식이 클릭으로 이어지기 쉽다."
+      ],
+      "transcript_highlights": [
+        "그래서 이쪽 부분이 아이폰 폴드처럼 둥글둥글하게 라운드 값이 크지 않은 건 아쉽지만 그래도 여기랑 여기랑 공유 차이가 거의 안 나고 약간 좌우 대칭이 잘 되게끔 만든이 갤럭시 와이드폴드가 조금 더 디자인으로 정론된게 아닌가라는 생각이 들었습니다. 그리고 화면 비율은 위아래만 놓고 봤을 때는 갤럭시 와이드 폴드가 좀 더 길고 좌우 폭은 아이폰 폴드가 조금 더 넓았는데 와 이거보다가 폴드 비율 보니까 진짜 세로로 길긴 기네요.",
+        "요런 둥글둥글한 테두리가 자방으로 다 둘러져 있는게 진짜 밑적 완성도가 높아 보입니다. 요런 안에 들어가 있는 공 같은 것들이 전부 다이 테두리 공이랑 너무 비슷해 가지고 굉장히 통일감 있고 예쁘긴 하거든요. 근데 갤럭시 와이드 폴드 같은 경우에는 이런 공률이 좀 다르기도 하고 여기 사용된 색 자체가 갤럭시는 약간 고급스러움, 아이폰 폴드는 약간 예쁨 이걸 강조해서 그런지 전 내부 디스플레이 기준으로는 이쪽이 훨씬 더 나은 거 같습니다.",
+        "제가 이렇게 폰을 양손으로 잡았을 때 그립감이요. 갤럭시 와이드 폴드는이 카메라 부분이 손에 약간 걸리짓거리 요런 느낌이 살짝 들었는데 아이폰 폴드는 또 지었을 때 그런 느낌이 하나도 없이 진짜 깔끔하게 이렇게 지어진 느낌이 들어 가지고 그리고 펼쳐서 두 손으로 드니까 아이폰 폴드는 그렇게 무거운 느낌도 덜 들고 그래서 아 요렇게 드니까 약간 괜찮은 거 같다라는 생각이 약간 들긴 합니다."
+      ],
+      "top_comments": [
+        {
+          "video_id": "QrLaO-_r1aE",
+          "comment_id": "UgwSL0NsKbnrjM6CVbh4AaABAg",
+          "author": "@Regulus_The_Frog",
+          "text": "비판 수용 지리는 대크몽ㅋㅋㅋ",
+          "like_count": 248,
+          "reply_count": 0,
+          "published_at": "2026-04-22T11:38:19Z"
+        },
+        {
+          "video_id": "QrLaO-_r1aE",
+          "comment_id": "UgxEtVywLAuPVd98X_14AaABAg",
+          "author": "@ttoja1267",
+          "text": "테크몽 폴드 1세대는 욕 먹더니 2세대 되니까ㄷㄷㄷ\n옴니아에서 갤럭시로 변한거 보다 극적ㄷㄷ",
+          "like_count": 202,
+          "reply_count": 0,
+          "published_at": "2026-04-22T11:22:26Z"
+        },
+        {
+          "video_id": "QrLaO-_r1aE",
+          "comment_id": "UgxkVwxD0gtIhjpnu1J4AaABAg",
+          "author": "@CapriGem2",
+          "text": "테크몽님 이정도면 진짜 광기네요... 와...",
+          "like_count": 183,
+          "reply_count": 3,
+          "published_at": "2026-04-22T11:51:01Z"
+        },
+        {
+          "video_id": "QrLaO-_r1aE",
+          "comment_id": "Ugx6hz30fi3tPhA7mJB4AaABAg",
+          "author": "@미래소년-h1e",
+          "text": "종이에디션 이후로 제대로 준비하신 모습 아주 멋집니다!",
+          "like_count": 106,
+          "reply_count": 0,
+          "published_at": "2026-04-22T11:24:07Z"
+        },
+        {
+          "video_id": "QrLaO-_r1aE",
+          "comment_id": "UgzpEIZbBelJaL_NETR4AaABAg",
+          "author": "@anchilla4660",
+          "text": "우와 드디어 우리나라도 외국 양덕형님 수준의 퀄리티로 영상만드는 테크 유튜버가 나왔네요.\n잘볼께요.",
+          "like_count": 84,
+          "reply_count": 1,
+          "published_at": "2026-04-22T12:05:18Z"
+        }
+      ]
+    },
+    {
+      "video_id": "h58Ms2gRXNY",
+      "channel_key": "ucxj3evtav9kldrowxcucfdq",
+      "title": "마누스 AI한테 내 컴퓨터를 통째로 맡겼더니 생긴 일",
+      "description": "본 영상은 Manus와의 파트너십을 통해 제작되었으며, 유료 광고를 포함하고 있습니다.\n영상에서 보신 Manus를 직접 경험해 보고 싶은 분들을 위해 전용 혜택을 준비했습니다. 아래 링크와 코드를 확인해 주세요!\n🔹 Manus 전용 혜택 링크: https://manus.im/redeem?c=BJ020DSK\n🔹 프로모션 코드: BJ020DSK\n\n----\n\n[조쉬의 뉴스레터 및 소셜 미디어]\n\n🗞️ 조쉬의 뉴스레터 (1만명 이상 구독 중)\n뉴스레터를 구독하고, 가장 빨리 AI 인사이트를 받아보세요! \nhttps://maily.so/josh\n\n🔗 소셜 미디어 (도합 3만 이상)\nThreads: https://www.threads.com/@joshproductletter\nLinkedIn: https://www.linkedin.com/in/uxjosh/\n\n🚀 ASC 모집 (연간 멤버십 프로그램)\n조쉬의 '실행' 중심 연간 멤버십 프로그램 모집 정보를 확인하세요!\nhttps://www.solopreneur.co.kr/",
+      "published_at": "2026-04-22T09:00:53Z",
+      "duration_seconds": 57,
+      "view_count": 8479,
+      "like_count": 103,
+      "comment_count": 1,
+      "engagement_rate": 0.012265597358179031,
+      "thumbnail_url": "https://i.ytimg.com/vi/h58Ms2gRXNY/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=h58Ms2gRXNY",
+      "format": "뉴스 분석",
+      "hook_type": "문제 해결",
+      "title_pattern": "핵심 포인트 직설형",
+      "one_line_summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "why_it_works": "문제 해결 훅으로 관심을 끌고, 뉴스 분석 형식으로 내용을 빠르게 정리해 시청자가 '바로 써먹을 수 있다'고 느끼게 만듭니다.",
+      "recommendation": "훅 구조: 도입 15초 안에 '문제 해결' 관점으로 문제를 못 박고, 왜 지금 봐야 하는지 먼저 선언합니다. • 복제할 포장 요소: 뉴스 분석 형식을 유지하되 뉴스 분석를 실제 사용 장면 1개와 결과 변화 2개로 더 좁혀 설명합니다. • 비어 있는 콘텐츠 영역: '뉴스 분석가 내 작업 흐름에서 어디에 꽂히는가'를 사례 중심으로 보여주는 후속 영상이 비어 있습니다. • 추천 제목: 뉴스 분석 이슈를 내 채널 관점으로 다시 정리해보자 • 썸네일 카피 힌트: 뉴스 분석 지금 봐야 할 3가지",
+      "transcript_status": "available",
+      "transcript_source": "apify",
+      "transcript_language": "ko",
+      "transcript_text": "코드 한 줄 없이 데스코톱 앱 세 개를 만들었습니다. 마누스의 마이 컴퓨터라고 하는 기능이 나왔는데요. AI가 직접 내 컴퓨터의 터미널 파일에 다 접근을 하더라고요. 마누스의 진짜 큰 강점은 밖에서도 모바일을 통해서 AI에게 시킬 수 있다는 것 같아요. 저는 이걸로 실제로 데스크탑 앱 세 개를 만들어 봤는데요. 첫 번째로는 실시간 다국어 동역기예요. 제가 말하면 영어, 일본어, 또 중국어로 바로 번역이 되는 앱을 만들어 봤습니다. 두 번째는 회의 녹음 요약기입니다. 회일을 녹음하면은 자동으로 요약이 필요하잖아요. 그런 요약을 함께 만들어 보는 앱을 만들 수 있게 됐고요. 세 번째는 카카오톡을 자동으로 메시지를 전송해 주는 앱을 함께 만들어 봤습니다. 내가 필요한 시간에 반복적으로 공지 같은 걸 보낼 필요가 있는데 그럴 때 카카오톡 자동 전송기를 이용해 볼 수가 있었습니다. 이렇게 해서 마누스로 주에 네다섯시간 세이브 할 수 있는 거 같고요. 여러분도 마이 컴퓨터 기능 한번 사용해 보셨으면 좋겠습니다. 링크는 설명란에 넣어 놨습니다.",
+      "analysis_date": "2026-04-22T23:54:29+00:00",
+      "channel_name": "빌더 조쉬 Builder Josh",
+      "topic_tags": [],
+      "keywords": [
+        "마누스",
+        "AI한테",
+        "내",
+        "컴퓨터를"
+      ],
+      "tools": [],
+      "flow": [
+        "처음 15초 안에 문제를 선명하게 정의하고 왜 지금 봐야 하는지 못 박는다.",
+        "중간 구간에서 툴, 사례, 비교 포인트를 빠르게 제시해 정보 밀도를 높인다.",
+        "마지막에는 시청자가 바로 따라할 수 있는 다음 액션과 적용 예시로 닫는다."
+      ],
+      "claims": [
+        "단순 소개보다 실제 사용 장면을 바로 보여주는 구조가 반응을 만든다.",
+        "큰 담론보다 작은 병목 하나를 해결해주는 포장 방식이 클릭으로 이어지기 쉽다."
+      ],
+      "transcript_highlights": [
+        "마누스의 진짜 큰 강점은 밖에서도 모바일을 통해서 AI에게 시킬 수 있다는 것 같아요. 저는 이걸로 실제로 데스크탑 앱 세 개를 만들어 봤는데요.",
+        "저는 이걸로 실제로 데스크탑 앱 세 개를 만들어 봤는데요. 첫 번째로는 실시간 다국어 동역기예요. 제가 말하면 영어, 일본어, 또 중국어로 바로 번역이 되는 앱을 만들어 봤습니다."
+      ],
+      "top_comments": [
+        {
+          "video_id": "h58Ms2gRXNY",
+          "comment_id": "UgxgBMjWo5BWHN2dJWF4AaABAg",
+          "author": "@builderjoshkim",
+          "text": "영상에서 보신 Manus를 직접 경험해 보고 싶은 분들을 위해 전용 혜택을 준비했습니다. 아래 링크와 코드를 확인해 주세요!\n🔹 Manus 전용 혜택 링크: https://manus.im/redeem?c=BJ020DSK\n🔹 프로모션 코드: BJ020DSK",
+          "like_count": 2,
+          "reply_count": 0,
+          "published_at": "2026-04-22T06:03:52Z"
+        }
+      ]
+    },
+    {
+      "video_id": "tAWwt1nzhHI",
+      "channel_key": "ucnkdlskirtttornjvklo1aq",
+      "title": "구글 VIDS가 혜자인 이유#vids#googleai",
+      "description": "",
+      "published_at": "2026-04-22T08:35:43Z",
+      "duration_seconds": 43,
+      "view_count": 3235,
+      "like_count": 56,
+      "comment_count": 2,
+      "engagement_rate": 0.01792890262751159,
+      "thumbnail_url": "https://i.ytimg.com/vi/tAWwt1nzhHI/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=tAWwt1nzhHI",
+      "format": "뉴스 분석",
+      "hook_type": "문제 해결",
+      "title_pattern": "핵심 포인트 직설형",
+      "one_line_summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "why_it_works": "문제 해결 훅으로 관심을 끌고, 뉴스 분석 형식으로 내용을 빠르게 정리해 시청자가 '바로 써먹을 수 있다'고 느끼게 만듭니다.",
+      "recommendation": "훅 구조: 도입 15초 안에 '문제 해결' 관점으로 문제를 못 박고, 왜 지금 봐야 하는지 먼저 선언합니다. • 복제할 포장 요소: 뉴스 분석 형식을 유지하되 뉴스 분석를 실제 사용 장면 1개와 결과 변화 2개로 더 좁혀 설명합니다. • 비어 있는 콘텐츠 영역: '뉴스 분석가 내 작업 흐름에서 어디에 꽂히는가'를 사례 중심으로 보여주는 후속 영상이 비어 있습니다. • 추천 제목: 뉴스 분석 이슈를 내 채널 관점으로 다시 정리해보자 • 썸네일 카피 힌트: 뉴스 분석 지금 봐야 할 3가지",
+      "transcript_status": "available",
+      "transcript_source": "apify",
+      "transcript_language": "ko",
+      "transcript_text": "영상 편집에 다 유료잖아요. 캡컷은 한 달에 2만 원, 프리미어 프로는 한 달에 3만 원. 근데 구글이 갑자기 무료 영상 편집툴을 출시했어요.이 편집툴 안에서 AI 나레이션도 만들 수 있고요. 시각화 자료도 만들 수 있고요. 심지어 BO 3.1을 활용해서 영상까지 제작할 수 있어요. 지금 말씀드린 기능은 모두 무료이고요. &gt;&gt; 혹시 구글 유료를 사용하고 계신다면이 [음악] 아바타 기능을 통해 립싱크까지 넣을 수 있습니다. &gt;&gt; 그리고 이게 가장 좋았는데 앱 내에서 녹화를 할 수가 있어요. 대본까지 나오고요.이 녹화 버튼을 누르고 대본을 읽으면서 녹화를 진행할 수 있습니다. 그리고 깜짝 놀라지 마세요. 여기 보시면 유튜브로 내보내기 버튼이 있어서 그냥이 버튼 하나 딸깍 눌러서 이렇게 유튜브에 업로드까지 할 수 있습니다. 그런 기능들을 다 보니까 정보성 영상 만들기 굉장히 좋겠다라고 판단을 했고 그래서 오늘은 유튜브 영상을 만드는 방법 풀 강의로 준비했습니다.",
+      "analysis_date": "2026-04-22T23:54:30+00:00",
+      "channel_name": "동테크",
+      "topic_tags": [],
+      "keywords": [
+        "구글",
+        "VIDS가",
+        "혜자인",
+        "이유vidsgoogleai"
+      ],
+      "tools": [],
+      "flow": [
+        "처음 15초 안에 문제를 선명하게 정의하고 왜 지금 봐야 하는지 못 박는다.",
+        "중간 구간에서 툴, 사례, 비교 포인트를 빠르게 제시해 정보 밀도를 높인다.",
+        "마지막에는 시청자가 바로 따라할 수 있는 다음 액션과 적용 예시로 닫는다."
+      ],
+      "claims": [
+        "단순 소개보다 실제 사용 장면을 바로 보여주는 구조가 반응을 만든다.",
+        "큰 담론보다 작은 병목 하나를 해결해주는 포장 방식이 클릭으로 이어지기 쉽다."
+      ],
+      "transcript_highlights": [
+        "대본까지 나오고요.이 녹화 버튼을 누르고 대본을 읽으면서 녹화를 진행할 수 있습니다. 여기 보시면 유튜브로 내보내기 버튼이 있어서 그냥이 버튼 하나 딸깍 눌러서 이렇게 유튜브에 업로드까지 할 수 있습니다. 그런 기능들을 다 보니까 정보성 영상 만들기 굉장히 좋겠다라고 판단을 했고 그래서 오늘은 유튜브 영상을 만드는 방법 풀 강의로 준비했습니다.",
+        "심지어 BO 3.1을 활용해서 영상까지 제작할 수 있어요. 지금 말씀드린 기능은 모두 무료이고요. 혹시 구글 유료를 사용하고 계신다면이 [음악] 아바타 기능을 통해 립싱크까지 넣을 수 있습니다.",
+        "혹시 구글 유료를 사용하고 계신다면이 [음악] 아바타 기능을 통해 립싱크까지 넣을 수 있습니다. 그리고 이게 가장 좋았는데 앱 내에서 녹화를 할 수가 있어요."
+      ],
+      "top_comments": [
+        {
+          "video_id": "tAWwt1nzhHI",
+          "comment_id": "UgxJfNpZ382AQRMOXLZ4AaABAg",
+          "author": "@user-ql5vm1xp8k",
+          "text": "무료? 보통 초기에만 무료 아닌가요",
+          "like_count": 0,
+          "reply_count": 0,
+          "published_at": "2026-04-22T13:14:55Z"
+        },
+        {
+          "video_id": "tAWwt1nzhHI",
+          "comment_id": "UgxKTBTnv5mWbCQtv5V4AaABAg",
+          "author": "@mime1021",
+          "text": "오디오 먼저 고치고 올려주세요",
+          "like_count": 0,
+          "reply_count": 0,
+          "published_at": "2026-04-22T12:20:50Z"
+        }
+      ]
+    },
+    {
+      "video_id": "twIW3pzBUCc",
+      "channel_key": "uc-rovkmk0ocbuzja8f08opw",
+      "title": "Nano Banana Finally Dethroned. GPT-Image 2.0 FULLY tested",
+      "description": "*Get the ChatGPT guide:* https://clickhubspot.com/r3p9\n\nSummary:\nChatGPT Images 2.0 just launched, making it a powerful new contender in the world of ai image generator and ai image editing tools. This video explores its capabilities, including significant improvements in logical reasoning and text generation for more realistic images. I explore everything in depth from consistent characters to infographics to style transfers, and much more. GPT-Image 2 was a massive and long awaited release.\n\nChapters\n0:00 Intro\n0:18 Photorealism trick\n1:18 Image editing and combining\n2:38 Consistent characters\n4:31 Complex text generation\n9:46 Thinking and research prompts\n14:10 Style recreation\n15:14 Other prompt challenges",
+      "published_at": "2026-04-22T08:29:28Z",
+      "duration_seconds": 1037,
+      "view_count": 41564,
+      "like_count": 1763,
+      "comment_count": 108,
+      "engagement_rate": 0.04501491675488403,
+      "thumbnail_url": "https://i.ytimg.com/vi/twIW3pzBUCc/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=twIW3pzBUCc",
+      "format": "뉴스 분석",
+      "hook_type": "문제 해결",
+      "title_pattern": "핵심 포인트 직설형",
+      "one_line_summary": "이 영상은 automation 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "why_it_works": "문제 해결 훅으로 관심을 끌고, 뉴스 분석 형식으로 내용을 빠르게 정리해 시청자가 '바로 써먹을 수 있다'고 느끼게 만듭니다.",
+      "recommendation": "훅 구조: 도입 15초 안에 '문제 해결' 관점으로 문제를 못 박고, 왜 지금 봐야 하는지 먼저 선언합니다. • 복제할 포장 요소: 뉴스 분석 형식을 유지하되 automation를 실제 사용 장면 1개와 결과 변화 2개로 더 좁혀 설명합니다. • 비어 있는 콘텐츠 영역: 'automation가 내 작업 흐름에서 어디에 꽂히는가'를 사례 중심으로 보여주는 후속 영상이 비어 있습니다. • 추천 제목: automation 이슈를 내 채널 관점으로 다시 정리해보자 • 썸네일 카피 힌트: automation 지금 봐야 할 3가지",
+      "transcript_status": "available",
+      "transcript_source": "apify",
+      "transcript_language": "en",
+      "transcript_text": "ChachiPT Images 2.0 just launched and it is a huge leap. We finally have a model that can compete with Nano Banana, which has retained the throne for a while now. Images 2.0 beats it in a lot of important areas. So, I ran a ton of tests, and there&#39;s some really helpful tricks I&#39;ve found along the way. Text and reasoning is an area I spent a lot of time on, and it&#39;s probably the most impressive area. I want to start with just a quick tip I noticed when trying to get realistic looking images. At first, I was pretty unimpressed. I was testing out different words like realistic photo, iPhone photo, cinematic, things like that. Just wasn&#39;t getting what I wanted. But then I discovered that adding the word photo realism to the prompt is extremely effective. I&#39;ll go through a few of these really quick. You can leave everything else the same and just add that one word and it completely changes the result. Sometimes the first image looked good, but then I&#39;d add the photo realism to it and see just how much better it could be. Every model has different tendencies like that. And sometimes it takes experimentation to get what you want. That was a big one I noticed pretty quick in here. So, I wanted to share it. And you can see it&#39;s good at basic prompt adherence. Has coherent faces even when there&#39;s a lot of them. You know, nothing groundbreaking there. Just an overall good image generator that&#39;s a big upgrade from the previous model. Image editing is another area we&#39;ve gotten pretty used to these models being really good at. And this is great there, too. So, I&#39;ll go through these quick as well. I&#39;m building up to the more significant capabilities, but I want to cover everything that&#39;s useful. So, I wanted to give this orc a battle axe. Perfect. Then I wanted to make the orc a female. Perfect again. And how about rotate, zoom in, and add a red glow to the horn. It does awesome. Although there&#39;s a slight change in the colors, but a lot of models fail at this one completely. Then change the angle to a front view full body shot. Easy. And the character consistency is perfect there. This one&#39;s more difficult. There&#39;s a grid of eight things with specific instructions on how to place them in this room. And it did amazing. Maybe the copy bar is a little big, but this is better than any other model I&#39;ve tested this on, especially all the details in the faces. Then this was a test to combine two real photos, and I&#39;ve never gotten great results on this one, but it turned out great inside ChatGpt. However, the face is a little low fidelity. But they did also release a 4K option through the API. So I ran this prompt using the 4K option. I just did it in Higsfield. Then there is way more clarity in the face. And for a comparison, when I run this through Nano Banana using the 4K option, it just always looks pretty off. And while we&#39;re on this, I&#39;ll show a few more consistent character examples. So this man volcano boarding nailed it. Pretty solid action shot. Then me surfing, riding a barrel wave. The face is perfect, but I don&#39;t really like the aesthetic on this. It doesn&#39;t look too realistic. So, again, I added the word photo realism, and this is way better. Then I asked to add in this woman, and we&#39;re skydiving together. Now, we&#39;re walking through a haunted house nervously. I&#39;m going quick because we could do this before, but I would say this is slightly better than the results I&#39;ve gotten elsewhere. Now, trying that out with some text involved. It did incredibly well here. There&#39;s no error in the text on the whiteboard. I don&#39;t know if every one of these equations is correct, but each individual character is perfect. Although it&#39;s a little too nice of handwriting for writing on a whiteboard, but these books over here, those do have some issues in the text. But still, this is a really good job. This next one is where there was a bigger gap between ChatBT and Nano Banana. And this will start to lead us into that text section. But this is just a parody movie poster. It got everything I asked for, but the part I wanted to focus in on was all this text at the bottom. This is just a small detail, but it did get everything perfect here. Music by binary bard, edited by cut and code, production design by pixel and pine. In the past, these smaller details would have issues like in the result from nano banana. While I do like this aesthetic more, when I zoom into the text on the bottom, it is just all warped and complete gibberish. So, chachd was way better in this case. Then, I will show this was my very first attempt at doing a thumbnail in here. They say no real direction in the prompts other than about the new GPT image 2 release. And honestly, that first try is amazing. Way better than the out of the box thumbnails you get from Nano Banana or any other image generator. So, I&#39;m going to generate some more, but I will definitely use something from this model as the thumbnail for this video. And I&#39;ll create multiple options to AB test. Now, I ran a lot more tests across different text challenges. First, I&#39;ll show just some of these insanely accurate UI recreations. This is unreal. I mean, I wouldn&#39;t recommend you do this. I just show it so you can see what&#39;s possible. Like, we are definitely at the point where you cannot trust any images online. Every one of these comments look perfect and have a unique name and profile picture for each. Or here was a screenshot of the MidJourney websites explore page. It&#39;s really accurate. Like even each one of these images looks like it was generated in Midjourney. And this one&#39;s a prompt I saw from Feur on X. I&#39;ll have the handle of anyone where I saw one of their prompts and I&#39;m recreating it. Then this one is probably the craziest of these. Comfy UI with a workflow for generating an image and then feeding it into an image to video pipeline. This looks so good. It has a prompt up here. Then even the negative prompt conditioning. All of this text is right using animate diff. Maybe there&#39;s a tiny issue right here. It even has to load a motion Laura. Typical frames per second. You would have some of these lines connecting the different nodes aren&#39;t perfect, but this is pretty close. Especially if you compare that to the one Nano Banana got with that. There&#39;s just text issues all over the place. This new update makes ChatBT even more useful. But there&#39;s already so many ways you can use it to get ahead in your career or business. So down in the description, I have a free resource bundle called five essential resources for using chatbt at work. It covers all the capabilities, use cases, and best practices for implementing chatbt, including what&#39;s new in 2026. My favorite part is the document called 100 ways to try chatbt today. It has a hundred prompts across a wide range of use cases you can copy paste and start using right away. It&#39;s one of the most helpful prompt databases on top of all the other stuff that&#39;s in there. That is all free. Just click the link in the description. Here I&#39;ve got a recipe infographic. These were just amazing when we first saw them coming out of Nano Banana and it does look great. There&#39;s no text issues anywhere on this one. But then when I compare it to the chat GPT version, this one&#39;s just better. I mean, it has more helpful information. Like, it has the amounts of each ingredient. It has more detailed instructions. Just overall a more complete and helpful infographic. And this one I saw from Angel has a huge gap in the results. This result from Nano Banana is pretty bland. There&#39;s no errors in the text, but doesn&#39;t look handwritten at all. And it&#39;s just way more boring. It didn&#39;t really capture the prompt. Then this one from ChatGpt is just amazing. You can zoom in. This looks like handwriting. Weird little scribbles all over the page. Just tons of little clip outs. This looks like kind of random chaos. It&#39;s perfect. We are stardust and code. Comparing those two, it is not even close. And I will spend more time going through all of these text and reasoning capabilities. I think this is such a powerful use case and chatbt really does shine here. I do have some more unique and fun tests and challenges I&#39;ll go through at the end as well. And here&#39;s a prompt I&#39;ve run quite a few times in different image generators. So, I did it through NanoBanana Pro and Nano Banana 2. They always get close, but not perfect. The main issue is always down at the bottom. I think part of the reason is cuz since there&#39;s 26 letters, that doesn&#39;t naturally fit into a perfect grid, but it just really wants it to. So, it either skips or adds or mixes things up. Starting right here, the letters don&#39;t sync up with the animals. It&#39;s a Q for rhino, R sloth. So, it&#39;s like the names and pictures of the animals skip Q, but then the letters skip S. And it was a different issue from Nano Banana 2. It was pretty close, but down on this bottom line again, it combined W and X into one. So, it&#39;s supposed to have a whale and then an X-ray fish, but it just made them one tile. Then, when you look at chat GPT, it got this perfect. I&#39;ve been running this prompt for a while, and this is the first time anything has gotten it perfect. And this is one to kind of figure out how many different images it can fit all into one image. This is a 10 x10 grid. A total of a 100 objects that start with the letter A. I didn&#39;t go through every single one of these, but just scanning through, I don&#39;t see any issues. Actually, never mind. Answering machine right here. I think it tried to put the jacket and the answering machine on one. Then antique key. Okay, so there&#39;s a couple issues. And I actually had to look this one up. I did not know that aubberine and eggplant are the same thing. So, it did get that one right. So, it was super super close. Not perfect, but still very impressive. We got a newspaper with the announcement of the roll out of GPT images, too. The layout looks great. Has other articles all throughout. There&#39;s no issues in the text. Super solid. When I&#39;ve tried to do this in Nano Banana, if you give it all of the text, it does a pretty good job. Like if you input an article and ask it to do this, but when you don&#39;t, it usually will have issues in the other text around it. An engineer&#39;s screen, the dual monitors, if you zoom in here, that is super impressive. has all this code then all the folder structure over on the side and that&#39;s trying to be a VS Code logo and then over on this other screen again all the text is very good maybe some tiny issues when you look really closely but overall that&#39;s amazing you can even zoom in onto the notebook all the text is good the blurring looks accurate really really solid for reference here&#39;s what that looked like in Nano Banana first off the aesthetic is not very good but if I zoom into any of this it&#39;s just all nonsense it gets the vibe right, but none of the text. Something else that&#39;s very impressive about this is its ability to think through prompts. So, when thinking mode is on, it will go off and think for even a few minutes sometimes to do research and plan out the image. I&#39;ll take this one as an example, a detailed infographic for the differences of the architectures behind the leading AI video models. I can open up the thinking panel. You can see it makes a plan here and then searches for detailed sources on the different models. It researches them all and plans it out. So, it&#39;s trying to avoid using too many third-party claims, just focusing on only publicly disclosed details from the company. It does this for each different model. It discovers which parts aren&#39;t disclosed. All in all, this one thought for 7 minutes before it started generating the infographic. And I can&#39;t zoom in when they&#39;re right here. So, I&#39;ll jump back in here. This has just a ton of detail. And all throughout the text looks amazing. There&#39;s a couple parts where it seems like I don&#39;t know if they&#39;re just trying to stylize this. So, I wouldn&#39;t say it&#39;s wrong, but I&#39;m not necessarily a fan of that. Obviously, I&#39;m not reading through every single word on this whole thing, but any part I&#39;m looking at, I&#39;m not seeing errors. And okay, there I finally found one here that should be emphasis. Overall, this is really good. And you may be thinking that Nano Banana has been able to do this type of thing, but when their infographics are this detailed, there are way more errors in the text. Like for example, this one was from Nano Banana. It&#39;s a nice anesthetic. And honestly, it probably has less information on it than the chatbt one. But if I zoom in here, right away, I&#39;ll start seeing them right here. I assume that should be a reasoning chain over here. This should be joint synthesis of audio. Um, this should be perform. There&#39;s yeah, just a bunch of errors in this sentence. Error with this word here. Dolly Zoom is spelled wrong. the infrastructure. Like you can see they&#39;re all over this one. Like Nano Banana is really really aesthetic with their infographics, but the more text they have, the more issues they get. I have come across some issues, particularly on this one. So, I asked it to look up the different 2026 Toyota Sienna models and create an infographic with a feature list that highlights the differences between each. We&#39;ve been looking into minivans right now, so this was relevant to me. But at a quick glance, the one from Nana Banana does look really aesthetic. But once I started actually going through it to verify these things, I started running into some issues. First off, it&#39;s actually completely missing one of the trims that should be between these last two here. It&#39;s called the Woodland Edition. You can see that ChatBT got that, but Nano Banana didn&#39;t. That was a big one right off the bat. But when I actually pull this up on the site to fact check the other aspects of this, I was started uncovering some more stuff. So the LE it says is a sevenseater. I pull it up on the site. Says it has eight seats. On the limited, it says it has a moon roof. I tried to check that. I did not see anything at all about a moon roof. Not going to walk you through every issue, but I came across quite a few. The one I got from Chat GPT, I didn&#39;t notice anything wrong. And just in general, it was a more helpful infographic. Like it listed the starting price. That&#39;s something you typically want to know when you&#39;re shopping around. So once I started looking into the details on these, Chat GPT started to stand out more and more. I won&#39;t do a deep dive into this one, but it is pretty crazy. Asking it to search the web for all the latest and most accurate information from today. Then generating that, he did it as a mood board, but I ended up converting it into a dashboard. So, it did all this research, found each one of these news stories, generated an image to go with each one of them, compiled it all into a dashboard, and I did check some of this stuff like the Timberwolves and nuggets. It was 119 to 114. Then, actually, I hadn&#39;t checked this one yet. Um, I don&#39;t really know how to look up oil prices. I&#39;m guessing it&#39;s just this thing. So, that one is not perfectly accurate. Sure, if we were to go through, there&#39;d be some minor details like that throughout here, but still very impressive. Then, here&#39;s one more kind of in the text realm where it combines text with consistent characters. So, I asked for a 10 panel story board showing the full scene play out with these paper characters after a fire in their paper town. Include the scene numbers and production notes. So, I built up a full narrative. These characters stay perfectly consistent throughout every shot. Each one of these images has just a ton of detail in them. Discovering this flower coming out of the debris reunion, the community all coming together. They end up rebuilding the town. Super good job with that. I&#39;ve got a few more different tests and challenges I ran. I&#39;ll start out with this one where I was comparing how good it could recreate a style. And this image in particular, Nana Banana did way better. This is an image I generated in midjourney of this bear with a super colorful unique style. M asked for a big horn sheep standing on a dramatic cliff using this same style. You can see Nano Banana matched that perfectly. Chachi PT on the other hand. This is a cool image but definitely not the original style. So I ran another one with this papercraft image and said create a male character using the same style. They both did a pretty good job actually. I wouldn&#39;t say there&#39;s a clear winner on this one. Then this one, another midjourney image. turn the camera around to show the person this man is playing against in poker. You&#39;d think it would be trying to maintain the same style and Chachet did a pretty good job with that. You know, it&#39;s definitely still this guy here and it&#39;s fairly close to that style, but Nano Banana, not at all. Just completely different lighting and completely different style. And as a side note, he also only has four cards. So, I guess that&#39;s a tossup. Nano Banana won, then they tied, then Chachi won. And then for this one, I just tested out how it can generate in different aspect ratios. An 8bit sidescroller adventure game in 3-1. And yeah, this is a really good style. Although that looks like a gloomba, so it&#39;s just stealing from Mario. But yeah, it can generate in all sorts of aspect ratios. Then one of those classic challenges combining a few of the different challenges. Actually, a hand with seven fingers, a wall clock showing 822, and a glass of red wine full to the top. This is so close to perfect. The hand is right. The glass is full to the brim. But then the clock, the minute hand is right, but this hour hand should be just a little bit further, but it&#39;s the closest result I&#39;ve ever gotten. Then I did a couple of these where I said convert this into a photorealistic image. I would say it nailed that really, really well. Yeah, I like that result a lot. I tried it with that bare image. I think that one&#39;s a little easier for it to recreate. But then this one, I was not sure how it was going to go. Very curious. And it worked out really well. It&#39;s kind of difficult with these ones. I don&#39;t really know how to picture this one in my head, but then I see it like, &quot;Yeah, looks awesome.&quot; And then this is a prompt that they used in their live stream. I have the prompt rice with thousands of grains, but one of the grains has the word futurepedia etched onto it. And then you can zoom in on this and got futurepedia right there. I thought that was a super cool prompt. Definitely a difficult challenge. I did also try in Nano Banana to see if it would work and it found a way to make it work. And what&#39;s funny is I ran this multiple times and it cheated in the same way every time. Even this one where if you were to zoom into this section, it doesn&#39;t actually have futureedia written there. So chatt definitely won that round. All in all, chatbt won most of the time. Not in everything. So I&#39;ll still use both tools, but for complex text and when you want to combine research and make sure the output is something accurate, chatbt definitely won there. Although Nano Banana has really nice aesthetics when it comes to text. So, I&#39;ll still use it depending on the situation. Overall, I am very happy with this new model. So, I will definitely be utilizing this regularly. I&#39;m going to test it out on thumbnails a lot more. Let me know what you think of the one on this video.",
+      "analysis_date": "2026-04-22T23:54:25+00:00",
+      "channel_name": "Futurepedia",
+      "topic_tags": [
+        "automation",
+        "research",
+        "coding",
+        "comparison",
+        "news"
+      ],
+      "keywords": [
+        "automation",
+        "research",
+        "coding",
+        "comparison",
+        "news",
+        "ChatGPT",
+        "Arc",
+        "Nano"
+      ],
+      "tools": [
+        "ChatGPT",
+        "Arc"
+      ],
+      "flow": [
+        "처음 15초 안에 문제를 선명하게 정의하고 왜 지금 봐야 하는지 못 박는다.",
+        "중간 구간에서 툴, 사례, 비교 포인트를 빠르게 제시해 정보 밀도를 높인다.",
+        "마지막에는 시청자가 바로 따라할 수 있는 다음 액션과 적용 예시로 닫는다."
+      ],
+      "claims": [
+        "단순 소개보다 실제 사용 장면을 바로 보여주는 구조가 반응을 만든다.",
+        "큰 담론보다 작은 병목 하나를 해결해주는 포장 방식이 클릭으로 이어지기 쉽다."
+      ],
+      "transcript_highlights": [
+        "ChachiPT Images 2.0 just launched and it is a huge leap. We finally have a model that can compete with Nano Banana, which has retained the throne for a while now.",
+        "Nano Banana won, then they tied, then Chachi won. And then for this one, I just tested out how it can generate in different aspect ratios.",
+        "And it was a different issue from Nano Banana 2. It was pretty close, but down on this bottom line again, it combined W and X into one."
+      ],
+      "top_comments": [
+        {
+          "video_id": "twIW3pzBUCc",
+          "comment_id": "Ugzd-Nw9hVsN3E4bcD54AaABAg",
+          "author": "@pohlpiano",
+          "text": "ChatGPT competitive again is great news for the AI development, Nano Banana 3 will get even better then",
+          "like_count": 49,
+          "reply_count": 3,
+          "published_at": "2026-04-22T12:29:36Z"
+        },
+        {
+          "video_id": "twIW3pzBUCc",
+          "comment_id": "Ugx8COqggFB0m3I-UL54AaABAg",
+          "author": "@futurepedia_io",
+          "text": "*Get the ChatGPT guide:* https://clickhubspot.com/lrkd",
+          "like_count": 5,
+          "reply_count": 1,
+          "published_at": "2026-04-22T08:29:02Z"
+        },
+        {
+          "video_id": "twIW3pzBUCc",
+          "comment_id": "UgwC17958Pk_FOep-UB4AaABAg",
+          "author": "@kygo",
+          "text": "Thank you for adding the tip of adding \"photorealism\" to the prompt, that got me to subscribe! :)",
+          "like_count": 5,
+          "reply_count": 0,
+          "published_at": "2026-04-22T16:34:58Z"
+        },
+        {
+          "video_id": "twIW3pzBUCc",
+          "comment_id": "UgxJ8clsrQb-SNkKHyN4AaABAg",
+          "author": "@Natasha26",
+          "text": "Photorealism must be the least used prompt word in the far-east. They only generate anime.",
+          "like_count": 3,
+          "reply_count": 0,
+          "published_at": "2026-04-22T18:02:49Z"
+        },
+        {
+          "video_id": "twIW3pzBUCc",
+          "comment_id": "UgzOTYgd_if3Cr_A2C94AaABAg",
+          "author": "@mazz777",
+          "text": "I have to say, out of all the AI channels I followed, this has to be one of my top. I wish this guy was my professor in college. lol",
+          "like_count": 3,
+          "reply_count": 0,
+          "published_at": "2026-04-22T13:52:08Z"
+        }
+      ]
+    },
+    {
+      "video_id": "TQJqn65DLa0",
+      "channel_key": "ucvm5yywwflwpcqgbrr68jlq",
+      "title": "Top 10 No Code Tools of 2026",
+      "description": "These 10 No Code Tools are what you should be using in 2026. They are the latest to create web designs that stand out, and many of them are using AI with new features and functions. The first is Framer, one of easiest ways to get started building no-code websites: https://framer.link/AdrianTwarog\n\n00:00 - Top 10 No Code Tools of 2026\n00:09 - Tool 1 - Framer\n01:56 - Tool 2 - Webflow\n03:21 - Tool 3 - Wix Studio \n04:46 - Tool 4 - Elementor on WordPress\n06:26 - Tool 5 - Squarespace\n07:44 - Tool 6 - Duda\n08:34 - Tool 7 - Loopple\n09:16 - Tool 8 - Unbounce\n10:15 - Tool 9 - Bildr\n10:27 - Tool 10 - Axil Design (coming soon)\n11:40 - Final Thoughts and Summary\n\n#nocode #tools #2026 \n\nA big thanks to Framer for sponsoring this video! If you want to learn more about them, definitely check them out in the link above! https://framer.link/AdrianTwarog6\n\nWant to learn web design? ⭐ Check out my course! ⭐\n📘 Teach Me Design - Course: https://www.enhanceui.com/",
+      "published_at": "2026-04-22T06:00:31Z",
+      "duration_seconds": 718,
+      "view_count": 518,
+      "like_count": 21,
+      "comment_count": 3,
+      "engagement_rate": 0.04633204633204633,
+      "thumbnail_url": "https://i.ytimg.com/vi/TQJqn65DLa0/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=TQJqn65DLa0",
+      "format": "빌드 데모",
+      "hook_type": "문제 해결",
+      "title_pattern": "툴 조합 + 압축 약속",
+      "one_line_summary": "이 영상은 research 이슈를 빌드 데모 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "why_it_works": "문제 해결 훅으로 관심을 끌고, 빌드 데모 형식으로 내용을 빠르게 정리해 시청자가 '바로 써먹을 수 있다'고 느끼게 만듭니다.",
+      "recommendation": "훅 구조: 도입 15초 안에 '문제 해결' 관점으로 문제를 못 박고, 왜 지금 봐야 하는지 먼저 선언합니다. • 복제할 포장 요소: 빌드 데모 형식을 유지하되 research를 실제 사용 장면 1개와 결과 변화 2개로 더 좁혀 설명합니다. • 비어 있는 콘텐츠 영역: 'research가 내 작업 흐름에서 어디에 꽂히는가'를 사례 중심으로 보여주는 후속 영상이 비어 있습니다. • 추천 제목: research 이슈를 내 채널 관점으로 다시 정리해보자 • 썸네일 카피 힌트: research 지금 봐야 할 3가지",
+      "transcript_status": "available",
+      "transcript_source": "apify",
+      "transcript_language": "en",
+      "transcript_text": "Let&#39;s explore the top no code tools of 2026 because a lot of them have changed with new AI features and nonAI features both of which are pretty exciting. Our first one is Framer. Just check out some of these amazing looking website templates. They come from the frameware marketplace which is one of the largest with thousands of different types of templates and plugins and tools that you can start using straight in your website designs. As a no code tool, it has a lot of flexibility and reminds me a lot of how Figma works, allowing you to really be creative when it comes to creating website designs. Here&#39;s how Frameware works. You select to login. This takes you to a dashboard of all your sites. You can select one of them, which takes you into the visual editor. This thing is really cool cuz you can zoom in and out and move it about wherever you need and select any item to kind of edit and modify it. From there, you can customize your sections, turn them into reusable components, which you can edit in its own view, and then copy and paste these anywhere into the site that you might need to use. Framer also has a number of new AI tools, which I want to show you. The first is their wireframing tool. You can select it from the plus sign here and select wireframe. From here, you can ask it to create something like a personal page, and it creates the wireframe for that page inside of your canvas. And then you can customize it and theme it however you need. Next up is their workshop tool. It uses AI to generate components, things that you can create out of a single prompt, like this glow effect, which was created from this prompt, or this Bitcoin tracker created from this prompt here. So, it&#39;s really up to you how you want to use it, but it&#39;s pretty easy to use. I&#39;m going to copy this prompt over here. Head into my design that I created earlier, hit Ctrl K, type in workshop, and then paste in that component to be generated. What it&#39;s going to do is start generating it here off to the side. As you can see, it&#39;s being encoded up. And then I can drag this back into my design to start using. A pretty cool way to create small little components. Our next tool is Web Flow. Let me show you how Web Flow operates. This is the dashboard. You can head to your websites by opening them up in the editor. It takes you to this ID, which is a little bit more strict because its underlying structure is basically how HTML and CSS works. The website you&#39;re seeing here is actually my design course and I built this as one of my very first websites on Web Flow. Under the hood, you can see how all these divs are nested. This is that HTML structure I was talking about. On the right hand side inspector, we have all the CSS which is just visually represented in kind of like a gooey interface. The difficulty with web flow is that it&#39;s not as easy to move components around. As you can see, it&#39;s locked into that rigid ecosystem. unlike framer for example where you can move different elements across in more of an absolute positioning type of way. Now this also has some benefits because it forces you into that strict system. But for me I kind of like the flexibility that a lot of the new no code tools are providing. When it comes to new features web flow have this thing called appgen which lets you turn a prompt into an application you can deploy independently. You can select it up here. I&#39;m going to give it this prompt to convert JavaScript into TypeScript and see what it comes up with. It&#39;s generated this thing over here, which I suppose works, but it&#39;s also not really a component. So, I can&#39;t plug it straight into my website design. It&#39;s its own deployment as a mobile application with its own URL. This is Wix Studio. It&#39;s our next no code platform that I want to take a look at. One thing you might notice is that the dashboard has a lot more information on it. This is because they&#39;re trying to focus in more for design studios and agencies. And all this information can be quite useful if you&#39;re doing things like trying to collect analytics for your sites as well as see things like contact leads or contact forms. This is the visual editor for Wix Studio. It works a little bit like a combination of framer and web flow where you can still move about different elements and have control over the positioning. And it also has all those layers, but the underlying structure isn&#39;t based on things like HTML or CSS or components, but more with the Wix Studio system that they&#39;ve put together. This means that you can select text and you get an inspector to modify text or if you select a button, you have an inspector specifically for that button component. The drawback is that you can&#39;t realistically pull these components out of Wix Studio once they&#39;re inside. Not that a lot of people often do this, but it is something to be aware of. One of the new features that they&#39;ve implemented is the ability to use AI to create responsive design. It&#39;s something that I haven&#39;t seen before and it allows you to simply select a section, select generate responsive design, and it just goes ahead and creates one for a tablet view, a mobile view, and a desktop view. Once you double check it and confirm, it&#39;s just done for you. And it&#39;s definitely a really cool feature that I think should be seen in a lot more no code tools these days. This here is Elementor. While it&#39;s a no code platform, it&#39;s not an independent one because it sits on top of WordPress. Because of that, when you log into its dashboard and want to create a site, you can&#39;t just do so without having a paid plan. So, the alternative is to download the Elementor plug-in and run it yourself on a self-hosted website of WordPress, or use something like Hostinger, which allows you to have a WordPress website up in the cloud. That&#39;s what I&#39;m going to do. So, this pain point of having to do additional steps to get it up and running, is also one of the benefits because once you do, then you have full control over the system. While other no code frameworks might lock you into their ecosystem, this here is the Elementor IDE. As you can tell, a lot is happening on the left sidebar. And when you compare it to the latest no code tools, it feels like it&#39;s aged quite a bit. It doesn&#39;t have the same flexibility to drag and drop elements. Elements look very basic without much that you can edit, and it really needs you to be able to customize it if you want it to look very well. Additionally, if you want to use any features like components, you have to upgrade to a paid plan. Otherwise, you&#39;re just simply locked out of it. One new feature that Elementor has is this ability to create a website design with AI. I tested this out and I found it a little bit tedious to go through creating a brief summary for what I wanted from the website. But when that whole process finally finished, I got a site map which I could then generate a wireframe from. The design for the wireframe wasn&#39;t that great. And on top of that, when I actually tried to export the design as components I could use inside of Elementor, I found that I couldn&#39;t do this. I was only able to attach it to a paid site, and that&#39;s not what I wanted to do. The next no code tool is Squarespace. It&#39;s one that I haven&#39;t used as much, and I&#39;ll explain why shortly. But let&#39;s jump into the dashboard and the visual editor so you can see how it works. This is its dashboard where you get to see a little bit about your website. To edit it, you can select here and select edit and enter into the visual editor that it has. It provides you with the basic drag and drop functionality that gives you a bit of a grid in the section you work in. You can edit different types of elements allowing you to edit some of the basic stuff like opacity, different types of sizing. You can also add in new sections using pre-made assets, which I&#39;ll get into shortly when you create a new website and how that works. I would say that its interface is made for non-experts, people that are just trying to build a website and aren&#39;t professional designers or developers. And here&#39;s the best example of that. When you&#39;re building a website, you can choose from the pre-made templates they have. Or you can use AI to build together a website with these different sections that you can select, add, and modify. These come pre-made, and they&#39;re very basic layouts with something like a hero section or a feature section, and you can change the colors as well as topography. But all of this is really basic editing. It&#39;s nothing that I, as a designer, would want to do personally because I like to have full control over the designs that I create. Our next no code tool is Duda. They let you build websites from a template or also with AI. Let&#39;s take a look at what the visual editor looks like. Here is the IDE. It lets you drag different components, but it&#39;s a bit more restrictive, kind of like Web Flow is. They have a side panel where you can customize each one of the elements that you&#39;re currently selecting. and on the lefth hand section where you get to see all the layers. They have a new AI stack that allows you to build using AI which I&#39;m going to try out right now. And here&#39;s what it&#39;s generated. I would say that this top navigation header looks very generic. So does the hero section. The color contrast I would say is probably the only good thing I like. It&#39;s used a very nice colors in good sequences here, but the content feels very repetitive and very mundane. Like I&#39;m just looking at a basic template. Here&#39;s our next no code tool loophole. Let&#39;s see how they go cuz they look very AI oriented to create a website design. And here&#39;s a design it&#39;s generated. Kind of basic like before, but I want to customize it and have a look at how its ID works. And here&#39;s that ID. I&#39;ve got different types of sections here, but I can&#39;t drag and drop them. I can only select them and modify them here in this inspector element. I do have an AI assistant here which I can ask to do different changes. Let&#39;s see if it can figure out what I want changed. It has a nice before and after the changes which have been completed how I want, but I wish I had more drag and drop flexibility here. It does let me change the theme of the website, but if I pick the wrong colors, then they might not work well together. This next no code tool is called Unbounce. It&#39;s one that I couldn&#39;t cover last year because the only way to use them was to have a paid plan, but now they&#39;re allowing you to build for free. So, let me test it out. All right, looks like I&#39;m in, which is really cool. Their ecosystem is more than what I originally expected. I can immediately start building a page from one of their templates or from a blank canvas. Let&#39;s select this one over here and see what it&#39;s like editing in their IDE. It reminds me a little bit of how the Shopify ID lets you move different types of components. The inspector reminds me a little bit of a web flow in terms of the right hand side where I can edit different stuff. But the interface and the icons look a little bit dated like they haven&#39;t done many updates to this. Even the layers are actually located here at the bottom but pop up as a sidebar and I can&#39;t lock them. I can only make them disappear or appear. If I right click on them, I can&#39;t bring up a context menu to delete them. So it does have some limitations compared to some of the top contenders in the no code space. The next tool I was going to show you was Builder, something I covered last year, but unfortunately due to the rise of AI, they&#39;re shutting down because they just can&#39;t keep pace with all the changes and how many new startups are starting. Finally, this is Axel Design, my own no code platform that I&#39;ve been building for the last year. I would best describe it as a vibe designing tool that allows you to use AI models to create components and website designs. It has this infinite canvas, sort of like Figma or a framer, and it also allows you to resize components and websites to view what they might look like on mobile, tablet, and desktop. I&#39;ve also integrated this quick ad section where you can quickly add different types of components. I&#39;ve also imported a vast library of Flowite components, which you can literally drag and drop into your frame and see what those designs look like. It has all the AI integrations you might expect such as being able to create variations of components and see them built in real time on your canvas. Additionally, I&#39;ve made it flexible so you can see all the underlying code and actually copy paste it straight out to use within your own tools at any point in time. You can also see the dark or light version of different types of components you create. And it also works with HTML components or even with React components like things from Shadzen. I&#39;d love to hear your thoughts on Axel design because it&#39;s something that I have been working on for a while now. Though I don&#39;t know if a lot of interest exists in it. So, let me know in the comments below. I hope you guys learned a lot about the different types of no code platforms out there. If there&#39;s any that I missed, then definitely add them in the comments below. Additionally, a big thanks to Framer for sponsoring this video and making it happen. If you want to learn more about their platform, then I&#39;ve added a link in my description, too, where you can check them out. Thank you.",
+      "analysis_date": "2026-04-22T23:54:26+00:00",
+      "channel_name": "Adrian Twarog",
+      "topic_tags": [
+        "research",
+        "coding",
+        "comparison",
+        "news"
+      ],
+      "keywords": [
+        "research",
+        "coding",
+        "comparison",
+        "news",
+        "Top",
+        "10",
+        "No",
+        "Code"
+      ],
+      "tools": [],
+      "flow": [
+        "처음 15초 안에 문제를 선명하게 정의하고 왜 지금 봐야 하는지 못 박는다.",
+        "중간 구간에서 툴, 사례, 비교 포인트를 빠르게 제시해 정보 밀도를 높인다.",
+        "마지막에는 시청자가 바로 따라할 수 있는 다음 액션과 적용 예시로 닫는다."
+      ],
+      "claims": [
+        "단순 소개보다 실제 사용 장면을 바로 보여주는 구조가 반응을 만든다.",
+        "큰 담론보다 작은 병목 하나를 해결해주는 포장 방식이 클릭으로 이어지기 쉽다."
+      ],
+      "transcript_highlights": [
+        "But for me I kind of like the flexibility that a lot of the new no code tools are providing. When it comes to new features web flow have this thing called appgen which lets you turn a prompt into an application you can deploy independently.",
+        "Let's explore the top no code tools of 2026 because a lot of them have changed with new AI features and nonAI features both of which are pretty exciting. Our first one is Framer.",
+        "And when you compare it to the latest no code tools, it feels like it's aged quite a bit. It doesn't have the same flexibility to drag and drop elements."
+      ],
+      "top_comments": [
+        {
+          "video_id": "TQJqn65DLa0",
+          "comment_id": "UgwVhz4BsFAg2YefQ5h4AaABAg",
+          "author": "@Avalanche034",
+          "text": "Is this an AI video about AI tools? If it isn’t that’s crazy, if it isn’t I’m going to use these tools and start building something wicked. If it is well I’m still gonna use these tools but now I’m questioning everything.",
+          "like_count": 1,
+          "reply_count": 1,
+          "published_at": "2026-04-22T07:14:38Z"
+        },
+        {
+          "video_id": "TQJqn65DLa0",
+          "comment_id": "UgxpwTojlKYt4DfbNwd4AaABAg",
+          "author": "@francescociulla",
+          "text": "Adrian is back!🔥",
+          "like_count": 0,
+          "reply_count": 0,
+          "published_at": "2026-04-22T08:20:56Z"
+        }
+      ]
+    },
+    {
+      "video_id": "8PmFUZCMP3o",
+      "channel_key": "ucen2yejcbcrjoxgzf-ou3qw",
+      "title": "Claude Opus 4.7 체감성능 별로? 모델 성격이 바뀐 진짜 이유... 실무형 풀스택 전환한 앤트로픽의 신의 한수 | Claude Design",
+      "description": "이번 영상에서는 Anthropic이 공개한 Claude Opus 4.7과 Claude Design의 핵심을 함께 정리했습니다.\n단순한 신모델 발표인지, 아니면 AI의 방향 자체가 바뀌고 있는 신호인지 중심으로 살펴봤습니다.\nClaude Opus 4.7이 왜 더 똑똑한 모델이라기보다 더 오래 일하고 스스로 검증하는 모델처럼 보이는지 설명했습니다.\ninstruction following, self-verification, long-horizon autonomy, 비전 성능, 툴 사용 안정성 측면에서 어떤 의미가 있는지도 다뤘습니다.\nClaude Design 역시 단순한 디자인 생성기가 아니라 조직의 코드와 디자인 시스템을 읽는 워크플로우 도구라는 점을 짚었습니다.\n기존 디자인 AI와 무엇이 다르고 왜 디자인과 개발 사이의 마찰을 줄이는 방향으로 해석할 수 있는지도 이야기했습니다.\n또 최근 Anthropic이 OpenAI보다 강해 보인다는 말이 왜 나오는지, 그 배경이 되는 시장 기준 변화도 함께 정리했습니다.\n반대로 토큰 사용량, 무거운 사용감, 더 엄격해진 성향처럼 실제 사용자 반응이 갈리는 이유도 같이 다뤘습니다.\n결국 이번 발표를 더 좋은 챗봇의 등장이 아니라 더 믿고 맡길 수 있는 실무형 에이전트의 진전으로 볼 수 있는지 분석한 영상입니다.\n\nWritten by Error\nEdited by 이진이\n\nunrealtech2021@gmail.com",
+      "published_at": "2026-04-22T05:12:46Z",
+      "duration_seconds": 1052,
+      "view_count": 10494,
+      "like_count": 242,
+      "comment_count": 53,
+      "engagement_rate": 0.028111301696207357,
+      "thumbnail_url": "https://i.ytimg.com/vi/8PmFUZCMP3o/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=8PmFUZCMP3o",
+      "format": "빌드 데모",
+      "hook_type": "솔직 검증",
+      "title_pattern": "툴 조합 + 압축 약속",
+      "one_line_summary": "이 영상은 agents 이슈를 빌드 데모 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "why_it_works": "솔직 검증 훅으로 관심을 끌고, 빌드 데모 형식으로 내용을 빠르게 정리해 시청자가 '바로 써먹을 수 있다'고 느끼게 만듭니다.",
+      "recommendation": "훅 구조: 도입 15초 안에 '솔직 검증' 관점으로 문제를 못 박고, 왜 지금 봐야 하는지 먼저 선언합니다. • 복제할 포장 요소: 빌드 데모 형식을 유지하되 agents를 실제 사용 장면 1개와 결과 변화 2개로 더 좁혀 설명합니다. • 비어 있는 콘텐츠 영역: 'agents가 내 작업 흐름에서 어디에 꽂히는가'를 사례 중심으로 보여주는 후속 영상이 비어 있습니다. • 추천 제목: agents 이슈를 내 채널 관점으로 다시 정리해보자 • 썸네일 카피 힌트: agents 지금 봐야 할 3가지",
+      "transcript_status": "available",
+      "transcript_source": "apify",
+      "transcript_language": "ko",
+      "transcript_text": "벌써부터 X에 보시면은이 클로드 디자인 전체적으로 어떤 이미지로 해야 될지 이렇게 만들어 보면서 어떤 형태로 만들어야겠다라는 것들 이거 닌텐도 역사에 대해서 이렇게 만들어 달라고 이렇게 좀 얘기를 하면서 스스로 라이팅하고 에디팅하고 하는데 진짜 그냥 동영상처럼 그냥 만들어 버리니까 이게네 [음악] 여러분 반갑습니다. 에러입니다. 앤트로픽의 폼이 요즘 굉장히 좋습니다. 클로드 오프스 4.7을 출시하기도 했고 그다음에 클로드 디자인이라는 거를 지금 보시다시피 출시를 했는데요. 디자인의 프로토타입을 만들어 주면서 뭐 여러 가지 이제 기존에 LM이 하고 있던 어떤 계기라든가 이런 것들도 좋지만은도 실제로 실무에서 저렇게 톤을 바꾼다라거나 여러 가지 이런 형태들을 바로 적용할 수 있도록 하면서 굉장히 그 화제를 모으고 있습니다. 특히 클로드 코드하고도 연계가 되기 때문에 앱을 만들 때 그 기본적인 디자인 프로토타입 같은 것도 바로 연동이 되니까 이게 개발해서 디자인까지 확정이 되고 있는 상황인데요. 물론 지금 클로드 오퍼스 4.7의 경우에는 4.6과 유과 비교해 봤을 때 아 실제로는 그렇게 좋지 않다라는 평이 좀 많이 퍼지고 있는 상황입니다. 벤츠마크는 이제 좋다고 하지만. 근데 오늘이 클로드 오퍼스 4.7과 클로드 디자인을 살펴보면서 앤트로픽이 지금 점차 매출을 확장을 해 나가고 있거든요. IPO도 앞두고 있는데 오픈 AI를 앞질렀잖아요. 그래서 이제 오픈 AI는 약간 좀 애매해진 포지션을 가지고 있는데 법령적으로 회사를 대상으로 채피가 퍼져 나간다라고 오픈 AI가 전략을 세웠다라고 하면은 앤트로픽은 일단은 올해 일하면서 스스로 검증 가능해서 팔로시네이션을 대폭 줄이고 실제 산출문을 만드는 것까지의 포지션을 확실히 가져가고 있다라는 측면에서 오늘 한번 내용을 살펴보도록 하겠습니다. 보통 예전에 AI의 모델이 발표됐다 혹은 뭐 기능이 발표됐다 하라면은 얼마나 더 똑똑해졌느냐 또 얼마나 많이 아느냐 요런 것들을 중심적으로 얘기가 많이 됐죠. 근데 이번 발표에서는 실제로 더 오래 일할 수 있느냐의 포지션에서 봤을 때 약간 얘를 덜 감시해도 되느냐 에이전트가 얘를 얼마나 더 잘 구현하냐 여기에서 지금 사람들의 이제 그 평가 좀 갈리는 부분들이 있는 것 같습니다. 근데 결국은 사람이 하던 실무의 일부를 잘 맡길 수 있느냐의 측면에서 오프스 4.7도 그렇고 그 부분은 좀 특화해서 개선이 된게 있는 것 같거든요. 미소스를 실제로 공개를 하면 안 된다라는 측면에서 얘를 좀 약간 좀 구린 걸 내놓치 않한다 이런 의심도 좀 들고 있는 상황인데 어쨌든 이번 두 발표 오프스 4.7이 7이 모델 레벨에서 실무형으로 전환을 해 가지고 기존의 프로포트를 막 그냥 그대로 쓰면은 좀 잘 안 되는 경향이 있다라고 합니다. 명확한 거를 지시를 해야고 오히려 더 잘되기 때문에 이게 에이전트 AI로 끌어와서 그한 커맨드를 잘 던지면 좀 잘 될 수도 있지 않을까라는 평도 있기도 하고요. 거기에 연계해서 클러드 디자인이라는 것이 제품 레벨에서 실무형으로 바로 쓸 수 있도록 확정을 해 나가니까 오히려 오픈 AI가이 기업들을 대상으로 한다라는 법명적으로 퍼져가는 것보다 특정 분야를 타겟으로 해서 먹겠다라는 측면에서 굉장히 좀 강력하게 나가고 있는 부분이 있지 않나라는 평가가 지금 줄을 이루고 있죠. 먼저 오프스 4.7부터 간략하게 살펴보고 넘어가도록 하겠습니다. 4월 16일에 이렇게 발표가 된 다음에 뭐 이런 점수들을 이제는 다 익숙하죠. 에이전티 코딩 부분에서도 굉장히 많이 발전을 한 부분이 있는데 출시를 안 한 미소스 프리뷰 같은 경우에는 요게 더 높다라는 거를 같이 얘기를 하고 있습니다. 이거 출시도 안 했는데 이렇게 비교를 했네요. 더 [목을 가다듬음] 좋은 거 있어요라고 얘기를 한 거 보면은 뭔가 오픈 4.7이 미소스를 원래 출시해야 되는데 약간 좀 구린 걸 해놔서 지금 평이 약간 안 좋은게 아닌가? 터널 코딩 쪽은 오히려 좀 낮거든요. GPT 5.4 같은 걸 비교를 해 보면은 그 이게 오픈 4.7을 광고를 하려고 하는 건지 위소스를 더 잘 났다고 얘기를 하는 건지 그런 부분들 있지만 어쨌든요 벤치마크 지표들을 보면은 비주얼 리즈닝이라든가 이런 부분들이 상당히 향상됐는데 이런 것들이 어떻게 보면은 지금 에이전틱 AI로서 돌릴 수 있는 것들을 봤을 때 굉장히 많이 개선된 부분들이 있다라고 얘기를 하는 것으로 이해를 하시면 될 거 같고 새로운 기능들 해 가지고 얘기를 하는 거 보면은 원밀리언의 토큰 컨텍스트 윈도우를 갖고 있다. 그러니까 에이전트로 돌리면은 굉장히 오랫동안 내가 했던 것들을 기억을 하고 있으면서 대답을 해 줄 수 있다는 거를 강조를 하는 거겠죠. 그리고 자기 검증을 좀 강화를 해 가지고 결과를 내기 전에 뭔가 이상한 소리를 한 거 아닌가라는 것들을 조금 더 투자를 하고 있는 것으로 보이고요. 그러면서이 새로운 기능으로서 고해상도 이미지를 지원을 하게 되니까 이전에는요 정도를 지원을 했는데 지금 두 배에서 세 배 수준으로 해상도도 높여졌고 뭐 이렇게 보이죠. 그니까 실무적으로 사용을 하고 있는 고해상도의 이미지까지도 처리를 할 수 있다라는 부분들이 훨씬 더 이제 주목을 받는 부분들이 되겠습니다. 그러니까 더 오래 버티면서 덜 틀리고 또 덜 감시해도 되는 모델로 포지셔닝을 했다라고 보시면 되겠고 단순히 이거를 그냥 전담률 상승이라든가 기존에 프로포트도 처 받았는데 잘 안 된더라라고 해석을 하기에는 특정 부분에서 굉장히 좀 심혈을 기울려서 한 부분들이 있는 것으로 보이니까 그걸 좀 살펴보면요. 이게 약간 게임이 달라졌다는 거죠. 예전에는 뭐 할루시네이션이 줄었느냐, 세종대왕이 맥부 던진 사건에 대해서 아느냐 이런 걸 물어봤다고 하면은 지금은 진짜로 돈을 벌어야 되잖아요. 엔트로피터 IPO를 앞두고 있는 상황이니까 오프디아처럼 우리가 돈을 벌 수 있다는 걸 입증을 해 보야 되는 상황에서 내가 더 많이 알아요라는 거를 얘기를 하는 것이 아니라 진짜로 너의 일을 대체를 할 수가 있어요. 계획을 잘 세우고 하위 작업을 잘 분해한 다음에 오류를 스스로 얼마나 잘 발견을 하는지 또 툴을 안정적으로 얼마나 잘 사용하는지 요런 것들을 중심적으로 해서 잘 학습을 시킨 모델이 아닌가라고 지금 추정이 되는데 그래서이 오프스 4.7이 확실히 기존의 클로드 뭐가 다르냐라고 하면은 크게 이렇게네 가지로 볼 수가 있을 것 같습니다.요 포인트를 잘 알아야지 또 오포스 4.7을 얼마나 잘 사용할 수 있느냐에 대한 관점도 다시 이제 이해를 하실 수 있을 것 같은데요. 처음에 말씀드렸다시피 컨텍스트가 굉장히 길어지면서 처음에 시작점으로부터 중간에 제시도를 하고 검증 체크포인트 최종 완료 시점까지 그러니까 짧은 질의 응답을 잘하는데 긴 작업을 가면 갈수록 우리가 에전트 AI 쪽에 무너지는 경향을 보이잖아요. 그게 이전에 해당하는 KB캐시라든가 컨텍스트를 다 이해를 하지 못하기 때문에 벌어진 일들인데 요거를 길게롱 허리젠탈 어토미 개선 쪽으로 보이면서 예전에 했던 작업들까지도 계속 그 흐름을 기억하면서 수행을 할 수 있으니까 기본적으로 거기서 먹고 들어가는게 있다라는 거죠. 그게 복잡한 어떤 멀티스텝으로 멀티턴으로 계속 뭔가 작업을 한다라고 하면은 장기 작업을 했을 때에 중간 상태를 더 잘 기억을 하고 있으니까 훨씬 더 잘 붙는 걸 예상을 할 수가 있겠죠. 이게 실제 실무에서 하루 종일 컴퓨터 치면서 클로드를 이용했다고 하는데 중간중간마다 내 거 기억을 못 하고 이렇게 하면은 아이 또 처음부터 다시 한다거나 안 되네. 잘 그냥 내가 하고 말지 약간 이런 식으로 갈 수가 있는데이 길이를 늘렸다는 거 자체가 코딩뿐만이 아니라 문서 작성 조사 뭐 업무 자동화 이런 부분들 있잖아요. 그리고 이번에 나온 디자인까지 요런 모든 부분들을 길게 해낼 수 있는 거에 주한늘점을 뒀다라고 이해를 하시면 되겠고 그다음에 리터럴이라고 표현을 했는데 요게 예전에는 애매한 프롬프트가 있으면 그냥 적당히 해석해서 약간 의도를 추정하는 식으로 갔거든요. 근데 요렇게 되면은 문제가 뭐냐? 실무 기준으로 보면은 내가 원하지도 않던 방식으로 그냥 해 버리는 경우가 발생을 한다라는 거죠. 그러면이 만족도가 떨어지게 될테니까 자동화 환경에서 불안동할 수밖에 없는데 오프스 4.7에서 좀 더 리터럴하게 작용한 거 리터럴이 뭡니까? 그냥 명시된 요구 사항 그대로 움직인다는 거니까 엄격하게이 인스트럭션을 팔로잉 하겠다라는 측면으로 보여줄 수가 있겠습니다. 이런 측면에서 보면은 일관성이 향상이 되고 제연성이 증가가 되니까이 파이프라인 전체를 통합하기가 쉽겠죠. 그러니까 우리가 그냥 애매한 요청을 적당히 써서 잘 되던 것들의 프롬프트들을 혹은 우리 MD 파일이나 하네스 엔지니어링으로 이제 구성을 할 때 그런 애매한 것보다 훨씬 덜 유연하게 느껴질 수가 있겠죠. 그거를 좀 더 명확하게 더 적어 줘야 된다는 말이니까 아 얘가 눈치가 없네 이렇게 느껴줄 수가 있어요. 그래서 그런 부분들을 좀 더 명확하게 해야 된다는 부분들이 있다는 걸 우리가 알 필요가 있고 이번 오프 4.7에서 그니까 개인 사용자 입장에서는 굉장히 호보로가 갈릴 수밖에 없는데 기업 입장에서는 굉장히 큰 중요한 개선이 될 수 있다라고 하는 포인트들 그러면서 스스로 또 이제 검증을 또 잘 하게 되니까 요런 부분들도 업무적으로 잘 표현이 되는 부분들이 있고 아까 말씀드렸다시피 이미지 처리가 굉장히 좋아졌구나 한다 좋아졌겠지 요런 느낌보다는 화면 읽기 능력이 향상됐다라는 측면을 봐야 돼요. 우리가 항상 HT에서 처리가 될 부분들이 지금 보고 있는 화면을 얼마나 잘 이해를 할 수 있느냐를 픽셀 단위로도 확장이 됐고 UI를 좀 복잡하게 돼 있어도 이걸 이해를 잘 할 수 있느냐의 문제들을 스크린 레디의 입장에서 보면은 굉장히 많이 개선됐다라고 볼 수가 있겠죠. 그래서 실제로 중요한 지점은 그냥 이미지를 이해를 해내는게 잘 좋아졌다 요렇게만 판정할 것이 아니라 진짜 디지털 화면이라든가 고해상도 UI를 잘 이해를 하니까 그걸 토대로 해서 우리가 추가적인 작업을 할 수가 있다. 이렇게 이해를 하시면 되겠습니다. 이게 에이전트 루프 관점에서 보면은 또 무엇이 달라졌는가 보면은 결국은 목표 우리가 하고자 하는 거를 시켰을 때 그걸 잘 이해를 하고 있느냐부터 시작해서 계획을 세우겠죠. 플랜을 세운 다음에 각각의 적절한 액션을 취한 다음에 요거를 이제 잘 실행하고 또 이게 뭔가 잘못됐는지 안 됐는지 검증도 해 가면서 해야 될 텐데요 루프가 만약에 약하면은 예를 들어 뭐 툴이 실패를 했다라던가 아니면은 내가 처음부터 뭔가 생각을 했는데 잘못 생각했어. 그래서 액션을 잘못 취했어. 뭐 약간 같은 행동을 계속 반복을 하게 된다라거나 완료되지 않았는데도 어 대충 끝났네 하고 이제 가져온다라거나 이런 것들이 계속 발생하면은 자신감 있게 그냥 오 나 다어요라고 하면서 하는 거 이거 오픈클로 쓰시는 분들 많이 경험하시죠. 근데이 루프가 강력하게 유지가 되면은 결국은이 전체 작업 흐름이 유지가 되고 궁극적인 목표 밑에 이제 하위 목표들을가 이제 설계를 하게 되는데 실패한 다음에 이거를 복구를 할 수 있는 능력 요런 것들이 오프스 4.7에서 훨씬 더 안정적으로 돌릴 수가 있다라는 평가가 있다라는 겁니다. 물론 기준에 쓰던 거를 그대로 가져왔을 때는 지금 평이 별로 안 좋아요 보니까. 근데 뭔가 오프스 4.7에서 요러한 부분들을 신경을 쓰면서 한쪽으로 제작하더니 기존에 있는 프롬프트를 제대로 못 먹히는 부분들이 있을 거고 그러면은 기존에 있는 하네스 구조라든가 프롬프팅 같은 것들 엔디파일어 안에 들어가 있는 다양한 코멘드들을 좀 더 이제 새롭게 좀 명확하게 클리어하게 구성을 해 가지고 단순 질의 응답의 성능보다도 계획 실행 검토 수정이 좀 명확하게 떨어질 수 있도록 또 처리를 하는 부분들 요런 것들을 좀 더 잘 맞춰줘야 되지 않을까라고 예상이 되는 부분들이 있습니다. 그러면서 이번에 또 새로 나온 것이 오포스 발표 다음 날에 발표된 클로드 디자인이라고 하는 건데요. 겉으로 보면은 그냥 디자인 툴이에요. 뭐 프로토타입 만들어 주고 이런 건데 사실 이걸 뜯어 보면은 조직의 특성한 브랜딩 컬러라든가 뭐 이미지들이 있잖아요. 요런 것들을 딱 맞춰 갖고 할 수 있는 디자인 에이전트기 때문에 기업으로 빠르게 확산되지 않을까 이렇게 기대가 되는 부분들이 있습니다. 사실 이것 때문에 피그마 기업의이 주가가 하루 만에 갑자기 떨어졌다고 했죠. 17일 날 발표가 된 이후에 이게 뚝 갑자기 떨어져 가지고 아직도 이게 회복을 못 한다는 모습을 보여 주는데 이게 그만큼 좀 충격적이게 봐들어졌다라는 거죠. 기본적으로 앱으로 이렇게 구성을 해 가지고 빌딩을 하는 거는 비슷한 형태이긴 한데요 디자인 포맷이라든가요 색깔들 요런 것들을 틴들을 바로바로 맞춰 갖고 수정을 할 수 있는 부분들 그리고 이거를 클로드 코드와 연결을 해서 또 생성을 한 다음에 디자인을 할 수 있는 부분들이 굉장히 크다라는 겁니다. 뭐 웹페이지도 마찬가지겠고 다양한 부분에 대해서 그런 것들을 잘 맞춰서 할 수가 있겠죠. 벌써부터 X에 보시면은이 클로드 디자인 전체적으로 어떤 이미지로 해야 될지 이렇게 만들어 보면서 어떤 형태로 만들어야겠다라는 것들 톤이라든가 이런 것들을 배치하는 거 이거 자체가 새롭게 디자인을 하는 방식을 정의를 했다는 측면에서 그리고 물론 다양한 사스 기업들도 있잖아요. 디자인 기업들도 많이 있고 그걸로 해서 강점들도 있는데 클로드 같이 이게 클로드 코드가 강력한 쪽으로 가면은 어 클로드 코드를 쓰면서이 디자인들을 가져와 가지고 같이 체적화를 하면서 디플로이를 한다라든가 이제 발행을 할 수 있도록 요렇게 이어질 수 있는 강점이 있다라는 거죠. 이거 닌텐도 역사에 대해서 이렇게 만들어 달라고 이렇게 좀 얘기를 하면서 스스로 라이팅하고 에디팅하고 하는데 진짜 그냥 동영상처럼 그냥 만들어 버리니까 이게 사실 요즘도 뭐 리액트라든가 이런 다양한 애플리케이션 사용해 가지고 동영상을 AI로 많이 만들고 혹은 발표 프레젠테이션도 동영상처럼 만들어서 구성을 하는 요런 것들이 결국은 코딩 능력이 굉장히 강력해지다 보니까 이게 인터랙액티브 하게 혹은 애니메이션을 자연스럽게 우리가 많이 보는 방식으로 만들어 수 있다라는 것이 강점이었는데 또 새로운 어떤 스타일의 영상화라든가 클립을 만들 수 있는 그리고 디자인적인 요소에서도이 이런 것들 녹여 가지고 바로 콘텐츠로 승화시킬 수 있는 요러한 방식으로 많이 확장이 될 것 같고요. 이게 디자인이라든가 UI 같은 것들이 개발과 합쳐지다 보니까 UIX와 코딩 부분, 개발 부분이 따로 떨어지지 않는다라는 부분이 또 이제 굉장히 주목을 받을 만한 부분인 것으로 보입니다. 그까 처음에 온보딩할 때 코드 베이스를 읽은 다음에 뭐 디자인 파일을 또 읽을 거잖아요. 그리고 팀 디자인 시스템을 구성을 합니다. 요즘은 요렇게 잘하죠. 디자인 템블릿이라든가 여러 가지 부분들을 하나의 베이스로 깔아 놓은 다음에 이후에 모든 프로젝트를 만들 때 그 색상에 맞게 그 타이포그래피에 맞게 뭐 스타일이라든가 뭐 브랜드 문법 같은 것들을 일관된 규칙하에 규정을 한 다음에 요런 걸 토대로 해서 생성을 할 수 있게 되니까 훨씬 더 일반적이게 만들 수 있다라는 거죠. 뭐 다 한 다음에이 클로드 코드로 넘길 수가 있으니까 이게 제일 좋은 부분일 수도 있을 거고 그냥 예쁜 시한 생성기가 아니라는 겁니다. 시한만 생성한게 아니라 개발과 디자인을 함께 할 수 있다라는 문법을 가졌다는 거죠. 그러니까 레퍼런스 기반으로 어떤 무드보드를 만든다라든가 뭐 아이디어를 발산한다든가 이런 것들을 이제 일하는 방식이 다르다라는 거예요. 글자들을 어떻게 할 것이며 색깔을 어떤 구성으로 할 것이며 이런 것들을 하나로 쫙 컨셉을 시작한 다음에 할 수 있으니까 이게 사실 기존 디자인 AI에서 한계가 있었던 부분들이 실제 문법과 이게 디자인 따로 생성하면 안 맞잖아요. 그리고 어떤 건 또 아예 구현이 불가능한 UIX를 만들 수도 있고 그리고 내가 원하는 브랜딩을 잘 좀 표현을 하기가 힘든 부분도 있었을 텐데 요런 엔지니어링 제약을 제대로 반영을 못 하던 부분들을 클로드 때문에 여기 좀 포지셔닝을 잘한 것이 아닌가라고 평가를 받고 있는 상황이 되겠죠. 그래서 팀 디자인 시스템을 읽은 다음에 코드 베이스를 읽어서 조직 스타일을 반영하면은 거기에 일간되게 짜르락 다 나오게 할 수 있다라는 부분들 요게 다 베이스가 되는 거죠. 실제로 디자이너들도 요런 베이스가 있으면은 요걸 토트들레하고 디자인을 할 텐데 그 스타일을 계속 일간이 유지되면서 AI가 알아먹을 수 있는 언어로 계속 해석해 준다라는 부분들. 물론 이게 클러드뿐만 아니라 앞으로 계속 확장해 나가겠죠. 클러드만 잘한다 이렇게 해석할 필요는 없을 것 같고 더군다나 이전에 입력이 프롬프트로 한정되는 것이 아니라 내가 이미지를 준다거나 뭐 웹 파일이라든가 코드라든가 이런 것들 다 준 다음에 원한대로 다 생성을 할 수 있다라는 부분도 굉장히 큰 부분들이 되겠죠. 그래서 이게 결국은 그냥 기능 추가라고 보기에는 강력해져 버렸다는 거죠. 전통적으로 어떤 제품을 제작을 하려고 하면은 일단 뭐 고객들한테 혹은 뭐 내가 원하는 바들을 요구 사항들을 쫙 정리를 한 다음에 여러 시안들을 만들잖아요. 디자이너 시안들을 딱 제작을 하고 그걸 왔다 갔다 왔다 갔다 하면서 피드백 반복을 하면서 거기에 맞춰서 또 개발자에 갔다가 개발자가 아 이건 좀 안 되는데요. 서 다시 디 디자인한테 갔다 이게 되는데 이거 자체가 시간이 걸리는 일이고 사람의 품이 드는 일인데 이런 것들을 다 그냥 줄어들려 수 있는 가능성이 생겼다라고 하니까 피그마 같은 것도 약간 좀 꺾일 수가 있다라는 부분이 있는 거고 말 그대로이 마차를 줄일 수 있는 왔다 갔다 하면서 엄청나게 느려지고 하는 부분들을 아예 없애 버릴 수 있는 가능성을 봤다라는 거. 자, 이렇게 한 주간에 나왔던이 엔트로픽의 얘기들을 정리를 해 봤는데 그러면 이제 오픈 AI 얘기를 안 할 수가 없죠. 저렇게 세말과 아모데이가 서로 손을 안 잡고 만세를 하는 저게 좀 이슈가 됐죠. 절대로 안 잡겠다는 서로 IPO를 앞두고 있고 투자를 받아야 되는 상황이고 스타트업이다 보니까 메타나 구글에 입장하는 상당히 다른 포지션을 가지고 있는 두 사람이기 때문에 이러한 상황에서 엔트로피 오픈 AI를 이긴다라는 말이 나오는 이유가 지금 뭐 모든 영향에서 완성했다 이렇게 해석을 할 것이 아니라 지금 사실 기울기 측면에서 처음으로 매출에서 뚫었다라는 데이터가 있잖아요. 근데 이게 또 영향마다 봐야 되는데 아무래도 엔트로픽은 지금 당장 돈을 벌 수 있고 실무적으로 코딩에서 정평이 나면서 이렇게 디자인까지 자연스럽게 확장할 수 있는 배경으로 확장해 가고 있다라고 해석을 할 수가 있겠죠. 물론 앞으로도 봐야 됩니다. 현재 오픈 4.7이 뭐 커뮤니티 반발도 꽤 커요. 뭐 토큰 사용량이 너무 크다. 너무 느리고 막 어 약간 좀 내가 원하던 방식으로 하던 것과 약간 달라서 좀 짜증난다 이렇게 하는 반응도 있거든요. 실제로도이 AI 컴퍼니들 봤을 때 오픈 AI가 매출 기준으로 이렇게 잘 이렇게 가고 있었는데 엔트로픽이 급격하게 오르는 거 보이시죠? 이렇게나 빠르게 올라오고 있으니까 두 거대한 스타트업이 이렇게 맛붙었을 때 최근에 엔트로픽의이 미소스 같은 경우도 전쟁부에서 미국 전쟁부에서 가져간다 이런 얘기도 있고 어떻게 보면은 미국 전부가 인증을 해 준 것도 되겠죠. 사실 확실히 그 오픈 AI 쪽의 인상은 뭔가 아무래도 채지T라는 것을 시작으로 해서 제일 많은 소비자들을 데리고 있는 측면 혹은 멀티모델의 법정성이라든가 그 외에도 뭐 브라우저, 데스크터, 플러그인 같은 것들, 메모 같은 것들이 확장을 잘 이렇게 플랫폼으로서 역할을 하고 있잖아요. 사용자들이 굉장히 많은 상황에서 브랜드가 강하다 보니까 AI라는 말 대신에 최지T, GPT 이런 말도 많이 쓰잖아요. 그렇게 넓은 생태로 해서 AI 운영 체제형의 해라고 볼 수가 있다라고 하면은 굉장히 넓은 능력을 가고 있는데 엔트로픽은 그야말로 굉장히 그 스코프를 좁게 가지면서도 이게 좁다라고 말했을 때의 시장이 작은게 아니거든요. 오히려 좁히고 제대로 잘하니까 훨씬 더 매출을 잘 올린다라는 관점에서 실무적으로 개발자들이 대부분 코딩을 많이 하고 있고 장기적으로 작업을 하면서도 스스로 보수적으로 셀프 메리피케이션도 진행하면서 특정 회사의 어떤 컨텍스트를 잘 반영할 수 있는 그래서 디자인과 개발을 연결할 수 있는 코드로 지금 나아가고 있다라는 측면에서 포지셔닝을 굉장히 잘했다라는 전문가들의 평가가 많습니다. 아무래도 코딩이라고 하는 것이 증명의 장이 될 수밖에 없다라는 것이 생산성 향상에 있어서 가장 체감되는 영역이잖아요. 아예 뭐 개발을 못 하시던 분들도 지금 이제 코딩을 할 수 있게 됐는데 이거를 훨씬 더 섬세하게 할 수 있다라고 한다거나 아예 디자인을 못 하는 사람마저도 디자인을 잘 할 수 있게끔 그래서 개발까지 이어지게끔 만들어 낼 수 있는 능력 이거는 그 기존에 그 어떤 기술도 할 수가 없었던 거잖아요. 트레이닝의 기간이 필요했던 거고 코딩을 배운다거나 디자인을 어떻게 해야 한다는 문법을 이해를 하고 있어야만 됐던 것들이 이제는 이걸 바로 대체를 할 수가 있다 보니까 컴퍼니 입장에서는 사실 인건비 같은 것도 굉장히 줄일 수 있는 거고 개발자분들도 지금 이제 위협을 느낀다라고 하는 것이 어 내가 하던 것들을 그냥 AI가 해 버리니까 어 나도 빨리 AI를 먼저이 툴을 더 활용을 해야 되겠네 약간 이런 관점도 있다라는 거죠. 그러면 뭐 장애 대응 속도도 빨라질 거고 엔지니어링의 생상선 자체가 증가를 하다 보니까 앞으로이 AI의 핵심 능력을 여러 가지로 봤을 때에 이것들을 빨리 해낸 다음에 다음 넥스트로 더 넘어가는 과정으로 단순히 그냥 개발자용 AI가 강하다는 뜻이 아니라 차세대 어떤 업무형으로 포지셔닝을 굉장히 좀 강력하게 해 가고 있다라는 측면에서 볼 수가 있다라는 점을 이해를 할 수가 있습니다. 자, 근데 이거는 이제 성공했을 때의 얘기인 거고 엔트로픽이 이제 잘 이렇게 만들어진다라고 했을 때 문제인 거 같고 오픈 4.7에 대한이 좀 안 좋은 평가들도 많거든요. 좀 알아서 좀 찰칵같이 못 알아는다는 말도 있고 너무 기계처럼 돼 버려 가지고 그리고 너무 안전 필터가 강하게 걸려 있어서 좀 빡세다. 이거 뭔가 하려고 하면 좀 막힌다 이게 약간 멍청하게 느낀다. 이런 느낌도 많아요. 사실 커뮤니티에 얘기를 들어 보면은 저도 실제로 써 보니까 그렇고요. 근데 제가 아까 말씀드렸다시피 이게 이제 진짜로 에이전틱 AI로 이제 포인트를 무빙을 한다라고 하면은 좀 더 리터를하게 말 그대로 명확하게 제시를 할 수 있는 요런 형태에 다시 또 프롬프트 엔지니어링과 환네스 엔지니어링 쪽으로 넘어온게 아닌가? 모델 특화에서 내가 제대로 굴리려면은 그거에 대한 능력 또 다시 최적화가 필요하지 않나라는 측면이 좀 있고요. 왜냐면은 알아서 잘해 주기 때문에 알아서 해 주다 보니까 작은 확률로라도 잘못된 확률이 생긴다는 거죠. 그런 측면에서 원래도이 할로시네이션에 대해서는 굉장히 보속으로 보고 안는 낙지를 많이 걸어놨던 얼라이먼트를 굉장히 많이 하던 엔트로피이었기 때문에 앞으로 개인 사용감면은 아무래도 프릭션 마찰이 있을 수도 있겠지만도 이제 두고 지켜봐야 될 거 같고요. GPT 6 얘기도 나오고 뭐 그런데 어쨌든 앞으로는 업무적으로 엔트로픽이 얼마나 차지를 하느냐 사실 구글 같은 경우는 제미나이가 그런 부분들을 굉장히 기존 플랫폼을 완전히지고 있기 때문에 포지션이 굉장히 좋잖아요. 그래서 자연스럽게 합성이 되는데 엔트로피는 그게 없었던 상황이죠. 근데 코딩부터 시작해 갖고 디자인부터 이렇게 스멀스멀 나름대로이 플랫폼을 확장을 해 나가려고 하다 보니까 앞으로이 AI 모델 그리고 서비스 업체들의 경쟁이라든가 그 외에 여러 가지 사스 업체들이 요런 또 API를 사용해 가지고 얼마나 더 강력한 또 모델을 제시를 할 수 있을지 같은 것들을 지켜보는 것이 앞으로의 관전 포인트가 아닌가 싶습니다. 지금까지 에로였습니다.",
+      "analysis_date": "2026-04-22T23:54:26+00:00",
+      "channel_name": "안될공학 - IT 테크 신기술",
+      "topic_tags": [
+        "agents",
+        "automation"
+      ],
+      "keywords": [
+        "agents",
+        "automation",
+        "OpenAI",
+        "Claude",
+        "Opus",
+        "4.7",
+        "체감성능"
+      ],
+      "tools": [
+        "OpenAI",
+        "Claude"
+      ],
+      "flow": [
+        "처음 15초 안에 문제를 선명하게 정의하고 왜 지금 봐야 하는지 못 박는다.",
+        "중간 구간에서 툴, 사례, 비교 포인트를 빠르게 제시해 정보 밀도를 높인다.",
+        "마지막에는 시청자가 바로 따라할 수 있는 다음 액션과 적용 예시로 닫는다."
+      ],
+      "claims": [
+        "단순 소개보다 실제 사용 장면을 바로 보여주는 구조가 반응을 만든다.",
+        "큰 담론보다 작은 병목 하나를 해결해주는 포장 방식이 클릭으로 이어지기 쉽다."
+      ],
+      "transcript_highlights": [
+        "미소스를 실제로 공개를 하면 안 된다라는 측면에서 얘를 좀 약간 좀 구린 걸 내놓치 않한다 이런 의심도 좀 들고 있는 상황인데 어쨌든 이번 두 발표 오프스 4.7이 7이 모델 레벨에서 실무형으로 전환을 해 가지고 기존의 프로포트를 막 그냥 그대로 쓰면은 좀 잘 안 되는 경향이 있다라고 합니다.",
+        "사실 커뮤니티에 얘기를 들어 보면은 저도 실제로 써 보니까 그렇고요. 근데 제가 아까 말씀드렸다시피 이게 이제 진짜로 에이전틱 AI로 이제 포인트를 무빙을 한다라고 하면은 좀 더 리터를하게 말 그대로 명확하게 제시를 할 수 있는 요런 형태에 다시 또 프롬프트 엔지니어링과 환네스 엔지니어링 쪽으로 넘어온게 아닌가? 모델 특화에서 내가 제대로 굴리려면은 그거에 대한 능력 또 다시 최적화가 필요하지 않나라는 측면이 좀 있고요.",
+        "실제로도이 AI 컴퍼니들 봤을 때 오픈 AI가 매출 기준으로 이렇게 잘 이렇게 가고 있었는데 엔트로픽이 급격하게 오르는 거 보이시죠? 이렇게나 빠르게 올라오고 있으니까 두 거대한 스타트업이 이렇게 맛붙었을 때 최근에 엔트로픽의이 미소스 같은 경우도 전쟁부에서 미국 전쟁부에서 가져간다 이런 얘기도 있고 어떻게 보면은 미국 전부가 인증을 해 준 것도 되겠죠."
+      ],
+      "top_comments": [
+        {
+          "video_id": "8PmFUZCMP3o",
+          "comment_id": "Ugz0v5HPk5hWM0b4Ajh4AaABAg",
+          "author": "@MkWooong",
+          "text": "좋은건 알겠는데 그렇게까지 비싸게 굴 일인가 싶은 불만이 슬슬 생김. - 프로 사용자",
+          "like_count": 34,
+          "reply_count": 4,
+          "published_at": "2026-04-22T05:44:37Z"
+        },
+        {
+          "video_id": "8PmFUZCMP3o",
+          "comment_id": "Ugxt1AMdwQPnfUvP3ol4AaABAg",
+          "author": "@jamanvo",
+          "text": "토큰 소모 미쳤어요",
+          "like_count": 15,
+          "reply_count": 0,
+          "published_at": "2026-04-22T05:38:17Z"
+        },
+        {
+          "video_id": "8PmFUZCMP3o",
+          "comment_id": "UgydPxXl2pjSVwYyxG14AaABAg",
+          "author": "@wejofksdjf",
+          "text": "벤치 믿을게 못됨\n토큰 소모만 많은거면 말도안함\n무슨 실수가 이렇게 많은지 작업 한번 시키면 검토를 2~3회를 시켜도 오류가 잡힐지경임\n4.7은 4.6의 발전형이 아니라 미토스 마이너 카피형으로 출시한것 같음",
+          "like_count": 13,
+          "reply_count": 0,
+          "published_at": "2026-04-22T08:15:08Z"
+        },
+        {
+          "video_id": "8PmFUZCMP3o",
+          "comment_id": "Ugx0afCjY3tf4ZQwIT54AaABAg",
+          "author": "@신손",
+          "text": "완전 수동적이고 세세한 거 까지 다 정해줘야 하고, 사용자와 교감하는 능력이 정말 떨어짐. 뭐가 문제인지 말해보라고 하면 법률조항 말하듯이 “계획의 몇절과 몇절에서 정한바를 적용했는데 몇절에 가정한 내용과 상충됩니다.” 저 몇절에 무슨 내용이 있는지 사용자가 다 알고 있다고 가정하고 얘기함. 진짜 폭발!!",
+          "like_count": 8,
+          "reply_count": 0,
+          "published_at": "2026-04-22T06:11:38Z"
+        },
+        {
+          "video_id": "8PmFUZCMP3o",
+          "comment_id": "UgxwHz80xbOLpWr6tqZ4AaABAg",
+          "author": "@AlmondBongBong-iv6lu",
+          "text": "이런걸 보면 소프트웨어 기업들이 참 무섭긴하겠네요..",
+          "like_count": 6,
+          "reply_count": 0,
+          "published_at": "2026-04-22T05:47:42Z"
+        }
+      ]
+    },
+    {
+      "video_id": "Nncuwyo_IB4",
+      "channel_key": "uc-syugflzxpgdr7wszgybhw",
+      "title": "GPT 이미지 2.0 이정도면 외계인 기술력이 맞다... 힉스필드AI 까지 조합하니 더 미쳤네 ㄷㄷ",
+      "description": "🎨외계인 기술력 GPT 이미지 2.0 + 시댄스 2.0 힉스필드AI 바로가기: https://higgsfield.ai/s/higgsfield-seedance-2-0-success_wiki-JlihuR\n\n오픈AI가 드디어 GPT 이미지 2를 공개했습니다. 나노바나나가 이미지 생성 끝판왕이라고 생각했던 분들은 이번 영상 보시고 진짜 놀라실 거예요. 실사보다 더 진짜 같은 퀄리티는 물론, 한글/중국어/일본어 같은 아시아 계통 언어의 텍스트 렌더링 능력까지 완전히 뒤집혔습니다. 여기에 힉스필드AI(Higgsfield AI)의 시댄스 2.0(Seedance 2.0) 영상 모델을 붙이면, 텍스트 투 비디오 AI 한 번에 멀티샷 AI 영상까지 실사급으로 완성됩니다. 이 영상에서는 챗GPT 웹에서 GPT 이미지 2를 사용하는 방법부터, 힉스필드AI에서 4K 고해상도로 뽑고 시댄스 2.0으로 AI 영상 생성까지 끝내는 전체 워크플로우를 처음부터 끝까지 보여드립니다.\n\n🎬 힉스필드AI(Higgsfield AI)가 뭔가요?\n한 플랫폼 안에서 수십 종의 이미지·영상 AI 모델을 한 구독으로 돌릴 수 있는 올인원 크리에이티브 워크스페이스예요. 오늘 영상에서 쓴 시댄스 2.0(Seedance 2.0)을 포함해, 텍스트 투 비디오 AI부터 이미지 투 비디오, 멀티샷 AI 영상, 캐릭터 일관성 유지까지 한 번에 해결됩니다. 프롬프트만 넣으면 영화 수준의 AI 영상 생성이 가능하고, High 퀄리티 + 4K 옵션으로 해상도·텍스트 디테일까지 깨지지 않아요. 유튜브·쇼츠·광고 크리에이터가 바로 써먹을 수 있는 환경이라 링크 타고 들어가셔서 직접 체험해보시는 걸 추천합니다.\n\n🔑 핵심 인사이트\n\n1. GPT 이미지 2 실사 퀄리티 — 맥북 화면에 띄운 챗GPT UI, 아이돌 프로필, 인포그래픽까지 100% AI 생성이라고 믿기 어려운 수준. 10명 중 9명은 실제 스크린샷으로 착각할 정도의 완성도.\n\n2. 아시아 계통 언어 텍스트 렌더링 대폭 업그레이드 — 기존 이미지 모델의 최대 약점이었던 한글/중국어/일본어 글씨 깨짐 문제가 이번 GPT 이미지 2에서 거의 완벽하게 해결됐습니다.\n\n3. 챗GPT 웹 vs 힉스필드AI — 챗GPT 웹에서도 GPT 이미지 2 사용 가능하지만 고해상도(4K)는 어려움. 힉스필드AI(Higgsfield AI) 플랫폼에서 High 퀄리티 + 4K 설정으로 뽑으면 글씨·디테일 깨짐 없이 완벽한 결과물.\n\n4. 시댄스 2.0 조합 = 멀티샷 AI 영상 완성 — GPT 이미지 2로 만든 실사 이미지를 그대로 힉스필드AI 내 시댄스 2.0(Seedance 2.0)에 연결하면 K-pop 무대, 레고 포세이돈 장면, 개미왕국 전투까지 실사급 AI 영상 생성이 끝납니다.\n\n5. 텍스트 투 비디오 AI 워크플로우 일원화 — 텍스트 프롬프트만으로 이미지→영상까지 한 플랫폼 안에서 해결. 모델 간 이동·재업로드 없이 연속 작업 가능해 크리에이터 생산성이 완전히 달라집니다.\n\n📝 상세 가이드 요약\n\nPart 1: 챗GPT 웹에서 GPT 이미지 2 사용하기\n챗GPT 웹에서 플러스(+) 버튼 → Create Image 선택, 반드시 사고(Thinking) 모드를 활성화해야 최고 퀄리티의 이미지가 나옵니다. 간단한 프롬프트 하나로 맥북+챗GPT 화면 실사 이미지가 완성되는 과정과, 샘 알트만이 사전 공개한 덕테이프(DuckTape) 블라인드 테스트 결과물까지 함께 확인합니다.\n\nPart 2: 힉스필드AI에서 4K 고해상도로 뽑기\n챗GPT 웹의 해상도 한계를 넘어서 힉스필드AI(Higgsfield AI)에서 High 퀄리티 + 4K 설정으로 이미지를 생성하는 방법. 아이돌 프로필 프롬프트로 글씨·사인·디테일까지 하나도 깨지지 않는 고해상도 결과물을 직접 만들어봅니다.\n\nPart 3: 시댄스 2.0으로 텍스트 투 비디오 AI 완성\n힉스필드AI 비디오 탭에서 시댄스 2.0(Seedance 2.0)을 선택하고, 방금 만든 GPT 이미지 2 결과물을 그대로 입력으로 연결. 텍스트 투 비디오 AI 한 번으로 K-pop 아이돌 퍼포먼스 영상과 레고 포세이돈의 쓰나미 장면을 실사급 AI 영상 생성까지 끝내는 전체 워크플로우.\n\nPart 4: 멀티샷 AI 영상 + 캐릭터 일관성 활용\n여러 캐릭터가 등장하는 복잡한 장면은 4장 정도 뽑아서 마음에 드는 버전을 골라 레퍼런스로 사용. 그리스 로마 신화 올림푸스 정원부터 포세이돈 단독 장면까지, 캐릭터 일관성을 유지한 채 멀티샷 AI 영상으로 연속 장면을 만드는 실전 팁.\n\n🎨 힉스필드AI (Higgsfield AI — 시댄스 2.0 + GPT 이미지 2 사용 가능): https://higgsfield.ai/s/higgsfield-seedance-2-0-success_wiki-JlihuR\n\n\n⏰ 타임라인\n00:00 GPT 이미지 2 + 시댄스 2 결과물 미리보기\n00:29 오늘 영상에서 다루는 전체 워크플로우\n00:41 챗GPT 웹에서 GPT 이미지 2 사용법 — 사고 모드 필수\n00:56 첫 프롬프트 결과 — 맥북+챗GPT 실사 이미지 충격\n01:42 샘 알트만 X 예고 + 오픈AI 컴퓨팅 파워 이동 해석\n02:02 덕테이프 블라인드 테스트 + 아이돌 프로필 예시\n02:45 힉스필드에서 4K 고해상도 아이돌 프로필 생성\n03:42 시댄스 2로 K-pop 무대 영상 만들기\n04:55 레고 포세이돈 + 올림푸스 정원 이미지 생성\n06:01 포세이돈 레퍼런스 + 단독 장면 영상 생성\n06:39 개미왕국 전투 영상 결과물\n07:08 힉스필드 플랜 안내 (플러스/울트라, 7일·365일 무제한)\n07:52 결론 — 실사보다 더 진짜 같은 이미지+영상 시대\n08:28 아웃트로\n\n#GPT이미지2 #시댄스2 #힉스필드AI #AI영상생성 #멀티샷AI영상",
+      "published_at": "2026-04-22T03:53:08Z",
+      "duration_seconds": 518,
+      "view_count": 7260,
+      "like_count": 224,
+      "comment_count": 12,
+      "engagement_rate": 0.032506887052341595,
+      "thumbnail_url": "https://i.ytimg.com/vi/Nncuwyo_IB4/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=Nncuwyo_IB4",
+      "format": "비교",
+      "hook_type": "문제 해결",
+      "title_pattern": "핵심 포인트 직설형",
+      "one_line_summary": "이 영상은 automation 이슈를 비교 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "why_it_works": "문제 해결 훅으로 관심을 끌고, 비교 형식으로 내용을 빠르게 정리해 시청자가 '바로 써먹을 수 있다'고 느끼게 만듭니다.",
+      "recommendation": "훅 구조: 도입 15초 안에 '문제 해결' 관점으로 문제를 못 박고, 왜 지금 봐야 하는지 먼저 선언합니다. • 복제할 포장 요소: 비교 형식을 유지하되 automation를 실제 사용 장면 1개와 결과 변화 2개로 더 좁혀 설명합니다. • 비어 있는 콘텐츠 영역: 'automation가 내 작업 흐름에서 어디에 꽂히는가'를 사례 중심으로 보여주는 후속 영상이 비어 있습니다. • 추천 제목: automation 이슈를 내 채널 관점으로 다시 정리해보자 • 썸네일 카피 힌트: automation 지금 봐야 할 3가지",
+      "transcript_status": "available",
+      "transcript_source": "apify",
+      "transcript_language": "ko",
+      "transcript_text": "네. GPT 이미지 2 성능이 진짜 역대급입니다. 사실 나노바나 처음 나왔을 때 이게 이미지 끝판왕일 거라고 생각했는데 이번에 새로 나온 GPT 이미지 2 실사보다 더 진짜 같은 미친 이미지 성능을 보여줍니다. 특히나 이번에는 한글, 중국어, 일본어 등 아시아 계통 언어에 대한 능력이 특별히 업그레이드 되면서 기존 이미지 모델에서는 뭔가 부족했었던이 텍스트 처리 능력이 너무나도 매끄럽게 바뀌었습니다. 그리고 이렇게 퀄리티 좋은 이미지들을 영상까지 연결할 수 있다면이 모델의 성능을 한 층 더 끌어 올릴 수 있습니다. 그래서 오늘 영상에서는 앞서 보여 드렸던 모든 예시 이미지, GPT 이미지 2로 만드는 방법, 그리고 영상으로 업그레이드하는 방법까지 지금 바로 시작해 보도록 하겠습니다. 우선 4월 21일 기준으로 발표된 GPT 이미지 2. 현재 해당 모델이 순차적으로 유저들한테 배포가 되고 있고요. 여러분이 채 GPT 웹사이트에 와서 바로 사용이 가능합니다.이 플러스 버튼에서 크리에이트 이미지 눌러 주시고요. 반드시이 사고 모드가 활성화가 돼야지만이 훨씬 더 좋은 퀄리티 이미지를 만들어 줍니다. 자, 우선 간단한 프롬프트부터 입력해 보겠습니다. 맥북 화면에 채치T 웹사이트가 띄어져 있고 그 안에서 제 유튜브 채널에 대해서 내용을 물어보는 장면을 만들어 달라고 할 거고요. 요대로 프롬프트를 입력하겠습니다. 자, 그러면 모델이 생각을 하는데 이걸 클릭하면 생각하는 과정을 오른쪽에서 볼 수가 있고요. 프롬프트는 간단했지만 결과는 미친 실사 수준입니다. 요거를 제 확대해서 보여 드리면 아마 19명은 이걸 보고 그냥 스크린샷을 찍었거나 사진을 찍었다라고 생각을 할 텐데이 전체가 이미지입니다. 지금이 나오는 컴퓨터 안에 화면도 HPT 화면과 똑같이 생겼는데 요것도 이미지가 만들어 준 거고요. 지금이 애시 같은 경우는 오늘 이미지 2 관련 데모 영상이 나오기 전에 샘 알트만이 미리 X에서 예고를 하기도 했습니다. 이거는 스크린샷이 아니다라고 하면서 방금 제가 보여 드린 비슷한 사진을 볼 수가 있는데이 맥북 화면의 채비티 스크린 해상도도 너무나도 뚜렷하죠. 이게 기존의 영상을 만들던 소라를 오픈 AI가 폐지하고 그 모든 컴퓨팅 파워를이 이미지 2 쪽으로 돌린 것 같습니다. 그게 아니고선이 미친 퀄리티가 설명이 안 되거든요. 오늘 데모 영상에서 본 다른 예시도 보자면 이게 지금 덕테입이라는 모델에 관한 인포 그래픽입니다. 이게 덕테입이라고 해 가지고 GPT 이미지 2를 정식으로 발표하기 전에 블라인드 테스트를 했던 모델인데 이게 뭐 웹툰이면 웹툰 글씨면 글씨 이런 화면까지 커뮤니티에서도 난리가 났던 걸로 알고 있습니다. 지금 여기 보이시는이 화면도 진짜 라이브 화면이 아니라이 덕테이블로 만든 이미지라는 겁니다. 미치지 않았나요? 그래서 저도 다양하게 만들어 봤는데 기본적으로 여기 보이는 아이돌 프로필 이렇게 긴 프롬프트로 만들어졌고요. 한번 디테일하게 보자면 이렇게 각각 섹션마다 아이돌에 관한 정보가 제대로 들어가 있는 걸 확인할 수가 있습니다. 그런데 나노바나 때도 그랬지만이 채치비T 웹 자체에서는 아마 가장고해 상도로 만들기가 어려울 겁니다. 그래서 저는 프롬프트를 다 복사를 해 줬고요. 고해상도로 만들기 위해서 히스필드 플랫폼으로 올 겁니다. 이미 GPT 이미지 2를 플랫폼에 추가를 해 놨거든요. 요거를 클릭을 하시면요. 바로 하단에서 모델이 들어가 있고요.이 퀄리티를 두 가지를 정할 수가 있습니다. 하나는 해상도 관련이고요. 다른 하나는 말 그대로 결과물 퀄리티 그 자체입니다. 그래서 저는 둘 다 하이와 4K로 적어 줬고요. 방금 보여 드린 아이돌 프로필 프롬프트를 입력을 하고 한번 두 장 정도 뽑아 보도록 하겠습니다. 자, 그리고 아이돌 프로필이 나왔는데요. 이렇게 두 명의 모델이 성공적으로 만들어졌고요. 제가 이걸 저장한 다음에 확대해서 보여 드리면 글씨가 하나도 깨지지 않았고요. 저희가 하이 퀄리티랑 4키로이 이미지를 만들었기 때문에 글씨나 이미지가 깨진 부분이 하나도 없습니다. 너무나도 고퀄리티로 잘 만들어진 걸 확인할 수가 있고요. 뭐 사인까지 만들어 줬죠. 그냥 완벽한 결과물입니다. 여러분도 똑같이 프롬프트 가져가셔서 입력하시면 요거를 만드실 수가 있고요. 자, 이렇게 이미지가 성공적으로 만들어졌다면이 아이돌 프로필을 토대로 공연하는 영상을 만들어 볼 겁니다. 자, 핵스필드 상단에서 비디오 탭에 시덴스 2.력을 선택을 해 주시고요. 방금 여러분이 만든 해당 이미지를 선택을 해 줍니다. 시덴스를 사용할 때 이미지를 업로드하고 바로 사용할 수 있는게 아니라이 컨텐츠가 가능한지 가능하지 않은지 A가 판단을 합니다. 그 과정을 거쳐 주시고요. 클릭만 하면 간단합니다. 새로 고침하고 확인을 하니까이 두 가지 프로필 모두 사용이 가능하다는 판정을 받았습니다. 그 중에 하나를 선택을 할 거고요. K팝 아이도이 퍼포먼스 하는 폼프트를 쭉 넣어 줬습니다. 그리고 나서 세부적인 설정을 완료한 다음에 만들어 줍니다. 자, 그리고 가끔 영상이 안 만들어질 때가 있는데 그때는 여러분이 인풋 이미지를 바꿔 주시거나 펌프트를 살짝 변형해 주시면 됩니다. 자, 그러면 만들어진 영상을 한번 같이 보겠습니다. 요거 제가 음악도 새로 만들어 달라고 했거든요. [음악] &gt;&gt; 생각보다 잘 만들어졌죠? 이게 실사 같은 이미지는 이미지 2로 뽑고퀄리티 영상을 시덴스로 만들었기 때문에 이런 결과물이 나올 수가 있었던 겁니다. 제가 만든 다른 결과물들도 좀 보여 드리자면 요것도 되게 재밌거든요. 지금 레고 제우스죠. 제우스가 등장해서 번개를 이렇게 손에 잡습니다. 그리고 내리치는데 신전이 부서지는 모습이죠. 그래서 요것도 만드는 거 지금 보여 드릴 거. 자자 우선 그리스 로마 신하에 나오는 올림푸스 신들이 모여 있는이 정원을 먼저 만들 건데요. 뭐 저 같은 경우는이 중에서 제우스를 사용했지만 여러분은 원하는 캐릭터를 사용하시면 됩니다. 우선 요거부터 먼저 만들어야겠죠.이 장면부터 만드는 프롬프트 바로 여기 있습니다. 엄청 긴데 이거를 쭉 복사를 한 다음에요. 그대로 익스필드에 돌아가서 프롬프트를 바로 붙여 넣어 줍니다. 그리고 퀄리티 하이. 해상도 4K. 이번에는네 장을 한번 만들어 볼게요. 요게 좀 잘 안 뽑히더라고요. 이게 캐릭터 여러 명이다 보니까 제가 여러 가지 버전을 뽑은 다음에 가장 마음에 드는 버전으로 만들어 볼 겁니다. 자, 결과물이 쭈르륵 나왔죠? 아, 제가 만들고 보니까 사이즈를 5토로 했는데 우선 한번 보도록 하겠습니다. 1대 1 비율로 만들어졌거든요. 지금 한번 확대를 해 보면 각각 캐릭터들이 본인들의 신보를 잘 갖고 있죠. 요것도 괜찮고요. 요것도 괜찮습니다. 뒤에가 조금 더 웅장해 보이죠? 이거는 뭔가 제우스가 번개를 칼처럼 들고 있어서 좀 그렇고요. 어, 저는 이번에 포세이돈으로 만들고 싶은데 포세이돈은이 버전이 가장 좋은 것 같습니다. 그래서 요거를 그대로 레퍼런스를 할 거고요. 자, 여기서 레퍼런스 버튼 눌러 주시고 뭐 이번에는 되게 간단하게 펌프들 입력을 하겠습니다. 포세이돈이 바닷가에서 폭풍어와 스나미를 부르는 웅장한 장면이 필요하다 했고 똑같이네 장을 만들어 주겠습니다. 자, 완성된 이미지들 중에 마음에 드는 걸 골라서 아까처럼 영상을 만들면 됩니다. 자, 다 만들어. 자, 만들어졌으니 영상을 봐야겠죠? 아, 네. 확실히이 GPT 이미지 2랑 시덴스 2의 조합이 엄청나다라고 생각을 합니다. 그래서 이렇게 개미 왕국이 싸우는 사진을 제가 시덴스 2로 영상까지 만들어 봤고요. 진짜 실사 같죠? 이렇게 마지막에 포요하는 장면까지 완벽합니다. 그래서 이렇게 GPT 이미지 2라는 엄청난 실사 이미지 모델이 나왔을 때 여러분이이 시덴스 2와 함께 결합을 해서 영상까지 만드시면 기존에는 보지 못했던 퀄리티의 결과물을 너무나도 손쉽게 뽑아낼 수가 있습니다. 물론 해상도도 대단히 중요하기 때문에 여러분이 4K나 고아질로 만들려면 채비티 웹에서선 할 수가 없고요. 지금 제 영상에서 보셨던 것처럼 필드에 오셔 가지고 고아질로 만드시면 훨씬 더 깨끗하고 깔끔한 결과물을 만들 수가 있습니다.이 필드 플랫폼은 제가 항상 많이 소개시켜 드리는데요.이 영상 끝판왕 시덴스와 GPT 이미지 2를 활용하기 위해서는 최소 플러스나 울트라 플랜이 가장 좋고요. 시덴스 2 영상 기준으로 모든 플랫폼에서 가장 저렴하게 이용할 수 있습니다. 이제 가입하고 나서 첫 7일 혹은 365일 동안 무제한으로 사용할 수 있는 이런 혜택도 주어져 있고요. 여러분이 연간으로 가입하실 경우에는 추가 할인 혜택이 들어 있습니다.이 익스필드 링크는 제가 고정 댓글과 더란에 남겨 놓도록 하겠습니다. 네, 오늘 이렇게 미친 모델인 GPT 이미지 2 그리고 필드의 시덴스 2 모델을 결합해서 저희가 실사 같은 이미지를 만들고 그거를 또 한 층 더 업그레이드해서 영상까지 만드는이 모든 과정을 같이 해 봤는데요. 영상을 쭉 같이 따라오시면서 보셨다시피 이제는 실사보다 더 진짜 같은 결과물을 누구나 만들 수 있는 시대가 되었습니다. 그래서 단순하게 신기하다고 여기시는 것뿐만 아니라 여러분이 직접 해 보시는 걸 적극 추천드리고요.이 영상을 다시 쭉 보시면서 제가 어떤 식으로 프롬프트를 입력을 했고 어떻게 사진과 영상을 만들었는지 따라하시면서 궁금하신 점 있으면 댓글로 남겨 주시기 바랍니다. 네, 제 오늘 영상은 여기까지고요. 영상이 도움이 되셨다면 좋아요와 구독 그리고 알림 설정까지 부탁드립니다. 지금까지 성공 지시백과였습니다. 감사합니다.",
+      "analysis_date": "2026-04-22T23:54:28+00:00",
+      "channel_name": "성공지식백과",
+      "topic_tags": [
+        "automation"
+      ],
+      "keywords": [
+        "automation",
+        "GPT",
+        "이미지",
+        "2.0",
+        "이정도면"
+      ],
+      "tools": [],
+      "flow": [
+        "처음 15초 안에 문제를 선명하게 정의하고 왜 지금 봐야 하는지 못 박는다.",
+        "중간 구간에서 툴, 사례, 비교 포인트를 빠르게 제시해 정보 밀도를 높인다.",
+        "마지막에는 시청자가 바로 따라할 수 있는 다음 액션과 적용 예시로 닫는다."
+      ],
+      "claims": [
+        "단순 소개보다 실제 사용 장면을 바로 보여주는 구조가 반응을 만든다.",
+        "큰 담론보다 작은 병목 하나를 해결해주는 포장 방식이 클릭으로 이어지기 쉽다."
+      ],
+      "transcript_highlights": [
+        "확실히이 GPT 이미지 2랑 시덴스 2의 조합이 엄청나다라고 생각을 합니다. 그래서 이렇게 개미 왕국이 싸우는 사진을 제가 시덴스 2로 영상까지 만들어 봤고요. 이렇게 마지막에 포요하는 장면까지 완벽합니다.",
+        "그래서 이렇게 개미 왕국이 싸우는 사진을 제가 시덴스 2로 영상까지 만들어 봤고요. 이렇게 마지막에 포요하는 장면까지 완벽합니다. 그래서 이렇게 GPT 이미지 2라는 엄청난 실사 이미지 모델이 나왔을 때 여러분이이 시덴스 2와 함께 결합을 해서 영상까지 만드시면 기존에는 보지 못했던 퀄리티의 결과물을 너무나도 손쉽게 뽑아낼 수가 있습니다.",
+        "그래서 이렇게 GPT 이미지 2라는 엄청난 실사 이미지 모델이 나왔을 때 여러분이이 시덴스 2와 함께 결합을 해서 영상까지 만드시면 기존에는 보지 못했던 퀄리티의 결과물을 너무나도 손쉽게 뽑아낼 수가 있습니다. 물론 해상도도 대단히 중요하기 때문에 여러분이 4K나 고아질로 만들려면 채비티 웹에서선 할 수가 없고요."
+      ],
+      "top_comments": [
+        {
+          "video_id": "Nncuwyo_IB4",
+          "comment_id": "UgwTWJzwJk4Nxl9zFn94AaABAg",
+          "author": "@jaymoondr",
+          "text": "아쉬운점은 크레딧 가격이 다른 이미지모델 가격이랑 차이 많이나요 동영상급 크레딧 가격입니다.",
+          "like_count": 2,
+          "reply_count": 0,
+          "published_at": "2026-04-22T07:22:48Z"
+        },
+        {
+          "video_id": "Nncuwyo_IB4",
+          "comment_id": "Ugy8Iygs_qOzZASUu-d4AaABAg",
+          "author": "@달콤한호랭이",
+          "text": "크레딧이 너무 비싸긴 하네요;;;",
+          "like_count": 2,
+          "reply_count": 0,
+          "published_at": "2026-04-22T06:35:35Z"
+        },
+        {
+          "video_id": "Nncuwyo_IB4",
+          "comment_id": "Ugw_WicCegXve4iHYxZ4AaABAg",
+          "author": "@ffgh-p1b",
+          "text": "오늘은 이거다",
+          "like_count": 0,
+          "reply_count": 0,
+          "published_at": "2026-04-22T12:23:41Z"
+        },
+        {
+          "video_id": "Nncuwyo_IB4",
+          "comment_id": "UgwmmmXydv-cTH7e-U54AaABAg",
+          "author": "@han2928",
+          "text": "완전 신세계이네요~ 감사합니다",
+          "like_count": 0,
+          "reply_count": 0,
+          "published_at": "2026-04-22T03:57:23Z"
+        },
+        {
+          "video_id": "Nncuwyo_IB4",
+          "comment_id": "Ugzd4fJzR0l87hSWZDB4AaABAg",
+          "author": "@success_wiki",
+          "text": "🎨외계인 기술력 GPT 이미지 2.0 + 시댄스 2.0 힉스필드AI 바로가기: https://higgsfield.ai/s/higgsfield-seedance-2-0-success_wiki-JlihuR\n연예인 프롬프트: https://successwiki.io/guides/gpt-image-2-seedance-2-guide",
+          "like_count": 0,
+          "reply_count": 0,
+          "published_at": "2026-04-22T03:53:30Z"
+        }
+      ]
+    },
+    {
+      "video_id": "FQvNhldmDd8",
+      "channel_key": "ucb11saf7wsn4grcqukoohrw",
+      "title": "이건 그냥 인사 문제가 아니네요",
+      "description": "00:00 오프닝\n00:57 포인트1\n05:26 포인트2\n07:21 포인트3\n\n💜 instagram: @zuyoni\n💜 Naver TV: https://tv.naver.com/zuyoni\n💜 E-mail: business@zuyoni.com\n\n📌주연의 두번째 채널 보러가기:  https://www.youtube.com/@zuyoni2\n\n💜엔딩곡: 주연(ZUYONI) - Baby Blue  https://lnk.to/zuyoni2022\n\n✏️클래스101 수강신청 & 무료 강의 보러가기: https://class101.page.link/c2Ty\n\n\n-비즈니스: business@zuyoni.com\n\n-해당 영상은 영리 목적으로 사용하실 수 없습니다.\n-비영리 목적으로 사용시에도 반드시 출처와 영상 링크 남겨주세요:)\n.\n.\n-Tag: #주연 #애플 #팀쿡",
+      "published_at": "2026-04-22T03:42:07Z",
+      "duration_seconds": 529,
+      "view_count": 33642,
+      "like_count": 750,
+      "comment_count": 182,
+      "engagement_rate": 0.0277034659057131,
+      "thumbnail_url": "https://i.ytimg.com/vi/FQvNhldmDd8/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=FQvNhldmDd8",
+      "format": "뉴스 분석",
+      "hook_type": "문제 해결",
+      "title_pattern": "핵심 포인트 직설형",
+      "one_line_summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "why_it_works": "문제 해결 훅으로 관심을 끌고, 뉴스 분석 형식으로 내용을 빠르게 정리해 시청자가 '바로 써먹을 수 있다'고 느끼게 만듭니다.",
+      "recommendation": "훅 구조: 도입 15초 안에 '문제 해결' 관점으로 문제를 못 박고, 왜 지금 봐야 하는지 먼저 선언합니다. • 복제할 포장 요소: 뉴스 분석 형식을 유지하되 뉴스 분석를 실제 사용 장면 1개와 결과 변화 2개로 더 좁혀 설명합니다. • 비어 있는 콘텐츠 영역: '뉴스 분석가 내 작업 흐름에서 어디에 꽂히는가'를 사례 중심으로 보여주는 후속 영상이 비어 있습니다. • 추천 제목: 뉴스 분석 이슈를 내 채널 관점으로 다시 정리해보자 • 썸네일 카피 힌트: 뉴스 분석 지금 봐야 할 3가지",
+      "transcript_status": "available",
+      "transcript_source": "apify",
+      "transcript_language": "ko",
+      "transcript_text": "어 근데 나이 사람 어디서 봤는데? 아이 사람 그 사람이잖아. 이제 가성비 애플 끝나는 거 아니야? 견디고 듣다 보면 늘어가는 테크 지식. 오케이. 안녕하세요 여러분. 주현입니다. 오늘 진짜 놀라운 소식이 들려왔거든요. 애플이 15년 만에 CEO를 교체한다는 소식이었는데 다들 들으셨나요? 이제 팀쿡 체제가 끝나고 존터너스라고 하는 사람한테로 애플의 CEO 자리가 넘어간다는 소식인데 아직 취임까지 한 건 아니지만 공식적으로 팀쿡이 사임 의사를 밝히고 심지어 오늘 또 장문의 편지까지 남겼더라고요. 그래서 지금 어떻게 된 상황인지 한번 짚어보고 앞으로 애플이 어떻게 변화를 할지 몇 가지 포인트를 좀 짚어 보면서 제 생각도 한번 이야기해 보려고 해요. 오늘 영상 보시고 여러분은 어떻게 생각하시는지도 댓글로 많이 이야기해 주시면은 너무 재밌을 것 같습니다. 그럼 시작해 볼게요. 렛츠 고. 일단 오늘 나온 소식은 팀쿡이 올해 9월 부로 애플 CEO직에서 물러나고 존 터너스라고 하는 현재 애플의 하드웨어 엔지니어링 총괄 수석 부사장이 자리에 있는 새로운 인물이 CO에 올를 예정이거든요. 이름이 좀 낯설 수가 있는데 사실 우리가 너무 익숙하게 써 왔던 아이패드 그리고 애플 실리콘으로의 전환까지 사실상이 애플에서의 하드웨어는 거의 대부분 다 맡아서 진주 지휘해 온 인물이거든요.이 이 사람이 애플에서 재직한 기간만 무려 25년입니다. 지금까지 쭉 애플 안에서 커리어를 쌓아온 사람인데요. 나 몇 살이었을까? &gt;&gt; 여덟살. 초일 때 &gt;&gt; 25년 전에 여러분 뭐 했는지 생각나시나요? 하나의 기업에서 계속해서 실무자로서 일해오던 사람이 결국 CEO 자리에 앉는다는 스토리가 많은 사람들에게 좀 영감을 주는 스토리가 되지 않을까 싶은데요. 이걸 떠나서 우리는 애플의 제품을 구매하고 사용한 소비자니까이 존터하우스 취임 이후에 어떻게 바뀔지가 궁금하잖아요. 오늘 팀쿡이 올린 편지에서 보면 애플이 왜 이런 결단을 내렸는지가 어느 정도 좀 보이는데요. 가장 중요한 키워드는 이겁니다. &gt;&gt; 오늘 저는 애플에서의 여정에서 다음 단계로 나아갈 것이라고 발표했습니다. 그러니까 애플이 다음 단계로 이제 넘어갈 때가 되었다라는 건데요. 사실 저는이 소식을 처음 들었을 때 딱 들었던 생각은 이거였어요. 왜 하필 애플이 지금 다음 단계로 넘어가려고 할까? 그리고 왜 하필 존터너스라는 사람일까라는 거였는데 애플이 다음 단계로 넘어가려고 하는데 지금 시점에 또 하드웨어 엔지니어 출신을 CEO로 안친다는 거는 그만큼 하드웨어 단에서의 혁신을 준비하고 있다는 건데요. 그런데 마침 지금 애플이 가장 잘하고 있는게 바로 애플 실리콘이거든요. 아시다시피 M시리즈는 지금 너무 많이 발전을 해 와 가지고 이제 다음번에 더 이상 좋아질게 있을까 싶은데도 또 더 발전된 성능을 보여주고 더 좋아진 모습으로 돌아오고 있잖아요. 그리고 아이폰을 구동하는 A시리즈 칩셋도 올해부터는 이나우 공정이 적용되고 C1X 칩이나 N1 칩까지 자체 설계해서 넣고 있잖아요. 특히 차기 CEO로 지목된이 존터너스라는 사람의 제품 철학을 보시면은 우리가 어떤 기술을 개발을 하면 그건 다른 제품들에도 적용이 된다. 이런 얘기를 하거든요. 구체적인 예시를 들어서 이때 얘기를 했는데 아이폰 에어를 개발할 때이 얇은 하드웨어를 만들어야 되다 보니까이 초소형 부품화를 했던 거예요. 애플이 아이폰 에어를 만들면서이 기술을 개발해 가지고 적용을 했는데 그다음에 뭐가 나온다? 아이폰 폴드가 나온다는 거예요. 폴드는 이렇게 두 짝으로 나뉘져서 부품이 들어가야 되잖아요. 얇아진 한쪽 한쪽에 부품들을 나눠 넣어야 되기 때문에 배터리든 부품이든 더 초박형으로 더 얇게 더 작게 들어갈 수밖에 없거든요. 근데이 기술을 개발을 해서 지금 아이폰 에어를 만들었지만이 다음엔 아이폰 폴드를 만들 것이고 올해 혹은 내년에 또 공개될 것으로 예상되는 애플의 제품 중 하나가 스마트 글래스입니다.이 이 작은 안경 안에이 초소형 부품들이 들어가야 되거든요. 그러니까이 사람의 설계 철학은 결국 애플이 어떤 기술을 개발을 하면 이건 하나의 제품에만 적용되는게 아니라 앞으로의 애플의 모든 하드웨어에 적용하기 위해서 기술이 개발이 되고 그걸 통해서 하드웨어가 계속 발전해 나가는 거다라는 철학을 가지고 있는 사람이기 때문에 지금까지 애플 실리콘에서 쌓아온이 빌드업들이 결국에는 하드웨어 단으로 전부 영역 전개가 될 거라는 거죠. 새로운 제품들을 내놓을 그 시기에 존 터너 쓰는 사람이 새로운 CEO로 온다는 것도 이제 애플이 다음 단계로 넘어간다라는게 하드웨어 혁신을 준비하고 있었다는 걸로 해석이 됩니다. 왜 존터너스인가라고 생각했을 때 그냥이 생각이 처음에 딱 들더라고요. 그래서 사실 잡스의 애플도 경험해 보고 팀의 애플도 경험해 보신 분들은 팀의 애플이 되면서 내가 알던 잡스 철학과 다른 거 같고 내가 알던 애플 제품이 아닌 거 같고 뭐 이런 느낌도 많이 받아보셨을 거고 그런 얘기들을 하는 경우도 댓글에서 굉장히 많이 봤는데 잡스는 뭔가 미니멀리즘을 추구하고 또 되게 수려한 디자인을 좋아하고 사용성에 있어서도 직관적인 것들을 선호했다면 뭔가 팀쿡은 자꾸 뭔가 더 추가가 되고 가성비의 애플이라는 말까지 나올 정도로 가격대가 굉장히 많이 내려가기도 하고 그만큼 대중화가 되기도 했고 또 애플 실리콘이라는게 또 생기기도 했고 또 공급만과 서비스에 있어서도 다양한 변화들이 있었거든요. 이제 여기서 다음 단계로 넘어간다고 하는 거는 공급망의 시대, 뭐 더 이상 서비스의 시대, 소프트웨어를 강화하던 이런 시대가 아니라 다시 한번 애플이 하드웨어의 시대로 넘어가 보겠다라는 의지를 담고 있는 거 아닐까 싶어요. 자, 근데 여기까지 들어보면 너무 희망찬 생각만 하는 거 아닌가 싶죠? 저는 두 번째로이 생각도 해봤어요. 그럼 지금 애플이 못 하고 있는 건 뭔가? 지금 애플이 시장에서 가장 못 하고 있는게 바로 AI 지각생이라는 별명이 붙을 정도로 좀 전방위적으로 많이 뒤떨어진 모습을 보여주고 있거든요. 이건 뭐 어떻게 부정이 안 돼요. 그리고 사실 팀 체제에서도 작년 말에 한번 AI 리더십이 싹 교체되는 일도 있었잖아요. 그 정도로 애플 내에서도 애플 인텔리전스 그리고 AI에 대해서 굉장히 심각한 사안으로 받아들이고 있는 건 맞는데 근데이 시점에 AI 인재가 아니라 하드웨어 엔지니어를 CEO로 앉쳤을까? 사실 저는 뭐 앞으로 올 존터너스 체제의 가장 큰 약점은이 부분이라고 생각을 합니다. 확실한 뭔가 비전을 보여 주기에는 상징적인 인물은 아니잖아요. 지금이 소식을 듣고 나서도 실제로 여기저기서 나오는 반응들이 너네 AI 더 열심히 해야 되는데 왜 갑자기 하드웨어 엔지니어를 CEO에 안 치냐 이런 반응도 나오고 있거든요. 근데 그만큼 어떤 AI에 있어서 뭐 구글의 딥마인드나 오픈 AI처럼 우리 이제 AI 제대로 할 거야 이런 느낌을 보여 줄 수 있는 인물은 아니거든요. 하지만 사실 여기서 한 단계 더 나아가서 생각을 해 보면은 AI라는게 그냥 단순히 어떤 둥둥 떠다니는이 AI만 있으면 되는게 아니라 하드웨어에 얼마나 제대로 통합이 되느냐가 굉장히 중요하거든요. 이제 애플 실리콘을 이끌어온 리더십이라면 하드웨어 재설계와이 AI를 하드웨어에 통합하는 것도 좀 더 빠르게 할 수 있지 않을까라는 부분을 기대한 거 아닐까 싶기도 해요. 물론 이건 어디까지나 그냥 해석일 뿐이고 실제로 어떻게 할지 어떤 전략을 펼칠지는 앞으로 봐야 되겠죠. 그래서 존너스의 과제는 아무래도이 애플 인텔리전스를 하드웨어에 빠르게 통합하는게 첫 번째 과제가 되지 않을까 싶고요. 근데 혹시 또 몰라요. 그런 방식일 수도 있어요. 애플 자체 AI는 어느 정도 그냥 포기를 하고 하드웨어를 더 다양화를 해 가지고 글래스 같은 웨어러블에서 AI가 잘 구동할 수 있게 하드웨어에서 완성을 한다거나 고성능화된 아이폰을 가지고 더 고성능 LLM을 돌릴 수 있는 하드웨어를 만든다거나 뭐 이런 식의 방향으로 나아갈 수도 있겠죠. 그리고 세 번째로 얘기하고 싶었던게 아무래도 이런 리스크도 있기 때문에 팀쿡이 완전히 애플에서 떠난다는 건 아니라는 겁니다. 회장직으로 있겠다고 하더라고요. 아무래도 이제 팀쿡이 지금 가장 잘했던게 매이랑 SSD 가격들이 천정 부지로 막 취소는 와중에도 애플 제품들은 가격이 안 올라가고 있잖아요. 이제 이런 그가 잘하는 것들 기업 파트너십 공급망 이런 것들을 계속해서 체제 안에서 유지를 하면서 뒤를 봐 줄게라는 그림으로 가려는 거 아닌가 싶더라고요. 사실 팀기 애플에 있으면서 애플은 3,500억 달러 규모의 기업에서 지금은 4조 달러로 엄청난 성장을 했어요. 실제로 한 1000% 이상 증가한 수치를 보여주고 있고 기업에서 매출을 내고 규모를 키우는 거에 있어서는 지금까지 해낸 역할들이 있기 때문에 이렇게 완전히 떠나는 걸 선택하는게 아니라 전략상 팀쿡은 회장직으로 이동하는 건 아닐까 싶더라고요. 그래서 저는 이렇게 세 가지 정도 생각을 해 봤는데 여러분은 어떻게 생각하시나요? 이번에 애플이 이렇게 CEO를 15년 만에 교체를 한다고 했을 때 여러분이 드셨던 생각이나 오늘 영상 보고 또 새롭게 드는 생각 있으면 댓글로 많이 남겨 주시고요. 앞으로의 애플이 기대가 되시는지 아니면 걱정이 되시는지 뭔 여러분의 생각도 많이 많이 들려 주시고요. 그럼 전 다음 영상에서 또 만나요. 안녕. 바이. 우리는 다시 또 웃을 테니까. I hear you.",
+      "analysis_date": "2026-04-22T23:54:24+00:00",
+      "channel_name": "주연 ZUYONI",
+      "topic_tags": [],
+      "keywords": [
+        "이건",
+        "그냥",
+        "인사",
+        "문제가"
+      ],
+      "tools": [],
+      "flow": [
+        "처음 15초 안에 문제를 선명하게 정의하고 왜 지금 봐야 하는지 못 박는다.",
+        "중간 구간에서 툴, 사례, 비교 포인트를 빠르게 제시해 정보 밀도를 높인다.",
+        "마지막에는 시청자가 바로 따라할 수 있는 다음 액션과 적용 예시로 닫는다."
+      ],
+      "claims": [
+        "단순 소개보다 실제 사용 장면을 바로 보여주는 구조가 반응을 만든다.",
+        "큰 담론보다 작은 병목 하나를 해결해주는 포장 방식이 클릭으로 이어지기 쉽다."
+      ],
+      "transcript_highlights": [
+        "이제 애플 실리콘을 이끌어온 리더십이라면 하드웨어 재설계와이 AI를 하드웨어에 통합하는 것도 좀 더 빠르게 할 수 있지 않을까라는 부분을 기대한 거 아닐까 싶기도 해요. 물론 이건 어디까지나 그냥 해석일 뿐이고 실제로 어떻게 할지 어떤 전략을 펼칠지는 앞으로 봐야 되겠죠.",
+        "물론 이건 어디까지나 그냥 해석일 뿐이고 실제로 어떻게 할지 어떤 전략을 펼칠지는 앞으로 봐야 되겠죠. 그래서 존너스의 과제는 아무래도이 애플 인텔리전스를 하드웨어에 빠르게 통합하는게 첫 번째 과제가 되지 않을까 싶고요.",
+        "그러니까이 사람의 설계 철학은 결국 애플이 어떤 기술을 개발을 하면 이건 하나의 제품에만 적용되는게 아니라 앞으로의 애플의 모든 하드웨어에 적용하기 위해서 기술이 개발이 되고 그걸 통해서 하드웨어가 계속 발전해 나가는 거다라는 철학을 가지고 있는 사람이기 때문에 지금까지 애플 실리콘에서 쌓아온이 빌드업들이 결국에는 하드웨어 단으로 전부 영역 전개가 될 거라는 거죠."
+      ],
+      "top_comments": [
+        {
+          "video_id": "FQvNhldmDd8",
+          "comment_id": "UgyaQ_RhXBKhHyR4TSV4AaABAg",
+          "author": "@Mmm_Dokkass",
+          "text": "애플은 드디어 팀쿡에서의 해방일까?\n아님 팀쿡보다 더한 체제의 시작일까?",
+          "like_count": 54,
+          "reply_count": 5,
+          "published_at": "2026-04-22T04:12:33Z"
+        },
+        {
+          "video_id": "FQvNhldmDd8",
+          "comment_id": "UgzrxujnnkSJc-e0BBV4AaABAg",
+          "author": "@YASICGEUMJY",
+          "text": "포크 마이크 손잡이가 더 킹 받아요",
+          "like_count": 26,
+          "reply_count": 0,
+          "published_at": "2026-04-22T06:14:21Z"
+        },
+        {
+          "video_id": "FQvNhldmDd8",
+          "comment_id": "Ugzz7qsIVKi8YEUOprt4AaABAg",
+          "author": "@zuyoni1",
+          "text": "여러분 맛점하고 계신가요?!\n여러분이 생각하시는 애플의 미래를 어떻게 되나요?\n\n🚨오타 정정🚨\n04:58 집입장벽 -> 진입장벽 오타가 있습니다!",
+          "like_count": 24,
+          "reply_count": 1,
+          "published_at": "2026-04-22T03:52:55Z"
+        },
+        {
+          "video_id": "FQvNhldmDd8",
+          "comment_id": "UgxrPn5MyH4OmtGydyR4AaABAg",
+          "author": "@simhwaseop",
+          "text": "내가 저 것 때문에 시험에서 답이 케인즈 인데 존.... 존... 터너스 \n밖에 안 떠오르더라",
+          "like_count": 7,
+          "reply_count": 0,
+          "published_at": "2026-04-22T08:14:01Z"
+        },
+        {
+          "video_id": "FQvNhldmDd8",
+          "comment_id": "Ugwgq9qN3Lbm0lqvQ9h4AaABAg",
+          "author": "@sk._.beom2",
+          "text": "마이크 손잡이 대체 뭐지 했는데 일회용 포크네요 ㅋㅋㅋㅋㅋㅋㅋ",
+          "like_count": 5,
+          "reply_count": 0,
+          "published_at": "2026-04-22T06:07:49Z"
+        }
+      ]
+    },
+    {
+      "video_id": "yUm46G1c2O4",
+      "channel_key": "ucb11saf7wsn4grcqukoohrw",
+      "title": "LG의 마지막 스마트폰 등장ㅋㅋㅋㅋ",
+      "description": "",
+      "published_at": "2026-04-22T00:19:42Z",
+      "duration_seconds": 38,
+      "view_count": 34368,
+      "like_count": 338,
+      "comment_count": 50,
+      "engagement_rate": 0.011289571694599628,
+      "thumbnail_url": "https://i.ytimg.com/vi/yUm46G1c2O4/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=yUm46G1c2O4",
+      "format": "뉴스 분석",
+      "hook_type": "문제 해결",
+      "title_pattern": "핵심 포인트 직설형",
+      "one_line_summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "why_it_works": "문제 해결 훅으로 관심을 끌고, 뉴스 분석 형식으로 내용을 빠르게 정리해 시청자가 '바로 써먹을 수 있다'고 느끼게 만듭니다.",
+      "recommendation": "훅 구조: 도입 15초 안에 '문제 해결' 관점으로 문제를 못 박고, 왜 지금 봐야 하는지 먼저 선언합니다. • 복제할 포장 요소: 뉴스 분석 형식을 유지하되 뉴스 분석를 실제 사용 장면 1개와 결과 변화 2개로 더 좁혀 설명합니다. • 비어 있는 콘텐츠 영역: '뉴스 분석가 내 작업 흐름에서 어디에 꽂히는가'를 사례 중심으로 보여주는 후속 영상이 비어 있습니다. • 추천 제목: 뉴스 분석 이슈를 내 채널 관점으로 다시 정리해보자 • 썸네일 카피 힌트: 뉴스 분석 지금 봐야 할 3가지",
+      "transcript_status": "available",
+      "transcript_source": "apify",
+      "transcript_language": "ko",
+      "transcript_text": "아 [비명] 와 왜 왜지윙 와 이거 아세요? &gt;&gt; 이걸로 어몽어스네 &gt;&gt; 이거 기억하세요? 저 이걸로 그때 어몽스 해가지고 저 이거 집에 미계봉 하나 소장용이 하나 있어요. 아 저는 근데 진짜이 당시에 LG를 정말 좋아했었거든요. 왜냐면 솔직히 리뷰는 좋은 말이 나오기 좀 힘들어요. 항상 제품들이. [웃음] 근데 그들의 새로운 도전이 그냥 전 너무 재밌고 이걸 누가 만들겠어요? 이런 미친 것을 이런 미친 핸드폰을 누가 만들겠어? 누가 필요로 하겠냐고 이거를 솔직히 딱 봤을 때 저게 팔리겠냐고. 내가 사야지. 이러면서 이제 저는 그러면 LG윙",
+      "analysis_date": "2026-04-22T23:54:25+00:00",
+      "channel_name": "주연 ZUYONI",
+      "topic_tags": [],
+      "keywords": [
+        "LG의",
+        "마지막",
+        "스마트폰",
+        "등장"
+      ],
+      "tools": [],
+      "flow": [
+        "처음 15초 안에 문제를 선명하게 정의하고 왜 지금 봐야 하는지 못 박는다.",
+        "중간 구간에서 툴, 사례, 비교 포인트를 빠르게 제시해 정보 밀도를 높인다.",
+        "마지막에는 시청자가 바로 따라할 수 있는 다음 액션과 적용 예시로 닫는다."
+      ],
+      "claims": [
+        "단순 소개보다 실제 사용 장면을 바로 보여주는 구조가 반응을 만든다.",
+        "큰 담론보다 작은 병목 하나를 해결해주는 포장 방식이 클릭으로 이어지기 쉽다."
+      ],
+      "transcript_highlights": [
+        "아 저는 근데 진짜이 당시에 LG를 정말 좋아했었거든요. 왜냐면 솔직히 리뷰는 좋은 말이 나오기 좀 힘들어요. [웃음] 근데 그들의 새로운 도전이 그냥 전 너무 재밌고 이걸 누가 만들겠어요?"
+      ],
+      "top_comments": [
+        {
+          "video_id": "yUm46G1c2O4",
+          "comment_id": "Ugz_J-V4xbR2QOoB_Uh4AaABAg",
+          "author": "@doori_choi",
+          "text": "음향기기 덕후들은 LG 스마트폰에 미쳐있었지요.\nDual DAC를 넘어서 Quad DAC\n미친 사양을 넣었던 LG",
+          "like_count": 29,
+          "reply_count": 5,
+          "published_at": "2026-04-22T00:41:04Z"
+        },
+        {
+          "video_id": "yUm46G1c2O4",
+          "comment_id": "Ugzjd_DDJW-MI0rLqON4AaABAg",
+          "author": "@명준이이녀석",
+          "text": "그 시절 LG전자의 도전은 사업부 해체 직전까지 이어졌었죠.. 다시 돌아와서 선의 경쟁을 했으면 좋겠네요",
+          "like_count": 13,
+          "reply_count": 0,
+          "published_at": "2026-04-22T00:43:15Z"
+        },
+        {
+          "video_id": "yUm46G1c2O4",
+          "comment_id": "UgwdT_1VSWNOQo5ImRp4AaABAg",
+          "author": "@trf1974",
+          "text": "난 lg윙이 마지막으로 혹시라도 다시 재기하지않을까하는 기대를했었는데...",
+          "like_count": 9,
+          "reply_count": 0,
+          "published_at": "2026-04-22T02:28:12Z"
+        },
+        {
+          "video_id": "yUm46G1c2O4",
+          "comment_id": "UgyLxHpB6uv7hFLTY2J4AaABAg",
+          "author": "@qazzzxc-g2x",
+          "text": "저게 팔리겠냐고!!!! 내가 사야지!!!! ㅋㅋㅋㅋㅋ",
+          "like_count": 8,
+          "reply_count": 0,
+          "published_at": "2026-04-22T05:09:20Z"
+        },
+        {
+          "video_id": "yUm46G1c2O4",
+          "comment_id": "UgxFF8RicopxyL91nLF4AaABAg",
+          "author": "@zuyoni1",
+          "text": "화면 왼쪽 아래 버튼 눌러서 스마트폰 월드컵 보러오세요!!",
+          "like_count": 8,
+          "reply_count": 0,
+          "published_at": "2026-04-22T00:36:12Z"
+        }
+      ]
+    },
     {
       "video_id": "9AybxHgTjFk",
       "channel_key": "uc5wz4ffacyuon6ikbhsa7zw",
