@@ -1,263 +1,239 @@
 {
-  "digest_date": "2026-04-25",
-  "generated_at": "2026-04-24T23:52:03+00:00",
-  "summary": "최근 24시간 영상 12개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'OpenAI'입니다. 특히 '미친 성능의 신이 내린 대청소템 TOP3 l 내돈내산'는 조회수 226.9K, 참여율 2.5%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "'OpenAI' 주제가 3개 영상으로 가장 많이 다뤄졌습니다. 일반인 관점 직접 실험 or VS 비교 각도로 차별화할 영역이 있습니다.\n[내 채널] 7일 평균 11.2K회 · 지속률 31.6% / 경쟁사 평균 25.3K회 (격차 -56%)",
-  "telegram_preview": "📡 스마트대디 모니터링 | 04/25\n\n📊 수집: 영상 12개 | 채널 8개\n\n🔥 참여율 TOP 3\n1. [귀곰] 2.5% · 226.9K뷰\n   미친 성능의 신이 내린 대청소템 TOP3 l 내돈내산\n2. [AI Explained] 6.1% · 27.5K뷰\n   GPT 5.5 Arrives, DeepSeek V4 Drops, and the Compute War Intensifies\n3. [안될공학 - IT 테크 신기술] 2.6% · 24.9K뷰\n   Claude Mythos보다 좋다... OpenAI 다시 황제로 귀환 | GPT5.5 출시부터 기업 AX 순식간에 해결 | gpt-image-2 | Codex\n\n📌 화제 키워드\n   coding · agents · monetization · automation · research\n\n🎬 포맷: 뉴스 분석 8개 · 비교 2개 · 사례 분석 1개\n\n📈 스마트대디 어제 실적\n조회수 10.2K (↓9% vs 7일 평균) | 구독 +145\n시청 지속률 30.5% | 평균 시청 2분 01초\n경쟁사 평균 25.3K회 대비 내 7일 평균 -56%\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
-  "video_count": 12,
-  "total_recent_video_count": 12,
+  "digest_date": "2026-04-26",
+  "generated_at": "2026-04-25T23:50:50+00:00",
+  "summary": "최근 24시간 영상 10개를 기준으로 보면, 오늘 가장 먼저 볼 축은 '삼성'입니다. 특히 '세계 최초 주름없는 폴더블폰 등장? 진짜 미쳐버린 오포 파인드 N6 언빡싱...'는 조회수 326.5K, 참여율 1.3%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "'삼성' 주제가 2개 영상으로 가장 많이 다뤄졌습니다. 일반인 관점 직접 실험 or VS 비교 각도로 차별화할 영역이 있습니다.\n[내 채널] 7일 평균 13.3K회 · 지속률 32.0% / 경쟁사 평균 59.8K회 (격차 -78%)",
+  "telegram_preview": "📡 스마트대디 모니터링 | 04/26\n\n📊 수집: 영상 10개 | 채널 8개\n\n🔥 참여율 TOP 3\n1. [ITSub잇섭] 1.3% · 326.5K뷰\n   세계 최초 주름없는 폴더블폰 등장? 진짜 미쳐버린 오포 파인드 N6 언빡싱...\n2. [주연 ZUYONI] 1.6% · 91.3K뷰\n   삼성 또 외계인 고문했네;;\n3. [주연 ZUYONI] 2.2% · 80.4K뷰\n   삼성 직원도 당황한 역대급 훈수의 현장ㅋㅋㅋㅋ\n\n📌 화제 키워드\n   agents · coding · automation · research · monetization\n\n🎬 포맷: 뉴스 분석 6개 · 비교 3개 · 워크플로우 튜토리얼 1개\n\n📈 스마트대디 어제 실적\n조회수 21.2K (↑59% vs 7일 평균) | 구독 +376\n시청 지속률 35.6% | 평균 시청 2분 16초\n경쟁사 평균 59.8K회 대비 내 7일 평균 -78%\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+  "video_count": 10,
+  "total_recent_video_count": 10,
   "focus_scope": "all_watchlist",
-  "average_view_count": 25294.0,
-  "average_engagement_rate": 0.032456278060566765,
-  "average_like_count": 705.0,
-  "average_comment_count": 52.0,
-  "best_video_id": "dx-Oub2QI9Q",
-  "best_topic": "OpenAI",
+  "average_view_count": 59810.0,
+  "average_engagement_rate": 0.04323252475852597,
+  "average_like_count": 870.0,
+  "average_comment_count": 132.0,
+  "best_video_id": "WS6aQkB6we4",
+  "best_topic": "삼성",
   "summary_points": [
-    "가장 겹친 주제는 'OpenAI'이며 3개 영상, 평균 조회수 19.8K, 평균 참여율 4.6%입니다.",
-    "최고 실적 영상은 '미친 성능의 신이 내린 대청소템 TOP3 l 내돈내산'이며 수익 훅과 뉴스 분석 포맷 조합이 강했습니다.",
-    "반복 노출된 툴은 Claude 4회, OpenAI 3회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
+    "가장 겹친 주제는 '삼성'이며 2개 영상, 평균 조회수 85.9K, 평균 참여율 1.9%입니다.",
+    "최고 실적 영상은 '세계 최초 주름없는 폴더블폰 등장? 진짜 미쳐버린 오포 파인드 N6 언빡싱...'이며 솔직 검증 훅과 뉴스 분석 포맷 조합이 강했습니다.",
+    "반복 노출된 툴은 Claude 4회, Gemini 3회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
   ],
   "action_chips": [
-    "주제: OpenAI",
-    "훅: 수익",
+    "주제: 삼성",
+    "훅: 솔직 검증",
     "포맷: 뉴스 분석",
-    "기준 채널: 귀곰"
+    "기준 채널: ITSub잇섭"
   ],
   "title_suggestions": [
-    "OpenAI 직접 실험 — 이게 진짜 되나?",
-    "OpenAI vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
-    "OpenAI 써봤더니... (기대 vs 현실 솔직 후기)"
+    "삼성 직접 실험 — 이게 진짜 되나?",
+    "삼성 vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
+    "삼성 써봤더니... (기대 vs 현실 솔직 후기)"
   ],
   "recommendations": [
     {
-      "title": "OpenAI 직접 실험 — 이게 진짜 되나?",
+      "title": "삼성 직접 실험 — 이게 진짜 되나?",
       "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
       "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
-      "thumbnail_copy": "OpenAI 바로 해결",
+      "thumbnail_copy": "삼성 바로 해결",
       "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
-      "source_video_id": "jz0rNhfAKo8",
-      "source": "GPT 5.5 Arrives, DeepSeek V4 Drops, and the Compute War Intensifies",
-      "my_channel_context": "내 7일 평균 11.2K회 · 지속률 31.6% / 경쟁사 대비 -56%"
+      "source_video_id": "p_7dgoWXxL4",
+      "source": "삼성 또 외계인 고문했네;;",
+      "my_channel_context": "내 7일 평균 13.3K회 · 지속률 32.0% / 경쟁사 대비 -78%"
     },
     {
-      "title": "OpenAI vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
-      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
-      "angle": "큰 주제 하나를 대표 제목으로 세우고, 나머지 포인트는 보조 정보처럼 정리하는 압축형 포장이 좋습니다.",
-      "thumbnail_copy": "OpenAI 지금 봐야 함",
-      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
-      "source_video_id": "liL-iUamzl8",
-      "source": "Claude Mythos보다 좋다... OpenAI 다시 황제로 귀환 | GPT5.5 출시부터 기업 AX 순식간에 해결 | gpt-image-2 | Codex",
-      "my_channel_context": "내 7일 평균 11.2K회 · 지속률 31.6% / 경쟁사 대비 -56%"
-    },
-    {
-      "title": "OpenAI 써봤더니... (기대 vs 현실 솔직 후기)",
+      "title": "삼성 vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
       "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
       "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
-      "thumbnail_copy": "OpenAI 바로 해결",
+      "thumbnail_copy": "삼성 바로 해결",
       "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
-      "source_video_id": "MI678bQM7L0",
-      "source": "ChatGPT Just Changed Forever...",
-      "my_channel_context": "내 7일 평균 11.2K회 · 지속률 31.6% / 경쟁사 대비 -56%"
+      "source_video_id": "YMhc26kvtOk",
+      "source": "삼성 직원도 당황한 역대급 훈수의 현장ㅋㅋㅋㅋ",
+      "my_channel_context": "내 7일 평균 13.3K회 · 지속률 32.0% / 경쟁사 대비 -78%"
     }
   ],
   "topic_clusters": [
     {
-      "label": "OpenAI",
-      "count": 3,
-      "avg_view_count": 19841,
-      "avg_engagement_rate": 0.045905481826015865,
-      "avg_like_count": 805,
-      "avg_comment_count": 93,
-      "source_titles": [
-        "GPT 5.5 Arrives, DeepSeek V4 Drops, and the Compute War Intensifies",
-        "Claude Mythos보다 좋다... OpenAI 다시 황제로 귀환 | GPT5.5 출시부터 기업 AX 순식간에 해결 | gpt-image-2 | Codex",
-        "ChatGPT Just Changed Forever..."
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/jz0rNhfAKo8/hqdefault.jpg",
-      "representative_video_id": "jz0rNhfAKo8",
-      "representative_title": "GPT 5.5 Arrives, DeepSeek V4 Drops, and the Compute War Intensifies"
-    },
-    {
-      "label": "GPT-2",
+      "label": "삼성",
       "count": 2,
-      "avg_view_count": 732,
-      "avg_engagement_rate": 0.0073726942791933255,
-      "avg_like_count": 4,
-      "avg_comment_count": 1,
+      "avg_view_count": 85872,
+      "avg_engagement_rate": 0.018697843415819024,
+      "avg_like_count": 1442,
+      "avg_comment_count": 148,
       "source_titles": [
-        "GPT-2 vs. Advanced AI: Unveiling Next-Level Intelligence #shorts",
-        "GPT-2 vs. Nanobana: Image Generation Battle #shorts"
+        "삼성 또 외계인 고문했네;;",
+        "삼성 직원도 당황한 역대급 훈수의 현장ㅋㅋㅋㅋ"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/ONQhySZDbDo/hqdefault.jpg",
-      "representative_video_id": "ONQhySZDbDo",
-      "representative_title": "GPT-2 vs. Advanced AI: Unveiling Next-Level Intelligence #shorts"
+      "thumbnail_url": "https://i.ytimg.com/vi/p_7dgoWXxL4/hqdefault.jpg",
+      "representative_video_id": "p_7dgoWXxL4",
+      "representative_title": "삼성 또 외계인 고문했네;;"
     },
     {
-      "label": "미친",
-      "count": 1,
-      "avg_view_count": 226870,
-      "avg_engagement_rate": 0.02504958786970512,
-      "avg_like_count": 5417,
-      "avg_comment_count": 266,
+      "label": "ChatGPT",
+      "count": 2,
+      "avg_view_count": 10612,
+      "avg_engagement_rate": 0.05990144435991103,
+      "avg_like_count": 445,
+      "avg_comment_count": 80,
       "source_titles": [
-        "미친 성능의 신이 내린 대청소템 TOP3 l 내돈내산"
+        "Day 2 of The 2026 AI Advantage Summit 2026",
+        "ChatGPT vs Gemini vs Claude Make Minecraft From Scratch"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/dx-Oub2QI9Q/hqdefault.jpg",
-      "representative_video_id": "dx-Oub2QI9Q",
-      "representative_title": "미친 성능의 신이 내린 대청소템 TOP3 l 내돈내산"
+      "thumbnail_url": "https://i.ytimg.com/vi/4wir80xxrf8/hqdefault.jpg",
+      "representative_video_id": "4wir80xxrf8",
+      "representative_title": "Day 2 of The 2026 AI Advantage Summit 2026"
     },
     {
-      "label": "Arc",
-      "count": 1,
-      "avg_view_count": 4612,
-      "avg_engagement_rate": 0.044882914137033825,
-      "avg_like_count": 186,
-      "avg_comment_count": 21,
+      "label": "OpenAI",
+      "count": 2,
+      "avg_view_count": 1494,
+      "avg_engagement_rate": 0.10367335950464694,
+      "avg_like_count": 126,
+      "avg_comment_count": 20,
       "source_titles": [
-        "NVIDIA 부사장 Bryan Catanzaro 단독 인터뷰 | NVIDIA는 왜 AI 모델을 만들까? NVIDIA Nemotron Developer Days Seoul"
+        "Open AI SPUD has Sprouted! | Hands on with GPT 5.5",
+        "이미지 AI 1등 바뀐 것 같습니다… GPT 이미지 2 5시간 테스트 후기"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/ZzPN0VFqrV0/hqdefault.jpg",
-      "representative_video_id": "ZzPN0VFqrV0",
-      "representative_title": "NVIDIA 부사장 Bryan Catanzaro 단독 인터뷰 | NVIDIA는 왜 AI 모델을 만들까? NVIDIA Nemotron Developer Days Seoul"
+      "thumbnail_url": "https://i.ytimg.com/vi/9kqZqgqLqU0/hqdefault.jpg",
+      "representative_video_id": "9kqZqgqLqU0",
+      "representative_title": "Open AI SPUD has Sprouted! | Hands on with GPT 5.5"
+    },
+    {
+      "label": "세계",
+      "count": 1,
+      "avg_view_count": 326464,
+      "avg_engagement_rate": 0.013486938835522447,
+      "avg_like_count": 3694,
+      "avg_comment_count": 709,
+      "source_titles": [
+        "세계 최초 주름없는 폴더블폰 등장? 진짜 미쳐버린 오포 파인드 N6 언빡싱..."
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/WS6aQkB6we4/hqdefault.jpg",
+      "representative_video_id": "WS6aQkB6we4",
+      "representative_title": "세계 최초 주름없는 폴더블폰 등장? 진짜 미쳐버린 오포 파인드 N6 언빡싱..."
+    },
+    {
+      "label": "이건",
+      "count": 1,
+      "avg_view_count": 42594,
+      "avg_engagement_rate": 0.005517208996572287,
+      "avg_like_count": 225,
+      "avg_comment_count": 10,
+      "source_titles": [
+        "이건 진짜 광기 아니냐;"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/BZXf6UaBWII/hqdefault.jpg",
+      "representative_video_id": "BZXf6UaBWII",
+      "representative_title": "이건 진짜 광기 아니냐;"
     },
     {
       "label": "agents",
       "count": 1,
-      "avg_view_count": 3805,
-      "avg_engagement_rate": 0.03942181340341656,
-      "avg_like_count": 145,
-      "avg_comment_count": 5,
+      "avg_view_count": 24687,
+      "avg_engagement_rate": 0.02782841171466764,
+      "avg_like_count": 582,
+      "avg_comment_count": 105,
       "source_titles": [
-        "99%가 모르는 하네스 엔지니어링 — AI 에이전트 생산성을 10배 올리는 세팅법 (바이브마피아 최수민님)"
+        "인텔 제국의 화려한 부활, CPU가 AI로 뜰 수 밖에 없는 진짜 이유 | AMD와 퀄컴마저 주목"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/4JtB_QvKT8w/hqdefault.jpg",
-      "representative_video_id": "4JtB_QvKT8w",
-      "representative_title": "99%가 모르는 하네스 엔지니어링 — AI 에이전트 생산성을 10배 올리는 세팅법 (바이브마피아 최수민님)"
+      "thumbnail_url": "https://i.ytimg.com/vi/3yYy73gSBoE/hqdefault.jpg",
+      "representative_video_id": "3yYy73gSBoE",
+      "representative_title": "인텔 제국의 화려한 부활, CPU가 AI로 뜰 수 밖에 없는 진짜 이유 | AMD와 퀄컴마저 주목"
     },
     {
-      "label": "ChatGPT",
+      "label": "Claude",
       "count": 1,
-      "avg_view_count": 3616,
-      "avg_engagement_rate": 0.07632743362831858,
-      "avg_like_count": 226,
-      "avg_comment_count": 50,
-      "source_titles": [
-        "5 AIs Work Together To Make Poppy Playtime"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/mFb_XROvmjs/hqdefault.jpg",
-      "representative_video_id": "mFb_XROvmjs",
-      "representative_title": "5 AIs Work Together To Make Poppy Playtime"
-    },
-    {
-      "label": "What",
-      "count": 1,
-      "avg_view_count": 1390,
-      "avg_engagement_rate": 0.02302158273381295,
-      "avg_like_count": 31,
+      "avg_view_count": 8402,
+      "avg_engagement_rate": 0.020947393477743395,
+      "avg_like_count": 175,
       "avg_comment_count": 1,
       "source_titles": [
-        "What We Stand to Lose (and Gain) from AI"
+        "Day 3 of The 2026 AI Advantage Summit 2026"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/jRhqNWR5fDg/hqdefault.jpg",
-      "representative_video_id": "jRhqNWR5fDg",
-      "representative_title": "What We Stand to Lose (and Gain) from AI"
-    },
-    {
-      "label": "Realistic",
-      "count": 1,
-      "avg_view_count": 1378,
-      "avg_engagement_rate": 0.020319303338171262,
-      "avg_like_count": 27,
-      "avg_comment_count": 1,
-      "source_titles": [
-        "Realistic Skin Rendering: Goodbye Airbrushed, Hello Flawless! #shorts"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/oYhujcYuePU/hqdefault.jpg",
-      "representative_video_id": "oYhujcYuePU",
-      "representative_title": "Realistic Skin Rendering: Goodbye Airbrushed, Hello Flawless! #shorts"
+      "thumbnail_url": "https://i.ytimg.com/vi/1jikcQVRVNo/hqdefault.jpg",
+      "representative_video_id": "1jikcQVRVNo",
+      "representative_title": "Day 3 of The 2026 AI Advantage Summit 2026"
     }
   ],
   "video_highlights": [
     {
-      "video_id": "dx-Oub2QI9Q",
-      "channel_name": "귀곰",
-      "title": "미친 성능의 신이 내린 대청소템 TOP3 l 내돈내산",
-      "thumbnail_url": "https://i.ytimg.com/vi/dx-Oub2QI9Q/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=dx-Oub2QI9Q",
-      "published_at": "2026-04-24T08:00:50Z",
-      "view_count": 226870,
-      "like_count": 5417,
-      "comment_count": 266,
-      "engagement_rate": 0.02504958786970512,
-      "topic_cluster": "미친",
+      "video_id": "WS6aQkB6we4",
+      "channel_name": "ITSub잇섭",
+      "title": "세계 최초 주름없는 폴더블폰 등장? 진짜 미쳐버린 오포 파인드 N6 언빡싱...",
+      "thumbnail_url": "https://i.ytimg.com/vi/WS6aQkB6we4/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=WS6aQkB6we4",
+      "published_at": "2026-04-25T11:00:50Z",
+      "view_count": 326464,
+      "like_count": 3694,
+      "comment_count": 709,
+      "engagement_rate": 0.013486938835522447,
+      "topic_cluster": "세계",
       "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "2:42 만능 발을 씻자 ㅋㅋㅋ",
-      "hook_type": "수익"
+      "comment_signal": "저거 삼성 갤럭시 보다 주름 없다가 놀렸는데 삼성 디스플레이 인게 저게 웃김 ㅋㅋ",
+      "hook_type": "솔직 검증"
     },
     {
-      "video_id": "jz0rNhfAKo8",
-      "channel_name": "AI Explained",
-      "title": "GPT 5.5 Arrives, DeepSeek V4 Drops, and the Compute War Intensifies",
-      "thumbnail_url": "https://i.ytimg.com/vi/jz0rNhfAKo8/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=jz0rNhfAKo8",
-      "published_at": "2026-04-24T18:45:02Z",
-      "view_count": 27496,
-      "like_count": 1526,
-      "comment_count": 163,
-      "engagement_rate": 0.061427116671515854,
-      "topic_cluster": "OpenAI",
-      "summary": "이 영상은 agents 이슈를 사례 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "Finally my opinion just dropped",
+      "video_id": "p_7dgoWXxL4",
+      "channel_name": "주연 ZUYONI",
+      "title": "삼성 또 외계인 고문했네;;",
+      "thumbnail_url": "https://i.ytimg.com/vi/p_7dgoWXxL4/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=p_7dgoWXxL4",
+      "published_at": "2026-04-25T03:00:53Z",
+      "view_count": 91316,
+      "like_count": 1321,
+      "comment_count": 116,
+      "engagement_rate": 0.015736563143370276,
+      "topic_cluster": "삼성",
+      "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "와. 에어드레서 들어가니까 주연형님 얼굴이 순간 4살짜리 제 조카 얼굴이 되는걸 봤어요!",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "liL-iUamzl8",
+      "video_id": "YMhc26kvtOk",
+      "channel_name": "주연 ZUYONI",
+      "title": "삼성 직원도 당황한 역대급 훈수의 현장ㅋㅋㅋㅋ",
+      "thumbnail_url": "https://i.ytimg.com/vi/YMhc26kvtOk/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=YMhc26kvtOk",
+      "published_at": "2026-04-25T10:00:53Z",
+      "view_count": 80428,
+      "like_count": 1563,
+      "comment_count": 179,
+      "engagement_rate": 0.021659123688267768,
+      "topic_cluster": "삼성",
+      "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "제 혼수 아니고 PD님 혼수입니다ㅋㅋㅋㅋ 여러분도 댓글로 훈수 ㄱㄱ IT브이로그 재밌었다면 또 가져올게요!! (특별출연 해주신 컬러스케일 블루님, 잇섭님 감사합니다🙌) 🤓…",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "BZXf6UaBWII",
+      "channel_name": "테크몽 Techmong",
+      "title": "이건 진짜 광기 아니냐;",
+      "thumbnail_url": "https://i.ytimg.com/vi/BZXf6UaBWII/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=BZXf6UaBWII",
+      "published_at": "2026-04-25T10:00:15Z",
+      "view_count": 42594,
+      "like_count": 225,
+      "comment_count": 10,
+      "engagement_rate": 0.005517208996572287,
+      "topic_cluster": "이건",
+      "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "삼류 : 장난치다 욕먹으면 그 행동 안함 일류 : 장난치다 욕먹으니 진짜로해봄",
+      "hook_type": "솔직 검증"
+    },
+    {
+      "video_id": "3yYy73gSBoE",
       "channel_name": "안될공학 - IT 테크 신기술",
-      "title": "Claude Mythos보다 좋다... OpenAI 다시 황제로 귀환 | GPT5.5 출시부터 기업 AX 순식간에 해결 | gpt-image-2 | Codex",
-      "thumbnail_url": "https://i.ytimg.com/vi/liL-iUamzl8/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=liL-iUamzl8",
-      "published_at": "2026-04-24T11:23:22Z",
-      "view_count": 24939,
-      "like_count": 549,
-      "comment_count": 101,
-      "engagement_rate": 0.026063595172220216,
-      "topic_cluster": "OpenAI",
-      "summary": "이 영상은 agents 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "구글이 결제 하면 여러가지 같이 쓸 수 있는게 많고 성능도 크게 안밀려서 좋은거 같음",
-      "hook_type": "긴급성"
-    },
-    {
-      "video_id": "MI678bQM7L0",
-      "channel_name": "The AI Advantage",
-      "title": "ChatGPT Just Changed Forever...",
-      "thumbnail_url": "https://i.ytimg.com/vi/MI678bQM7L0/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=MI678bQM7L0",
-      "published_at": "2026-04-24T17:09:47Z",
-      "view_count": 7088,
-      "like_count": 340,
-      "comment_count": 16,
-      "engagement_rate": 0.050225733634311515,
-      "topic_cluster": "OpenAI",
-      "summary": "이 영상은 agents 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "Anyone else remember when GPT 5 was going to be AGI? 🤣",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "ZzPN0VFqrV0",
-      "channel_name": "안될공학 - IT 테크 신기술",
-      "title": "NVIDIA 부사장 Bryan Catanzaro 단독 인터뷰 | NVIDIA는 왜 AI 모델을 만들까? NVIDIA Nemotron Developer Days Seoul",
-      "thumbnail_url": "https://i.ytimg.com/vi/ZzPN0VFqrV0/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=ZzPN0VFqrV0",
-      "published_at": "2026-04-24T07:50:14Z",
-      "view_count": 4612,
-      "like_count": 186,
-      "comment_count": 21,
-      "engagement_rate": 0.044882914137033825,
-      "topic_cluster": "Arc",
-      "summary": "이 영상은 agents 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "황회장 한테 HBM에 대해 어떻게 생각하느냐만 주구장창 물어보는 국내 기자들 보다 훨씬 낫네요. 좋은 답변을 이끌어 내려면 질문의 수준이 높아야 가능하죠. 그리고 엔비디아…",
-      "hook_type": "문제 해결"
+      "title": "인텔 제국의 화려한 부활, CPU가 AI로 뜰 수 밖에 없는 진짜 이유 | AMD와 퀄컴마저 주목",
+      "thumbnail_url": "https://i.ytimg.com/vi/3yYy73gSBoE/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=3yYy73gSBoE",
+      "published_at": "2026-04-25T11:31:31Z",
+      "view_count": 24687,
+      "like_count": 582,
+      "comment_count": 105,
+      "engagement_rate": 0.02782841171466764,
+      "topic_cluster": "agents",
+      "summary": "이 영상은 agents 이슈를 비교 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "삼성파운드리20년=인텔4년 😢",
+      "hook_type": "솔직 검증"
     }
   ]
 }
