@@ -1,239 +1,138 @@
 {
-  "digest_date": "2026-04-26",
-  "generated_at": "2026-04-25T23:50:50+00:00",
-  "summary": "최근 24시간 영상 10개를 기준으로 보면, 오늘 가장 먼저 볼 축은 '삼성'입니다. 특히 '세계 최초 주름없는 폴더블폰 등장? 진짜 미쳐버린 오포 파인드 N6 언빡싱...'는 조회수 326.5K, 참여율 1.3%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "'삼성' 주제가 2개 영상으로 가장 많이 다뤄졌습니다. 일반인 관점 직접 실험 or VS 비교 각도로 차별화할 영역이 있습니다.\n[내 채널] 7일 평균 13.3K회 · 지속률 32.0% / 경쟁사 평균 59.8K회 (격차 -78%)",
-  "telegram_preview": "📡 스마트대디 모니터링 | 04/26\n\n📊 수집: 영상 10개 | 채널 8개\n\n🔥 참여율 TOP 3\n1. [ITSub잇섭] 1.3% · 326.5K뷰\n   세계 최초 주름없는 폴더블폰 등장? 진짜 미쳐버린 오포 파인드 N6 언빡싱...\n2. [주연 ZUYONI] 1.6% · 91.3K뷰\n   삼성 또 외계인 고문했네;;\n3. [주연 ZUYONI] 2.2% · 80.4K뷰\n   삼성 직원도 당황한 역대급 훈수의 현장ㅋㅋㅋㅋ\n\n📌 화제 키워드\n   agents · coding · automation · research · monetization\n\n🎬 포맷: 뉴스 분석 6개 · 비교 3개 · 워크플로우 튜토리얼 1개\n\n📈 스마트대디 어제 실적\n조회수 21.2K (↑59% vs 7일 평균) | 구독 +376\n시청 지속률 35.6% | 평균 시청 2분 16초\n경쟁사 평균 59.8K회 대비 내 7일 평균 -78%\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
-  "video_count": 10,
-  "total_recent_video_count": 10,
+  "digest_date": "2026-04-27",
+  "generated_at": "2026-04-26T23:52:23+00:00",
+  "summary": "최근 24시간 영상 3개를 기준으로 보면, 오늘 가장 먼저 볼 축은 '테슬라'입니다. 특히 '테슬라 \"이 때\" 노리시는게 더 낫습니다'는 조회수 13.6K, 참여율 3.9%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "'테슬라' 주제가 1개 영상으로 가장 많이 다뤄졌습니다. 일반인 관점 직접 실험 or VS 비교 각도로 차별화할 영역이 있습니다.\n[내 채널] 7일 평균 18.9K회 · 지속률 32.4% / 경쟁사 평균 9.2K회 (격차 +106%)",
+  "telegram_preview": "📡 스마트대디 모니터링 | 04/27\n\n📊 수집: 영상 3개 | 채널 3개\n\n🔥 참여율 TOP 3\n1. [월텍남 - 월스트리트 테크남] 3.9% · 13.6K뷰\n   테슬라 \"이 때\" 노리시는게 더 낫습니다\n2. [안될공학 - IT 테크 신기술] 3.2% · 12.8K뷰\n   구글 TPU 8세대 공개, NVIDIA Rubin 비교 분석 | 학습과 추론을 나누다, AI 칩 전쟁이 인프라 전쟁으로 바뀌는 이유\n3. [All About AI] 3.2% · 1.2K뷰\n   Why I Love Headless AI Agents: Minecraft & Swarms\n\n📌 화제 키워드\n   agents · coding · automation\n\n🎬 포맷: 뉴스 분석 2개 · 비교 1개\n\n📈 스마트대디 어제 실적\n조회수 33.4K (↑77% vs 7일 평균) | 구독 +569\n시청 지속률 33.2% | 평균 시청 2분 06초\n경쟁사 평균 9.2K회 대비 내 7일 평균 +106%\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+  "video_count": 3,
+  "total_recent_video_count": 3,
   "focus_scope": "all_watchlist",
-  "average_view_count": 59810.0,
-  "average_engagement_rate": 0.04323252475852597,
-  "average_like_count": 870.0,
-  "average_comment_count": 132.0,
-  "best_video_id": "WS6aQkB6we4",
-  "best_topic": "삼성",
+  "average_view_count": 9200.0,
+  "average_engagement_rate": 0.034449380689176516,
+  "average_like_count": 276.0,
+  "average_comment_count": 49.0,
+  "best_video_id": "SQ9gGxuB37Y",
+  "best_topic": "테슬라",
   "summary_points": [
-    "가장 겹친 주제는 '삼성'이며 2개 영상, 평균 조회수 85.9K, 평균 참여율 1.9%입니다.",
-    "최고 실적 영상은 '세계 최초 주름없는 폴더블폰 등장? 진짜 미쳐버린 오포 파인드 N6 언빡싱...'이며 솔직 검증 훅과 뉴스 분석 포맷 조합이 강했습니다.",
-    "반복 노출된 툴은 Claude 4회, Gemini 3회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
+    "가장 겹친 주제는 '테슬라'이며 1개 영상, 평균 조회수 13.6K, 평균 참여율 3.9%입니다.",
+    "최고 실적 영상은 '테슬라 \"이 때\" 노리시는게 더 낫습니다'이며 문제 해결 훅과 뉴스 분석 포맷 조합이 강했습니다.",
+    "반복 노출된 툴은 Claude 1회, MCP 1회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
   ],
   "action_chips": [
-    "주제: 삼성",
-    "훅: 솔직 검증",
+    "주제: 테슬라",
+    "훅: 문제 해결",
     "포맷: 뉴스 분석",
-    "기준 채널: ITSub잇섭"
+    "기준 채널: 월텍남 - 월스트리트 테크남"
   ],
   "title_suggestions": [
-    "삼성 직접 실험 — 이게 진짜 되나?",
-    "삼성 vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
-    "삼성 써봤더니... (기대 vs 현실 솔직 후기)"
+    "테슬라 직접 실험 — 이게 진짜 되나?",
+    "테슬라 vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
+    "테슬라 써봤더니... (기대 vs 현실 솔직 후기)"
   ],
   "recommendations": [
     {
-      "title": "삼성 직접 실험 — 이게 진짜 되나?",
+      "title": "테슬라 직접 실험 — 이게 진짜 되나?",
       "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
       "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
-      "thumbnail_copy": "삼성 바로 해결",
+      "thumbnail_copy": "테슬라 바로 해결",
       "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
-      "source_video_id": "p_7dgoWXxL4",
-      "source": "삼성 또 외계인 고문했네;;",
-      "my_channel_context": "내 7일 평균 13.3K회 · 지속률 32.0% / 경쟁사 대비 -78%"
-    },
-    {
-      "title": "삼성 vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
-      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
-      "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
-      "thumbnail_copy": "삼성 바로 해결",
-      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
-      "source_video_id": "YMhc26kvtOk",
-      "source": "삼성 직원도 당황한 역대급 훈수의 현장ㅋㅋㅋㅋ",
-      "my_channel_context": "내 7일 평균 13.3K회 · 지속률 32.0% / 경쟁사 대비 -78%"
+      "source_video_id": "SQ9gGxuB37Y",
+      "source": "테슬라 \"이 때\" 노리시는게 더 낫습니다",
+      "my_channel_context": "내 7일 평균 18.9K회 · 지속률 32.4% / 경쟁사 대비 +106%"
     }
   ],
   "topic_clusters": [
     {
-      "label": "삼성",
-      "count": 2,
-      "avg_view_count": 85872,
-      "avg_engagement_rate": 0.018697843415819024,
-      "avg_like_count": 1442,
-      "avg_comment_count": 148,
-      "source_titles": [
-        "삼성 또 외계인 고문했네;;",
-        "삼성 직원도 당황한 역대급 훈수의 현장ㅋㅋㅋㅋ"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/p_7dgoWXxL4/hqdefault.jpg",
-      "representative_video_id": "p_7dgoWXxL4",
-      "representative_title": "삼성 또 외계인 고문했네;;"
-    },
-    {
-      "label": "ChatGPT",
-      "count": 2,
-      "avg_view_count": 10612,
-      "avg_engagement_rate": 0.05990144435991103,
-      "avg_like_count": 445,
-      "avg_comment_count": 80,
-      "source_titles": [
-        "Day 2 of The 2026 AI Advantage Summit 2026",
-        "ChatGPT vs Gemini vs Claude Make Minecraft From Scratch"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/4wir80xxrf8/hqdefault.jpg",
-      "representative_video_id": "4wir80xxrf8",
-      "representative_title": "Day 2 of The 2026 AI Advantage Summit 2026"
-    },
-    {
-      "label": "OpenAI",
-      "count": 2,
-      "avg_view_count": 1494,
-      "avg_engagement_rate": 0.10367335950464694,
-      "avg_like_count": 126,
-      "avg_comment_count": 20,
-      "source_titles": [
-        "Open AI SPUD has Sprouted! | Hands on with GPT 5.5",
-        "이미지 AI 1등 바뀐 것 같습니다… GPT 이미지 2 5시간 테스트 후기"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/9kqZqgqLqU0/hqdefault.jpg",
-      "representative_video_id": "9kqZqgqLqU0",
-      "representative_title": "Open AI SPUD has Sprouted! | Hands on with GPT 5.5"
-    },
-    {
-      "label": "세계",
+      "label": "테슬라",
       "count": 1,
-      "avg_view_count": 326464,
-      "avg_engagement_rate": 0.013486938835522447,
-      "avg_like_count": 3694,
-      "avg_comment_count": 709,
+      "avg_view_count": 13610,
+      "avg_engagement_rate": 0.03850110213078619,
+      "avg_like_count": 413,
+      "avg_comment_count": 111,
       "source_titles": [
-        "세계 최초 주름없는 폴더블폰 등장? 진짜 미쳐버린 오포 파인드 N6 언빡싱..."
+        "테슬라 \"이 때\" 노리시는게 더 낫습니다"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/WS6aQkB6we4/hqdefault.jpg",
-      "representative_video_id": "WS6aQkB6we4",
-      "representative_title": "세계 최초 주름없는 폴더블폰 등장? 진짜 미쳐버린 오포 파인드 N6 언빡싱..."
-    },
-    {
-      "label": "이건",
-      "count": 1,
-      "avg_view_count": 42594,
-      "avg_engagement_rate": 0.005517208996572287,
-      "avg_like_count": 225,
-      "avg_comment_count": 10,
-      "source_titles": [
-        "이건 진짜 광기 아니냐;"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/BZXf6UaBWII/hqdefault.jpg",
-      "representative_video_id": "BZXf6UaBWII",
-      "representative_title": "이건 진짜 광기 아니냐;"
+      "thumbnail_url": "https://i.ytimg.com/vi/SQ9gGxuB37Y/hqdefault.jpg",
+      "representative_video_id": "SQ9gGxuB37Y",
+      "representative_title": "테슬라 \"이 때\" 노리시는게 더 낫습니다"
     },
     {
       "label": "agents",
       "count": 1,
-      "avg_view_count": 24687,
-      "avg_engagement_rate": 0.02782841171466764,
-      "avg_like_count": 582,
-      "avg_comment_count": 105,
+      "avg_view_count": 12788,
+      "avg_engagement_rate": 0.03237410071942446,
+      "avg_like_count": 384,
+      "avg_comment_count": 30,
       "source_titles": [
-        "인텔 제국의 화려한 부활, CPU가 AI로 뜰 수 밖에 없는 진짜 이유 | AMD와 퀄컴마저 주목"
+        "구글 TPU 8세대 공개, NVIDIA Rubin 비교 분석 | 학습과 추론을 나누다, AI 칩 전쟁이 인프라 전쟁으로 바뀌는 이유"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/3yYy73gSBoE/hqdefault.jpg",
-      "representative_video_id": "3yYy73gSBoE",
-      "representative_title": "인텔 제국의 화려한 부활, CPU가 AI로 뜰 수 밖에 없는 진짜 이유 | AMD와 퀄컴마저 주목"
+      "thumbnail_url": "https://i.ytimg.com/vi/D4G6q9rIbWM/hqdefault.jpg",
+      "representative_video_id": "D4G6q9rIbWM",
+      "representative_title": "구글 TPU 8세대 공개, NVIDIA Rubin 비교 분석 | 학습과 추론을 나누다, AI 칩 전쟁이 인프라 전쟁으로 바뀌는 이유"
     },
     {
       "label": "Claude",
       "count": 1,
-      "avg_view_count": 8402,
-      "avg_engagement_rate": 0.020947393477743395,
-      "avg_like_count": 175,
-      "avg_comment_count": 1,
+      "avg_view_count": 1201,
+      "avg_engagement_rate": 0.0324729392173189,
+      "avg_like_count": 32,
+      "avg_comment_count": 7,
       "source_titles": [
-        "Day 3 of The 2026 AI Advantage Summit 2026"
+        "Why I Love Headless AI Agents: Minecraft & Swarms"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/1jikcQVRVNo/hqdefault.jpg",
-      "representative_video_id": "1jikcQVRVNo",
-      "representative_title": "Day 3 of The 2026 AI Advantage Summit 2026"
+      "thumbnail_url": "https://i.ytimg.com/vi/ena1W3_lWpc/hqdefault.jpg",
+      "representative_video_id": "ena1W3_lWpc",
+      "representative_title": "Why I Love Headless AI Agents: Minecraft & Swarms"
     }
   ],
   "video_highlights": [
     {
-      "video_id": "WS6aQkB6we4",
-      "channel_name": "ITSub잇섭",
-      "title": "세계 최초 주름없는 폴더블폰 등장? 진짜 미쳐버린 오포 파인드 N6 언빡싱...",
-      "thumbnail_url": "https://i.ytimg.com/vi/WS6aQkB6we4/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=WS6aQkB6we4",
-      "published_at": "2026-04-25T11:00:50Z",
-      "view_count": 326464,
-      "like_count": 3694,
-      "comment_count": 709,
-      "engagement_rate": 0.013486938835522447,
-      "topic_cluster": "세계",
+      "video_id": "SQ9gGxuB37Y",
+      "channel_name": "월텍남 - 월스트리트 테크남",
+      "title": "테슬라 \"이 때\" 노리시는게 더 낫습니다",
+      "thumbnail_url": "https://i.ytimg.com/vi/SQ9gGxuB37Y/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=SQ9gGxuB37Y",
+      "published_at": "2026-04-26T02:00:24Z",
+      "view_count": 13610,
+      "like_count": 413,
+      "comment_count": 111,
+      "engagement_rate": 0.03850110213078619,
+      "topic_cluster": "테슬라",
       "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "저거 삼성 갤럭시 보다 주름 없다가 놀렸는데 삼성 디스플레이 인게 저게 웃김 ㅋㅋ",
-      "hook_type": "솔직 검증"
-    },
-    {
-      "video_id": "p_7dgoWXxL4",
-      "channel_name": "주연 ZUYONI",
-      "title": "삼성 또 외계인 고문했네;;",
-      "thumbnail_url": "https://i.ytimg.com/vi/p_7dgoWXxL4/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=p_7dgoWXxL4",
-      "published_at": "2026-04-25T03:00:53Z",
-      "view_count": 91316,
-      "like_count": 1321,
-      "comment_count": 116,
-      "engagement_rate": 0.015736563143370276,
-      "topic_cluster": "삼성",
-      "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "와. 에어드레서 들어가니까 주연형님 얼굴이 순간 4살짜리 제 조카 얼굴이 되는걸 봤어요!",
+      "comment_signal": "실적 잘 나오는 좋은 주식 많은 굳이 테슬라 살 이유 없는 듯",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "YMhc26kvtOk",
-      "channel_name": "주연 ZUYONI",
-      "title": "삼성 직원도 당황한 역대급 훈수의 현장ㅋㅋㅋㅋ",
-      "thumbnail_url": "https://i.ytimg.com/vi/YMhc26kvtOk/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=YMhc26kvtOk",
-      "published_at": "2026-04-25T10:00:53Z",
-      "view_count": 80428,
-      "like_count": 1563,
-      "comment_count": 179,
-      "engagement_rate": 0.021659123688267768,
-      "topic_cluster": "삼성",
-      "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "제 혼수 아니고 PD님 혼수입니다ㅋㅋㅋㅋ 여러분도 댓글로 훈수 ㄱㄱ IT브이로그 재밌었다면 또 가져올게요!! (특별출연 해주신 컬러스케일 블루님, 잇섭님 감사합니다🙌) 🤓…",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "BZXf6UaBWII",
-      "channel_name": "테크몽 Techmong",
-      "title": "이건 진짜 광기 아니냐;",
-      "thumbnail_url": "https://i.ytimg.com/vi/BZXf6UaBWII/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=BZXf6UaBWII",
-      "published_at": "2026-04-25T10:00:15Z",
-      "view_count": 42594,
-      "like_count": 225,
-      "comment_count": 10,
-      "engagement_rate": 0.005517208996572287,
-      "topic_cluster": "이건",
-      "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "삼류 : 장난치다 욕먹으면 그 행동 안함 일류 : 장난치다 욕먹으니 진짜로해봄",
-      "hook_type": "솔직 검증"
-    },
-    {
-      "video_id": "3yYy73gSBoE",
+      "video_id": "D4G6q9rIbWM",
       "channel_name": "안될공학 - IT 테크 신기술",
-      "title": "인텔 제국의 화려한 부활, CPU가 AI로 뜰 수 밖에 없는 진짜 이유 | AMD와 퀄컴마저 주목",
-      "thumbnail_url": "https://i.ytimg.com/vi/3yYy73gSBoE/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=3yYy73gSBoE",
-      "published_at": "2026-04-25T11:31:31Z",
-      "view_count": 24687,
-      "like_count": 582,
-      "comment_count": 105,
-      "engagement_rate": 0.02782841171466764,
+      "title": "구글 TPU 8세대 공개, NVIDIA Rubin 비교 분석 | 학습과 추론을 나누다, AI 칩 전쟁이 인프라 전쟁으로 바뀌는 이유",
+      "thumbnail_url": "https://i.ytimg.com/vi/D4G6q9rIbWM/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=D4G6q9rIbWM",
+      "published_at": "2026-04-26T12:01:16Z",
+      "view_count": 12788,
+      "like_count": 384,
+      "comment_count": 30,
+      "engagement_rate": 0.03237410071942446,
       "topic_cluster": "agents",
       "summary": "이 영상은 agents 이슈를 비교 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "삼성파운드리20년=인텔4년 😢",
-      "hook_type": "솔직 검증"
+      "comment_signal": "내가 아는 사람중에 제일 똑똑한 사람.",
+      "hook_type": "긴급성"
+    },
+    {
+      "video_id": "ena1W3_lWpc",
+      "channel_name": "All About AI",
+      "title": "Why I Love Headless AI Agents: Minecraft & Swarms",
+      "thumbnail_url": "https://i.ytimg.com/vi/ena1W3_lWpc/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=ena1W3_lWpc",
+      "published_at": "2026-04-26T13:00:17Z",
+      "view_count": 1201,
+      "like_count": 32,
+      "comment_count": 7,
+      "engagement_rate": 0.0324729392173189,
+      "topic_cluster": "Claude",
+      "summary": "이 영상은 agents 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "More Minecraft, with details please!!!! How can I make an AWESOME setup like this myself?",
+      "hook_type": "문제 해결"
     }
   ]
 }
