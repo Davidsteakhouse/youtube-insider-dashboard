@@ -1,137 +1,211 @@
 {
-  "digest_date": "2026-04-27",
-  "generated_at": "2026-04-26T23:52:23+00:00",
-  "summary": "최근 24시간 영상 3개를 기준으로 보면, 오늘 가장 먼저 볼 축은 '테슬라'입니다. 특히 '테슬라 \"이 때\" 노리시는게 더 낫습니다'는 조회수 13.6K, 참여율 3.9%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "'테슬라' 주제가 1개 영상으로 가장 많이 다뤄졌습니다. 일반인 관점 직접 실험 or VS 비교 각도로 차별화할 영역이 있습니다.\n[내 채널] 7일 평균 18.9K회 · 지속률 32.4% / 경쟁사 평균 9.2K회 (격차 +106%)",
-  "telegram_preview": "📡 스마트대디 모니터링 | 04/27\n\n📊 수집: 영상 3개 | 채널 3개\n\n🔥 참여율 TOP 3\n1. [월텍남 - 월스트리트 테크남] 3.9% · 13.6K뷰\n   테슬라 \"이 때\" 노리시는게 더 낫습니다\n2. [안될공학 - IT 테크 신기술] 3.2% · 12.8K뷰\n   구글 TPU 8세대 공개, NVIDIA Rubin 비교 분석 | 학습과 추론을 나누다, AI 칩 전쟁이 인프라 전쟁으로 바뀌는 이유\n3. [All About AI] 3.2% · 1.2K뷰\n   Why I Love Headless AI Agents: Minecraft & Swarms\n\n📌 화제 키워드\n   agents · coding · automation\n\n🎬 포맷: 뉴스 분석 2개 · 비교 1개\n\n📈 스마트대디 어제 실적\n조회수 33.4K (↑77% vs 7일 평균) | 구독 +569\n시청 지속률 33.2% | 평균 시청 2분 06초\n경쟁사 평균 9.2K회 대비 내 7일 평균 +106%\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
-  "video_count": 3,
-  "total_recent_video_count": 3,
+  "digest_date": "2026-04-28",
+  "generated_at": "2026-04-28T00:00:41+00:00",
+  "summary": "최근 24시간 영상 6개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'AMD'입니다. 특히 'AMD CPU 차력쇼! tsmc 하이브리드 본딩 묻고 더블로... AMD 9950X3D2 역대급 CPU 의미 분석 | 캐시 2배인데 성능은?'는 조회수 11.4K, 참여율 2.8%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "'AMD' 주제가 1개 영상으로 가장 많이 다뤄졌습니다. 오늘 수집 영상 6개는 주로 '뉴스 분석' 포맷이라, VS 비교·직접 실험 각도는 아직 비어 있습니다. 일반인 관점 직접 실험 or VS 비교 각도로 차별화할 영역이 있습니다.\n[내 채널] 7일 평균 24.0K회 · 지속률 33.2% / 경쟁사 평균 4.1K회 (격차 +486%)",
+  "telegram_preview": "📡 스마트대디 모니터링 | 04/28\n\n📊 수집: 영상 6개 | 채널 6개\n\n🔥 참여율 TOP 3\n1. [안될공학 - IT 테크 신기술] 2.8% · 11.4K뷰\n   AMD CPU 차력쇼! tsmc 하이브리드 본딩 묻고 더블로... AMD 9950X3D2 역대급 CPU 의미 분석 | 캐시 2배인데 성능은?\n2. [빌더 조쉬 Builder Josh] 4.8% · 5.1K뷰\n   클로드 코드는 옵시디언으로 비로소 완성됩니다. 진짜 자동화 협업 사례를 보여드리겠습니다. (셀피쉬클럽 젬마님)\n3. [AI 머니] 6.3% · 3.2K뷰\n   유튜브가 수많은 채널을 수익 정지시키는 진짜 이유 (해외 18만 유튜버 분석 + 복구 절차 공개)\n\n📌 화제 키워드\n   automation · coding · agents · monetization · research\n\n🎬 포맷: 뉴스 분석 3개 · 빌드 데모 2개 · 워크플로우 튜토리얼 1개\n\n📈 스마트대디 어제 실적\n조회수 31.2K (↑30% vs 7일 평균) | 구독 +469\n시청 지속률 33.3% | 평균 시청 2분 07초\n경쟁사 평균 4.1K회 대비 내 7일 평균 +486%\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+  "video_count": 6,
+  "total_recent_video_count": 6,
   "focus_scope": "all_watchlist",
-  "average_view_count": 9200.0,
-  "average_engagement_rate": 0.034449380689176516,
-  "average_like_count": 276.0,
-  "average_comment_count": 49.0,
-  "best_video_id": "SQ9gGxuB37Y",
-  "best_topic": "테슬라",
+  "average_view_count": 4097.0,
+  "average_engagement_rate": 0.04400166350219143,
+  "average_like_count": 146.0,
+  "average_comment_count": 11.0,
+  "best_video_id": "1Q5PCXVWudA",
+  "best_topic": "AMD",
   "summary_points": [
-    "가장 겹친 주제는 '테슬라'이며 1개 영상, 평균 조회수 13.6K, 평균 참여율 3.9%입니다.",
-    "최고 실적 영상은 '테슬라 \"이 때\" 노리시는게 더 낫습니다'이며 문제 해결 훅과 뉴스 분석 포맷 조합이 강했습니다.",
-    "반복 노출된 툴은 Claude 1회, MCP 1회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
+    "가장 겹친 주제는 'AMD'이며 1개 영상, 평균 조회수 11.4K, 평균 참여율 2.8%입니다.",
+    "최고 실적 영상은 'AMD CPU 차력쇼! tsmc 하이브리드 본딩 묻고 더블로... AMD 9950X3D2 역대급 CPU 의미 분석 | 캐시 2배인데 성능은?'이며 문제 해결 훅과 뉴스 분석 포맷 조합이 강했습니다.",
+    "반복 노출된 툴은 Claude 1회, Cursor 1회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
   ],
   "action_chips": [
-    "주제: 테슬라",
+    "주제: AMD",
     "훅: 문제 해결",
     "포맷: 뉴스 분석",
-    "기준 채널: 월텍남 - 월스트리트 테크남"
+    "기준 채널: 안될공학 - IT 테크 신기술"
   ],
   "title_suggestions": [
-    "테슬라 직접 실험 — 이게 진짜 되나?",
-    "테슬라 vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
-    "테슬라 써봤더니... (기대 vs 현실 솔직 후기)"
+    "AMD 직접 실험 — 이게 진짜 되나?",
+    "AMD vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
+    "AMD 써봤더니... (기대 vs 현실 솔직 후기)"
   ],
   "recommendations": [
     {
-      "title": "테슬라 직접 실험 — 이게 진짜 되나?",
+      "title": "AMD 직접 실험 — 이게 진짜 되나?",
       "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
       "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
-      "thumbnail_copy": "테슬라 바로 해결",
+      "thumbnail_copy": "AMD 바로 해결",
       "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
-      "source_video_id": "SQ9gGxuB37Y",
-      "source": "테슬라 \"이 때\" 노리시는게 더 낫습니다",
-      "my_channel_context": "내 7일 평균 18.9K회 · 지속률 32.4% / 경쟁사 대비 +106%"
+      "source_video_id": "1Q5PCXVWudA",
+      "source": "AMD CPU 차력쇼! tsmc 하이브리드 본딩 묻고 더블로... AMD 9950X3D2 역대급 CPU 의미 분석 | 캐시 2배인데 성능은?",
+      "my_channel_context": "내 7일 평균 24.0K회 · 지속률 33.2% / 경쟁사 대비 +486%"
     }
   ],
   "topic_clusters": [
     {
-      "label": "테슬라",
+      "label": "AMD",
       "count": 1,
-      "avg_view_count": 13610,
-      "avg_engagement_rate": 0.03850110213078619,
-      "avg_like_count": 413,
-      "avg_comment_count": 111,
+      "avg_view_count": 11410,
+      "avg_engagement_rate": 0.027870289219982473,
+      "avg_like_count": 299,
+      "avg_comment_count": 19,
       "source_titles": [
-        "테슬라 \"이 때\" 노리시는게 더 낫습니다"
+        "AMD CPU 차력쇼! tsmc 하이브리드 본딩 묻고 더블로... AMD 9950X3D2 역대급 CPU 의미 분석 | 캐시 2배인데 성능은?"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/SQ9gGxuB37Y/hqdefault.jpg",
-      "representative_video_id": "SQ9gGxuB37Y",
-      "representative_title": "테슬라 \"이 때\" 노리시는게 더 낫습니다"
+      "thumbnail_url": "https://i.ytimg.com/vi/1Q5PCXVWudA/hqdefault.jpg",
+      "representative_video_id": "1Q5PCXVWudA",
+      "representative_title": "AMD CPU 차력쇼! tsmc 하이브리드 본딩 묻고 더블로... AMD 9950X3D2 역대급 CPU 의미 분석 | 캐시 2배인데 성능은?"
     },
     {
-      "label": "agents",
+      "label": "ChatGPT",
       "count": 1,
-      "avg_view_count": 12788,
-      "avg_engagement_rate": 0.03237410071942446,
-      "avg_like_count": 384,
-      "avg_comment_count": 30,
+      "avg_view_count": 5076,
+      "avg_engagement_rate": 0.04846335697399527,
+      "avg_like_count": 215,
+      "avg_comment_count": 31,
       "source_titles": [
-        "구글 TPU 8세대 공개, NVIDIA Rubin 비교 분석 | 학습과 추론을 나누다, AI 칩 전쟁이 인프라 전쟁으로 바뀌는 이유"
+        "클로드 코드는 옵시디언으로 비로소 완성됩니다. 진짜 자동화 협업 사례를 보여드리겠습니다. (셀피쉬클럽 젬마님)"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/D4G6q9rIbWM/hqdefault.jpg",
-      "representative_video_id": "D4G6q9rIbWM",
-      "representative_title": "구글 TPU 8세대 공개, NVIDIA Rubin 비교 분석 | 학습과 추론을 나누다, AI 칩 전쟁이 인프라 전쟁으로 바뀌는 이유"
+      "thumbnail_url": "https://i.ytimg.com/vi/haM_DjiA5C8/hqdefault.jpg",
+      "representative_video_id": "haM_DjiA5C8",
+      "representative_title": "클로드 코드는 옵시디언으로 비로소 완성됩니다. 진짜 자동화 협업 사례를 보여드리겠습니다. (셀피쉬클럽 젬마님)"
+    },
+    {
+      "label": "유튜브가",
+      "count": 1,
+      "avg_view_count": 3174,
+      "avg_engagement_rate": 0.0630119722747322,
+      "avg_like_count": 190,
+      "avg_comment_count": 10,
+      "source_titles": [
+        "유튜브가 수많은 채널을 수익 정지시키는 진짜 이유 (해외 18만 유튜버 분석 + 복구 절차 공개)"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/P1FnB0GmyJY/hqdefault.jpg",
+      "representative_video_id": "P1FnB0GmyJY",
+      "representative_title": "유튜브가 수많은 채널을 수익 정지시키는 진짜 이유 (해외 18만 유튜버 분석 + 복구 절차 공개)"
+    },
+    {
+      "label": "자동화",
+      "count": 1,
+      "avg_view_count": 3062,
+      "avg_engagement_rate": 0.03069888961463096,
+      "avg_like_count": 92,
+      "avg_comment_count": 2,
+      "source_titles": [
+        "GPT 5.5 + 이미지 2.0 조합은 80억 제작비 영화도 잘 만들어줍니다.. ㄷㄷ (feat. 천군)"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/ubC9KmQtBWQ/hqdefault.jpg",
+      "representative_video_id": "ubC9KmQtBWQ",
+      "representative_title": "GPT 5.5 + 이미지 2.0 조합은 80억 제작비 영화도 잘 만들어줍니다.. ㄷㄷ (feat. 천군)"
     },
     {
       "label": "Claude",
       "count": 1,
-      "avg_view_count": 1201,
-      "avg_engagement_rate": 0.0324729392173189,
-      "avg_like_count": 32,
-      "avg_comment_count": 7,
+      "avg_view_count": 1146,
+      "avg_engagement_rate": 0.03926701570680628,
+      "avg_like_count": 43,
+      "avg_comment_count": 2,
       "source_titles": [
-        "Why I Love Headless AI Agents: Minecraft & Swarms"
+        "Automate Anything With This Simple 3-Part AI Agent System"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/ena1W3_lWpc/hqdefault.jpg",
-      "representative_video_id": "ena1W3_lWpc",
-      "representative_title": "Why I Love Headless AI Agents: Minecraft & Swarms"
+      "thumbnail_url": "https://i.ytimg.com/vi/nIxiVAuXn4o/hqdefault.jpg",
+      "representative_video_id": "nIxiVAuXn4o",
+      "representative_title": "Automate Anything With This Simple 3-Part AI Agent System"
+    },
+    {
+      "label": "코딩",
+      "count": 1,
+      "avg_view_count": 713,
+      "avg_engagement_rate": 0.0546984572230014,
+      "avg_like_count": 38,
+      "avg_comment_count": 1,
+      "source_titles": [
+        "Introducing: Becoming an Octopus Organization"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/ZQO24aDUFY8/hqdefault.jpg",
+      "representative_video_id": "ZQO24aDUFY8",
+      "representative_title": "Introducing: Becoming an Octopus Organization"
     }
   ],
   "video_highlights": [
     {
-      "video_id": "SQ9gGxuB37Y",
-      "channel_name": "월텍남 - 월스트리트 테크남",
-      "title": "테슬라 \"이 때\" 노리시는게 더 낫습니다",
-      "thumbnail_url": "https://i.ytimg.com/vi/SQ9gGxuB37Y/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=SQ9gGxuB37Y",
-      "published_at": "2026-04-26T02:00:24Z",
-      "view_count": 13610,
-      "like_count": 413,
-      "comment_count": 111,
-      "engagement_rate": 0.03850110213078619,
-      "topic_cluster": "테슬라",
+      "video_id": "1Q5PCXVWudA",
+      "channel_name": "안될공학 - IT 테크 신기술",
+      "title": "AMD CPU 차력쇼! tsmc 하이브리드 본딩 묻고 더블로... AMD 9950X3D2 역대급 CPU 의미 분석 | 캐시 2배인데 성능은?",
+      "thumbnail_url": "https://i.ytimg.com/vi/1Q5PCXVWudA/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=1Q5PCXVWudA",
+      "published_at": "2026-04-27T08:06:56Z",
+      "view_count": 11410,
+      "like_count": 299,
+      "comment_count": 19,
+      "engagement_rate": 0.027870289219982473,
+      "topic_cluster": "AMD",
       "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "실적 잘 나오는 좋은 주식 많은 굳이 테슬라 살 이유 없는 듯",
+      "comment_signal": "다신 안만들거 니들이 만들라해서 2개 달았다 에디션 아닌가요? 캐시 2개 올린 제품은 앞으로 안나올거 같은데요 ㅋㅋ",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "D4G6q9rIbWM",
-      "channel_name": "안될공학 - IT 테크 신기술",
-      "title": "구글 TPU 8세대 공개, NVIDIA Rubin 비교 분석 | 학습과 추론을 나누다, AI 칩 전쟁이 인프라 전쟁으로 바뀌는 이유",
-      "thumbnail_url": "https://i.ytimg.com/vi/D4G6q9rIbWM/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=D4G6q9rIbWM",
-      "published_at": "2026-04-26T12:01:16Z",
-      "view_count": 12788,
-      "like_count": 384,
-      "comment_count": 30,
-      "engagement_rate": 0.03237410071942446,
-      "topic_cluster": "agents",
-      "summary": "이 영상은 agents 이슈를 비교 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "내가 아는 사람중에 제일 똑똑한 사람.",
+      "video_id": "haM_DjiA5C8",
+      "channel_name": "빌더 조쉬 Builder Josh",
+      "title": "클로드 코드는 옵시디언으로 비로소 완성됩니다. 진짜 자동화 협업 사례를 보여드리겠습니다. (셀피쉬클럽 젬마님)",
+      "thumbnail_url": "https://i.ytimg.com/vi/haM_DjiA5C8/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=haM_DjiA5C8",
+      "published_at": "2026-04-27T07:42:32Z",
+      "view_count": 5076,
+      "like_count": 215,
+      "comment_count": 31,
+      "engagement_rate": 0.04846335697399527,
+      "topic_cluster": "ChatGPT",
+      "summary": "이 영상은 agents 이슈를 빌드 데모 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "셀피쉬클럽 오랜 팬으로서 반갑네요. 덕분에 AI시대 두려움 보다는 기대하는 마음이 생깁니다. 앞으로도 오래오래 이기적공유 진행해주세요.",
+      "hook_type": "솔직 검증"
+    },
+    {
+      "video_id": "P1FnB0GmyJY",
+      "channel_name": "AI 머니",
+      "title": "유튜브가 수많은 채널을 수익 정지시키는 진짜 이유 (해외 18만 유튜버 분석 + 복구 절차 공개)",
+      "thumbnail_url": "https://i.ytimg.com/vi/P1FnB0GmyJY/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=P1FnB0GmyJY",
+      "published_at": "2026-04-27T12:36:53Z",
+      "view_count": 3174,
+      "like_count": 190,
+      "comment_count": 10,
+      "engagement_rate": 0.0630119722747322,
+      "topic_cluster": "유튜브가",
+      "summary": "이 영상은 워크플로우 튜토리얼 이슈를 워크플로우 튜토리얼 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "이 영상에서 다루는 수익 정지 기준은 \"확정된 유튜브 정책\"이 아니라 정지된 채널들의 공통점에서 도출한 가설입니다. 다만 현재까지 관찰된 패턴 중 가장 설명력이 높고, 허…",
       "hook_type": "긴급성"
     },
     {
-      "video_id": "ena1W3_lWpc",
+      "video_id": "ubC9KmQtBWQ",
+      "channel_name": "성공지식백과",
+      "title": "GPT 5.5 + 이미지 2.0 조합은 80억 제작비 영화도 잘 만들어줍니다.. ㄷㄷ (feat. 천군)",
+      "thumbnail_url": "https://i.ytimg.com/vi/ubC9KmQtBWQ/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=ubC9KmQtBWQ",
+      "published_at": "2026-04-27T06:33:29Z",
+      "view_count": 3062,
+      "like_count": 92,
+      "comment_count": 2,
+      "engagement_rate": 0.03069888961463096,
+      "topic_cluster": "자동화",
+      "summary": "이 영상은 automation 이슈를 빌드 데모 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "잘봤어요.",
+      "hook_type": "수익"
+    },
+    {
+      "video_id": "nIxiVAuXn4o",
       "channel_name": "All About AI",
-      "title": "Why I Love Headless AI Agents: Minecraft & Swarms",
-      "thumbnail_url": "https://i.ytimg.com/vi/ena1W3_lWpc/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=ena1W3_lWpc",
-      "published_at": "2026-04-26T13:00:17Z",
-      "view_count": 1201,
-      "like_count": 32,
-      "comment_count": 7,
-      "engagement_rate": 0.0324729392173189,
+      "title": "Automate Anything With This Simple 3-Part AI Agent System",
+      "thumbnail_url": "https://i.ytimg.com/vi/nIxiVAuXn4o/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=nIxiVAuXn4o",
+      "published_at": "2026-04-27T15:08:41Z",
+      "view_count": 1146,
+      "like_count": 43,
+      "comment_count": 2,
+      "engagement_rate": 0.03926701570680628,
       "topic_cluster": "Claude",
       "summary": "이 영상은 agents 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "More Minecraft, with details please!!!! How can I make an AWESOME setup like this myself?",
+      "comment_signal": "companies like SerpAPI should be using the X402 protocol so that I'm not signing up to their pl…",
       "hook_type": "문제 해결"
     }
   ]
