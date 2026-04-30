@@ -1,239 +1,249 @@
 {
-  "digest_date": "2026-04-30",
-  "generated_at": "2026-04-30T00:03:45+00:00",
-  "summary": "최근 24시간 영상 8개를 기준으로 보면, 오늘 가장 먼저 볼 축은 '집까지'입니다. 특히 '집까지 바꿔가며 1년을 준비했습니다...'는 조회수 90.0K, 참여율 3.1%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "'집까지' 주제가 1개 영상으로 가장 많이 다뤄졌습니다. 일반인 관점 직접 실험 or VS 비교 각도로 차별화할 영역이 있습니다.\n[내 채널] 7일 평균 26.6K회 · 지속률 33.3% / 경쟁사 평균 19.6K회 (격차 +36%)",
-  "telegram_preview": "📡 스마트대디 모니터링 | 04/30\n\n📊 수집: 영상 8개 | 채널 7개\n\n🔥 참여율 TOP 3\n1. [귀곰] 3.1% · 90.0K뷰\n   집까지 바꿔가며 1년을 준비했습니다...\n2. [주연 ZUYONI] 5.7% · 36.6K뷰\n   직원들한테 80만원씩 쐈습니다! 테크채널 PD픽 공개ㅋㅋ (80만 구독자 이벤트)\n3. [안될공학 - IT 테크 신기술] 3.3% · 9.7K뷰\n   미국 과학자, 핵실험 관련 11명 실종 사망 사건… 미 정부, FBI까지 움직인 미스터리에 음모설이 나오는 진짜 이유\n\n📌 화제 키워드\n   automation · coding · agents · monetization\n\n🎬 포맷: 뉴스 분석 4개 · 워크플로우 튜토리얼 2개 · 비교 1개\n\n📈 스마트대디 어제 실적\n조회수 19.2K (↓28% vs 7일 평균) | 구독 +276\n시청 지속률 33.9% | 평균 시청 2분 10초\n경쟁사 평균 19.6K회 대비 내 7일 평균 +36%\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
-  "video_count": 8,
-  "total_recent_video_count": 8,
+  "digest_date": "2026-05-01",
+  "generated_at": "2026-04-30T23:59:54+00:00",
+  "summary": "최근 24시간 영상 11개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'OpenAI'입니다. 특히 '다이슨이 만든 15만원짜리 미친 손풍기?? 바로 직구로 사봤습니다 ㅋㅋ'는 조회수 251.6K, 참여율 1.4%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "'OpenAI' 주제가 3개 영상으로 가장 많이 다뤄졌습니다. 일반인 관점 직접 실험 or VS 비교 각도로 차별화할 영역이 있습니다.\n[내 채널] 7일 평균 20.9K회 · 지속률 33.1% / 경쟁사 평균 27.5K회 (격차 -24%)",
+  "telegram_preview": "📡 스마트대디 모니터링 | 05/01\n\n📊 수집: 영상 11개 | 채널 11개\n\n🔥 참여율 TOP 3\n1. [ITSub잇섭] 1.4% · 251.6K뷰\n   다이슨이 만든 15만원짜리 미친 손풍기?? 바로 직구로 사봤습니다 ㅋㅋ\n2. [tef] 7.7% · 18.0K뷰\n   ChatGPT vs Gemini vs Claude Make CS2 From Scratch\n3. [빌더 조쉬 Builder Josh] 1.9% · 10.7K뷰\n   클로드 코드에 디자인 시스템 세팅하면 퀄리티가 이렇게 됩니다\n\n📌 화제 키워드\n   coding · agents · research · automation · transcript\n\n🎬 포맷: 뉴스 분석 4개 · 워크플로우 튜토리얼 3개 · 비교 2개\n\n📈 스마트대디 어제 실적\n조회수 10.5K (↓50% vs 7일 평균) | 구독 +183\n시청 지속률 32.7% | 평균 시청 2분 05초\n경쟁사 평균 27.5K회 대비 내 7일 평균 -24%\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+  "video_count": 11,
+  "total_recent_video_count": 11,
   "focus_scope": "all_watchlist",
-  "average_view_count": 19584.0,
-  "average_engagement_rate": 0.04837677533280782,
-  "average_like_count": 657.0,
-  "average_comment_count": 140.0,
-  "best_video_id": "bzO5ibHRzd8",
-  "best_topic": "집까지",
+  "average_view_count": 27519.0,
+  "average_engagement_rate": 0.04816844212729757,
+  "average_like_count": 492.0,
+  "average_comment_count": 81.0,
+  "best_video_id": "rWrig9t4fyc",
+  "best_topic": "OpenAI",
   "summary_points": [
-    "가장 겹친 주제는 '집까지'이며 1개 영상, 평균 조회수 90.0K, 평균 참여율 3.1%입니다.",
-    "최고 실적 영상은 '집까지 바꿔가며 1년을 준비했습니다...'이며 문제 해결 훅과 뉴스 분석 포맷 조합이 강했습니다.",
-    "반복 노출된 툴은 Claude 2회, ChatGPT 1회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
+    "가장 겹친 주제는 'OpenAI'이며 3개 영상, 평균 조회수 3.0K, 평균 참여율 4.3%입니다.",
+    "최고 실적 영상은 '다이슨이 만든 15만원짜리 미친 손풍기?? 바로 직구로 사봤습니다 ㅋㅋ'이며 수익 훅과 사례 분석 포맷 조합이 강했습니다.",
+    "반복 노출된 툴은 Claude 6회, Arc 5회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
   ],
   "action_chips": [
-    "주제: 집까지",
-    "훅: 문제 해결",
-    "포맷: 뉴스 분석",
-    "기준 채널: 귀곰"
+    "주제: OpenAI",
+    "훅: 수익",
+    "포맷: 사례 분석",
+    "기준 채널: ITSub잇섭"
   ],
   "title_suggestions": [
-    "집까지 직접 실험 — 이게 진짜 되나?",
-    "집까지 vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
-    "집까지 써봤더니... (기대 vs 현실 솔직 후기)"
+    "OpenAI 직접 실험 — 이게 진짜 되나?",
+    "OpenAI vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
+    "OpenAI 써봤더니... (기대 vs 현실 솔직 후기)"
   ],
   "recommendations": [
     {
-      "title": "집까지 직접 실험 — 이게 진짜 되나?",
+      "title": "OpenAI 직접 실험 — 이게 진짜 되나?",
       "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
       "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
-      "thumbnail_copy": "집까지 바로 해결",
+      "thumbnail_copy": "OpenAI 바로 해결",
       "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
-      "source_video_id": "bzO5ibHRzd8",
-      "source": "집까지 바꿔가며 1년을 준비했습니다...",
-      "my_channel_context": "내 7일 평균 26.6K회 · 지속률 33.3% / 경쟁사 대비 +36%"
+      "source_video_id": "5p6h23Md4Zw",
+      "source": "OpenAI Just Open Sourced Their Agent Orchestrator. The Real Lesson Is The 3 Layers Underneath.",
+      "my_channel_context": "내 7일 평균 20.9K회 · 지속률 33.1% / 경쟁사 대비 -24%"
+    },
+    {
+      "title": "OpenAI vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
+      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
+      "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
+      "thumbnail_copy": "OpenAI 바로 해결",
+      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
+      "source_video_id": "erTJFm7x-6s",
+      "source": "[OpenAI X ALINN] Codex 라이브 강의",
+      "my_channel_context": "내 7일 평균 20.9K회 · 지속률 33.1% / 경쟁사 대비 -24%"
+    },
+    {
+      "title": "OpenAI 써봤더니... (기대 vs 현실 솔직 후기)",
+      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
+      "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
+      "thumbnail_copy": "OpenAI 바로 해결",
+      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
+      "source_video_id": "gau8eA1FJ7U",
+      "source": "Top 5 Claude Code Skills... 100,000+ Stars on Github",
+      "my_channel_context": "내 7일 평균 20.9K회 · 지속률 33.1% / 경쟁사 대비 -24%"
     }
   ],
   "topic_clusters": [
     {
-      "label": "집까지",
-      "count": 1,
-      "avg_view_count": 89958,
-      "avg_engagement_rate": 0.031125636408101558,
-      "avg_like_count": 2539,
-      "avg_comment_count": 261,
+      "label": "OpenAI",
+      "count": 3,
+      "avg_view_count": 2951,
+      "avg_engagement_rate": 0.04301846666766734,
+      "avg_like_count": 113,
+      "avg_comment_count": 4,
       "source_titles": [
-        "집까지 바꿔가며 1년을 준비했습니다..."
+        "OpenAI Just Open Sourced Their Agent Orchestrator. The Real Lesson Is The 3 Layers Underneath.",
+        "[OpenAI X ALINN] Codex 라이브 강의",
+        "Top 5 Claude Code Skills... 100,000+ Stars on Github"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/bzO5ibHRzd8/hqdefault.jpg",
-      "representative_video_id": "bzO5ibHRzd8",
-      "representative_title": "집까지 바꿔가며 1년을 준비했습니다..."
-    },
-    {
-      "label": "직원들한테",
-      "count": 1,
-      "avg_view_count": 36586,
-      "avg_engagement_rate": 0.0570436779095829,
-      "avg_like_count": 1365,
-      "avg_comment_count": 722,
-      "source_titles": [
-        "직원들한테 80만원씩 쐈습니다! 테크채널 PD픽 공개ㅋㅋ (80만 구독자 이벤트)"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/ufU6EHU6vCw/hqdefault.jpg",
-      "representative_video_id": "ufU6EHU6vCw",
-      "representative_title": "직원들한테 80만원씩 쐈습니다! 테크채널 PD픽 공개ㅋㅋ (80만 구독자 이벤트)"
-    },
-    {
-      "label": "자동화",
-      "count": 1,
-      "avg_view_count": 9675,
-      "avg_engagement_rate": 0.032868217054263564,
-      "avg_like_count": 261,
-      "avg_comment_count": 57,
-      "source_titles": [
-        "미국 과학자, 핵실험 관련 11명 실종 사망 사건… 미 정부, FBI까지 움직인 미스터리에 음모설이 나오는 진짜 이유"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/SPb14L4NUAg/hqdefault.jpg",
-      "representative_video_id": "SPb14L4NUAg",
-      "representative_title": "미국 과학자, 핵실험 관련 11명 실종 사망 사건… 미 정부, FBI까지 움직인 미스터리에 음모설이 나오는 진짜 이유"
+      "thumbnail_url": "https://i.ytimg.com/vi/5p6h23Md4Zw/hqdefault.jpg",
+      "representative_video_id": "5p6h23Md4Zw",
+      "representative_title": "OpenAI Just Open Sourced Their Agent Orchestrator. The Real Lesson Is The 3 Layers Underneath."
     },
     {
       "label": "Claude",
-      "count": 1,
-      "avg_view_count": 6830,
-      "avg_engagement_rate": 0.0335285505124451,
-      "avg_like_count": 213,
-      "avg_comment_count": 16,
+      "count": 3,
+      "avg_view_count": 1985,
+      "avg_engagement_rate": 0.07125253635409469,
+      "avg_like_count": 141,
+      "avg_comment_count": 11,
       "source_titles": [
-        "챗봇을 넘은 엔지니어링 AI,  MATLAB Copilot, 반도체 불량 분석부터 자율주행 브레이크까지 설계해봤습니다 | Simulink부터 MCP 연결까지"
+        "50+ Images 2 Tricks That'll Blow Your Mind!",
+        "The Ultimate Non-Technical Guide to Claude Code",
+        "UPDATE: AI Is Now Closer Than Ever to Automating Content Creation"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/nnBO8gLmqe8/hqdefault.jpg",
-      "representative_video_id": "nnBO8gLmqe8",
-      "representative_title": "챗봇을 넘은 엔지니어링 AI,  MATLAB Copilot, 반도체 불량 분석부터 자율주행 브레이크까지 설계해봤습니다 | Simulink부터 MCP 연결까지"
+      "thumbnail_url": "https://i.ytimg.com/vi/DNg_UEh8r7w/hqdefault.jpg",
+      "representative_video_id": "DNg_UEh8r7w",
+      "representative_title": "50+ Images 2 Tricks That'll Blow Your Mind!"
     },
     {
-      "label": "agents",
+      "label": "다이슨이",
       "count": 1,
-      "avg_view_count": 5985,
-      "avg_engagement_rate": 0.061821219715956555,
-      "avg_like_count": 348,
-      "avg_comment_count": 22,
+      "avg_view_count": 251592,
+      "avg_engagement_rate": 0.014352602626474609,
+      "avg_like_count": 2938,
+      "avg_comment_count": 673,
       "source_titles": [
-        "클로드 디자인 초보자도 완벽하게 잘 쓰는 방법 알려드립니다. 99%가 '시스템' 없이 접근합니다."
+        "다이슨이 만든 15만원짜리 미친 손풍기?? 바로 직구로 사봤습니다 ㅋㅋ"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/gNgHnkJc29M/hqdefault.jpg",
-      "representative_video_id": "gNgHnkJc29M",
-      "representative_title": "클로드 디자인 초보자도 완벽하게 잘 쓰는 방법 알려드립니다. 99%가 '시스템' 없이 접근합니다."
-    },
-    {
-      "label": "Leisures",
-      "count": 1,
-      "avg_view_count": 4223,
-      "avg_engagement_rate": 0.07695950745915227,
-      "avg_like_count": 316,
-      "avg_comment_count": 9,
-      "source_titles": [
-        "Leisure's Not a Luxury. It's a Requirement for Top Leaders"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/a1Sk2LgtJno/hqdefault.jpg",
-      "representative_video_id": "a1Sk2LgtJno",
-      "representative_title": "Leisure's Not a Luxury. It's a Requirement for Top Leaders"
+      "thumbnail_url": "https://i.ytimg.com/vi/rWrig9t4fyc/hqdefault.jpg",
+      "representative_video_id": "rWrig9t4fyc",
+      "representative_title": "다이슨이 만든 15만원짜리 미친 손풍기?? 바로 직구로 사봤습니다 ㅋㅋ"
     },
     {
       "label": "ChatGPT",
       "count": 1,
-      "avg_view_count": 3104,
-      "avg_engagement_rate": 0.07764175257731959,
-      "avg_like_count": 214,
-      "avg_comment_count": 27,
+      "avg_view_count": 17990,
+      "avg_engagement_rate": 0.07654252362423569,
+      "avg_like_count": 1221,
+      "avg_comment_count": 156,
       "source_titles": [
-        "ChatGPT vs DeepSeek vs Claude Make Subway Surfers"
+        "ChatGPT vs Gemini vs Claude Make CS2 From Scratch"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/eO6MHHjrZ30/hqdefault.jpg",
-      "representative_video_id": "eO6MHHjrZ30",
-      "representative_title": "ChatGPT vs DeepSeek vs Claude Make Subway Surfers"
+      "thumbnail_url": "https://i.ytimg.com/vi/hYFaxhxc8dQ/hqdefault.jpg",
+      "representative_video_id": "hYFaxhxc8dQ",
+      "representative_title": "ChatGPT vs Gemini vs Claude Make CS2 From Scratch"
     },
     {
-      "label": "5월",
+      "label": "클로드",
       "count": 1,
-      "avg_view_count": 312,
-      "avg_engagement_rate": 0.016025641025641024,
-      "avg_like_count": 3,
-      "avg_comment_count": 2,
+      "avg_view_count": 10737,
+      "avg_engagement_rate": 0.019465400018627177,
+      "avg_like_count": 209,
+      "avg_comment_count": 0,
       "source_titles": [
-        "5월 4일 빨간날 되는 주파수 #5월공휴일 #5월4일 #임시공휴일"
+        "클로드 코드에 디자인 시스템 세팅하면 퀄리티가 이렇게 됩니다"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/ZF8MItIND8o/hqdefault.jpg",
-      "representative_video_id": "ZF8MItIND8o",
-      "representative_title": "5월 4일 빨간날 되는 주파수 #5월공휴일 #5월4일 #임시공휴일"
+      "thumbnail_url": "https://i.ytimg.com/vi/JkTAh29ijOg/hqdefault.jpg",
+      "representative_video_id": "JkTAh29ijOg",
+      "representative_title": "클로드 코드에 디자인 시스템 세팅하면 퀄리티가 이렇게 됩니다"
+    },
+    {
+      "label": "agents",
+      "count": 1,
+      "avg_view_count": 6492,
+      "avg_engagement_rate": 0.04004929143561306,
+      "avg_like_count": 241,
+      "avg_comment_count": 19,
+      "source_titles": [
+        "메타, MS..그들의 시대는 갔다?"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/rV3etnhuwss/hqdefault.jpg",
+      "representative_video_id": "rV3etnhuwss",
+      "representative_title": "메타, MS..그들의 시대는 갔다?"
+    },
+    {
+      "label": "코딩",
+      "count": 1,
+      "avg_view_count": 1092,
+      "avg_engagement_rate": 0.03663003663003663,
+      "avg_like_count": 39,
+      "avg_comment_count": 1,
+      "source_titles": [
+        "What Actually Drives Customer (and Employee) Behavior"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/rQLJ4b5suxE/hqdefault.jpg",
+      "representative_video_id": "rQLJ4b5suxE",
+      "representative_title": "What Actually Drives Customer (and Employee) Behavior"
     }
   ],
   "video_highlights": [
     {
-      "video_id": "bzO5ibHRzd8",
-      "channel_name": "귀곰",
-      "title": "집까지 바꿔가며 1년을 준비했습니다...",
-      "thumbnail_url": "https://i.ytimg.com/vi/bzO5ibHRzd8/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=bzO5ibHRzd8",
-      "published_at": "2026-04-29T08:58:15Z",
-      "view_count": 89958,
-      "like_count": 2539,
-      "comment_count": 261,
-      "engagement_rate": 0.031125636408101558,
-      "topic_cluster": "집까지",
-      "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "정말 타의 귀곰이 될만하다。",
+      "video_id": "rWrig9t4fyc",
+      "channel_name": "ITSub잇섭",
+      "title": "다이슨이 만든 15만원짜리 미친 손풍기?? 바로 직구로 사봤습니다 ㅋㅋ",
+      "thumbnail_url": "https://i.ytimg.com/vi/rWrig9t4fyc/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=rWrig9t4fyc",
+      "published_at": "2026-04-30T11:01:32Z",
+      "view_count": 251592,
+      "like_count": 2938,
+      "comment_count": 673,
+      "engagement_rate": 0.014352602626474609,
+      "topic_cluster": "다이슨이",
+      "summary": "이 영상은 사례 분석 이슈를 사례 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "오 좋다. 전 다이소꺼 살게요. ㅠㅠ",
+      "hook_type": "수익"
+    },
+    {
+      "video_id": "hYFaxhxc8dQ",
+      "channel_name": "tef",
+      "title": "ChatGPT vs Gemini vs Claude Make CS2 From Scratch",
+      "thumbnail_url": "https://i.ytimg.com/vi/hYFaxhxc8dQ/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=hYFaxhxc8dQ",
+      "published_at": "2026-04-30T01:53:21Z",
+      "view_count": 17990,
+      "like_count": 1221,
+      "comment_count": 156,
+      "engagement_rate": 0.07654252362423569,
+      "topic_cluster": "ChatGPT",
+      "summary": "이 영상은 coding 이슈를 비교 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "Back in the days when Gemini always cooked chatgpt.",
+      "hook_type": "비교"
+    },
+    {
+      "video_id": "JkTAh29ijOg",
+      "channel_name": "빌더 조쉬 Builder Josh",
+      "title": "클로드 코드에 디자인 시스템 세팅하면 퀄리티가 이렇게 됩니다",
+      "thumbnail_url": "https://i.ytimg.com/vi/JkTAh29ijOg/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=JkTAh29ijOg",
+      "published_at": "2026-04-30T09:00:25Z",
+      "view_count": 10737,
+      "like_count": 209,
+      "comment_count": 0,
+      "engagement_rate": 0.019465400018627177,
+      "topic_cluster": "클로드",
+      "summary": "이 영상은 워크플로우 튜토리얼 이슈를 워크플로우 튜토리얼 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "댓글 반응은 아직 약한 편입니다.",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "ufU6EHU6vCw",
-      "channel_name": "주연 ZUYONI",
-      "title": "직원들한테 80만원씩 쐈습니다! 테크채널 PD픽 공개ㅋㅋ (80만 구독자 이벤트)",
-      "thumbnail_url": "https://i.ytimg.com/vi/ufU6EHU6vCw/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=ufU6EHU6vCw",
-      "published_at": "2026-04-29T10:13:14Z",
-      "view_count": 36586,
-      "like_count": 1365,
-      "comment_count": 722,
-      "engagement_rate": 0.0570436779095829,
-      "topic_cluster": "직원들한테",
-      "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "다들 픽해주신 사장님 최고!! 랑 사장님이 미쳤어요로 썸네일 가져옴!!ㅋㅋㅋ 주둥이들아 투표해줘서 고마와~",
-      "hook_type": "긴급성"
+      "video_id": "5p6h23Md4Zw",
+      "channel_name": "The AI Automators",
+      "title": "OpenAI Just Open Sourced Their Agent Orchestrator. The Real Lesson Is The 3 Layers Underneath.",
+      "thumbnail_url": "https://i.ytimg.com/vi/5p6h23Md4Zw/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=5p6h23Md4Zw",
+      "published_at": "2026-04-30T12:09:17Z",
+      "view_count": 7816,
+      "like_count": 298,
+      "comment_count": 9,
+      "engagement_rate": 0.03927840327533265,
+      "topic_cluster": "OpenAI",
+      "summary": "이 영상은 agents 이슈를 비교 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "Nice. I already have a wicked OpenAI agent SDK with a CLI router backed with 4 CLIs but this co…",
+      "hook_type": "문제 해결"
     },
     {
-      "video_id": "SPb14L4NUAg",
-      "channel_name": "안될공학 - IT 테크 신기술",
-      "title": "미국 과학자, 핵실험 관련 11명 실종 사망 사건… 미 정부, FBI까지 움직인 미스터리에 음모설이 나오는 진짜 이유",
-      "thumbnail_url": "https://i.ytimg.com/vi/SPb14L4NUAg/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=SPb14L4NUAg",
-      "published_at": "2026-04-29T06:08:22Z",
-      "view_count": 9675,
-      "like_count": 261,
-      "comment_count": 57,
-      "engagement_rate": 0.032868217054263564,
-      "topic_cluster": "자동화",
-      "summary": "이 영상은 automation 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "\"오라, 우린 자정 능력을 상실했다.\"",
-      "hook_type": "실험"
-    },
-    {
-      "video_id": "nnBO8gLmqe8",
-      "channel_name": "안될공학 - IT 테크 신기술",
-      "title": "챗봇을 넘은 엔지니어링 AI,  MATLAB Copilot, 반도체 불량 분석부터 자율주행 브레이크까지 설계해봤습니다 | Simulink부터 MCP 연결까지",
-      "thumbnail_url": "https://i.ytimg.com/vi/nnBO8gLmqe8/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=nnBO8gLmqe8",
-      "published_at": "2026-04-29T10:01:21Z",
-      "view_count": 6830,
-      "like_count": 213,
-      "comment_count": 16,
-      "engagement_rate": 0.0335285505124451,
-      "topic_cluster": "Claude",
-      "summary": "이 영상은 agents 이슈를 빌드 데모 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "매트랩….매우비싸다….",
-      "hook_type": "실험"
-    },
-    {
-      "video_id": "gNgHnkJc29M",
-      "channel_name": "빌더 조쉬 Builder Josh",
-      "title": "클로드 디자인 초보자도 완벽하게 잘 쓰는 방법 알려드립니다. 99%가 '시스템' 없이 접근합니다.",
-      "thumbnail_url": "https://i.ytimg.com/vi/gNgHnkJc29M/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=gNgHnkJc29M",
-      "published_at": "2026-04-29T02:30:39Z",
-      "view_count": 5985,
-      "like_count": 348,
-      "comment_count": 22,
-      "engagement_rate": 0.061821219715956555,
+      "video_id": "rV3etnhuwss",
+      "channel_name": "월텍남 - 월스트리트 테크남",
+      "title": "메타, MS..그들의 시대는 갔다?",
+      "thumbnail_url": "https://i.ytimg.com/vi/rV3etnhuwss/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=rV3etnhuwss",
+      "published_at": "2026-04-30T13:13:02Z",
+      "view_count": 6492,
+      "like_count": 241,
+      "comment_count": 19,
+      "engagement_rate": 0.04004929143561306,
       "topic_cluster": "agents",
-      "summary": "이 영상은 agents 이슈를 워크플로우 튜토리얼 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "조쉬의 '실행' 중심 연간 멤버십 프로그램 모집 정보를 확인해보세요. :) https://www.solopreneur.co.kr/",
+      "summary": "이 영상은 agents 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "이 사람 AI를 도대체 얼마나 잘쓰는거지? 어떻게 이정도 발표자료랑 영상 퀄리티를 당일로 뽑는건지 ㄹㅇ 대단하다",
       "hook_type": "문제 해결"
     }
   ]
