@@ -1,264 +1,226 @@
 {
-  "digest_date": "2026-05-14",
-  "generated_at": "2026-05-14T00:12:34+00:00",
-  "summary": "최근 24시간 영상 15개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'OpenAI'입니다. 특히 '아무도 몰랐던 갤럭시 키보드 꿀기능!!'는 조회수 37.6K, 참여율 1.7%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "'OpenAI' 주제가 3개 영상으로 가장 많이 다뤄졌습니다. 일반인 관점 직접 실험 or VS 비교 각도로 차별화할 영역이 있습니다.\n[내 채널] 7일 평균 4.1K회 · 지속률 33.4% / 경쟁사 평균 8.4K회 (격차 -51%)",
-  "telegram_preview": "📡 스마트대디 모니터링 | 05/14\n\n📊 수집: 영상 15개 | 채널 11개\n\n🔥 참여율 TOP 3\n1. [주연 ZUYONI] 1.7% · 37.6K뷰\n   아무도 몰랐던 갤럭시 키보드 꿀기능!!\n2. [테크몽 Techmong] 0.5% · 33.8K뷰\n   S26 가격 잘못 본 줄;;\n3. [안될공학 - IT 테크 신기술] 2.8% · 19.7K뷰\n   말하면서 듣는다… AI 글래스, 앱 시장 재편되나 | 미라 무라티가 꺼낸 다음 경쟁축\n\n📌 화제 키워드\n   coding · monetization · agents · automation · research\n\n🎬 포맷: 뉴스 분석 7개 · 워크플로우 튜토리얼 3개 · 빌드 데모 3개\n\n📈 스마트대디 어제 실적\n조회수 5.4K (↑32% vs 7일 평균) | 구독 +5\n시청 지속률 31.7% | 평균 시청 1분 50초\n경쟁사 평균 8.4K회 대비 내 7일 평균 -51%\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
-  "video_count": 15,
-  "total_recent_video_count": 15,
+  "digest_date": "2026-05-15",
+  "generated_at": "2026-05-15T00:05:25+00:00",
+  "summary": "최근 24시간 영상 7개를 기준으로 보면, 오늘 가장 먼저 볼 축은 '최근'입니다. 특히 '최근 몰래 업데이트된 삼성 역대급 기능..'는 조회수 209.3K, 참여율 1.1%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "'최근' 주제가 1개 영상으로 가장 많이 다뤄졌습니다. 일반인 관점 직접 실험 or VS 비교 각도로 차별화할 영역이 있습니다.\n[내 채널] 7일 평균 4.5K회 · 지속률 32.7% / 경쟁사 평균 65.7K회 (격차 -93%)",
+  "telegram_preview": "📡 스마트대디 모니터링 | 05/15\n\n📊 수집: 영상 7개 | 채널 6개\n\n🔥 참여율 TOP 3\n1. [테크몽 Techmong] 1.1% · 209.3K뷰\n   최근 몰래 업데이트된 삼성 역대급 기능..\n2. [ITSub잇섭] 2.1% · 124.3K뷰\n   One UI 9 베타 기습 업데이트?? 과연 무엇이 달라졌을지 총정리해 봤습니다 ㅋㅋ\n3. [주연 ZUYONI] 2.3% · 88.2K뷰\n   지금 S26울트라 사면 후회합니다;; S27 '작트라' 역대급 유출 스펙 총정리\n\n📌 화제 키워드\n   automation · coding · monetization · agents · research\n\n🎬 포맷: 뉴스 분석 4개 · 워크플로우 튜토리얼 2개 · 비교 1개\n\n📈 스마트대디 어제 실적\n조회수 4.3K (↓6% vs 7일 평균) | 구독 +16\n시청 지속률 31.2% | 평균 시청 1분 54초\n경쟁사 평균 65.7K회 대비 내 7일 평균 -93%\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+  "video_count": 7,
+  "total_recent_video_count": 7,
   "focus_scope": "all_watchlist",
-  "average_view_count": 8420.0,
-  "average_engagement_rate": 0.03655608052697638,
-  "average_like_count": 188.0,
-  "average_comment_count": 17.0,
-  "best_video_id": "hpN4DhalOLM",
-  "best_topic": "OpenAI",
+  "average_view_count": 65653.0,
+  "average_engagement_rate": 0.03207289125830909,
+  "average_like_count": 962.0,
+  "average_comment_count": 181.0,
+  "best_video_id": "KGd8Bpx9GKo",
+  "best_topic": "최근",
   "summary_points": [
-    "가장 겹친 주제는 'OpenAI'이며 3개 영상, 평균 조회수 2.3K, 평균 참여율 7.5%입니다.",
-    "최고 실적 영상은 '아무도 몰랐던 갤럭시 키보드 꿀기능!!'이며 문제 해결 훅과 뉴스 분석 포맷 조합이 강했습니다.",
-    "반복 노출된 툴은 Arc 4회, OpenAI 3회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
+    "가장 겹친 주제는 '최근'이며 1개 영상, 평균 조회수 209.3K, 평균 참여율 1.1%입니다.",
+    "최고 실적 영상은 '최근 몰래 업데이트된 삼성 역대급 기능..'이며 문제 해결 훅과 뉴스 분석 포맷 조합이 강했습니다.",
+    "반복 노출된 툴은 Gemini 2회, Arc 2회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
   ],
   "action_chips": [
-    "주제: OpenAI",
+    "주제: 최근",
     "훅: 문제 해결",
     "포맷: 뉴스 분석",
-    "기준 채널: 주연 ZUYONI"
+    "기준 채널: 테크몽 Techmong"
   ],
   "title_suggestions": [
-    "OpenAI 직접 실험 — 이게 진짜 되나?",
-    "OpenAI vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
-    "OpenAI 써봤더니... (기대 vs 현실 솔직 후기)"
+    "최근 직접 실험 — 이게 진짜 되나?",
+    "최근 vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
+    "최근 써봤더니... (기대 vs 현실 솔직 후기)"
   ],
   "recommendations": [
     {
-      "title": "OpenAI 직접 실험 — 이게 진짜 되나?",
+      "title": "최근 직접 실험 — 이게 진짜 되나?",
       "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
       "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
-      "thumbnail_copy": "OpenAI 바로 해결",
+      "thumbnail_copy": "최근 바로 해결",
       "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
-      "source_video_id": "BBg17O2Fa_U",
-      "source": "요즘 개발자들이 다 갈아탄 Codex, 얼마나 좋은지 전부 써보겠습니다.",
-      "my_channel_context": "내 7일 평균 4.1K회 · 지속률 33.4% / 경쟁사 대비 -51%"
-    },
-    {
-      "title": "OpenAI vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
-      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
-      "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
-      "thumbnail_copy": "OpenAI 바로 해결",
-      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
-      "source_video_id": "APaj_XE7Uuk",
-      "source": "This One Prompt Unlocks ChatGPT Images 2.0",
-      "my_channel_context": "내 7일 평균 4.1K회 · 지속률 33.4% / 경쟁사 대비 -51%"
-    },
-    {
-      "title": "OpenAI 써봤더니... (기대 vs 현실 솔직 후기)",
-      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
-      "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
-      "thumbnail_copy": "OpenAI 바로 해결",
-      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
-      "source_video_id": "T8EW3mD626E",
-      "source": "Claude, GPT-5, Gemini 3: Only 1 of 52 Jobs They Can Actually Do",
-      "my_channel_context": "내 7일 평균 4.1K회 · 지속률 33.4% / 경쟁사 대비 -51%"
+      "source_video_id": "KGd8Bpx9GKo",
+      "source": "최근 몰래 업데이트된 삼성 역대급 기능..",
+      "my_channel_context": "내 7일 평균 4.5K회 · 지속률 32.7% / 경쟁사 대비 -93%"
     }
   ],
   "topic_clusters": [
     {
-      "label": "OpenAI",
-      "count": 3,
-      "avg_view_count": 2273,
-      "avg_engagement_rate": 0.07532110035230632,
-      "avg_like_count": 159,
-      "avg_comment_count": 9,
-      "source_titles": [
-        "요즘 개발자들이 다 갈아탄 Codex, 얼마나 좋은지 전부 써보겠습니다.",
-        "This One Prompt Unlocks ChatGPT Images 2.0",
-        "Claude, GPT-5, Gemini 3: Only 1 of 52 Jobs They Can Actually Do"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/BBg17O2Fa_U/hqdefault.jpg",
-      "representative_video_id": "BBg17O2Fa_U",
-      "representative_title": "요즘 개발자들이 다 갈아탄 Codex, 얼마나 좋은지 전부 써보겠습니다."
-    },
-    {
-      "label": "agents",
-      "count": 2,
-      "avg_view_count": 13623,
-      "avg_engagement_rate": 0.03235367875400304,
-      "avg_like_count": 376,
-      "avg_comment_count": 40,
-      "source_titles": [
-        "말하면서 듣는다… AI 글래스, 앱 시장 재편되나 | 미라 무라티가 꺼낸 다음 경쟁축",
-        "에이전트 AI 시대에는 엔비디아 GPU 말고 이게 오릅니다"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/Gqy9pWzJezQ/hqdefault.jpg",
-      "representative_video_id": "Gqy9pWzJezQ",
-      "representative_title": "말하면서 듣는다… AI 글래스, 앱 시장 재편되나 | 미라 무라티가 꺼낸 다음 경쟁축"
-    },
-    {
-      "label": "코딩",
-      "count": 2,
-      "avg_view_count": 955,
-      "avg_engagement_rate": 0.009831054362018195,
-      "avg_like_count": 10,
-      "avg_comment_count": 0,
-      "source_titles": [
-        "Google's Leaked AI Video: Meet NanoBanana! #shorts",
-        "Master AI Systems: Build Complex Projects Now! #shorts"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/H07Ux0F5G7w/hqdefault.jpg",
-      "representative_video_id": "H07Ux0F5G7w",
-      "representative_title": "Google's Leaked AI Video: Meet NanoBanana! #shorts"
-    },
-    {
-      "label": "아무도",
+      "label": "최근",
       "count": 1,
-      "avg_view_count": 37567,
-      "avg_engagement_rate": 0.016663561104160566,
-      "avg_like_count": 596,
+      "avg_view_count": 209332,
+      "avg_engagement_rate": 0.010748476104943344,
+      "avg_like_count": 2184,
+      "avg_comment_count": 66,
+      "source_titles": [
+        "최근 몰래 업데이트된 삼성 역대급 기능.."
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/KGd8Bpx9GKo/hqdefault.jpg",
+      "representative_video_id": "KGd8Bpx9GKo",
+      "representative_title": "최근 몰래 업데이트된 삼성 역대급 기능.."
+    },
+    {
+      "label": "One",
+      "count": 1,
+      "avg_view_count": 124318,
+      "avg_engagement_rate": 0.02147717949130456,
+      "avg_like_count": 2183,
+      "avg_comment_count": 487,
+      "source_titles": [
+        "One UI 9 베타 기습 업데이트?? 과연 무엇이 달라졌을지 총정리해 봤습니다 ㅋㅋ"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/HrIJemu00i0/hqdefault.jpg",
+      "representative_video_id": "HrIJemu00i0",
+      "representative_title": "One UI 9 베타 기습 업데이트?? 과연 무엇이 달라졌을지 총정리해 봤습니다 ㅋㅋ"
+    },
+    {
+      "label": "지금",
+      "count": 1,
+      "avg_view_count": 88249,
+      "avg_engagement_rate": 0.022980430373148703,
+      "avg_like_count": 1498,
+      "avg_comment_count": 530,
+      "source_titles": [
+        "지금 S26울트라 사면 후회합니다;; S27 '작트라' 역대급 유출 스펙 총정리"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/mxehIXd2fgw/hqdefault.jpg",
+      "representative_video_id": "mxehIXd2fgw",
+      "representative_title": "지금 S26울트라 사면 후회합니다;; S27 '작트라' 역대급 유출 스펙 총정리"
+    },
+    {
+      "label": "30시간째",
+      "count": 1,
+      "avg_view_count": 20743,
+      "avg_engagement_rate": 0.03326423371739864,
+      "avg_like_count": 549,
+      "avg_comment_count": 141,
+      "source_titles": [
+        "30시간째 일하는 모습 생중계 중… Figure 03 라이브가 보여준 휴머노이드의 진짜 시험"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/zjufpWNeyhM/hqdefault.jpg",
+      "representative_video_id": "zjufpWNeyhM",
+      "representative_title": "30시간째 일하는 모습 생중계 중… Figure 03 라이브가 보여준 휴머노이드의 진짜 시험"
+    },
+    {
+      "label": "GPU메모리",
+      "count": 1,
+      "avg_view_count": 14282,
+      "avg_engagement_rate": 0.012393222237781823,
+      "avg_like_count": 165,
+      "avg_comment_count": 12,
+      "source_titles": [
+        "GPU/메모리 이후, '이것'이 다음 병목"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/U9zhnUSs8lE/hqdefault.jpg",
+      "representative_video_id": "U9zhnUSs8lE",
+      "representative_title": "GPU/메모리 이후, '이것'이 다음 병목"
+    },
+    {
+      "label": "OpenAI",
+      "count": 1,
+      "avg_view_count": 1617,
+      "avg_engagement_rate": 0.09833024118738404,
+      "avg_like_count": 129,
       "avg_comment_count": 30,
       "source_titles": [
-        "아무도 몰랐던 갤럭시 키보드 꿀기능!!"
+        "Krea 2 makes Diffusion FUN Again!"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/hpN4DhalOLM/hqdefault.jpg",
-      "representative_video_id": "hpN4DhalOLM",
-      "representative_title": "아무도 몰랐던 갤럭시 키보드 꿀기능!!"
-    },
-    {
-      "label": "S26",
-      "count": 1,
-      "avg_view_count": 33750,
-      "avg_engagement_rate": 0.005244444444444445,
-      "avg_like_count": 156,
-      "avg_comment_count": 21,
-      "source_titles": [
-        "S26 가격 잘못 본 줄;;"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/i2Q-UsL2FbQ/hqdefault.jpg",
-      "representative_video_id": "i2Q-UsL2FbQ",
-      "representative_title": "S26 가격 잘못 본 줄;;"
-    },
-    {
-      "label": "ChatGPT",
-      "count": 1,
-      "avg_view_count": 6691,
-      "avg_engagement_rate": 0.047675982663279035,
-      "avg_like_count": 308,
-      "avg_comment_count": 11,
-      "source_titles": [
-        "The 3 Most Important Claude Features Beginners Don’t Know About"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/tkpdPvx65A0/hqdefault.jpg",
-      "representative_video_id": "tkpdPvx65A0",
-      "representative_title": "The 3 Most Important Claude Features Beginners Don’t Know About"
+      "thumbnail_url": "https://i.ytimg.com/vi/asmarZu4Mcw/hqdefault.jpg",
+      "representative_video_id": "asmarZu4Mcw",
+      "representative_title": "Krea 2 makes Diffusion FUN Again!"
     },
     {
       "label": "Claude",
       "count": 1,
-      "avg_view_count": 5638,
-      "avg_engagement_rate": 0.04895352962043278,
-      "avg_like_count": 236,
-      "avg_comment_count": 40,
+      "avg_view_count": 1027,
+      "avg_engagement_rate": 0.02531645569620253,
+      "avg_like_count": 26,
+      "avg_comment_count": 0,
       "source_titles": [
-        "Google Just Leaked This AI Video Model (Seedance 2 Has a Problem)"
+        "Claude, GPT-5, Gemini 3: Only 1 of 52 Jobs They Can Actually Do"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/B43xOmhxgtk/hqdefault.jpg",
-      "representative_video_id": "B43xOmhxgtk",
-      "representative_title": "Google Just Leaked This AI Video Model (Seedance 2 Has a Problem)"
-    },
-    {
-      "label": "localization",
-      "count": 1,
-      "avg_view_count": 3948,
-      "avg_engagement_rate": 0.06864235055724417,
-      "avg_like_count": 223,
-      "avg_comment_count": 48,
-      "source_titles": [
-        "AI 한국 판타지 드라마 | 별을 사냥하는 자들 [1화]"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/PwMRYKR9fuY/hqdefault.jpg",
-      "representative_video_id": "PwMRYKR9fuY",
-      "representative_title": "AI 한국 판타지 드라마 | 별을 사냥하는 자들 [1화]"
+      "thumbnail_url": "https://i.ytimg.com/vi/6X2g4alL250/hqdefault.jpg",
+      "representative_video_id": "6X2g4alL250",
+      "representative_title": "Claude, GPT-5, Gemini 3: Only 1 of 52 Jobs They Can Actually Do"
     }
   ],
   "video_highlights": [
     {
-      "video_id": "hpN4DhalOLM",
-      "channel_name": "주연 ZUYONI",
-      "title": "아무도 몰랐던 갤럭시 키보드 꿀기능!!",
-      "thumbnail_url": "https://i.ytimg.com/vi/hpN4DhalOLM/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=hpN4DhalOLM",
-      "published_at": "2026-05-13T08:01:04Z",
-      "view_count": 37567,
-      "like_count": 596,
-      "comment_count": 30,
-      "engagement_rate": 0.016663561104160566,
-      "topic_cluster": "아무도",
-      "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "와... 이거 진짜 불편했는데 바로 바꿨어요... 감사합니다 😢",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "i2Q-UsL2FbQ",
+      "video_id": "KGd8Bpx9GKo",
       "channel_name": "테크몽 Techmong",
-      "title": "S26 가격 잘못 본 줄;;",
-      "thumbnail_url": "https://i.ytimg.com/vi/i2Q-UsL2FbQ/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=i2Q-UsL2FbQ",
-      "published_at": "2026-05-13T10:04:25Z",
-      "view_count": 33750,
-      "like_count": 156,
-      "comment_count": 21,
-      "engagement_rate": 0.005244444444444445,
-      "topic_cluster": "S26",
+      "title": "최근 몰래 업데이트된 삼성 역대급 기능..",
+      "thumbnail_url": "https://i.ytimg.com/vi/KGd8Bpx9GKo/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=KGd8Bpx9GKo",
+      "published_at": "2026-05-14T10:00:34Z",
+      "view_count": 209332,
+      "like_count": 2184,
+      "comment_count": 66,
+      "engagement_rate": 0.010748476104943344,
+      "topic_cluster": "최근",
       "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "주식마냥 내가 사면 떨어지네",
+      "comment_signal": "유료결제나 이런거 없이 순정으로 갤럭시 스마트폰이나 태블릿으로 데스크탑 원격연결해서 이용할 수 있음 좋겠다 이미 있으려나?",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "Gqy9pWzJezQ",
+      "video_id": "HrIJemu00i0",
+      "channel_name": "ITSub잇섭",
+      "title": "One UI 9 베타 기습 업데이트?? 과연 무엇이 달라졌을지 총정리해 봤습니다 ㅋㅋ",
+      "thumbnail_url": "https://i.ytimg.com/vi/HrIJemu00i0/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=HrIJemu00i0",
+      "published_at": "2026-05-14T11:45:03Z",
+      "view_count": 124318,
+      "like_count": 2183,
+      "comment_count": 487,
+      "engagement_rate": 0.02147717949130456,
+      "topic_cluster": "One",
+      "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "또 플래그십끼리 소프트웨어 급나누기할 삼성이면 개추ㅋㅋㅋ",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "mxehIXd2fgw",
+      "channel_name": "주연 ZUYONI",
+      "title": "지금 S26울트라 사면 후회합니다;; S27 '작트라' 역대급 유출 스펙 총정리",
+      "thumbnail_url": "https://i.ytimg.com/vi/mxehIXd2fgw/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=mxehIXd2fgw",
+      "published_at": "2026-05-14T10:01:24Z",
+      "view_count": 88249,
+      "like_count": 1498,
+      "comment_count": 530,
+      "engagement_rate": 0.022980430373148703,
+      "topic_cluster": "지금",
+      "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "드디어 작트라 나오는구나..빨리 나와라",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "zjufpWNeyhM",
       "channel_name": "안될공학 - IT 테크 신기술",
-      "title": "말하면서 듣는다… AI 글래스, 앱 시장 재편되나 | 미라 무라티가 꺼낸 다음 경쟁축",
-      "thumbnail_url": "https://i.ytimg.com/vi/Gqy9pWzJezQ/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=Gqy9pWzJezQ",
-      "published_at": "2026-05-13T06:00:55Z",
-      "view_count": 19688,
-      "like_count": 509,
-      "comment_count": 46,
-      "engagement_rate": 0.028189760260056887,
-      "topic_cluster": "agents",
-      "summary": "이 영상은 agents 이슈를 빌드 데모 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "이제 Ai랑 일 하려면 목이 아픈 시대가 오겠네요 😂",
-      "hook_type": "문제 해결"
+      "title": "30시간째 일하는 모습 생중계 중… Figure 03 라이브가 보여준 휴머노이드의 진짜 시험",
+      "thumbnail_url": "https://i.ytimg.com/vi/zjufpWNeyhM/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=zjufpWNeyhM",
+      "published_at": "2026-05-14T14:19:34Z",
+      "view_count": 20743,
+      "like_count": 549,
+      "comment_count": 141,
+      "engagement_rate": 0.03326423371739864,
+      "topic_cluster": "30시간째",
+      "summary": "이 영상은 비교 이슈를 비교 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "확실히 쿠팡 냥냥 펀처들은 바로 대체 가능 하겠네",
+      "hook_type": "솔직 검증"
     },
     {
-      "video_id": "_vvJKmH3JFU",
-      "channel_name": "월텍남 - 월스트리트 테크남",
-      "title": "에이전트 AI 시대에는 엔비디아 GPU 말고 이게 오릅니다",
-      "thumbnail_url": "https://i.ytimg.com/vi/_vvJKmH3JFU/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=_vvJKmH3JFU",
-      "published_at": "2026-05-13T09:28:40Z",
-      "view_count": 7558,
-      "like_count": 243,
-      "comment_count": 33,
-      "engagement_rate": 0.036517597247949195,
-      "topic_cluster": "agents",
-      "summary": "이 영상은 agents 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "엔비디아는 그냥 압도적 1황입니다. 시총은 여전히 앞으로도 1위",
+      "video_id": "U9zhnUSs8lE",
+      "channel_name": "안될공학 - IT 테크 신기술",
+      "title": "GPU/메모리 이후, '이것'이 다음 병목",
+      "thumbnail_url": "https://i.ytimg.com/vi/U9zhnUSs8lE/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=U9zhnUSs8lE",
+      "published_at": "2026-05-14T11:12:02Z",
+      "view_count": 14282,
+      "like_count": 165,
+      "comment_count": 12,
+      "engagement_rate": 0.012393222237781823,
+      "topic_cluster": "GPU메모리",
+      "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "이전에 메모리 부족했을때 증설했다가 손해본 경험이있어서 증설을 안하니까. 투자하고 증설하라고 하는듯.",
       "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "tkpdPvx65A0",
-      "channel_name": "Futurepedia",
-      "title": "The 3 Most Important Claude Features Beginners Don’t Know About",
-      "thumbnail_url": "https://i.ytimg.com/vi/tkpdPvx65A0/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=tkpdPvx65A0",
-      "published_at": "2026-05-13T11:01:23Z",
-      "view_count": 6691,
-      "like_count": 308,
-      "comment_count": 11,
-      "engagement_rate": 0.047675982663279035,
-      "topic_cluster": "ChatGPT",
-      "summary": "이 영상은 automation 이슈를 워크플로우 튜토리얼 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "I use it a lot in education. I can make HTML presentations or slideshows. One of the fun featur…",
-      "hook_type": "긴급성"
     }
   ]
 }
