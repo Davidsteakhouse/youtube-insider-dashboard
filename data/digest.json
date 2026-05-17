@@ -1,251 +1,220 @@
 {
-  "digest_date": "2026-05-16",
-  "generated_at": "2026-05-16T00:01:58+00:00",
-  "summary": "최근 24시간 영상 15개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'OpenAI'입니다. 특히 '검수 완료!'는 조회수 49.8K, 참여율 0.5%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "'OpenAI' 주제가 2개 영상으로 가장 많이 다뤄졌습니다. 오늘 수집 영상 15개는 주로 '뉴스 분석' 포맷이라, VS 비교·직접 실험 각도는 아직 비어 있습니다. 일반인 관점 직접 실험 or VS 비교 각도로 차별화할 영역이 있습니다.\n[내 채널] 7일 평균 4.8K회 · 지속률 31.8% / 경쟁사 평균 11.5K회 (격차 -58%)",
-  "telegram_preview": "📡 스마트대디 모니터링 | 05/16\n\n📊 수집: 영상 15개 | 채널 8개\n\n🔥 참여율 TOP 3\n1. [안될공학 - IT 테크 신기술] 0.5% · 49.8K뷰\n   검수 완료!\n2. [주연 ZUYONI] 1.6% · 24.6K뷰\n   방금 카톡 뭐라고 보냈어..?🤔 갤럭시 꿀팁 또 알아옴ㅋㅋ\n3. [안될공학 - IT 테크 신기술] 3.5% · 20.9K뷰\n   TSMC 대신 삼성 인텔. 파운드리와 로봇 제조의 새로운 질서\n\n📌 화제 키워드\n   coding · automation · agents · research · monetization\n\n🎬 포맷: 뉴스 분석 13개 · 워크플로우 튜토리얼 1개 · 빌드 데모 1개\n\n📈 스마트대디 어제 실적\n조회수 4.4K (↓9% vs 7일 평균) | 구독 +19\n시청 지속률 30.8% | 평균 시청 1분 57초\n경쟁사 평균 11.5K회 대비 내 7일 평균 -58%\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
-  "video_count": 15,
-  "total_recent_video_count": 15,
+  "digest_date": "2026-05-17",
+  "generated_at": "2026-05-17T00:01:46+00:00",
+  "summary": "최근 24시간 영상 7개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'Claude'입니다. 특히 '판매와 동시에 전세계 품절시켜버린 스팀 컨트롤러.. 대체 어느 정도길래?;;'는 조회수 206.2K, 참여율 1.5%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "'Claude' 주제가 3개 영상으로 가장 많이 다뤄졌습니다. Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n[내 채널] 7일 평균 4.4K회 · 지속률 31.2% / 경쟁사 평균 34.6K회 (격차 -87%)",
+  "telegram_preview": "📡 스마트대디 모니터링 | 05/17\n\n📊 수집: 영상 7개 | 채널 6개\n\n🔥 참여율 TOP 3\n1. [ITSub잇섭] 1.5% · 206.2K뷰\n   판매와 동시에 전세계 품절시켜버린 스팀 컨트롤러.. 대체 어느 정도길래?;;\n2. [알린 ALINN] 2.1% · 17.9K뷰\n   이것만 알면 전부 다 자동화 가능합니다\n3. [알린 ALINN] 3.7% · 6.8K뷰\n   지금까지 여러분은 잘 못 쓰고 있던 겁니다. 클로드로 24시간 나를 위해 일해주는 AI 시스템 구축하는 법\n\n📌 화제 키워드\n   coding · automation · agents · research\n\n🎬 포맷: 비교 3개 · 워크플로우 튜토리얼 2개 · 빌드 데모 1개\n\n📈 스마트대디 어제 실적\n조회수 3.3K (↓23% vs 7일 평균) | 구독 +2\n시청 지속률 31.0% | 평균 시청 1분 55초\n경쟁사 평균 34.6K회 대비 내 7일 평균 -87%\n\n💡 VS 각도: Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+  "video_count": 7,
+  "total_recent_video_count": 7,
   "focus_scope": "all_watchlist",
-  "average_view_count": 11516.0,
-  "average_engagement_rate": 0.026035878632683866,
-  "average_like_count": 134.0,
-  "average_comment_count": 18.0,
-  "best_video_id": "DR6Po_PD1d4",
-  "best_topic": "OpenAI",
+  "average_view_count": 34592.0,
+  "average_engagement_rate": 0.046159551620707936,
+  "average_like_count": 545.0,
+  "average_comment_count": 69.0,
+  "best_video_id": "iAOktRSvhPM",
+  "best_topic": "Claude",
   "summary_points": [
-    "가장 겹친 주제는 'OpenAI'이며 2개 영상, 평균 조회수 1.1K, 평균 참여율 6.5%입니다.",
-    "최고 실적 영상은 '검수 완료!'이며 문제 해결 훅과 뉴스 분석 포맷 조합이 강했습니다.",
-    "반복 노출된 툴은 ChatGPT 3회, Gemini 3회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
+    "가장 겹친 주제는 'Claude'이며 3개 영상, 평균 조회수 3.2K, 평균 참여율 7.0%입니다.",
+    "최고 실적 영상은 '판매와 동시에 전세계 품절시켜버린 스팀 컨트롤러.. 대체 어느 정도길래?;;'이며 문제 해결 훅과 뉴스 분석 포맷 조합이 강했습니다.",
+    "반복 노출된 툴은 Claude 3회, Arc 1회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
   ],
   "action_chips": [
-    "주제: OpenAI",
+    "주제: Claude",
     "훅: 문제 해결",
     "포맷: 뉴스 분석",
-    "기준 채널: 안될공학 - IT 테크 신기술"
+    "기준 채널: ITSub잇섭"
   ],
   "title_suggestions": [
-    "OpenAI 직접 실험 — 이게 진짜 되나?",
-    "OpenAI vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
-    "OpenAI 써봤더니... (기대 vs 현실 솔직 후기)"
+    "Claude vs ChatGPT, 일반인이 직접 써보니 이게 달랐다",
+    "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
+    "AI 비서 대결: Claude가 진짜 강한 상황은 따로 있었다"
   ],
   "recommendations": [
     {
-      "title": "OpenAI 직접 실험 — 이게 진짜 되나?",
-      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
-      "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
-      "thumbnail_copy": "OpenAI 바로 해결",
-      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
-      "source_video_id": "qCKvWLXrL90",
-      "source": "Your Mouse Pointer Is Getting an AI Brain | Latest in AI",
-      "my_channel_context": "내 7일 평균 4.8K회 · 지속률 31.8% / 경쟁사 대비 -58%"
+      "title": "Claude vs ChatGPT, 일반인이 직접 써보니 이게 달랐다",
+      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
+      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
+      "thumbnail_copy": "Claude 바로 해결",
+      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
+      "source_video_id": "hFlfGjrWiSA",
+      "source": "지금까지 여러분은 잘 못 쓰고 있던 겁니다. 클로드로 24시간 나를 위해 일해주는 AI 시스템 구축하는 법",
+      "my_channel_context": "내 7일 평균 4.4K회 · 지속률 31.2% / 경쟁사 대비 -87%"
     },
     {
-      "title": "OpenAI vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
-      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
-      "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
-      "thumbnail_copy": "OpenAI 바로 해결",
-      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
-      "source_video_id": "kS0k2S5rjX4",
-      "source": "AI Engineering: A Realistic Roadmap for Beginners",
-      "my_channel_context": "내 7일 평균 4.8K회 · 지속률 31.8% / 경쟁사 대비 -58%"
+      "title": "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
+      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
+      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
+      "thumbnail_copy": "Claude 핵심 3가지",
+      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
+      "source_video_id": "VbFOXYovXr4",
+      "source": "Building 100K/Month Website with Only My Phone + AI",
+      "my_channel_context": "내 7일 평균 4.4K회 · 지속률 31.2% / 경쟁사 대비 -87%"
+    },
+    {
+      "title": "AI 비서 대결: Claude가 진짜 강한 상황은 따로 있었다",
+      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
+      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
+      "thumbnail_copy": "Claude 핵심 3가지",
+      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
+      "source_video_id": "-56Ih8-kcJI",
+      "source": "클로드+GPT+힉스필드AI = 효율 끝판왕 미친 광고...",
+      "my_channel_context": "내 7일 평균 4.4K회 · 지속률 31.2% / 경쟁사 대비 -87%"
     }
   ],
   "topic_clusters": [
     {
-      "label": "OpenAI",
-      "count": 2,
-      "avg_view_count": 1132,
-      "avg_engagement_rate": 0.06506864680545585,
-      "avg_like_count": 73,
-      "avg_comment_count": 8,
+      "label": "Claude",
+      "count": 3,
+      "avg_view_count": 3188,
+      "avg_engagement_rate": 0.07044892620076734,
+      "avg_like_count": 154,
+      "avg_comment_count": 21,
       "source_titles": [
-        "Your Mouse Pointer Is Getting an AI Brain | Latest in AI",
-        "AI Engineering: A Realistic Roadmap for Beginners"
+        "지금까지 여러분은 잘 못 쓰고 있던 겁니다. 클로드로 24시간 나를 위해 일해주는 AI 시스템 구축하는 법",
+        "Building 100K/Month Website with Only My Phone + AI",
+        "클로드+GPT+힉스필드AI = 효율 끝판왕 미친 광고..."
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/qCKvWLXrL90/hqdefault.jpg",
-      "representative_video_id": "qCKvWLXrL90",
-      "representative_title": "Your Mouse Pointer Is Getting an AI Brain | Latest in AI"
+      "thumbnail_url": "https://i.ytimg.com/vi/hFlfGjrWiSA/hqdefault.jpg",
+      "representative_video_id": "hFlfGjrWiSA",
+      "representative_title": "지금까지 여러분은 잘 못 쓰고 있던 겁니다. 클로드로 24시간 나를 위해 일해주는 AI 시스템 구축하는 법"
     },
     {
-      "label": "검수",
+      "label": "판매와",
       "count": 1,
-      "avg_view_count": 49800,
-      "avg_engagement_rate": 0.004959839357429719,
-      "avg_like_count": 209,
-      "avg_comment_count": 38,
+      "avg_view_count": 206158,
+      "avg_engagement_rate": 0.014925445532067637,
+      "avg_like_count": 2697,
+      "avg_comment_count": 380,
       "source_titles": [
-        "검수 완료!"
+        "판매와 동시에 전세계 품절시켜버린 스팀 컨트롤러.. 대체 어느 정도길래?;;"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/DR6Po_PD1d4/hqdefault.jpg",
-      "representative_video_id": "DR6Po_PD1d4",
-      "representative_title": "검수 완료!"
-    },
-    {
-      "label": "방금",
-      "count": 1,
-      "avg_view_count": 24621,
-      "avg_engagement_rate": 0.01628690954875919,
-      "avg_like_count": 386,
-      "avg_comment_count": 15,
-      "source_titles": [
-        "방금 카톡 뭐라고 보냈어..?🤔 갤럭시 꿀팁 또 알아옴ㅋㅋ"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/qWCJKnwA9fU/hqdefault.jpg",
-      "representative_video_id": "qWCJKnwA9fU",
-      "representative_title": "방금 카톡 뭐라고 보냈어..?🤔 갤럭시 꿀팁 또 알아옴ㅋㅋ"
+      "thumbnail_url": "https://i.ytimg.com/vi/iAOktRSvhPM/hqdefault.jpg",
+      "representative_video_id": "iAOktRSvhPM",
+      "representative_title": "판매와 동시에 전세계 품절시켜버린 스팀 컨트롤러.. 대체 어느 정도길래?;;"
     },
     {
       "label": "자동화",
       "count": 1,
-      "avg_view_count": 20869,
-      "avg_engagement_rate": 0.03536345776031434,
-      "avg_like_count": 626,
-      "avg_comment_count": 112,
+      "avg_view_count": 17950,
+      "avg_engagement_rate": 0.02072423398328691,
+      "avg_like_count": 369,
+      "avg_comment_count": 3,
       "source_titles": [
-        "TSMC 대신 삼성 인텔. 파운드리와 로봇 제조의 새로운 질서"
+        "이것만 알면 전부 다 자동화 가능합니다"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/dsf2TuoIW08/hqdefault.jpg",
-      "representative_video_id": "dsf2TuoIW08",
-      "representative_title": "TSMC 대신 삼성 인텔. 파운드리와 로봇 제조의 새로운 질서"
+      "thumbnail_url": "https://i.ytimg.com/vi/K1DmtoJrxSo/hqdefault.jpg",
+      "representative_video_id": "K1DmtoJrxSo",
+      "representative_title": "이것만 알면 전부 다 자동화 가능합니다"
     },
     {
-      "label": "베터리가",
+      "label": "삼전",
       "count": 1,
-      "avg_view_count": 18959,
-      "avg_engagement_rate": 0.005696502980114985,
-      "avg_like_count": 87,
-      "avg_comment_count": 21,
+      "avg_view_count": 5468,
+      "avg_engagement_rate": 0.03950256035113387,
+      "avg_like_count": 189,
+      "avg_comment_count": 27,
       "source_titles": [
-        "베터리가 다 될 때까지  주주야야야야"
+        "삼전, 닉스..마이크론 AI수혜주 곧 버블 꺼진다 vs \"아직 2년 남았다\""
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/UrxI6leu9dk/hqdefault.jpg",
-      "representative_video_id": "UrxI6leu9dk",
-      "representative_title": "베터리가 다 될 때까지  주주야야야야"
+      "thumbnail_url": "https://i.ytimg.com/vi/8PUP8ElaU2k/hqdefault.jpg",
+      "representative_video_id": "8PUP8ElaU2k",
+      "representative_title": "삼전, 닉스..마이크론 AI수혜주 곧 버블 꺼진다 vs \"아직 2년 남았다\""
     },
     {
-      "label": "뒤집기",
+      "label": "Arc",
       "count": 1,
-      "avg_view_count": 14827,
-      "avg_engagement_rate": 0.004856005935118365,
-      "avg_like_count": 59,
-      "avg_comment_count": 13,
+      "avg_view_count": 3004,
+      "avg_engagement_rate": 0.03661784287616511,
+      "avg_like_count": 99,
+      "avg_comment_count": 11,
       "source_titles": [
-        "뒤집기 장인"
+        "Apple Just Showed Every AI Builder How To Stop Tool-Calling Errors Before They Execute."
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/ncTud25LkfI/hqdefault.jpg",
-      "representative_video_id": "ncTud25LkfI",
-      "representative_title": "뒤집기 장인"
-    },
-    {
-      "label": "아니",
-      "count": 1,
-      "avg_view_count": 13788,
-      "avg_engagement_rate": 0.005149405279953583,
-      "avg_like_count": 62,
-      "avg_comment_count": 9,
-      "source_titles": [
-        "??: 아니, 비닐 이 자식이..."
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/k1Wk07sWcIg/hqdefault.jpg",
-      "representative_video_id": "k1Wk07sWcIg",
-      "representative_title": "??: 아니, 비닐 이 자식이..."
-    },
-    {
-      "label": "아",
-      "count": 1,
-      "avg_view_count": 11962,
-      "avg_engagement_rate": 0.009362982778799532,
-      "avg_like_count": 94,
-      "avg_comment_count": 18,
-      "source_titles": [
-        "아, 쥐났어 잠시만요"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/2POp_I1JVWQ/hqdefault.jpg",
-      "representative_video_id": "2POp_I1JVWQ",
-      "representative_title": "아, 쥐났어 잠시만요"
+      "thumbnail_url": "https://i.ytimg.com/vi/0pkj4FRaKHw/hqdefault.jpg",
+      "representative_video_id": "0pkj4FRaKHw",
+      "representative_title": "Apple Just Showed Every AI Builder How To Stop Tool-Calling Errors Before They Execute."
     }
   ],
   "video_highlights": [
     {
-      "video_id": "DR6Po_PD1d4",
-      "channel_name": "안될공학 - IT 테크 신기술",
-      "title": "검수 완료!",
-      "thumbnail_url": "https://i.ytimg.com/vi/DR6Po_PD1d4/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=DR6Po_PD1d4",
-      "published_at": "2026-05-15T05:29:55Z",
-      "view_count": 49800,
-      "like_count": 209,
-      "comment_count": 38,
-      "engagement_rate": 0.004959839357429719,
-      "topic_cluster": "검수",
+      "video_id": "iAOktRSvhPM",
+      "channel_name": "ITSub잇섭",
+      "title": "판매와 동시에 전세계 품절시켜버린 스팀 컨트롤러.. 대체 어느 정도길래?;;",
+      "thumbnail_url": "https://i.ytimg.com/vi/iAOktRSvhPM/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=iAOktRSvhPM",
+      "published_at": "2026-05-16T11:15:37Z",
+      "view_count": 206158,
+      "like_count": 2697,
+      "comment_count": 380,
+      "engagement_rate": 0.014925445532067637,
+      "topic_cluster": "판매와",
       "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "역시 사람같은 면이 있다니깐요",
+      "comment_signal": "인트로 연기 아닌거 같은데 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "qWCJKnwA9fU",
-      "channel_name": "주연 ZUYONI",
-      "title": "방금 카톡 뭐라고 보냈어..?🤔 갤럭시 꿀팁 또 알아옴ㅋㅋ",
-      "thumbnail_url": "https://i.ytimg.com/vi/qWCJKnwA9fU/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=qWCJKnwA9fU",
-      "published_at": "2026-05-15T09:01:10Z",
-      "view_count": 24621,
-      "like_count": 386,
-      "comment_count": 15,
-      "engagement_rate": 0.01628690954875919,
-      "topic_cluster": "방금",
-      "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "연주님 점점이뻐지시네요",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "dsf2TuoIW08",
-      "channel_name": "안될공학 - IT 테크 신기술",
-      "title": "TSMC 대신 삼성 인텔. 파운드리와 로봇 제조의 새로운 질서",
-      "thumbnail_url": "https://i.ytimg.com/vi/dsf2TuoIW08/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=dsf2TuoIW08",
-      "published_at": "2026-05-15T07:58:44Z",
-      "view_count": 20869,
-      "like_count": 626,
-      "comment_count": 112,
-      "engagement_rate": 0.03536345776031434,
+      "video_id": "K1DmtoJrxSo",
+      "channel_name": "알린 ALINN",
+      "title": "이것만 알면 전부 다 자동화 가능합니다",
+      "thumbnail_url": "https://i.ytimg.com/vi/K1DmtoJrxSo/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=K1DmtoJrxSo",
+      "published_at": "2026-05-16T02:23:31Z",
+      "view_count": 17950,
+      "like_count": 369,
+      "comment_count": 3,
+      "engagement_rate": 0.02072423398328691,
       "topic_cluster": "자동화",
-      "summary": "이 영상은 automation 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "AI발을 순간 욕으로 봤네요",
+      "summary": "이 영상은 automation 이슈를 워크플로우 튜토리얼 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "금액 비싸져서 다시 돌아와야할듯요 ㅎㅎㅎ",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "UrxI6leu9dk",
-      "channel_name": "안될공학 - IT 테크 신기술",
-      "title": "베터리가 다 될 때까지  주주야야야야",
-      "thumbnail_url": "https://i.ytimg.com/vi/UrxI6leu9dk/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=UrxI6leu9dk",
-      "published_at": "2026-05-15T06:37:08Z",
-      "view_count": 18959,
-      "like_count": 87,
-      "comment_count": 21,
-      "engagement_rate": 0.005696502980114985,
-      "topic_cluster": "베터리가",
-      "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "어이 김씨 식사하고 와 맛있어❤",
+      "video_id": "hFlfGjrWiSA",
+      "channel_name": "알린 ALINN",
+      "title": "지금까지 여러분은 잘 못 쓰고 있던 겁니다. 클로드로 24시간 나를 위해 일해주는 AI 시스템 구축하는 법",
+      "thumbnail_url": "https://i.ytimg.com/vi/hFlfGjrWiSA/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=hFlfGjrWiSA",
+      "published_at": "2026-05-16T02:23:27Z",
+      "view_count": 6803,
+      "like_count": 233,
+      "comment_count": 20,
+      "engagement_rate": 0.03718947523151551,
+      "topic_cluster": "Claude",
+      "summary": "이 영상은 agents 이슈를 워크플로우 튜토리얼 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "로컬PC에서 vscode+코덱스에이전트 쓰면 공짜로도 어느정도 사용가능 4시간째 사용중인데도 사용중",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "ncTud25LkfI",
-      "channel_name": "안될공학 - IT 테크 신기술",
-      "title": "뒤집기 장인",
-      "thumbnail_url": "https://i.ytimg.com/vi/ncTud25LkfI/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=ncTud25LkfI",
-      "published_at": "2026-05-15T06:54:13Z",
-      "view_count": 14827,
-      "like_count": 59,
-      "comment_count": 13,
-      "engagement_rate": 0.004856005935118365,
-      "topic_cluster": "뒤집기",
-      "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "개인정보 보호에 최적화된 로봇.",
-      "hook_type": "문제 해결"
+      "video_id": "8PUP8ElaU2k",
+      "channel_name": "월텍남 - 월스트리트 테크남",
+      "title": "삼전, 닉스..마이크론 AI수혜주 곧 버블 꺼진다 vs \"아직 2년 남았다\"",
+      "thumbnail_url": "https://i.ytimg.com/vi/8PUP8ElaU2k/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=8PUP8ElaU2k",
+      "published_at": "2026-05-16T00:45:20Z",
+      "view_count": 5468,
+      "like_count": 189,
+      "comment_count": 27,
+      "engagement_rate": 0.03950256035113387,
+      "topic_cluster": "삼전",
+      "summary": "이 영상은 비교 이슈를 비교 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "마이클버리는 이제 관심을 그만 줄 때가 된 것 같음...",
+      "hook_type": "비교"
+    },
+    {
+      "video_id": "0pkj4FRaKHw",
+      "channel_name": "The AI Automators",
+      "title": "Apple Just Showed Every AI Builder How To Stop Tool-Calling Errors Before They Execute.",
+      "thumbnail_url": "https://i.ytimg.com/vi/0pkj4FRaKHw/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=0pkj4FRaKHw",
+      "published_at": "2026-05-16T12:00:07Z",
+      "view_count": 3004,
+      "like_count": 99,
+      "comment_count": 11,
+      "engagement_rate": 0.03661784287616511,
+      "topic_cluster": "Arc",
+      "summary": "이 영상은 agents 이슈를 비교 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "What we need is a third agent that corrects the reviewer agent, and of course a fourth one to c…",
+      "hook_type": "실험"
     }
   ]
 }
