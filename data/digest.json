@@ -1,251 +1,249 @@
 {
-  "digest_date": "2026-05-20",
-  "generated_at": "2026-05-20T00:16:34+00:00",
-  "summary": "최근 24시간 영상 10개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'Claude'입니다. 특히 '삼성 애플도 얼른 내주라'는 조회수 113.2K, 참여율 1.1%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "'Claude' 주제가 2개 영상으로 가장 많이 다뤄졌습니다. Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n[내 채널] 7일 평균 4.2K회 · 지속률 32.8% / 경쟁사 평균 21.8K회 (격차 -81%)",
-  "telegram_preview": "📡 스마트대디 모니터링 | 05/20\n\n📊 수집: 영상 10개 | 채널 5개\n\n🔥 참여율 TOP 3\n1. [테크몽 Techmong] 1.1% · 113.2K뷰\n   삼성 애플도 얼른 내주라\n2. [주연 ZUYONI] 2.0% · 71.5K뷰\n   맥북 존버 끝내세요. “지금 아니면 못 산다”가 현실이 된 상황\n3. [안될공학 - IT 테크 신기술] 0.9% · 17.4K뷰\n   로봇vs인간 승자는 누구?\n\n📌 화제 키워드\n   agents · automation · coding · research\n\n🎬 포맷: 뉴스 분석 6개 · 빌드 데모 2개 · 비교 2개\n\n📈 스마트대디 어제 실적\n조회수 4.5K (↑7% vs 7일 평균) | 구독 +33\n시청 지속률 31.8% | 평균 시청 2분 00초\n경쟁사 평균 21.8K회 대비 내 7일 평균 -81%\n\n💡 VS 각도: Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
-  "video_count": 10,
-  "total_recent_video_count": 10,
+  "digest_date": "2026-05-21",
+  "generated_at": "2026-05-21T00:15:36+00:00",
+  "summary": "최근 24시간 영상 13개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'OpenAI'입니다. 특히 '80만 테크채널 구독자들이 고른 전자기기 1위는?! (진짜 의외임;;)'는 조회수 29.1K, 참여율 2.6%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "'OpenAI' 주제가 6개 영상으로 가장 많이 다뤄졌습니다. 일반인 관점 직접 실험 or VS 비교 각도로 차별화할 영역이 있습니다.\n[내 채널] 7일 평균 4.2K회 · 지속률 32.2% / 경쟁사 평균 8.3K회 (격차 -50%)",
+  "telegram_preview": "📡 스마트대디 모니터링 | 05/21\n\n📊 수집: 영상 13개 | 채널 12개\n\n🔥 참여율 TOP 3\n1. [주연 ZUYONI] 2.6% · 29.1K뷰\n   80만 테크채널 구독자들이 고른 전자기기 1위는?! (진짜 의외임;;)\n2. [AI Explained] 5.5% · 24.7K뷰\n   Two Rival Bets on AGI: Google I/O Highlights\n3. [안될공학 - IT 테크 신기술] 3.4% · 22.5K뷰\n   구글이 드디어… TPU부터 AI서비스, 플랫폼 장악 시작 | 구글 IO 2026 키노트 분석\n\n📌 화제 키워드\n   agents · coding · automation · research · monetization\n\n🎬 포맷: 뉴스 분석 5개 · 워크플로우 튜토리얼 3개 · 빌드 데모 3개\n\n📈 스마트대디 어제 실적\n조회수 3.2K (↓22% vs 7일 평균) | 구독 +14\n시청 지속률 28.7% | 평균 시청 1분 58초\n경쟁사 평균 8.3K회 대비 내 7일 평균 -50%\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+  "video_count": 13,
+  "total_recent_video_count": 13,
   "focus_scope": "all_watchlist",
-  "average_view_count": 21831.0,
-  "average_engagement_rate": 0.021929611596489738,
-  "average_like_count": 258.0,
-  "average_comment_count": 57.0,
-  "best_video_id": "WDgiK7ZzBy8",
-  "best_topic": "Claude",
+  "average_view_count": 8326.0,
+  "average_engagement_rate": 0.052607462596590396,
+  "average_like_count": 345.0,
+  "average_comment_count": 40.0,
+  "best_video_id": "t17KC6rvC9Q",
+  "best_topic": "OpenAI",
   "summary_points": [
-    "가장 겹친 주제는 'Claude'이며 2개 영상, 평균 조회수 1.9K, 평균 참여율 6.6%입니다.",
-    "최고 실적 영상은 '삼성 애플도 얼른 내주라'이며 문제 해결 훅과 뉴스 분석 포맷 조합이 강했습니다.",
-    "반복 노출된 툴은 Gemini 2회, Claude 2회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
+    "가장 겹친 주제는 'OpenAI'이며 6개 영상, 평균 조회수 5.6K, 평균 참여율 5.1%입니다.",
+    "최고 실적 영상은 '80만 테크채널 구독자들이 고른 전자기기 1위는?! (진짜 의외임;;)'이며 솔직 검증 훅과 뉴스 분석 포맷 조합이 강했습니다.",
+    "반복 노출된 툴은 Claude 7회, OpenAI 6회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
   ],
   "action_chips": [
-    "주제: Claude",
-    "훅: 문제 해결",
+    "주제: OpenAI",
+    "훅: 솔직 검증",
     "포맷: 뉴스 분석",
-    "기준 채널: 테크몽 Techmong"
+    "기준 채널: 주연 ZUYONI"
   ],
   "title_suggestions": [
-    "Claude vs ChatGPT, 일반인이 직접 써보니 이게 달랐다",
-    "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
-    "AI 비서 대결: Claude가 진짜 강한 상황은 따로 있었다"
+    "OpenAI 직접 실험 — 이게 진짜 되나?",
+    "OpenAI vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
+    "OpenAI 써봤더니... (기대 vs 현실 솔직 후기)"
   ],
   "recommendations": [
     {
-      "title": "Claude vs ChatGPT, 일반인이 직접 써보니 이게 달랐다",
-      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "Claude 핵심 3가지",
-      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
-      "source_video_id": "kN4Hm0azqH0",
-      "source": "How I Farm Money On The App Store Using AI (you can too)",
-      "my_channel_context": "내 7일 평균 4.2K회 · 지속률 32.8% / 경쟁사 대비 -81%"
+      "title": "OpenAI 직접 실험 — 이게 진짜 되나?",
+      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
+      "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
+      "thumbnail_copy": "OpenAI 바로 해결",
+      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
+      "source_video_id": "o_av1b9rs2g",
+      "source": "Two Rival Bets on AGI: Google I/O Highlights",
+      "my_channel_context": "내 7일 평균 4.2K회 · 지속률 32.2% / 경쟁사 대비 -50%"
     },
     {
-      "title": "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
-      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "Claude 뭐가 다를까?",
-      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
-      "source_video_id": "N05mgdPQIos",
-      "source": "Agentic AI Engineer vs Vibe Coder (65% Trap)",
-      "my_channel_context": "내 7일 평균 4.2K회 · 지속률 32.8% / 경쟁사 대비 -81%"
+      "title": "OpenAI vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
+      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
+      "angle": "큰 주제 하나를 대표 제목으로 세우고, 나머지 포인트는 보조 정보처럼 정리하는 압축형 포장이 좋습니다.",
+      "thumbnail_copy": "OpenAI 핵심 3가지",
+      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
+      "source_video_id": "XZ7TAKWthf8",
+      "source": "Codex 신기능 /goal로 실시간 회의록 앱 제작해봤습니다 (feat. Openai)",
+      "my_channel_context": "내 7일 평균 4.2K회 · 지속률 32.2% / 경쟁사 대비 -50%"
+    },
+    {
+      "title": "OpenAI 써봤더니... (기대 vs 현실 솔직 후기)",
+      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
+      "angle": "큰 주제 하나를 대표 제목으로 세우고, 나머지 포인트는 보조 정보처럼 정리하는 압축형 포장이 좋습니다.",
+      "thumbnail_copy": "OpenAI 지금 봐야 함",
+      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
+      "source_video_id": "ZDfNfEGo7Fc",
+      "source": "Codex가 최고라는 소문 직접 검증합니다, 세팅부터 실전 앱 개발까지 전 과정 공개 (feat. OpenAI)",
+      "my_channel_context": "내 7일 평균 4.2K회 · 지속률 32.2% / 경쟁사 대비 -50%"
     }
   ],
   "topic_clusters": [
     {
-      "label": "Claude",
+      "label": "OpenAI",
+      "count": 6,
+      "avg_view_count": 5574,
+      "avg_engagement_rate": 0.05123643804288119,
+      "avg_like_count": 254,
+      "avg_comment_count": 28,
+      "source_titles": [
+        "Two Rival Bets on AGI: Google I/O Highlights",
+        "Codex 신기능 /goal로 실시간 회의록 앱 제작해봤습니다 (feat. Openai)",
+        "Codex가 최고라는 소문 직접 검증합니다, 세팅부터 실전 앱 개발까지 전 과정 공개 (feat. OpenAI)"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/o_av1b9rs2g/hqdefault.jpg",
+      "representative_video_id": "o_av1b9rs2g",
+      "representative_title": "Two Rival Bets on AGI: Google I/O Highlights"
+    },
+    {
+      "label": "ChatGPT",
       "count": 2,
-      "avg_view_count": 1895,
-      "avg_engagement_rate": 0.06633622860020141,
-      "avg_like_count": 96,
-      "avg_comment_count": 15,
-      "source_titles": [
-        "How I Farm Money On The App Store Using AI (you can too)",
-        "Agentic AI Engineer vs Vibe Coder (65% Trap)"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/kN4Hm0azqH0/hqdefault.jpg",
-      "representative_video_id": "kN4Hm0azqH0",
-      "representative_title": "How I Farm Money On The App Store Using AI (you can too)"
-    },
-    {
-      "label": "삼성",
-      "count": 1,
-      "avg_view_count": 113193,
-      "avg_engagement_rate": 0.01076038270917813,
-      "avg_like_count": 998,
-      "avg_comment_count": 220,
-      "source_titles": [
-        "삼성 애플도 얼른 내주라"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/WDgiK7ZzBy8/hqdefault.jpg",
-      "representative_video_id": "WDgiK7ZzBy8",
-      "representative_title": "삼성 애플도 얼른 내주라"
-    },
-    {
-      "label": "맥북",
-      "count": 1,
-      "avg_view_count": 71484,
-      "avg_engagement_rate": 0.019808628504280678,
-      "avg_like_count": 1191,
-      "avg_comment_count": 225,
-      "source_titles": [
-        "맥북 존버 끝내세요. “지금 아니면 못 산다”가 현실이 된 상황"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/u_4OMBtthtY/hqdefault.jpg",
-      "representative_video_id": "u_4OMBtthtY",
-      "representative_title": "맥북 존버 끝내세요. “지금 아니면 못 산다”가 현실이 된 상황"
-    },
-    {
-      "label": "로봇vs인간",
-      "count": 1,
-      "avg_view_count": 17428,
-      "avg_engagement_rate": 0.009410144594904751,
-      "avg_like_count": 81,
-      "avg_comment_count": 83,
-      "source_titles": [
-        "로봇vs인간 승자는 누구?"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/f0ZHF0RoThM/hqdefault.jpg",
-      "representative_video_id": "f0ZHF0RoThM",
-      "representative_title": "로봇vs인간 승자는 누구?"
-    },
-    {
-      "label": "새로",
-      "count": 1,
-      "avg_view_count": 5055,
-      "avg_engagement_rate": 0.011078140454995054,
-      "avg_like_count": 54,
+      "avg_view_count": 1662,
+      "avg_engagement_rate": 0.03463389952111886,
+      "avg_like_count": 35,
       "avg_comment_count": 2,
       "source_titles": [
-        "새로 나온 구글 생성형 비디오 물리엔진 표현력 미쳤다"
+        "Claude Code Agent View Explained",
+        "This Open Source Repo Just Cloned Claude Design(and its better)"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/KpHGD2l7eW8/hqdefault.jpg",
-      "representative_video_id": "KpHGD2l7eW8",
-      "representative_title": "새로 나온 구글 생성형 비디오 물리엔진 표현력 미쳤다"
+      "thumbnail_url": "https://i.ytimg.com/vi/bYyU7tpuVmY/hqdefault.jpg",
+      "representative_video_id": "bYyU7tpuVmY",
+      "representative_title": "Claude Code Agent View Explained"
+    },
+    {
+      "label": "80만",
+      "count": 1,
+      "avg_view_count": 29069,
+      "avg_engagement_rate": 0.025697478413430116,
+      "avg_like_count": 663,
+      "avg_comment_count": 84,
+      "source_titles": [
+        "80만 테크채널 구독자들이 고른 전자기기 1위는?! (진짜 의외임;;)"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/t17KC6rvC9Q/hqdefault.jpg",
+      "representative_video_id": "t17KC6rvC9Q",
+      "representative_title": "80만 테크채널 구독자들이 고른 전자기기 1위는?! (진짜 의외임;;)"
     },
     {
       "label": "Gemini",
       "count": 1,
-      "avg_view_count": 2733,
-      "avg_engagement_rate": 0.009879253567508232,
-      "avg_like_count": 26,
-      "avg_comment_count": 1,
+      "avg_view_count": 22534,
+      "avg_engagement_rate": 0.03425934143960238,
+      "avg_like_count": 657,
+      "avg_comment_count": 115,
       "source_titles": [
-        "구글의 새로운 생성형 비디오 모델 Gemini Omni"
+        "구글이 드디어… TPU부터 AI서비스, 플랫폼 장악 시작 | 구글 IO 2026 키노트 분석"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/qQCKfioMDDs/hqdefault.jpg",
-      "representative_video_id": "qQCKfioMDDs",
-      "representative_title": "구글의 새로운 생성형 비디오 모델 Gemini Omni"
+      "thumbnail_url": "https://i.ytimg.com/vi/rg3kpGMr4js/hqdefault.jpg",
+      "representative_video_id": "rg3kpGMr4js",
+      "representative_title": "구글이 드디어… TPU부터 AI서비스, 플랫폼 장악 시작 | 구글 IO 2026 키노트 분석"
     },
     {
-      "label": "구글",
+      "label": "Claude",
       "count": 1,
-      "avg_view_count": 2081,
-      "avg_engagement_rate": 0.012974531475252283,
-      "avg_like_count": 23,
-      "avg_comment_count": 4,
+      "avg_view_count": 12446,
+      "avg_engagement_rate": 0.09529165997107504,
+      "avg_like_count": 1106,
+      "avg_comment_count": 80,
       "source_titles": [
-        "구글 검색 엔진 이렇게나 바뀐다고?"
+        "Google Omni Does What Every AI Creator Has Been Waiting For"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/1lAn1AgxuZ8/hqdefault.jpg",
-      "representative_video_id": "1lAn1AgxuZ8",
-      "representative_title": "구글 검색 엔진 이렇게나 바뀐다고?"
+      "thumbnail_url": "https://i.ytimg.com/vi/LKig4_qePxo/hqdefault.jpg",
+      "representative_video_id": "LKig4_qePxo",
+      "representative_title": "Google Omni Does What Every AI Creator Has Been Waiting For"
     },
     {
-      "label": "영화",
+      "label": "agents",
       "count": 1,
-      "avg_view_count": 1356,
-      "avg_engagement_rate": 0.005162241887905605,
-      "avg_like_count": 5,
-      "avg_comment_count": 2,
+      "avg_view_count": 4421,
+      "avg_engagement_rate": 0.05767925808640579,
+      "avg_like_count": 231,
+      "avg_comment_count": 24,
       "source_titles": [
-        "영화 제작자를 위해 만들어진 Google Flow, 이제 나도 쓸 수 있다고?"
+        "상위 0.1% '기술 귀족'만 살아남는 시대, 당장 이 2가지를 시작하세요."
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/FYUFCu8E5Q4/hqdefault.jpg",
-      "representative_video_id": "FYUFCu8E5Q4",
-      "representative_title": "영화 제작자를 위해 만들어진 Google Flow, 이제 나도 쓸 수 있다고?"
+      "thumbnail_url": "https://i.ytimg.com/vi/uBX7PZvwoNs/hqdefault.jpg",
+      "representative_video_id": "uBX7PZvwoNs",
+      "representative_title": "상위 0.1% '기술 귀족'만 살아남는 시대, 당장 이 2가지를 시작하세요."
+    },
+    {
+      "label": "Cursor",
+      "count": 1,
+      "avg_view_count": 2991,
+      "avg_engagement_rate": 0.09428284854563691,
+      "avg_like_count": 237,
+      "avg_comment_count": 45,
+      "source_titles": [
+        "I Built a 10K/Month Website with Only AI"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/PdtlYP1uvws/hqdefault.jpg",
+      "representative_video_id": "PdtlYP1uvws",
+      "representative_title": "I Built a 10K/Month Website with Only AI"
     }
   ],
   "video_highlights": [
     {
-      "video_id": "WDgiK7ZzBy8",
-      "channel_name": "테크몽 Techmong",
-      "title": "삼성 애플도 얼른 내주라",
-      "thumbnail_url": "https://i.ytimg.com/vi/WDgiK7ZzBy8/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=WDgiK7ZzBy8",
-      "published_at": "2026-05-19T11:05:43Z",
-      "view_count": 113193,
-      "like_count": 998,
-      "comment_count": 220,
-      "engagement_rate": 0.01076038270917813,
-      "topic_cluster": "삼성",
-      "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "이거 느낌이 옛날 LG 뷰3.... 좋은데?",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "u_4OMBtthtY",
+      "video_id": "t17KC6rvC9Q",
       "channel_name": "주연 ZUYONI",
-      "title": "맥북 존버 끝내세요. “지금 아니면 못 산다”가 현실이 된 상황",
-      "thumbnail_url": "https://i.ytimg.com/vi/u_4OMBtthtY/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=u_4OMBtthtY",
-      "published_at": "2026-05-19T10:01:12Z",
-      "view_count": 71484,
-      "like_count": 1191,
-      "comment_count": 225,
-      "engagement_rate": 0.019808628504280678,
-      "topic_cluster": "맥북",
+      "title": "80만 테크채널 구독자들이 고른 전자기기 1위는?! (진짜 의외임;;)",
+      "thumbnail_url": "https://i.ytimg.com/vi/t17KC6rvC9Q/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=t17KC6rvC9Q",
+      "published_at": "2026-05-20T09:01:04Z",
+      "view_count": 29069,
+      "like_count": 663,
+      "comment_count": 84,
+      "engagement_rate": 0.025697478413430116,
+      "topic_cluster": "80만",
       "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "맥미니 m4pro 64gb램 2월에 주문했는데, 4월 1추차 배송예정 -> 6월 1주차 -> 7월 4주차로 배송 예정으로 연기됐다가 어제 주문 취소통보 받았습니다.. 슬프…",
+      "comment_signal": "사실상 선물 받으면 좋은 제품들 순위ㅋㅋ",
       "hook_type": "솔직 검증"
     },
     {
-      "video_id": "f0ZHF0RoThM",
-      "channel_name": "안될공학 - IT 테크 신기술",
-      "title": "로봇vs인간 승자는 누구?",
-      "thumbnail_url": "https://i.ytimg.com/vi/f0ZHF0RoThM/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=f0ZHF0RoThM",
-      "published_at": "2026-05-19T02:23:18Z",
-      "view_count": 17428,
-      "like_count": 81,
-      "comment_count": 83,
-      "engagement_rate": 0.009410144594904751,
-      "topic_cluster": "로봇vs인간",
-      "summary": "이 영상은 비교 이슈를 비교 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "로봇은 파업도 안하고 밤낮도 없고 주말도 없지. 그리고...로봇은 이제 시작이야",
-      "hook_type": "비교"
-    },
-    {
-      "video_id": "KpHGD2l7eW8",
-      "channel_name": "안될공학 - IT 테크 신기술",
-      "title": "새로 나온 구글 생성형 비디오 물리엔진 표현력 미쳤다",
-      "thumbnail_url": "https://i.ytimg.com/vi/KpHGD2l7eW8/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=KpHGD2l7eW8",
-      "published_at": "2026-05-19T19:54:29Z",
-      "view_count": 5055,
-      "like_count": 54,
-      "comment_count": 2,
-      "engagement_rate": 0.011078140454995054,
-      "topic_cluster": "새로",
-      "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "팬이 두개로 분리되고, 팬본체도 사라지고 난리치는데 아직 허접하고만",
+      "video_id": "o_av1b9rs2g",
+      "channel_name": "AI Explained",
+      "title": "Two Rival Bets on AGI: Google I/O Highlights",
+      "thumbnail_url": "https://i.ytimg.com/vi/o_av1b9rs2g/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=o_av1b9rs2g",
+      "published_at": "2026-05-20T16:50:34Z",
+      "view_count": 24703,
+      "like_count": 1229,
+      "comment_count": 142,
+      "engagement_rate": 0.055499332064931385,
+      "topic_cluster": "OpenAI",
+      "summary": "이 영상은 agents 이슈를 비교 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "The flex in making a whole video just to show that Andrej Karpathy follows you on Twitter... 😆",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "kN4Hm0azqH0",
-      "channel_name": "All About AI",
-      "title": "How I Farm Money On The App Store Using AI (you can too)",
-      "thumbnail_url": "https://i.ytimg.com/vi/kN4Hm0azqH0/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=kN4Hm0azqH0",
-      "published_at": "2026-05-19T14:00:52Z",
-      "view_count": 3310,
-      "like_count": 164,
-      "comment_count": 20,
-      "engagement_rate": 0.05558912386706949,
-      "topic_cluster": "Claude",
+      "video_id": "rg3kpGMr4js",
+      "channel_name": "안될공학 - IT 테크 신기술",
+      "title": "구글이 드디어… TPU부터 AI서비스, 플랫폼 장악 시작 | 구글 IO 2026 키노트 분석",
+      "thumbnail_url": "https://i.ytimg.com/vi/rg3kpGMr4js/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=rg3kpGMr4js",
+      "published_at": "2026-05-20T13:00:17Z",
+      "view_count": 22534,
+      "like_count": 657,
+      "comment_count": 115,
+      "engagement_rate": 0.03425934143960238,
+      "topic_cluster": "Gemini",
       "summary": "이 영상은 agents 이슈를 빌드 데모 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "how ya getting downloads if people dont learn about it?",
-      "hook_type": "수익"
+      "comment_signal": "3.5 프로가 가격 올리고 구리게 나오면 진짜 난리날듯 3.5 플래시는 진짜 기대 미만이었음...",
+      "hook_type": "긴급성"
+    },
+    {
+      "video_id": "LKig4_qePxo",
+      "channel_name": "AI Samson",
+      "title": "Google Omni Does What Every AI Creator Has Been Waiting For",
+      "thumbnail_url": "https://i.ytimg.com/vi/LKig4_qePxo/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=LKig4_qePxo",
+      "published_at": "2026-05-20T16:44:24Z",
+      "view_count": 12446,
+      "like_count": 1106,
+      "comment_count": 80,
+      "engagement_rate": 0.09529165997107504,
+      "topic_cluster": "Claude",
+      "summary": "이 영상은 agents 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "I can’t make anything because of the mindboggling degree of censorship.",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "uBX7PZvwoNs",
+      "channel_name": "월텍남 - 월스트리트 테크남",
+      "title": "상위 0.1% '기술 귀족'만 살아남는 시대, 당장 이 2가지를 시작하세요.",
+      "thumbnail_url": "https://i.ytimg.com/vi/uBX7PZvwoNs/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=uBX7PZvwoNs",
+      "published_at": "2026-05-20T10:34:12Z",
+      "view_count": 4421,
+      "like_count": 231,
+      "comment_count": 24,
+      "engagement_rate": 0.05767925808640579,
+      "topic_cluster": "agents",
+      "summary": "이 영상은 agents 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "이 영상은 친절하지만 아프다.",
+      "hook_type": "문제 해결"
     }
   ]
 }
