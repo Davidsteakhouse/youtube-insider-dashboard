@@ -1,168 +1,78 @@
 {
-  "digest_date": "2026-05-24",
-  "generated_at": "2026-05-24T00:05:10+00:00",
-  "summary": "최근 24시간 영상 4개를 기준으로 보면, 오늘 가장 먼저 볼 축은 '아이패드'입니다. 특히 '아이패드 미니 압살한다는 8인치 태블릿? 끊임없는 리뷰 요청 들어온 오포 패드 미니;;'는 조회수 235.9K, 참여율 1.6%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "'아이패드' 주제가 1개 영상으로 가장 많이 다뤄졌습니다. 오늘 수집 영상 4개는 주로 '뉴스 분석' 포맷이라, VS 비교·직접 실험 각도는 아직 비어 있습니다. 일반인 관점 직접 실험 or VS 비교 각도로 차별화할 영역이 있습니다.\n[내 채널] 7일 평균 3.4K회 · 지속률 27.6% / 경쟁사 평균 76.9K회 (격차 -96%)",
-  "telegram_preview": "📡 스마트대디 모니터링 | 05/24\n\n📊 수집: 영상 4개 | 채널 4개\n\n🔥 참여율 TOP 3\n1. [ITSub잇섭] 1.6% · 235.9K뷰\n   아이패드 미니 압살한다는 8인치 태블릿? 끊임없는 리뷰 요청 들어온 오포 패드 미니;;\n2. [Fantasoner(판타소너)] 5.3% · 59.1K뷰\n   신암행어사 실사화 트레일러 2편 [산도편] 新暗行御史 #ai\n3. [월텍남 - 월스트리트 테크남] 3.5% · 8.8K뷰\n   머스크가 10조원 데이터센터를 클로드에게 넘긴 충격적 이유 ㄷㄷ...\n\n📌 화제 키워드\n   agents · research · coding\n\n🎬 포맷: 뉴스 분석 3개 · 워크플로우 튜토리얼 1개\n\n📈 스마트대디 어제 실적\n조회수 3.2K (↓5% vs 7일 평균) | 구독 +30\n시청 지속률 27.2% | 평균 시청 2분 05초\n경쟁사 평균 76.9K회 대비 내 7일 평균 -96%\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
-  "video_count": 4,
-  "total_recent_video_count": 4,
+  "digest_date": "2026-05-25",
+  "generated_at": "2026-05-25T00:10:30+00:00",
+  "summary": "최근 24시간 영상 1개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'ChatGPT'입니다. 특히 'ChatGPT vs Gemini vs Claude Make Subnautica 2'는 조회수 10.5K, 참여율 5.1%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "'ChatGPT' 주제가 1개 영상으로 가장 많이 다뤄졌습니다. ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.\n[내 채널] 7일 평균 3.4K회 · 지속률 28.4% / 경쟁사 평균 10.5K회 (격차 -67%)",
+  "telegram_preview": "📡 스마트대디 모니터링 | 05/25\n\n📊 수집: 영상 1개 | 채널 1개\n\n🔥 참여율 TOP 3\n1. [Minimunch] 5.1% · 10.5K뷰\n   ChatGPT vs Gemini vs Claude Make Subnautica 2\n\n📌 화제 키워드\n   coding\n\n🎬 포맷: 비교 1개\n\n📈 스마트대디 어제 실적\n조회수 3.5K (↑1% vs 7일 평균) | 구독 +22\n시청 지속률 32.0% | 평균 시청 2분 15초\n경쟁사 평균 10.5K회 대비 내 7일 평균 -67%\n\n💡 VS 각도: ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+  "video_count": 1,
+  "total_recent_video_count": 1,
   "focus_scope": "all_watchlist",
-  "average_view_count": 76868.0,
-  "average_engagement_rate": 0.0409085898417179,
-  "average_like_count": 1563.0,
-  "average_comment_count": 288.0,
-  "best_video_id": "5KZVf8jADO0",
-  "best_topic": "아이패드",
+  "average_view_count": 10481.0,
+  "average_engagement_rate": 0.05142639061158286,
+  "average_like_count": 475.0,
+  "average_comment_count": 64.0,
+  "best_video_id": "hyJm55G1LKQ",
+  "best_topic": "ChatGPT",
   "summary_points": [
-    "가장 겹친 주제는 '아이패드'이며 1개 영상, 평균 조회수 235.9K, 평균 참여율 1.6%입니다.",
-    "최고 실적 영상은 '아이패드 미니 압살한다는 8인치 태블릿? 끊임없는 리뷰 요청 들어온 오포 패드 미니;;'이며 문제 해결 훅과 뉴스 분석 포맷 조합이 강했습니다.",
+    "가장 겹친 주제는 'ChatGPT'이며 1개 영상, 평균 조회수 10.5K, 평균 참여율 5.1%입니다.",
+    "최고 실적 영상은 'ChatGPT vs Gemini vs Claude Make Subnautica 2'이며 비교 훅과 비교 포맷 조합이 강했습니다.",
     "반복 노출된 툴은 ChatGPT 1회, Claude 1회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
   ],
   "action_chips": [
-    "주제: 아이패드",
-    "훅: 문제 해결",
-    "포맷: 뉴스 분석",
-    "기준 채널: ITSub잇섭"
+    "주제: ChatGPT",
+    "훅: 비교",
+    "포맷: 비교",
+    "기준 채널: Minimunch"
   ],
   "title_suggestions": [
-    "아이패드 직접 실험 — 이게 진짜 되나?",
-    "아이패드 vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
-    "아이패드 써봤더니... (기대 vs 현실 솔직 후기)"
+    "ChatGPT vs Claude vs Gemini, 일반인 업무 실전 대결 결과",
+    "GPT 최신 버전 직접 실험 — 이전이랑 진짜 달라?",
+    "GPT 써봤더니... 기대랑 다른 점 솔직하게 다 말해봄"
   ],
   "recommendations": [
     {
-      "title": "아이패드 직접 실험 — 이게 진짜 되나?",
-      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
-      "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
-      "thumbnail_copy": "아이패드 바로 해결",
-      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
-      "source_video_id": "5KZVf8jADO0",
-      "source": "아이패드 미니 압살한다는 8인치 태블릿? 끊임없는 리뷰 요청 들어온 오포 패드 미니;;",
-      "my_channel_context": "내 7일 평균 3.4K회 · 지속률 27.6% / 경쟁사 대비 -96%"
+      "title": "ChatGPT vs Claude vs Gemini, 일반인 업무 실전 대결 결과",
+      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
+      "angle": "'ChatGPT'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
+      "thumbnail_copy": "ChatGPT 뭐가 다를까?",
+      "reason": "ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.",
+      "source_video_id": "hyJm55G1LKQ",
+      "source": "ChatGPT vs Gemini vs Claude Make Subnautica 2",
+      "my_channel_context": "내 7일 평균 3.4K회 · 지속률 28.4% / 경쟁사 대비 -67%"
     }
   ],
   "topic_clusters": [
     {
-      "label": "아이패드",
-      "count": 1,
-      "avg_view_count": 235937,
-      "avg_engagement_rate": 0.01595764971157555,
-      "avg_like_count": 3170,
-      "avg_comment_count": 595,
-      "source_titles": [
-        "아이패드 미니 압살한다는 8인치 태블릿? 끊임없는 리뷰 요청 들어온 오포 패드 미니;;"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/5KZVf8jADO0/hqdefault.jpg",
-      "representative_video_id": "5KZVf8jADO0",
-      "representative_title": "아이패드 미니 압살한다는 8인치 태블릿? 끊임없는 리뷰 요청 들어온 오포 패드 미니;;"
-    },
-    {
-      "label": "신암행어사",
-      "count": 1,
-      "avg_view_count": 59053,
-      "avg_engagement_rate": 0.05269842345012108,
-      "avg_like_count": 2601,
-      "avg_comment_count": 511,
-      "source_titles": [
-        "신암행어사 실사화 트레일러 2편 [산도편] 新暗行御史 #ai"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/NpVJuMRyFNo/hqdefault.jpg",
-      "representative_video_id": "NpVJuMRyFNo",
-      "representative_title": "신암행어사 실사화 트레일러 2편 [산도편] 新暗行御史 #ai"
-    },
-    {
-      "label": "agents",
-      "count": 1,
-      "avg_view_count": 8808,
-      "avg_engagement_rate": 0.03508174386920981,
-      "avg_like_count": 279,
-      "avg_comment_count": 30,
-      "source_titles": [
-        "머스크가 10조원 데이터센터를 클로드에게 넘긴 충격적 이유 ㄷㄷ..."
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/7HiPRhfiwFc/hqdefault.jpg",
-      "representative_video_id": "7HiPRhfiwFc",
-      "representative_title": "머스크가 10조원 데이터센터를 클로드에게 넘긴 충격적 이유 ㄷㄷ..."
-    },
-    {
       "label": "ChatGPT",
       "count": 1,
-      "avg_view_count": 3673,
-      "avg_engagement_rate": 0.05989654233596515,
-      "avg_like_count": 203,
-      "avg_comment_count": 17,
+      "avg_view_count": 10481,
+      "avg_engagement_rate": 0.05142639061158286,
+      "avg_like_count": 475,
+      "avg_comment_count": 64,
       "source_titles": [
-        "Google's New AI Search: Everything You Need to Know"
+        "ChatGPT vs Gemini vs Claude Make Subnautica 2"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/fZUQssknSf4/hqdefault.jpg",
-      "representative_video_id": "fZUQssknSf4",
-      "representative_title": "Google's New AI Search: Everything You Need to Know"
+      "thumbnail_url": "https://i.ytimg.com/vi/hyJm55G1LKQ/hqdefault.jpg",
+      "representative_video_id": "hyJm55G1LKQ",
+      "representative_title": "ChatGPT vs Gemini vs Claude Make Subnautica 2"
     }
   ],
   "video_highlights": [
     {
-      "video_id": "5KZVf8jADO0",
-      "channel_name": "ITSub잇섭",
-      "title": "아이패드 미니 압살한다는 8인치 태블릿? 끊임없는 리뷰 요청 들어온 오포 패드 미니;;",
-      "thumbnail_url": "https://i.ytimg.com/vi/5KZVf8jADO0/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=5KZVf8jADO0",
-      "published_at": "2026-05-23T11:00:07Z",
-      "view_count": 235937,
-      "like_count": 3170,
-      "comment_count": 595,
-      "engagement_rate": 0.01595764971157555,
-      "topic_cluster": "아이패드",
-      "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "이걸 진짜 사네 ㄹㅇㅋㅋ 그래서 구글 AI 글라스 나오자마자 구매해주세요",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "NpVJuMRyFNo",
-      "channel_name": "Fantasoner(판타소너)",
-      "title": "신암행어사 실사화 트레일러 2편 [산도편] 新暗行御史 #ai",
-      "thumbnail_url": "https://i.ytimg.com/vi/NpVJuMRyFNo/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=NpVJuMRyFNo",
-      "published_at": "2026-05-23T10:40:03Z",
-      "view_count": 59053,
-      "like_count": 2601,
-      "comment_count": 511,
-      "engagement_rate": 0.05269842345012108,
-      "topic_cluster": "신암행어사",
-      "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "신암행어사 실사화할거면 일단 이영상부터 이겨야겠네 ㅋㅋㅋ",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "7HiPRhfiwFc",
-      "channel_name": "월텍남 - 월스트리트 테크남",
-      "title": "머스크가 10조원 데이터센터를 클로드에게 넘긴 충격적 이유 ㄷㄷ...",
-      "thumbnail_url": "https://i.ytimg.com/vi/7HiPRhfiwFc/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=7HiPRhfiwFc",
-      "published_at": "2026-05-23T05:46:41Z",
-      "view_count": 8808,
-      "like_count": 279,
-      "comment_count": 30,
-      "engagement_rate": 0.03508174386920981,
-      "topic_cluster": "agents",
-      "summary": "이 영상은 agents 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "이 폼이 월텍남이쥬",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "fZUQssknSf4",
-      "channel_name": "The AI Advantage",
-      "title": "Google's New AI Search: Everything You Need to Know",
-      "thumbnail_url": "https://i.ytimg.com/vi/fZUQssknSf4/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=fZUQssknSf4",
-      "published_at": "2026-05-23T13:00:13Z",
-      "view_count": 3673,
-      "like_count": 203,
-      "comment_count": 17,
-      "engagement_rate": 0.05989654233596515,
+      "video_id": "hyJm55G1LKQ",
+      "channel_name": "Minimunch",
+      "title": "ChatGPT vs Gemini vs Claude Make Subnautica 2",
+      "thumbnail_url": "https://i.ytimg.com/vi/hyJm55G1LKQ/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=hyJm55G1LKQ",
+      "published_at": "2026-05-24T15:45:25Z",
+      "view_count": 10481,
+      "like_count": 475,
+      "comment_count": 64,
+      "engagement_rate": 0.05142639061158286,
       "topic_cluster": "ChatGPT",
-      "summary": "이 영상은 agents 이슈를 워크플로우 튜토리얼 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "Feels way better than copilot trying to shove itself into everything. More subtle. Probably a g…",
-      "hook_type": "긴급성"
+      "summary": "이 영상은 coding 이슈를 비교 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "that was NOT the wind bro 💔",
+      "hook_type": "비교"
     }
   ]
 }
