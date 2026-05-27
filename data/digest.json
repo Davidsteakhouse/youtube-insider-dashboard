@@ -1,251 +1,262 @@
 {
-  "digest_date": "2026-05-26",
-  "generated_at": "2026-05-26T00:14:53+00:00",
-  "summary": "최근 24시간 영상 10개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'OpenAI'입니다. 특히 '키보드 전체가 싹다 디스플레이라고?? 상상만 했던 미친 제품이 실제로 나왔다...'는 조회수 327.9K, 참여율 1.5%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "'OpenAI' 주제가 2개 영상으로 가장 많이 다뤄졌습니다. 일반인 관점 직접 실험 or VS 비교 각도로 차별화할 영역이 있습니다.\n[내 채널] 7일 평균 3.9K회 · 지속률 30.1% / 경쟁사 평균 44.7K회 (격차 -91%)",
-  "telegram_preview": "📡 스마트대디 모니터링 | 05/26\n\n📊 수집: 영상 10개 | 채널 6개\n\n🔥 참여율 TOP 3\n1. [ITSub잇섭] 1.5% · 327.9K뷰\n   키보드 전체가 싹다 디스플레이라고?? 상상만 했던 미친 제품이 실제로 나왔다...\n2. [주연 ZUYONI] 0.6% · 36.7K뷰\n   구글X삼성 AI안경이 나왔는데... 디자인이 뭔가 낯익다?\n3. [주연 ZUYONI] 0.9% · 24.4K뷰\n   세계적인 대기업들이 지금 AI 안경에 매달리는 이유\n\n📌 화제 키워드\n   automation · research · coding · agents · monetization\n\n🎬 포맷: 뉴스 분석 5개 · 비교 3개 · 워크플로우 튜토리얼 1개\n\n📈 스마트대디 어제 실적\n조회수 5.2K (↑35% vs 7일 평균) | 구독 +39\n시청 지속률 34.3% | 평균 시청 2분 10초\n경쟁사 평균 44.7K회 대비 내 7일 평균 -91%\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
-  "video_count": 10,
-  "total_recent_video_count": 10,
+  "digest_date": "2026-05-27",
+  "generated_at": "2026-05-27T00:17:26+00:00",
+  "summary": "최근 24시간 영상 15개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'agents'입니다. 특히 'ASML 출신에게 직접 들었습니다 | EUV 광원과 반도체 병목의 진짜 이야기'는 조회수 31.9K, 참여율 4.3%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "'agents' 주제가 7개 영상으로 가장 많이 다뤄졌습니다. 오늘 수집 영상 15개는 주로 '뉴스 분석' 포맷이라, VS 비교·직접 실험 각도는 아직 비어 있습니다. 일반인 관점 직접 실험 or VS 비교 각도로 차별화할 영역이 있습니다.\n[내 채널] 7일 평균 4.3K회 · 지속률 32.3% / 경쟁사 평균 7.8K회 (격차 -44%)",
+  "telegram_preview": "📡 스마트대디 모니터링 | 05/27\n\n📊 수집: 영상 15개 | 채널 7개\n\n🔥 참여율 TOP 3\n1. [안될공학 - IT 테크 신기술] 4.3% · 31.9K뷰\n   ASML 출신에게 직접 들었습니다 | EUV 광원과 반도체 병목의 진짜 이야기\n2. [안될공학 - IT 테크 신기술] 2.6% · 30.3K뷰\n   스타십 12차 발사, 엔진 꺼졌는데도 갔다 | 우주 물류의 시작을 보여주다\n3. [테크몽 Techmong] 0.6% · 25.6K뷰\n   역시 TV는 벽걸이가 진리지ㅋㅋ\n\n📌 화제 키워드\n   agents · coding · automation · research · monetization\n\n🎬 포맷: 뉴스 분석 7개 · 빌드 데모 5개 · 워크플로우 튜토리얼 3개\n\n📈 스마트대디 어제 실적\n조회수 5.5K (↑26% vs 7일 평균) | 구독 +31\n시청 지속률 35.5% | 평균 시청 2분 07초\n경쟁사 평균 7.8K회 대비 내 7일 평균 -44%\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+  "video_count": 15,
+  "total_recent_video_count": 15,
   "focus_scope": "all_watchlist",
-  "average_view_count": 44744.0,
-  "average_engagement_rate": 0.026001593730942824,
-  "average_like_count": 572.0,
-  "average_comment_count": 72.0,
-  "best_video_id": "eQh1FEFl3dk",
-  "best_topic": "OpenAI",
+  "average_view_count": 7809.0,
+  "average_engagement_rate": 0.018800811385511144,
+  "average_like_count": 152.0,
+  "average_comment_count": 16.0,
+  "best_video_id": "Lj_e4nPxt6A",
+  "best_topic": "agents",
   "summary_points": [
-    "가장 겹친 주제는 'OpenAI'이며 2개 영상, 평균 조회수 3.2K, 평균 참여율 7.0%입니다.",
-    "최고 실적 영상은 '키보드 전체가 싹다 디스플레이라고?? 상상만 했던 미친 제품이 실제로 나왔다...'이며 솔직 검증 훅과 사례 분석 포맷 조합이 강했습니다.",
-    "반복 노출된 툴은 Claude 3회, Arc 3회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
+    "가장 겹친 주제는 'agents'이며 7개 영상, 평균 조회수 3.2K, 평균 참여율 0.6%입니다.",
+    "최고 실적 영상은 'ASML 출신에게 직접 들었습니다 | EUV 광원과 반도체 병목의 진짜 이야기'이며 실험 훅과 뉴스 분석 포맷 조합이 강했습니다.",
+    "반복 노출된 툴은 Gemini 2회, OpenAI 1회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
   ],
   "action_chips": [
-    "주제: OpenAI",
-    "훅: 솔직 검증",
-    "포맷: 사례 분석",
-    "기준 채널: ITSub잇섭"
+    "주제: agents",
+    "훅: 실험",
+    "포맷: 뉴스 분석",
+    "기준 채널: 안될공학 - IT 테크 신기술"
   ],
   "title_suggestions": [
-    "OpenAI 직접 실험 — 이게 진짜 되나?",
-    "OpenAI vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
-    "OpenAI 써봤더니... (기대 vs 현실 솔직 후기)"
+    "agents 직접 실험 — 이게 진짜 되나?",
+    "agents vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
+    "agents 써봤더니... (기대 vs 현실 솔직 후기)"
   ],
   "recommendations": [
     {
-      "title": "OpenAI 직접 실험 — 이게 진짜 되나?",
+      "title": "agents 직접 실험 — 이게 진짜 되나?",
       "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
       "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
-      "thumbnail_copy": "OpenAI 바로 해결",
+      "thumbnail_copy": "agents 바로 해결",
       "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
-      "source_video_id": "jJDC1763PsI",
-      "source": "AI Video Is Evolving Fast, and This Week Was the Biggest Proof Yet",
-      "my_channel_context": "내 7일 평균 3.9K회 · 지속률 30.1% / 경쟁사 대비 -91%"
+      "source_video_id": "tXsRPFC7h0c",
+      "source": "방학 동안 부트캠프 듣고 AI 엔지니어 취업한 썰",
+      "my_channel_context": "내 7일 평균 4.3K회 · 지속률 32.3% / 경쟁사 대비 -44%"
     },
     {
-      "title": "OpenAI vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
+      "title": "agents vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
       "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
-      "angle": "큰 주제 하나를 대표 제목으로 세우고, 나머지 포인트는 보조 정보처럼 정리하는 압축형 포장이 좋습니다.",
-      "thumbnail_copy": "OpenAI 뭐가 다를까?",
+      "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
+      "thumbnail_copy": "agents 바로 해결",
       "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
-      "source_video_id": "6UBGecQTsZE",
-      "source": "Codex 5.5 vs Claude Opus 4.7 Polymarket Trading Challenge",
-      "my_channel_context": "내 7일 평균 3.9K회 · 지속률 30.1% / 경쟁사 대비 -91%"
+      "source_video_id": "RlBa5OEEXYM",
+      "source": "AI NLP 엔지니어 수료생 전원 인턴십 기회 제공!",
+      "my_channel_context": "내 7일 평균 4.3K회 · 지속률 32.3% / 경쟁사 대비 -44%"
+    },
+    {
+      "title": "agents 써봤더니... (기대 vs 현실 솔직 후기)",
+      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
+      "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
+      "thumbnail_copy": "agents 바로 해결",
+      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
+      "source_video_id": "niHBWhVssAU",
+      "source": "취업한 수료생이 말하는 AI NLP 부트캠프",
+      "my_channel_context": "내 7일 평균 4.3K회 · 지속률 32.3% / 경쟁사 대비 -44%"
     }
   ],
   "topic_clusters": [
     {
-      "label": "OpenAI",
-      "count": 2,
-      "avg_view_count": 3200,
-      "avg_engagement_rate": 0.07020759369578938,
-      "avg_like_count": 233,
-      "avg_comment_count": 14,
+      "label": "agents",
+      "count": 7,
+      "avg_view_count": 3243,
+      "avg_engagement_rate": 0.006062945272671717,
+      "avg_like_count": 3,
+      "avg_comment_count": 0,
       "source_titles": [
-        "AI Video Is Evolving Fast, and This Week Was the Biggest Proof Yet",
-        "Codex 5.5 vs Claude Opus 4.7 Polymarket Trading Challenge"
+        "방학 동안 부트캠프 듣고 AI 엔지니어 취업한 썰",
+        "AI NLP 엔지니어 수료생 전원 인턴십 기회 제공!",
+        "취업한 수료생이 말하는 AI NLP 부트캠프"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/jJDC1763PsI/hqdefault.jpg",
-      "representative_video_id": "jJDC1763PsI",
-      "representative_title": "AI Video Is Evolving Fast, and This Week Was the Biggest Proof Yet"
+      "thumbnail_url": "https://i.ytimg.com/vi/tXsRPFC7h0c/hqdefault.jpg",
+      "representative_video_id": "tXsRPFC7h0c",
+      "representative_title": "방학 동안 부트캠프 듣고 AI 엔지니어 취업한 썰"
     },
     {
-      "label": "키보드",
+      "label": "ASML",
       "count": 1,
-      "avg_view_count": 327925,
-      "avg_engagement_rate": 0.01496988640695281,
-      "avg_like_count": 4277,
-      "avg_comment_count": 632,
+      "avg_view_count": 31906,
+      "avg_engagement_rate": 0.04300131636682756,
+      "avg_like_count": 1239,
+      "avg_comment_count": 133,
       "source_titles": [
-        "키보드 전체가 싹다 디스플레이라고?? 상상만 했던 미친 제품이 실제로 나왔다..."
+        "ASML 출신에게 직접 들었습니다 | EUV 광원과 반도체 병목의 진짜 이야기"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/eQh1FEFl3dk/hqdefault.jpg",
-      "representative_video_id": "eQh1FEFl3dk",
-      "representative_title": "키보드 전체가 싹다 디스플레이라고?? 상상만 했던 미친 제품이 실제로 나왔다..."
+      "thumbnail_url": "https://i.ytimg.com/vi/Lj_e4nPxt6A/hqdefault.jpg",
+      "representative_video_id": "Lj_e4nPxt6A",
+      "representative_title": "ASML 출신에게 직접 들었습니다 | EUV 광원과 반도체 병목의 진짜 이야기"
     },
     {
-      "label": "구글X삼성",
+      "label": "스타십",
       "count": 1,
-      "avg_view_count": 36715,
-      "avg_engagement_rate": 0.005665259430750374,
-      "avg_like_count": 198,
+      "avg_view_count": 30304,
+      "avg_engagement_rate": 0.025541182682154173,
+      "avg_like_count": 710,
+      "avg_comment_count": 64,
+      "source_titles": [
+        "스타십 12차 발사, 엔진 꺼졌는데도 갔다 | 우주 물류의 시작을 보여주다"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/v4M6PLrcbgk/hqdefault.jpg",
+      "representative_video_id": "v4M6PLrcbgk",
+      "representative_title": "스타십 12차 발사, 엔진 꺼졌는데도 갔다 | 우주 물류의 시작을 보여주다"
+    },
+    {
+      "label": "역시",
+      "count": 1,
+      "avg_view_count": 25551,
+      "avg_engagement_rate": 0.005753199483386168,
+      "avg_like_count": 137,
       "avg_comment_count": 10,
       "source_titles": [
-        "구글X삼성 AI안경이 나왔는데... 디자인이 뭔가 낯익다?"
+        "역시 TV는 벽걸이가 진리지ㅋㅋ"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/htb3PliTGlg/hqdefault.jpg",
-      "representative_video_id": "htb3PliTGlg",
-      "representative_title": "구글X삼성 AI안경이 나왔는데... 디자인이 뭔가 낯익다?"
+      "thumbnail_url": "https://i.ytimg.com/vi/Cau1uJYHrxQ/hqdefault.jpg",
+      "representative_video_id": "Cau1uJYHrxQ",
+      "representative_title": "역시 TV는 벽걸이가 진리지ㅋㅋ"
     },
     {
-      "label": "세계적인",
+      "label": "AI가",
       "count": 1,
-      "avg_view_count": 24416,
-      "avg_engagement_rate": 0.008600917431192661,
-      "avg_like_count": 188,
-      "avg_comment_count": 22,
-      "source_titles": [
-        "세계적인 대기업들이 지금 AI 안경에 매달리는 이유"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/YEMUa7RY6wA/hqdefault.jpg",
-      "representative_video_id": "YEMUa7RY6wA",
-      "representative_title": "세계적인 대기업들이 지금 AI 안경에 매달리는 이유"
-    },
-    {
-      "label": "애플",
-      "count": 1,
-      "avg_view_count": 17710,
-      "avg_engagement_rate": 0.006888763410502541,
-      "avg_like_count": 112,
-      "avg_comment_count": 10,
-      "source_titles": [
-        "애플 시리 vs 삼성&제미나이의 맞대결 #AI안경 #스마트글래스"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/N1Qhl4JRI_o/hqdefault.jpg",
-      "representative_video_id": "N1Qhl4JRI_o",
-      "representative_title": "애플 시리 vs 삼성&제미나이의 맞대결 #AI안경 #스마트글래스"
-    },
-    {
-      "label": "현실판",
-      "count": 1,
-      "avg_view_count": 13769,
-      "avg_engagement_rate": 0.007262691553489724,
-      "avg_like_count": 98,
+      "avg_view_count": 3077,
+      "avg_engagement_rate": 0.0029249268768280793,
+      "avg_like_count": 7,
       "avg_comment_count": 2,
       "source_titles": [
-        "현실판 이디스 AI 안경? 삼성X구글 글래스의 놀라운 기능들"
+        "AI가 재해석한 그때 그 시절 영화 명장면(seedance 2.0 프롬프트 제공)#PippitSeedance #PippitPartner #pippit #seedance"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/9KV52K1lm20/hqdefault.jpg",
-      "representative_video_id": "9KV52K1lm20",
-      "representative_title": "현실판 이디스 AI 안경? 삼성X구글 글래스의 놀라운 기능들"
+      "thumbnail_url": "https://i.ytimg.com/vi/oZn3eRD49PQ/hqdefault.jpg",
+      "representative_video_id": "oZn3eRD49PQ",
+      "representative_title": "AI가 재해석한 그때 그 시절 영화 명장면(seedance 2.0 프롬프트 제공)#PippitSeedance #PippitPartner #pippit #seedance"
     },
     {
-      "label": "AI안경",
+      "label": "OpenAI",
       "count": 1,
-      "avg_view_count": 12854,
-      "avg_engagement_rate": 0.007312898708573207,
-      "avg_like_count": 91,
-      "avg_comment_count": 3,
+      "avg_view_count": 1665,
+      "avg_engagement_rate": 0.09009009009009009,
+      "avg_like_count": 128,
+      "avg_comment_count": 22,
       "source_titles": [
-        "AI안경 얘기하는데 성대모사 왜 이렇게 잘함ㅋㅋ #테크유튜버 #주연 #구글글래스"
+        "I Field Tested Gemini 3.5 Flash: Fast Boi, Smol Brain."
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/1hntjviMUUQ/hqdefault.jpg",
-      "representative_video_id": "1hntjviMUUQ",
-      "representative_title": "AI안경 얘기하는데 성대모사 왜 이렇게 잘함ㅋㅋ #테크유튜버 #주연 #구글글래스"
+      "thumbnail_url": "https://i.ytimg.com/vi/U1VMhxccPYU/hqdefault.jpg",
+      "representative_video_id": "U1VMhxccPYU",
+      "representative_title": "I Field Tested Gemini 3.5 Flash: Fast Boi, Smol Brain."
     },
     {
-      "label": "MCP",
+      "label": "이제",
       "count": 1,
-      "avg_view_count": 6987,
-      "avg_engagement_rate": 0.0417918992414484,
-      "avg_like_count": 278,
-      "avg_comment_count": 14,
+      "avg_view_count": 1530,
+      "avg_engagement_rate": 0.016339869281045753,
+      "avg_like_count": 24,
+      "avg_comment_count": 1,
       "source_titles": [
-        "RAG Just Got Inverted. Here's The Stack That Replaces It."
+        "이제 하다하다 드라마까지 만드는 AI 영상 수준…"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/F-Ewm7qOr_c/hqdefault.jpg",
-      "representative_video_id": "F-Ewm7qOr_c",
-      "representative_title": "RAG Just Got Inverted. Here's The Stack That Replaces It."
+      "thumbnail_url": "https://i.ytimg.com/vi/Udm1crf1L8E/hqdefault.jpg",
+      "representative_video_id": "Udm1crf1L8E",
+      "representative_title": "이제 하다하다 드라마까지 만드는 AI 영상 수준…"
+    },
+    {
+      "label": "자동화",
+      "count": 1,
+      "avg_view_count": 233,
+      "avg_engagement_rate": 0.008583690987124463,
+      "avg_like_count": 2,
+      "avg_comment_count": 0,
+      "source_titles": [
+        "AI Game: Master Orchestration, Not Just Tools #shorts"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/tmgGWBOn24A/hqdefault.jpg",
+      "representative_video_id": "tmgGWBOn24A",
+      "representative_title": "AI Game: Master Orchestration, Not Just Tools #shorts"
     }
   ],
   "video_highlights": [
     {
-      "video_id": "eQh1FEFl3dk",
-      "channel_name": "ITSub잇섭",
-      "title": "키보드 전체가 싹다 디스플레이라고?? 상상만 했던 미친 제품이 실제로 나왔다...",
-      "thumbnail_url": "https://i.ytimg.com/vi/eQh1FEFl3dk/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=eQh1FEFl3dk",
-      "published_at": "2026-05-25T11:00:07Z",
-      "view_count": 327925,
-      "like_count": 4277,
-      "comment_count": 632,
-      "engagement_rate": 0.01496988640695281,
-      "topic_cluster": "키보드",
-      "summary": "이 영상은 사례 분석 이슈를 사례 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "안녕하세요 잇섭님! 이번 파이널마우스 센터피스 키보드를 대여해 드린 구독자 입니다.😊 2025년 초에 주문하고 1년 넘게 목 빠지게 기다려 받은 제품인데, 잇섭님께서 기기…",
-      "hook_type": "솔직 검증"
+      "video_id": "Lj_e4nPxt6A",
+      "channel_name": "안될공학 - IT 테크 신기술",
+      "title": "ASML 출신에게 직접 들었습니다 | EUV 광원과 반도체 병목의 진짜 이야기",
+      "thumbnail_url": "https://i.ytimg.com/vi/Lj_e4nPxt6A/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=Lj_e4nPxt6A",
+      "published_at": "2026-05-26T11:18:34Z",
+      "view_count": 31906,
+      "like_count": 1239,
+      "comment_count": 133,
+      "engagement_rate": 0.04300131636682756,
+      "topic_cluster": "ASML",
+      "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "초속 100미터로 날아가느 30마이크로미터짜리 주석방울에 세개의 서로다른 레이저로 몇 마이크로초 이내에 나노초 정도의 정밀도로 세개를 원하는 타이밍, 위치에 세번 연속맞추…",
+      "hook_type": "실험"
     },
     {
-      "video_id": "htb3PliTGlg",
-      "channel_name": "주연 ZUYONI",
-      "title": "구글X삼성 AI안경이 나왔는데... 디자인이 뭔가 낯익다?",
-      "thumbnail_url": "https://i.ytimg.com/vi/htb3PliTGlg/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=htb3PliTGlg",
-      "published_at": "2026-05-25T09:00:33Z",
-      "view_count": 36715,
-      "like_count": 198,
-      "comment_count": 10,
-      "engagement_rate": 0.005665259430750374,
-      "topic_cluster": "구글X삼성",
+      "video_id": "v4M6PLrcbgk",
+      "channel_name": "안될공학 - IT 테크 신기술",
+      "title": "스타십 12차 발사, 엔진 꺼졌는데도 갔다 | 우주 물류의 시작을 보여주다",
+      "thumbnail_url": "https://i.ytimg.com/vi/v4M6PLrcbgk/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=v4M6PLrcbgk",
+      "published_at": "2026-05-26T04:42:26Z",
+      "view_count": 30304,
+      "like_count": 710,
+      "comment_count": 64,
+      "engagement_rate": 0.025541182682154173,
+      "topic_cluster": "스타십",
       "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "서태지 컴백홈 안경이자나!!",
+      "comment_signal": "완벽하지 않아도 분명 더 좋아질걸 알기 때문에 사람들이 환호하고 좋아한다는 것. 일론 머스크 회사의 이런 점이 ㅈㄴ 멋있는 거 같음.",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "YEMUa7RY6wA",
-      "channel_name": "주연 ZUYONI",
-      "title": "세계적인 대기업들이 지금 AI 안경에 매달리는 이유",
-      "thumbnail_url": "https://i.ytimg.com/vi/YEMUa7RY6wA/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=YEMUa7RY6wA",
-      "published_at": "2026-05-25T07:07:42Z",
-      "view_count": 24416,
-      "like_count": 188,
-      "comment_count": 22,
-      "engagement_rate": 0.008600917431192661,
-      "topic_cluster": "세계적인",
+      "video_id": "Cau1uJYHrxQ",
+      "channel_name": "테크몽 Techmong",
+      "title": "역시 TV는 벽걸이가 진리지ㅋㅋ",
+      "thumbnail_url": "https://i.ytimg.com/vi/Cau1uJYHrxQ/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=Cau1uJYHrxQ",
+      "published_at": "2026-05-26T10:39:31Z",
+      "view_count": 25551,
+      "like_count": 137,
+      "comment_count": 10,
+      "engagement_rate": 0.005753199483386168,
+      "topic_cluster": "역시",
       "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "안경쟁이 너드 입장에서 스마트 워치에 매력 1도 못느꼈는데, 안경은 진심으로 기대중",
+      "comment_signal": "저거 알바 잠깐 했었는데 재밌음. 온갖 게임기 플스 스위치 스피커 냉장고 세탁기 다~~~티비 뒤에다가 숨길 수 있음. 티비도 모니터 암처럼 앞으로 위 아래로 다 조절 가능…",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "N1Qhl4JRI_o",
-      "channel_name": "주연 ZUYONI",
-      "title": "애플 시리 vs 삼성&제미나이의 맞대결 #AI안경 #스마트글래스",
-      "thumbnail_url": "https://i.ytimg.com/vi/N1Qhl4JRI_o/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=N1Qhl4JRI_o",
-      "published_at": "2026-05-25T08:00:14Z",
-      "view_count": 17710,
-      "like_count": 112,
-      "comment_count": 10,
-      "engagement_rate": 0.006888763410502541,
-      "topic_cluster": "애플",
-      "summary": "이 영상은 비교 이슈를 비교 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "결국 감성보다는 이제 애플도 편의 쪽으로 가야 살아남을 거 같은데 ai는 둘째치고 편의기능부터 싹다 손봐야함..",
-      "hook_type": "비교"
+      "video_id": "tXsRPFC7h0c",
+      "channel_name": "멋쟁이사자처럼",
+      "title": "방학 동안 부트캠프 듣고 AI 엔지니어 취업한 썰",
+      "thumbnail_url": "https://i.ytimg.com/vi/tXsRPFC7h0c/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=tXsRPFC7h0c",
+      "published_at": "2026-05-26T07:25:36Z",
+      "view_count": 6549,
+      "like_count": 0,
+      "comment_count": 0,
+      "engagement_rate": 0.0,
+      "topic_cluster": "agents",
+      "summary": "이 영상은 agents 이슈를 빌드 데모 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "댓글 반응은 아직 약한 편입니다.",
+      "hook_type": "문제 해결"
     },
     {
-      "video_id": "9KV52K1lm20",
-      "channel_name": "주연 ZUYONI",
-      "title": "현실판 이디스 AI 안경? 삼성X구글 글래스의 놀라운 기능들",
-      "thumbnail_url": "https://i.ytimg.com/vi/9KV52K1lm20/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=9KV52K1lm20",
-      "published_at": "2026-05-25T12:00:13Z",
-      "view_count": 13769,
-      "like_count": 98,
-      "comment_count": 2,
-      "engagement_rate": 0.007262691553489724,
-      "topic_cluster": "현실판",
-      "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "하 5년만 늦게 태어날걸",
-      "hook_type": "솔직 검증"
+      "video_id": "RlBa5OEEXYM",
+      "channel_name": "멋쟁이사자처럼",
+      "title": "AI NLP 엔지니어 수료생 전원 인턴십 기회 제공!",
+      "thumbnail_url": "https://i.ytimg.com/vi/RlBa5OEEXYM/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=RlBa5OEEXYM",
+      "published_at": "2026-05-26T07:25:21Z",
+      "view_count": 6489,
+      "like_count": 0,
+      "comment_count": 0,
+      "engagement_rate": 0.0,
+      "topic_cluster": "agents",
+      "summary": "이 영상은 agents 이슈를 빌드 데모 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "댓글 반응은 아직 약한 편입니다.",
+      "hook_type": "문제 해결"
     }
   ]
 }
