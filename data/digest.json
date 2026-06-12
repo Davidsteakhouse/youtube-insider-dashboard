@@ -1,263 +1,251 @@
 {
-  "digest_date": "2026-06-11",
-  "generated_at": "2026-06-11T00:27:54+00:00",
-  "summary": "최근 24시간 영상 13개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'Claude'입니다. 특히 '음쓰 버리다 발가락 박살 날 뻔한 썰'는 조회수 36.0K, 참여율 0.7%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "'Claude' 주제가 4개 영상으로 가장 많이 다뤄졌습니다. Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n[내 채널] 7일 평균 2.4K회 · 지속률 25.4% / 경쟁사 평균 9.2K회 (격차 -74%)",
-  "telegram_preview": "📡 스마트대디 모니터링 | 06/11\n\n📊 수집: 영상 13개 | 채널 11개\n\n🔥 참여율 TOP 3\n1. [귀곰] 0.7% · 36.0K뷰\n   음쓰 버리다 발가락 박살 날 뻔한 썰\n2. [AI Explained] 7.6% · 30.7K뷰\n   Claude Fable 5 - Full 319 page Breakdown\n3. [안될공학 - IT 테크 신기술] 4.4% · 19.7K뷰\n   AI에 뒤쳐져 구글과 손잡았다? 애플 AI의 진짜 목적... 시리가 아니라 운영체제였다 | WWDC26 총정리\n\n📌 화제 키워드\n   coding · agents · automation · research · monetization\n\n🎬 포맷: 뉴스 분석 5개 · 빌드 데모 3개 · 워크플로우 튜토리얼 3개\n\n📈 스마트대디 어제 실적\n조회수 2.4K (↑1% vs 7일 평균) | 구독 +10\n시청 지속률 23.0% | 평균 시청 2분 12초\n경쟁사 평균 9.2K회 대비 내 7일 평균 -74%\n\n💡 VS 각도: Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
-  "video_count": 13,
-  "total_recent_video_count": 13,
+  "digest_date": "2026-06-12",
+  "generated_at": "2026-06-12T00:24:28+00:00",
+  "summary": "최근 24시간 영상 12개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'ChatGPT'입니다. 특히 '5천원은 진짜 미쳤나 ㅋㅋㅋ 신형으로 돌아온 다이소 버전 에어팟 2세대;;'는 조회수 316.6K, 참여율 1.5%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "'ChatGPT' 주제가 2개 영상으로 가장 많이 다뤄졌습니다. ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.\n[내 채널] 7일 평균 2.6K회 · 지속률 23.7% / 경쟁사 평균 48.4K회 (격차 -95%)",
+  "telegram_preview": "📡 스마트대디 모니터링 | 06/12\n\n📊 수집: 영상 12개 | 채널 12개\n\n🔥 참여율 TOP 3\n1. [ITSub잇섭] 1.5% · 316.6K뷰\n   5천원은 진짜 미쳤나 ㅋㅋㅋ 신형으로 돌아온 다이소 버전 에어팟 2세대;;\n2. [tef] 7.6% · 196.1K뷰\n   Claude Fable 5 is INSANE.\n3. [주연 ZUYONI] 1.2% · 32.0K뷰\n   업데이트 할래말래 할래말래\n\n📌 화제 키워드\n   agents · automation · monetization · coding · research\n\n🎬 포맷: 뉴스 분석 6개 · 빌드 데모 2개 · 비교 2개\n\n📈 스마트대디 어제 실적\n조회수 2.7K (↑5% vs 7일 평균) | 구독 -11\n시청 지속률 21.5% | 평균 시청 2분 01초\n경쟁사 평균 48.4K회 대비 내 7일 평균 -95%\n\n💡 VS 각도: ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+  "video_count": 12,
+  "total_recent_video_count": 12,
   "focus_scope": "all_watchlist",
-  "average_view_count": 9228.0,
-  "average_engagement_rate": 0.040484080527750946,
-  "average_like_count": 323.0,
-  "average_comment_count": 43.0,
-  "best_video_id": "7Y_pESdUxm0",
-  "best_topic": "Claude",
+  "average_view_count": 48364.0,
+  "average_engagement_rate": 0.03485593060242816,
+  "average_like_count": 1625.0,
+  "average_comment_count": 153.0,
+  "best_video_id": "6IdMVaihOmY",
+  "best_topic": "ChatGPT",
   "summary_points": [
-    "가장 겹친 주제는 'Claude'이며 4개 영상, 평균 조회수 1.9K, 평균 참여율 4.9%입니다.",
-    "최고 실적 영상은 '음쓰 버리다 발가락 박살 날 뻔한 썰'이며 문제 해결 훅과 뉴스 분석 포맷 조합이 강했습니다.",
-    "반복 노출된 툴은 Claude 6회, Arc 5회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
+    "가장 겹친 주제는 'ChatGPT'이며 2개 영상, 평균 조회수 101.4K, 평균 참여율 8.0%입니다.",
+    "최고 실적 영상은 '5천원은 진짜 미쳤나 ㅋㅋㅋ 신형으로 돌아온 다이소 버전 에어팟 2세대;;'이며 솔직 검증 훅과 뉴스 분석 포맷 조합이 강했습니다.",
+    "반복 노출된 툴은 Claude 4회, Arc 2회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
   ],
   "action_chips": [
-    "주제: Claude",
-    "훅: 문제 해결",
+    "주제: ChatGPT",
+    "훅: 솔직 검증",
     "포맷: 뉴스 분석",
-    "기준 채널: 귀곰"
+    "기준 채널: ITSub잇섭"
   ],
   "title_suggestions": [
-    "Claude vs ChatGPT, 일반인이 직접 써보니 이게 달랐다",
-    "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
-    "AI 비서 대결: Claude가 진짜 강한 상황은 따로 있었다"
+    "ChatGPT vs Claude vs Gemini, 일반인 업무 실전 대결 결과",
+    "GPT 최신 버전 직접 실험 — 이전이랑 진짜 달라?",
+    "GPT 써봤더니... 기대랑 다른 점 솔직하게 다 말해봄"
   ],
   "recommendations": [
     {
-      "title": "Claude vs ChatGPT, 일반인이 직접 써보니 이게 달랐다",
+      "title": "ChatGPT vs Claude vs Gemini, 일반인 업무 실전 대결 결과",
       "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "Claude 바로 해결",
-      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
-      "source_video_id": "oWeAVc_VPSo",
-      "source": "Endless Claude Visuals in 5 Minutes (Beginner Tutorial)",
-      "my_channel_context": "내 7일 평균 2.4K회 · 지속률 25.4% / 경쟁사 대비 -74%"
+      "angle": "'ChatGPT'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
+      "thumbnail_copy": "ChatGPT 바로 해결",
+      "reason": "ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.",
+      "source_video_id": "0DVUjpClqgI",
+      "source": "Claude Fable 5 is INSANE.",
+      "my_channel_context": "내 7일 평균 2.6K회 · 지속률 23.7% / 경쟁사 대비 -95%"
     },
     {
-      "title": "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
+      "title": "GPT 최신 버전 직접 실험 — 이전이랑 진짜 달라?",
       "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "Claude 바로 해결",
-      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
-      "source_video_id": "DqxUGfa6VfQ",
-      "source": "Claude Fable 5 Agentic AI Trading: First Tests Looks VERY Strong",
-      "my_channel_context": "내 7일 평균 2.4K회 · 지속률 25.4% / 경쟁사 대비 -74%"
-    },
-    {
-      "title": "AI 비서 대결: Claude가 진짜 강한 상황은 따로 있었다",
-      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "Claude 핵심 3가지",
-      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
-      "source_video_id": "Dw3l5wtwfnU",
-      "source": "Your AI System Needs A Verification Layer. Here Are 7 Ways To Build One.",
-      "my_channel_context": "내 7일 평균 2.4K회 · 지속률 25.4% / 경쟁사 대비 -74%"
+      "angle": "'ChatGPT'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
+      "thumbnail_copy": "ChatGPT 바로 해결",
+      "reason": "ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.",
+      "source_video_id": "D8j11jdkAL8",
+      "source": "I Jailbroke Claude to Remove Censorship… So You Don’t Have To",
+      "my_channel_context": "내 7일 평균 2.6K회 · 지속률 23.7% / 경쟁사 대비 -95%"
     }
   ],
   "topic_clusters": [
     {
-      "label": "Claude",
-      "count": 4,
-      "avg_view_count": 1884,
-      "avg_engagement_rate": 0.04888955586779831,
-      "avg_like_count": 95,
-      "avg_comment_count": 8,
-      "source_titles": [
-        "Endless Claude Visuals in 5 Minutes (Beginner Tutorial)",
-        "Claude Fable 5 Agentic AI Trading: First Tests Looks VERY Strong",
-        "Your AI System Needs A Verification Layer. Here Are 7 Ways To Build One."
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/oWeAVc_VPSo/hqdefault.jpg",
-      "representative_video_id": "oWeAVc_VPSo",
-      "representative_title": "Endless Claude Visuals in 5 Minutes (Beginner Tutorial)"
-    },
-    {
-      "label": "agents",
-      "count": 2,
-      "avg_view_count": 3682,
-      "avg_engagement_rate": 0.024863042562157607,
-      "avg_like_count": 156,
-      "avg_comment_count": 22,
-      "source_titles": [
-        "젠슨황 \"폭락하면 매수기회다\"..월가의 논리는 이렇습니다.",
-        "[멋쟁이사자처럼] 백엔드 Java&Spring 부트캠프 사전설명회"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/OPEkVhRJysE/hqdefault.jpg",
-      "representative_video_id": "OPEkVhRJysE",
-      "representative_title": "젠슨황 \"폭락하면 매수기회다\"..월가의 논리는 이렇습니다."
-    },
-    {
-      "label": "Arc",
-      "count": 2,
-      "avg_view_count": 891,
-      "avg_engagement_rate": 0.04912161009721985,
-      "avg_like_count": 46,
-      "avg_comment_count": 0,
-      "source_titles": [
-        "How Great Leaders Build Teams That Never Stop Improving",
-        "Introducing: Becoming an Octopus Organization"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/KCCA22ngoPU/hqdefault.jpg",
-      "representative_video_id": "KCCA22ngoPU",
-      "representative_title": "How Great Leaders Build Teams That Never Stop Improving"
-    },
-    {
-      "label": "음쓰",
-      "count": 1,
-      "avg_view_count": 36016,
-      "avg_engagement_rate": 0.007246779209240338,
-      "avg_like_count": 244,
-      "avg_comment_count": 17,
-      "source_titles": [
-        "음쓰 버리다 발가락 박살 날 뻔한 썰"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/7Y_pESdUxm0/hqdefault.jpg",
-      "representative_video_id": "7Y_pESdUxm0",
-      "representative_title": "음쓰 버리다 발가락 박살 날 뻔한 썰"
-    },
-    {
-      "label": "OpenAI",
-      "count": 1,
-      "avg_view_count": 30736,
-      "avg_engagement_rate": 0.0764901093180635,
-      "avg_like_count": 2150,
-      "avg_comment_count": 201,
-      "source_titles": [
-        "Claude Fable 5 - Full 319 page Breakdown"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/haK1KoQWm18/hqdefault.jpg",
-      "representative_video_id": "haK1KoQWm18",
-      "representative_title": "Claude Fable 5 - Full 319 page Breakdown"
-    },
-    {
-      "label": "Gemini",
-      "count": 1,
-      "avg_view_count": 19671,
-      "avg_engagement_rate": 0.044075034314473086,
-      "avg_like_count": 675,
-      "avg_comment_count": 192,
-      "source_titles": [
-        "AI에 뒤쳐져 구글과 손잡았다? 애플 AI의 진짜 목적... 시리가 아니라 운영체제였다 | WWDC26 총정리"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/k5c4auK4OK8/hqdefault.jpg",
-      "representative_video_id": "k5c4auK4OK8",
-      "representative_title": "AI에 뒤쳐져 구글과 손잡았다? 애플 AI의 진짜 목적... 시리가 아니라 운영체제였다 | WWDC26 총정리"
-    },
-    {
-      "label": "미친",
-      "count": 1,
-      "avg_view_count": 14803,
-      "avg_engagement_rate": 0.02425184084307235,
-      "avg_like_count": 294,
-      "avg_comment_count": 65,
-      "source_titles": [
-        "미친 ㅋㅋ 마우스가 반으로 접혀? 로지텍 모비 폴드 실사용 후기 [Mobi Fold & Spotlight 2]"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/yh6Vr4t8GNM/hqdefault.jpg",
-      "representative_video_id": "yh6Vr4t8GNM",
-      "representative_title": "미친 ㅋㅋ 마우스가 반으로 접혀? 로지텍 모비 폴드 실사용 후기 [Mobi Fold & Spotlight 2]"
-    },
-    {
       "label": "ChatGPT",
-      "count": 1,
-      "avg_view_count": 2052,
-      "avg_engagement_rate": 0.03070175438596491,
-      "avg_like_count": 58,
+      "count": 2,
+      "avg_view_count": 101413,
+      "avg_engagement_rate": 0.07990959412272583,
+      "avg_like_count": 7154,
+      "avg_comment_count": 548,
+      "source_titles": [
+        "Claude Fable 5 is INSANE.",
+        "I Jailbroke Claude to Remove Censorship… So You Don’t Have To"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/0DVUjpClqgI/hqdefault.jpg",
+      "representative_video_id": "0DVUjpClqgI",
+      "representative_title": "Claude Fable 5 is INSANE."
+    },
+    {
+      "label": "Claude",
+      "count": 2,
+      "avg_view_count": 1352,
+      "avg_engagement_rate": 0.039175140258330035,
+      "avg_like_count": 43,
       "avg_comment_count": 5,
       "source_titles": [
-        "Huge Change Coming to ChatGPT"
+        "클로드 페이블5는 얼굴인식 카메라앱까지 그냥 만들어버립니다 ㄷㄷ",
+        "Fable 5 Built a GTA Clone in One Prompt"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/peh12aqHuxQ/hqdefault.jpg",
-      "representative_video_id": "peh12aqHuxQ",
-      "representative_title": "Huge Change Coming to ChatGPT"
+      "thumbnail_url": "https://i.ytimg.com/vi/gGdAzZXzq4w/hqdefault.jpg",
+      "representative_video_id": "gGdAzZXzq4w",
+      "representative_title": "클로드 페이블5는 얼굴인식 카메라앱까지 그냥 만들어버립니다 ㄷㄷ"
+    },
+    {
+      "label": "5천원은",
+      "count": 1,
+      "avg_view_count": 316571,
+      "avg_engagement_rate": 0.015266717418841272,
+      "avg_like_count": 4213,
+      "avg_comment_count": 620,
+      "source_titles": [
+        "5천원은 진짜 미쳤나 ㅋㅋㅋ 신형으로 돌아온 다이소 버전 에어팟 2세대;;"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/6IdMVaihOmY/hqdefault.jpg",
+      "representative_video_id": "6IdMVaihOmY",
+      "representative_title": "5천원은 진짜 미쳤나 ㅋㅋㅋ 신형으로 돌아온 다이소 버전 에어팟 2세대;;"
+    },
+    {
+      "label": "업데이트",
+      "count": 1,
+      "avg_view_count": 31987,
+      "avg_engagement_rate": 0.012442554787882577,
+      "avg_like_count": 355,
+      "avg_comment_count": 43,
+      "source_titles": [
+        "업데이트 할래말래 할래말래"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/qfT3xOXS1XU/hqdefault.jpg",
+      "representative_video_id": "qfT3xOXS1XU",
+      "representative_title": "업데이트 할래말래 할래말래"
+    },
+    {
+      "label": "MCP",
+      "count": 1,
+      "avg_view_count": 9479,
+      "avg_engagement_rate": 0.012765059605443612,
+      "avg_like_count": 120,
+      "avg_comment_count": 1,
+      "source_titles": [
+        "클로드코드를 국비지원으로 배울 수 있다고?!"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/Twv5Oa-fb3k/hqdefault.jpg",
+      "representative_video_id": "Twv5Oa-fb3k",
+      "representative_title": "클로드코드를 국비지원으로 배울 수 있다고?!"
+    },
+    {
+      "label": "다시",
+      "count": 1,
+      "avg_view_count": 5883,
+      "avg_engagement_rate": 0.039095699473057965,
+      "avg_like_count": 206,
+      "avg_comment_count": 24,
+      "source_titles": [
+        "다시 시작된 미사일 폭격...\"데이터센터 건설 취소\" 악재까지 ㄷㄷ.."
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/PNJZEmqF68U/hqdefault.jpg",
+      "representative_video_id": "PNJZEmqF68U",
+      "representative_title": "다시 시작된 미사일 폭격...\"데이터센터 건설 취소\" 악재까지 ㄷㄷ.."
+    },
+    {
+      "label": "냉동실",
+      "count": 1,
+      "avg_view_count": 5287,
+      "avg_engagement_rate": 0.031208624929071307,
+      "avg_like_count": 141,
+      "avg_comment_count": 24,
+      "source_titles": [
+        "냉동실, 커피포트를 대신할 수 있을까? 얼음정수기 제대로 확인해 봤습니다. [LG 퓨리케어 오브제컬렉션 얼음정수기]"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/E2YNwHMGEMw/hqdefault.jpg",
+      "representative_video_id": "E2YNwHMGEMw",
+      "representative_title": "냉동실, 커피포트를 대신할 수 있을까? 얼음정수기 제대로 확인해 봤습니다. [LG 퓨리케어 오브제컬렉션 얼음정수기]"
+    },
+    {
+      "label": "전쟁",
+      "count": 1,
+      "avg_view_count": 4192,
+      "avg_engagement_rate": 0.01359732824427481,
+      "avg_like_count": 43,
+      "avg_comment_count": 14,
+      "source_titles": [
+        "AI 전쟁 속 애플의 선택은?"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/QiLSOVPK2DY/hqdefault.jpg",
+      "representative_video_id": "QiLSOVPK2DY",
+      "representative_title": "AI 전쟁 속 애플의 선택은?"
     }
   ],
   "video_highlights": [
     {
-      "video_id": "7Y_pESdUxm0",
-      "channel_name": "귀곰",
-      "title": "음쓰 버리다 발가락 박살 날 뻔한 썰",
-      "thumbnail_url": "https://i.ytimg.com/vi/7Y_pESdUxm0/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=7Y_pESdUxm0",
-      "published_at": "2026-06-10T08:00:28Z",
-      "view_count": 36016,
-      "like_count": 244,
-      "comment_count": 17,
-      "engagement_rate": 0.007246779209240338,
-      "topic_cluster": "음쓰",
+      "video_id": "6IdMVaihOmY",
+      "channel_name": "ITSub잇섭",
+      "title": "5천원은 진짜 미쳤나 ㅋㅋㅋ 신형으로 돌아온 다이소 버전 에어팟 2세대;;",
+      "thumbnail_url": "https://i.ytimg.com/vi/6IdMVaihOmY/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=6IdMVaihOmY",
+      "published_at": "2026-06-11T11:15:06Z",
+      "view_count": 316571,
+      "like_count": 4213,
+      "comment_count": 620,
+      "engagement_rate": 0.015266717418841272,
+      "topic_cluster": "5천원은",
       "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "광고땜에 영상이랑 자막이 안보이는데요;;;;",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "haK1KoQWm18",
-      "channel_name": "AI Explained",
-      "title": "Claude Fable 5 - Full 319 page Breakdown",
-      "thumbnail_url": "https://i.ytimg.com/vi/haK1KoQWm18/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=haK1KoQWm18",
-      "published_at": "2026-06-10T18:43:12Z",
-      "view_count": 30736,
-      "like_count": 2150,
-      "comment_count": 201,
-      "engagement_rate": 0.0764901093180635,
-      "topic_cluster": "OpenAI",
-      "summary": "이 영상은 agents 이슈를 빌드 데모 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "I refuse to watch anything else until ma boi posts his video",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "k5c4auK4OK8",
-      "channel_name": "안될공학 - IT 테크 신기술",
-      "title": "AI에 뒤쳐져 구글과 손잡았다? 애플 AI의 진짜 목적... 시리가 아니라 운영체제였다 | WWDC26 총정리",
-      "thumbnail_url": "https://i.ytimg.com/vi/k5c4auK4OK8/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=k5c4auK4OK8",
-      "published_at": "2026-06-10T11:01:41Z",
-      "view_count": 19671,
-      "like_count": 675,
-      "comment_count": 192,
-      "engagement_rate": 0.044075034314473086,
-      "topic_cluster": "Gemini",
-      "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "에러...가 누구에요?",
+      "comment_signal": "다이소야 아파트도 만들어줘 ㅋ",
       "hook_type": "솔직 검증"
     },
     {
-      "video_id": "yh6Vr4t8GNM",
-      "channel_name": "테크몽 Techmong",
-      "title": "미친 ㅋㅋ 마우스가 반으로 접혀? 로지텍 모비 폴드 실사용 후기 [Mobi Fold & Spotlight 2]",
-      "thumbnail_url": "https://i.ytimg.com/vi/yh6Vr4t8GNM/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=yh6Vr4t8GNM",
-      "published_at": "2026-06-10T08:05:56Z",
-      "view_count": 14803,
-      "like_count": 294,
-      "comment_count": 65,
-      "engagement_rate": 0.02425184084307235,
-      "topic_cluster": "미친",
-      "summary": "이 영상은 사례 분석 이슈를 사례 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "2008년에 출시했던 마이크로소프트 아크 마우스와 비슷하네요 휴대성은 좋지만 매끈하고 평평한 곳이 아닌곳에서 사용하기 불편해서 노트북 가방에 들어있으면서 지금까지 10번도…",
-      "hook_type": "솔직 검증"
+      "video_id": "0DVUjpClqgI",
+      "channel_name": "tef",
+      "title": "Claude Fable 5 is INSANE.",
+      "thumbnail_url": "https://i.ytimg.com/vi/0DVUjpClqgI/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=0DVUjpClqgI",
+      "published_at": "2026-06-11T01:21:33Z",
+      "view_count": 196148,
+      "like_count": 13807,
+      "comment_count": 1034,
+      "engagement_rate": 0.07566225503191468,
+      "topic_cluster": "ChatGPT",
+      "summary": "이 영상은 coding 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "Make fable 5 make a programming language, then make a game engine that uses that language, then…",
+      "hook_type": "문제 해결"
     },
     {
-      "video_id": "OPEkVhRJysE",
-      "channel_name": "월텍남 - 월스트리트 테크남",
-      "title": "젠슨황 \"폭락하면 매수기회다\"..월가의 논리는 이렇습니다.",
-      "thumbnail_url": "https://i.ytimg.com/vi/OPEkVhRJysE/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=OPEkVhRJysE",
-      "published_at": "2026-06-10T11:38:59Z",
-      "view_count": 7119,
-      "like_count": 311,
+      "video_id": "qfT3xOXS1XU",
+      "channel_name": "주연 ZUYONI",
+      "title": "업데이트 할래말래 할래말래",
+      "thumbnail_url": "https://i.ytimg.com/vi/qfT3xOXS1XU/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=qfT3xOXS1XU",
+      "published_at": "2026-06-11T10:35:53Z",
+      "view_count": 31987,
+      "like_count": 355,
       "comment_count": 43,
-      "engagement_rate": 0.049726085124315214,
-      "topic_cluster": "agents",
-      "summary": "이 영상은 agents 이슈를 비교 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "월텍남은 항상 롱뷰라서 듣기가 마음이 편해요 감삼다.. 요며칠 우울띠햇는데 ㅜㅜ",
+      "engagement_rate": 0.012442554787882577,
+      "topic_cluster": "업데이트",
+      "summary": "이 영상은 비교 이슈를 비교 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "다이어트하는 사람이 ai 과자 분석 보고 안 먹을 거면 애초에 먹지 않았을 사람임",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "Twv5Oa-fb3k",
+      "channel_name": "알린 ALINN",
+      "title": "클로드코드를 국비지원으로 배울 수 있다고?!",
+      "thumbnail_url": "https://i.ytimg.com/vi/Twv5Oa-fb3k/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=Twv5Oa-fb3k",
+      "published_at": "2026-06-11T01:00:48Z",
+      "view_count": 9479,
+      "like_count": 120,
+      "comment_count": 1,
+      "engagement_rate": 0.012765059605443612,
+      "topic_cluster": "MCP",
+      "summary": "이 영상은 agents 이슈를 빌드 데모 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "국비 지원받고 클로드 코드 마스터하기 👉 https://bit.ly/4fUEv14 #클로드코드 #자동화 #국비지원 #스파르타클럽 #ad",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "D8j11jdkAL8",
+      "channel_name": "AI Samson",
+      "title": "I Jailbroke Claude to Remove Censorship… So You Don’t Have To",
+      "thumbnail_url": "https://i.ytimg.com/vi/D8j11jdkAL8/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=D8j11jdkAL8",
+      "published_at": "2026-06-11T00:58:58Z",
+      "view_count": 6678,
+      "like_count": 501,
+      "comment_count": 61,
+      "engagement_rate": 0.08415693321353698,
+      "topic_cluster": "ChatGPT",
+      "summary": "이 영상은 agents 이슈를 워크플로우 튜토리얼 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "I have honestly spent more time arguing with Claude about its safety policy than actually getti…",
       "hook_type": "문제 해결"
     }
   ]
