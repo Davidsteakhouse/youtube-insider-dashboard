@@ -1,250 +1,262 @@
 {
-  "digest_date": "2026-06-19",
-  "generated_at": "2026-06-19T01:50:06+00:00",
-  "summary": "최근 24시간 영상 10개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'Claude'입니다. 특히 '🚨 티빙 해킹 ‘내 정보 어디에서 털렸는지’ 확인하는 법!(고정댓글 참고!)'는 조회수 59.0K, 참여율 5.0%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "'Claude' 주제가 2개 영상으로 가장 많이 다뤄졌습니다. Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n[내 채널] 7일 평균 2.6K회 · 지속률 30.2% / 경쟁사 평균 8.4K회 (격차 -70%)",
-  "telegram_preview": "📡 스마트대디 모니터링 | 06/19\n\n📊 수집: 영상 10개 | 채널 8개\n\n🔥 참여율 TOP 3\n1. [주연 ZUYONI] 5.0% · 59.0K뷰\n   🚨 티빙 해킹 ‘내 정보 어디에서 털렸는지’ 확인하는 법!(고정댓글 참고!)\n2. [AI Samson] 5.4% · 13.4K뷰\n   AI is Changing Creativity Forever (15 Disturbing Examples)\n3. [The AI Automators] 4.3% · 3.0K뷰\n   The New RAG Method that Sees the Page Instead of Reading It\n\n📌 화제 키워드\n   coding · agents · research · monetization · automation\n\n🎬 포맷: 뉴스 분석 5개 · 빌드 데모 3개 · 비교 1개\n\n📈 스마트대디 어제 실적\n조회수 2.0K (↓20% vs 7일 평균) | 구독 +0\n시청 지속률 31.5% | 평균 시청 2분 00초\n경쟁사 평균 8.4K회 대비 내 7일 평균 -70%\n\n💡 VS 각도: Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
-  "video_count": 10,
-  "total_recent_video_count": 10,
+  "digest_date": "2026-06-20",
+  "generated_at": "2026-06-20T00:18:21+00:00",
+  "summary": "최근 24시간 영상 19개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'ChatGPT'입니다. 특히 '역대급 티빙 개인정보 유출사태 정리. 이번 해킹은 진짜 너무 위험합니다...'는 조회수 302.9K, 참여율 3.4%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "'ChatGPT' 주제가 3개 영상으로 가장 많이 다뤄졌습니다. ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.\n[내 채널] 7일 평균 2.2K회 · 지속률 30.2% / 경쟁사 평균 29.0K회 (격차 -92%)",
+  "telegram_preview": "📡 스마트대디 모니터링 | 06/20\n\n📊 수집: 영상 19개 | 채널 11개\n\n🔥 참여율 TOP 3\n1. [ITSub잇섭] 3.4% · 302.9K뷰\n   역대급 티빙 개인정보 유출사태 정리. 이번 해킹은 진짜 너무 위험합니다...\n2. [테크몽 Techmong] 2.0% · 94.2K뷰\n   AI 안경 끼고 수능 문제 풀어봤습니다. 그런데 점수가..\n3. [tef] 6.2% · 69.0K뷰\n   GLM 5.2 vs Claude\n\n📌 화제 키워드\n   agents · coding · automation · research · monetization\n\n🎬 포맷: 뉴스 분석 11개 · 비교 4개 · 빌드 데모 2개\n\n📈 스마트대디 어제 실적\n조회수 1.8K (↓19% vs 7일 평균) | 구독 -3\n시청 지속률 29.4% | 평균 시청 1분 53초\n경쟁사 평균 29.0K회 대비 내 7일 평균 -92%\n\n💡 VS 각도: ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+  "video_count": 19,
+  "total_recent_video_count": 19,
   "focus_scope": "all_watchlist",
-  "average_view_count": 8413.0,
-  "average_engagement_rate": 0.07803556414236874,
-  "average_like_count": 384.0,
-  "average_comment_count": 25.0,
-  "best_video_id": "UHkoFonBej4",
-  "best_topic": "Claude",
+  "average_view_count": 28960.0,
+  "average_engagement_rate": 0.03857714292065612,
+  "average_like_count": 842.0,
+  "average_comment_count": 167.0,
+  "best_video_id": "2djZwuRb5K8",
+  "best_topic": "ChatGPT",
   "summary_points": [
-    "가장 겹친 주제는 'Claude'이며 2개 영상, 평균 조회수 1.7K, 평균 참여율 17.8%입니다.",
-    "최고 실적 영상은 '🚨 티빙 해킹 ‘내 정보 어디에서 털렸는지’ 확인하는 법!(고정댓글 참고!)'이며 문제 해결 훅과 뉴스 분석 포맷 조합이 강했습니다.",
-    "반복 노출된 툴은 Claude 3회, Arc 3회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
+    "가장 겹친 주제는 'ChatGPT'이며 3개 영상, 평균 조회수 23.4K, 평균 참여율 4.1%입니다.",
+    "최고 실적 영상은 '역대급 티빙 개인정보 유출사태 정리. 이번 해킹은 진짜 너무 위험합니다...'이며 솔직 검증 훅과 빌드 데모 포맷 조합이 강했습니다.",
+    "반복 노출된 툴은 ChatGPT 4회, Claude 3회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
   ],
   "action_chips": [
-    "주제: Claude",
-    "훅: 문제 해결",
-    "포맷: 뉴스 분석",
-    "기준 채널: 주연 ZUYONI"
+    "주제: ChatGPT",
+    "훅: 솔직 검증",
+    "포맷: 빌드 데모",
+    "기준 채널: ITSub잇섭"
   ],
   "title_suggestions": [
-    "Claude vs ChatGPT, 일반인이 직접 써보니 이게 달랐다",
-    "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
-    "AI 비서 대결: Claude가 진짜 강한 상황은 따로 있었다"
+    "ChatGPT vs Claude vs Gemini, 일반인 업무 실전 대결 결과",
+    "GPT 최신 버전 직접 실험 — 이전이랑 진짜 달라?",
+    "GPT 써봤더니... 기대랑 다른 점 솔직하게 다 말해봄"
   ],
   "recommendations": [
     {
-      "title": "Claude vs ChatGPT, 일반인이 직접 써보니 이게 달랐다",
+      "title": "ChatGPT vs Claude vs Gemini, 일반인 업무 실전 대결 결과",
       "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "Claude 바로 해결",
-      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
-      "source_video_id": "90kPA7DOdRk",
-      "source": "The New RAG Method that Sees the Page Instead of Reading It",
-      "my_channel_context": "내 7일 평균 2.6K회 · 지속률 30.2% / 경쟁사 대비 -70%"
-    },
-    {
-      "title": "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
-      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "Claude 뭐가 다를까?",
-      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
+      "angle": "'ChatGPT'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
+      "thumbnail_copy": "ChatGPT 뭐가 다를까?",
+      "reason": "ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.",
       "source_video_id": "-DVxMLFhi3o",
       "source": "GLM 5.2 vs Claude",
-      "my_channel_context": "내 7일 평균 2.6K회 · 지속률 30.2% / 경쟁사 대비 -70%"
+      "my_channel_context": "내 7일 평균 2.2K회 · 지속률 30.2% / 경쟁사 대비 -92%"
+    },
+    {
+      "title": "GPT 최신 버전 직접 실험 — 이전이랑 진짜 달라?",
+      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
+      "angle": "'ChatGPT'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
+      "thumbnail_copy": "ChatGPT 뭐가 다를까?",
+      "reason": "ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.",
+      "source_video_id": "Nv5GLV0O2JI",
+      "source": "GLM 5.2 vs Opus 4.8 - 6 Impossible Prompts! [Insane Results!]",
+      "my_channel_context": "내 7일 평균 2.2K회 · 지속률 30.2% / 경쟁사 대비 -92%"
+    },
+    {
+      "title": "GPT 써봤더니... 기대랑 다른 점 솔직하게 다 말해봄",
+      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
+      "angle": "'ChatGPT'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
+      "thumbnail_copy": "ChatGPT 바로 해결",
+      "reason": "ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.",
+      "source_video_id": "ukSDO3OzsWE",
+      "source": "AI's Hidden Bias: The Real Risk We Face Today #shorts",
+      "my_channel_context": "내 7일 평균 2.2K회 · 지속률 30.2% / 경쟁사 대비 -92%"
     }
   ],
   "topic_clusters": [
     {
-      "label": "Claude",
+      "label": "ChatGPT",
+      "count": 3,
+      "avg_view_count": 23397,
+      "avg_engagement_rate": 0.04123297238365442,
+      "avg_like_count": 1294,
+      "avg_comment_count": 159,
+      "source_titles": [
+        "GLM 5.2 vs Claude",
+        "GLM 5.2 vs Opus 4.8 - 6 Impossible Prompts! [Insane Results!]",
+        "AI's Hidden Bias: The Real Risk We Face Today #shorts"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/-DVxMLFhi3o/hqdefault.jpg",
+      "representative_video_id": "-DVxMLFhi3o",
+      "representative_title": "GLM 5.2 vs Claude"
+    },
+    {
+      "label": "AIs",
       "count": 2,
-      "avg_view_count": 1669,
-      "avg_engagement_rate": 0.17835311103768298,
-      "avg_like_count": 100,
-      "avg_comment_count": 23,
+      "avg_view_count": 82,
+      "avg_engagement_rate": 0.0,
+      "avg_like_count": 0,
+      "avg_comment_count": 0,
       "source_titles": [
-        "The New RAG Method that Sees the Page Instead of Reading It",
-        "GLM 5.2 vs Claude"
+        "AI's Creative Revolution: Redefining Reality & Ethics #shorts",
+        "AI's Power: Expanding Knowledge & Plausible Delusions! #shorts"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/90kPA7DOdRk/hqdefault.jpg",
-      "representative_video_id": "90kPA7DOdRk",
-      "representative_title": "The New RAG Method that Sees the Page Instead of Reading It"
+      "thumbnail_url": "https://i.ytimg.com/vi/PHq4kHEcwys/hqdefault.jpg",
+      "representative_video_id": "PHq4kHEcwys",
+      "representative_title": "AI's Creative Revolution: Redefining Reality & Ethics #shorts"
     },
     {
-      "label": "티빙",
+      "label": "역대급",
       "count": 1,
-      "avg_view_count": 59012,
-      "avg_engagement_rate": 0.04968480986917915,
-      "avg_like_count": 2888,
-      "avg_comment_count": 44,
+      "avg_view_count": 302935,
+      "avg_engagement_rate": 0.033749814316602574,
+      "avg_like_count": 8343,
+      "avg_comment_count": 1881,
       "source_titles": [
-        "🚨 티빙 해킹 ‘내 정보 어디에서 털렸는지’ 확인하는 법!(고정댓글 참고!)"
+        "역대급 티빙 개인정보 유출사태 정리. 이번 해킹은 진짜 너무 위험합니다..."
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/UHkoFonBej4/hqdefault.jpg",
-      "representative_video_id": "UHkoFonBej4",
-      "representative_title": "🚨 티빙 해킹 ‘내 정보 어디에서 털렸는지’ 확인하는 법!(고정댓글 참고!)"
+      "thumbnail_url": "https://i.ytimg.com/vi/2djZwuRb5K8/hqdefault.jpg",
+      "representative_video_id": "2djZwuRb5K8",
+      "representative_title": "역대급 티빙 개인정보 유출사태 정리. 이번 해킹은 진짜 너무 위험합니다..."
     },
     {
-      "label": "Arc",
+      "label": "안경",
       "count": 1,
-      "avg_view_count": 13363,
-      "avg_engagement_rate": 0.053880116740252934,
-      "avg_like_count": 584,
-      "avg_comment_count": 136,
+      "avg_view_count": 94190,
+      "avg_engagement_rate": 0.01987472130799448,
+      "avg_like_count": 1494,
+      "avg_comment_count": 378,
       "source_titles": [
-        "AI is Changing Creativity Forever (15 Disturbing Examples)"
+        "AI 안경 끼고 수능 문제 풀어봤습니다. 그런데 점수가.."
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/ZZst_psfeWw/hqdefault.jpg",
-      "representative_video_id": "ZZst_psfeWw",
-      "representative_title": "AI is Changing Creativity Forever (15 Disturbing Examples)"
+      "thumbnail_url": "https://i.ytimg.com/vi/Vtni0Dz35sk/hqdefault.jpg",
+      "representative_video_id": "Vtni0Dz35sk",
+      "representative_title": "AI 안경 끼고 수능 문제 풀어봤습니다. 그런데 점수가.."
     },
     {
-      "label": "사진",
+      "label": "안",
       "count": 1,
-      "avg_view_count": 2500,
-      "avg_engagement_rate": 0.01,
-      "avg_like_count": 22,
-      "avg_comment_count": 3,
+      "avg_view_count": 50014,
+      "avg_engagement_rate": 0.028012156596153078,
+      "avg_like_count": 1127,
+      "avg_comment_count": 274,
       "source_titles": [
-        "사진 확장해주는 아이폰 아웃페인팅 ㄷㄷ"
+        "안 보고 사면 충격먹는다! 역대급 반전의 창문형 에어컨 끝장비교(26년 ver.) l 내돈내산"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/fFNZyi2pbP4/hqdefault.jpg",
-      "representative_video_id": "fFNZyi2pbP4",
-      "representative_title": "사진 확장해주는 아이폰 아웃페인팅 ㄷㄷ"
+      "thumbnail_url": "https://i.ytimg.com/vi/_CnlZDHIZqU/hqdefault.jpg",
+      "representative_video_id": "_CnlZDHIZqU",
+      "representative_title": "안 보고 사면 충격먹는다! 역대급 반전의 창문형 에어컨 끝장비교(26년 ver.) l 내돈내산"
     },
     {
-      "label": "애플",
+      "label": "부업",
       "count": 1,
-      "avg_view_count": 2126,
-      "avg_engagement_rate": 0.0051740357478833494,
-      "avg_like_count": 10,
-      "avg_comment_count": 1,
+      "avg_view_count": 16164,
+      "avg_engagement_rate": 0.03588220737441227,
+      "avg_like_count": 488,
+      "avg_comment_count": 92,
       "source_titles": [
-        "애플 인텔리전스로 강화된 아이폰 Clean Up 기능"
+        "부업: 테크유튜버, 본업은 가수로 하겠습니다. (에어팟/헤드폰 필수🎧)"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/r3b6HjmuM2U/hqdefault.jpg",
-      "representative_video_id": "r3b6HjmuM2U",
-      "representative_title": "애플 인텔리전스로 강화된 아이폰 Clean Up 기능"
+      "thumbnail_url": "https://i.ytimg.com/vi/dkLu_sOttw0/hqdefault.jpg",
+      "representative_video_id": "dkLu_sOttw0",
+      "representative_title": "부업: 테크유튜버, 본업은 가수로 하겠습니다. (에어팟/헤드폰 필수🎧)"
     },
     {
-      "label": "Ladybug",
+      "label": "Gemini",
       "count": 1,
-      "avg_view_count": 1370,
-      "avg_engagement_rate": 0.042335766423357665,
-      "avg_like_count": 47,
-      "avg_comment_count": 11,
+      "avg_view_count": 10748,
+      "avg_engagement_rate": 0.040658727205061404,
+      "avg_like_count": 396,
+      "avg_comment_count": 41,
       "source_titles": [
-        "Ladybug AI is the best AI Humanizer 🔥 #humanizer #school #ai #studytips #ladybugai"
+        "구글 역대급 업데이트 내놨습니다... AI로 원하는 부분만 편집, 기획까지 | Gemini Omni가 Google Flow에 합쳐지면서 생긴 미친 업데이트"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/QrKTpdU3kro/hqdefault.jpg",
-      "representative_video_id": "QrKTpdU3kro",
-      "representative_title": "Ladybug AI is the best AI Humanizer 🔥 #humanizer #school #ai #studytips #ladybugai"
+      "thumbnail_url": "https://i.ytimg.com/vi/f9JQgPZgb2w/hqdefault.jpg",
+      "representative_video_id": "f9JQgPZgb2w",
+      "representative_title": "구글 역대급 업데이트 내놨습니다... AI로 원하는 부분만 편집, 기획까지 | Gemini Omni가 Google Flow에 합쳐지면서 생긴 미친 업데이트"
     },
     {
       "label": "OpenAI",
       "count": 1,
-      "avg_view_count": 1320,
-      "avg_engagement_rate": 0.03939393939393939,
-      "avg_like_count": 46,
-      "avg_comment_count": 6,
+      "avg_view_count": 2942,
+      "avg_engagement_rate": 0.06254248810333107,
+      "avg_like_count": 177,
+      "avg_comment_count": 7,
       "source_titles": [
-        "GLM-5.2 Is INSANE – Is it The BEST New Open Source Model?"
+        "ChatGPT Finally Works While You Sleep & More AI News You Can Use"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/RuhhLUfTXrY/hqdefault.jpg",
-      "representative_video_id": "RuhhLUfTXrY",
-      "representative_title": "GLM-5.2 Is INSANE – Is it The BEST New Open Source Model?"
-    },
-    {
-      "label": "Masterclass",
-      "count": 1,
-      "avg_view_count": 1065,
-      "avg_engagement_rate": 0.03568075117370892,
-      "avg_like_count": 34,
-      "avg_comment_count": 4,
-      "source_titles": [
-        "Masterclass: Designing Organizational Change That Actually Sticks"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/sh9quihKZnM/hqdefault.jpg",
-      "representative_video_id": "sh9quihKZnM",
-      "representative_title": "Masterclass: Designing Organizational Change That Actually Sticks"
+      "thumbnail_url": "https://i.ytimg.com/vi/ow51ck2Rl44/hqdefault.jpg",
+      "representative_video_id": "ow51ck2Rl44",
+      "representative_title": "ChatGPT Finally Works While You Sleep & More AI News You Can Use"
     }
   ],
   "video_highlights": [
     {
-      "video_id": "UHkoFonBej4",
+      "video_id": "2djZwuRb5K8",
+      "channel_name": "ITSub잇섭",
+      "title": "역대급 티빙 개인정보 유출사태 정리. 이번 해킹은 진짜 너무 위험합니다...",
+      "thumbnail_url": "https://i.ytimg.com/vi/2djZwuRb5K8/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=2djZwuRb5K8",
+      "published_at": "2026-06-19T11:00:19Z",
+      "view_count": 302935,
+      "like_count": 8343,
+      "comment_count": 1881,
+      "engagement_rate": 0.033749814316602574,
+      "topic_cluster": "역대급",
+      "summary": "이 영상은 빌드 데모 이슈를 빌드 데모 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "쿠팡은 죽일라고 덤벼들더니 티밍은 조용하게 넘어가는게 신기함",
+      "hook_type": "솔직 검증"
+    },
+    {
+      "video_id": "Vtni0Dz35sk",
+      "channel_name": "테크몽 Techmong",
+      "title": "AI 안경 끼고 수능 문제 풀어봤습니다. 그런데 점수가..",
+      "thumbnail_url": "https://i.ytimg.com/vi/Vtni0Dz35sk/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=Vtni0Dz35sk",
+      "published_at": "2026-06-19T11:47:45Z",
+      "view_count": 94190,
+      "like_count": 1494,
+      "comment_count": 378,
+      "engagement_rate": 0.01987472130799448,
+      "topic_cluster": "안경",
+      "summary": "이 영상은 워크플로우 튜토리얼 이슈를 워크플로우 튜토리얼 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "어디서 수험장 전용 EMP 필요하다는 댓글 봤던 것 같은데 ㅋㅋㅋㅋㅋㅋ",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "-DVxMLFhi3o",
+      "channel_name": "tef",
+      "title": "GLM 5.2 vs Claude",
+      "thumbnail_url": "https://i.ytimg.com/vi/-DVxMLFhi3o/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=-DVxMLFhi3o",
+      "published_at": "2026-06-19T01:36:16Z",
+      "view_count": 68953,
+      "like_count": 3833,
+      "comment_count": 467,
+      "engagement_rate": 0.062361318579322145,
+      "topic_cluster": "ChatGPT",
+      "summary": "이 영상은 coding 이슈를 비교 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "Infinite content glitch 😭",
+      "hook_type": "비교"
+    },
+    {
+      "video_id": "_CnlZDHIZqU",
+      "channel_name": "귀곰",
+      "title": "안 보고 사면 충격먹는다! 역대급 반전의 창문형 에어컨 끝장비교(26년 ver.) l 내돈내산",
+      "thumbnail_url": "https://i.ytimg.com/vi/_CnlZDHIZqU/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=_CnlZDHIZqU",
+      "published_at": "2026-06-19T08:00:06Z",
+      "view_count": 50014,
+      "like_count": 1127,
+      "comment_count": 274,
+      "engagement_rate": 0.028012156596153078,
+      "topic_cluster": "안",
+      "summary": "이 영상은 비교 이슈를 비교 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "귀뚜라미 as생각하면 비추입니다. 작년에 산 모델 소음 문제로 이번에 as 신청했는데 보일러 기사님이 오셨어요; 보일러 기사님 말로는 본사에서 교육은 했는데 수리 해본적도…",
+      "hook_type": "비교"
+    },
+    {
+      "video_id": "dkLu_sOttw0",
       "channel_name": "주연 ZUYONI",
-      "title": "🚨 티빙 해킹 ‘내 정보 어디에서 털렸는지’ 확인하는 법!(고정댓글 참고!)",
-      "thumbnail_url": "https://i.ytimg.com/vi/UHkoFonBej4/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=UHkoFonBej4",
-      "published_at": "2026-06-18T12:30:36Z",
-      "view_count": 59012,
-      "like_count": 2888,
-      "comment_count": 44,
-      "engagement_rate": 0.04968480986917915,
-      "topic_cluster": "티빙",
-      "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "이걸 티빙이 아니라 테크유튜버가 해준다는거부터 cj가 문제임",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "ZZst_psfeWw",
-      "channel_name": "AI Samson",
-      "title": "AI is Changing Creativity Forever (15 Disturbing Examples)",
-      "thumbnail_url": "https://i.ytimg.com/vi/ZZst_psfeWw/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=ZZst_psfeWw",
-      "published_at": "2026-06-18T07:11:34Z",
-      "view_count": 13363,
-      "like_count": 584,
-      "comment_count": 136,
-      "engagement_rate": 0.053880116740252934,
-      "topic_cluster": "Arc",
-      "summary": "이 영상은 coding 이슈를 빌드 데모 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "I knew it from the beginning. It was more of a feeling I can’t really describe precisely, but s…",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "90kPA7DOdRk",
-      "channel_name": "The AI Automators",
-      "title": "The New RAG Method that Sees the Page Instead of Reading It",
-      "thumbnail_url": "https://i.ytimg.com/vi/90kPA7DOdRk/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=90kPA7DOdRk",
-      "published_at": "2026-06-18T11:25:57Z",
-      "view_count": 2962,
-      "like_count": 121,
-      "comment_count": 6,
-      "engagement_rate": 0.04287643484132343,
-      "topic_cluster": "Claude",
-      "summary": "이 영상은 agents 이슈를 워크플로우 튜토리얼 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "Isn't creating a vector database of Wikipedia screenshots just a preprocessing step? And couldn…",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "fFNZyi2pbP4",
-      "channel_name": "안될공학 - IT 테크 신기술",
-      "title": "사진 확장해주는 아이폰 아웃페인팅 ㄷㄷ",
-      "thumbnail_url": "https://i.ytimg.com/vi/fFNZyi2pbP4/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=fFNZyi2pbP4",
-      "published_at": "2026-06-18T09:21:12Z",
-      "view_count": 2500,
-      "like_count": 22,
-      "comment_count": 3,
-      "engagement_rate": 0.01,
-      "topic_cluster": "사진",
-      "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "믿을사진 하나없구만",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "r3b6HjmuM2U",
-      "channel_name": "안될공학 - IT 테크 신기술",
-      "title": "애플 인텔리전스로 강화된 아이폰 Clean Up 기능",
-      "thumbnail_url": "https://i.ytimg.com/vi/r3b6HjmuM2U/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=r3b6HjmuM2U",
-      "published_at": "2026-06-18T09:21:10Z",
-      "view_count": 2126,
-      "like_count": 10,
-      "comment_count": 1,
-      "engagement_rate": 0.0051740357478833494,
-      "topic_cluster": "애플",
-      "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "이제 애플도 이거 되네.",
+      "title": "부업: 테크유튜버, 본업은 가수로 하겠습니다. (에어팟/헤드폰 필수🎧)",
+      "thumbnail_url": "https://i.ytimg.com/vi/dkLu_sOttw0/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=dkLu_sOttw0",
+      "published_at": "2026-06-19T09:55:10Z",
+      "view_count": 16164,
+      "like_count": 488,
+      "comment_count": 92,
+      "engagement_rate": 0.03588220737441227,
+      "topic_cluster": "부업",
+      "summary": "이 영상은 사례 분석 이슈를 사례 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "🎧 3집 SLOMO 공간음향으로 들으러 가기! 👉 https://lnk.to/SLOMO2026 테크 유튜버의 진짜 광기... 공간음향 리뷰하려고 직접 작사하고 노래까지 낸…",
       "hook_type": "문제 해결"
     }
   ]
