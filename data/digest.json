@@ -1,222 +1,251 @@
 {
-  "digest_date": "2026-06-24",
-  "generated_at": "2026-06-24T00:07:14+00:00",
-  "summary": "최근 24시간 영상 7개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'Claude'입니다. 특히 'AI 안경 끼고 수능 풀어봤더니..소름;'는 조회수 128.6K, 참여율 0.4%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "'Claude' 주제가 2개 영상으로 가장 많이 다뤄졌습니다. Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n[내 채널] 7일 평균 2.5K회 · 지속률 34.8% / 경쟁사 평균 27.2K회 (격차 -91%)",
-  "telegram_preview": "📡 스마트대디 모니터링 | 06/24\n\n📊 수집: 영상 7개 | 채널 7개\n\n🔥 참여율 TOP 3\n1. [테크몽 Techmong] 0.4% · 128.6K뷰\n   AI 안경 끼고 수능 풀어봤더니..소름;\n2. [주연 ZUYONI] 3.1% · 26.6K뷰\n   휴대용 키보드 70만 원어치 다 써보고 내린 결론!\n3. [tef] 7.4% · 15.7K뷰\n   Building a Viral Roblox Game w/ ONLY AI\n\n📌 화제 키워드\n   agents · coding · automation · research · monetization\n\n🎬 포맷: 워크플로우 튜토리얼 3개 · 뉴스 분석 2개 · 비교 1개\n\n📈 스마트대디 어제 실적\n조회수 2.7K (↑8% vs 7일 평균) | 구독 +4\n시청 지속률 34.7% | 평균 시청 2분 02초\n경쟁사 평균 27.2K회 대비 내 7일 평균 -91%\n\n💡 VS 각도: Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
-  "video_count": 7,
-  "total_recent_video_count": 7,
+  "digest_date": "2026-06-25",
+  "generated_at": "2026-06-25T00:21:05+00:00",
+  "summary": "최근 24시간 영상 17개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'AWS'입니다. 특히 '샌디스크 특허 충격... HBM 다음 HBF? 쉽지는 않습니다 DRAM이 아니라 NAND거든요'는 조회수 70.7K, 참여율 2.9%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "'AWS' 주제가 6개 영상으로 가장 많이 다뤄졌습니다. 일반인 관점 직접 실험 or VS 비교 각도로 차별화할 영역이 있습니다.\n[내 채널] 7일 평균 2.6K회 · 지속률 35.0% / 경쟁사 평균 6.7K회 (격차 -61%)",
+  "telegram_preview": "📡 스마트대디 모니터링 | 06/25\n\n📊 수집: 영상 17개 | 채널 10개\n\n🔥 참여율 TOP 3\n1. [안될공학 - IT 테크 신기술] 2.9% · 70.7K뷰\n   샌디스크 특허 충격... HBM 다음 HBF? 쉽지는 않습니다 DRAM이 아니라 NAND거든요\n2. [tef] 7.5% · 26.4K뷰\n   ChatGPT vs Gemini vs Claude Make FC 26 From Scratch\n3. [AI Samson] 5.8% · 6.5K뷰\n   Seedance 2.5 Changed AI Videos Forever\n\n📌 화제 키워드\n   coding · automation · agents · research · monetization\n\n🎬 포맷: 뉴스 분석 7개 · 비교 5개 · 빌드 데모 3개\n\n📈 스마트대디 어제 실적\n조회수 2.2K (↓17% vs 7일 평균) | 구독 -3\n시청 지속률 32.8% | 평균 시청 1분 59초\n경쟁사 평균 6.7K회 대비 내 7일 평균 -61%\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+  "video_count": 17,
+  "total_recent_video_count": 17,
   "focus_scope": "all_watchlist",
-  "average_view_count": 27200.0,
-  "average_engagement_rate": 0.0399149189943751,
-  "average_like_count": 448.0,
-  "average_comment_count": 50.0,
-  "best_video_id": "eNeN6F1_JZ8",
-  "best_topic": "Claude",
+  "average_view_count": 6727.0,
+  "average_engagement_rate": 0.03255199540202952,
+  "average_like_count": 258.0,
+  "average_comment_count": 35.0,
+  "best_video_id": "S86P-vnX_Xg",
+  "best_topic": "AWS",
   "summary_points": [
-    "가장 겹친 주제는 'Claude'이며 2개 영상, 평균 조회수 8.0K, 평균 참여율 5.8%입니다.",
-    "최고 실적 영상은 'AI 안경 끼고 수능 풀어봤더니..소름;'이며 문제 해결 훅과 워크플로우 튜토리얼 포맷 조합이 강했습니다.",
-    "반복 노출된 툴은 Claude 2회, Arc 2회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
+    "가장 겹친 주제는 'AWS'이며 6개 영상, 평균 조회수 46, 평균 참여율 0.0%입니다.",
+    "최고 실적 영상은 '샌디스크 특허 충격... HBM 다음 HBF? 쉽지는 않습니다 DRAM이 아니라 NAND거든요'이며 문제 해결 훅과 비교 포맷 조합이 강했습니다.",
+    "반복 노출된 툴은 Claude 7회, Arc 4회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
   ],
   "action_chips": [
-    "주제: Claude",
+    "주제: AWS",
     "훅: 문제 해결",
-    "포맷: 워크플로우 튜토리얼",
-    "기준 채널: 테크몽 Techmong"
+    "포맷: 비교",
+    "기준 채널: 안될공학 - IT 테크 신기술"
   ],
   "title_suggestions": [
-    "Claude vs ChatGPT, 일반인이 직접 써보니 이게 달랐다",
-    "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
-    "AI 비서 대결: Claude가 진짜 강한 상황은 따로 있었다"
+    "AWS 직접 실험 — 이게 진짜 되나?",
+    "AWS vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
+    "AWS 써봤더니... (기대 vs 현실 솔직 후기)"
   ],
   "recommendations": [
     {
-      "title": "Claude vs ChatGPT, 일반인이 직접 써보니 이게 달랐다",
-      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "Claude 핵심 3가지",
-      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
-      "source_video_id": "6oRy9dr4_iQ",
-      "source": "Building a Viral Roblox Game w/ ONLY AI",
-      "my_channel_context": "내 7일 평균 2.5K회 · 지속률 34.8% / 경쟁사 대비 -91%"
+      "title": "AWS 직접 실험 — 이게 진짜 되나?",
+      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
+      "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
+      "thumbnail_copy": "AWS 바로 해결",
+      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
+      "source_video_id": "d92Oa1Ul7DU",
+      "source": "[AWS 클라우드 부트캠프] 5개월 뒤 클라우드 엔지니어로 취업시켜드립니다",
+      "my_channel_context": "내 7일 평균 2.6K회 · 지속률 35.0% / 경쟁사 대비 -61%"
     },
     {
-      "title": "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
-      "hook": "첫 15초에 '이번 업데이트에서 진짜 써볼 만한 것만 추려준다'는 약속을 분명하게 주는 구조",
-      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "Claude 바로 해결",
-      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
-      "source_video_id": "nHYml6DW5OI",
-      "source": "Get a FULL YT Video in 1 Prompt (Steal This)",
-      "my_channel_context": "내 7일 평균 2.5K회 · 지속률 34.8% / 경쟁사 대비 -91%"
+      "title": "AWS vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
+      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
+      "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
+      "thumbnail_copy": "AWS 바로 해결",
+      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
+      "source_video_id": "KRL4QzCfums",
+      "source": "[AWS 클라우드 부트캠프] 이번 기수 한정, 총 6천만 원 혜택 제공🎁",
+      "my_channel_context": "내 7일 평균 2.6K회 · 지속률 35.0% / 경쟁사 대비 -61%"
+    },
+    {
+      "title": "AWS 써봤더니... (기대 vs 현실 솔직 후기)",
+      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
+      "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
+      "thumbnail_copy": "AWS 바로 해결",
+      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
+      "source_video_id": "pDJcfkMKDPk",
+      "source": "[AWS 클라우드 부트캠프] 단독 인턴십 기회 제공, 지금 바로 지원하세요",
+      "my_channel_context": "내 7일 평균 2.6K회 · 지속률 35.0% / 경쟁사 대비 -61%"
     }
   ],
   "topic_clusters": [
     {
+      "label": "AWS",
+      "count": 6,
+      "avg_view_count": 46,
+      "avg_engagement_rate": 0.0,
+      "avg_like_count": 0,
+      "avg_comment_count": 0,
+      "source_titles": [
+        "[AWS 클라우드 부트캠프] 5개월 뒤 클라우드 엔지니어로 취업시켜드립니다",
+        "[AWS 클라우드 부트캠프] 이번 기수 한정, 총 6천만 원 혜택 제공🎁",
+        "[AWS 클라우드 부트캠프] 단독 인턴십 기회 제공, 지금 바로 지원하세요"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/d92Oa1Ul7DU/hqdefault.jpg",
+      "representative_video_id": "d92Oa1Ul7DU",
+      "representative_title": "[AWS 클라우드 부트캠프] 5개월 뒤 클라우드 엔지니어로 취업시켜드립니다"
+    },
+    {
       "label": "Claude",
-      "count": 2,
-      "avg_view_count": 8002,
-      "avg_engagement_rate": 0.05802025577294839,
-      "avg_like_count": 500,
-      "avg_comment_count": 90,
+      "count": 4,
+      "avg_view_count": 2964,
+      "avg_engagement_rate": 0.05975438011926263,
+      "avg_like_count": 144,
+      "avg_comment_count": 20,
       "source_titles": [
-        "Building a Viral Roblox Game w/ ONLY AI",
-        "Get a FULL YT Video in 1 Prompt (Steal This)"
+        "Seedance 2.5 Changed AI Videos Forever",
+        "클로드 가격으로 압살하는 GLM 5.2 성능이 미쳤습니다.. ㄷㄷ",
+        "Understand the FULL Claude Ecosystem in One Video"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/6oRy9dr4_iQ/hqdefault.jpg",
-      "representative_video_id": "6oRy9dr4_iQ",
-      "representative_title": "Building a Viral Roblox Game w/ ONLY AI"
+      "thumbnail_url": "https://i.ytimg.com/vi/6xHG9bRWLNQ/hqdefault.jpg",
+      "representative_video_id": "6xHG9bRWLNQ",
+      "representative_title": "Seedance 2.5 Changed AI Videos Forever"
     },
     {
-      "label": "안경",
-      "count": 1,
-      "avg_view_count": 128629,
-      "avg_engagement_rate": 0.004400251887210505,
-      "avg_like_count": 519,
-      "avg_comment_count": 47,
+      "label": "ChatGPT",
+      "count": 3,
+      "avg_view_count": 9834,
+      "avg_engagement_rate": 0.06583176077333178,
+      "avg_like_count": 633,
+      "avg_comment_count": 96,
       "source_titles": [
-        "AI 안경 끼고 수능 풀어봤더니..소름;"
+        "ChatGPT vs Gemini vs Claude Make FC 26 From Scratch",
+        "10 Ways to 10x Your Claude Usage",
+        "Emails in ChatGPT Actually Work Now!"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/eNeN6F1_JZ8/hqdefault.jpg",
-      "representative_video_id": "eNeN6F1_JZ8",
-      "representative_title": "AI 안경 끼고 수능 풀어봤더니..소름;"
+      "thumbnail_url": "https://i.ytimg.com/vi/UUAajF3eMIk/hqdefault.jpg",
+      "representative_video_id": "UUAajF3eMIk",
+      "representative_title": "ChatGPT vs Gemini vs Claude Make FC 26 From Scratch"
     },
     {
-      "label": "휴대용",
+      "label": "샌디스크",
       "count": 1,
-      "avg_view_count": 26592,
-      "avg_engagement_rate": 0.031137184115523464,
-      "avg_like_count": 784,
-      "avg_comment_count": 44,
+      "avg_view_count": 70653,
+      "avg_engagement_rate": 0.02936888737916295,
+      "avg_like_count": 1850,
+      "avg_comment_count": 225,
       "source_titles": [
-        "휴대용 키보드 70만 원어치 다 써보고 내린 결론!"
+        "샌디스크 특허 충격... HBM 다음 HBF? 쉽지는 않습니다 DRAM이 아니라 NAND거든요"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/IXVPSSuUOeo/hqdefault.jpg",
-      "representative_video_id": "IXVPSSuUOeo",
-      "representative_title": "휴대용 키보드 70만 원어치 다 써보고 내린 결론!"
+      "thumbnail_url": "https://i.ytimg.com/vi/S86P-vnX_Xg/hqdefault.jpg",
+      "representative_video_id": "S86P-vnX_Xg",
+      "representative_title": "샌디스크 특허 충격... HBM 다음 HBF? 쉽지는 않습니다 DRAM이 아니라 NAND거든요"
     },
     {
-      "label": "monetization",
+      "label": "OpenAI",
       "count": 1,
-      "avg_view_count": 13234,
-      "avg_engagement_rate": 0.05213843131328397,
-      "avg_like_count": 627,
-      "avg_comment_count": 63,
-      "source_titles": [
-        "엔비디아가 800V를 꺼낸 이유... GPU보다 먼저 전기가 막혔다 | 800VDC와 한국 전력기업의 기회"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/ozj0cU8339o/hqdefault.jpg",
-      "representative_video_id": "ozj0cU8339o",
-      "representative_title": "엔비디아가 800V를 꺼낸 이유... GPU보다 먼저 전기가 막혔다 | 800VDC와 한국 전력기업의 기회"
-    },
-    {
-      "label": "agents",
-      "count": 1,
-      "avg_view_count": 4665,
-      "avg_engagement_rate": 0.03644158628081458,
-      "avg_like_count": 159,
-      "avg_comment_count": 11,
-      "source_titles": [
-        "차원이 다른 AI실시간 번역 기술.. 이제 언어의 벽이 완전히 무너집니다"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/_BDyPzL6G8c/hqdefault.jpg",
-      "representative_video_id": "_BDyPzL6G8c",
-      "representative_title": "차원이 다른 AI실시간 번역 기술.. 이제 언어의 벽이 완전히 무너집니다"
-    },
-    {
-      "label": "1분",
-      "count": 1,
-      "avg_view_count": 1274,
-      "avg_engagement_rate": 0.03924646781789639,
-      "avg_like_count": 47,
+      "avg_view_count": 1212,
+      "avg_engagement_rate": 0.02392739273927393,
+      "avg_like_count": 26,
       "avg_comment_count": 3,
       "source_titles": [
-        "1분 만에 AI 타임머신 영상 만드는 방법"
+        "How Sakana Fugu Uses a Mixture of Models to Beat Fable 5."
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/zF_EypvSZuM/hqdefault.jpg",
-      "representative_video_id": "zF_EypvSZuM",
-      "representative_title": "1분 만에 AI 타임머신 영상 만드는 방법"
+      "thumbnail_url": "https://i.ytimg.com/vi/30SS92PD3fU/hqdefault.jpg",
+      "representative_video_id": "30SS92PD3fU",
+      "representative_title": "How Sakana Fugu Uses a Mixture of Models to Beat Fable 5."
+    },
+    {
+      "label": "코딩",
+      "count": 1,
+      "avg_view_count": 799,
+      "avg_engagement_rate": 0.04505632040050062,
+      "avg_like_count": 33,
+      "avg_comment_count": 3,
+      "source_titles": [
+        "What \"Superteams\" Do Differently"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/Ik8MtANElGg/hqdefault.jpg",
+      "representative_video_id": "Ik8MtANElGg",
+      "representative_title": "What \"Superteams\" Do Differently"
+    },
+    {
+      "label": "pov.",
+      "count": 1,
+      "avg_view_count": 54,
+      "avg_engagement_rate": 0.018518518518518517,
+      "avg_like_count": 1,
+      "avg_comment_count": 0,
+      "source_titles": [
+        "pov. 생긴대로 개발하기 #개발자 #멋쟁이사자처럼"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/EC_mbxbiDoM/hqdefault.jpg",
+      "representative_video_id": "EC_mbxbiDoM",
+      "representative_title": "pov. 생긴대로 개발하기 #개발자 #멋쟁이사자처럼"
     }
   ],
   "video_highlights": [
     {
-      "video_id": "eNeN6F1_JZ8",
-      "channel_name": "테크몽 Techmong",
-      "title": "AI 안경 끼고 수능 풀어봤더니..소름;",
-      "thumbnail_url": "https://i.ytimg.com/vi/eNeN6F1_JZ8/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=eNeN6F1_JZ8",
-      "published_at": "2026-06-23T09:49:09Z",
-      "view_count": 128629,
-      "like_count": 519,
-      "comment_count": 47,
-      "engagement_rate": 0.004400251887210505,
-      "topic_cluster": "안경",
-      "summary": "이 영상은 워크플로우 튜토리얼 이슈를 워크플로우 튜토리얼 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "저 안경 걸려서 이슈되기전에 이익본사람 있겠는데",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "IXVPSSuUOeo",
-      "channel_name": "주연 ZUYONI",
-      "title": "휴대용 키보드 70만 원어치 다 써보고 내린 결론!",
-      "thumbnail_url": "https://i.ytimg.com/vi/IXVPSSuUOeo/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=IXVPSSuUOeo",
-      "published_at": "2026-06-23T03:34:44Z",
-      "view_count": 26592,
-      "like_count": 784,
-      "comment_count": 44,
-      "engagement_rate": 0.031137184115523464,
-      "topic_cluster": "휴대용",
-      "summary": "이 영상은 비교 이슈를 비교 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "이누나 갈수록 더 예뻐지네",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "6oRy9dr4_iQ",
-      "channel_name": "tef",
-      "title": "Building a Viral Roblox Game w/ ONLY AI",
-      "thumbnail_url": "https://i.ytimg.com/vi/6oRy9dr4_iQ/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=6oRy9dr4_iQ",
-      "published_at": "2026-06-23T02:21:07Z",
-      "view_count": 15691,
-      "like_count": 988,
-      "comment_count": 179,
-      "engagement_rate": 0.07437384487923013,
-      "topic_cluster": "Claude",
-      "summary": "이 영상은 agents 이슈를 빌드 데모 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "Yoooo where’s that goat sim ai game? 😂",
-      "hook_type": "실험"
-    },
-    {
-      "video_id": "ozj0cU8339o",
+      "video_id": "S86P-vnX_Xg",
       "channel_name": "안될공학 - IT 테크 신기술",
-      "title": "엔비디아가 800V를 꺼낸 이유... GPU보다 먼저 전기가 막혔다 | 800VDC와 한국 전력기업의 기회",
-      "thumbnail_url": "https://i.ytimg.com/vi/ozj0cU8339o/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=ozj0cU8339o",
-      "published_at": "2026-06-23T12:37:45Z",
-      "view_count": 13234,
-      "like_count": 627,
-      "comment_count": 63,
-      "engagement_rate": 0.05213843131328397,
-      "topic_cluster": "monetization",
-      "summary": "이 영상은 monetization 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "이누나 볼수록 찐이네.. 800vdc의 본질을 이렇게 이해하기 쉽게 설명하다니.. 에러형 미안 이젠 형의 전완근밖에 기억이 안나~",
+      "title": "샌디스크 특허 충격... HBM 다음 HBF? 쉽지는 않습니다 DRAM이 아니라 NAND거든요",
+      "thumbnail_url": "https://i.ytimg.com/vi/S86P-vnX_Xg/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=S86P-vnX_Xg",
+      "published_at": "2026-06-24T09:37:13Z",
+      "view_count": 70653,
+      "like_count": 1850,
+      "comment_count": 225,
+      "engagement_rate": 0.02936888737916295,
+      "topic_cluster": "샌디스크",
+      "summary": "이 영상은 비교 이슈를 비교 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "굵직한 아재목소리 없으니까 뭔가 하나도 안아쉽네",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "_BDyPzL6G8c",
-      "channel_name": "월텍남 - 월스트리트 테크남",
-      "title": "차원이 다른 AI실시간 번역 기술.. 이제 언어의 벽이 완전히 무너집니다",
-      "thumbnail_url": "https://i.ytimg.com/vi/_BDyPzL6G8c/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=_BDyPzL6G8c",
-      "published_at": "2026-06-23T09:49:54Z",
-      "view_count": 4665,
-      "like_count": 159,
-      "comment_count": 11,
-      "engagement_rate": 0.03644158628081458,
-      "topic_cluster": "agents",
-      "summary": "이 영상은 agents 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "오늘 오ㅐ 하락하는건가요",
+      "video_id": "UUAajF3eMIk",
+      "channel_name": "tef",
+      "title": "ChatGPT vs Gemini vs Claude Make FC 26 From Scratch",
+      "thumbnail_url": "https://i.ytimg.com/vi/UUAajF3eMIk/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=UUAajF3eMIk",
+      "published_at": "2026-06-24T02:25:43Z",
+      "view_count": 26381,
+      "like_count": 1713,
+      "comment_count": 276,
+      "engagement_rate": 0.07539517076683977,
+      "topic_cluster": "ChatGPT",
+      "summary": "이 영상은 agents 이슈를 비교 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "Thanks for my idea tef, I've been waiting forever",
+      "hook_type": "비교"
+    },
+    {
+      "video_id": "6xHG9bRWLNQ",
+      "channel_name": "AI Samson",
+      "title": "Seedance 2.5 Changed AI Videos Forever",
+      "thumbnail_url": "https://i.ytimg.com/vi/6xHG9bRWLNQ/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=6xHG9bRWLNQ",
+      "published_at": "2026-06-24T14:58:11Z",
+      "view_count": 6529,
+      "like_count": 325,
+      "comment_count": 56,
+      "engagement_rate": 0.05835503139837647,
+      "topic_cluster": "Claude",
+      "summary": "이 영상은 automation 이슈를 비교 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "I generated a 4-second 4K Seedance 2.0 clip yesterday and it cost me over $12.😮 So let’s say 2.…",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "kaCxBAxIF_g",
+      "channel_name": "성공지식백과",
+      "title": "클로드 가격으로 압살하는 GLM 5.2 성능이 미쳤습니다.. ㄷㄷ",
+      "thumbnail_url": "https://i.ytimg.com/vi/kaCxBAxIF_g/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=kaCxBAxIF_g",
+      "published_at": "2026-06-24T07:09:28Z",
+      "view_count": 3375,
+      "like_count": 72,
+      "comment_count": 10,
+      "engagement_rate": 0.024296296296296295,
+      "topic_cluster": "Claude",
+      "summary": "이 영상은 agents 이슈를 비교 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "확실히 성능이 좋은 것 같은데 중국기업이란게 걸리네요.. 아무튼 오픈소스로 이정도까지 구현한다는게 정말 대단합니다.",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "MS7E5TXNviM",
+      "channel_name": "Futurepedia",
+      "title": "Understand the FULL Claude Ecosystem in One Video",
+      "thumbnail_url": "https://i.ytimg.com/vi/MS7E5TXNviM/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=MS7E5TXNviM",
+      "published_at": "2026-06-24T20:05:15Z",
+      "view_count": 1730,
+      "like_count": 169,
+      "comment_count": 8,
+      "engagement_rate": 0.1023121387283237,
+      "topic_cluster": "Claude",
+      "summary": "이 영상은 automation 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "Excellent. Very well organized and clear. Thank you.",
       "hook_type": "문제 해결"
     }
   ]
