@@ -1,247 +1,107 @@
 {
-  "digest_date": "2026-06-27",
-  "generated_at": "2026-06-27T00:18:46+00:00",
-  "summary": "최근 24시간 영상 9개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'Claude'입니다. 특히 '긴급속보 | 애플, 최소 20만원 넘게 가격 올려버렸다? 갑자기 이런 미친 결정을 한 진짜 이유'는 조회수 223.5K, 참여율 1.9%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "'Claude' 주제가 3개 영상으로 가장 많이 다뤄졌습니다. Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n[내 채널] 7일 평균 2.3K회 · 지속률 33.9% / 경쟁사 평균 39.3K회 (격차 -94%)",
-  "telegram_preview": "📡 스마트대디 모니터링 | 06/27\n\n📊 수집: 영상 9개 | 채널 9개\n\n🔥 참여율 TOP 3\n1. [ITSub잇섭] 1.9% · 223.5K뷰\n   긴급속보 | 애플, 최소 20만원 넘게 가격 올려버렸다? 갑자기 이런 미친 결정을 한 진짜 이유\n2. [귀곰] 1.5% · 37.4K뷰\n   천외천의 기술이 더해진 하드웨어 괴물! 하지만….DJI ROMO 6개월 사용 솔직리뷰\n3. [주연 ZUYONI] 2.9% · 34.5K뷰\n   아이폰 존버 끝내세요. 17프로, 18프로 줄줄이 오르기 전 막차 타야하는 이유\n\n📌 화제 키워드\n   automation · coding · research · monetization · agents\n\n🎬 포맷: 뉴스 분석 5개 · 비교 2개 · 워크플로우 튜토리얼 2개\n\n📈 스마트대디 어제 실적\n조회수 2.0K (↓12% vs 7일 평균) | 구독 -8\n시청 지속률 33.4% | 평균 시청 2분 02초\n경쟁사 평균 39.3K회 대비 내 7일 평균 -94%\n\n💡 VS 각도: Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
-  "video_count": 9,
-  "total_recent_video_count": 9,
+  "digest_date": "2026-06-28",
+  "generated_at": "2026-06-28T00:12:19+00:00",
+  "summary": "최근 24시간 영상 2개를 기준으로 보면, 오늘 가장 먼저 볼 축은 '애플'입니다. 특히 '애플 가격 역대급 인상이… 메모리 기업 탓? 마이크론, 뼈 있는 한 마디'는 조회수 37.2K, 참여율 4.0%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "'애플' 주제가 1개 영상으로 가장 많이 다뤄졌습니다. 일반인 관점 직접 실험 or VS 비교 각도로 차별화할 영역이 있습니다.\n[내 채널] 7일 평균 2.1K회 · 지속률 33.5% / 경쟁사 평균 31.8K회 (격차 -93%)",
+  "telegram_preview": "📡 스마트대디 모니터링 | 06/28\n\n📊 수집: 영상 2개 | 채널 2개\n\n🔥 참여율 TOP 3\n1. [안될공학 - IT 테크 신기술] 4.0% · 37.2K뷰\n   애플 가격 역대급 인상이… 메모리 기업 탓? 마이크론, 뼈 있는 한 마디\n2. [tef] 6.6% · 26.3K뷰\n   10 AIs WORK TOGETHER to Make GTA From Scratch\n\n📌 화제 키워드\n   agents · research · coding\n\n🎬 포맷: 비교 1개 · 뉴스 분석 1개\n\n📈 스마트대디 어제 실적\n조회수 2.0K (↓6% vs 7일 평균) | 구독 -5\n시청 지속률 32.7% | 평균 시청 1분 59초\n경쟁사 평균 31.8K회 대비 내 7일 평균 -93%\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+  "video_count": 2,
+  "total_recent_video_count": 2,
   "focus_scope": "all_watchlist",
-  "average_view_count": 39276.0,
-  "average_engagement_rate": 0.0433242222592769,
-  "average_like_count": 824.0,
-  "average_comment_count": 196.0,
-  "best_video_id": "u-dSw0lLgB8",
-  "best_topic": "Claude",
+  "average_view_count": 31766.0,
+  "average_engagement_rate": 0.05304714050873735,
+  "average_like_count": 1280.0,
+  "average_comment_count": 334.0,
+  "best_video_id": "0GYTiMg41KE",
+  "best_topic": "애플",
   "summary_points": [
-    "가장 겹친 주제는 'Claude'이며 3개 영상, 평균 조회수 12.0K, 평균 참여율 5.1%입니다.",
-    "최고 실적 영상은 '긴급속보 | 애플, 최소 20만원 넘게 가격 올려버렸다? 갑자기 이런 미친 결정을 한 진짜 이유'이며 긴급성 훅과 뉴스 분석 포맷 조합이 강했습니다.",
-    "반복 노출된 툴은 Claude 5회, ChatGPT 2회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
+    "가장 겹친 주제는 '애플'이며 1개 영상, 평균 조회수 37.2K, 평균 참여율 4.0%입니다.",
+    "최고 실적 영상은 '애플 가격 역대급 인상이… 메모리 기업 탓? 마이크론, 뼈 있는 한 마디'이며 문제 해결 훅과 비교 포맷 조합이 강했습니다.",
+    "반복 노출된 툴은 ChatGPT 1회, Claude 1회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
   ],
   "action_chips": [
-    "주제: Claude",
-    "훅: 긴급성",
-    "포맷: 뉴스 분석",
-    "기준 채널: ITSub잇섭"
+    "주제: 애플",
+    "훅: 문제 해결",
+    "포맷: 비교",
+    "기준 채널: 안될공학 - IT 테크 신기술"
   ],
   "title_suggestions": [
-    "Claude vs ChatGPT, 일반인이 직접 써보니 이게 달랐다",
-    "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
-    "AI 비서 대결: Claude가 진짜 강한 상황은 따로 있었다"
+    "애플 직접 실험 — 이게 진짜 되나?",
+    "애플 vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
+    "애플 써봤더니... (기대 vs 현실 솔직 후기)"
   ],
   "recommendations": [
     {
-      "title": "Claude vs ChatGPT, 일반인이 직접 써보니 이게 달랐다",
-      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "Claude 바로 해결",
-      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
-      "source_video_id": "c30mA4z5GyQ",
-      "source": "Forget Nano Banana… This Is FREE",
-      "my_channel_context": "내 7일 평균 2.3K회 · 지속률 33.9% / 경쟁사 대비 -94%"
-    },
-    {
-      "title": "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
-      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "Claude 바로 해결",
-      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
-      "source_video_id": "bM9QBgd8ePY",
-      "source": "요즘 클로드가 그렇게 좋다며? 왕초보도 10분 만에 클로드 마스터하는 방법",
-      "my_channel_context": "내 7일 평균 2.3K회 · 지속률 33.9% / 경쟁사 대비 -94%"
-    },
-    {
-      "title": "AI 비서 대결: Claude가 진짜 강한 상황은 따로 있었다",
-      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "Claude 바로 해결",
-      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
-      "source_video_id": "ztJJ9s7qg9A",
-      "source": "요즘 유튜브 알고리즘이 좋아하는 영상, 이렇게 만듭니다 (허위 콘텐츠 걱정 없는 주제)",
-      "my_channel_context": "내 7일 평균 2.3K회 · 지속률 33.9% / 경쟁사 대비 -94%"
+      "title": "애플 직접 실험 — 이게 진짜 되나?",
+      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
+      "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
+      "thumbnail_copy": "애플 바로 해결",
+      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
+      "source_video_id": "0GYTiMg41KE",
+      "source": "애플 가격 역대급 인상이… 메모리 기업 탓? 마이크론, 뼈 있는 한 마디",
+      "my_channel_context": "내 7일 평균 2.1K회 · 지속률 33.5% / 경쟁사 대비 -93%"
     }
   ],
   "topic_clusters": [
     {
-      "label": "Claude",
-      "count": 3,
-      "avg_view_count": 12020,
-      "avg_engagement_rate": 0.05050736251233284,
-      "avg_like_count": 585,
-      "avg_comment_count": 48,
-      "source_titles": [
-        "Forget Nano Banana… This Is FREE",
-        "요즘 클로드가 그렇게 좋다며? 왕초보도 10분 만에 클로드 마스터하는 방법",
-        "요즘 유튜브 알고리즘이 좋아하는 영상, 이렇게 만듭니다 (허위 콘텐츠 걱정 없는 주제)"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/c30mA4z5GyQ/hqdefault.jpg",
-      "representative_video_id": "c30mA4z5GyQ",
-      "representative_title": "Forget Nano Banana… This Is FREE"
-    },
-    {
-      "label": "긴급속보",
+      "label": "애플",
       "count": 1,
-      "avg_view_count": 223484,
-      "avg_engagement_rate": 0.018618782552665962,
-      "avg_like_count": 3079,
-      "avg_comment_count": 1082,
+      "avg_view_count": 37221,
+      "avg_engagement_rate": 0.04011176486392091,
+      "avg_like_count": 1111,
+      "avg_comment_count": 382,
       "source_titles": [
-        "긴급속보 | 애플, 최소 20만원 넘게 가격 올려버렸다? 갑자기 이런 미친 결정을 한 진짜 이유"
+        "애플 가격 역대급 인상이… 메모리 기업 탓? 마이크론, 뼈 있는 한 마디"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/u-dSw0lLgB8/hqdefault.jpg",
-      "representative_video_id": "u-dSw0lLgB8",
-      "representative_title": "긴급속보 | 애플, 최소 20만원 넘게 가격 올려버렸다? 갑자기 이런 미친 결정을 한 진짜 이유"
-    },
-    {
-      "label": "천외천의",
-      "count": 1,
-      "avg_view_count": 37390,
-      "avg_engagement_rate": 0.01543193367210484,
-      "avg_like_count": 505,
-      "avg_comment_count": 72,
-      "source_titles": [
-        "천외천의 기술이 더해진 하드웨어 괴물! 하지만….DJI ROMO 6개월 사용 솔직리뷰"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/q3--1M809fo/hqdefault.jpg",
-      "representative_video_id": "q3--1M809fo",
-      "representative_title": "천외천의 기술이 더해진 하드웨어 괴물! 하지만….DJI ROMO 6개월 사용 솔직리뷰"
-    },
-    {
-      "label": "아이폰",
-      "count": 1,
-      "avg_view_count": 34528,
-      "avg_engagement_rate": 0.029048887859128823,
-      "avg_like_count": 745,
-      "avg_comment_count": 258,
-      "source_titles": [
-        "아이폰 존버 끝내세요. 17프로, 18프로 줄줄이 오르기 전 막차 타야하는 이유"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/faf-4jJUv4Y/hqdefault.jpg",
-      "representative_video_id": "faf-4jJUv4Y",
-      "representative_title": "아이폰 존버 끝내세요. 17프로, 18프로 줄줄이 오르기 전 막차 타야하는 이유"
+      "thumbnail_url": "https://i.ytimg.com/vi/0GYTiMg41KE/hqdefault.jpg",
+      "representative_video_id": "0GYTiMg41KE",
+      "representative_title": "애플 가격 역대급 인상이… 메모리 기업 탓? 마이크론, 뼈 있는 한 마디"
     },
     {
       "label": "ChatGPT",
       "count": 1,
-      "avg_view_count": 15765,
-      "avg_engagement_rate": 0.07941642879797019,
-      "avg_like_count": 1062,
-      "avg_comment_count": 190,
+      "avg_view_count": 26310,
+      "avg_engagement_rate": 0.06598251615355379,
+      "avg_like_count": 1449,
+      "avg_comment_count": 287,
       "source_titles": [
-        "AI Makes Brawl Stars"
+        "10 AIs WORK TOGETHER to Make GTA From Scratch"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/t0lZCNXbAEs/hqdefault.jpg",
-      "representative_video_id": "t0lZCNXbAEs",
-      "representative_title": "AI Makes Brawl Stars"
-    },
-    {
-      "label": "신암행어사",
-      "count": 1,
-      "avg_view_count": 3434,
-      "avg_engagement_rate": 0.0401863715783343,
-      "avg_like_count": 124,
-      "avg_comment_count": 14,
-      "source_titles": [
-        "신암행어사 미스황 각시탈 부대 #ai #bbananaai"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/gNMiRXeOkUs/hqdefault.jpg",
-      "representative_video_id": "gNMiRXeOkUs",
-      "representative_title": "신암행어사 미스황 각시탈 부대 #ai #bbananaai"
-    },
-    {
-      "label": "OpenAI",
-      "count": 1,
-      "avg_view_count": 2819,
-      "avg_engagement_rate": 0.055693508336289464,
-      "avg_like_count": 151,
-      "avg_comment_count": 6,
-      "source_titles": [
-        "OpenAI Just Gave Codex a Superpower & More AI News You Can Use"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/K7F0fNIQWKg/hqdefault.jpg",
-      "representative_video_id": "K7F0fNIQWKg",
-      "representative_title": "OpenAI Just Gave Codex a Superpower & More AI News You Can Use"
+      "thumbnail_url": "https://i.ytimg.com/vi/kD5Ig7JijbY/hqdefault.jpg",
+      "representative_video_id": "kD5Ig7JijbY",
+      "representative_title": "10 AIs WORK TOGETHER to Make GTA From Scratch"
     }
   ],
   "video_highlights": [
     {
-      "video_id": "u-dSw0lLgB8",
-      "channel_name": "ITSub잇섭",
-      "title": "긴급속보 | 애플, 최소 20만원 넘게 가격 올려버렸다? 갑자기 이런 미친 결정을 한 진짜 이유",
-      "thumbnail_url": "https://i.ytimg.com/vi/u-dSw0lLgB8/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=u-dSw0lLgB8",
-      "published_at": "2026-06-26T11:45:32Z",
-      "view_count": 223484,
-      "like_count": 3079,
-      "comment_count": 1082,
-      "engagement_rate": 0.018618782552665962,
-      "topic_cluster": "긴급속보",
-      "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "이제 메모리가 21세기의 석유이자 권력이다",
-      "hook_type": "긴급성"
-    },
-    {
-      "video_id": "q3--1M809fo",
-      "channel_name": "귀곰",
-      "title": "천외천의 기술이 더해진 하드웨어 괴물! 하지만….DJI ROMO 6개월 사용 솔직리뷰",
-      "thumbnail_url": "https://i.ytimg.com/vi/q3--1M809fo/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=q3--1M809fo",
-      "published_at": "2026-06-26T08:00:31Z",
-      "view_count": 37390,
-      "like_count": 505,
-      "comment_count": 72,
-      "engagement_rate": 0.01543193367210484,
-      "topic_cluster": "천외천의",
+      "video_id": "0GYTiMg41KE",
+      "channel_name": "안될공학 - IT 테크 신기술",
+      "title": "애플 가격 역대급 인상이… 메모리 기업 탓? 마이크론, 뼈 있는 한 마디",
+      "thumbnail_url": "https://i.ytimg.com/vi/0GYTiMg41KE/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=0GYTiMg41KE",
+      "published_at": "2026-06-27T13:28:51Z",
+      "view_count": 37221,
+      "like_count": 1111,
+      "comment_count": 382,
+      "engagement_rate": 0.04011176486392091,
+      "topic_cluster": "애플",
       "summary": "이 영상은 비교 이슈를 비교 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "지금은 모르겠지만 초기에 실시간으로 로보 청소기 영상을 노출 시키는 보안 구멍이 있었습니다. (구매하신분들은 반드시 최신 펌웨어 업데이트 필수로 해야합니다) dji에서도…",
-      "hook_type": "솔직 검증"
-    },
-    {
-      "video_id": "faf-4jJUv4Y",
-      "channel_name": "주연 ZUYONI",
-      "title": "아이폰 존버 끝내세요. 17프로, 18프로 줄줄이 오르기 전 막차 타야하는 이유",
-      "thumbnail_url": "https://i.ytimg.com/vi/faf-4jJUv4Y/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=faf-4jJUv4Y",
-      "published_at": "2026-06-26T11:29:53Z",
-      "view_count": 34528,
-      "like_count": 745,
-      "comment_count": 258,
-      "engagement_rate": 0.029048887859128823,
-      "topic_cluster": "아이폰",
-      "summary": "이 영상은 비교 이슈를 비교 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "홍명보 계란 맞는속도로 달려왔습니다",
-      "hook_type": "시간 절약"
-    },
-    {
-      "video_id": "c30mA4z5GyQ",
-      "channel_name": "AI Samson",
-      "title": "Forget Nano Banana… This Is FREE",
-      "thumbnail_url": "https://i.ytimg.com/vi/c30mA4z5GyQ/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=c30mA4z5GyQ",
-      "published_at": "2026-06-26T07:30:02Z",
-      "view_count": 33617,
-      "like_count": 1630,
-      "comment_count": 137,
-      "engagement_rate": 0.05256269149537436,
-      "topic_cluster": "Claude",
-      "summary": "이 영상은 agents 이슈를 워크플로우 튜토리얼 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "There's also Krea 2 - it will have edit option too soon and runs on lower spec hardware.",
+      "comment_signal": "애플이 OLED 저렴하게 사려고 삼성디스플레이 기술을 중국 BOE사에 유출되도록 지원했다는 애플 전직원들의 폭로가 있는거 보면 양아치 기업은 맞는듯",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "t0lZCNXbAEs",
+      "video_id": "kD5Ig7JijbY",
       "channel_name": "tef",
-      "title": "AI Makes Brawl Stars",
-      "thumbnail_url": "https://i.ytimg.com/vi/t0lZCNXbAEs/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=t0lZCNXbAEs",
-      "published_at": "2026-06-26T02:20:41Z",
-      "view_count": 15765,
-      "like_count": 1062,
-      "comment_count": 190,
-      "engagement_rate": 0.07941642879797019,
+      "title": "10 AIs WORK TOGETHER to Make GTA From Scratch",
+      "thumbnail_url": "https://i.ytimg.com/vi/kD5Ig7JijbY/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=kD5Ig7JijbY",
+      "published_at": "2026-06-27T11:28:30Z",
+      "view_count": 26310,
+      "like_count": 1449,
+      "comment_count": 287,
+      "engagement_rate": 0.06598251615355379,
       "topic_cluster": "ChatGPT",
-      "summary": "이 영상은 coding 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "Love your videos Tef. Hope you’re not going broke paying for these AIs",
+      "summary": "이 영상은 agents 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "bro why did you start with the two worst models grok fast and copilot??😭😭",
       "hook_type": "문제 해결"
     }
   ]
