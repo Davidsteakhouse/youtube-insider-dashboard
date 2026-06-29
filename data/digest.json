@@ -1,107 +1,136 @@
 {
-  "digest_date": "2026-06-28",
-  "generated_at": "2026-06-28T00:12:19+00:00",
-  "summary": "최근 24시간 영상 2개를 기준으로 보면, 오늘 가장 먼저 볼 축은 '애플'입니다. 특히 '애플 가격 역대급 인상이… 메모리 기업 탓? 마이크론, 뼈 있는 한 마디'는 조회수 37.2K, 참여율 4.0%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "'애플' 주제가 1개 영상으로 가장 많이 다뤄졌습니다. 일반인 관점 직접 실험 or VS 비교 각도로 차별화할 영역이 있습니다.\n[내 채널] 7일 평균 2.1K회 · 지속률 33.5% / 경쟁사 평균 31.8K회 (격차 -93%)",
-  "telegram_preview": "📡 스마트대디 모니터링 | 06/28\n\n📊 수집: 영상 2개 | 채널 2개\n\n🔥 참여율 TOP 3\n1. [안될공학 - IT 테크 신기술] 4.0% · 37.2K뷰\n   애플 가격 역대급 인상이… 메모리 기업 탓? 마이크론, 뼈 있는 한 마디\n2. [tef] 6.6% · 26.3K뷰\n   10 AIs WORK TOGETHER to Make GTA From Scratch\n\n📌 화제 키워드\n   agents · research · coding\n\n🎬 포맷: 비교 1개 · 뉴스 분석 1개\n\n📈 스마트대디 어제 실적\n조회수 2.0K (↓6% vs 7일 평균) | 구독 -5\n시청 지속률 32.7% | 평균 시청 1분 59초\n경쟁사 평균 31.8K회 대비 내 7일 평균 -93%\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
-  "video_count": 2,
-  "total_recent_video_count": 2,
+  "digest_date": "2026-06-29",
+  "generated_at": "2026-06-29T00:19:18+00:00",
+  "summary": "최근 24시간 영상 3개를 기준으로 보면, 오늘 가장 먼저 볼 축은 '마진쿡'입니다. 특히 '마진쿡 이거 진짜였어..? 아이폰18프로 예상 가격은? 애플 마진의 진실 #애플 #가격인상'는 조회수 19.4K, 참여율 1.2%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "'마진쿡' 주제가 1개 영상으로 가장 많이 다뤄졌습니다. 오늘 수집 영상 3개는 주로 '뉴스 분석' 포맷이라, VS 비교·직접 실험 각도는 아직 비어 있습니다. 일반인 관점 직접 실험 or VS 비교 각도로 차별화할 영역이 있습니다.\n[내 채널] 7일 평균 2.2K회 · 지속률 34.3% / 경쟁사 평균 12.2K회 (격차 -82%)",
+  "telegram_preview": "📡 스마트대디 모니터링 | 06/29\n\n📊 수집: 영상 3개 | 채널 2개\n\n🔥 참여율 TOP 3\n1. [주연 ZUYONI] 1.2% · 19.4K뷰\n   마진쿡 이거 진짜였어..? 아이폰18프로 예상 가격은? 애플 마진의 진실 #애플 #가격인상\n2. [주연 ZUYONI] 0.9% · 17.0K뷰\n   아이폰17살까? 기다릴까? 딱 정해드림 #아이폰17 #아이폰에어 #아이폰18\n3. [성공지식백과] 10.2% · 157뷰\n   힉스필드 AI + 포토샵 = 대체 디자이너는 이제 뭘하죠..? ㄷㄷ\n\n📌 화제 키워드\n   automation\n\n🎬 포맷: 뉴스 분석 2개 · 워크플로우 튜토리얼 1개\n\n📈 스마트대디 어제 실적\n조회수 2.6K (↑16% vs 7일 평균) | 구독 -8\n시청 지속률 36.0% | 평균 시청 2분 06초\n경쟁사 평균 12.2K회 대비 내 7일 평균 -82%\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+  "video_count": 3,
+  "total_recent_video_count": 3,
   "focus_scope": "all_watchlist",
-  "average_view_count": 31766.0,
-  "average_engagement_rate": 0.05304714050873735,
-  "average_like_count": 1280.0,
-  "average_comment_count": 334.0,
-  "best_video_id": "0GYTiMg41KE",
-  "best_topic": "애플",
+  "average_view_count": 12165.0,
+  "average_engagement_rate": 0.04112098581880703,
+  "average_like_count": 121.0,
+  "average_comment_count": 15.0,
+  "best_video_id": "yKtXIfb3C-4",
+  "best_topic": "마진쿡",
   "summary_points": [
-    "가장 겹친 주제는 '애플'이며 1개 영상, 평균 조회수 37.2K, 평균 참여율 4.0%입니다.",
-    "최고 실적 영상은 '애플 가격 역대급 인상이… 메모리 기업 탓? 마이크론, 뼈 있는 한 마디'이며 문제 해결 훅과 비교 포맷 조합이 강했습니다.",
-    "반복 노출된 툴은 ChatGPT 1회, Claude 1회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
+    "가장 겹친 주제는 '마진쿡'이며 1개 영상, 평균 조회수 19.4K, 평균 참여율 1.2%입니다.",
+    "최고 실적 영상은 '마진쿡 이거 진짜였어..? 아이폰18프로 예상 가격은? 애플 마진의 진실 #애플 #가격인상'이며 솔직 검증 훅과 뉴스 분석 포맷 조합이 강했습니다."
   ],
   "action_chips": [
-    "주제: 애플",
-    "훅: 문제 해결",
-    "포맷: 비교",
-    "기준 채널: 안될공학 - IT 테크 신기술"
+    "주제: 마진쿡",
+    "훅: 솔직 검증",
+    "포맷: 뉴스 분석",
+    "기준 채널: 주연 ZUYONI"
   ],
   "title_suggestions": [
-    "애플 직접 실험 — 이게 진짜 되나?",
-    "애플 vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
-    "애플 써봤더니... (기대 vs 현실 솔직 후기)"
+    "마진쿡 직접 실험 — 이게 진짜 되나?",
+    "마진쿡 vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
+    "마진쿡 써봤더니... (기대 vs 현실 솔직 후기)"
   ],
   "recommendations": [
     {
-      "title": "애플 직접 실험 — 이게 진짜 되나?",
+      "title": "마진쿡 직접 실험 — 이게 진짜 되나?",
       "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
-      "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
-      "thumbnail_copy": "애플 바로 해결",
+      "angle": "큰 주제 하나를 대표 제목으로 세우고, 나머지 포인트는 보조 정보처럼 정리하는 압축형 포장이 좋습니다.",
+      "thumbnail_copy": "마진쿡 핵심 3가지",
       "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
-      "source_video_id": "0GYTiMg41KE",
-      "source": "애플 가격 역대급 인상이… 메모리 기업 탓? 마이크론, 뼈 있는 한 마디",
-      "my_channel_context": "내 7일 평균 2.1K회 · 지속률 33.5% / 경쟁사 대비 -93%"
+      "source_video_id": "yKtXIfb3C-4",
+      "source": "마진쿡 이거 진짜였어..? 아이폰18프로 예상 가격은? 애플 마진의 진실 #애플 #가격인상",
+      "my_channel_context": "내 7일 평균 2.2K회 · 지속률 34.3% / 경쟁사 대비 -82%"
     }
   ],
   "topic_clusters": [
     {
-      "label": "애플",
+      "label": "마진쿡",
       "count": 1,
-      "avg_view_count": 37221,
-      "avg_engagement_rate": 0.04011176486392091,
-      "avg_like_count": 1111,
-      "avg_comment_count": 382,
+      "avg_view_count": 19356,
+      "avg_engagement_rate": 0.01208927464352139,
+      "avg_like_count": 208,
+      "avg_comment_count": 26,
       "source_titles": [
-        "애플 가격 역대급 인상이… 메모리 기업 탓? 마이크론, 뼈 있는 한 마디"
+        "마진쿡 이거 진짜였어..? 아이폰18프로 예상 가격은? 애플 마진의 진실 #애플 #가격인상"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/0GYTiMg41KE/hqdefault.jpg",
-      "representative_video_id": "0GYTiMg41KE",
-      "representative_title": "애플 가격 역대급 인상이… 메모리 기업 탓? 마이크론, 뼈 있는 한 마디"
+      "thumbnail_url": "https://i.ytimg.com/vi/yKtXIfb3C-4/hqdefault.jpg",
+      "representative_video_id": "yKtXIfb3C-4",
+      "representative_title": "마진쿡 이거 진짜였어..? 아이폰18프로 예상 가격은? 애플 마진의 진실 #애플 #가격인상"
     },
     {
-      "label": "ChatGPT",
+      "label": "아이폰17살까",
       "count": 1,
-      "avg_view_count": 26310,
-      "avg_engagement_rate": 0.06598251615355379,
-      "avg_like_count": 1449,
-      "avg_comment_count": 287,
+      "avg_view_count": 16982,
+      "avg_engagement_rate": 0.009362854787421977,
+      "avg_like_count": 141,
+      "avg_comment_count": 18,
       "source_titles": [
-        "10 AIs WORK TOGETHER to Make GTA From Scratch"
+        "아이폰17살까? 기다릴까? 딱 정해드림 #아이폰17 #아이폰에어 #아이폰18"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/kD5Ig7JijbY/hqdefault.jpg",
-      "representative_video_id": "kD5Ig7JijbY",
-      "representative_title": "10 AIs WORK TOGETHER to Make GTA From Scratch"
+      "thumbnail_url": "https://i.ytimg.com/vi/v-5TQGCBF8g/hqdefault.jpg",
+      "representative_video_id": "v-5TQGCBF8g",
+      "representative_title": "아이폰17살까? 기다릴까? 딱 정해드림 #아이폰17 #아이폰에어 #아이폰18"
+    },
+    {
+      "label": "자동화",
+      "count": 1,
+      "avg_view_count": 157,
+      "avg_engagement_rate": 0.10191082802547771,
+      "avg_like_count": 15,
+      "avg_comment_count": 1,
+      "source_titles": [
+        "힉스필드 AI + 포토샵 = 대체 디자이너는 이제 뭘하죠..? ㄷㄷ"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/xD9Xn1TU1s8/hqdefault.jpg",
+      "representative_video_id": "xD9Xn1TU1s8",
+      "representative_title": "힉스필드 AI + 포토샵 = 대체 디자이너는 이제 뭘하죠..? ㄷㄷ"
     }
   ],
   "video_highlights": [
     {
-      "video_id": "0GYTiMg41KE",
-      "channel_name": "안될공학 - IT 테크 신기술",
-      "title": "애플 가격 역대급 인상이… 메모리 기업 탓? 마이크론, 뼈 있는 한 마디",
-      "thumbnail_url": "https://i.ytimg.com/vi/0GYTiMg41KE/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=0GYTiMg41KE",
-      "published_at": "2026-06-27T13:28:51Z",
-      "view_count": 37221,
-      "like_count": 1111,
-      "comment_count": 382,
-      "engagement_rate": 0.04011176486392091,
-      "topic_cluster": "애플",
-      "summary": "이 영상은 비교 이슈를 비교 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "애플이 OLED 저렴하게 사려고 삼성디스플레이 기술을 중국 BOE사에 유출되도록 지원했다는 애플 전직원들의 폭로가 있는거 보면 양아치 기업은 맞는듯",
+      "video_id": "yKtXIfb3C-4",
+      "channel_name": "주연 ZUYONI",
+      "title": "마진쿡 이거 진짜였어..? 아이폰18프로 예상 가격은? 애플 마진의 진실 #애플 #가격인상",
+      "thumbnail_url": "https://i.ytimg.com/vi/yKtXIfb3C-4/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=yKtXIfb3C-4",
+      "published_at": "2026-06-28T13:03:43Z",
+      "view_count": 19356,
+      "like_count": 208,
+      "comment_count": 26,
+      "engagement_rate": 0.01208927464352139,
+      "topic_cluster": "마진쿡",
+      "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "부품가격이 5달러에서 50달러로 올랐는데 최종 소비자 가격을 250달러 올리는 기업이 있다? 아 어떤 기업이지? 아? 누구지??????",
+      "hook_type": "솔직 검증"
+    },
+    {
+      "video_id": "v-5TQGCBF8g",
+      "channel_name": "주연 ZUYONI",
+      "title": "아이폰17살까? 기다릴까? 딱 정해드림 #아이폰17 #아이폰에어 #아이폰18",
+      "thumbnail_url": "https://i.ytimg.com/vi/v-5TQGCBF8g/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=v-5TQGCBF8g",
+      "published_at": "2026-06-28T13:30:22Z",
+      "view_count": 16982,
+      "like_count": 141,
+      "comment_count": 18,
+      "engagement_rate": 0.009362854787421977,
+      "topic_cluster": "아이폰17살까",
+      "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "에어라는 포지션 자체가 가볍고 심플하고 모던한건데 스피커나 발열 배터리는 어떻게 해주더라도 듀얼카메라를 굳이 두개로 바꿀까",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "kD5Ig7JijbY",
-      "channel_name": "tef",
-      "title": "10 AIs WORK TOGETHER to Make GTA From Scratch",
-      "thumbnail_url": "https://i.ytimg.com/vi/kD5Ig7JijbY/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=kD5Ig7JijbY",
-      "published_at": "2026-06-27T11:28:30Z",
-      "view_count": 26310,
-      "like_count": 1449,
-      "comment_count": 287,
-      "engagement_rate": 0.06598251615355379,
-      "topic_cluster": "ChatGPT",
-      "summary": "이 영상은 agents 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "bro why did you start with the two worst models grok fast and copilot??😭😭",
+      "video_id": "xD9Xn1TU1s8",
+      "channel_name": "성공지식백과",
+      "title": "힉스필드 AI + 포토샵 = 대체 디자이너는 이제 뭘하죠..? ㄷㄷ",
+      "thumbnail_url": "https://i.ytimg.com/vi/xD9Xn1TU1s8/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=xD9Xn1TU1s8",
+      "published_at": "2026-06-28T23:09:27Z",
+      "view_count": 157,
+      "like_count": 15,
+      "comment_count": 1,
+      "engagement_rate": 0.10191082802547771,
+      "topic_cluster": "자동화",
+      "summary": "이 영상은 automation 이슈를 워크플로우 튜토리얼 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "🔥 포토샵 안에서 바로 AI 이미지 생성·실시간 스타일 렌더링·레이어 분리까지 되는 힉스필드 포토샵 플러그인(Higgsfield Photoshop Plugin) 사용하기:…",
       "hook_type": "문제 해결"
     }
   ]
