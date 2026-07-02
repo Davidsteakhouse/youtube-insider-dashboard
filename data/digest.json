@@ -1,264 +1,237 @@
 {
-  "digest_date": "2026-07-01",
-  "generated_at": "2026-07-01T00:18:38+00:00",
-  "summary": "최근 24시간 영상 18개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'OpenAI'입니다. 특히 '5,000원 체중계가 앱 연동도 된다고?;; 미친 가성비 전쟁에 뛰어든 이마트 ㅋㅋㅋ'는 조회수 183.1K, 참여율 1.8%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "'OpenAI' 주제가 3개 영상으로 가장 많이 다뤄졌습니다. 일반인 관점 직접 실험 or VS 비교 각도로 차별화할 영역이 있습니다.\n[내 채널] 7일 평균 3.1K회 · 지속률 35.1% / 경쟁사 평균 17.6K회 (격차 -82%)",
-  "telegram_preview": "📡 스마트대디 모니터링 | 07/01\n\n📊 수집: 영상 18개 | 채널 11개\n\n🔥 참여율 TOP 3\n1. [ITSub잇섭] 1.8% · 183.1K뷰\n   5,000원 체중계가 앱 연동도 된다고?;; 미친 가성비 전쟁에 뛰어든 이마트 ㅋㅋㅋ\n2. [테크몽 Techmong] 2.1% · 38.0K뷰\n   이러니까 다들 테슬라 가지! 모델 Y 솔직하게 말씀드릴게요\n3. [안될공학 - IT 테크 신기술] 3.5% · 31.8K뷰\n   45도 유럽 폭염 | 철도가 휘고 원전이 멈췄다 … 유럽의 도시는 왜 못 버틸까 | 에어컨 선풍기 대란 \n\n📌 화제 키워드\n   coding · agents · research · monetization · automation\n\n🎬 포맷: 뉴스 분석 10개 · 비교 4개 · 워크플로우 튜토리얼 2개\n\n📈 스마트대디 어제 실적\n조회수 4.3K (↑36% vs 7일 평균) | 구독 +1\n시청 지속률 35.1% | 평균 시청 2분 07초\n경쟁사 평균 17.6K회 대비 내 7일 평균 -82%\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
-  "video_count": 18,
-  "total_recent_video_count": 18,
+  "digest_date": "2026-07-02",
+  "generated_at": "2026-07-02T00:18:32+00:00",
+  "summary": "최근 24시간 영상 9개를 기준으로 보면, 오늘 가장 먼저 볼 축은 '엔비디아의'입니다. 특히 'GPU 있어도 에너지가 없다... SemiAnalysis AI 인프라 전격 진단 | AI 데이터센터가 발전소를 짓는 이유 | 전력 병목의 모든 것'는 조회수 21.9K, 참여율 3.8%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "'엔비디아의' 주제가 2개 영상으로 가장 많이 다뤄졌습니다. 일반인 관점 직접 실험 or VS 비교 각도로 차별화할 영역이 있습니다.\n[내 채널] 7일 평균 3.5K회 · 지속률 34.5% / 경쟁사 평균 4.5K회 (격차 -23%)",
+  "telegram_preview": "📡 스마트대디 모니터링 | 07/02\n\n📊 수집: 영상 9개 | 채널 6개\n\n🔥 참여율 TOP 3\n1. [안될공학 - IT 테크 신기술] 3.8% · 21.9K뷰\n   GPU 있어도 에너지가 없다... SemiAnalysis AI 인프라 전격 진단 | AI 데이터센터가 발전소를 짓는 이유 | 전력 병목의 모든 것\n2. [안될공학 - IT 테크 신기술] 1.8% · 4.8K뷰\n   토큰맥싱 비판에 대한 OpenAI 최고 연구자의 답변은?\n3. [안될공학 - IT 테크 신기술] 1.1% · 3.9K뷰\n   엔비디아의 800VDC 도입이 의미하는 것\n\n📌 화제 키워드\n   automation · coding · research · monetization · agents\n\n🎬 포맷: 뉴스 분석 5개 · 비교 2개 · 워크플로우 튜토리얼 2개\n\n📈 스마트대디 어제 실적\n조회수 3.3K (↓4% vs 7일 평균) | 구독 -12\n시청 지속률 30.3% | 평균 시청 1분 57초\n경쟁사 평균 4.5K회 대비 내 7일 평균 -23%\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+  "video_count": 9,
+  "total_recent_video_count": 9,
   "focus_scope": "all_watchlist",
-  "average_view_count": 17568.0,
-  "average_engagement_rate": 0.04114047009534,
-  "average_like_count": 341.0,
-  "average_comment_count": 53.0,
-  "best_video_id": "xLY_7EKifEY",
-  "best_topic": "OpenAI",
+  "average_view_count": 4511.0,
+  "average_engagement_rate": 0.043087174289504634,
+  "average_like_count": 135.0,
+  "average_comment_count": 13.0,
+  "best_video_id": "7DltyKQJpbc",
+  "best_topic": "엔비디아의",
   "summary_points": [
-    "가장 겹친 주제는 'OpenAI'이며 3개 영상, 평균 조회수 4.0K, 평균 참여율 6.1%입니다.",
-    "최고 실적 영상은 '5,000원 체중계가 앱 연동도 된다고?;; 미친 가성비 전쟁에 뛰어든 이마트 ㅋㅋㅋ'이며 문제 해결 훅과 뉴스 분석 포맷 조합이 강했습니다.",
-    "반복 노출된 툴은 Claude 4회, Arc 4회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
+    "가장 겹친 주제는 '엔비디아의'이며 2개 영상, 평균 조회수 3.1K, 평균 참여율 1.0%입니다.",
+    "최고 실적 영상은 'GPU 있어도 에너지가 없다... SemiAnalysis AI 인프라 전격 진단 | AI 데이터센터가 발전소를 짓는 이유 | 전력 병목의 모든 것'이며 문제 해결 훅과 뉴스 분석 포맷 조합이 강했습니다.",
+    "반복 노출된 툴은 Arc 2회, Claude 2회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
   ],
   "action_chips": [
-    "주제: OpenAI",
+    "주제: 엔비디아의",
     "훅: 문제 해결",
     "포맷: 뉴스 분석",
-    "기준 채널: ITSub잇섭"
+    "기준 채널: 안될공학 - IT 테크 신기술"
   ],
   "title_suggestions": [
-    "OpenAI 직접 실험 — 이게 진짜 되나?",
-    "OpenAI vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
-    "OpenAI 써봤더니... (기대 vs 현실 솔직 후기)"
+    "엔비디아의 직접 실험 — 이게 진짜 되나?",
+    "엔비디아의 vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
+    "엔비디아의 써봤더니... (기대 vs 현실 솔직 후기)"
   ],
   "recommendations": [
     {
-      "title": "OpenAI 직접 실험 — 이게 진짜 되나?",
-      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
-      "angle": "큰 주제 하나를 대표 제목으로 세우고, 나머지 포인트는 보조 정보처럼 정리하는 압축형 포장이 좋습니다.",
-      "thumbnail_copy": "OpenAI 핵심 3가지",
-      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
-      "source_video_id": "IAEJ9qWPjeE",
-      "source": "팔란티어 CEO가 OpenAI를 비난한 진짜 이유",
-      "my_channel_context": "내 7일 평균 3.1K회 · 지속률 35.1% / 경쟁사 대비 -82%"
-    },
-    {
-      "title": "OpenAI vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
-      "hook": "첫 15초에 '이번 업데이트에서 진짜 써볼 만한 것만 추려준다'는 약속을 분명하게 주는 구조",
-      "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
-      "thumbnail_copy": "OpenAI 바로 해결",
-      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
-      "source_video_id": "Cuw0pBjZUOM",
-      "source": "Full OpenAI Codex Tutorial: Beginner to Advanced",
-      "my_channel_context": "내 7일 평균 3.1K회 · 지속률 35.1% / 경쟁사 대비 -82%"
-    },
-    {
-      "title": "OpenAI 써봤더니... (기대 vs 현실 솔직 후기)",
+      "title": "엔비디아의 직접 실험 — 이게 진짜 되나?",
       "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
       "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
-      "thumbnail_copy": "OpenAI 바로 해결",
+      "thumbnail_copy": "엔비디아의 바로 해결",
       "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
-      "source_video_id": "k4bixjTsTpE",
-      "source": "OpenAI Announced GPT-5.6... Yet Almost Nobody Can Use It",
-      "my_channel_context": "내 7일 평균 3.1K회 · 지속률 35.1% / 경쟁사 대비 -82%"
+      "source_video_id": "CTNWEzFH2mk",
+      "source": "엔비디아의 800VDC 도입이 의미하는 것",
+      "my_channel_context": "내 7일 평균 3.5K회 · 지속률 34.5% / 경쟁사 대비 -23%"
+    },
+    {
+      "title": "엔비디아의 vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
+      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
+      "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
+      "thumbnail_copy": "엔비디아의 바로 해결",
+      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
+      "source_video_id": "H8K-DTS6rGo",
+      "source": "엔비디아의 800VDC로 전력 문제 해결 완료?",
+      "my_channel_context": "내 7일 평균 3.5K회 · 지속률 34.5% / 경쟁사 대비 -23%"
     }
   ],
   "topic_clusters": [
     {
-      "label": "OpenAI",
-      "count": 3,
-      "avg_view_count": 4035,
-      "avg_engagement_rate": 0.06058392576998142,
-      "avg_like_count": 136,
-      "avg_comment_count": 22,
+      "label": "엔비디아의",
+      "count": 2,
+      "avg_view_count": 3149,
+      "avg_engagement_rate": 0.009555116586496173,
+      "avg_like_count": 29,
+      "avg_comment_count": 2,
       "source_titles": [
-        "팔란티어 CEO가 OpenAI를 비난한 진짜 이유",
-        "Full OpenAI Codex Tutorial: Beginner to Advanced",
-        "OpenAI Announced GPT-5.6... Yet Almost Nobody Can Use It"
+        "엔비디아의 800VDC 도입이 의미하는 것",
+        "엔비디아의 800VDC로 전력 문제 해결 완료?"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/IAEJ9qWPjeE/hqdefault.jpg",
-      "representative_video_id": "IAEJ9qWPjeE",
-      "representative_title": "팔란티어 CEO가 OpenAI를 비난한 진짜 이유"
+      "thumbnail_url": "https://i.ytimg.com/vi/CTNWEzFH2mk/hqdefault.jpg",
+      "representative_video_id": "CTNWEzFH2mk",
+      "representative_title": "엔비디아의 800VDC 도입이 의미하는 것"
+    },
+    {
+      "label": "자동화",
+      "count": 2,
+      "avg_view_count": 911,
+      "avg_engagement_rate": 0.08470111963683792,
+      "avg_like_count": 17,
+      "avg_comment_count": 2,
+      "source_titles": [
+        "Codex's Most Underrated Feature Explained",
+        "상위 1% 전문가만 쓰는 제대로된 고퀄 AI영상 뽑아내는 5가지 방법"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/UHPzp8aOVwM/hqdefault.jpg",
+      "representative_video_id": "UHPzp8aOVwM",
+      "representative_title": "Codex's Most Underrated Feature Explained"
+    },
+    {
+      "label": "GPU",
+      "count": 1,
+      "avg_view_count": 21854,
+      "avg_engagement_rate": 0.03802507550105244,
+      "avg_like_count": 732,
+      "avg_comment_count": 99,
+      "source_titles": [
+        "GPU 있어도 에너지가 없다... SemiAnalysis AI 인프라 전격 진단 | AI 데이터센터가 발전소를 짓는 이유 | 전력 병목의 모든 것"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/7DltyKQJpbc/hqdefault.jpg",
+      "representative_video_id": "7DltyKQJpbc",
+      "representative_title": "GPU 있어도 에너지가 없다... SemiAnalysis AI 인프라 전격 진단 | AI 데이터센터가 발전소를 짓는 이유 | 전력 병목의 모든 것"
+    },
+    {
+      "label": "OpenAI",
+      "count": 1,
+      "avg_view_count": 4760,
+      "avg_engagement_rate": 0.01827731092436975,
+      "avg_like_count": 83,
+      "avg_comment_count": 4,
+      "source_titles": [
+        "토큰맥싱 비판에 대한 OpenAI 최고 연구자의 답변은?"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/4tZKFu0NTRg/hqdefault.jpg",
+      "representative_video_id": "4tZKFu0NTRg",
+      "representative_title": "토큰맥싱 비판에 대한 OpenAI 최고 연구자의 답변은?"
     },
     {
       "label": "Claude",
-      "count": 3,
-      "avg_view_count": 2426,
-      "avg_engagement_rate": 0.061896804070159996,
+      "count": 1,
+      "avg_view_count": 3084,
+      "avg_engagement_rate": 0.04345006485084306,
+      "avg_like_count": 133,
+      "avg_comment_count": 1,
+      "source_titles": [
+        "클로드 무료 플랜으로 해외에서 돈을 쓸어담는 영상을 따라 만들어봤습니다"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/kiEjz0BoO44/hqdefault.jpg",
+      "representative_video_id": "kiEjz0BoO44",
+      "representative_title": "클로드 무료 플랜으로 해외에서 돈을 쓸어담는 영상을 따라 만들어봤습니다"
+    },
+    {
+      "label": "Arc",
+      "count": 1,
+      "avg_view_count": 2393,
+      "avg_engagement_rate": 0.07145842039281237,
       "avg_like_count": 163,
-      "avg_comment_count": 10,
+      "avg_comment_count": 8,
       "source_titles": [
-        "I Made 5 Digital Products With Claude in 28 Minutes",
-        "Baidu Just Fixed DeepSeek-OCR for Reading Long Documents",
-        "할리우드를 압도해버리는 Seedance 2.0 4K의 미친 결과물.. ㄷㄷ"
+        "NotebookLM's Brand New Feature Generates Shorts With One Click"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/S5C-9K2509w/hqdefault.jpg",
-      "representative_video_id": "S5C-9K2509w",
-      "representative_title": "I Made 5 Digital Products With Claude in 28 Minutes"
+      "thumbnail_url": "https://i.ytimg.com/vi/_8DHTnjb2ho/hqdefault.jpg",
+      "representative_video_id": "_8DHTnjb2ho",
+      "representative_title": "NotebookLM's Brand New Feature Generates Shorts With One Click"
     },
     {
-      "label": "그로스",
-      "count": 2,
-      "avg_view_count": 54,
-      "avg_engagement_rate": 0.0,
-      "avg_like_count": 0,
-      "avg_comment_count": 0,
-      "source_titles": [
-        "그로스 마케팅 부트캠프 6기 실시간 사전설명회",
-        "그로스 마케팅 부트캠프 수료 후 인턴십 및 정규직 전환된 사례가 있나요?👀"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/aHhfZfvNq9E/hqdefault.jpg",
-      "representative_video_id": "aHhfZfvNq9E",
-      "representative_title": "그로스 마케팅 부트캠프 6기 실시간 사전설명회"
-    },
-    {
-      "label": "5000원",
+      "label": "ChatGPT",
       "count": 1,
-      "avg_view_count": 183095,
-      "avg_engagement_rate": 0.017799502990250963,
-      "avg_like_count": 2915,
-      "avg_comment_count": 344,
+      "avg_view_count": 392,
+      "avg_engagement_rate": 0.02806122448979592,
+      "avg_like_count": 10,
+      "avg_comment_count": 1,
       "source_titles": [
-        "5,000원 체중계가 앱 연동도 된다고?;; 미친 가성비 전쟁에 뛰어든 이마트 ㅋㅋㅋ"
+        "Six Impossible Builds. One Prompt Each. SONNET 5 Destroyed Them"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/xLY_7EKifEY/hqdefault.jpg",
-      "representative_video_id": "xLY_7EKifEY",
-      "representative_title": "5,000원 체중계가 앱 연동도 된다고?;; 미친 가성비 전쟁에 뛰어든 이마트 ㅋㅋㅋ"
-    },
-    {
-      "label": "이러니까",
-      "count": 1,
-      "avg_view_count": 38023,
-      "avg_engagement_rate": 0.020645398837545695,
-      "avg_like_count": 601,
-      "avg_comment_count": 184,
-      "source_titles": [
-        "이러니까 다들 테슬라 가지! 모델 Y 솔직하게 말씀드릴게요"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/fiMKkNMS7zQ/hqdefault.jpg",
-      "representative_video_id": "fiMKkNMS7zQ",
-      "representative_title": "이러니까 다들 테슬라 가지! 모델 Y 솔직하게 말씀드릴게요"
-    },
-    {
-      "label": "45도",
-      "count": 1,
-      "avg_view_count": 31766,
-      "avg_engagement_rate": 0.03481710004407228,
-      "avg_like_count": 936,
-      "avg_comment_count": 170,
-      "source_titles": [
-        "45도 유럽 폭염 | 철도가 휘고 원전이 멈췄다 … 유럽의 도시는 왜 못 버틸까 | 에어컨 선풍기 대란 "
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/8tUfR9WZtmA/hqdefault.jpg",
-      "representative_video_id": "8tUfR9WZtmA",
-      "representative_title": "45도 유럽 폭염 | 철도가 휘고 원전이 멈췄다 … 유럽의 도시는 왜 못 버틸까 | 에어컨 선풍기 대란 "
-    },
-    {
-      "label": "저라면",
-      "count": 1,
-      "avg_view_count": 25568,
-      "avg_engagement_rate": 0.023153942428035045,
-      "avg_like_count": 465,
-      "avg_comment_count": 127,
-      "source_titles": [
-        "저라면 20만원 비싸도 무조건 이거 삽니다 (최종결론)"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/tWXHMp6ZfE0/hqdefault.jpg",
-      "representative_video_id": "tWXHMp6ZfE0",
-      "representative_title": "저라면 20만원 비싸도 무조건 이거 삽니다 (최종결론)"
-    },
-    {
-      "label": "삼성",
-      "count": 1,
-      "avg_view_count": 8806,
-      "avg_engagement_rate": 0.022257551669316374,
-      "avg_like_count": 171,
-      "avg_comment_count": 25,
-      "source_titles": [
-        "삼성 파운드리 부활할 수 밖에 없는 이유"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/6Fcrl1LznV4/hqdefault.jpg",
-      "representative_video_id": "6Fcrl1LznV4",
-      "representative_title": "삼성 파운드리 부활할 수 밖에 없는 이유"
+      "thumbnail_url": "https://i.ytimg.com/vi/Hw6jLa8vrPg/hqdefault.jpg",
+      "representative_video_id": "Hw6jLa8vrPg",
+      "representative_title": "Six Impossible Builds. One Prompt Each. SONNET 5 Destroyed Them"
     }
   ],
   "video_highlights": [
     {
-      "video_id": "xLY_7EKifEY",
-      "channel_name": "ITSub잇섭",
-      "title": "5,000원 체중계가 앱 연동도 된다고?;; 미친 가성비 전쟁에 뛰어든 이마트 ㅋㅋㅋ",
-      "thumbnail_url": "https://i.ytimg.com/vi/xLY_7EKifEY/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=xLY_7EKifEY",
-      "published_at": "2026-06-30T11:00:38Z",
-      "view_count": 183095,
-      "like_count": 2915,
-      "comment_count": 344,
-      "engagement_rate": 0.017799502990250963,
-      "topic_cluster": "5000원",
-      "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "인트로 홍명보ㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "fiMKkNMS7zQ",
-      "channel_name": "테크몽 Techmong",
-      "title": "이러니까 다들 테슬라 가지! 모델 Y 솔직하게 말씀드릴게요",
-      "thumbnail_url": "https://i.ytimg.com/vi/fiMKkNMS7zQ/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=fiMKkNMS7zQ",
-      "published_at": "2026-06-30T10:53:39Z",
-      "view_count": 38023,
-      "like_count": 601,
-      "comment_count": 184,
-      "engagement_rate": 0.020645398837545695,
-      "topic_cluster": "이러니까",
-      "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "자동차리뷰도 이렇게 꼼꼼히 하시다니 실생활에서 꼭 필요한 것만 정리해서 보여주시니 좋습니다 테크몽 고트",
-      "hook_type": "솔직 검증"
-    },
-    {
-      "video_id": "8tUfR9WZtmA",
+      "video_id": "7DltyKQJpbc",
       "channel_name": "안될공학 - IT 테크 신기술",
-      "title": "45도 유럽 폭염 | 철도가 휘고 원전이 멈췄다 … 유럽의 도시는 왜 못 버틸까 | 에어컨 선풍기 대란 ",
-      "thumbnail_url": "https://i.ytimg.com/vi/8tUfR9WZtmA/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=8tUfR9WZtmA",
-      "published_at": "2026-06-30T13:31:12Z",
-      "view_count": 31766,
-      "like_count": 936,
-      "comment_count": 170,
-      "engagement_rate": 0.03481710004407228,
-      "topic_cluster": "45도",
+      "title": "GPU 있어도 에너지가 없다... SemiAnalysis AI 인프라 전격 진단 | AI 데이터센터가 발전소를 짓는 이유 | 전력 병목의 모든 것",
+      "thumbnail_url": "https://i.ytimg.com/vi/7DltyKQJpbc/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=7DltyKQJpbc",
+      "published_at": "2026-07-01T09:21:19Z",
+      "view_count": 21854,
+      "like_count": 732,
+      "comment_count": 99,
+      "engagement_rate": 0.03802507550105244,
+      "topic_cluster": "GPU",
       "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "유럽은 위치도 좋아 날씨도 좋아 가스는 러시아에서 싸게 사 국방은 미국이 다해줘 물품은 중국에서 싸게 기차로 와. 날로먹는구만. 그래서 백날 싸웠나~",
+      "comment_signal": "와 이눈나 매일매일 영상 올려주시넹 ...대박",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "tWXHMp6ZfE0",
-      "channel_name": "주연 ZUYONI",
-      "title": "저라면 20만원 비싸도 무조건 이거 삽니다 (최종결론)",
-      "thumbnail_url": "https://i.ytimg.com/vi/tWXHMp6ZfE0/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=tWXHMp6ZfE0",
-      "published_at": "2026-06-30T10:00:24Z",
-      "view_count": 25568,
-      "like_count": 465,
-      "comment_count": 127,
-      "engagement_rate": 0.023153942428035045,
-      "topic_cluster": "저라면",
-      "summary": "이 영상은 비교 이슈를 비교 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "기다리던 리뷰!! 루나울트라와의 비교 분석도 부탁드려요.",
+      "video_id": "4tZKFu0NTRg",
+      "channel_name": "안될공학 - IT 테크 신기술",
+      "title": "토큰맥싱 비판에 대한 OpenAI 최고 연구자의 답변은?",
+      "thumbnail_url": "https://i.ytimg.com/vi/4tZKFu0NTRg/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=4tZKFu0NTRg",
+      "published_at": "2026-07-01T02:00:07Z",
+      "view_count": 4760,
+      "like_count": 83,
+      "comment_count": 4,
+      "engagement_rate": 0.01827731092436975,
+      "topic_cluster": "OpenAI",
+      "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "그거 openai 가 해주기로 했잖아! 알아서 라우팅 해준다며! ㅜㅜ",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "CTNWEzFH2mk",
+      "channel_name": "안될공학 - IT 테크 신기술",
+      "title": "엔비디아의 800VDC 도입이 의미하는 것",
+      "thumbnail_url": "https://i.ytimg.com/vi/CTNWEzFH2mk/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=CTNWEzFH2mk",
+      "published_at": "2026-07-01T04:00:35Z",
+      "view_count": 3901,
+      "like_count": 38,
+      "comment_count": 4,
+      "engagement_rate": 0.0107664701358626,
+      "topic_cluster": "엔비디아의",
+      "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "설명이 복잡해요. 전압을 높히면 전류가 낮아져요. 그려면 열손실이 감소해요. 두꺼운 구리선의 감소로 꽤 크게 비용절감이 되고 냉각 효율이 좋아져요.",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "kiEjz0BoO44",
+      "channel_name": "AI 머니",
+      "title": "클로드 무료 플랜으로 해외에서 돈을 쓸어담는 영상을 따라 만들어봤습니다",
+      "thumbnail_url": "https://i.ytimg.com/vi/kiEjz0BoO44/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=kiEjz0BoO44",
+      "published_at": "2026-07-01T11:00:24Z",
+      "view_count": 3084,
+      "like_count": 133,
+      "comment_count": 1,
+      "engagement_rate": 0.04345006485084306,
+      "topic_cluster": "Claude",
+      "summary": "이 영상은 워크플로우 튜토리얼 이슈를 워크플로우 튜토리얼 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "▶ 99%가 모르는 현재 조회수 터지는 영상 만드는 방법 공개: https://youtu.be/9CMwXmF_utI 👉 유튜브, 어디서부터 시작해야 할지 모르겠다면: ht…",
       "hook_type": "수익"
     },
     {
-      "video_id": "6Fcrl1LznV4",
+      "video_id": "H8K-DTS6rGo",
       "channel_name": "안될공학 - IT 테크 신기술",
-      "title": "삼성 파운드리 부활할 수 밖에 없는 이유",
-      "thumbnail_url": "https://i.ytimg.com/vi/6Fcrl1LznV4/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=6Fcrl1LznV4",
-      "published_at": "2026-06-30T03:00:36Z",
-      "view_count": 8806,
-      "like_count": 171,
-      "comment_count": 25,
-      "engagement_rate": 0.022257551669316374,
-      "topic_cluster": "삼성",
+      "title": "엔비디아의 800VDC로 전력 문제 해결 완료?",
+      "thumbnail_url": "https://i.ytimg.com/vi/H8K-DTS6rGo/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=H8K-DTS6rGo",
+      "published_at": "2026-07-01T05:30:04Z",
+      "view_count": 2397,
+      "like_count": 20,
+      "comment_count": 0,
+      "engagement_rate": 0.008343763037129746,
+      "topic_cluster": "엔비디아의",
       "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "후공정을 빨리 발전시켜야됨 그래야 파운드리 메모리 같이 하는 시너지가 나지",
+      "comment_signal": "댓글 반응은 아직 약한 편입니다.",
       "hook_type": "문제 해결"
     }
   ]
