@@ -1,237 +1,239 @@
 {
-  "digest_date": "2026-07-02",
-  "generated_at": "2026-07-02T00:18:32+00:00",
-  "summary": "최근 24시간 영상 9개를 기준으로 보면, 오늘 가장 먼저 볼 축은 '엔비디아의'입니다. 특히 'GPU 있어도 에너지가 없다... SemiAnalysis AI 인프라 전격 진단 | AI 데이터센터가 발전소를 짓는 이유 | 전력 병목의 모든 것'는 조회수 21.9K, 참여율 3.8%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "'엔비디아의' 주제가 2개 영상으로 가장 많이 다뤄졌습니다. 일반인 관점 직접 실험 or VS 비교 각도로 차별화할 영역이 있습니다.\n[내 채널] 7일 평균 3.5K회 · 지속률 34.5% / 경쟁사 평균 4.5K회 (격차 -23%)",
-  "telegram_preview": "📡 스마트대디 모니터링 | 07/02\n\n📊 수집: 영상 9개 | 채널 6개\n\n🔥 참여율 TOP 3\n1. [안될공학 - IT 테크 신기술] 3.8% · 21.9K뷰\n   GPU 있어도 에너지가 없다... SemiAnalysis AI 인프라 전격 진단 | AI 데이터센터가 발전소를 짓는 이유 | 전력 병목의 모든 것\n2. [안될공학 - IT 테크 신기술] 1.8% · 4.8K뷰\n   토큰맥싱 비판에 대한 OpenAI 최고 연구자의 답변은?\n3. [안될공학 - IT 테크 신기술] 1.1% · 3.9K뷰\n   엔비디아의 800VDC 도입이 의미하는 것\n\n📌 화제 키워드\n   automation · coding · research · monetization · agents\n\n🎬 포맷: 뉴스 분석 5개 · 비교 2개 · 워크플로우 튜토리얼 2개\n\n📈 스마트대디 어제 실적\n조회수 3.3K (↓4% vs 7일 평균) | 구독 -12\n시청 지속률 30.3% | 평균 시청 1분 57초\n경쟁사 평균 4.5K회 대비 내 7일 평균 -23%\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
-  "video_count": 9,
-  "total_recent_video_count": 9,
+  "digest_date": "2026-07-03",
+  "generated_at": "2026-07-03T00:17:04+00:00",
+  "summary": "최근 24시간 영상 13개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'LG'입니다. 특히 'LG 로봇청소기 진짜 이렇게 출시한다고???'는 조회수 130.3K, 참여율 1.1%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "'LG' 주제가 1개 영상으로 가장 많이 다뤄졌습니다. 일반인 관점 직접 실험 or VS 비교 각도로 차별화할 영역이 있습니다.\n[내 채널] 7일 평균 3.5K회 · 지속률 32.5% / 경쟁사 평균 30.5K회 (격차 -88%)",
+  "telegram_preview": "📡 스마트대디 모니터링 | 07/03\n\n📊 수집: 영상 13개 | 채널 10개\n\n🔥 참여율 TOP 3\n1. [귀곰] 1.1% · 130.3K뷰\n   LG 로봇청소기 진짜 이렇게 출시한다고???\n2. [ITSub잇섭] 2.1% · 106.4K뷰\n   현직 테크유튜버가 출장 갈 때 '무조건' 챙기는 전자기기는 무엇일까?\n3. [AI Explained] 4.3% · 40.7K뷰\n   Fable 5 vs GPT 5.6 Sol: The Early Results\n\n📌 화제 키워드\n   research · coding · monetization · agents · automation\n\n🎬 포맷: 뉴스 분석 5개 · 비교 3개 · 워크플로우 튜토리얼 2개\n\n📈 스마트대디 어제 실적\n조회수 2.8K (↓21% vs 7일 평균) | 구독 -13\n시청 지속률 27.7% | 평균 시청 1분 53초\n경쟁사 평균 30.5K회 대비 내 7일 평균 -88%\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+  "video_count": 13,
+  "total_recent_video_count": 13,
   "focus_scope": "all_watchlist",
-  "average_view_count": 4511.0,
-  "average_engagement_rate": 0.043087174289504634,
-  "average_like_count": 135.0,
-  "average_comment_count": 13.0,
-  "best_video_id": "7DltyKQJpbc",
-  "best_topic": "엔비디아의",
+  "average_view_count": 30484.0,
+  "average_engagement_rate": 0.029722533753084316,
+  "average_like_count": 562.0,
+  "average_comment_count": 85.0,
+  "best_video_id": "pitEvEVaES4",
+  "best_topic": "LG",
   "summary_points": [
-    "가장 겹친 주제는 '엔비디아의'이며 2개 영상, 평균 조회수 3.1K, 평균 참여율 1.0%입니다.",
-    "최고 실적 영상은 'GPU 있어도 에너지가 없다... SemiAnalysis AI 인프라 전격 진단 | AI 데이터센터가 발전소를 짓는 이유 | 전력 병목의 모든 것'이며 문제 해결 훅과 뉴스 분석 포맷 조합이 강했습니다.",
-    "반복 노출된 툴은 Arc 2회, Claude 2회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
+    "가장 겹친 주제는 'LG'이며 1개 영상, 평균 조회수 130.3K, 평균 참여율 1.1%입니다.",
+    "최고 실적 영상은 'LG 로봇청소기 진짜 이렇게 출시한다고???'이며 긴급성 훅과 뉴스 분석 포맷 조합이 강했습니다.",
+    "반복 노출된 툴은 Claude 2회, Arc 2회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
   ],
   "action_chips": [
-    "주제: 엔비디아의",
-    "훅: 문제 해결",
+    "주제: LG",
+    "훅: 긴급성",
     "포맷: 뉴스 분석",
-    "기준 채널: 안될공학 - IT 테크 신기술"
+    "기준 채널: 귀곰"
   ],
   "title_suggestions": [
-    "엔비디아의 직접 실험 — 이게 진짜 되나?",
-    "엔비디아의 vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
-    "엔비디아의 써봤더니... (기대 vs 현실 솔직 후기)"
+    "LG 직접 실험 — 이게 진짜 되나?",
+    "LG vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
+    "LG 써봤더니... (기대 vs 현실 솔직 후기)"
   ],
   "recommendations": [
     {
-      "title": "엔비디아의 직접 실험 — 이게 진짜 되나?",
+      "title": "LG 직접 실험 — 이게 진짜 되나?",
       "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
-      "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
-      "thumbnail_copy": "엔비디아의 바로 해결",
+      "angle": "큰 주제 하나를 대표 제목으로 세우고, 나머지 포인트는 보조 정보처럼 정리하는 압축형 포장이 좋습니다.",
+      "thumbnail_copy": "LG 지금 봐야 함",
       "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
-      "source_video_id": "CTNWEzFH2mk",
-      "source": "엔비디아의 800VDC 도입이 의미하는 것",
-      "my_channel_context": "내 7일 평균 3.5K회 · 지속률 34.5% / 경쟁사 대비 -23%"
-    },
-    {
-      "title": "엔비디아의 vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
-      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
-      "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
-      "thumbnail_copy": "엔비디아의 바로 해결",
-      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
-      "source_video_id": "H8K-DTS6rGo",
-      "source": "엔비디아의 800VDC로 전력 문제 해결 완료?",
-      "my_channel_context": "내 7일 평균 3.5K회 · 지속률 34.5% / 경쟁사 대비 -23%"
+      "source_video_id": "pitEvEVaES4",
+      "source": "LG 로봇청소기 진짜 이렇게 출시한다고???",
+      "my_channel_context": "내 7일 평균 3.5K회 · 지속률 32.5% / 경쟁사 대비 -88%"
     }
   ],
   "topic_clusters": [
     {
-      "label": "엔비디아의",
-      "count": 2,
-      "avg_view_count": 3149,
-      "avg_engagement_rate": 0.009555116586496173,
-      "avg_like_count": 29,
-      "avg_comment_count": 2,
-      "source_titles": [
-        "엔비디아의 800VDC 도입이 의미하는 것",
-        "엔비디아의 800VDC로 전력 문제 해결 완료?"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/CTNWEzFH2mk/hqdefault.jpg",
-      "representative_video_id": "CTNWEzFH2mk",
-      "representative_title": "엔비디아의 800VDC 도입이 의미하는 것"
-    },
-    {
-      "label": "자동화",
-      "count": 2,
-      "avg_view_count": 911,
-      "avg_engagement_rate": 0.08470111963683792,
-      "avg_like_count": 17,
-      "avg_comment_count": 2,
-      "source_titles": [
-        "Codex's Most Underrated Feature Explained",
-        "상위 1% 전문가만 쓰는 제대로된 고퀄 AI영상 뽑아내는 5가지 방법"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/UHPzp8aOVwM/hqdefault.jpg",
-      "representative_video_id": "UHPzp8aOVwM",
-      "representative_title": "Codex's Most Underrated Feature Explained"
-    },
-    {
-      "label": "GPU",
+      "label": "LG",
       "count": 1,
-      "avg_view_count": 21854,
-      "avg_engagement_rate": 0.03802507550105244,
-      "avg_like_count": 732,
-      "avg_comment_count": 99,
+      "avg_view_count": 130347,
+      "avg_engagement_rate": 0.010940029306389867,
+      "avg_like_count": 1262,
+      "avg_comment_count": 164,
       "source_titles": [
-        "GPU 있어도 에너지가 없다... SemiAnalysis AI 인프라 전격 진단 | AI 데이터센터가 발전소를 짓는 이유 | 전력 병목의 모든 것"
+        "LG 로봇청소기 진짜 이렇게 출시한다고???"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/7DltyKQJpbc/hqdefault.jpg",
-      "representative_video_id": "7DltyKQJpbc",
-      "representative_title": "GPU 있어도 에너지가 없다... SemiAnalysis AI 인프라 전격 진단 | AI 데이터센터가 발전소를 짓는 이유 | 전력 병목의 모든 것"
+      "thumbnail_url": "https://i.ytimg.com/vi/pitEvEVaES4/hqdefault.jpg",
+      "representative_video_id": "pitEvEVaES4",
+      "representative_title": "LG 로봇청소기 진짜 이렇게 출시한다고???"
+    },
+    {
+      "label": "현직",
+      "count": 1,
+      "avg_view_count": 106363,
+      "avg_engagement_rate": 0.021257392138243562,
+      "avg_like_count": 1999,
+      "avg_comment_count": 262,
+      "source_titles": [
+        "현직 테크유튜버가 출장 갈 때 '무조건' 챙기는 전자기기는 무엇일까?"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/t-gOkXYi14I/hqdefault.jpg",
+      "representative_video_id": "t-gOkXYi14I",
+      "representative_title": "현직 테크유튜버가 출장 갈 때 '무조건' 챙기는 전자기기는 무엇일까?"
     },
     {
       "label": "OpenAI",
       "count": 1,
-      "avg_view_count": 4760,
-      "avg_engagement_rate": 0.01827731092436975,
-      "avg_like_count": 83,
-      "avg_comment_count": 4,
+      "avg_view_count": 40702,
+      "avg_engagement_rate": 0.043241118372561546,
+      "avg_like_count": 1517,
+      "avg_comment_count": 243,
       "source_titles": [
-        "토큰맥싱 비판에 대한 OpenAI 최고 연구자의 답변은?"
+        "Fable 5 vs GPT 5.6 Sol: The Early Results"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/4tZKFu0NTRg/hqdefault.jpg",
-      "representative_video_id": "4tZKFu0NTRg",
-      "representative_title": "토큰맥싱 비판에 대한 OpenAI 최고 연구자의 답변은?"
+      "thumbnail_url": "https://i.ytimg.com/vi/y24lF1q4SFY/hqdefault.jpg",
+      "representative_video_id": "y24lF1q4SFY",
+      "representative_title": "Fable 5 vs GPT 5.6 Sol: The Early Results"
     },
     {
-      "label": "Claude",
+      "label": "그로스",
       "count": 1,
-      "avg_view_count": 3084,
-      "avg_engagement_rate": 0.04345006485084306,
-      "avg_like_count": 133,
-      "avg_comment_count": 1,
+      "avg_view_count": 29709,
+      "avg_engagement_rate": 0.0009088155104513784,
+      "avg_like_count": 27,
+      "avg_comment_count": 0,
       "source_titles": [
-        "클로드 무료 플랜으로 해외에서 돈을 쓸어담는 영상을 따라 만들어봤습니다"
+        "[그로스 마케터 셋로그] 인턴 1개월 차 vs 정규직 전환 1년 차"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/kiEjz0BoO44/hqdefault.jpg",
-      "representative_video_id": "kiEjz0BoO44",
-      "representative_title": "클로드 무료 플랜으로 해외에서 돈을 쓸어담는 영상을 따라 만들어봤습니다"
+      "thumbnail_url": "https://i.ytimg.com/vi/5eXz97g3Rac/hqdefault.jpg",
+      "representative_video_id": "5eXz97g3Rac",
+      "representative_title": "[그로스 마케터 셋로그] 인턴 1개월 차 vs 정규직 전환 1년 차"
     },
     {
-      "label": "Arc",
+      "label": "메타가",
       "count": 1,
-      "avg_view_count": 2393,
-      "avg_engagement_rate": 0.07145842039281237,
-      "avg_like_count": 163,
-      "avg_comment_count": 8,
+      "avg_view_count": 26559,
+      "avg_engagement_rate": 0.03607063518957792,
+      "avg_like_count": 823,
+      "avg_comment_count": 135,
       "source_titles": [
-        "NotebookLM's Brand New Feature Generates Shorts With One Click"
+        "메타가 DRAM 재활용 칩을 냈습니다... 메모리 수요 줄어들까? HBM 다음은 CXL?"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/_8DHTnjb2ho/hqdefault.jpg",
-      "representative_video_id": "_8DHTnjb2ho",
-      "representative_title": "NotebookLM's Brand New Feature Generates Shorts With One Click"
+      "thumbnail_url": "https://i.ytimg.com/vi/PDPcZ8ERWe4/hqdefault.jpg",
+      "representative_video_id": "PDPcZ8ERWe4",
+      "representative_title": "메타가 DRAM 재활용 칩을 냈습니다... 메모리 수요 줄어들까? HBM 다음은 CXL?"
     },
     {
-      "label": "ChatGPT",
+      "label": "단점",
       "count": 1,
-      "avg_view_count": 392,
-      "avg_engagement_rate": 0.02806122448979592,
-      "avg_like_count": 10,
-      "avg_comment_count": 1,
+      "avg_view_count": 19121,
+      "avg_engagement_rate": 0.03728884472569426,
+      "avg_like_count": 563,
+      "avg_comment_count": 150,
       "source_titles": [
-        "Six Impossible Builds. One Prompt Each. SONNET 5 Destroyed Them"
+        "단점 싹~~다 고쳐서 나와버린 세상 핫한 이어폰! [샥즈 오픈닷2 2주 사용기]"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/Hw6jLa8vrPg/hqdefault.jpg",
-      "representative_video_id": "Hw6jLa8vrPg",
-      "representative_title": "Six Impossible Builds. One Prompt Each. SONNET 5 Destroyed Them"
+      "thumbnail_url": "https://i.ytimg.com/vi/7A_1GKM4m1A/hqdefault.jpg",
+      "representative_video_id": "7A_1GKM4m1A",
+      "representative_title": "단점 싹~~다 고쳐서 나와버린 세상 핫한 이어폰! [샥즈 오픈닷2 2주 사용기]"
+    },
+    {
+      "label": "CG",
+      "count": 1,
+      "avg_view_count": 15671,
+      "avg_engagement_rate": 0.02565247910152511,
+      "avg_like_count": 322,
+      "avg_comment_count": 80,
+      "source_titles": [
+        "CG 아님ㅋㅋ 문 열고 나오는 로봇청소기 등장 [LG 홈봇 AI 로니]"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/cnHsP2P0XSs/hqdefault.jpg",
+      "representative_video_id": "cnHsP2P0XSs",
+      "representative_title": "CG 아님ㅋㅋ 문 열고 나오는 로봇청소기 등장 [LG 홈봇 AI 로니]"
+    },
+    {
+      "label": "절대",
+      "count": 1,
+      "avg_view_count": 12529,
+      "avg_engagement_rate": 0.04222204485593423,
+      "avg_like_count": 475,
+      "avg_comment_count": 54,
+      "source_titles": [
+        "\"절대 속으시면 안됩니다\""
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/FqElRK98Pts/hqdefault.jpg",
+      "representative_video_id": "FqElRK98Pts",
+      "representative_title": "\"절대 속으시면 안됩니다\""
     }
   ],
   "video_highlights": [
     {
-      "video_id": "7DltyKQJpbc",
-      "channel_name": "안될공학 - IT 테크 신기술",
-      "title": "GPU 있어도 에너지가 없다... SemiAnalysis AI 인프라 전격 진단 | AI 데이터센터가 발전소를 짓는 이유 | 전력 병목의 모든 것",
-      "thumbnail_url": "https://i.ytimg.com/vi/7DltyKQJpbc/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=7DltyKQJpbc",
-      "published_at": "2026-07-01T09:21:19Z",
-      "view_count": 21854,
-      "like_count": 732,
-      "comment_count": 99,
-      "engagement_rate": 0.03802507550105244,
-      "topic_cluster": "GPU",
+      "video_id": "pitEvEVaES4",
+      "channel_name": "귀곰",
+      "title": "LG 로봇청소기 진짜 이렇게 출시한다고???",
+      "thumbnail_url": "https://i.ytimg.com/vi/pitEvEVaES4/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=pitEvEVaES4",
+      "published_at": "2026-07-02T02:50:13Z",
+      "view_count": 130347,
+      "like_count": 1262,
+      "comment_count": 164,
+      "engagement_rate": 0.010940029306389867,
+      "topic_cluster": "LG",
       "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "와 이눈나 매일매일 영상 올려주시넹 ...대박",
+      "comment_signal": "Lg야 그냥 싱크대를 만들어라. 식세기+로청+인덕션+정수기 달아놓고 한번에 끝낼 수 있게",
+      "hook_type": "긴급성"
+    },
+    {
+      "video_id": "t-gOkXYi14I",
+      "channel_name": "ITSub잇섭",
+      "title": "현직 테크유튜버가 출장 갈 때 '무조건' 챙기는 전자기기는 무엇일까?",
+      "thumbnail_url": "https://i.ytimg.com/vi/t-gOkXYi14I/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=t-gOkXYi14I",
+      "published_at": "2026-07-02T11:00:04Z",
+      "view_count": 106363,
+      "like_count": 1999,
+      "comment_count": 262,
+      "engagement_rate": 0.021257392138243562,
+      "topic_cluster": "현직",
+      "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "아니 내일이 여행인데 이걸 이제 보네....",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "4tZKFu0NTRg",
-      "channel_name": "안될공학 - IT 테크 신기술",
-      "title": "토큰맥싱 비판에 대한 OpenAI 최고 연구자의 답변은?",
-      "thumbnail_url": "https://i.ytimg.com/vi/4tZKFu0NTRg/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=4tZKFu0NTRg",
-      "published_at": "2026-07-01T02:00:07Z",
-      "view_count": 4760,
-      "like_count": 83,
-      "comment_count": 4,
-      "engagement_rate": 0.01827731092436975,
+      "video_id": "y24lF1q4SFY",
+      "channel_name": "AI Explained",
+      "title": "Fable 5 vs GPT 5.6 Sol: The Early Results",
+      "thumbnail_url": "https://i.ytimg.com/vi/y24lF1q4SFY/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=y24lF1q4SFY",
+      "published_at": "2026-07-02T16:27:26Z",
+      "view_count": 40702,
+      "like_count": 1517,
+      "comment_count": 243,
+      "engagement_rate": 0.043241118372561546,
       "topic_cluster": "OpenAI",
-      "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "그거 openai 가 해주기로 했잖아! 알아서 라우팅 해준다며! ㅜㅜ",
-      "hook_type": "문제 해결"
+      "summary": "이 영상은 research 이슈를 비교 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "Pretty sure they could name the model size up from Sol after any constellation they want… or “G…",
+      "hook_type": "비교"
     },
     {
-      "video_id": "CTNWEzFH2mk",
-      "channel_name": "안될공학 - IT 테크 신기술",
-      "title": "엔비디아의 800VDC 도입이 의미하는 것",
-      "thumbnail_url": "https://i.ytimg.com/vi/CTNWEzFH2mk/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=CTNWEzFH2mk",
-      "published_at": "2026-07-01T04:00:35Z",
-      "view_count": 3901,
-      "like_count": 38,
-      "comment_count": 4,
-      "engagement_rate": 0.0107664701358626,
-      "topic_cluster": "엔비디아의",
-      "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "설명이 복잡해요. 전압을 높히면 전류가 낮아져요. 그려면 열손실이 감소해요. 두꺼운 구리선의 감소로 꽤 크게 비용절감이 되고 냉각 효율이 좋아져요.",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "kiEjz0BoO44",
-      "channel_name": "AI 머니",
-      "title": "클로드 무료 플랜으로 해외에서 돈을 쓸어담는 영상을 따라 만들어봤습니다",
-      "thumbnail_url": "https://i.ytimg.com/vi/kiEjz0BoO44/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=kiEjz0BoO44",
-      "published_at": "2026-07-01T11:00:24Z",
-      "view_count": 3084,
-      "like_count": 133,
-      "comment_count": 1,
-      "engagement_rate": 0.04345006485084306,
-      "topic_cluster": "Claude",
-      "summary": "이 영상은 워크플로우 튜토리얼 이슈를 워크플로우 튜토리얼 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "▶ 99%가 모르는 현재 조회수 터지는 영상 만드는 방법 공개: https://youtu.be/9CMwXmF_utI 👉 유튜브, 어디서부터 시작해야 할지 모르겠다면: ht…",
-      "hook_type": "수익"
-    },
-    {
-      "video_id": "H8K-DTS6rGo",
-      "channel_name": "안될공학 - IT 테크 신기술",
-      "title": "엔비디아의 800VDC로 전력 문제 해결 완료?",
-      "thumbnail_url": "https://i.ytimg.com/vi/H8K-DTS6rGo/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=H8K-DTS6rGo",
-      "published_at": "2026-07-01T05:30:04Z",
-      "view_count": 2397,
-      "like_count": 20,
+      "video_id": "5eXz97g3Rac",
+      "channel_name": "멋쟁이사자처럼",
+      "title": "[그로스 마케터 셋로그] 인턴 1개월 차 vs 정규직 전환 1년 차",
+      "thumbnail_url": "https://i.ytimg.com/vi/5eXz97g3Rac/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=5eXz97g3Rac",
+      "published_at": "2026-07-02T06:22:26Z",
+      "view_count": 29709,
+      "like_count": 27,
       "comment_count": 0,
-      "engagement_rate": 0.008343763037129746,
-      "topic_cluster": "엔비디아의",
-      "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "engagement_rate": 0.0009088155104513784,
+      "topic_cluster": "그로스",
+      "summary": "이 영상은 비교 이슈를 비교 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
       "comment_signal": "댓글 반응은 아직 약한 편입니다.",
+      "hook_type": "비교"
+    },
+    {
+      "video_id": "PDPcZ8ERWe4",
+      "channel_name": "안될공학 - IT 테크 신기술",
+      "title": "메타가 DRAM 재활용 칩을 냈습니다... 메모리 수요 줄어들까? HBM 다음은 CXL?",
+      "thumbnail_url": "https://i.ytimg.com/vi/PDPcZ8ERWe4/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=PDPcZ8ERWe4",
+      "published_at": "2026-07-02T12:32:56Z",
+      "view_count": 26559,
+      "like_count": 823,
+      "comment_count": 135,
+      "engagement_rate": 0.03607063518957792,
+      "topic_cluster": "메타가",
+      "summary": "이 영상은 비교 이슈를 비교 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "이렇게 써야 될 정도로 메모리 모자르구나",
       "hook_type": "문제 해결"
     }
   ]
