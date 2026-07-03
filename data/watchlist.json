@@ -3,6 +3,25 @@
   "source": "sqlite_export",
   "channels": [
     {
+      "channel_key": "uca-mwx9cvctvfwrmb9bkc9w",
+      "youtube_channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+      "name": "Dan Martell",
+      "url": "https://www.youtube.com/@danmartell",
+      "category": "비즈니스/AI",
+      "language": "English",
+      "is_active": true,
+      "subscriber_count": 2880000,
+      "channel_view_count": 364391558,
+      "video_count": 3473,
+      "description": "My #1 passion is teaching.\n\n#2 is building AI businesses.",
+      "country": "CA",
+      "published_at": "2011-10-08T05:11:03Z",
+      "thumbnail_url": "https://yt3.ggpht.com/0EEjg1FatDs8_2tFmzmGEP6dRlQygfqN6uCV17iwl-AymS0OSdWrtDeKq8ZIMZeTWRJO_cTT=s800-c-k-c0x00ffffff-no-rj",
+      "last_synced_at": "2026-07-03T13:53:27+00:00",
+      "source": "manual",
+      "notes": "Added by Codex on 2026-07-03 for daily monitoring."
+    },
+    {
       "channel_key": "ucducjkyztf-1wjyppietf1g",
       "youtube_channel_id": "UCdUcjkyZtf-1WJyPPiETF1g",
       "name": "ITSUB",
