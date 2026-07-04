@@ -1,239 +1,262 @@
 {
-  "digest_date": "2026-07-03",
-  "generated_at": "2026-07-03T00:17:04+00:00",
-  "summary": "최근 24시간 영상 13개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'LG'입니다. 특히 'LG 로봇청소기 진짜 이렇게 출시한다고???'는 조회수 130.3K, 참여율 1.1%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "'LG' 주제가 1개 영상으로 가장 많이 다뤄졌습니다. 일반인 관점 직접 실험 or VS 비교 각도로 차별화할 영역이 있습니다.\n[내 채널] 7일 평균 3.5K회 · 지속률 32.5% / 경쟁사 평균 30.5K회 (격차 -88%)",
-  "telegram_preview": "📡 스마트대디 모니터링 | 07/03\n\n📊 수집: 영상 13개 | 채널 10개\n\n🔥 참여율 TOP 3\n1. [귀곰] 1.1% · 130.3K뷰\n   LG 로봇청소기 진짜 이렇게 출시한다고???\n2. [ITSub잇섭] 2.1% · 106.4K뷰\n   현직 테크유튜버가 출장 갈 때 '무조건' 챙기는 전자기기는 무엇일까?\n3. [AI Explained] 4.3% · 40.7K뷰\n   Fable 5 vs GPT 5.6 Sol: The Early Results\n\n📌 화제 키워드\n   research · coding · monetization · agents · automation\n\n🎬 포맷: 뉴스 분석 5개 · 비교 3개 · 워크플로우 튜토리얼 2개\n\n📈 스마트대디 어제 실적\n조회수 2.8K (↓21% vs 7일 평균) | 구독 -13\n시청 지속률 27.7% | 평균 시청 1분 53초\n경쟁사 평균 30.5K회 대비 내 7일 평균 -88%\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
-  "video_count": 13,
-  "total_recent_video_count": 13,
+  "digest_date": "2026-07-04",
+  "generated_at": "2026-07-04T00:15:58+00:00",
+  "summary": "최근 24시간 영상 19개를 기준으로 보면, 오늘 가장 먼저 볼 축은 '백엔드'입니다. 특히 'LG 로봇청소기 이젠 진짜 사도 될까? 소신발언!'는 조회수 63.4K, 참여율 2.5%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "'백엔드' 주제가 8개 영상으로 가장 많이 다뤄졌습니다. 일반인 관점 직접 실험 or VS 비교 각도로 차별화할 영역이 있습니다.\n[내 채널] 7일 평균 4.2K회 · 지속률 30.8% / 경쟁사 평균 7.7K회 (격차 -46%)",
+  "telegram_preview": "📡 스마트대디 모니터링 | 07/04\n\n📊 수집: 영상 19개 | 채널 7개\n\n🔥 참여율 TOP 3\n1. [귀곰] 2.5% · 63.4K뷰\n   LG 로봇청소기 이젠 진짜 사도 될까? 소신발언!\n2. [안될공학 - IT 테크 신기술] 3.3% · 16.6K뷰\n   충격적인 메타의 한 마디... GPU 가 남는다? 메타의 클라우드 사업 진출의 진짜 의미\n3. [테크몽 Techmong] 0.9% · 14.3K뷰\n   LG에서 또 신기한 거 만들어옴ㄷㄷ\n\n📌 화제 키워드\n   coding · agents · automation · research · transcript\n\n🎬 포맷: 뉴스 분석 10개 · 빌드 데모 6개 · 비교 2개\n\n📈 스마트대디 어제 실적\n조회수 6.5K (↑54% vs 7일 평균) | 구독 -6\n시청 지속률 29.9% | 평균 시청 1분 42초\n경쟁사 평균 7.7K회 대비 내 7일 평균 -46%\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+  "video_count": 19,
+  "total_recent_video_count": 19,
   "focus_scope": "all_watchlist",
-  "average_view_count": 30484.0,
-  "average_engagement_rate": 0.029722533753084316,
-  "average_like_count": 562.0,
-  "average_comment_count": 85.0,
-  "best_video_id": "pitEvEVaES4",
-  "best_topic": "LG",
+  "average_view_count": 7711.0,
+  "average_engagement_rate": 0.04218860356595616,
+  "average_like_count": 213.0,
+  "average_comment_count": 30.0,
+  "best_video_id": "x4Wvf-2LCBY",
+  "best_topic": "백엔드",
   "summary_points": [
-    "가장 겹친 주제는 'LG'이며 1개 영상, 평균 조회수 130.3K, 평균 참여율 1.1%입니다.",
-    "최고 실적 영상은 'LG 로봇청소기 진짜 이렇게 출시한다고???'이며 긴급성 훅과 뉴스 분석 포맷 조합이 강했습니다.",
-    "반복 노출된 툴은 Claude 2회, Arc 2회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
+    "가장 겹친 주제는 '백엔드'이며 8개 영상, 평균 조회수 232, 평균 참여율 4.8%입니다.",
+    "최고 실적 영상은 'LG 로봇청소기 이젠 진짜 사도 될까? 소신발언!'이며 솔직 검증 훅과 비교 포맷 조합이 강했습니다.",
+    "반복 노출된 툴은 Claude 2회, OpenAI 1회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
   ],
   "action_chips": [
-    "주제: LG",
-    "훅: 긴급성",
-    "포맷: 뉴스 분석",
+    "주제: 백엔드",
+    "훅: 솔직 검증",
+    "포맷: 비교",
     "기준 채널: 귀곰"
   ],
   "title_suggestions": [
-    "LG 직접 실험 — 이게 진짜 되나?",
-    "LG vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
-    "LG 써봤더니... (기대 vs 현실 솔직 후기)"
+    "백엔드 직접 실험 — 이게 진짜 되나?",
+    "백엔드 vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
+    "백엔드 써봤더니... (기대 vs 현실 솔직 후기)"
   ],
   "recommendations": [
     {
-      "title": "LG 직접 실험 — 이게 진짜 되나?",
+      "title": "백엔드 직접 실험 — 이게 진짜 되나?",
       "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
-      "angle": "큰 주제 하나를 대표 제목으로 세우고, 나머지 포인트는 보조 정보처럼 정리하는 압축형 포장이 좋습니다.",
-      "thumbnail_copy": "LG 지금 봐야 함",
+      "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
+      "thumbnail_copy": "백엔드 바로 해결",
       "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
-      "source_video_id": "pitEvEVaES4",
-      "source": "LG 로봇청소기 진짜 이렇게 출시한다고???",
-      "my_channel_context": "내 7일 평균 3.5K회 · 지속률 32.5% / 경쟁사 대비 -88%"
+      "source_video_id": "Ihq8J-Ce-2k",
+      "source": "백엔드 개발자 취준하는 법 모르면 이거 보세요.",
+      "my_channel_context": "내 7일 평균 4.2K회 · 지속률 30.8% / 경쟁사 대비 -46%"
+    },
+    {
+      "title": "백엔드 vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
+      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
+      "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
+      "thumbnail_copy": "백엔드 바로 해결",
+      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
+      "source_video_id": "EwHswBtbh00",
+      "source": "백엔드 개발자 취준생 상위 1%는 이거 성공함",
+      "my_channel_context": "내 7일 평균 4.2K회 · 지속률 30.8% / 경쟁사 대비 -46%"
+    },
+    {
+      "title": "백엔드 써봤더니... (기대 vs 현실 솔직 후기)",
+      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
+      "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
+      "thumbnail_copy": "백엔드 바로 해결",
+      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
+      "source_video_id": "ZQj4mc6f7d0",
+      "source": "[백엔드 자바 부트캠프] 백엔드 개발자 취업에 가까워지고 있어요!",
+      "my_channel_context": "내 7일 평균 4.2K회 · 지속률 30.8% / 경쟁사 대비 -46%"
     }
   ],
   "topic_clusters": [
     {
-      "label": "LG",
-      "count": 1,
-      "avg_view_count": 130347,
-      "avg_engagement_rate": 0.010940029306389867,
-      "avg_like_count": 1262,
-      "avg_comment_count": 164,
-      "source_titles": [
-        "LG 로봇청소기 진짜 이렇게 출시한다고???"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/pitEvEVaES4/hqdefault.jpg",
-      "representative_video_id": "pitEvEVaES4",
-      "representative_title": "LG 로봇청소기 진짜 이렇게 출시한다고???"
-    },
-    {
-      "label": "현직",
-      "count": 1,
-      "avg_view_count": 106363,
-      "avg_engagement_rate": 0.021257392138243562,
-      "avg_like_count": 1999,
-      "avg_comment_count": 262,
-      "source_titles": [
-        "현직 테크유튜버가 출장 갈 때 '무조건' 챙기는 전자기기는 무엇일까?"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/t-gOkXYi14I/hqdefault.jpg",
-      "representative_video_id": "t-gOkXYi14I",
-      "representative_title": "현직 테크유튜버가 출장 갈 때 '무조건' 챙기는 전자기기는 무엇일까?"
-    },
-    {
-      "label": "OpenAI",
-      "count": 1,
-      "avg_view_count": 40702,
-      "avg_engagement_rate": 0.043241118372561546,
-      "avg_like_count": 1517,
-      "avg_comment_count": 243,
-      "source_titles": [
-        "Fable 5 vs GPT 5.6 Sol: The Early Results"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/y24lF1q4SFY/hqdefault.jpg",
-      "representative_video_id": "y24lF1q4SFY",
-      "representative_title": "Fable 5 vs GPT 5.6 Sol: The Early Results"
-    },
-    {
-      "label": "그로스",
-      "count": 1,
-      "avg_view_count": 29709,
-      "avg_engagement_rate": 0.0009088155104513784,
-      "avg_like_count": 27,
+      "label": "백엔드",
+      "count": 8,
+      "avg_view_count": 232,
+      "avg_engagement_rate": 0.04754393424036281,
+      "avg_like_count": 1,
       "avg_comment_count": 0,
       "source_titles": [
-        "[그로스 마케터 셋로그] 인턴 1개월 차 vs 정규직 전환 1년 차"
+        "백엔드 개발자 취준하는 법 모르면 이거 보세요.",
+        "백엔드 개발자 취준생 상위 1%는 이거 성공함",
+        "[백엔드 자바 부트캠프] 백엔드 개발자 취업에 가까워지고 있어요!"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/5eXz97g3Rac/hqdefault.jpg",
-      "representative_video_id": "5eXz97g3Rac",
-      "representative_title": "[그로스 마케터 셋로그] 인턴 1개월 차 vs 정규직 전환 1년 차"
+      "thumbnail_url": "https://i.ytimg.com/vi/Ihq8J-Ce-2k/hqdefault.jpg",
+      "representative_video_id": "Ihq8J-Ce-2k",
+      "representative_title": "백엔드 개발자 취준하는 법 모르면 이거 보세요."
     },
     {
-      "label": "메타가",
-      "count": 1,
-      "avg_view_count": 26559,
-      "avg_engagement_rate": 0.03607063518957792,
-      "avg_like_count": 823,
-      "avg_comment_count": 135,
+      "label": "유럽",
+      "count": 2,
+      "avg_view_count": 3048,
+      "avg_engagement_rate": 0.016755800522069726,
+      "avg_like_count": 46,
+      "avg_comment_count": 5,
       "source_titles": [
-        "메타가 DRAM 재활용 칩을 냈습니다... 메모리 수요 줄어들까? HBM 다음은 CXL?"
+        "유럽 50년 폭염기록 사흘 연속 갱신 중",
+        "유럽 폭염으로 원래 의도와 달라진 유럽의 건물"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/PDPcZ8ERWe4/hqdefault.jpg",
-      "representative_video_id": "PDPcZ8ERWe4",
-      "representative_title": "메타가 DRAM 재활용 칩을 냈습니다... 메모리 수요 줄어들까? HBM 다음은 CXL?"
+      "thumbnail_url": "https://i.ytimg.com/vi/zZ3-yPXBkHs/hqdefault.jpg",
+      "representative_video_id": "zZ3-yPXBkHs",
+      "representative_title": "유럽 50년 폭염기록 사흘 연속 갱신 중"
     },
     {
-      "label": "단점",
+      "label": "LG",
       "count": 1,
-      "avg_view_count": 19121,
-      "avg_engagement_rate": 0.03728884472569426,
-      "avg_like_count": 563,
-      "avg_comment_count": 150,
+      "avg_view_count": 63415,
+      "avg_engagement_rate": 0.025388315067413073,
+      "avg_like_count": 1374,
+      "avg_comment_count": 236,
       "source_titles": [
-        "단점 싹~~다 고쳐서 나와버린 세상 핫한 이어폰! [샥즈 오픈닷2 2주 사용기]"
+        "LG 로봇청소기 이젠 진짜 사도 될까? 소신발언!"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/7A_1GKM4m1A/hqdefault.jpg",
-      "representative_video_id": "7A_1GKM4m1A",
-      "representative_title": "단점 싹~~다 고쳐서 나와버린 세상 핫한 이어폰! [샥즈 오픈닷2 2주 사용기]"
+      "thumbnail_url": "https://i.ytimg.com/vi/x4Wvf-2LCBY/hqdefault.jpg",
+      "representative_video_id": "x4Wvf-2LCBY",
+      "representative_title": "LG 로봇청소기 이젠 진짜 사도 될까? 소신발언!"
     },
     {
-      "label": "CG",
+      "label": "코딩",
       "count": 1,
-      "avg_view_count": 15671,
-      "avg_engagement_rate": 0.02565247910152511,
-      "avg_like_count": 322,
-      "avg_comment_count": 80,
+      "avg_view_count": 16564,
+      "avg_engagement_rate": 0.032842308621106014,
+      "avg_like_count": 480,
+      "avg_comment_count": 64,
       "source_titles": [
-        "CG 아님ㅋㅋ 문 열고 나오는 로봇청소기 등장 [LG 홈봇 AI 로니]"
+        "충격적인 메타의 한 마디... GPU 가 남는다? 메타의 클라우드 사업 진출의 진짜 의미"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/cnHsP2P0XSs/hqdefault.jpg",
-      "representative_video_id": "cnHsP2P0XSs",
-      "representative_title": "CG 아님ㅋㅋ 문 열고 나오는 로봇청소기 등장 [LG 홈봇 AI 로니]"
+      "thumbnail_url": "https://i.ytimg.com/vi/J_GYrqt5xr4/hqdefault.jpg",
+      "representative_video_id": "J_GYrqt5xr4",
+      "representative_title": "충격적인 메타의 한 마디... GPU 가 남는다? 메타의 클라우드 사업 진출의 진짜 의미"
     },
     {
-      "label": "절대",
+      "label": "LG에서",
       "count": 1,
-      "avg_view_count": 12529,
-      "avg_engagement_rate": 0.04222204485593423,
-      "avg_like_count": 475,
-      "avg_comment_count": 54,
+      "avg_view_count": 14343,
+      "avg_engagement_rate": 0.009133375165586,
+      "avg_like_count": 125,
+      "avg_comment_count": 6,
       "source_titles": [
-        "\"절대 속으시면 안됩니다\""
+        "LG에서 또 신기한 거 만들어옴ㄷㄷ"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/FqElRK98Pts/hqdefault.jpg",
-      "representative_video_id": "FqElRK98Pts",
-      "representative_title": "\"절대 속으시면 안됩니다\""
+      "thumbnail_url": "https://i.ytimg.com/vi/Rlt0vTJTts4/hqdefault.jpg",
+      "representative_video_id": "Rlt0vTJTts4",
+      "representative_title": "LG에서 또 신기한 거 만들어옴ㄷㄷ"
+    },
+    {
+      "label": "메모리값",
+      "count": 1,
+      "avg_view_count": 11237,
+      "avg_engagement_rate": 0.01877725371540447,
+      "avg_like_count": 199,
+      "avg_comment_count": 12,
+      "source_titles": [
+        "메모리값 폭등, 메모리 회사 탓이 아닌 이유"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/_MLy_ujhurQ/hqdefault.jpg",
+      "representative_video_id": "_MLy_ujhurQ",
+      "representative_title": "메모리값 폭등, 메모리 회사 탓이 아닌 이유"
+    },
+    {
+      "label": "요즘",
+      "count": 1,
+      "avg_view_count": 9850,
+      "avg_engagement_rate": 0.015126903553299492,
+      "avg_like_count": 139,
+      "avg_comment_count": 10,
+      "source_titles": [
+        "요즘 메모리 가격이 미친듯이 상승한 이유"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/LjKM2i77vdg/hqdefault.jpg",
+      "representative_video_id": "LjKM2i77vdg",
+      "representative_title": "요즘 메모리 가격이 미친듯이 상승한 이유"
+    },
+    {
+      "label": "Young",
+      "count": 1,
+      "avg_view_count": 8012,
+      "avg_engagement_rate": 0.048302546180728906,
+      "avg_like_count": 384,
+      "avg_comment_count": 3,
+      "source_titles": [
+        "Young Entrepreneur: \"My parents don't want me to start a business\""
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/tabwyQZ7P2M/hqdefault.jpg",
+      "representative_video_id": "tabwyQZ7P2M",
+      "representative_title": "Young Entrepreneur: \"My parents don't want me to start a business\""
     }
   ],
   "video_highlights": [
     {
-      "video_id": "pitEvEVaES4",
+      "video_id": "x4Wvf-2LCBY",
       "channel_name": "귀곰",
-      "title": "LG 로봇청소기 진짜 이렇게 출시한다고???",
-      "thumbnail_url": "https://i.ytimg.com/vi/pitEvEVaES4/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=pitEvEVaES4",
-      "published_at": "2026-07-02T02:50:13Z",
-      "view_count": 130347,
-      "like_count": 1262,
-      "comment_count": 164,
-      "engagement_rate": 0.010940029306389867,
+      "title": "LG 로봇청소기 이젠 진짜 사도 될까? 소신발언!",
+      "thumbnail_url": "https://i.ytimg.com/vi/x4Wvf-2LCBY/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=x4Wvf-2LCBY",
+      "published_at": "2026-07-03T07:59:13Z",
+      "view_count": 63415,
+      "like_count": 1374,
+      "comment_count": 236,
+      "engagement_rate": 0.025388315067413073,
       "topic_cluster": "LG",
-      "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "Lg야 그냥 싱크대를 만들어라. 식세기+로청+인덕션+정수기 달아놓고 한번에 끝낼 수 있게",
-      "hook_type": "긴급성"
+      "summary": "이 영상은 비교 이슈를 비교 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "걸레받이 밀고 나오는아이디어 누가 낸건지 이건 진짜 기능을 뛰어넘는 끌림 미쳤어요 ㅋㅋㅋ 공간활용 완전 깔끔!!! 다른 의미에서의 혁신 !!!",
+      "hook_type": "솔직 검증"
     },
     {
-      "video_id": "t-gOkXYi14I",
-      "channel_name": "ITSub잇섭",
-      "title": "현직 테크유튜버가 출장 갈 때 '무조건' 챙기는 전자기기는 무엇일까?",
-      "thumbnail_url": "https://i.ytimg.com/vi/t-gOkXYi14I/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=t-gOkXYi14I",
-      "published_at": "2026-07-02T11:00:04Z",
-      "view_count": 106363,
-      "like_count": 1999,
-      "comment_count": 262,
-      "engagement_rate": 0.021257392138243562,
-      "topic_cluster": "현직",
-      "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "아니 내일이 여행인데 이걸 이제 보네....",
+      "video_id": "J_GYrqt5xr4",
+      "channel_name": "안될공학 - IT 테크 신기술",
+      "title": "충격적인 메타의 한 마디... GPU 가 남는다? 메타의 클라우드 사업 진출의 진짜 의미",
+      "thumbnail_url": "https://i.ytimg.com/vi/J_GYrqt5xr4/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=J_GYrqt5xr4",
+      "published_at": "2026-07-03T10:50:01Z",
+      "view_count": 16564,
+      "like_count": 480,
+      "comment_count": 64,
+      "engagement_rate": 0.032842308621106014,
+      "topic_cluster": "코딩",
+      "summary": "이 영상은 coding 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "들었던 보험을 꺼냈다 = 메타 자체 AI모델 개발이 망해가고 있다",
+      "hook_type": "솔직 검증"
+    },
+    {
+      "video_id": "Rlt0vTJTts4",
+      "channel_name": "테크몽 Techmong",
+      "title": "LG에서 또 신기한 거 만들어옴ㄷㄷ",
+      "thumbnail_url": "https://i.ytimg.com/vi/Rlt0vTJTts4/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=Rlt0vTJTts4",
+      "published_at": "2026-07-03T11:00:06Z",
+      "view_count": 14343,
+      "like_count": 125,
+      "comment_count": 6,
+      "engagement_rate": 0.009133375165586,
+      "topic_cluster": "LG에서",
+      "summary": "이 영상은 빌드 데모 이슈를 빌드 데모 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "로봇은 모름지기 격납고에서 출격해야지",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "y24lF1q4SFY",
-      "channel_name": "AI Explained",
-      "title": "Fable 5 vs GPT 5.6 Sol: The Early Results",
-      "thumbnail_url": "https://i.ytimg.com/vi/y24lF1q4SFY/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=y24lF1q4SFY",
-      "published_at": "2026-07-02T16:27:26Z",
-      "view_count": 40702,
-      "like_count": 1517,
-      "comment_count": 243,
-      "engagement_rate": 0.043241118372561546,
-      "topic_cluster": "OpenAI",
-      "summary": "이 영상은 research 이슈를 비교 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "Pretty sure they could name the model size up from Sol after any constellation they want… or “G…",
-      "hook_type": "비교"
-    },
-    {
-      "video_id": "5eXz97g3Rac",
-      "channel_name": "멋쟁이사자처럼",
-      "title": "[그로스 마케터 셋로그] 인턴 1개월 차 vs 정규직 전환 1년 차",
-      "thumbnail_url": "https://i.ytimg.com/vi/5eXz97g3Rac/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=5eXz97g3Rac",
-      "published_at": "2026-07-02T06:22:26Z",
-      "view_count": 29709,
-      "like_count": 27,
-      "comment_count": 0,
-      "engagement_rate": 0.0009088155104513784,
-      "topic_cluster": "그로스",
-      "summary": "이 영상은 비교 이슈를 비교 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "댓글 반응은 아직 약한 편입니다.",
-      "hook_type": "비교"
-    },
-    {
-      "video_id": "PDPcZ8ERWe4",
+      "video_id": "_MLy_ujhurQ",
       "channel_name": "안될공학 - IT 테크 신기술",
-      "title": "메타가 DRAM 재활용 칩을 냈습니다... 메모리 수요 줄어들까? HBM 다음은 CXL?",
-      "thumbnail_url": "https://i.ytimg.com/vi/PDPcZ8ERWe4/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=PDPcZ8ERWe4",
-      "published_at": "2026-07-02T12:32:56Z",
-      "view_count": 26559,
-      "like_count": 823,
-      "comment_count": 135,
-      "engagement_rate": 0.03607063518957792,
-      "topic_cluster": "메타가",
-      "summary": "이 영상은 비교 이슈를 비교 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "이렇게 써야 될 정도로 메모리 모자르구나",
+      "title": "메모리값 폭등, 메모리 회사 탓이 아닌 이유",
+      "thumbnail_url": "https://i.ytimg.com/vi/_MLy_ujhurQ/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=_MLy_ujhurQ",
+      "published_at": "2026-07-03T04:00:12Z",
+      "view_count": 11237,
+      "like_count": 199,
+      "comment_count": 12,
+      "engagement_rate": 0.01877725371540447,
+      "topic_cluster": "메모리값",
+      "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "양아치 IT기업 애플 때문에 메모리기업들 피똥을 쌌는데 아직도 지들이 IT업계에서 큰손인 줄 안다. 니들말고 구글, 테슬라, 엔비디아, AMD 등등 줄 서서 기다리고 있다.",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "LjKM2i77vdg",
+      "channel_name": "안될공학 - IT 테크 신기술",
+      "title": "요즘 메모리 가격이 미친듯이 상승한 이유",
+      "thumbnail_url": "https://i.ytimg.com/vi/LjKM2i77vdg/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=LjKM2i77vdg",
+      "published_at": "2026-07-03T12:00:05Z",
+      "view_count": 9850,
+      "like_count": 139,
+      "comment_count": 10,
+      "engagement_rate": 0.015126903553299492,
+      "topic_cluster": "요즘",
+      "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "애플 기준으로 소비자가 이득본적이 없는데?",
       "hook_type": "문제 해결"
     }
   ]
