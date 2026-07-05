@@ -1,262 +1,250 @@
 {
-  "digest_date": "2026-07-04",
-  "generated_at": "2026-07-04T00:15:58+00:00",
-  "summary": "최근 24시간 영상 19개를 기준으로 보면, 오늘 가장 먼저 볼 축은 '백엔드'입니다. 특히 'LG 로봇청소기 이젠 진짜 사도 될까? 소신발언!'는 조회수 63.4K, 참여율 2.5%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "'백엔드' 주제가 8개 영상으로 가장 많이 다뤄졌습니다. 일반인 관점 직접 실험 or VS 비교 각도로 차별화할 영역이 있습니다.\n[내 채널] 7일 평균 4.2K회 · 지속률 30.8% / 경쟁사 평균 7.7K회 (격차 -46%)",
-  "telegram_preview": "📡 스마트대디 모니터링 | 07/04\n\n📊 수집: 영상 19개 | 채널 7개\n\n🔥 참여율 TOP 3\n1. [귀곰] 2.5% · 63.4K뷰\n   LG 로봇청소기 이젠 진짜 사도 될까? 소신발언!\n2. [안될공학 - IT 테크 신기술] 3.3% · 16.6K뷰\n   충격적인 메타의 한 마디... GPU 가 남는다? 메타의 클라우드 사업 진출의 진짜 의미\n3. [테크몽 Techmong] 0.9% · 14.3K뷰\n   LG에서 또 신기한 거 만들어옴ㄷㄷ\n\n📌 화제 키워드\n   coding · agents · automation · research · transcript\n\n🎬 포맷: 뉴스 분석 10개 · 빌드 데모 6개 · 비교 2개\n\n📈 스마트대디 어제 실적\n조회수 6.5K (↑54% vs 7일 평균) | 구독 -6\n시청 지속률 29.9% | 평균 시청 1분 42초\n경쟁사 평균 7.7K회 대비 내 7일 평균 -46%\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
-  "video_count": 19,
-  "total_recent_video_count": 19,
+  "digest_date": "2026-07-05",
+  "generated_at": "2026-07-05T00:10:41+00:00",
+  "summary": "최근 24시간 영상 14개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'Claude'입니다. 특히 '고프로 망한 거 아니었나요? 2년만에 칼을 갈고 내놓은 신작 사봤습니다.....'는 조회수 167.0K, 참여율 1.6%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "'Claude' 주제가 2개 영상으로 가장 많이 다뤄졌습니다. 오늘 수집 영상 14개는 주로 '뉴스 분석' 포맷이라, VS 비교·직접 실험 각도는 아직 비어 있습니다. Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n[내 채널] 7일 평균 4.2K회 · 지속률 30.0% / 경쟁사 평균 21.3K회 (격차 -81%)",
+  "telegram_preview": "📡 스마트대디 모니터링 | 07/05\n\n📊 수집: 영상 14개 | 채널 8개\n\n🔥 참여율 TOP 3\n1. [ITSub잇섭] 1.6% · 167.0K뷰\n   고프로 망한 거 아니었나요? 2년만에 칼을 갈고 내놓은 신작 사봤습니다.....\n2. [안될공학 - IT 테크 신기술] 1.6% · 31.9K뷰\n   중국 DDR5 메모리가 생각보다 비싼 이유\n3. [Dan Martell] 5.1% · 20.0K뷰\n   People don't quit a company, they quit their boss.\n\n📌 화제 키워드\n   automation · coding · agents · research\n\n🎬 포맷: 뉴스 분석 6개 · 워크플로우 튜토리얼 3개 · 사례 분석 3개\n\n📈 스마트대디 어제 실적\n조회수 4.1K (↓2% vs 7일 평균) | 구독 +2\n시청 지속률 32.1% | 평균 시청 1분 49초\n경쟁사 평균 21.3K회 대비 내 7일 평균 -81%\n\n💡 VS 각도: Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+  "video_count": 14,
+  "total_recent_video_count": 14,
   "focus_scope": "all_watchlist",
-  "average_view_count": 7711.0,
-  "average_engagement_rate": 0.04218860356595616,
-  "average_like_count": 213.0,
-  "average_comment_count": 30.0,
-  "best_video_id": "x4Wvf-2LCBY",
-  "best_topic": "백엔드",
+  "average_view_count": 21303.0,
+  "average_engagement_rate": 0.039659386554894815,
+  "average_like_count": 442.0,
+  "average_comment_count": 58.0,
+  "best_video_id": "ANWxHRe23iE",
+  "best_topic": "Claude",
   "summary_points": [
-    "가장 겹친 주제는 '백엔드'이며 8개 영상, 평균 조회수 232, 평균 참여율 4.8%입니다.",
-    "최고 실적 영상은 'LG 로봇청소기 이젠 진짜 사도 될까? 소신발언!'이며 솔직 검증 훅과 비교 포맷 조합이 강했습니다.",
-    "반복 노출된 툴은 Claude 2회, OpenAI 1회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
+    "가장 겹친 주제는 'Claude'이며 2개 영상, 평균 조회수 1.7K, 평균 참여율 4.9%입니다.",
+    "최고 실적 영상은 '고프로 망한 거 아니었나요? 2년만에 칼을 갈고 내놓은 신작 사봤습니다.....'이며 문제 해결 훅과 사례 분석 포맷 조합이 강했습니다.",
+    "반복 노출된 툴은 Claude 2회, Arc 2회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
   ],
   "action_chips": [
-    "주제: 백엔드",
-    "훅: 솔직 검증",
-    "포맷: 비교",
-    "기준 채널: 귀곰"
+    "주제: Claude",
+    "훅: 문제 해결",
+    "포맷: 사례 분석",
+    "기준 채널: ITSub잇섭"
   ],
   "title_suggestions": [
-    "백엔드 직접 실험 — 이게 진짜 되나?",
-    "백엔드 vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
-    "백엔드 써봤더니... (기대 vs 현실 솔직 후기)"
+    "Claude vs ChatGPT, 일반인이 직접 써보니 이게 달랐다",
+    "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
+    "AI 비서 대결: Claude가 진짜 강한 상황은 따로 있었다"
   ],
   "recommendations": [
     {
-      "title": "백엔드 직접 실험 — 이게 진짜 되나?",
-      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
-      "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
-      "thumbnail_copy": "백엔드 바로 해결",
-      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
-      "source_video_id": "Ihq8J-Ce-2k",
-      "source": "백엔드 개발자 취준하는 법 모르면 이거 보세요.",
-      "my_channel_context": "내 7일 평균 4.2K회 · 지속률 30.8% / 경쟁사 대비 -46%"
+      "title": "Claude vs ChatGPT, 일반인이 직접 써보니 이게 달랐다",
+      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
+      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
+      "thumbnail_copy": "Claude 바로 해결",
+      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
+      "source_video_id": "H0vIPXtrlHw",
+      "source": "Skills Make Claude 10x More Powerful",
+      "my_channel_context": "내 7일 평균 4.2K회 · 지속률 30.0% / 경쟁사 대비 -81%"
     },
     {
-      "title": "백엔드 vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
-      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
-      "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
-      "thumbnail_copy": "백엔드 바로 해결",
-      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
-      "source_video_id": "EwHswBtbh00",
-      "source": "백엔드 개발자 취준생 상위 1%는 이거 성공함",
-      "my_channel_context": "내 7일 평균 4.2K회 · 지속률 30.8% / 경쟁사 대비 -46%"
-    },
-    {
-      "title": "백엔드 써봤더니... (기대 vs 현실 솔직 후기)",
-      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
-      "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
-      "thumbnail_copy": "백엔드 바로 해결",
-      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
-      "source_video_id": "ZQj4mc6f7d0",
-      "source": "[백엔드 자바 부트캠프] 백엔드 개발자 취업에 가까워지고 있어요!",
-      "my_channel_context": "내 7일 평균 4.2K회 · 지속률 30.8% / 경쟁사 대비 -46%"
+      "title": "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
+      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
+      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
+      "thumbnail_copy": "Claude 핵심 3가지",
+      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
+      "source_video_id": "lC-tXvp2XlE",
+      "source": "Building a Reddit AI Research Agent With Mistral Vibe",
+      "my_channel_context": "내 7일 평균 4.2K회 · 지속률 30.0% / 경쟁사 대비 -81%"
     }
   ],
   "topic_clusters": [
     {
-      "label": "백엔드",
-      "count": 8,
-      "avg_view_count": 232,
-      "avg_engagement_rate": 0.04754393424036281,
-      "avg_like_count": 1,
-      "avg_comment_count": 0,
-      "source_titles": [
-        "백엔드 개발자 취준하는 법 모르면 이거 보세요.",
-        "백엔드 개발자 취준생 상위 1%는 이거 성공함",
-        "[백엔드 자바 부트캠프] 백엔드 개발자 취업에 가까워지고 있어요!"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/Ihq8J-Ce-2k/hqdefault.jpg",
-      "representative_video_id": "Ihq8J-Ce-2k",
-      "representative_title": "백엔드 개발자 취준하는 법 모르면 이거 보세요."
-    },
-    {
-      "label": "유럽",
+      "label": "Claude",
       "count": 2,
-      "avg_view_count": 3048,
-      "avg_engagement_rate": 0.016755800522069726,
-      "avg_like_count": 46,
-      "avg_comment_count": 5,
-      "source_titles": [
-        "유럽 50년 폭염기록 사흘 연속 갱신 중",
-        "유럽 폭염으로 원래 의도와 달라진 유럽의 건물"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/zZ3-yPXBkHs/hqdefault.jpg",
-      "representative_video_id": "zZ3-yPXBkHs",
-      "representative_title": "유럽 50년 폭염기록 사흘 연속 갱신 중"
-    },
-    {
-      "label": "LG",
-      "count": 1,
-      "avg_view_count": 63415,
-      "avg_engagement_rate": 0.025388315067413073,
-      "avg_like_count": 1374,
-      "avg_comment_count": 236,
-      "source_titles": [
-        "LG 로봇청소기 이젠 진짜 사도 될까? 소신발언!"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/x4Wvf-2LCBY/hqdefault.jpg",
-      "representative_video_id": "x4Wvf-2LCBY",
-      "representative_title": "LG 로봇청소기 이젠 진짜 사도 될까? 소신발언!"
-    },
-    {
-      "label": "코딩",
-      "count": 1,
-      "avg_view_count": 16564,
-      "avg_engagement_rate": 0.032842308621106014,
-      "avg_like_count": 480,
-      "avg_comment_count": 64,
-      "source_titles": [
-        "충격적인 메타의 한 마디... GPU 가 남는다? 메타의 클라우드 사업 진출의 진짜 의미"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/J_GYrqt5xr4/hqdefault.jpg",
-      "representative_video_id": "J_GYrqt5xr4",
-      "representative_title": "충격적인 메타의 한 마디... GPU 가 남는다? 메타의 클라우드 사업 진출의 진짜 의미"
-    },
-    {
-      "label": "LG에서",
-      "count": 1,
-      "avg_view_count": 14343,
-      "avg_engagement_rate": 0.009133375165586,
-      "avg_like_count": 125,
+      "avg_view_count": 1704,
+      "avg_engagement_rate": 0.04945174874609122,
+      "avg_like_count": 94,
       "avg_comment_count": 6,
       "source_titles": [
-        "LG에서 또 신기한 거 만들어옴ㄷㄷ"
+        "Skills Make Claude 10x More Powerful",
+        "Building a Reddit AI Research Agent With Mistral Vibe"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/Rlt0vTJTts4/hqdefault.jpg",
-      "representative_video_id": "Rlt0vTJTts4",
-      "representative_title": "LG에서 또 신기한 거 만들어옴ㄷㄷ"
+      "thumbnail_url": "https://i.ytimg.com/vi/H0vIPXtrlHw/hqdefault.jpg",
+      "representative_video_id": "H0vIPXtrlHw",
+      "representative_title": "Skills Make Claude 10x More Powerful"
     },
     {
-      "label": "메모리값",
+      "label": "고프로",
       "count": 1,
-      "avg_view_count": 11237,
-      "avg_engagement_rate": 0.01877725371540447,
-      "avg_like_count": 199,
-      "avg_comment_count": 12,
+      "avg_view_count": 167000,
+      "avg_engagement_rate": 0.015520958083832335,
+      "avg_like_count": 2151,
+      "avg_comment_count": 441,
       "source_titles": [
-        "메모리값 폭등, 메모리 회사 탓이 아닌 이유"
+        "고프로 망한 거 아니었나요? 2년만에 칼을 갈고 내놓은 신작 사봤습니다....."
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/_MLy_ujhurQ/hqdefault.jpg",
-      "representative_video_id": "_MLy_ujhurQ",
-      "representative_title": "메모리값 폭등, 메모리 회사 탓이 아닌 이유"
+      "thumbnail_url": "https://i.ytimg.com/vi/ANWxHRe23iE/hqdefault.jpg",
+      "representative_video_id": "ANWxHRe23iE",
+      "representative_title": "고프로 망한 거 아니었나요? 2년만에 칼을 갈고 내놓은 신작 사봤습니다....."
     },
     {
-      "label": "요즘",
+      "label": "중국",
       "count": 1,
-      "avg_view_count": 9850,
-      "avg_engagement_rate": 0.015126903553299492,
-      "avg_like_count": 139,
+      "avg_view_count": 31921,
+      "avg_engagement_rate": 0.015663669684533692,
+      "avg_like_count": 388,
+      "avg_comment_count": 112,
+      "source_titles": [
+        "중국 DDR5 메모리가 생각보다 비싼 이유"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/QsjmnuuxRgU/hqdefault.jpg",
+      "representative_video_id": "QsjmnuuxRgU",
+      "representative_title": "중국 DDR5 메모리가 생각보다 비싼 이유"
+    },
+    {
+      "label": "Arc",
+      "count": 1,
+      "avg_view_count": 19959,
+      "avg_engagement_rate": 0.05080414850443409,
+      "avg_like_count": 1001,
+      "avg_comment_count": 13,
+      "source_titles": [
+        "People don't quit a company, they quit their boss."
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/d5DpLts40n8/hqdefault.jpg",
+      "representative_video_id": "d5DpLts40n8",
+      "representative_title": "People don't quit a company, they quit their boss."
+    },
+    {
+      "label": "아이폰",
+      "count": 1,
+      "avg_view_count": 19757,
+      "avg_engagement_rate": 0.03426633598218353,
+      "avg_like_count": 608,
+      "avg_comment_count": 69,
+      "source_titles": [
+        "아이폰 18 해킹 유출에서 드러난 사실… 미국판만 퀄컴 모뎀 쓴다? 애플이 아직 못 넘은 mmWave 5G 기술"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/U2aKDEsGBYg/hqdefault.jpg",
+      "representative_video_id": "U2aKDEsGBYg",
+      "representative_title": "아이폰 18 해킹 유출에서 드러난 사실… 미국판만 퀄컴 모뎀 쓴다? 애플이 아직 못 넘은 mmWave 5G 기술"
+    },
+    {
+      "label": "숨",
+      "count": 1,
+      "avg_view_count": 13267,
+      "avg_engagement_rate": 0.015301123087359614,
+      "avg_like_count": 193,
       "avg_comment_count": 10,
       "source_titles": [
-        "요즘 메모리 가격이 미친듯이 상승한 이유"
+        "숨 넘어가는 언박싱ㅋㅋㅋ헬로키티 카메라 실물 미쳤음;;"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/LjKM2i77vdg/hqdefault.jpg",
-      "representative_video_id": "LjKM2i77vdg",
-      "representative_title": "요즘 메모리 가격이 미친듯이 상승한 이유"
+      "thumbnail_url": "https://i.ytimg.com/vi/gIs5wjLlxOc/hqdefault.jpg",
+      "representative_video_id": "gIs5wjLlxOc",
+      "representative_title": "숨 넘어가는 언박싱ㅋㅋㅋ헬로키티 카메라 실물 미쳤음;;"
     },
     {
-      "label": "Young",
+      "label": "일반",
       "count": 1,
-      "avg_view_count": 8012,
-      "avg_engagement_rate": 0.048302546180728906,
-      "avg_like_count": 384,
-      "avg_comment_count": 3,
+      "avg_view_count": 11024,
+      "avg_engagement_rate": 0.01696298984034833,
+      "avg_like_count": 168,
+      "avg_comment_count": 19,
       "source_titles": [
-        "Young Entrepreneur: \"My parents don't want me to start a business\""
+        "일반 DRAM이 계속 부족한 이유"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/tabwyQZ7P2M/hqdefault.jpg",
-      "representative_video_id": "tabwyQZ7P2M",
-      "representative_title": "Young Entrepreneur: \"My parents don't want me to start a business\""
+      "thumbnail_url": "https://i.ytimg.com/vi/q3lAL-GY2YY/hqdefault.jpg",
+      "representative_video_id": "q3lAL-GY2YY",
+      "representative_title": "일반 DRAM이 계속 부족한 이유"
+    },
+    {
+      "label": "I",
+      "count": 1,
+      "avg_view_count": 9995,
+      "avg_engagement_rate": 0.052226113056528266,
+      "avg_like_count": 505,
+      "avg_comment_count": 17,
+      "source_titles": [
+        "I bought my wife her dream car..."
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/rOCpcOzxGRU/hqdefault.jpg",
+      "representative_video_id": "rOCpcOzxGRU",
+      "representative_title": "I bought my wife her dream car..."
     }
   ],
   "video_highlights": [
     {
-      "video_id": "x4Wvf-2LCBY",
-      "channel_name": "귀곰",
-      "title": "LG 로봇청소기 이젠 진짜 사도 될까? 소신발언!",
-      "thumbnail_url": "https://i.ytimg.com/vi/x4Wvf-2LCBY/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=x4Wvf-2LCBY",
-      "published_at": "2026-07-03T07:59:13Z",
-      "view_count": 63415,
-      "like_count": 1374,
-      "comment_count": 236,
-      "engagement_rate": 0.025388315067413073,
-      "topic_cluster": "LG",
-      "summary": "이 영상은 비교 이슈를 비교 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "걸레받이 밀고 나오는아이디어 누가 낸건지 이건 진짜 기능을 뛰어넘는 끌림 미쳤어요 ㅋㅋㅋ 공간활용 완전 깔끔!!! 다른 의미에서의 혁신 !!!",
-      "hook_type": "솔직 검증"
+      "video_id": "ANWxHRe23iE",
+      "channel_name": "ITSub잇섭",
+      "title": "고프로 망한 거 아니었나요? 2년만에 칼을 갈고 내놓은 신작 사봤습니다.....",
+      "thumbnail_url": "https://i.ytimg.com/vi/ANWxHRe23iE/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=ANWxHRe23iE",
+      "published_at": "2026-07-04T11:00:34Z",
+      "view_count": 167000,
+      "like_count": 2151,
+      "comment_count": 441,
+      "engagement_rate": 0.015520958083832335,
+      "topic_cluster": "고프로",
+      "summary": "이 영상은 사례 분석 이슈를 사례 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "고프로는 약간 대명사 처럼 남을 거 같음. DJI인데, 고프로 처럼 생긴 건 죄다 고프로라고 부름. 내꺼 인스타360 에이스라고...",
+      "hook_type": "문제 해결"
     },
     {
-      "video_id": "J_GYrqt5xr4",
+      "video_id": "QsjmnuuxRgU",
       "channel_name": "안될공학 - IT 테크 신기술",
-      "title": "충격적인 메타의 한 마디... GPU 가 남는다? 메타의 클라우드 사업 진출의 진짜 의미",
-      "thumbnail_url": "https://i.ytimg.com/vi/J_GYrqt5xr4/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=J_GYrqt5xr4",
-      "published_at": "2026-07-03T10:50:01Z",
-      "view_count": 16564,
-      "like_count": 480,
-      "comment_count": 64,
-      "engagement_rate": 0.032842308621106014,
-      "topic_cluster": "코딩",
-      "summary": "이 영상은 coding 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "들었던 보험을 꺼냈다 = 메타 자체 AI모델 개발이 망해가고 있다",
-      "hook_type": "솔직 검증"
+      "title": "중국 DDR5 메모리가 생각보다 비싼 이유",
+      "thumbnail_url": "https://i.ytimg.com/vi/QsjmnuuxRgU/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=QsjmnuuxRgU",
+      "published_at": "2026-07-04T02:00:31Z",
+      "view_count": 31921,
+      "like_count": 388,
+      "comment_count": 112,
+      "engagement_rate": 0.015663669684533692,
+      "topic_cluster": "중국",
+      "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "중국이 지금 싸게 팔 것 같냐?",
+      "hook_type": "문제 해결"
     },
     {
-      "video_id": "Rlt0vTJTts4",
-      "channel_name": "테크몽 Techmong",
-      "title": "LG에서 또 신기한 거 만들어옴ㄷㄷ",
-      "thumbnail_url": "https://i.ytimg.com/vi/Rlt0vTJTts4/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=Rlt0vTJTts4",
-      "published_at": "2026-07-03T11:00:06Z",
-      "view_count": 14343,
-      "like_count": 125,
-      "comment_count": 6,
-      "engagement_rate": 0.009133375165586,
-      "topic_cluster": "LG에서",
+      "video_id": "d5DpLts40n8",
+      "channel_name": "Dan Martell",
+      "title": "People don't quit a company, they quit their boss.",
+      "thumbnail_url": "https://i.ytimg.com/vi/d5DpLts40n8/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=d5DpLts40n8",
+      "published_at": "2026-07-04T01:01:20Z",
+      "view_count": 19959,
+      "like_count": 1001,
+      "comment_count": 13,
+      "engagement_rate": 0.05080414850443409,
+      "topic_cluster": "Arc",
+      "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "It's sad that some narcissistic leaders are still unwilling to accept they could be the problem.",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "U2aKDEsGBYg",
+      "channel_name": "안될공학 - IT 테크 신기술",
+      "title": "아이폰 18 해킹 유출에서 드러난 사실… 미국판만 퀄컴 모뎀 쓴다? 애플이 아직 못 넘은 mmWave 5G 기술",
+      "thumbnail_url": "https://i.ytimg.com/vi/U2aKDEsGBYg/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=U2aKDEsGBYg",
+      "published_at": "2026-07-04T13:56:49Z",
+      "view_count": 19757,
+      "like_count": 608,
+      "comment_count": 69,
+      "engagement_rate": 0.03426633598218353,
+      "topic_cluster": "아이폰",
       "summary": "이 영상은 빌드 데모 이슈를 빌드 데모 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "로봇은 모름지기 격납고에서 출격해야지",
+      "comment_signal": "이분 영상괴물임 진짜 영상 업로드 속도가 미쳤음ㅋㅋㅋ",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "_MLy_ujhurQ",
-      "channel_name": "안될공학 - IT 테크 신기술",
-      "title": "메모리값 폭등, 메모리 회사 탓이 아닌 이유",
-      "thumbnail_url": "https://i.ytimg.com/vi/_MLy_ujhurQ/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=_MLy_ujhurQ",
-      "published_at": "2026-07-03T04:00:12Z",
-      "view_count": 11237,
-      "like_count": 199,
-      "comment_count": 12,
-      "engagement_rate": 0.01877725371540447,
-      "topic_cluster": "메모리값",
-      "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "양아치 IT기업 애플 때문에 메모리기업들 피똥을 쌌는데 아직도 지들이 IT업계에서 큰손인 줄 안다. 니들말고 구글, 테슬라, 엔비디아, AMD 등등 줄 서서 기다리고 있다.",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "LjKM2i77vdg",
-      "channel_name": "안될공학 - IT 테크 신기술",
-      "title": "요즘 메모리 가격이 미친듯이 상승한 이유",
-      "thumbnail_url": "https://i.ytimg.com/vi/LjKM2i77vdg/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=LjKM2i77vdg",
-      "published_at": "2026-07-03T12:00:05Z",
-      "view_count": 9850,
-      "like_count": 139,
+      "video_id": "gIs5wjLlxOc",
+      "channel_name": "주연 ZUYONI",
+      "title": "숨 넘어가는 언박싱ㅋㅋㅋ헬로키티 카메라 실물 미쳤음;;",
+      "thumbnail_url": "https://i.ytimg.com/vi/gIs5wjLlxOc/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=gIs5wjLlxOc",
+      "published_at": "2026-07-04T08:59:56Z",
+      "view_count": 13267,
+      "like_count": 193,
       "comment_count": 10,
-      "engagement_rate": 0.015126903553299492,
-      "topic_cluster": "요즘",
-      "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "애플 기준으로 소비자가 이득본적이 없는데?",
+      "engagement_rate": 0.015301123087359614,
+      "topic_cluster": "숨",
+      "summary": "이 영상은 사례 분석 이슈를 사례 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "늘 고점에서 물리시는분ㅋㅋㅋㅋㅋㅋ",
       "hook_type": "문제 해결"
     }
   ]
