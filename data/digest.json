@@ -1,250 +1,239 @@
 {
-  "digest_date": "2026-07-08",
-  "generated_at": "2026-07-08T00:08:56+00:00",
-  "summary": "최근 24시간 영상 14개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'Arc'입니다. 특히 '[속보]돌변한 월가\"SELL\" 오늘 월가 보고서 10개 내용 총정리 + 2분기 실적 미리보기'는 조회수 18.1K, 참여율 4.9%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "'Arc' 주제가 2개 영상으로 가장 많이 다뤄졌습니다. 일반인 관점 직접 실험 or VS 비교 각도로 차별화할 영역이 있습니다.\n[내 채널] 7일 평균 6.6K회 · 지속률 33.3% / 경쟁사 평균 5.9K회 (격차 +11%)",
-  "telegram_preview": "📡 스마트대디 모니터링 | 07/08\n\n📊 수집: 영상 14개 | 채널 8개\n\n🔥 참여율 TOP 3\n1. [월텍남 - 월스트리트 테크남] 4.9% · 18.1K뷰\n   [속보]돌변한 월가\"SELL\" 오늘 월가 보고서 10개 내용 총정리 + 2분기 실적 미리보기\n2. [Dan Martell] 5.2% · 17.1K뷰\n   Money moves to make you wealthy\n3. [Dan Martell] 4.5% · 14.3K뷰\n   Leaders Encourage Bigger Vision\n\n📌 화제 키워드\n   agents · coding · research · automation · transcript\n\n🎬 포맷: 뉴스 분석 10개 · 빌드 데모 2개 · 워크플로우 튜토리얼 1개\n\n📈 스마트대디 어제 실적\n조회수 6.6K (↑1% vs 7일 평균) | 구독 +1\n시청 지속률 32.3% | 평균 시청 2분 08초\n경쟁사 평균 5.9K회 대비 내 7일 평균 +11%\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
-  "video_count": 14,
-  "total_recent_video_count": 14,
+  "digest_date": "2026-07-09",
+  "generated_at": "2026-07-09T00:19:52+00:00",
+  "summary": "최근 24시간 영상 12개를 기준으로 보면, 오늘 가장 먼저 볼 축은 '자동화'입니다. 특히 'LG 각성! ㄷㄷ AI 워시콤보'는 조회수 66.4K, 참여율 1.3%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "'자동화' 주제가 1개 영상으로 가장 많이 다뤄졌습니다. 자동화 전/후 직접 비교 — '진짜 시간이 줄어드나?' 실측 실험 영상 포맷이 비어 있습니다.\n[내 채널] 7일 평균 7.0K회 · 지속률 33.1% / 경쟁사 평균 15.6K회 (격차 -55%)",
+  "telegram_preview": "📡 스마트대디 모니터링 | 07/09\n\n📊 수집: 영상 12개 | 채널 9개\n\n🔥 참여율 TOP 3\n1. [귀곰] 1.3% · 66.4K뷰\n   LG 각성! ㄷㄷ AI 워시콤보\n2. [주연 ZUYONI] 1.6% · 61.9K뷰\n   폴드8 와이드 공식 티저 비문학 독해ㅋㅋ (비율 호불호 솔직히 어떰??)\n3. [Dan Martell] 6.5% · 21.6K뷰\n   I don't give a sh*t about my kids grades\n\n📌 화제 키워드\n   agents · coding · automation · research\n\n🎬 포맷: 뉴스 분석 8개 · 비교 2개 · 워크플로우 튜토리얼 1개\n\n📈 스마트대디 어제 실적\n조회수 5.9K (↓15% vs 7일 평균) | 구독 +4\n시청 지속률 31.5% | 평균 시청 2분 10초\n경쟁사 평균 15.6K회 대비 내 7일 평균 -55%\n\n💡 VS 각도: 자동화 전/후 직접 비교 — '진짜 시간이 줄어드나?' 실측 실험 영상 포맷이 비어 있습니다.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+  "video_count": 12,
+  "total_recent_video_count": 12,
   "focus_scope": "all_watchlist",
-  "average_view_count": 5929.0,
-  "average_engagement_rate": 0.042128693070854664,
-  "average_like_count": 266.0,
-  "average_comment_count": 20.0,
-  "best_video_id": "Si_iFd517WU",
-  "best_topic": "Arc",
+  "average_view_count": 15583.0,
+  "average_engagement_rate": 0.04574573182622038,
+  "average_like_count": 392.0,
+  "average_comment_count": 32.0,
+  "best_video_id": "zIeKyS4OpLY",
+  "best_topic": "자동화",
   "summary_points": [
-    "가장 겹친 주제는 'Arc'이며 2개 영상, 평균 조회수 3.3K, 평균 참여율 5.6%입니다.",
-    "최고 실적 영상은 '[속보]돌변한 월가\"SELL\" 오늘 월가 보고서 10개 내용 총정리 + 2분기 실적 미리보기'이며 문제 해결 훅과 뉴스 분석 포맷 조합이 강했습니다.",
-    "반복 노출된 툴은 Arc 3회, Whisper 1회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
+    "가장 겹친 주제는 '자동화'이며 1개 영상, 평균 조회수 66.4K, 평균 참여율 1.3%입니다.",
+    "최고 실적 영상은 'LG 각성! ㄷㄷ AI 워시콤보'이며 문제 해결 훅과 뉴스 분석 포맷 조합이 강했습니다.",
+    "반복 노출된 툴은 Cursor 1회, Arc 1회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
   ],
   "action_chips": [
-    "주제: Arc",
+    "주제: 자동화",
     "훅: 문제 해결",
     "포맷: 뉴스 분석",
-    "기준 채널: 월텍남 - 월스트리트 테크남"
+    "기준 채널: 귀곰"
   ],
   "title_suggestions": [
-    "Arc 직접 실험 — 이게 진짜 되나?",
-    "Arc vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
-    "Arc 써봤더니... (기대 vs 현실 솔직 후기)"
+    "AI 자동화 직접 해봤는데, 이게 진짜 되는 건지 실험해봄",
+    "자동화 전/후 실측 비교 — 실제로 몇 분이 줄었나?",
+    "자동화 툴 대결: 이게 진짜 일반인도 쓸 수 있나?"
   ],
   "recommendations": [
     {
-      "title": "Arc 직접 실험 — 이게 진짜 되나?",
+      "title": "AI 자동화 직접 해봤는데, 이게 진짜 되는 건지 실험해봄",
       "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
-      "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
-      "thumbnail_copy": "Arc 바로 해결",
-      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
-      "source_video_id": "cRO15-KsJ0E",
-      "source": "You Can't Spot AI Video as Well as You Think",
-      "my_channel_context": "내 7일 평균 6.6K회 · 지속률 33.3% / 경쟁사 대비 +11%"
-    },
-    {
-      "title": "Arc vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
-      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
-      "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
-      "thumbnail_copy": "Arc 바로 해결",
-      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
-      "source_video_id": "XY-Fxq47QIA",
-      "source": "How People Are Really Using AI in 2026",
-      "my_channel_context": "내 7일 평균 6.6K회 · 지속률 33.3% / 경쟁사 대비 +11%"
+      "angle": "자동화 전체를 설명하지 말고, 반복 업무 하나를 전/후 비교 화면으로 보여주는 식으로 포장을 좁히는 편이 좋습니다.",
+      "thumbnail_copy": "자동화 바로 해결",
+      "reason": "자동화 전/후 직접 비교 — '진짜 시간이 줄어드나?' 실측 실험 영상 포맷이 비어 있습니다.",
+      "source_video_id": "zIeKyS4OpLY",
+      "source": "LG 각성! ㄷㄷ AI 워시콤보",
+      "my_channel_context": "내 7일 평균 7.0K회 · 지속률 33.1% / 경쟁사 대비 -55%"
     }
   ],
   "topic_clusters": [
     {
-      "label": "Arc",
-      "count": 2,
-      "avg_view_count": 3339,
-      "avg_engagement_rate": 0.05574898997609667,
-      "avg_like_count": 194,
-      "avg_comment_count": 30,
-      "source_titles": [
-        "You Can't Spot AI Video as Well as You Think",
-        "How People Are Really Using AI in 2026"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/cRO15-KsJ0E/hqdefault.jpg",
-      "representative_video_id": "cRO15-KsJ0E",
-      "representative_title": "You Can't Spot AI Video as Well as You Think"
-    },
-    {
-      "label": "속보돌변한",
+      "label": "자동화",
       "count": 1,
-      "avg_view_count": 18105,
-      "avg_engagement_rate": 0.04932339132836233,
-      "avg_like_count": 773,
+      "avg_view_count": 66374,
+      "avg_engagement_rate": 0.012715822460602043,
+      "avg_like_count": 724,
       "avg_comment_count": 120,
       "source_titles": [
-        "[속보]돌변한 월가\"SELL\" 오늘 월가 보고서 10개 내용 총정리 + 2분기 실적 미리보기"
+        "LG 각성! ㄷㄷ AI 워시콤보"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/Si_iFd517WU/hqdefault.jpg",
-      "representative_video_id": "Si_iFd517WU",
-      "representative_title": "[속보]돌변한 월가\"SELL\" 오늘 월가 보고서 10개 내용 총정리 + 2분기 실적 미리보기"
+      "thumbnail_url": "https://i.ytimg.com/vi/zIeKyS4OpLY/hqdefault.jpg",
+      "representative_video_id": "zIeKyS4OpLY",
+      "representative_title": "LG 각성! ㄷㄷ AI 워시콤보"
     },
     {
-      "label": "Money",
+      "label": "폴드8",
       "count": 1,
-      "avg_view_count": 17090,
-      "avg_engagement_rate": 0.051784669397308365,
-      "avg_like_count": 880,
-      "avg_comment_count": 5,
+      "avg_view_count": 61927,
+      "avg_engagement_rate": 0.015550567603791561,
+      "avg_like_count": 885,
+      "avg_comment_count": 78,
       "source_titles": [
-        "Money moves to make you wealthy"
+        "폴드8 와이드 공식 티저 비문학 독해ㅋㅋ (비율 호불호 솔직히 어떰??)"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/pn998Gc6xeQ/hqdefault.jpg",
-      "representative_video_id": "pn998Gc6xeQ",
-      "representative_title": "Money moves to make you wealthy"
+      "thumbnail_url": "https://i.ytimg.com/vi/45OlciZgDGk/hqdefault.jpg",
+      "representative_video_id": "45OlciZgDGk",
+      "representative_title": "폴드8 와이드 공식 티저 비문학 독해ㅋㅋ (비율 호불호 솔직히 어떰??)"
     },
     {
-      "label": "agents",
+      "label": "I",
       "count": 1,
-      "avg_view_count": 14305,
-      "avg_engagement_rate": 0.045019224047535826,
-      "avg_like_count": 639,
-      "avg_comment_count": 5,
+      "avg_view_count": 21635,
+      "avg_engagement_rate": 0.06503351051536861,
+      "avg_like_count": 1382,
+      "avg_comment_count": 25,
       "source_titles": [
-        "Leaders Encourage Bigger Vision"
+        "I don't give a sh*t about my kids grades"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/oIrfOQkpiwE/hqdefault.jpg",
-      "representative_video_id": "oIrfOQkpiwE",
-      "representative_title": "Leaders Encourage Bigger Vision"
+      "thumbnail_url": "https://i.ytimg.com/vi/fnCWSV6zKY4/hqdefault.jpg",
+      "representative_video_id": "fnCWSV6zKY4",
+      "representative_title": "I don't give a sh*t about my kids grades"
     },
     {
-      "label": "Claude",
+      "label": "AI의",
       "count": 1,
-      "avg_view_count": 5022,
-      "avg_engagement_rate": 0.0314615690959777,
-      "avg_like_count": 146,
-      "avg_comment_count": 12,
+      "avg_view_count": 9610,
+      "avg_engagement_rate": 0.04505723204994797,
+      "avg_like_count": 400,
+      "avg_comment_count": 33,
       "source_titles": [
-        "페이블 5가 스타크래프트를 만들어버렸습니다..ㄷㄷ"
+        "AI의 다음 전쟁터는 데이터센터 | SKT 15GW와 국가 인프라의 미래"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/yaHlVPMu5No/hqdefault.jpg",
-      "representative_video_id": "yaHlVPMu5No",
-      "representative_title": "페이블 5가 스타크래프트를 만들어버렸습니다..ㄷㄷ"
+      "thumbnail_url": "https://i.ytimg.com/vi/o-u9WgPBm4g/hqdefault.jpg",
+      "representative_video_id": "o-u9WgPBm4g",
+      "representative_title": "AI의 다음 전쟁터는 데이터센터 | SKT 15GW와 국가 인프라의 미래"
     },
     {
-      "label": "장마",
+      "label": "안경으로",
       "count": 1,
-      "avg_view_count": 4535,
-      "avg_engagement_rate": 0.0639470782800441,
-      "avg_like_count": 253,
-      "avg_comment_count": 37,
+      "avg_view_count": 8889,
+      "avg_engagement_rate": 0.04826189672629092,
+      "avg_like_count": 379,
+      "avg_comment_count": 50,
       "source_titles": [
-        "장마 속에 숨은 기술 이야기 | 우산·자동차·통신·도시를 움직이는 공학 비가 오면 인터넷이 느려진다? | 당신이 몰랐던 장마철 공학 이야기"
+        "AI 안경으로 전투력 측정기(스카우터)를 만들었습니다"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/EMxWyl7dpME/hqdefault.jpg",
-      "representative_video_id": "EMxWyl7dpME",
-      "representative_title": "장마 속에 숨은 기술 이야기 | 우산·자동차·통신·도시를 움직이는 공학 비가 오면 인터넷이 느려진다? | 당신이 몰랐던 장마철 공학 이야기"
+      "thumbnail_url": "https://i.ytimg.com/vi/qskLAO51CJk/hqdefault.jpg",
+      "representative_video_id": "qskLAO51CJk",
+      "representative_title": "AI 안경으로 전투력 측정기(스카우터)를 만들었습니다"
     },
     {
-      "label": "아이폰18프로",
+      "label": "3",
       "count": 1,
-      "avg_view_count": 3788,
-      "avg_engagement_rate": 0.010295670538542767,
-      "avg_like_count": 34,
-      "avg_comment_count": 5,
+      "avg_view_count": 6647,
+      "avg_engagement_rate": 0.06905370843989769,
+      "avg_like_count": 451,
+      "avg_comment_count": 8,
       "source_titles": [
-        "아이폰18프로 미국판만 퀄컴 칩 쓴다?"
+        "3 habits that will turn ANYONE into a millionaire"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/4H2wm7AaKlU/hqdefault.jpg",
-      "representative_video_id": "4H2wm7AaKlU",
-      "representative_title": "아이폰18프로 미국판만 퀄컴 칩 쓴다?"
+      "thumbnail_url": "https://i.ytimg.com/vi/hE_acGIWOpI/hqdefault.jpg",
+      "representative_video_id": "hE_acGIWOpI",
+      "representative_title": "3 habits that will turn ANYONE into a millionaire"
     },
     {
-      "label": "Whisper",
+      "label": "What",
       "count": 1,
-      "avg_view_count": 3572,
-      "avg_engagement_rate": 0.03527435610302351,
-      "avg_like_count": 120,
-      "avg_comment_count": 6,
+      "avg_view_count": 5601,
+      "avg_engagement_rate": 0.03642206748794858,
+      "avg_like_count": 202,
+      "avg_comment_count": 2,
       "source_titles": [
-        "I Ran DeepSeek's New DSpark and Doubled My Qwen3 Model’s Speed (Here’s How)"
+        "What is the 1-3-1 rule in business?"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/yvAHJZAf1xM/hqdefault.jpg",
-      "representative_video_id": "yvAHJZAf1xM",
-      "representative_title": "I Ran DeepSeek's New DSpark and Doubled My Qwen3 Model’s Speed (Here’s How)"
+      "thumbnail_url": "https://i.ytimg.com/vi/q2wfgI2k2SE/hqdefault.jpg",
+      "representative_video_id": "q2wfgI2k2SE",
+      "representative_title": "What is the 1-3-1 rule in business?"
+    },
+    {
+      "label": "친구야",
+      "count": 1,
+      "avg_view_count": 2097,
+      "avg_engagement_rate": 0.003814973772055317,
+      "avg_like_count": 8,
+      "avg_comment_count": 0,
+      "source_titles": [
+        "친구야 친구야, 멋사에선 비전공자도 할 수 있어"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/Kx6Y_JveFjs/hqdefault.jpg",
+      "representative_video_id": "Kx6Y_JveFjs",
+      "representative_title": "친구야 친구야, 멋사에선 비전공자도 할 수 있어"
     }
   ],
   "video_highlights": [
     {
-      "video_id": "Si_iFd517WU",
-      "channel_name": "월텍남 - 월스트리트 테크남",
-      "title": "[속보]돌변한 월가\"SELL\" 오늘 월가 보고서 10개 내용 총정리 + 2분기 실적 미리보기",
-      "thumbnail_url": "https://i.ytimg.com/vi/Si_iFd517WU/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=Si_iFd517WU",
-      "published_at": "2026-07-07T12:15:29Z",
-      "view_count": 18105,
-      "like_count": 773,
+      "video_id": "zIeKyS4OpLY",
+      "channel_name": "귀곰",
+      "title": "LG 각성! ㄷㄷ AI 워시콤보",
+      "thumbnail_url": "https://i.ytimg.com/vi/zIeKyS4OpLY/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=zIeKyS4OpLY",
+      "published_at": "2026-07-08T08:00:09Z",
+      "view_count": 66374,
+      "like_count": 724,
       "comment_count": 120,
-      "engagement_rate": 0.04932339132836233,
-      "topic_cluster": "속보돌변한",
-      "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "24년 모건스탠리 메모리 겨울이 온다면서 목표가 하향했던 리포트 생각나네 ㅋㅋㅋㅋㅋㅋ 직후 미래에셋에서 sk하이닉스는 엘사라고 바로 반박 리포트나오고 그 이후 10배올랐지…",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "pn998Gc6xeQ",
-      "channel_name": "Dan Martell",
-      "title": "Money moves to make you wealthy",
-      "thumbnail_url": "https://i.ytimg.com/vi/pn998Gc6xeQ/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=pn998Gc6xeQ",
-      "published_at": "2026-07-07T15:03:39Z",
-      "view_count": 17090,
-      "like_count": 880,
-      "comment_count": 5,
-      "engagement_rate": 0.051784669397308365,
-      "topic_cluster": "Money",
-      "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "What business can I start in my teens I don't have a huge budget using AI",
-      "hook_type": "수익"
-    },
-    {
-      "video_id": "oIrfOQkpiwE",
-      "channel_name": "Dan Martell",
-      "title": "Leaders Encourage Bigger Vision",
-      "thumbnail_url": "https://i.ytimg.com/vi/oIrfOQkpiwE/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=oIrfOQkpiwE",
-      "published_at": "2026-07-07T01:01:15Z",
-      "view_count": 14305,
-      "like_count": 639,
-      "comment_count": 5,
-      "engagement_rate": 0.045019224047535826,
-      "topic_cluster": "agents",
-      "summary": "이 영상은 agents 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "Very true 🙏",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "cRO15-KsJ0E",
-      "channel_name": "AI Samson",
-      "title": "You Can't Spot AI Video as Well as You Think",
-      "thumbnail_url": "https://i.ytimg.com/vi/cRO15-KsJ0E/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=cRO15-KsJ0E",
-      "published_at": "2026-07-07T10:00:01Z",
-      "view_count": 6181,
-      "like_count": 368,
-      "comment_count": 60,
-      "engagement_rate": 0.06924445882543277,
-      "topic_cluster": "Arc",
+      "engagement_rate": 0.012715822460602043,
+      "topic_cluster": "자동화",
       "summary": "이 영상은 automation 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "How far we've come that such a video is necessary, and such tips are of such temporary effectiv…",
+      "comment_signal": "한번 더 각성하면 1천만원 ㅋㅋㅋ",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "yaHlVPMu5No",
-      "channel_name": "성공지식백과",
-      "title": "페이블 5가 스타크래프트를 만들어버렸습니다..ㄷㄷ",
-      "thumbnail_url": "https://i.ytimg.com/vi/yaHlVPMu5No/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=yaHlVPMu5No",
-      "published_at": "2026-07-07T07:23:03Z",
-      "view_count": 5022,
-      "like_count": 146,
-      "comment_count": 12,
-      "engagement_rate": 0.0314615690959777,
-      "topic_cluster": "Claude",
-      "summary": "이 영상은 agents 이슈를 비교 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "토큰 녹는 소리가 여기까지 들리네여.",
+      "video_id": "45OlciZgDGk",
+      "channel_name": "주연 ZUYONI",
+      "title": "폴드8 와이드 공식 티저 비문학 독해ㅋㅋ (비율 호불호 솔직히 어떰??)",
+      "thumbnail_url": "https://i.ytimg.com/vi/45OlciZgDGk/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=45OlciZgDGk",
+      "published_at": "2026-07-08T12:43:14Z",
+      "view_count": 61927,
+      "like_count": 885,
+      "comment_count": 78,
+      "engagement_rate": 0.015550567603791561,
+      "topic_cluster": "폴드8",
+      "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "one ui 솦웨어 직원들 오열..",
+      "hook_type": "솔직 검증"
+    },
+    {
+      "video_id": "fnCWSV6zKY4",
+      "channel_name": "Dan Martell",
+      "title": "I don't give a sh*t about my kids grades",
+      "thumbnail_url": "https://i.ytimg.com/vi/fnCWSV6zKY4/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=fnCWSV6zKY4",
+      "published_at": "2026-07-08T15:02:52Z",
+      "view_count": 21635,
+      "like_count": 1382,
+      "comment_count": 25,
+      "engagement_rate": 0.06503351051536861,
+      "topic_cluster": "I",
+      "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "Very true. I completely agree with your mindset on that.",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "o-u9WgPBm4g",
+      "channel_name": "안될공학 - IT 테크 신기술",
+      "title": "AI의 다음 전쟁터는 데이터센터 | SKT 15GW와 국가 인프라의 미래",
+      "thumbnail_url": "https://i.ytimg.com/vi/o-u9WgPBm4g/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=o-u9WgPBm4g",
+      "published_at": "2026-07-08T10:00:17Z",
+      "view_count": 9610,
+      "like_count": 400,
+      "comment_count": 33,
+      "engagement_rate": 0.04505723204994797,
+      "topic_cluster": "AI의",
+      "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "패치짱❤",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "qskLAO51CJk",
+      "channel_name": "테크몽 Techmong",
+      "title": "AI 안경으로 전투력 측정기(스카우터)를 만들었습니다",
+      "thumbnail_url": "https://i.ytimg.com/vi/qskLAO51CJk/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=qskLAO51CJk",
+      "published_at": "2026-07-08T11:00:06Z",
+      "view_count": 8889,
+      "like_count": 379,
+      "comment_count": 50,
+      "engagement_rate": 0.04826189672629092,
+      "topic_cluster": "안경으로",
+      "summary": "이 영상은 워크플로우 튜토리얼 이슈를 워크플로우 튜토리얼 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "그.. 죄송합니다. 이런 거 한번쯤 해보고 싶었어요 초롱이 찍을때 갑자기 “죄송합니다” 하고 간 꼬마야 겁줘서 미안해! 아저씨 무서운 사람 아니야..",
       "hook_type": "문제 해결"
     }
   ]
