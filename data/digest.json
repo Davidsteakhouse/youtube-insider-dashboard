@@ -1,262 +1,212 @@
 {
-  "digest_date": "2026-07-12",
-  "generated_at": "2026-07-12T00:05:39+00:00",
-  "summary": "최근 24시간 영상 13개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'Gemini'입니다. 특히 '다한증 유저들의 구원템? 마우스에 녹투아 쿨러를 박아버린 미친 제품 ㅋㅋㅋ'는 조회수 158.9K, 참여율 1.9%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "'Gemini' 주제가 3개 영상으로 가장 많이 다뤄졌습니다. Gemini vs ChatGPT 일반인 기준 직접 실험 영상이 비어 있습니다. 구글 생태계 쓰는 사람이 체감하는 차이 검증.\n[내 채널] 7일 평균 7.9K회 · 지속률 31.0% / 경쟁사 평균 23.4K회 (격차 -66%)",
-  "telegram_preview": "📡 스마트대디 모니터링 | 07/12\n\n📊 수집: 영상 13개 | 채널 9개\n\n🔥 참여율 TOP 3\n1. [ITSub잇섭] 1.9% · 158.9K뷰\n   다한증 유저들의 구원템? 마우스에 녹투아 쿨러를 박아버린 미친 제품 ㅋㅋㅋ\n2. [주연 ZUYONI] 2.1% · 49.7K뷰\n   남친 여친 베프에게 사랑받는(?) 카메라의 비밀!!\n3. [Dan Martell] 4.4% · 22.1K뷰\n   Microsoft hired this kid at 16...\n\n📌 화제 키워드\n   agents · coding · automation · research · monetization\n\n🎬 포맷: 뉴스 분석 8개 · 워크플로우 튜토리얼 2개 · 비교 2개\n\n📈 스마트대디 어제 실적\n조회수 7.5K (↓5% vs 7일 평균) | 구독 +9\n시청 지속률 30.8% | 평균 시청 2분 00초\n경쟁사 평균 23.4K회 대비 내 7일 평균 -66%\n\n💡 VS 각도: Gemini vs ChatGPT 일반인 기준 직접 실험 영상이 비어 있습니다. 구글 생태계 쓰는 사람이 체감하는 차이 검증.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
-  "video_count": 13,
-  "total_recent_video_count": 13,
+  "digest_date": "2026-07-13",
+  "generated_at": "2026-07-13T00:04:19+00:00",
+  "summary": "최근 24시간 영상 6개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'Husbands'입니다. 특히 'Husband's Emotional Tribute to His Wife'는 조회수 11.3K, 참여율 5.2%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "'Husbands' 주제가 1개 영상으로 가장 많이 다뤄졌습니다. 일반인 관점 직접 실험 or VS 비교 각도로 차별화할 영역이 있습니다.\n[내 채널] 7일 평균 11.7K회 · 지속률 31.7% / 경쟁사 평균 4.9K회 (격차 +140%)",
+  "telegram_preview": "📡 스마트대디 모니터링 | 07/13\n\n📊 수집: 영상 6개 | 채널 4개\n\n🔥 참여율 TOP 3\n1. [Dan Martell] 5.2% · 11.3K뷰\n   Husband's Emotional Tribute to His Wife\n2. [월텍남 - 월스트리트 테크남] 3.3% · 8.3K뷰\n   하이닉스 초 급등...\"어디까지 갈까?\"\n3. [Dan Martell] 5.0% · 4.6K뷰\n   Busting myths about money\n\n📌 화제 키워드\n   agents · coding · automation\n\n🎬 포맷: 뉴스 분석 5개 · 비교 1개\n\n📈 스마트대디 어제 실적\n조회수 21.1K (↑80% vs 7일 평균) | 구독 +125\n시청 지속률 34.4% | 평균 시청 2분 51초\n경쟁사 평균 4.9K회 대비 내 7일 평균 +140%\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+  "video_count": 6,
+  "total_recent_video_count": 6,
   "focus_scope": "all_watchlist",
-  "average_view_count": 23353.0,
-  "average_engagement_rate": 0.04764653438717776,
-  "average_like_count": 535.0,
-  "average_comment_count": 85.0,
-  "best_video_id": "_8EdQQBSE_E",
-  "best_topic": "Gemini",
+  "average_view_count": 4870.0,
+  "average_engagement_rate": 0.04705235381966969,
+  "average_like_count": 216.0,
+  "average_comment_count": 10.0,
+  "best_video_id": "zN2LE0vLFQQ",
+  "best_topic": "Husbands",
   "summary_points": [
-    "가장 겹친 주제는 'Gemini'이며 3개 영상, 평균 조회수 7.0K, 평균 참여율 9.1%입니다.",
-    "최고 실적 영상은 '다한증 유저들의 구원템? 마우스에 녹투아 쿨러를 박아버린 미친 제품 ㅋㅋㅋ'이며 문제 해결 훅과 뉴스 분석 포맷 조합이 강했습니다.",
-    "반복 노출된 툴은 Arc 4회, Gemini 3회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
+    "가장 겹친 주제는 'Husbands'이며 1개 영상, 평균 조회수 11.3K, 평균 참여율 5.2%입니다.",
+    "최고 실적 영상은 'Husband's Emotional Tribute to His Wife'이며 문제 해결 훅과 뉴스 분석 포맷 조합이 강했습니다.",
+    "반복 노출된 툴은 MCP 1회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
   ],
   "action_chips": [
-    "주제: Gemini",
+    "주제: Husbands",
     "훅: 문제 해결",
     "포맷: 뉴스 분석",
-    "기준 채널: ITSub잇섭"
+    "기준 채널: Dan Martell"
   ],
   "title_suggestions": [
-    "Gemini vs ChatGPT, 직장인이 1주일 써보니 이렇게 달랐다",
-    "구글 AI 직접 실험 결과 — 이게 진짜 되네? 안되네?",
-    "Gemini 써봤더니... 광고 말고 진짜 솔직 비교"
+    "Husbands 직접 실험 — 이게 진짜 되나?",
+    "Husbands vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
+    "Husbands 써봤더니... (기대 vs 현실 솔직 후기)"
   ],
   "recommendations": [
     {
-      "title": "Gemini vs ChatGPT, 직장인이 1주일 써보니 이렇게 달랐다",
-      "hook": "첫 15초에 '이번 업데이트에서 진짜 써볼 만한 것만 추려준다'는 약속을 분명하게 주는 구조",
-      "angle": "'Gemini'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "Gemini 바로 해결",
-      "reason": "Gemini vs ChatGPT 일반인 기준 직접 실험 영상이 비어 있습니다. 구글 생태계 쓰는 사람이 체감하는 차이 검증.",
-      "source_video_id": "OWY53VIkhdQ",
-      "source": "RIP GPT-Image? Seedream 5 Pro Full Testing (Censorship + Realism)",
-      "my_channel_context": "내 7일 평균 7.9K회 · 지속률 31.0% / 경쟁사 대비 -66%"
-    },
-    {
-      "title": "구글 AI 직접 실험 결과 — 이게 진짜 되네? 안되네?",
-      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'Gemini'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "Gemini 바로 해결",
-      "reason": "Gemini vs ChatGPT 일반인 기준 직접 실험 영상이 비어 있습니다. 구글 생태계 쓰는 사람이 체감하는 차이 검증.",
-      "source_video_id": "6IEFLhRyQKQ",
-      "source": "페이블 + 제미나이 옴니 = 모션 그래픽 궁극조합 에프터이펙트 필요없네요..ㄷㄷ",
-      "my_channel_context": "내 7일 평균 7.9K회 · 지속률 31.0% / 경쟁사 대비 -66%"
-    },
-    {
-      "title": "Gemini 써봤더니... 광고 말고 진짜 솔직 비교",
-      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'Gemini'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "Gemini 핵심 3가지",
-      "reason": "Gemini vs ChatGPT 일반인 기준 직접 실험 영상이 비어 있습니다. 구글 생태계 쓰는 사람이 체감하는 차이 검증.",
-      "source_video_id": "dNXDbIHgSD4",
-      "source": "매출 터지는 해외 UGC 광고, 클로드+옴니로 100% 카피하는 프롬프트..ㄷ",
-      "my_channel_context": "내 7일 평균 7.9K회 · 지속률 31.0% / 경쟁사 대비 -66%"
+      "title": "Husbands 직접 실험 — 이게 진짜 되나?",
+      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
+      "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
+      "thumbnail_copy": "Husbands 바로 해결",
+      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
+      "source_video_id": "zN2LE0vLFQQ",
+      "source": "Husband's Emotional Tribute to His Wife",
+      "my_channel_context": "내 7일 평균 11.7K회 · 지속률 31.7% / 경쟁사 대비 +140%"
     }
   ],
   "topic_clusters": [
     {
-      "label": "Gemini",
-      "count": 3,
-      "avg_view_count": 7019,
-      "avg_engagement_rate": 0.09078096946040752,
-      "avg_like_count": 278,
-      "avg_comment_count": 23,
+      "label": "Husbands",
+      "count": 1,
+      "avg_view_count": 11270,
+      "avg_engagement_rate": 0.05199645075421473,
+      "avg_like_count": 575,
+      "avg_comment_count": 11,
       "source_titles": [
-        "RIP GPT-Image? Seedream 5 Pro Full Testing (Censorship + Realism)",
-        "페이블 + 제미나이 옴니 = 모션 그래픽 궁극조합 에프터이펙트 필요없네요..ㄷㄷ",
-        "매출 터지는 해외 UGC 광고, 클로드+옴니로 100% 카피하는 프롬프트..ㄷ"
+        "Husband's Emotional Tribute to His Wife"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/OWY53VIkhdQ/hqdefault.jpg",
-      "representative_video_id": "OWY53VIkhdQ",
-      "representative_title": "RIP GPT-Image? Seedream 5 Pro Full Testing (Censorship + Realism)"
+      "thumbnail_url": "https://i.ytimg.com/vi/zN2LE0vLFQQ/hqdefault.jpg",
+      "representative_video_id": "zN2LE0vLFQQ",
+      "representative_title": "Husband's Emotional Tribute to His Wife"
     },
     {
-      "label": "Arc",
+      "label": "agents",
       "count": 1,
-      "avg_view_count": 158856,
-      "avg_engagement_rate": 0.01912423830387269,
-      "avg_like_count": 2463,
-      "avg_comment_count": 575,
+      "avg_view_count": 8282,
+      "avg_engagement_rate": 0.03272156483941077,
+      "avg_like_count": 226,
+      "avg_comment_count": 45,
       "source_titles": [
-        "다한증 유저들의 구원템? 마우스에 녹투아 쿨러를 박아버린 미친 제품 ㅋㅋㅋ"
+        "하이닉스 초 급등...\"어디까지 갈까?\""
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/_8EdQQBSE_E/hqdefault.jpg",
-      "representative_video_id": "_8EdQQBSE_E",
-      "representative_title": "다한증 유저들의 구원템? 마우스에 녹투아 쿨러를 박아버린 미친 제품 ㅋㅋㅋ"
+      "thumbnail_url": "https://i.ytimg.com/vi/qqfDPQNboCw/hqdefault.jpg",
+      "representative_video_id": "qqfDPQNboCw",
+      "representative_title": "하이닉스 초 급등...\"어디까지 갈까?\""
     },
     {
-      "label": "남친",
+      "label": "Busting",
       "count": 1,
-      "avg_view_count": 49662,
-      "avg_engagement_rate": 0.02110265394063872,
-      "avg_like_count": 900,
-      "avg_comment_count": 148,
+      "avg_view_count": 4589,
+      "avg_engagement_rate": 0.049901939420353016,
+      "avg_like_count": 226,
+      "avg_comment_count": 3,
       "source_titles": [
-        "남친 여친 베프에게 사랑받는(?) 카메라의 비밀!!"
+        "Busting myths about money"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/P-ROxw-dJYI/hqdefault.jpg",
-      "representative_video_id": "P-ROxw-dJYI",
-      "representative_title": "남친 여친 베프에게 사랑받는(?) 카메라의 비밀!!"
+      "thumbnail_url": "https://i.ytimg.com/vi/HY3hjkPTgrI/hqdefault.jpg",
+      "representative_video_id": "HY3hjkPTgrI",
+      "representative_title": "Busting myths about money"
     },
     {
-      "label": "Microsoft",
+      "label": "Is",
       "count": 1,
-      "avg_view_count": 22120,
-      "avg_engagement_rate": 0.04434900542495479,
-      "avg_like_count": 950,
-      "avg_comment_count": 31,
+      "avg_view_count": 4316,
+      "avg_engagement_rate": 0.05560704355885079,
+      "avg_like_count": 239,
+      "avg_comment_count": 1,
       "source_titles": [
-        "Microsoft hired this kid at 16..."
+        "Is it a people or process problem?"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/V_Q4cVbRHJw/hqdefault.jpg",
-      "representative_video_id": "V_Q4cVbRHJw",
-      "representative_title": "Microsoft hired this kid at 16..."
+      "thumbnail_url": "https://i.ytimg.com/vi/T6o0sl0daDs/hqdefault.jpg",
+      "representative_video_id": "T6o0sl0daDs",
+      "representative_title": "Is it a people or process problem?"
     },
     {
-      "label": "Comment",
+      "label": "MCP",
       "count": 1,
-      "avg_view_count": 13115,
-      "avg_engagement_rate": 0.06664125047655356,
-      "avg_like_count": 698,
-      "avg_comment_count": 176,
+      "avg_view_count": 527,
+      "avg_engagement_rate": 0.03225806451612903,
+      "avg_like_count": 15,
+      "avg_comment_count": 2,
       "source_titles": [
-        "Comment or DM me \"EA\""
+        "이거 실화냐… 프롬프트 한 줄로 1억 받는다고? (참가 방법 공개)"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/snFUWBORgnc/hqdefault.jpg",
-      "representative_video_id": "snFUWBORgnc",
-      "representative_title": "Comment or DM me \"EA\""
+      "thumbnail_url": "https://i.ytimg.com/vi/0Tc-_eLnF3w/hqdefault.jpg",
+      "representative_video_id": "0Tc-_eLnF3w",
+      "representative_title": "이거 실화냐… 프롬프트 한 줄로 1억 받는다고? (참가 방법 공개)"
     },
     {
-      "label": "토네이도는",
+      "label": "자동화",
       "count": 1,
-      "avg_view_count": 11165,
-      "avg_engagement_rate": 0.03851321092700403,
-      "avg_like_count": 389,
-      "avg_comment_count": 41,
+      "avg_view_count": 234,
+      "avg_engagement_rate": 0.05982905982905983,
+      "avg_like_count": 13,
+      "avg_comment_count": 1,
       "source_titles": [
-        "토네이도는 왜 강물까지 들어 올렸을까? | 중국 폭우와 강남역 침수의 공학"
+        "노션 1등이 말하는 AI 시대 생존법"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/QKt037sMd8Q/hqdefault.jpg",
-      "representative_video_id": "QKt037sMd8Q",
-      "representative_title": "토네이도는 왜 강물까지 들어 올렸을까? | 중국 폭우와 강남역 침수의 공학"
-    },
-    {
-      "label": "ChatGPT",
-      "count": 1,
-      "avg_view_count": 8149,
-      "avg_engagement_rate": 0.04209105411706958,
-      "avg_like_count": 324,
-      "avg_comment_count": 19,
-      "source_titles": [
-        "ChatGPT Work Completely Changes How You Use ChatGPT"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/tqKGaqaQkNk/hqdefault.jpg",
-      "representative_video_id": "tqKGaqaQkNk",
-      "representative_title": "ChatGPT Work Completely Changes How You Use ChatGPT"
-    },
-    {
-      "label": "이거",
-      "count": 1,
-      "avg_view_count": 7732,
-      "avg_engagement_rate": 0.007242628039317123,
-      "avg_like_count": 51,
-      "avg_comment_count": 5,
-      "source_titles": [
-        "이거 끼고 쳐다보면 다 알려줌ㅋㅋ"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/jGEhVAj5f_4/hqdefault.jpg",
-      "representative_video_id": "jGEhVAj5f_4",
-      "representative_title": "이거 끼고 쳐다보면 다 알려줌ㅋㅋ"
+      "thumbnail_url": "https://i.ytimg.com/vi/mnD6hLyWaOc/hqdefault.jpg",
+      "representative_video_id": "mnD6hLyWaOc",
+      "representative_title": "노션 1등이 말하는 AI 시대 생존법"
     }
   ],
   "video_highlights": [
     {
-      "video_id": "_8EdQQBSE_E",
-      "channel_name": "ITSub잇섭",
-      "title": "다한증 유저들의 구원템? 마우스에 녹투아 쿨러를 박아버린 미친 제품 ㅋㅋㅋ",
-      "thumbnail_url": "https://i.ytimg.com/vi/_8EdQQBSE_E/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=_8EdQQBSE_E",
-      "published_at": "2026-07-11T11:00:21Z",
-      "view_count": 158856,
-      "like_count": 2463,
-      "comment_count": 575,
-      "engagement_rate": 0.01912423830387269,
-      "topic_cluster": "Arc",
-      "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "복부비만을 위한 마우스라니 이거 귀하네요",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "P-ROxw-dJYI",
-      "channel_name": "주연 ZUYONI",
-      "title": "남친 여친 베프에게 사랑받는(?) 카메라의 비밀!!",
-      "thumbnail_url": "https://i.ytimg.com/vi/P-ROxw-dJYI/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=P-ROxw-dJYI",
-      "published_at": "2026-07-11T11:17:20Z",
-      "view_count": 49662,
-      "like_count": 900,
-      "comment_count": 148,
-      "engagement_rate": 0.02110265394063872,
-      "topic_cluster": "남친",
-      "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "그.. 친구가 없으면 나랑 친구 하실..?",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "V_Q4cVbRHJw",
+      "video_id": "zN2LE0vLFQQ",
       "channel_name": "Dan Martell",
-      "title": "Microsoft hired this kid at 16...",
-      "thumbnail_url": "https://i.ytimg.com/vi/V_Q4cVbRHJw/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=V_Q4cVbRHJw",
-      "published_at": "2026-07-11T15:02:20Z",
-      "view_count": 22120,
-      "like_count": 950,
-      "comment_count": 31,
-      "engagement_rate": 0.04434900542495479,
-      "topic_cluster": "Microsoft",
+      "title": "Husband's Emotional Tribute to His Wife",
+      "thumbnail_url": "https://i.ytimg.com/vi/zN2LE0vLFQQ/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=zN2LE0vLFQQ",
+      "published_at": "2026-07-12T15:00:50Z",
+      "view_count": 11270,
+      "like_count": 575,
+      "comment_count": 11,
+      "engagement_rate": 0.05199645075421473,
+      "topic_cluster": "Husbands",
       "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "I got hired as a full stack web engineer at 14 and nobody gives a fuck about me 😅 Props to you…",
+      "comment_signal": "youe so lucky to actually have a person you love...its rare bro..dont let her go💕 shes a keeper",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "OWY53VIkhdQ",
-      "channel_name": "AI Samson",
-      "title": "RIP GPT-Image? Seedream 5 Pro Full Testing (Censorship + Realism)",
-      "thumbnail_url": "https://i.ytimg.com/vi/OWY53VIkhdQ/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=OWY53VIkhdQ",
-      "published_at": "2026-07-11T00:29:52Z",
-      "view_count": 20523,
-      "like_count": 782,
-      "comment_count": 65,
-      "engagement_rate": 0.04127076938069483,
-      "topic_cluster": "Gemini",
-      "summary": "이 영상은 automation 이슈를 비교 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "I’m done pretending like I like GPT-2’s esthetic. It has a dull metal and sometimes bronzy esth…",
+      "video_id": "qqfDPQNboCw",
+      "channel_name": "월텍남 - 월스트리트 테크남",
+      "title": "하이닉스 초 급등...\"어디까지 갈까?\"",
+      "thumbnail_url": "https://i.ytimg.com/vi/qqfDPQNboCw/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=qqfDPQNboCw",
+      "published_at": "2026-07-12T01:52:03Z",
+      "view_count": 8282,
+      "like_count": 226,
+      "comment_count": 45,
+      "engagement_rate": 0.03272156483941077,
+      "topic_cluster": "agents",
+      "summary": "이 영상은 agents 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "그니까 뭘 조심하라고?",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "snFUWBORgnc",
+      "video_id": "HY3hjkPTgrI",
       "channel_name": "Dan Martell",
-      "title": "Comment or DM me \"EA\"",
-      "thumbnail_url": "https://i.ytimg.com/vi/snFUWBORgnc/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=snFUWBORgnc",
-      "published_at": "2026-07-11T01:01:00Z",
-      "view_count": 13115,
-      "like_count": 698,
-      "comment_count": 176,
-      "engagement_rate": 0.06664125047655356,
-      "topic_cluster": "Comment",
+      "title": "Busting myths about money",
+      "thumbnail_url": "https://i.ytimg.com/vi/HY3hjkPTgrI/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=HY3hjkPTgrI",
+      "published_at": "2026-07-12T21:01:00Z",
+      "view_count": 4589,
+      "like_count": 226,
+      "comment_count": 3,
+      "engagement_rate": 0.049901939420353016,
+      "topic_cluster": "Busting",
       "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
-      "comment_signal": "EA. Loved your book!!",
+      "comment_signal": "Not a fixd allowance but like mony for chores or productive work i think is okay right?",
+      "hook_type": "수익"
+    },
+    {
+      "video_id": "T6o0sl0daDs",
+      "channel_name": "Dan Martell",
+      "title": "Is it a people or process problem?",
+      "thumbnail_url": "https://i.ytimg.com/vi/T6o0sl0daDs/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=T6o0sl0daDs",
+      "published_at": "2026-07-12T01:01:20Z",
+      "view_count": 4316,
+      "like_count": 239,
+      "comment_count": 1,
+      "engagement_rate": 0.05560704355885079,
+      "topic_cluster": "Is",
+      "summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "100%",
       "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "0Tc-_eLnF3w",
+      "channel_name": "AI 머니",
+      "title": "이거 실화냐… 프롬프트 한 줄로 1억 받는다고? (참가 방법 공개)",
+      "thumbnail_url": "https://i.ytimg.com/vi/0Tc-_eLnF3w/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=0Tc-_eLnF3w",
+      "published_at": "2026-07-12T11:00:31Z",
+      "view_count": 527,
+      "like_count": 15,
+      "comment_count": 2,
+      "engagement_rate": 0.03225806451612903,
+      "topic_cluster": "MCP",
+      "summary": "이 영상은 agents 이슈를 비교 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+      "comment_signal": "유익한 정보 자세히 설명해주셔서 감사합니다 🎉❤😂🎉🎉🎉",
+      "hook_type": "긴급성"
     }
   ]
 }
