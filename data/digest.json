@@ -1,14 +1,14 @@
 {
   "digest_date": "2026-07-15",
-  "generated_at": "2026-07-15T06:51:53+00:00",
+  "generated_at": "2026-07-15T06:59:00+00:00",
   "summary": "최근 24시간 영상 4개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'Claude'입니다. 특히 'Watch Me Create an AI Influencer in 10 Minutes (100% consistent)'는 조회수 8.0K, 참여율 8.5%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "'Claude' 주제가 2개 영상으로 가장 많이 다뤄졌습니다. 오늘 수집 영상 4개는 주로 '워크플로우 튜토리얼' 포맷이라, VS 비교·직접 실험 각도는 아직 비어 있습니다. Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n[내 채널] 7일 평균 14.4K회 · 지속률 32.9% / 경쟁사 평균 4.4K회 (격차 +226%)",
-  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 07/15\n\n📊 최근 24시간: AI 영상 4개 | AI 채널 4개\n🚫 일반 IT·테크·비즈니스 인접 채널 제외\n\n⚠️ 내용 요약 실패 3개는 목록에서 제외\n\n🔥 AI 유튜버 콘텐츠 TOP 1 (최대 10) · 조회수순\n1. [조코딩 JoCoding] 7.3K뷰 · 참여율 1.0%\n   모르는 사람이 많다는 사람처럼 말하는 GPT\n   ↳ 백그라운드에서 이렇게 생각하고 동시에 말도 할 수가 있습니다. [음악] 취임새도 중간중간에 잘 넣어 준 걸 볼 수가 있고요. 복잡한 작업 위임도 가능하다고 해요.\n   https://youtu.be/yqRyOMEDri8\n\n📈 스마트대디 어제 실적\n조회수 12.1K (↓16% vs 7일 평균) | 구독 +63\n시청 지속률 32.8% | 평균 시청 2분 28초\n경쟁사 평균 4.4K회 대비 내 7일 평균 +226%\n\n💡 VS 각도: Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+  "creator_takeaway": "'Claude' 주제가 2개 영상으로 가장 많이 다뤄졌습니다. 오늘 수집 영상 4개는 주로 '워크플로우 튜토리얼' 포맷이라, VS 비교·직접 실험 각도는 아직 비어 있습니다. Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n[내 채널] 7일 평균 14.4K회 · 지속률 32.9% / 경쟁사 평균 4.4K회 (격차 +225%)",
+  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 07/15\n\n📊 최근 24시간: AI 영상 4개 | AI 채널 4개\n🚫 일반 IT·테크·비즈니스 인접 채널 제외\n\n⚠️ 내용 요약 실패 3개는 목록에서 제외\n\n🔥 AI 유튜버 콘텐츠 TOP 1 (최대 10) · 조회수순\n1. [조코딩 JoCoding] 7.3K뷰 · 참여율 1.0%\n   모르는 사람이 많다는 사람처럼 말하는 GPT\n   ↳ 백그라운드 에서 이렇게 생각하고 동시에 말도 할 수가 있습니다. [음악] 추임새 도 중간중간에 잘 넣어준 걸 볼 수가 있고요. 복잡한 작업 위임도 가능하다고 해요.\n   https://youtu.be/yqRyOMEDri8\n\n📈 스마트대디 어제 실적\n조회수 12.1K (↓16% vs 7일 평균) | 구독 +63\n시청 지속률 32.8% | 평균 시청 2분 28초\n경쟁사 평균 4.4K회 대비 내 7일 평균 +225%\n\n💡 VS 각도: Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
   "video_count": 4,
   "total_recent_video_count": 13,
   "focus_scope": "ai_core_content_only",
-  "average_view_count": 4421.0,
-  "average_engagement_rate": 0.05250204490226615,
+  "average_view_count": 4433.0,
+  "average_engagement_rate": 0.05237200811713886,
   "average_like_count": 196.0,
   "average_comment_count": 22.0,
   "best_video_id": "i-m5imAgAQo",
@@ -38,7 +38,7 @@
       "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
       "source_video_id": "i-m5imAgAQo",
       "source": "Watch Me Create an AI Influencer in 10 Minutes (100% consistent)",
-      "my_channel_context": "내 7일 평균 14.4K회 · 지속률 32.9% / 경쟁사 대비 +226%"
+      "my_channel_context": "내 7일 평균 14.4K회 · 지속률 32.9% / 경쟁사 대비 +225%"
     },
     {
       "title": "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
@@ -48,16 +48,16 @@
       "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
       "source_video_id": "CeccAcs79-Q",
       "source": "This Fable 5 AI Clone Skill Creates Unique Content Daily! (100% Automated!)",
-      "my_channel_context": "내 7일 평균 14.4K회 · 지속률 32.9% / 경쟁사 대비 +226%"
+      "my_channel_context": "내 7일 평균 14.4K회 · 지속률 32.9% / 경쟁사 대비 +225%"
     }
   ],
   "topic_clusters": [
     {
       "label": "Claude",
       "count": 2,
-      "avg_view_count": 4196,
-      "avg_engagement_rate": 0.07763033075129003,
-      "avg_like_count": 314,
+      "avg_view_count": 4199,
+      "avg_engagement_rate": 0.07765553004954806,
+      "avg_like_count": 315,
       "avg_comment_count": 40,
       "source_titles": [
         "Watch Me Create an AI Influencer in 10 Minutes (100% consistent)",
@@ -70,8 +70,8 @@
     {
       "label": "모르는",
       "count": 1,
-      "avg_view_count": 7271,
-      "avg_engagement_rate": 0.00976481914454683,
+      "avg_view_count": 7287,
+      "avg_engagement_rate": 0.00974337861945931,
       "avg_like_count": 68,
       "avg_comment_count": 3,
       "source_titles": [
@@ -84,8 +84,8 @@
     {
       "label": "Try",
       "count": 1,
-      "avg_view_count": 2023,
-      "avg_engagement_rate": 0.04498269896193772,
+      "avg_view_count": 2048,
+      "avg_engagement_rate": 0.04443359375,
       "avg_like_count": 87,
       "avg_comment_count": 4,
       "source_titles": [
@@ -104,10 +104,10 @@
       "thumbnail_url": "https://i.ytimg.com/vi/i-m5imAgAQo/hqdefault.jpg",
       "video_url": "https://www.youtube.com/watch?v=i-m5imAgAQo",
       "published_at": "2026-07-14T07:29:35Z",
-      "view_count": 7976,
-      "like_count": 604,
+      "view_count": 7983,
+      "like_count": 605,
       "comment_count": 77,
-      "engagement_rate": 0.08538114343029088,
+      "engagement_rate": 0.08543154202680696,
       "topic_cluster": "Claude",
       "summary": "",
       "comment_signal": "Now, there have been rumours circulating that I am, in fact, an AI influencer… 🤖 I can assure y…",
@@ -120,12 +120,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/yqRyOMEDri8/hqdefault.jpg",
       "video_url": "https://www.youtube.com/watch?v=yqRyOMEDri8",
       "published_at": "2026-07-14T09:00:10Z",
-      "view_count": 7271,
+      "view_count": 7287,
       "like_count": 68,
       "comment_count": 3,
-      "engagement_rate": 0.00976481914454683,
+      "engagement_rate": 0.00974337861945931,
       "topic_cluster": "모르는",
-      "summary": "백그라운드에서 이렇게 생각하고 동시에 말도 할 수가 있습니다. [음악] 취임새도 중간중간에 잘 넣어 준 걸 볼 수가 있고요. 복잡한 작업 위임도 가능하다고 해요.",
+      "summary": "백그라운드 에서 이렇게 생각하고 동시에 말도 할 수가 있습니다. [음악] 추임새 도 중간중간에 잘 넣어준 걸 볼 수가 있고요. 복잡한 작업 위임도 가능하다고 해요.",
       "comment_signal": "재미니에 비하면 한국어가 너무 어색함 ㅠㅠ",
       "hook_type": "문제 해결"
     },
@@ -136,10 +136,10 @@
       "thumbnail_url": "https://i.ytimg.com/vi/KzJkS00Ztd8/hqdefault.jpg",
       "video_url": "https://www.youtube.com/watch?v=KzJkS00Ztd8",
       "published_at": "2026-07-14T14:31:02Z",
-      "view_count": 2023,
+      "view_count": 2048,
       "like_count": 87,
       "comment_count": 4,
-      "engagement_rate": 0.04498269896193772,
+      "engagement_rate": 0.04443359375,
       "topic_cluster": "Try",
       "summary": "",
       "comment_signal": "Love it",
