@@ -61,7 +61,7 @@ class DigestBuilderAiScopeTests(unittest.TestCase):
             channel("business", "비즈니스 AI", "비즈니스/AI"),
         ]
 
-    def test_filters_channel_scope_and_ranks_only_ai_core_top_ten(self) -> None:
+    def test_ai_core_stays_ahead_of_higher_view_adjacent_channels(self) -> None:
         ai_videos = [
             video(
                 f"ai-{index}",
@@ -80,15 +80,166 @@ class DigestBuilderAiScopeTests(unittest.TestCase):
 
         digest = build_digest([*ai_videos, *excluded], self.watchlist)
 
-        self.assertEqual(digest["focus_scope"], "ai_core_content_only")
-        self.assertEqual(digest["video_count"], 12)
+        self.assertEqual(digest["focus_scope"], "ai_priority_then_tech_fill")
+        self.assertEqual(digest["video_count"], 14)
         self.assertEqual(len(digest["telegram_video_ids"]), 10)
         self.assertEqual(digest["telegram_video_ids"][0], "ai-11")
         self.assertNotIn("tech-million", digest["telegram_video_ids"])
         self.assertNotIn("business-million", digest["telegram_video_ids"])
         self.assertNotIn("non-ai", digest["telegram_video_ids"])
-        self.assertIn("AI 유튜버 콘텐츠 TOP 10", digest["telegram_preview"])
-        self.assertNotIn("일반 테크", digest["telegram_preview"])
+        self.assertIn("AI 우선 콘텐츠 TOP 10", digest["telegram_preview"])
+        self.assertNotIn("테크 보충 · [일반 테크]", digest["telegram_preview"])
+
+    def test_fills_only_remaining_slots_with_general_tech(self) -> None:
+        ai_core = [
+            video(
+                f"ai-{index}",
+                "ai-core",
+                "AI Core",
+                title=f"ChatGPT 자동화 실험 {index}",
+                views=100 + index,
+            )
+            for index in range(5)
+        ]
+        adjacent_ai = video(
+            "adjacent-ai",
+            "tech",
+            "일반 테크",
+            title="Claude와 GPT 개발 비용 비교",
+            views=50_000,
+        )
+        tech_fillers = [
+            video(
+                f"tech-{index}",
+                "tech",
+                "일반 테크",
+                title=f"스마트폰 실사용 리뷰 {index}",
+                views=1_000_000 - index,
+            )
+            for index in range(4)
+        ]
+        non_ai_business = video(
+            "business-sales",
+            "business",
+            "비즈니스 AI",
+            title="매출을 올리는 영업 대화법",
+            views=2_000_000,
+        )
+
+        digest = build_digest(
+            [*ai_core, adjacent_ai, *tech_fillers, non_ai_business],
+            self.watchlist,
+        )
+
+        ids = digest["telegram_video_ids"]
+        self.assertEqual(len(ids), 10)
+        self.assertEqual(ids[:5], [f"ai-{index}" for index in range(4, -1, -1)])
+        self.assertEqual(ids[5], "adjacent-ai")
+        self.assertEqual(ids[6:], [f"tech-{index}" for index in range(4)])
+        self.assertNotIn("business-sales", ids)
+        self.assertEqual(digest["video_count"], 6)
+        self.assertEqual(digest["telegram_candidate_count"], 10)
+        self.assertEqual(digest["average_view_count"], 8418)
+        self.assertIn(
+            "총 10개 | AI 핵심 5 · 인접 AI 1 · 일반 테크 보충 4",
+            digest["telegram_preview"],
+        )
+        self.assertIn("AI 인접 · [일반 테크]", digest["telegram_preview"])
+        self.assertIn("테크 보충 · [일반 테크]", digest["telegram_preview"])
+
+    def test_nine_ai_candidates_use_only_one_general_tech_slot(self) -> None:
+        ai_videos = [
+            video(
+                f"ai-{index}",
+                "ai-core",
+                "AI Core",
+                title=f"Claude 자동화 실험 {index}",
+                views=100 + index,
+            )
+            for index in range(9)
+        ]
+        tech_videos = [
+            video(
+                f"tech-{index}",
+                "tech",
+                "일반 테크",
+                title=f"스마트폰 카메라 비교 {index}",
+                views=1_000_000 - index,
+            )
+            for index in range(2)
+        ]
+
+        ids = build_digest([*ai_videos, *tech_videos], self.watchlist)["telegram_video_ids"]
+
+        self.assertEqual(len(ids), 10)
+        self.assertEqual(ids[:9], [f"ai-{index}" for index in range(8, -1, -1)])
+        self.assertEqual(ids[9], "tech-0")
+        self.assertNotIn("tech-1", ids)
+
+    def test_broad_workflow_word_does_not_promote_tech_video_to_ai_adjacent(self) -> None:
+        ai_video = video(
+            "ai",
+            "ai-core",
+            "AI Core",
+            title="ChatGPT 문서 자동화",
+            views=10,
+        )
+        camera_workflow = video(
+            "camera-workflow",
+            "tech",
+            "일반 테크",
+            title="카메라 workflow 촬영법",
+            views=1_000_000,
+        )
+
+        digest = build_digest([camera_workflow, ai_video], self.watchlist)
+
+        self.assertEqual(digest["telegram_video_ids"], ["ai", "camera-workflow"])
+        self.assertIn("테크 보충 · [일반 테크]", digest["telegram_preview"])
+
+    def test_missing_ai_summaries_backfill_from_general_tech(self) -> None:
+        generic = "이 영상은 automation 이슈를 워크플로우 튜토리얼 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다."
+        ai_videos = [
+            video(
+                f"valid-ai-{index}",
+                "ai-core",
+                "AI Core",
+                title=f"Gemini 리서치 실험 {index}",
+                views=1_000 - index,
+                summary=f"Gemini 리서치 실험 {index}에서 출처 정확도와 처리 시간을 비교해 실제 결과를 정리합니다.",
+            )
+            for index in range(8)
+        ]
+        missing_ai = [
+            video(
+                f"missing-ai-{index}",
+                "ai-core",
+                "AI Core",
+                title=f"ChatGPT 요약 실패 {index}",
+                views=10_000 - index,
+                summary=generic,
+                highlights=["English only highlight."],
+            )
+            for index in range(2)
+        ]
+        tech_videos = [
+            video(
+                f"tech-{index}",
+                "tech",
+                "일반 테크",
+                title=f"노트북 실사용 비교 {index}",
+                views=500 - index,
+                summary=f"노트북 실사용 비교 {index}에서 배터리와 성능을 측정해 구매 전에 확인할 차이를 정리합니다.",
+            )
+            for index in range(3)
+        ]
+
+        ids = build_digest([*ai_videos, *missing_ai, *tech_videos], self.watchlist)["telegram_video_ids"]
+
+        self.assertEqual(len(ids), 10)
+        self.assertNotIn("missing-ai-0", ids)
+        self.assertNotIn("missing-ai-1", ids)
+        self.assertEqual(ids[-2:], ["tech-0", "tech-1"])
 
     def test_fewer_than_ten_uses_actual_count_and_real_summary(self) -> None:
         videos = [
@@ -116,18 +267,21 @@ class DigestBuilderAiScopeTests(unittest.TestCase):
         self.assertIn("반복 업무를 자동 처리", preview)
         self.assertIn("출처 정확도와 속도 차이", preview)
 
-    def test_zero_ai_content_never_falls_back_to_tech(self) -> None:
+    def test_zero_ai_content_falls_back_to_general_tech(self) -> None:
         videos = [
-            video("tech", "tech", "일반 테크", title="ChatGPT 탑재 노트북 리뷰", views=999_999),
+            video("tech", "tech", "일반 테크", title="노트북 배터리 실사용 리뷰", views=999_999),
             video("lifestyle", "ai-core", "AI Core", title="아침 루틴 공개", views=500_000),
         ]
 
         digest = build_digest(videos, self.watchlist)
 
         self.assertEqual(digest["video_count"], 0)
-        self.assertEqual(digest["telegram_video_ids"], [])
-        self.assertIn("일반 IT·테크 영상은 대신 넣지 않았습니다", digest["telegram_preview"])
-        self.assertNotIn("노트북 리뷰", digest["telegram_preview"])
+        self.assertEqual(digest["telegram_video_ids"], ["tech"])
+        self.assertIn(
+            "총 1개 | AI 핵심 0 · 인접 AI 0 · 일반 테크 보충 1",
+            digest["telegram_preview"],
+        )
+        self.assertIn("노트북 배터리 실사용 리뷰", digest["telegram_preview"])
 
     def test_generic_summary_uses_korean_transcript_highlight(self) -> None:
         generic = "이 영상은 automation 이슈를 워크플로우 튜토리얼 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다."
@@ -266,7 +420,7 @@ class DigestBuilderAiScopeTests(unittest.TestCase):
         self.assertEqual(len(digest["telegram_video_ids"]), 10)
         self.assertNotIn("missing-1", digest["telegram_video_ids"])
         self.assertNotIn("missing-2", digest["telegram_video_ids"])
-        self.assertIn("AI 유튜버 콘텐츠 TOP 10", digest["telegram_preview"])
+        self.assertIn("AI 우선 콘텐츠 TOP 10", digest["telegram_preview"])
 
     def test_ten_long_items_stay_inside_telegram_limit(self) -> None:
         long_summary = "ChatGPT와 Claude에 같은 자료를 넣고 조사 과정, 출처 정확도, 작업 시간을 차례로 비교한 뒤 실제 업무에서는 Claude가 더 안정적이라는 결론을 냅니다. " * 8

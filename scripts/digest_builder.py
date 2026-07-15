@@ -73,11 +73,52 @@ AI_PRIORITY_TERMS = {
     "n8n",
     "manus",
 }
+AI_EXPLICIT_TERMS = {
+    "ai",
+    "gpt",
+    "openai",
+    "chatgpt",
+    "claude",
+    "gemini",
+    "cursor",
+    "copilot",
+    "mcp",
+    "llm",
+    "notion ai",
+    "perplexity",
+    "인공지능",
+    "생성형 ai",
+    "챗gpt",
+    "챗지피티",
+    "바이브 코딩",
+    "midjourney",
+    "runway",
+    "higgsfield",
+    "sora",
+    "veo",
+    "notebooklm",
+    "notebook lm",
+    "suno",
+    "elevenlabs",
+    "stable diffusion",
+    "flux",
+    "manus",
+}
 
 AI_CORE_CATEGORY = "ai"
 TELEGRAM_TOP_LIMIT = 10
 TELEGRAM_SUMMARY_CANDIDATE_LIMIT = 15
 TELEGRAM_SAFE_MESSAGE_LIMIT = 3900
+TELEGRAM_BUCKET_PRIORITY = {
+    "ai_core": 0,
+    "ai_adjacent": 1,
+    "tech_fallback": 2,
+}
+TELEGRAM_BUCKET_LABELS = {
+    "ai_core": "AI 핵심",
+    "ai_adjacent": "AI 인접",
+    "tech_fallback": "테크 보충",
+}
 GENERIC_SUMMARY_MARKERS = (
     "포맷으로 압축해",
     "실제 활용 맥락을 함께 보여줍니다",
@@ -219,6 +260,23 @@ def is_ai_content(video: dict[str, Any]) -> bool:
     )
 
 
+def is_explicit_ai_content(video: dict[str, Any]) -> bool:
+    title_text = normalize_label(video.get("title"))
+    tool_text = " ".join(normalize_label(item) for item in video.get("tools", []))
+    topic_text = " ".join(normalize_label(item) for item in video.get("topic_tags", []))
+    keyword_text = " ".join(normalize_label(item) for item in video.get("keywords", []))
+    description_text = normalize_label(video.get("description"))[:2400]
+    highlight_text = " ".join(
+        normalize_label(item) for item in (video.get("transcript_highlights", []) or [])[:3]
+    )
+    sources = (title_text, tool_text, topic_text, keyword_text, description_text, highlight_text)
+    return any(
+        contains_priority_term(source, term)
+        for source in sources
+        for term in AI_EXPLICIT_TERMS
+    )
+
+
 def classify_creator_segment(channel: dict[str, Any]) -> str:
     category = normalize_label(channel.get("category")).lower()
     if category == AI_CORE_CATEGORY:
@@ -230,15 +288,32 @@ def classify_creator_segment(channel: dict[str, Any]) -> str:
     return "review_pending"
 
 
+def classify_telegram_bucket(video: dict[str, Any]) -> str:
+    segment = normalize_label(video.get("creator_segment")) or classify_creator_segment(
+        video.get("channel", {}) or {}
+    )
+    if segment == "ai_core" and is_ai_content(video):
+        return "ai_core"
+    if segment in {"business_adjacent", "tech_general"} and is_explicit_ai_content(video):
+        return "ai_adjacent"
+    if segment == "tech_general":
+        return "tech_fallback"
+    return ""
+
+
 def pick_creator_scope_videos(videos: list[dict[str, Any]]) -> tuple[list[dict[str, Any]], str]:
-    # 일반 IT/테크와 비즈니스 인접 채널은 제목에 AI가 있어도 다시 포함하지 않는다.
+    # 대시보드 분석은 AI 핵심 채널과 인접 채널의 명시적인 AI 콘텐츠에 집중한다.
     scoped = [
         video
         for video in videos
-        if classify_creator_segment(video.get("channel", {}) or {}) == "ai_core"
-        and is_ai_content(video)
+        if video.get("telegram_bucket") in {"ai_core", "ai_adjacent"}
     ]
-    return scoped, "ai_core_content_only"
+    return scoped, "ai_priority_then_tech_fill"
+
+
+def pick_telegram_candidate_videos(videos: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    # Telegram은 AI 후보를 모두 앞세우고, 10자리가 비는 경우에만 일반 테크를 사용한다.
+    return [video for video in videos if video.get("telegram_bucket") in TELEGRAM_BUCKET_PRIORITY]
 
 
 def build_channel_lookup(watchlist: list[dict[str, Any]]) -> dict[str, dict[str, Any]]:
@@ -280,11 +355,11 @@ def rank_telegram_videos(
     return sorted(
         videos,
         key=lambda item: (
-            int(item.get("view_count", 0) or 0),
-            float(item.get("engagement_rate", 0) or 0),
-            int(item.get("like_count", 0) or 0),
+            TELEGRAM_BUCKET_PRIORITY.get(normalize_label(item.get("telegram_bucket")), 99),
+            -int(item.get("view_count", 0) or 0),
+            -float(item.get("engagement_rate", 0) or 0),
+            -int(item.get("like_count", 0) or 0),
         ),
-        reverse=True,
     )[:limit]
 
 
@@ -752,8 +827,7 @@ def build_telegram_preview(
         dashboard_url = str(os.getenv("PUBLIC_DASHBOARD_URL", "") or "").strip()
         lines = [
             "📡 스마트대디 AI 유튜버 모니터링",
-            "최근 24시간 AI 핵심 채널의 AI 콘텐츠가 없습니다.",
-            "일반 IT·테크 영상은 대신 넣지 않았습니다.",
+            "최근 24시간 AI·테크 후보 영상이 없습니다.",
         ]
         if dashboard_url:
             lines.extend(["", f"🔗 {dashboard_url}"])
@@ -767,18 +841,19 @@ def build_telegram_preview(
         video for video in videos if build_content_summary(video, max_length=500)
     ]
     top_videos = rank_telegram_videos(summarized_videos)
-    channel_count = len({v.get("channel_name") for v in videos if v.get("channel_name")})
     dashboard_url = str(os.getenv("PUBLIC_DASHBOARD_URL", "") or "").strip()
     candidate_count = min(len(videos), TELEGRAM_TOP_LIMIT)
     missing_summary_count = max(candidate_count - len(top_videos), 0)
+    ai_core_count = sum(video.get("telegram_bucket") == "ai_core" for video in top_videos)
+    ai_adjacent_count = sum(video.get("telegram_bucket") == "ai_adjacent" for video in top_videos)
+    tech_fallback_count = sum(video.get("telegram_bucket") == "tech_fallback" for video in top_videos)
 
     if not top_videos:
         lines = [
             f"📡 스마트대디 AI 유튜버 모니터링 | {date_str}",
             "",
-            f"AI 영상 {len(videos)}개를 찾았지만 실제 내용 요약을 만들지 못했습니다.",
+            f"후보 영상 {len(videos)}개를 찾았지만 실제 내용 요약을 만들지 못했습니다.",
             "제목만 보내지 않고 이번 브리프에서는 제외했습니다.",
-            "일반 IT·테크 영상으로 대체하지 않았습니다.",
         ]
         if dashboard_url:
             lines.extend(["", f"🔗 {dashboard_url}"])
@@ -788,21 +863,25 @@ def build_telegram_preview(
         lines: list[str] = [
             f"📡 스마트대디 AI 유튜버 모니터링 | {date_str}",
             "",
-            f"📊 최근 24시간: AI 영상 {len(videos)}개 | AI 채널 {channel_count}개",
-            "🚫 일반 IT·테크·비즈니스 인접 채널 제외",
+            f"📊 총 {len(top_videos)}개 | AI 핵심 {ai_core_count} · 인접 AI {ai_adjacent_count} · 일반 테크 보충 {tech_fallback_count}",
+            "🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크",
             "",
         ]
         if missing_summary_count:
             lines.extend([f"⚠️ 내용 요약 실패 {missing_summary_count}개는 목록에서 제외", ""])
         top_label = (
-            f"🔥 AI 유튜버 콘텐츠 TOP {len(top_videos)}"
+            f"🔥 AI 우선 콘텐츠 TOP {len(top_videos)}"
             if len(top_videos) == TELEGRAM_TOP_LIMIT
-            else f"🔥 AI 유튜버 콘텐츠 TOP {len(top_videos)} (최대 {TELEGRAM_TOP_LIMIT})"
+            else f"🔥 AI 우선 콘텐츠 TOP {len(top_videos)} (최대 {TELEGRAM_TOP_LIMIT})"
         )
-        lines.append(f"{top_label} · 조회수순")
+        lines.append(f"{top_label} · 같은 우선순위 안에서 조회수순")
 
         for index, video in enumerate(top_videos, start=1):
             channel_name = video.get("channel_name", "알 수 없는 채널")
+            bucket_label = TELEGRAM_BUCKET_LABELS.get(
+                normalize_label(video.get("telegram_bucket")),
+                "검토",
+            )
             views = compact_number(video.get("view_count", 0))
             engagement = percent_text(video.get("engagement_rate", 0))
             title = truncate_text(video.get("title", "제목 없음"), 78)
@@ -812,7 +891,7 @@ def build_telegram_preview(
 
             lines.extend(
                 [
-                    f"{index}. [{channel_name}] {views}뷰 · 참여율 {engagement}",
+                    f"{index}. {bucket_label} · [{channel_name}] {views}뷰 · 참여율 {engagement}",
                     f"   {title}",
                     f"   ↳ {summary}",
                 ]
@@ -849,17 +928,18 @@ def build_digest(videos: list[dict[str, Any]], watchlist: list[dict[str, Any]], 
     hydrated_recent: list[dict[str, Any]] = []
     for video in recent_videos:
         channel = resolve_video_channel(video, channel_lookup)
-        hydrated_recent.append(
-            {
-                **video,
-                "channel_name": video.get("channel_name") or channel.get("name") or "알 수 없는 채널",
-                "channel": channel,
-                "channel_category": channel.get("category", "미분류"),
-                "creator_segment": classify_creator_segment(channel),
-            }
-        )
+        hydrated_video = {
+            **video,
+            "channel_name": video.get("channel_name") or channel.get("name") or "알 수 없는 채널",
+            "channel": channel,
+            "channel_category": channel.get("category", "미분류"),
+            "creator_segment": classify_creator_segment(channel),
+        }
+        hydrated_video["telegram_bucket"] = classify_telegram_bucket(hydrated_video)
+        hydrated_recent.append(hydrated_video)
 
     digest_videos, focus_scope = pick_creator_scope_videos(hydrated_recent)
+    telegram_candidates = pick_telegram_candidate_videos(hydrated_recent)
     topic_clusters = count_topic_clusters(digest_videos)
     best_video = pick_best_video(digest_videos)
     best_topic = pick_best_topic(topic_clusters)
@@ -900,9 +980,13 @@ def build_digest(videos: list[dict[str, Any]], watchlist: list[dict[str, Any]], 
         "recommendations": recommendations,
         "video_highlights": video_highlights,
         "my_channel": my_channel,
-        "telegram_preview": build_telegram_preview(digest_videos, best_video, best_topic, title_suggestions, my_channel, average_view_count),
+        "telegram_preview": build_telegram_preview(telegram_candidates, best_video, best_topic, title_suggestions, my_channel, average_view_count),
         "video_count": len(digest_videos),
         "total_recent_video_count": len(hydrated_recent),
+        "telegram_candidate_count": len(telegram_candidates),
+        "telegram_tech_fallback_count": sum(
+            video.get("telegram_bucket") == "tech_fallback" for video in telegram_candidates
+        ),
         "focus_scope": focus_scope,
         "keyword_counts": build_keyword_counts(digest_videos, key="topic_tags"),
         "tool_counts": build_keyword_counts(digest_videos, key="tools"),
@@ -918,14 +1002,14 @@ def build_digest(videos: list[dict[str, Any]], watchlist: list[dict[str, Any]], 
         "telegram_video_ids": [
             video.get("video_id")
             for video in rank_telegram_videos(
-                [video for video in digest_videos if build_content_summary(video, max_length=500)]
+                [video for video in telegram_candidates if build_content_summary(video, max_length=500)]
             )
             if video.get("video_id")
         ],
         "telegram_summary_candidate_ids": [
             video.get("video_id")
             for video in rank_telegram_videos(
-                digest_videos,
+                telegram_candidates,
                 limit=TELEGRAM_SUMMARY_CANDIDATE_LIMIT,
             )
             if video.get("video_id")

@@ -175,8 +175,16 @@ def build_video_pipeline(args: argparse.Namespace, watchlist: list[dict[str, Any
 
     summary_candidate_ids = digest.get("telegram_summary_candidate_ids", []) or []
     if summary_candidate_ids:
-        selected_ids = set(summary_candidate_ids)
-        summary_sources = [video for video in all_videos if video.get("video_id") in selected_ids]
+        videos_by_id = {
+            str(video.get("video_id") or ""): video
+            for video in all_videos
+            if video.get("video_id")
+        }
+        summary_sources = [
+            videos_by_id[video_id]
+            for raw_video_id in summary_candidate_ids
+            if (video_id := str(raw_video_id or "")) in videos_by_id
+        ]
         digest_summaries = generate_digest_summaries(summary_sources)
         if digest_summaries:
             all_videos = [
