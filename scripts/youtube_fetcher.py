@@ -4,6 +4,7 @@ import os
 import re
 from datetime import datetime, timezone
 from typing import Any
+from urllib.parse import unquote
 
 from common import chunks, parse_datetime, request_json, utcnow_iso
 
@@ -33,23 +34,38 @@ def extract_channel_reference(url: str) -> tuple[str | None, str | None]:
     channel_match = re.search(r"/channel/([A-Za-z0-9_-]+)", normalized_url)
     if channel_match:
         return channel_match.group(1), None
-    handle_match = re.search(r"/@([A-Za-z0-9._%-]+)", normalized_url)
+    handle_match = re.search(r"/@([^/?#]+)", normalized_url)
     if handle_match:
-        return None, handle_match.group(1)
+        return None, unquote(handle_match.group(1))
     return None, None
+
+
+def resolve_handle_channel_id(handle: str) -> str:
+    normalized_handle = unquote(str(handle or "")).strip().lstrip("@")
+    if not normalized_handle:
+        return ""
+
+    payload = youtube_get(
+        "channels",
+        {
+            "part": "id",
+            "forHandle": normalized_handle,
+            "maxResults": 1,
+        },
+    )
+    items = payload.get("items", [])
+    if items:
+        return str(items[0].get("id") or "").strip()
+    return ""
 
 
 def resolve_channel_ids(watchlist: list[dict[str, Any]]) -> list[dict[str, Any]]:
     resolved: list[dict[str, Any]] = []
-    for channel in watchlist:
+    for raw_channel in watchlist:
+        channel = dict(raw_channel)
         raw_channel_id = channel.get("youtube_channel_id") or ""
         channel_id_match = CHANNEL_ID_PATTERN.search(str(raw_channel_id))
         channel_id = channel_id_match.group(0) if channel_id_match else ""
-        if channel_id:
-            channel["youtube_channel_id"] = channel_id
-            resolved.append(channel)
-            continue
-
         from_url, handle = extract_channel_reference(channel.get("url", ""))
         if from_url:
             channel["youtube_channel_id"] = from_url
@@ -57,18 +73,23 @@ def resolve_channel_ids(watchlist: list[dict[str, Any]]) -> list[dict[str, Any]]
             continue
 
         if handle:
-            search_payload = youtube_get(
-                "search",
-                {
-                    "part": "snippet",
-                    "type": "channel",
-                    "q": f"@{handle}",
-                    "maxResults": 1
-                }
-            )
-            items = search_payload.get("items", [])
-            if items:
-                channel["youtube_channel_id"] = items[0].get("snippet", {}).get("channelId", "")
+            try:
+                canonical_id = resolve_handle_channel_id(handle)
+            except Exception as error:
+                canonical_id = ""
+                print(
+                    f"[WARN] 채널 handle 확인 실패, 저장 ID를 유지합니다: "
+                    f"{channel.get('name', handle)} ({type(error).__name__})"
+                )
+            if canonical_id:
+                if channel_id and channel_id != canonical_id:
+                    print(f"[WARN] 채널 URL 기준 ID 자동 교정: {channel.get('name', handle)}")
+                channel["youtube_channel_id"] = canonical_id
+                resolved.append(channel)
+                continue
+
+        if channel_id:
+            channel["youtube_channel_id"] = channel_id
         resolved.append(channel)
     return resolved
 
@@ -238,10 +259,11 @@ def merge_video_payload(
     watchlist: list[dict[str, Any]],
     existing_videos: list[dict[str, Any]],
     *,
-    max_results_per_channel: int = 8
+    max_results_per_channel: int = 8,
+    resolve_channel_references: bool = True,
 ) -> list[dict[str, Any]]:
     lookback_hours = int(os.getenv("VIDEO_LOOKBACK_HOURS", str(DEFAULT_LOOKBACK_HOURS)) or DEFAULT_LOOKBACK_HOURS)
-    resolved_watchlist = resolve_channel_ids(watchlist)
+    resolved_watchlist = resolve_channel_ids(watchlist) if resolve_channel_references else [dict(channel) for channel in watchlist]
     active_channels = [channel for channel in resolved_watchlist if channel.get("is_active")]
     allowed_channel_ids = {
         channel.get("youtube_channel_id")

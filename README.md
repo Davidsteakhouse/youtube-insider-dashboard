@@ -108,6 +108,12 @@ C:\Users\DanKim\anaconda3\python.exe .\scripts\run_pipeline.py --notify-telegram
 
 위 명령은 이제 `업데이트 + digest 생성 + Telegram 전송`을 모두 수행합니다.
 
+Telegram 경쟁 브리프는 워치리스트의 `category=AI` 핵심 채널 중 영상 자체도 AI 내용인
+항목만 조회수순으로 최대 10개 보냅니다. `테크`, `IT`, `비즈니스/AI` 채널은 제목에
+AI가 있어도 제외하며, 10개보다 적으면 실제 수량만 표시합니다. 각 항목에는 제목뿐 아니라
+자막·설명 기반 한국어 내용 요약과 영상 링크가 포함됩니다. 실제 요약을 만들지 못한 영상은
+빈 문구나 제목만 보내지 않고 해당 회차 목록에서 제외합니다.
+
 ### 최신 digest만 다시 전송
 
 ```powershell

@@ -43,6 +43,11 @@
    - `Notion 다시 가져오기`, `업데이트 실행`: 로컬 API 모드에서만 가능
 6. Notion은 현재 공개 URL 기준 import를 사용한다.
    공개 row 응답이 흔들릴 수 있으므로 `NOTION_TOKEN_V2`가 있으면 더 안정적이다.
+7. Telegram 경쟁 브리프는 `category=AI` 핵심 채널과 AI 내용 영상의 교집합만 사용한다.
+   - `테크`, `IT`, `비즈니스/AI` 채널은 제목에 AI가 있어도 제외한다.
+   - 조회수순 최대 10개를 보내고, 10개 미만이면 실제 수량만 보낸다.
+   - 각 영상은 자막·설명 기반 한국어 내용 요약을 포함하며 Telegram 4,096자 제한을 넘기지 않는다.
+   - 실제 한국어 내용 요약이 없는 영상은 제목만 보내지 말고 목록에서 제외한다.
 
 ## 최근에 고쳐둔 중요한 문제
 
@@ -91,6 +96,14 @@
   3. `run_pipeline.py` 실행 (로컬 fresh data 수집, `--notify-telegram` 없음)
   4. `git add data/*.json data_bundle.js` → `git commit` → `git push` → GitHub Pages 트리거
 - **주의**: `run_daily_wealth.ps1`은 Task Scheduler 등 자동 실행용. `--notify-telegram`을 붙이면 Actions와 중복 발송됨. 절대 붙이지 말 것.
+
+### 2026-07-15 수정
+
+- Telegram의 `참여율 TOP 3`를 `AI 유튜버 콘텐츠 TOP 10`으로 교체
+- 일반 IT·테크·비즈니스 인접 채널을 채널 단위로 제외
+- 제목뿐 아니라 자막·설명 기반 한국어 내용 요약과 영상 링크 제공
+- 영상 export의 `channel_key`로도 watchlist category가 연결되도록 lookup 수정
+- YouTube URL handle과 저장 채널 ID가 다르면 handle 기준 canonical ID로 자동 교정
 
 ## 파일별 역할
 

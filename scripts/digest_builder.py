@@ -35,6 +35,7 @@ CANONICAL_CLUSTER_LABELS = {
 AI_PRIORITY_TERMS = {
     "ai",
     "gpt",
+    "openai",
     "chatgpt",
     "claude",
     "gemini",
@@ -42,13 +43,48 @@ AI_PRIORITY_TERMS = {
     "copilot",
     "mcp",
     "agent",
+    "agents",
+    "agentic",
     "automation",
     "workflow",
     "llm",
     "prompt",
     "notion ai",
     "perplexity",
+    "인공지능",
+    "에이전트",
+    "자동화",
+    "프롬프트",
+    "생성형 ai",
+    "챗gpt",
+    "챗지피티",
+    "바이브 코딩",
+    "midjourney",
+    "runway",
+    "higgsfield",
+    "sora",
+    "veo",
+    "notebooklm",
+    "notebook lm",
+    "suno",
+    "elevenlabs",
+    "stable diffusion",
+    "flux",
+    "n8n",
+    "manus",
 }
+
+AI_CORE_CATEGORY = "ai"
+TELEGRAM_TOP_LIMIT = 10
+TELEGRAM_SUMMARY_CANDIDATE_LIMIT = 15
+TELEGRAM_SAFE_MESSAGE_LIMIT = 3900
+GENERIC_SUMMARY_MARKERS = (
+    "포맷으로 압축해",
+    "실제 활용 맥락을 함께 보여줍니다",
+    "AI 활용 과정과 핵심 결과를 다룹니다",
+    "AI 관련 내용을 다룹니다",
+    "AI 도구를 소개합니다",
+)
 
 # 스마트대디 채널 프로필 — 분석 텍스트 생성 시 이 관점을 반영한다
 SMARTDADDY_PROFILE = {
@@ -82,8 +118,13 @@ def normalized_search_text(value: str | None) -> str:
 
 
 def contains_priority_term(text: str, term: str) -> bool:
-    haystack = f" {normalized_search_text(text)} "
+    normalized_text = normalized_search_text(text)
+    haystack = f" {normalized_text} "
     needle = normalized_search_text(term)
+    if needle == "ai":
+        return bool(re.search(r"(?<![a-z0-9])ai(?![a-z0-9])", normalized_text, re.IGNORECASE))
+    if re.search(r"[가-힣]", needle):
+        return bool(needle) and needle in normalized_text
     return bool(needle) and f" {needle} " in haystack
 
 
@@ -157,7 +198,7 @@ def channel_text(channel: dict[str, Any]) -> str:
     ).lower()
 
 
-def is_ai_relevant(video: dict[str, Any]) -> bool:
+def is_ai_content(video: dict[str, Any]) -> bool:
     title_text = normalize_label(video.get("title"))
     tool_text = " ".join(normalize_label(item) for item in video.get("tools", []))
     topic_text = " ".join(
@@ -165,28 +206,117 @@ def is_ai_relevant(video: dict[str, Any]) -> bool:
         for item in video.get("topic_tags", [])
         if normalize_label(item).lower() not in {"ai"}
     )
-    if any(contains_priority_term(title_text, term) for term in AI_PRIORITY_TERMS):
-        return True
-    if any(contains_priority_term(tool_text, term) for term in AI_PRIORITY_TERMS):
-        return True
-    if any(contains_priority_term(topic_text, term) for term in AI_PRIORITY_TERMS if term != "ai"):
-        return True
+    keyword_text = " ".join(normalize_label(item) for item in video.get("keywords", []))
+    description_text = normalize_label(video.get("description"))[:2400]
+    highlight_text = " ".join(
+        normalize_label(item) for item in (video.get("transcript_highlights", []) or [])[:3]
+    )
+    sources = (title_text, tool_text, topic_text, keyword_text, description_text, highlight_text)
+    return any(
+        contains_priority_term(source, term)
+        for source in sources
+        for term in AI_PRIORITY_TERMS
+    )
 
-    channel = video.get("channel", {}) or {}
-    channel_category = normalize_label(channel.get("category"))
-    channel_name = normalize_label(channel.get("name"))
-    if contains_priority_term(channel_category, "ai"):
-        return True
-    if contains_priority_term(channel_name, "ai") and any(
-        contains_priority_term(title_text, term) for term in {"automation", "agent", "workflow", "gpt", "claude", "gemini", "copilot", "cursor"}
-    ):
-        return True
-    return False
+
+def classify_creator_segment(channel: dict[str, Any]) -> str:
+    category = normalize_label(channel.get("category")).lower()
+    if category == AI_CORE_CATEGORY:
+        return "ai_core"
+    if category in {"it", "테크", "tech"}:
+        return "tech_general"
+    if contains_priority_term(category, "ai"):
+        return "business_adjacent"
+    return "review_pending"
 
 
 def pick_creator_scope_videos(videos: list[dict[str, Any]]) -> tuple[list[dict[str, Any]], str]:
-    # 워치리스트 27개 채널이 이미 큐레이션된 AI/테크 채널이므로 전체 반환 (모니터링 모드)
-    return videos, "all_watchlist"
+    # 일반 IT/테크와 비즈니스 인접 채널은 제목에 AI가 있어도 다시 포함하지 않는다.
+    scoped = [
+        video
+        for video in videos
+        if classify_creator_segment(video.get("channel", {}) or {}) == "ai_core"
+        and is_ai_content(video)
+    ]
+    return scoped, "ai_core_content_only"
+
+
+def build_channel_lookup(watchlist: list[dict[str, Any]]) -> dict[str, dict[str, Any]]:
+    lookup: dict[str, dict[str, Any]] = {}
+    for channel in watchlist:
+        for raw_key in (
+            channel.get("youtube_channel_id"),
+            channel.get("channel_key"),
+            channel.get("url"),
+            channel.get("name"),
+        ):
+            key = normalize_label(raw_key).lower().rstrip("/")
+            if key:
+                lookup[key] = channel
+    return lookup
+
+
+def resolve_video_channel(
+    video: dict[str, Any],
+    channel_lookup: dict[str, dict[str, Any]],
+) -> dict[str, Any]:
+    for raw_key in (
+        video.get("channel_id"),
+        video.get("channel_key"),
+        video.get("channel_url"),
+        video.get("channel_name"),
+    ):
+        key = normalize_label(raw_key).lower().rstrip("/")
+        if key and key in channel_lookup:
+            return channel_lookup[key]
+    return {}
+
+
+def rank_telegram_videos(
+    videos: list[dict[str, Any]],
+    *,
+    limit: int = TELEGRAM_TOP_LIMIT,
+) -> list[dict[str, Any]]:
+    return sorted(
+        videos,
+        key=lambda item: (
+            int(item.get("view_count", 0) or 0),
+            float(item.get("engagement_rate", 0) or 0),
+            int(item.get("like_count", 0) or 0),
+        ),
+        reverse=True,
+    )[:limit]
+
+
+def is_generic_summary(value: str | None) -> bool:
+    text = normalize_label(value)
+    return not text or any(marker.lower() in text.lower() for marker in GENERIC_SUMMARY_MARKERS)
+
+
+def first_korean_description_line(value: str | None) -> str:
+    for raw_line in str(value or "").splitlines():
+        line = normalize_label(raw_line)
+        if len(line) < 28 or line.startswith(("http://", "https://", "#")):
+            continue
+        if re.search(r"[가-힣]", line):
+            return line
+    return ""
+
+
+def build_content_summary(video: dict[str, Any], *, max_length: int = 120) -> str:
+    summary = normalize_label(video.get("one_line_summary"))
+    if summary and re.search(r"[가-힣]", summary) and not is_generic_summary(summary):
+        return truncate_text(summary, max_length)
+
+    for highlight in video.get("transcript_highlights", []) or []:
+        normalized = normalize_label(highlight)
+        if normalized and re.search(r"[가-힣]", normalized):
+            return truncate_text(normalized, max_length)
+
+    description_line = first_korean_description_line(video.get("description"))
+    if description_line:
+        return truncate_text(description_line, max_length)
+    return ""
 
 
 def count_topic_clusters(videos: list[dict[str, Any]]) -> list[dict[str, Any]]:
@@ -278,7 +408,7 @@ def build_video_highlights(videos: list[dict[str, Any]]) -> list[dict[str, Any]]
                 "comment_count": int(video.get("comment_count", 0) or 0),
                 "engagement_rate": float(video.get("engagement_rate", 0) or 0),
                 "topic_cluster": classify_topic_cluster(video),
-                "summary": truncate_text(video.get("one_line_summary", ""), 92),
+                "summary": build_content_summary(video, max_length=92),
                 "comment_signal": build_comment_signal(video),
                 "hook_type": normalize_label(video.get("hook_type")) or "문제 해결",
             }
@@ -619,92 +749,113 @@ def build_telegram_preview(
     average_view_count: float = 0,
 ) -> str:
     if not videos:
-        return "📡 스마트대디 AI 모니터링\n최근 24시간 수집된 영상이 없습니다."
+        dashboard_url = str(os.getenv("PUBLIC_DASHBOARD_URL", "") or "").strip()
+        lines = [
+            "📡 스마트대디 AI 유튜버 모니터링",
+            "최근 24시간 AI 핵심 채널의 AI 콘텐츠가 없습니다.",
+            "일반 IT·테크 영상은 대신 넣지 않았습니다.",
+        ]
+        if dashboard_url:
+            lines.extend(["", f"🔗 {dashboard_url}"])
+        return "\n".join(lines)
 
     from datetime import datetime
     kst_now = datetime.now(timezone(timedelta(hours=9)))
     date_str = kst_now.strftime("%m/%d")
 
-    lines: list[str] = []
-    lines.append(f"📡 스마트대디 모니터링 | {date_str}")
-    lines.append("")
-
-    # 수집 요약
+    summarized_videos = [
+        video for video in videos if build_content_summary(video, max_length=500)
+    ]
+    top_videos = rank_telegram_videos(summarized_videos)
     channel_count = len({v.get("channel_name") for v in videos if v.get("channel_name")})
-    lines.append(f"📊 수집: 영상 {len(videos)}개 | 채널 {channel_count}개")
-    lines.append("")
-
-    # 참여율 TOP 3
-    top_videos = sorted(videos, key=lambda v: int(v.get("view_count", 0) or 0), reverse=True)[:3]
-    lines.append("🔥 참여율 TOP 3")
-    for i, v in enumerate(top_videos, 1):
-        ch = v.get("channel_name", "?")
-        title = v.get("title", "")
-        eng = percent_text(v.get("engagement_rate", 0))
-        views = compact_number(v.get("view_count", 0))
-        lines.append(f"{i}. [{ch}] {eng} · {views}뷰")
-        lines.append(f"   {title}")
-    lines.append("")
-
-    # 화제 키워드 (topic_tags 집계)
-    all_tags: list[str] = []
-    for v in videos:
-        for tag in (v.get("topic_tags") or []):
-            label = normalize_label(tag)
-            if label and label.lower() not in GENERIC_TOPIC_LABELS:
-                all_tags.append(label)
-    top_tags = [label for label, _ in Counter(all_tags).most_common(5)]
-    if top_tags:
-        lines.append("📌 화제 키워드")
-        lines.append("   " + " · ".join(top_tags))
-        lines.append("")
-
-    # 포맷 분포
-    formats = [normalize_label(v.get("format", "")) for v in videos if v.get("format")]
-    format_counts = Counter(formats).most_common(3)
-    if format_counts:
-        format_str = " · ".join(f"{label} {cnt}개" for label, cnt in format_counts)
-        lines.append(f"🎬 포맷: {format_str}")
-        lines.append("")
-
-    # 내 채널 어제 실적
-    if my_channel:
-        my_section = build_my_channel_telegram_section(my_channel, average_view_count)
-        if my_section:
-            lines.append(my_section)
-            lines.append("")
-
-    # VS 비교 각도 힌트 (스마트대디 핵심 포맷)
-    if best_topic:
-        empty = AI_CREATOR_EMPTY_ANGLES.get(best_topic["label"], "")
-        if empty:
-            lines.append(f"💡 VS 각도: {empty}")
-            lines.append("")
-
-    # 대시보드 링크
     dashboard_url = str(os.getenv("PUBLIC_DASHBOARD_URL", "") or "").strip()
-    if dashboard_url:
-        lines.append(f"🔗 {dashboard_url}")
+    candidate_count = min(len(videos), TELEGRAM_TOP_LIMIT)
+    missing_summary_count = max(candidate_count - len(top_videos), 0)
 
-    return "\n".join(lines)
+    if not top_videos:
+        lines = [
+            f"📡 스마트대디 AI 유튜버 모니터링 | {date_str}",
+            "",
+            f"AI 영상 {len(videos)}개를 찾았지만 실제 내용 요약을 만들지 못했습니다.",
+            "제목만 보내지 않고 이번 브리프에서는 제외했습니다.",
+            "일반 IT·테크 영상으로 대체하지 않았습니다.",
+        ]
+        if dashboard_url:
+            lines.extend(["", f"🔗 {dashboard_url}"])
+        return "\n".join(lines)
+
+    def compose(*, summary_length: int, include_optional: bool) -> str:
+        lines: list[str] = [
+            f"📡 스마트대디 AI 유튜버 모니터링 | {date_str}",
+            "",
+            f"📊 최근 24시간: AI 영상 {len(videos)}개 | AI 채널 {channel_count}개",
+            "🚫 일반 IT·테크·비즈니스 인접 채널 제외",
+            "",
+        ]
+        if missing_summary_count:
+            lines.extend([f"⚠️ 내용 요약 실패 {missing_summary_count}개는 목록에서 제외", ""])
+        top_label = (
+            f"🔥 AI 유튜버 콘텐츠 TOP {len(top_videos)}"
+            if len(top_videos) == TELEGRAM_TOP_LIMIT
+            else f"🔥 AI 유튜버 콘텐츠 TOP {len(top_videos)} (최대 {TELEGRAM_TOP_LIMIT})"
+        )
+        lines.append(f"{top_label} · 조회수순")
+
+        for index, video in enumerate(top_videos, start=1):
+            channel_name = video.get("channel_name", "알 수 없는 채널")
+            views = compact_number(video.get("view_count", 0))
+            engagement = percent_text(video.get("engagement_rate", 0))
+            title = truncate_text(video.get("title", "제목 없음"), 78)
+            summary = build_content_summary(video, max_length=summary_length)
+            video_id = normalize_label(video.get("video_id"))
+            video_url = f"https://youtu.be/{video_id}" if video_id else normalize_label(video.get("video_url"))
+
+            lines.extend(
+                [
+                    f"{index}. [{channel_name}] {views}뷰 · 참여율 {engagement}",
+                    f"   {title}",
+                    f"   ↳ {summary}",
+                ]
+            )
+            if video_url:
+                lines.append(f"   {video_url}")
+            lines.append("")
+
+        if include_optional and my_channel:
+            my_section = build_my_channel_telegram_section(my_channel, average_view_count)
+            if my_section:
+                lines.extend([my_section, ""])
+
+        if include_optional and best_topic:
+            empty = AI_CREATOR_EMPTY_ANGLES.get(best_topic["label"], "")
+            if empty:
+                lines.extend([f"💡 VS 각도: {empty}", ""])
+
+        if dashboard_url:
+            lines.append(f"🔗 {dashboard_url}")
+        return "\n".join(lines).strip()
+
+    for summary_length, include_optional in ((120, True), (90, False), (64, False)):
+        message = compose(summary_length=summary_length, include_optional=include_optional)
+        if len(message) <= TELEGRAM_SAFE_MESSAGE_LIMIT:
+            return message
+    raise ValueError("Telegram AI TOP10 preview exceeds the safe message limit")
 
 
 def build_digest(videos: list[dict[str, Any]], watchlist: list[dict[str, Any]], my_channel: dict[str, Any] | None = None) -> dict[str, Any]:
-    channel_lookup = {
-        channel.get("youtube_channel_id") or channel.get("channel_key") or channel.get("url") or channel.get("name"): channel
-        for channel in watchlist
-    }
+    channel_lookup = build_channel_lookup(watchlist)
 
     recent_videos = pick_recent_videos(videos)
     hydrated_recent: list[dict[str, Any]] = []
     for video in recent_videos:
-        channel = channel_lookup.get(video.get("channel_id")) or channel_lookup.get(video.get("channel_key")) or {}
+        channel = resolve_video_channel(video, channel_lookup)
         hydrated_recent.append(
             {
                 **video,
                 "channel_name": video.get("channel_name") or channel.get("name") or "알 수 없는 채널",
                 "channel": channel,
                 "channel_category": channel.get("category", "미분류"),
+                "creator_segment": classify_creator_segment(channel),
             }
         )
 
@@ -764,4 +915,19 @@ def build_digest(videos: list[dict[str, Any]], watchlist: list[dict[str, Any]], 
         "average_comment_count": round(average_comment_count),
         "best_video_id": best_video.get("video_id") if best_video else "",
         "best_topic": best_topic.get("label") if best_topic else "",
+        "telegram_video_ids": [
+            video.get("video_id")
+            for video in rank_telegram_videos(
+                [video for video in digest_videos if build_content_summary(video, max_length=500)]
+            )
+            if video.get("video_id")
+        ],
+        "telegram_summary_candidate_ids": [
+            video.get("video_id")
+            for video in rank_telegram_videos(
+                digest_videos,
+                limit=TELEGRAM_SUMMARY_CANDIDATE_LIMIT,
+            )
+            if video.get("video_id")
+        ],
     }

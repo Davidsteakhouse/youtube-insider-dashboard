@@ -5,7 +5,11 @@ import os
 import sys
 from typing import Any
 
-from analyzer import enrich_videos_with_analysis, refresh_transcript_highlights_for_videos
+from analyzer import (
+    enrich_videos_with_analysis,
+    generate_digest_summaries,
+    refresh_transcript_highlights_for_videos,
+)
 from build_static_bundle import write_bundle
 from common import DATA_DIR, load_env_file, read_json, within_lookback_hours
 from digest_builder import build_digest
@@ -133,6 +137,7 @@ def build_video_pipeline(args: argparse.Namespace, watchlist: list[dict[str, Any
             refreshed_watchlist,
             existing_videos,
             max_results_per_channel=args.max_results_per_channel,
+            resolve_channel_references=False,
         )
         print(f"YouTube 수집 완료: 최근 24시간 영상 {len(recent_videos)}개")
     elif existing_videos:
@@ -167,6 +172,27 @@ def build_video_pipeline(args: argparse.Namespace, watchlist: list[dict[str, Any
     all_videos = refresh_transcript_highlights_for_videos(load_videos())
     upsert_videos(all_videos)
     digest = build_digest(all_videos, refreshed_watchlist, my_channel=my_channel)
+
+    summary_candidate_ids = digest.get("telegram_summary_candidate_ids", []) or []
+    if summary_candidate_ids:
+        selected_ids = set(summary_candidate_ids)
+        summary_sources = [video for video in all_videos if video.get("video_id") in selected_ids]
+        digest_summaries = generate_digest_summaries(summary_sources)
+        if digest_summaries:
+            all_videos = [
+                {
+                    **video,
+                    "one_line_summary": digest_summaries.get(
+                        str(video.get("video_id") or ""),
+                        video.get("one_line_summary", ""),
+                    ),
+                }
+                for video in all_videos
+            ]
+            upsert_videos(all_videos)
+            digest = build_digest(all_videos, refreshed_watchlist, my_channel=my_channel)
+            print(f"Telegram 콘텐츠 요약 생성 완료: {len(digest_summaries)}개")
+
     upsert_digest(digest)
     refresh_static_bundle()
     print("digest 생성 및 export 반영 완료")

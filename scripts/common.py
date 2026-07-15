@@ -16,6 +16,43 @@ ROOT_DIR = Path(__file__).resolve().parent.parent
 DATA_DIR = ROOT_DIR / "data"
 ENV_FILE = ROOT_DIR / ".env"
 KST = timezone(timedelta(hours=9))
+SENSITIVE_QUERY_KEYS = {
+    "key",
+    "api_key",
+    "token",
+    "access_token",
+    "refresh_token",
+    "client_secret",
+}
+SENSITIVE_ENV_NAMES = (
+    "TELEGRAM_BOT_TOKEN",
+    "YOUTUBE_API_KEY",
+    "GEMINI_API_KEY",
+    "OPENAI_API_KEY",
+    "APIFY_TOKEN",
+    "NOTION_TOKEN_V2",
+)
+
+
+def redact_sensitive_url(url: str) -> str:
+    parsed = urllib.parse.urlsplit(str(url or ""))
+    safe_path = re.sub(r"/bot[^/]+", "/bot***", parsed.path, flags=re.IGNORECASE)
+    safe_query = urllib.parse.urlencode(
+        [
+            (key, "***" if key.lower() in SENSITIVE_QUERY_KEYS else value)
+            for key, value in urllib.parse.parse_qsl(parsed.query, keep_blank_values=True)
+        ]
+    )
+    return urllib.parse.urlunsplit((parsed.scheme, parsed.netloc, safe_path, safe_query, parsed.fragment))
+
+
+def redact_sensitive_text(value: str) -> str:
+    text = str(value or "")
+    for env_name in SENSITIVE_ENV_NAMES:
+        secret = os.getenv(env_name, "")
+        if secret:
+            text = text.replace(secret, "***")
+    return text
 
 
 def load_env_file(path: Path = ENV_FILE) -> None:
@@ -121,7 +158,9 @@ def request_json(
             return json.loads(response.read().decode("utf-8", errors="ignore"))
     except urllib.error.HTTPError as exc:
         detail = exc.read().decode("utf-8", errors="ignore")
-        raise RuntimeError(f"{method} {url} failed: HTTP {exc.code} {detail[:500]}") from exc
+        safe_url = redact_sensitive_url(url)
+        safe_detail = redact_sensitive_text(detail)[:500]
+        raise RuntimeError(f"{method} {safe_url} failed: HTTP {exc.code} {safe_detail}") from exc
 
 
 def request_text(
