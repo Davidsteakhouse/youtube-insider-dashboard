@@ -1,16 +1,16 @@
 {
   "digest_date": "2026-07-15",
-  "generated_at": "2026-07-15T06:59:00+00:00",
-  "summary": "최근 24시간 영상 4개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'Claude'입니다. 특히 'Watch Me Create an AI Influencer in 10 Minutes (100% consistent)'는 조회수 8.0K, 참여율 8.5%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "'Claude' 주제가 2개 영상으로 가장 많이 다뤄졌습니다. 오늘 수집 영상 4개는 주로 '워크플로우 튜토리얼' 포맷이라, VS 비교·직접 실험 각도는 아직 비어 있습니다. Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n[내 채널] 7일 평균 14.4K회 · 지속률 32.9% / 경쟁사 평균 4.4K회 (격차 +225%)",
-  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 07/15\n\n📊 최근 24시간: AI 영상 4개 | AI 채널 4개\n🚫 일반 IT·테크·비즈니스 인접 채널 제외\n\n⚠️ 내용 요약 실패 3개는 목록에서 제외\n\n🔥 AI 유튜버 콘텐츠 TOP 1 (최대 10) · 조회수순\n1. [조코딩 JoCoding] 7.3K뷰 · 참여율 1.0%\n   모르는 사람이 많다는 사람처럼 말하는 GPT\n   ↳ 백그라운드 에서 이렇게 생각하고 동시에 말도 할 수가 있습니다. [음악] 추임새 도 중간중간에 잘 넣어준 걸 볼 수가 있고요. 복잡한 작업 위임도 가능하다고 해요.\n   https://youtu.be/yqRyOMEDri8\n\n📈 스마트대디 어제 실적\n조회수 12.1K (↓16% vs 7일 평균) | 구독 +63\n시청 지속률 32.8% | 평균 시청 2분 28초\n경쟁사 평균 4.4K회 대비 내 7일 평균 +225%\n\n💡 VS 각도: Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
-  "video_count": 4,
-  "total_recent_video_count": 13,
+  "generated_at": "2026-07-15T07:02:48+00:00",
+  "summary": "최근 24시간 영상 5개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'Claude'입니다. 특히 'Watch Me Create an AI Influencer in 10 Minutes (100% consistent)'는 조회수 8.0K, 참여율 8.5%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "'Claude' 주제가 2개 영상으로 가장 많이 다뤄졌습니다. 오늘 수집 영상 5개는 주로 '워크플로우 튜토리얼' 포맷이라, VS 비교·직접 실험 각도는 아직 비어 있습니다. Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n[내 채널] 7일 평균 14.4K회 · 지속률 32.9% / 경쟁사 평균 3.6K회 (격차 +306%)",
+  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 07/15\n\n📊 최근 24시간: AI 영상 5개 | AI 채널 4개\n🚫 일반 IT·테크·비즈니스 인접 채널 제외\n\n🔥 AI 유튜버 콘텐츠 TOP 5 (최대 10) · 조회수순\n1. [AI Samson] 8.0K뷰 · 참여율 8.5%\n   Watch Me Create an AI Influencer in 10 Minutes (100% consistent)\n   ↳ Higgsfield와 Claude 등을 활용해 캐릭터 일관성을 유지하며 움직이고 말하는 AI 인플루언서를 생성하는 법을 단계별로 안내한다. 특히 자신의 실제 연기를 활용해 얼굴을 공개하지 않고도 인플루언서의 동작과…\n   https://youtu.be/i-m5imAgAQo\n\n2. [조코딩 JoCoding] 7.3K뷰 · 참여율 1.0%\n   모르는 사람이 많다는 사람처럼 말하는 GPT\n   ↳ 백그라운드에서 사고하면서 자연스럽게 대화하고 추임새를 넣는 GPT의 향상된 실시간 상호작용 및 복잡한 작업 위임 기능을 보여준다.\n   https://youtu.be/yqRyOMEDri8\n\n3. [Matt Wolfe] 2.0K뷰 · 참여율 4.5%\n   Try This Awesome AI Video Transition!\n   ↳ Runway의 Seedance 2.0과 같은 AI 도구를 사용하여 서로 다른 촬영 장소를 자연스럽게 연결하는 영상 전환 기법을 설명한다. 두 장소의 스크린샷을 키프레임으로 활용하고 특정 프롬프트를 입력하면 복잡한…\n   https://youtu.be/KzJkS00Ztd8\n\n4. [AI Andy] 415뷰 · 참여율 7.0%\n   This Fable 5 AI Clone Skill Creates Unique Content Daily! (100% Automated!)\n   ↳ Claude Code를 활용하여 AI 아바타와 음성 복제 기술로 쇼츠 콘텐츠를 자동 생성하고 9개 플랫폼에 배포하는 시스템 구축 과정을 단계별로 다룬다.\n   https://youtu.be/CeccAcs79-Q\n\n5. [조코딩 JoCoding] 2뷰 · 참여율 0.0%\n   AI 트렌드의 미래는..?\n   ↳ AI 기술의 미래 트렌드로 주목받는 루프 엔지니어링의 다양한 유형과 개념을 소개한다.\n   https://youtu.be/cVOjaTddVTc\n\n📈 스마트대디 어제 실적\n조회수 12.1K (↓16% vs 7일 평균) | 구독 +63\n시청 지속률 32.8% | 평균 시청 2분 28초\n경쟁사 평균 3.6K회 대비 내 7일 평균 +306%\n\n💡 VS 각도: Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+  "video_count": 5,
+  "total_recent_video_count": 14,
   "focus_scope": "ai_core_content_only",
-  "average_view_count": 4433.0,
-  "average_engagement_rate": 0.05237200811713886,
-  "average_like_count": 196.0,
-  "average_comment_count": 22.0,
+  "average_view_count": 3551.0,
+  "average_engagement_rate": 0.04197148235962082,
+  "average_like_count": 157.0,
+  "average_comment_count": 18.0,
   "best_video_id": "i-m5imAgAQo",
   "best_topic": "Claude",
   "summary_points": [
@@ -38,7 +38,7 @@
       "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
       "source_video_id": "i-m5imAgAQo",
       "source": "Watch Me Create an AI Influencer in 10 Minutes (100% consistent)",
-      "my_channel_context": "내 7일 평균 14.4K회 · 지속률 32.9% / 경쟁사 대비 +225%"
+      "my_channel_context": "내 7일 평균 14.4K회 · 지속률 32.9% / 경쟁사 대비 +306%"
     },
     {
       "title": "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
@@ -48,15 +48,15 @@
       "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
       "source_video_id": "CeccAcs79-Q",
       "source": "This Fable 5 AI Clone Skill Creates Unique Content Daily! (100% Automated!)",
-      "my_channel_context": "내 7일 평균 14.4K회 · 지속률 32.9% / 경쟁사 대비 +225%"
+      "my_channel_context": "내 7일 평균 14.4K회 · 지속률 32.9% / 경쟁사 대비 +306%"
     }
   ],
   "topic_clusters": [
     {
       "label": "Claude",
       "count": 2,
-      "avg_view_count": 4199,
-      "avg_engagement_rate": 0.07765553004954806,
+      "avg_view_count": 4204,
+      "avg_engagement_rate": 0.07760208857449064,
       "avg_like_count": 315,
       "avg_comment_count": 40,
       "source_titles": [
@@ -70,8 +70,8 @@
     {
       "label": "모르는",
       "count": 1,
-      "avg_view_count": 7287,
-      "avg_engagement_rate": 0.00974337861945931,
+      "avg_view_count": 7296,
+      "avg_engagement_rate": 0.009731359649122808,
       "avg_like_count": 68,
       "avg_comment_count": 3,
       "source_titles": [
@@ -85,8 +85,8 @@
       "label": "Try",
       "count": 1,
       "avg_view_count": 2048,
-      "avg_engagement_rate": 0.04443359375,
-      "avg_like_count": 87,
+      "avg_engagement_rate": 0.044921875,
+      "avg_like_count": 88,
       "avg_comment_count": 4,
       "source_titles": [
         "Try This Awesome AI Video Transition!"
@@ -94,6 +94,20 @@
       "thumbnail_url": "https://i.ytimg.com/vi/KzJkS00Ztd8/hqdefault.jpg",
       "representative_video_id": "KzJkS00Ztd8",
       "representative_title": "Try This Awesome AI Video Transition!"
+    },
+    {
+      "label": "트렌드의",
+      "count": 1,
+      "avg_view_count": 2,
+      "avg_engagement_rate": 0.0,
+      "avg_like_count": 0,
+      "avg_comment_count": 0,
+      "source_titles": [
+        "AI 트렌드의 미래는..?"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/cVOjaTddVTc/hqdefault.jpg",
+      "representative_video_id": "cVOjaTddVTc",
+      "representative_title": "AI 트렌드의 미래는..?"
     }
   ],
   "video_highlights": [
@@ -104,12 +118,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/i-m5imAgAQo/hqdefault.jpg",
       "video_url": "https://www.youtube.com/watch?v=i-m5imAgAQo",
       "published_at": "2026-07-14T07:29:35Z",
-      "view_count": 7983,
+      "view_count": 7993,
       "like_count": 605,
       "comment_count": 77,
-      "engagement_rate": 0.08543154202680696,
+      "engagement_rate": 0.08532465907669211,
       "topic_cluster": "Claude",
-      "summary": "",
+      "summary": "Higgsfield와 Claude 등을 활용해 캐릭터 일관성을 유지하며 움직이고 말하는 AI 인플루언서를 생성하는 법을 단계별로 안내한다. 특히 자신의 실제 연기를…",
       "comment_signal": "Now, there have been rumours circulating that I am, in fact, an AI influencer… 🤖 I can assure y…",
       "hook_type": "문제 해결"
     },
@@ -120,12 +134,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/yqRyOMEDri8/hqdefault.jpg",
       "video_url": "https://www.youtube.com/watch?v=yqRyOMEDri8",
       "published_at": "2026-07-14T09:00:10Z",
-      "view_count": 7287,
+      "view_count": 7296,
       "like_count": 68,
       "comment_count": 3,
-      "engagement_rate": 0.00974337861945931,
+      "engagement_rate": 0.009731359649122808,
       "topic_cluster": "모르는",
-      "summary": "백그라운드 에서 이렇게 생각하고 동시에 말도 할 수가 있습니다. [음악] 추임새 도 중간중간에 잘 넣어준 걸 볼 수가 있고요. 복잡한 작업 위임도 가능하다고 해요.",
+      "summary": "백그라운드에서 사고하면서 자연스럽게 대화하고 추임새를 넣는 GPT의 향상된 실시간 상호작용 및 복잡한 작업 위임 기능을 보여준다.",
       "comment_signal": "재미니에 비하면 한국어가 너무 어색함 ㅠㅠ",
       "hook_type": "문제 해결"
     },
@@ -137,11 +151,11 @@
       "video_url": "https://www.youtube.com/watch?v=KzJkS00Ztd8",
       "published_at": "2026-07-14T14:31:02Z",
       "view_count": 2048,
-      "like_count": 87,
+      "like_count": 88,
       "comment_count": 4,
-      "engagement_rate": 0.04443359375,
+      "engagement_rate": 0.044921875,
       "topic_cluster": "Try",
-      "summary": "",
+      "summary": "Runway의 Seedance 2.0과 같은 AI 도구를 사용하여 서로 다른 촬영 장소를 자연스럽게 연결하는 영상 전환 기법을 설명한다. 두 장소의 스크린샷을 키프…",
       "comment_signal": "Love it",
       "hook_type": "문제 해결"
     },
@@ -157,8 +171,24 @@
       "comment_count": 4,
       "engagement_rate": 0.06987951807228916,
       "topic_cluster": "Claude",
-      "summary": "",
+      "summary": "Claude Code를 활용하여 AI 아바타와 음성 복제 기술로 쇼츠 콘텐츠를 자동 생성하고 9개 플랫폼에 배포하는 시스템 구축 과정을 단계별로 다룬다.",
       "comment_signal": "dead internet theory.. this is part of the problem",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "cVOjaTddVTc",
+      "channel_name": "조코딩 JoCoding",
+      "title": "AI 트렌드의 미래는..?",
+      "thumbnail_url": "https://i.ytimg.com/vi/cVOjaTddVTc/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=cVOjaTddVTc",
+      "published_at": "2026-07-15T07:00:02Z",
+      "view_count": 2,
+      "like_count": 0,
+      "comment_count": 0,
+      "engagement_rate": 0.0,
+      "topic_cluster": "트렌드의",
+      "summary": "AI 기술의 미래 트렌드로 주목받는 루프 엔지니어링의 다양한 유형과 개념을 소개한다.",
+      "comment_signal": "댓글 반응은 아직 약한 편입니다.",
       "hook_type": "문제 해결"
     }
   ]
