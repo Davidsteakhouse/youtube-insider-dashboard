@@ -34,6 +34,7 @@ jobs:
       YT_CHANNEL_NAME: ${{ secrets.YT_CHANNEL_NAME }}
       LLM_PROVIDER: gemini
       GEMINI_MODEL: gemini-2.5-flash-lite
+      GEMINI_DIGEST_FALLBACK_MODELS: gemini-3.1-flash-lite,gemini-2.0-flash-lite,gemini-flash-latest
       APIFY_YOUTUBE_TRANSCRIPT_ACTOR_ID: supreme_coder~youtube-transcript-scraper
       APIFY_YOUTUBE_TRANSCRIPT_FALLBACK_ACTOR_ID: ${{ vars.APIFY_YOUTUBE_TRANSCRIPT_FALLBACK_ACTOR_ID }}
       PUBLIC_DASHBOARD_URL: https://davidsteakhouse.github.io/youtube-insider-dashboard/

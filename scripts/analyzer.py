@@ -962,7 +962,10 @@ def generate_digest_summaries(videos: list[dict[str, Any]]) -> dict[str, str]:
     model = os.getenv("GEMINI_MODEL", DEFAULT_GEMINI_MODEL)
     fallback_models = [
         item.strip()
-        for item in os.getenv("GEMINI_DIGEST_FALLBACK_MODELS", "gemini-2.5-flash").split(",")
+        for item in os.getenv(
+            "GEMINI_DIGEST_FALLBACK_MODELS",
+            "gemini-3.1-flash-lite,gemini-2.0-flash-lite,gemini-flash-latest",
+        ).split(",")
         if item.strip()
     ]
     payload = {

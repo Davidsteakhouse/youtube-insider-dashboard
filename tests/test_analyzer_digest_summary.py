@@ -134,6 +134,50 @@ class AnalyzerDigestSummaryTests(unittest.TestCase):
 
         self.assertEqual(summaries, {})
 
+    def test_retries_primary_then_uses_fallback_model(self) -> None:
+        response = {
+            "candidates": [
+                {
+                    "content": {
+                        "parts": [
+                            {
+                                "text": json.dumps(
+                                    {
+                                        "summaries": [
+                                            {
+                                                "video_id": "known",
+                                                "summary": "Claude로 문서를 분류하고 담당 팀에 자동 전달한 뒤 수작업 대비 처리 시간을 비교합니다.",
+                                            }
+                                        ]
+                                    },
+                                    ensure_ascii=False,
+                                )
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+        with patch.dict(
+            analyzer.os.environ,
+            {
+                "GEMINI_API_KEY": "test-key",
+                "GEMINI_MODEL": "primary-model",
+                "GEMINI_DIGEST_FALLBACK_MODELS": "fallback-model",
+            },
+            clear=False,
+        ), patch.object(
+            analyzer,
+            "request_json",
+            side_effect=[RuntimeError("503"), RuntimeError("503"), response],
+        ) as request_mock, patch.object(analyzer.time, "sleep"):
+            summaries = analyzer.generate_digest_summaries([{"video_id": "known", "title": "Claude"}])
+
+        self.assertIn("known", summaries)
+        self.assertEqual(request_mock.call_count, 3)
+        self.assertIn("primary-model", request_mock.call_args_list[0].args[0])
+        self.assertIn("fallback-model", request_mock.call_args_list[2].args[0])
+
 
 if __name__ == "__main__":
     unittest.main()
