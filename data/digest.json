@@ -1,248 +1,262 @@
 {
-  "digest_date": "2026-07-16",
-  "generated_at": "2026-07-16T00:07:17+00:00",
-  "summary": "최근 24시간 영상 9개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'OpenAI'입니다. 특히 'You’re Not Behind (Yet): How to Build Your First AI Agent (Full Guide)'는 조회수 26.5K, 참여율 6.6%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "'OpenAI' 주제가 3개 영상으로 가장 많이 다뤄졌습니다. 일반인 관점 직접 실험 or VS 비교 각도로 차별화할 영역이 있습니다.\n[내 채널] 7일 평균 14.5K회 · 지속률 33.1% / 경쟁사 평균 8.1K회 (격차 +78%)",
-  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 07/16\n\n📊 총 10개 | AI 핵심 8 · 인접 AI 1 · 일반 테크 보충 1\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 10 · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [조코딩 JoCoding] 25.4K뷰 · 참여율 2.4%\n   AI 트렌드의 미래는..?\n   ↳ AI 엔지니어링의 핵심 개념인 루프 엔지니어링을 다루며, 선 기반, 목표 기반, 시간 기반, 사전 예방적 루프 등 다양한 루프의 유형과 활용 방안을 소개한다.\n   https://youtu.be/cVOjaTddVTc\n\n2. AI 핵심 · [조코딩 JoCoding] 7.2K뷰 · 참여율 1.0%\n   AI 대기업 대표들의 웅장한 싸움;;\n   ↳ 일론 머스크와 샘 올트먼 등 AI 산업을 주도하는 주요 인물들 간의 경쟁 구도를 조명하며, 이들 간의 격렬한 대립과 시장 변화가 가져올 영향력을 분석한다.\n   https://youtu.be/AgZQAz2lQSU\n\n3. AI 핵심 · [빌더 조쉬 Builder Josh] 4.7K뷰 · 참여율 3.7%\n   헤르메스 에이전트 5개로 뉴스 큐레이션부터 주식 매매까지 자동화한 방법 전부 공개합니다 (AI 엔지니어 샘 호트만님)\n   ↳ 샘 호트만은 헤르메스 에이전트의 장단기 기억 장치를 활용해 뉴스 큐레이션, 커뮤니티 관리, 주식 자동매매 등 1인 기업을 위한 개인화된 워크플로우 자동화 전략을 공유한다.\n   https://youtu.be/_Pd1G33_R48\n\n4. AI 핵심 · [The AI Automators] 3.3K뷰 · 참여율 3.9%\n   Unsloth's New Qwen Quants Just Dropped, And...\n   ↳ Unsloth에서 NVIDIA의 NVFP4 형식을 사용해 4비트 양자화된 Qwen3.6 모델을 출시했으며, 이를 통해 단일 GPU 환경에서도 훨씬 빠르고 효율적인 로컬 추론이 가능해졌음을 시연한다.\n   https://youtu.be/uNfkHpNfXow\n\n5. AI 핵심 · [AI 머니] 2.8K뷰 · 참여율 5.4%\n   유료 결제 그만하세요, 진짜 무료인 AI 영상 툴 3개 공개\n   ↳ 유료 툴 못지않은 성능을 제공하는 무료 AI 영상 생성 및 편집 도구 3가지를 소개하며, 별도의 구독료 없이 영상 제작과 편집을 한 번에 해결하는 효율적인 활용법을 제시한다.\n   https://youtu.be/WND3xGqmDqM\n\n6. AI 핵심 · [Matt Wolfe] 2.1K뷰 · 참여율 13.1%\n   Complete Guide to ChatGPT 5.6 + Prompting Guide\n   ↳ ChatGPT 5.6과 통합된 새로운 앱 플랫폼의 기능을 상세히 안내하며, 비즈니스 자동화, 개발을 위한 코드 실행, 개인 맞춤형 AI 에이전트 설정 및 프롬프트 활용 전략을 설명한다.\n   https://youtu.be/MDy_b9F7oUc\n\n7. AI 핵심 · [All About AI] 1.1K뷰 · 참여율 5.3%\n   This GPT-5.6 Trading Bot Is CRUSHING Hyperliquid 24/7 (so far)\n   ↳ GPT-5.6을 활용해 하이퍼리퀴드 거래소에서 24시간 자동 매매를 수행하는 봇을 구축하고, 실제 수익을 창출하는 과정과 데이터 분석을 통한 전략 개선 과정을 보여준다.\n   https://youtu.be/fKM-wCcawpc\n\n8. AI 핵심 · [성공지식백과] 190뷰 · 참여율 6.8%\n   총상금 1억원 코딩 몰라도 참가 가능한 미친 앱 대회\n   ↳ 코딩 없이 앱을 제작할 수 있는 Higgsfield App Builder를 활용해 10만 달러 규모의 콘테스트에 출품할 앱을 기획하고 제작하는 과정과 브랜딩 프롬프트 활용법을 안내한다.\n   https://youtu.be/iIL70eoSPlM\n\n9. AI 인접 · [Dan Martell] 26.5K뷰 · 참여율 6.6%\n   You’re Not Behind (Yet): How to Build Your First AI Agent (Full Guide)\n   ↳ 비즈니스의 반복적인 작업을 자동화하기 위해 AI 에이전트를 구축하는 실전 가이드를 제공하며, 코딩 지식 없이도 매니저 에이전트와 서브 에이전트를 설계해 업무 생산성을 높이는 방법을 설명한다.\n   https://youtu.be/Bm84BAtOfQw\n\n10. 테크 보충 · [안될공학 - IT 테크 신기술] 19.6K뷰 · 참여율 3.7%\n   SSD가 잘 팔리는데 왜 메모리가 부족할까 … 저장장치가 부른 뜻밖의 품귀\n   ↳ 기업용 SSD의 대용량화로 인해 고성능 주소표 관리에 필요한 DDR4 D램의 수요가 급증한 반면, 제조사의 생산 전환으로 공급이 줄어들며 발생한 메모리 품귀 현상의 기술적 배경을 분석한다.\n   https://youtu.be/bI8kiH8puxk\n\n📈 스마트대디 어제 실적\n조회수 8.0K (↓45% vs 7일 평균) | 구독 +31\n시청 지속률 31.4% | 평균 시청 2분 16초\n경쟁사 평균 8.1K회 대비 내 7일 평균 +78%\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
-  "video_count": 9,
-  "total_recent_video_count": 13,
+  "digest_date": "2026-07-17",
+  "generated_at": "2026-07-17T00:08:50+00:00",
+  "summary": "최근 24시간 영상 10개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'Claude'입니다. 특히 '월가 보고서 5개 종합 \"5가지 악재\" 반박합니다.'는 조회수 48.8K, 참여율 3.7%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "'Claude' 주제가 3개 영상으로 가장 많이 다뤄졌습니다. Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n[내 채널] 7일 평균 10.7K회 · 지속률 32.4% / 경쟁사 평균 17.6K회 (격차 -39%)",
+  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 07/17\n\n📊 총 10개 | AI 핵심 6 · 인접 AI 4 · 일반 테크 보충 0\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 10 · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [조코딩 JoCoding] 11.5K뷰 · 참여율 1.0%\n   수상할 정도로 손이 빠른 로봇 등장\n   ↳ 사람처럼 자연스럽게 물건을 집거나 전구를 교체하는 등 정교한 작업이 가능한 휴머노이드 로봇의 움직임을 보여준다.\n   https://youtu.be/8MXA5gdDvfA\n\n2. AI 핵심 · [Fantasoner(판타소너)] 9.1K뷰 · 참여율 0.9%\n   린나이코리아 브랜드 필름 ｜ 일상을 채우는 세 가지 순간, Refresh · Recipe · Relax\n   ↳ 미드저니, 클링, SUNO 등 다양한 AI 도구를 활용하여 린나이코리아의 브랜드 가치인 Refresh, Recipe, Relax를 표현한 브랜드 필름을 제작했다.\n   https://youtu.be/b0lGLu3MnlI\n\n3. AI 핵심 · [Matt Wolfe] 3.0K뷰 · 참여율 3.4%\n   Testing the 2 BIGGEST AI Website Builders\n   ↳ 두 가지 인기 AI 웹사이트 빌더를 활용해 미드저니의 신제품 랜딩 페이지를 제작하고, 워크플로우와 완성도를 비교했다. 결과적으로 프레이머(Framer)의 AI 에이전트가 실무적인 웹사이트 수정 및 배포에 더 적합하…\n   https://youtu.be/FO5zsDIY6Yc\n\n4. AI 핵심 · [AI Andy] 386뷰 · 참여율 4.4%\n   Codex Micro: Openai Just Dropped The First AI Keyboard!\n   ↳ OpenAI가 공개한 'kbd-1.0-codex-micro' 키보드는 AI 에이전트 제어를 위한 최초의 물리적 인터페이스로, 사용자가 직접 코딩하는 대신 AI의 지시자(Manager) 역할을 수행하는 시대적 변화를…\n   https://youtu.be/p2y6UbFV8Pg\n\n5. AI 핵심 · [AI Andy] 289뷰 · 참여율 4.5%\n   The 5 Things You NEED To Build with FABLE 5 (Before It's GONE)\n   ↳ 클로드의 Fable 5 모델을 효율적으로 활용하기 위한 5가지 프로젝트를 선정했다. 토큰 비용을 최소화하기 위해 계획은 저렴한 모델로, 자율적 실행은 Fable 5로 진행하는 전략이 핵심이다.\n   https://youtu.be/z5mbQUntZK4\n\n6. AI 핵심 · [Goda Go] 88뷰 · 참여율 12.5%\n   The 10 Rules of Claude Code Nobody Talks About\n   ↳ Claude Code의 기본 개념과 동작 원리를 설명하며, 터미널 기반 운영, 모델 커스텀 설정, 엔터프라이즈 환경에서의 관리 및 보안 요구 사항 등을 핵심 포인트로 정리했다.\n   https://youtu.be/0yz23H5C4b4\n\n7. AI 인접 · [월텍남 - 월스트리트 테크남] 48.8K뷰 · 참여율 3.7%\n   월가 보고서 5개 종합 \"5가지 악재\" 반박합니다.\n   ↳ 반도체 급락은 실적 악화보다 과도한 포지션과 심리적 조정에 기인한 것이며, 빅테크의 CAPEX 전망과 데이터센터 건설 추이를 볼 때 메모리 산업의 근본적인 수요는 견고하다고 분석했다.\n   https://youtu.be/bf7WPr3LaTM\n\n8. AI 인접 · [테크몽 Techmong] 34.9K뷰 · 참여율 3.8%\n   아이폰 떠나는 한국인들? 2026년 스마트폰 사용 현황\n   ↳ 갤럽의 조사 데이터를 바탕으로 한국 내 갤럭시 사용 비중이 아이폰 대비 압도적으로 높음을 확인하며, 최근 스마트폰 시장의 변화와 사용 현황을 분석했다.\n   https://youtu.be/ridYU7rUTFs\n\n9. AI 인접 · [주연 ZUYONI] 34.4K뷰 · 참여율 2.2%\n   이제 쉴드 불가?! 맥북 네오 가격 오르자마자 크게 보이는 단점들 (맥북네오 롱텀 후기)\n   ↳ 맥북 네오를 장기간 사용하며 성능 부족 등 여러 단점을 지적했다. 향후 확장성을 고려할 때 부족한 사양보다는 성능이 여유로운 맥북 에어를 구매하는 것이 합리적인 선택이라고 제언했다.\n   https://youtu.be/_8YRjxBJlGc\n\n10. AI 인접 · [Dan Martell] 33.9K뷰 · 참여율 10.5%\n   AI is just a Yes Man - Comment YES MAN below for the fix\n   ↳ ChatGPT와 Claude 같은 AI가 사용자의 의견에 무조건 동조하는 'Yes Man' 성향을 보인다고 지적하며, 이를 방지하고 정확한 답변을 얻기 위한 프롬프트 수정 팁을 소개했다.\n   https://youtu.be/seISZnoASyY\n\n📈 스마트대디 어제 실적\n조회수 6.0K (↓44% vs 7일 평균) | 구독 +25\n시청 지속률 31.7% | 평균 시청 2분 11초\n경쟁사 평균 17.6K회 대비 내 7일 평균 -39%\n\n💡 VS 각도: Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+  "video_count": 10,
+  "total_recent_video_count": 14,
   "focus_scope": "ai_priority_then_tech_fill",
-  "average_view_count": 8148.0,
-  "average_engagement_rate": 0.05358376336096683,
-  "average_like_count": 337.0,
-  "average_comment_count": 22.0,
-  "best_video_id": "Bm84BAtOfQw",
-  "best_topic": "OpenAI",
+  "average_view_count": 17641.0,
+  "average_engagement_rate": 0.04708252268084007,
+  "average_like_count": 647.0,
+  "average_comment_count": 136.0,
+  "best_video_id": "bf7WPr3LaTM",
+  "best_topic": "Claude",
   "summary_points": [
-    "가장 겹친 주제는 'OpenAI'이며 3개 영상, 평균 조회수 3.4K, 평균 참여율 6.9%입니다.",
-    "최고 실적 영상은 'You’re Not Behind (Yet): How to Build Your First AI Agent (Full Guide)'이며 실험 훅과 워크플로우 튜토리얼 포맷 조합이 강했습니다.",
-    "반복 노출된 툴은 MCP 3회, OpenAI 3회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
+    "가장 겹친 주제는 'Claude'이며 3개 영상, 평균 조회수 1.1K, 평균 참여율 6.8%입니다.",
+    "최고 실적 영상은 '월가 보고서 5개 종합 \"5가지 악재\" 반박합니다.'이며 문제 해결 훅과 뉴스 분석 포맷 조합이 강했습니다.",
+    "반복 노출된 툴은 Claude 4회, ChatGPT 2회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
   ],
   "action_chips": [
-    "주제: OpenAI",
-    "훅: 실험",
-    "포맷: 워크플로우 튜토리얼",
-    "기준 채널: Dan Martell"
+    "주제: Claude",
+    "훅: 문제 해결",
+    "포맷: 뉴스 분석",
+    "기준 채널: 월텍남 - 월스트리트 테크남"
   ],
   "title_suggestions": [
-    "OpenAI 직접 실험 — 이게 진짜 되나?",
-    "OpenAI vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
-    "OpenAI 써봤더니... (기대 vs 현실 솔직 후기)"
+    "Claude vs ChatGPT, 일반인이 직접 써보니 이게 달랐다",
+    "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
+    "AI 비서 대결: Claude가 진짜 강한 상황은 따로 있었다"
   ],
   "recommendations": [
     {
-      "title": "OpenAI 직접 실험 — 이게 진짜 되나?",
-      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
-      "angle": "큰 주제 하나를 대표 제목으로 세우고, 나머지 포인트는 보조 정보처럼 정리하는 압축형 포장이 좋습니다.",
-      "thumbnail_copy": "OpenAI 지금 봐야 함",
-      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
-      "source_video_id": "_Pd1G33_R48",
-      "source": "헤르메스 에이전트 5개로 뉴스 큐레이션부터 주식 매매까지 자동화한 방법 전부 공개합니다 (AI 엔지니어 샘 호트만님)",
-      "my_channel_context": "내 7일 평균 14.5K회 · 지속률 33.1% / 경쟁사 대비 +78%"
+      "title": "Claude vs ChatGPT, 일반인이 직접 써보니 이게 달랐다",
+      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
+      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
+      "thumbnail_copy": "Claude 핵심 3가지",
+      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
+      "source_video_id": "FO5zsDIY6Yc",
+      "source": "Testing the 2 BIGGEST AI Website Builders",
+      "my_channel_context": "내 7일 평균 10.7K회 · 지속률 32.4% / 경쟁사 대비 -39%"
     },
     {
-      "title": "OpenAI vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
-      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
-      "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
-      "thumbnail_copy": "OpenAI 바로 해결",
-      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
-      "source_video_id": "uNfkHpNfXow",
-      "source": "Unsloth's New Qwen Quants Just Dropped, And...",
-      "my_channel_context": "내 7일 평균 14.5K회 · 지속률 33.1% / 경쟁사 대비 +78%"
+      "title": "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
+      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
+      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
+      "thumbnail_copy": "Claude 핵심 3가지",
+      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
+      "source_video_id": "z5mbQUntZK4",
+      "source": "The 5 Things You NEED To Build with FABLE 5 (Before It's GONE)",
+      "my_channel_context": "내 7일 평균 10.7K회 · 지속률 32.4% / 경쟁사 대비 -39%"
     },
     {
-      "title": "OpenAI 써봤더니... (기대 vs 현실 솔직 후기)",
-      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
-      "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
-      "thumbnail_copy": "OpenAI 바로 해결",
-      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
-      "source_video_id": "MDy_b9F7oUc",
-      "source": "Complete Guide to ChatGPT 5.6 + Prompting Guide",
-      "my_channel_context": "내 7일 평균 14.5K회 · 지속률 33.1% / 경쟁사 대비 +78%"
+      "title": "AI 비서 대결: Claude가 진짜 강한 상황은 따로 있었다",
+      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
+      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
+      "thumbnail_copy": "Claude 바로 해결",
+      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
+      "source_video_id": "0yz23H5C4b4",
+      "source": "The 10 Rules of Claude Code Nobody Talks About",
+      "my_channel_context": "내 7일 평균 10.7K회 · 지속률 32.4% / 경쟁사 대비 -39%"
     }
   ],
   "topic_clusters": [
     {
-      "label": "OpenAI",
+      "label": "Claude",
       "count": 3,
-      "avg_view_count": 3376,
-      "avg_engagement_rate": 0.06901054184958481,
-      "avg_like_count": 179,
-      "avg_comment_count": 14,
+      "avg_view_count": 1121,
+      "avg_engagement_rate": 0.06815515252754246,
+      "avg_like_count": 40,
+      "avg_comment_count": 2,
       "source_titles": [
-        "헤르메스 에이전트 5개로 뉴스 큐레이션부터 주식 매매까지 자동화한 방법 전부 공개합니다 (AI 엔지니어 샘 호트만님)",
-        "Unsloth's New Qwen Quants Just Dropped, And...",
-        "Complete Guide to ChatGPT 5.6 + Prompting Guide"
+        "Testing the 2 BIGGEST AI Website Builders",
+        "The 5 Things You NEED To Build with FABLE 5 (Before It's GONE)",
+        "The 10 Rules of Claude Code Nobody Talks About"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/_Pd1G33_R48/hqdefault.jpg",
-      "representative_video_id": "_Pd1G33_R48",
-      "representative_title": "헤르메스 에이전트 5개로 뉴스 큐레이션부터 주식 매매까지 자동화한 방법 전부 공개합니다 (AI 엔지니어 샘 호트만님)"
+      "thumbnail_url": "https://i.ytimg.com/vi/FO5zsDIY6Yc/hqdefault.jpg",
+      "representative_video_id": "FO5zsDIY6Yc",
+      "representative_title": "Testing the 2 BIGGEST AI Website Builders"
     },
     {
-      "label": "Arc",
+      "label": "월가",
       "count": 1,
-      "avg_view_count": 26530,
-      "avg_engagement_rate": 0.0658876743309461,
-      "avg_like_count": 1626,
-      "avg_comment_count": 122,
+      "avg_view_count": 48847,
+      "avg_engagement_rate": 0.03740250168894712,
+      "avg_like_count": 1627,
+      "avg_comment_count": 200,
       "source_titles": [
-        "You’re Not Behind (Yet): How to Build Your First AI Agent (Full Guide)"
+        "월가 보고서 5개 종합 \"5가지 악재\" 반박합니다."
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/Bm84BAtOfQw/hqdefault.jpg",
-      "representative_video_id": "Bm84BAtOfQw",
-      "representative_title": "You’re Not Behind (Yet): How to Build Your First AI Agent (Full Guide)"
+      "thumbnail_url": "https://i.ytimg.com/vi/bf7WPr3LaTM/hqdefault.jpg",
+      "representative_video_id": "bf7WPr3LaTM",
+      "representative_title": "월가 보고서 5개 종합 \"5가지 악재\" 반박합니다."
     },
     {
-      "label": "트렌드의",
+      "label": "아이폰",
       "count": 1,
-      "avg_view_count": 25422,
-      "avg_engagement_rate": 0.024034300999134606,
-      "avg_like_count": 595,
+      "avg_view_count": 34880,
+      "avg_engagement_rate": 0.038073394495412846,
+      "avg_like_count": 778,
+      "avg_comment_count": 550,
+      "source_titles": [
+        "아이폰 떠나는 한국인들? 2026년 스마트폰 사용 현황"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/ridYU7rUTFs/hqdefault.jpg",
+      "representative_video_id": "ridYU7rUTFs",
+      "representative_title": "아이폰 떠나는 한국인들? 2026년 스마트폰 사용 현황"
+    },
+    {
+      "label": "이제",
+      "count": 1,
+      "avg_view_count": 34402,
+      "avg_engagement_rate": 0.021830126155456077,
+      "avg_like_count": 605,
+      "avg_comment_count": 146,
+      "source_titles": [
+        "이제 쉴드 불가?! 맥북 네오 가격 오르자마자 크게 보이는 단점들 (맥북네오 롱텀 후기)"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/_8YRjxBJlGc/hqdefault.jpg",
+      "representative_video_id": "_8YRjxBJlGc",
+      "representative_title": "이제 쉴드 불가?! 맥북 네오 가격 오르자마자 크게 보이는 단점들 (맥북네오 롱텀 후기)"
+    },
+    {
+      "label": "ChatGPT",
+      "count": 1,
+      "avg_view_count": 33938,
+      "avg_engagement_rate": 0.10548647533737993,
+      "avg_like_count": 3156,
+      "avg_comment_count": 424,
+      "source_titles": [
+        "AI is just a Yes Man - Comment YES MAN below for the fix"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/seISZnoASyY/hqdefault.jpg",
+      "representative_video_id": "seISZnoASyY",
+      "representative_title": "AI is just a Yes Man - Comment YES MAN below for the fix"
+    },
+    {
+      "label": "수상할",
+      "count": 1,
+      "avg_view_count": 11534,
+      "avg_engagement_rate": 0.010143922316629096,
+      "avg_like_count": 101,
       "avg_comment_count": 16,
       "source_titles": [
-        "AI 트렌드의 미래는..?"
+        "수상할 정도로 손이 빠른 로봇 등장"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/cVOjaTddVTc/hqdefault.jpg",
-      "representative_video_id": "cVOjaTddVTc",
-      "representative_title": "AI 트렌드의 미래는..?"
+      "thumbnail_url": "https://i.ytimg.com/vi/8MXA5gdDvfA/hqdefault.jpg",
+      "representative_video_id": "8MXA5gdDvfA",
+      "representative_title": "수상할 정도로 손이 빠른 로봇 등장"
     },
     {
-      "label": "대기업",
+      "label": "린나이코리아",
       "count": 1,
-      "avg_view_count": 7159,
-      "avg_engagement_rate": 0.010057270568515155,
-      "avg_like_count": 65,
-      "avg_comment_count": 7,
+      "avg_view_count": 9060,
+      "avg_engagement_rate": 0.009381898454746136,
+      "avg_like_count": 71,
+      "avg_comment_count": 14,
       "source_titles": [
-        "AI 대기업 대표들의 웅장한 싸움;;"
+        "린나이코리아 브랜드 필름 ｜ 일상을 채우는 세 가지 순간, Refresh · Recipe · Relax"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/AgZQAz2lQSU/hqdefault.jpg",
-      "representative_video_id": "AgZQAz2lQSU",
-      "representative_title": "AI 대기업 대표들의 웅장한 싸움;;"
+      "thumbnail_url": "https://i.ytimg.com/vi/b0lGLu3MnlI/hqdefault.jpg",
+      "representative_video_id": "b0lGLu3MnlI",
+      "representative_title": "린나이코리아 브랜드 필름 ｜ 일상을 채우는 세 가지 순간, Refresh · Recipe · Relax"
     },
     {
-      "label": "Gemini",
+      "label": "OpenAI",
       "count": 1,
-      "avg_view_count": 2800,
-      "avg_engagement_rate": 0.054285714285714284,
-      "avg_like_count": 146,
-      "avg_comment_count": 6,
+      "avg_view_count": 386,
+      "avg_engagement_rate": 0.04404145077720207,
+      "avg_like_count": 13,
+      "avg_comment_count": 4,
       "source_titles": [
-        "유료 결제 그만하세요, 진짜 무료인 AI 영상 툴 3개 공개"
+        "Codex Micro: Openai Just Dropped The First AI Keyboard!"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/WND3xGqmDqM/hqdefault.jpg",
-      "representative_video_id": "WND3xGqmDqM",
-      "representative_title": "유료 결제 그만하세요, 진짜 무료인 AI 영상 툴 3개 공개"
-    },
-    {
-      "label": "agents",
-      "count": 1,
-      "avg_view_count": 1104,
-      "avg_engagement_rate": 0.05253623188405797,
-      "avg_like_count": 50,
-      "avg_comment_count": 8,
-      "source_titles": [
-        "This GPT-5.6 Trading Bot Is CRUSHING Hyperliquid 24/7 (so far)"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/fKM-wCcawpc/hqdefault.jpg",
-      "representative_video_id": "fKM-wCcawpc",
-      "representative_title": "This GPT-5.6 Trading Bot Is CRUSHING Hyperliquid 24/7 (so far)"
-    },
-    {
-      "label": "Claude",
-      "count": 1,
-      "avg_view_count": 190,
-      "avg_engagement_rate": 0.06842105263157895,
-      "avg_like_count": 12,
-      "avg_comment_count": 1,
-      "source_titles": [
-        "총상금 1억원 코딩 몰라도 참가 가능한 미친 앱 대회"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/iIL70eoSPlM/hqdefault.jpg",
-      "representative_video_id": "iIL70eoSPlM",
-      "representative_title": "총상금 1억원 코딩 몰라도 참가 가능한 미친 앱 대회"
+      "thumbnail_url": "https://i.ytimg.com/vi/p2y6UbFV8Pg/hqdefault.jpg",
+      "representative_video_id": "p2y6UbFV8Pg",
+      "representative_title": "Codex Micro: Openai Just Dropped The First AI Keyboard!"
     }
   ],
   "video_highlights": [
     {
-      "video_id": "Bm84BAtOfQw",
+      "video_id": "bf7WPr3LaTM",
+      "channel_name": "월텍남 - 월스트리트 테크남",
+      "title": "월가 보고서 5개 종합 \"5가지 악재\" 반박합니다.",
+      "thumbnail_url": "https://i.ytimg.com/vi/bf7WPr3LaTM/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=bf7WPr3LaTM",
+      "published_at": "2026-07-16T10:18:59Z",
+      "view_count": 48847,
+      "like_count": 1627,
+      "comment_count": 200,
+      "engagement_rate": 0.03740250168894712,
+      "topic_cluster": "월가",
+      "summary": "반도체 급락은 실적 악화보다 과도한 포지션과 심리적 조정에 기인한 것이며, 빅테크의 CAPEX 전망과 데이터센터 건설 추이를 볼 때 메모리 산업의 근본적인 수요는…",
+      "comment_signal": "호재가 나와봐야 지금장은 돈 가진 블랙락이나 jp모건 물주가 내리기로 마음 먹었으면 내려질수밖에 없음 쩐주마음....",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "ridYU7rUTFs",
+      "channel_name": "테크몽 Techmong",
+      "title": "아이폰 떠나는 한국인들? 2026년 스마트폰 사용 현황",
+      "thumbnail_url": "https://i.ytimg.com/vi/ridYU7rUTFs/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=ridYU7rUTFs",
+      "published_at": "2026-07-16T10:27:12Z",
+      "view_count": 34880,
+      "like_count": 778,
+      "comment_count": 550,
+      "engagement_rate": 0.038073394495412846,
+      "topic_cluster": "아이폰",
+      "summary": "갤럽의 조사 데이터를 바탕으로 한국 내 갤럭시 사용 비중이 아이폰 대비 압도적으로 높음을 확인하며, 최근 스마트폰 시장의 변화와 사용 현황을 분석했다.",
+      "comment_signal": "학교에 근무하는데 확실히 요즘 아이들 갤럭시 비율이 높아졌어요. 각종 에듀테크 많이 사용하는 아이들이고 ai기능들 잘 사용합니다. 어떤 아이는 엄마랑 다른폰 쓰고싶어서 쓴…",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "_8YRjxBJlGc",
+      "channel_name": "주연 ZUYONI",
+      "title": "이제 쉴드 불가?! 맥북 네오 가격 오르자마자 크게 보이는 단점들 (맥북네오 롱텀 후기)",
+      "thumbnail_url": "https://i.ytimg.com/vi/_8YRjxBJlGc/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=_8YRjxBJlGc",
+      "published_at": "2026-07-16T10:00:39Z",
+      "view_count": 34402,
+      "like_count": 605,
+      "comment_count": 146,
+      "engagement_rate": 0.021830126155456077,
+      "topic_cluster": "이제",
+      "summary": "맥북 네오를 장기간 사용하며 성능 부족 등 여러 단점을 지적했다. 향후 확장성을 고려할 때 부족한 사양보다는 성능이 여유로운 맥북 에어를 구매하는 것이 합리적인 선…",
+      "comment_signal": "99만원이던 시절: 현존 최고의 가성비 119만원인 현재: 그돈씨",
+      "hook_type": "솔직 검증"
+    },
+    {
+      "video_id": "seISZnoASyY",
       "channel_name": "Dan Martell",
-      "title": "You’re Not Behind (Yet): How to Build Your First AI Agent (Full Guide)",
-      "thumbnail_url": "https://i.ytimg.com/vi/Bm84BAtOfQw/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=Bm84BAtOfQw",
-      "published_at": "2026-07-15T13:00:36Z",
-      "view_count": 26530,
-      "like_count": 1626,
-      "comment_count": 122,
-      "engagement_rate": 0.0658876743309461,
-      "topic_cluster": "Arc",
-      "summary": "비즈니스의 반복적인 작업을 자동화하기 위해 AI 에이전트를 구축하는 실전 가이드를 제공하며, 코딩 지식 없이도 매니저 에이전트와 서브 에이전트를 설계해 업무 생산성…",
-      "comment_signal": "Here's quick summary, so you know if it's worth watching: This video is a comprehensive guide o…",
-      "hook_type": "실험"
+      "title": "AI is just a Yes Man - Comment YES MAN below for the fix",
+      "thumbnail_url": "https://i.ytimg.com/vi/seISZnoASyY/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=seISZnoASyY",
+      "published_at": "2026-07-16T15:03:09Z",
+      "view_count": 33938,
+      "like_count": 3156,
+      "comment_count": 424,
+      "engagement_rate": 0.10548647533737993,
+      "topic_cluster": "ChatGPT",
+      "summary": "ChatGPT와 Claude 같은 AI가 사용자의 의견에 무조건 동조하는 'Yes Man' 성향을 보인다고 지적하며, 이를 방지하고 정확한 답변을 얻기 위한 프롬프…",
+      "comment_signal": "\"say 'you're wrong' and explain why\" to an LLM is a sure way of getting it to hallucinate and r…",
+      "hook_type": "문제 해결"
     },
     {
-      "video_id": "cVOjaTddVTc",
+      "video_id": "8MXA5gdDvfA",
       "channel_name": "조코딩 JoCoding",
-      "title": "AI 트렌드의 미래는..?",
-      "thumbnail_url": "https://i.ytimg.com/vi/cVOjaTddVTc/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=cVOjaTddVTc",
-      "published_at": "2026-07-15T07:00:02Z",
-      "view_count": 25422,
-      "like_count": 595,
+      "title": "수상할 정도로 손이 빠른 로봇 등장",
+      "thumbnail_url": "https://i.ytimg.com/vi/8MXA5gdDvfA/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=8MXA5gdDvfA",
+      "published_at": "2026-07-16T06:00:30Z",
+      "view_count": 11534,
+      "like_count": 101,
       "comment_count": 16,
-      "engagement_rate": 0.024034300999134606,
-      "topic_cluster": "트렌드의",
-      "summary": "AI 엔지니어링의 핵심 개념인 루프 엔지니어링을 다루며, 선 기반, 목표 기반, 시간 기반, 사전 예방적 루프 등 다양한 루프의 유형과 활용 방안을 소개한다.",
-      "comment_signal": "더 많은 토큰 쓰게하려는 빅테크의 수작임",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "AgZQAz2lQSU",
-      "channel_name": "조코딩 JoCoding",
-      "title": "AI 대기업 대표들의 웅장한 싸움;;",
-      "thumbnail_url": "https://i.ytimg.com/vi/AgZQAz2lQSU/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=AgZQAz2lQSU",
-      "published_at": "2026-07-15T09:00:05Z",
-      "view_count": 7159,
-      "like_count": 65,
-      "comment_count": 7,
-      "engagement_rate": 0.010057270568515155,
-      "topic_cluster": "대기업",
-      "summary": "일론 머스크와 샘 올트먼 등 AI 산업을 주도하는 주요 인물들 간의 경쟁 구도를 조명하며, 이들 간의 격렬한 대립과 시장 변화가 가져올 영향력을 분석한다.",
-      "comment_signal": "오늘도 평화로운 it나라",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "_Pd1G33_R48",
-      "channel_name": "빌더 조쉬 Builder Josh",
-      "title": "헤르메스 에이전트 5개로 뉴스 큐레이션부터 주식 매매까지 자동화한 방법 전부 공개합니다 (AI 엔지니어 샘 호트만님)",
-      "thumbnail_url": "https://i.ytimg.com/vi/_Pd1G33_R48/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=_Pd1G33_R48",
-      "published_at": "2026-07-15T09:24:49Z",
-      "view_count": 4706,
-      "like_count": 165,
-      "comment_count": 9,
-      "engagement_rate": 0.0369740756481088,
-      "topic_cluster": "OpenAI",
-      "summary": "샘 호트만은 헤르메스 에이전트의 장단기 기억 장치를 활용해 뉴스 큐레이션, 커뮤니티 관리, 주식 자동매매 등 1인 기업을 위한 개인화된 워크플로우 자동화 전략을 공…",
-      "comment_signal": "샘 알트만 거르고 샘 호트만 합시다",
-      "hook_type": "긴급성"
-    },
-    {
-      "video_id": "uNfkHpNfXow",
-      "channel_name": "The AI Automators",
-      "title": "Unsloth's New Qwen Quants Just Dropped, And...",
-      "thumbnail_url": "https://i.ytimg.com/vi/uNfkHpNfXow/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=uNfkHpNfXow",
-      "published_at": "2026-07-15T12:05:28Z",
-      "view_count": 3318,
-      "like_count": 119,
-      "comment_count": 10,
-      "engagement_rate": 0.03887884267631103,
-      "topic_cluster": "OpenAI",
-      "summary": "Unsloth에서 NVIDIA의 NVFP4 형식을 사용해 4비트 양자화된 Qwen3.6 모델을 출시했으며, 이를 통해 단일 GPU 환경에서도 훨씬 빠르고 효율적인…",
-      "comment_signal": "Amazing content. Thanks!",
-      "hook_type": "문제 해결"
+      "engagement_rate": 0.010143922316629096,
+      "topic_cluster": "수상할",
+      "summary": "사람처럼 자연스럽게 물건을 집거나 전구를 교체하는 등 정교한 작업이 가능한 휴머노이드 로봇의 움직임을 보여준다.",
+      "comment_signal": "'용도 외 사용금지'",
+      "hook_type": "시간 절약"
     }
   ]
 }
