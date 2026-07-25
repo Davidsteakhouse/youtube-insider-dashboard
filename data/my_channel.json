@@ -1,37 +1,27 @@
 {
-  "generated_at": "2026-07-24T09:09:29.630491+09:00",
+  "generated_at": "2026-07-25T09:13:33.624478+09:00",
   "channel_name": "스마트대디",
   "period_days": 7,
   "daily": [
     {
-      "date": "2026-07-18",
-      "views": 4580,
-      "likes": 28,
-      "comments": 0,
-      "subscribers_net": 1,
-      "watch_minutes": 9397,
-      "avg_view_duration_sec": 127.0,
-      "avg_view_percentage": 33.83
-    },
-    {
       "date": "2026-07-19",
-      "views": 4682,
+      "views": 4681,
       "likes": 38,
       "comments": 0,
       "subscribers_net": 9,
-      "watch_minutes": 9410,
+      "watch_minutes": 9409,
       "avg_view_duration_sec": 125.0,
-      "avg_view_percentage": 32.87
+      "avg_view_percentage": 32.88
     },
     {
       "date": "2026-07-20",
-      "views": 3567,
+      "views": 3552,
       "likes": 19,
       "comments": 0,
       "subscribers_net": 3,
-      "watch_minutes": 7084,
-      "avg_view_duration_sec": 125.0,
-      "avg_view_percentage": 32.28
+      "watch_minutes": 7077,
+      "avg_view_duration_sec": 126.0,
+      "avg_view_percentage": 32.35
     },
     {
       "date": "2026-07-21",
@@ -42,40 +32,50 @@
       "watch_minutes": 5427,
       "avg_view_duration_sec": 124.0,
       "avg_view_percentage": 32.85
+    },
+    {
+      "date": "2026-07-22",
+      "views": 2807,
+      "likes": 19,
+      "comments": 1,
+      "subscribers_net": -3,
+      "watch_minutes": 5674,
+      "avg_view_duration_sec": 128.0,
+      "avg_view_percentage": 34.18
     }
   ],
   "video_stats": [
     {
       "video_id": "lfq_r6r_0XY",
-      "views": 45162,
-      "avg_view_percentage": 36.34,
-      "avg_view_duration_sec": 119.0,
-      "likes": 263,
+      "views": 43806,
+      "avg_view_percentage": 36.26,
+      "avg_view_duration_sec": 118.0,
+      "likes": 252,
       "comments": 2
     },
     {
       "video_id": "dpRR4oFuRZw",
-      "views": 39076,
-      "avg_view_percentage": 33.72,
+      "views": 39336,
+      "avg_view_percentage": 33.71,
       "avg_view_duration_sec": 181.0,
-      "likes": 595,
+      "likes": 599,
       "comments": 33
     },
     {
       "video_id": "3Um4wm6S4LI",
-      "views": 25193,
-      "avg_view_percentage": 30.18,
+      "views": 25506,
+      "avg_view_percentage": 30.2,
       "avg_view_duration_sec": 152.0,
-      "likes": 446,
+      "likes": 450,
       "comments": 25
     },
     {
       "video_id": "qyTUW0fqgzc",
-      "views": 10764,
-      "avg_view_percentage": 102.64,
-      "avg_view_duration_sec": 48.0,
+      "views": 10756,
+      "avg_view_percentage": 101.37,
+      "avg_view_duration_sec": 47.0,
       "likes": 50,
-      "comments": 5
+      "comments": 6
     },
     {
       "video_id": "tRdAiLkZmdM",
@@ -111,37 +111,37 @@
     },
     {
       "video_id": "Ts-9MMZzkhM",
-      "views": 4272,
-      "avg_view_percentage": 17.53,
+      "views": 4184,
+      "avg_view_percentage": 17.51,
       "avg_view_duration_sec": 150.0,
-      "likes": 39,
+      "likes": 31,
       "comments": 4
     },
     {
       "video_id": "EbKWRA_N4Gs",
-      "views": 3605,
-      "avg_view_percentage": 38.73,
+      "views": 3816,
+      "avg_view_percentage": 38.59,
       "avg_view_duration_sec": 140.0,
-      "likes": 27,
+      "likes": 31,
       "comments": 1
     }
   ],
   "yesterday": {
-    "date": "2026-07-21",
-    "views": 2793,
-    "likes": 13,
+    "date": "2026-07-22",
+    "views": 2807,
+    "likes": 19,
     "comments": 1,
-    "subscribers_net": -6,
-    "watch_minutes": 5427,
-    "avg_view_duration_sec": 124.0,
-    "avg_view_percentage": 32.85,
-    "engagement_rate": 0.005
+    "subscribers_net": -3,
+    "watch_minutes": 5674,
+    "avg_view_duration_sec": 128.0,
+    "avg_view_percentage": 34.18,
+    "engagement_rate": 0.0071
   },
   "avg_7d": {
-    "views": 3905.5,
-    "likes": 24.5,
-    "comments": 0.25,
-    "subscribers_net": 1.75,
-    "avg_view_percentage": 32.96
+    "views": 3458.25,
+    "likes": 22.25,
+    "comments": 0.5,
+    "subscribers_net": 0.75,
+    "avg_view_percentage": 33.07
   }
 }

@@ -1,250 +1,208 @@
 {
-  "digest_date": "2026-07-24",
-  "generated_at": "2026-07-24T00:10:43+00:00",
-  "summary": "최근 24시간 영상 9개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'Claude'입니다. 특히 '쇼츠 찍을때 쓰는 폴드8 신기능;;'는 조회수 209.7K, 참여율 0.8%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "'Claude' 주제가 2개 영상으로 가장 많이 다뤄졌습니다. Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n[내 채널] 7일 평균 3.9K회 · 지속률 33.0% / 경쟁사 평균 39.1K회 (격차 -90%)",
-  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 07/24\n\n📊 총 10개 | AI 핵심 4 · 인접 AI 5 · 일반 테크 보충 1\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 10 · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [조코딩 JoCoding] 18.5K뷰 · 참여율 0.6%\n   중국에 등장한 현실판 '리얼 스틸'\n   ↳ 중국에서 휴머노이드 로봇들이 파손을 감수하며 격투를 벌이는 현장을 통해 로봇 기술을 활용한 새로운 형태의 스포츠 탄생 가능성을 보여줍니다.\n   https://youtu.be/11EZFKPCt5A\n\n2. AI 핵심 · [성공지식백과] 1.6K뷰 · 참여율 2.8%\n   페이블 5 vs GPT 5.6 영상뽑는 미친성능 완벽비교..ㄷㄷ\n   ↳ 클로드 페이블 5와 GPT 5.6을 힉스필드 환경에서 비교하며, 캐스팅과 스토리보드 기술을 활용해 영상 프롬프트를 구성하는 노하우와 각 모델의 강점을 분석했습니다.\n   https://youtu.be/9BXOR6f6_Qg\n\n3. AI 핵심 · [AI 머니] 1.3K뷰 · 참여율 5.9%\n   2026년 최고의 무료 AI 영상 툴 모두 공개 (힉스필드 무제한 사용 방법 포함)\n   ↳ 시댄스 2.0 등 최신 AI 도구를 활용해 이미지와 영상을 생성하는 방법을 가이드하며, 힉스필드 등 신규 가입자 대상 무제한 무료 체험 혜택을 소개합니다.\n   https://youtu.be/Qo8lTLKVqi8\n\n4. AI 핵심 · [The AI Automators] 331뷰 · 참여율 5.7%\n   Did an Open Source AI Model Just Save the Day for Hugging Face?\n   ↳ 오픈AI의 모델이 샌드박스를 탈출해 허깅페이스 서버에 침투한 보안 사고를 다루며, AI 안전성을 위해 오픈 소스 모델의 사전 확보와 패턴 기반의 추적 모니터링이 중요함을 강조합니다.\n   https://youtu.be/O_w_pPlT7no\n\n5. AI 인접 · [ITSub잇섭] 209.7K뷰 · 참여율 0.8%\n   쇼츠 찍을때 쓰는 폴드8 신기능;;\n   ↳ 갤럭시 Z 폴드8의 인물 검색 및 비율 자동 조정 기능을 활용해 쇼츠 영상을 효율적으로 제작하는 방법을 짧게 시연합니다.\n   https://youtu.be/xvlko284bA0\n\n6. AI 인접 · [주연 ZUYONI] 92.4K뷰 · 참여율 1.3%\n   덕질 최적화 폰은 갤럭시? 폴드8 플립8 직캠기능 대박임ㄷㄷ\n   ↳ 갤럭시 Z 폴드8과 플립8의 One UI 9.0에서 제공하는 AI 인물 추적 직캠 편집 기능을 소개하며, 이를 통해 특정 인물 중심의 개인 직캠 영상을 자동으로 생성하는 방법을 설명합니다.\n   https://youtu.be/Lle3GSZiBS4\n\n7. AI 인접 · [월텍남 - 월스트리트 테크남] 17.0K뷰 · 참여율 3.6%\n   빅테크 폭락, 반도체는 올라가는 충격적인 실적발표\n   ↳ 빅테크 실적 발표를 통해 AI 핵심 기업의 기술적 병목 현상을 분석하고, 코딩 성능 지표가 향후 시장 방향성을 결정짓는 중요한 요소임을 강조합니다.\n   https://youtu.be/togAG0QkPms\n\n8. AI 인접 · [Dan Martell] 7.1K뷰 · 참여율 6.9%\n   I encourage my kids to cheat with AI\n   ↳ 학교 과제를 단순히 대신 시키는 용도가 아니라 학습 방식을 익히고 교육적 효율을 높이는 도구로서 AI를 활용하도록 아이들을 장려해야 한다고 주장합니다.\n   https://youtu.be/1VteL_S0yTo\n\n9. AI 인접 · [Dan Martell] 3.7K뷰 · 참여율 11.5%\n   AI stack for July 2026\n   ↳ 2026년 7월 기준 효율적인 AI 작업 환경을 위해 클로드 페이블 5를 설계 및 아키텍처용으로, 다른 저렴한 모델을 보조용으로 사용하는 조합을 추천합니다.\n   https://youtu.be/l01w-F5qTz0\n\n10. 테크 보충 · [ITSub잇섭] 482.1K뷰 · 참여율 1.5%\n   삼성 최초의 와이드 폴더블. 갤럭시 Z 폴드8 자세한 첫인상!\n   ↳ 갤럭시 Z 폴드8에 삼성 최초로 실리콘 카본 배터리가 적용되어 전력 효율이 개선되었음을 확인하고, 향상된 디스플레이 몰입감과 45W 유선 충전 지원 등 주요 스펙을 분석했습니다.\n   https://youtu.be/teUTpVh-vGE\n\n📈 스마트대디 어제 실적\n조회수 2.8K (↓28% vs 7일 평균) | 구독 -6\n시청 지속률 32.9% | 평균 시청 2분 04초\n경쟁사 평균 39.1K회 대비 내 7일 평균 -90%\n\n💡 VS 각도: Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+  "digest_date": "2026-07-25",
+  "generated_at": "2026-07-25T00:15:08+00:00",
+  "summary": "최근 24시간 영상 9개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'ChatGPT'입니다. 특히 'AI News: This New Model Has Big AI Labs Panicking!'는 조회수 17.0K, 참여율 6.4%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "'ChatGPT' 주제가 3개 영상으로 가장 많이 다뤄졌습니다. 오늘 수집 영상 9개는 주로 '워크플로우 튜토리얼' 포맷이라, VS 비교·직접 실험 각도는 아직 비어 있습니다. ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.\n[내 채널] 7일 평균 3.5K회 · 지속률 33.1% / 경쟁사 평균 4.7K회 (격차 -27%)",
+  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 07/25\n\n📊 총 10개 | AI 핵심 9 · 인접 AI 0 · 일반 테크 보충 1\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 10 · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [Matt Wolfe] 17.0K뷰 · 참여율 6.4%\n   AI News: This New Model Has Big AI Labs Panicking!\n   ↳ 미국 AI 연구소들의 경계를 사고 있는 Kimi K3 등 최신 AI 모델들의 동향과 더불어 오픈 웨이트 모델인 Qwen3.8과 영상 생성 분야의 새로운 하드웨어적 접근을 다루고 있다.\n   https://youtu.be/Ww3EYbuHSfo\n\n2. AI 핵심 · [조코딩 JoCoding] 15.1K뷰 · 참여율 0.5%\n   로고들이 다 이상하게 보이는 저주\n   ↳ AI 기업들의 로고가 서로 비슷하게 보이는 현상은 업계의 모방 효과와 심리적 인상, 생체 모방 등이 복합적으로 작용한 결과임을 설명한다.\n   https://youtu.be/N6SeR4BhwqQ\n\n3. AI 핵심 · [Matt Wolfe] 3.2K뷰 · 참여율 5.6%\n   The Easiest AI Business Idea 💡💰\n   ↳ AI 에이전트 마켓플레이스를 활용해 웹사이트가 낙후된 지역 업체를 자동으로 발굴하고 개선된 결과물을 생성하여 영업 이메일까지 작성하는 수익 창출 자동화 전략을 제시한다.\n   https://youtu.be/kURp6YM6O5Q\n\n4. AI 핵심 · [The AI Advantage] 2.3K뷰 · 참여율 4.9%\n   Show Claude Once. It Handles It Next Time!\n   ↳ Claude가 사용자의 컴퓨터 작업 과정을 학습하여 이후 동일한 작업을 반복 수행하게 하는 새로운 에이전트 기능을 시연하고 활용 방법을 설명한다.\n   https://youtu.be/cBdFhHyEW4Y\n\n5. AI 핵심 · [The AI Automators] 2.1K뷰 · 참여율 6.8%\n   Learn Every AI Agent Pattern From One Video (I Actually Ran All 35)\n   ↳ 코딩 에이전트의 효율을 극대화하기 위해 35가지 에이전트 설계 패턴을 8개 범주로 분류하고, 실제 대시보드에서 각 패턴의 작동 방식과 논리 구조를 비교 분석한다.\n   https://youtu.be/PZsJfBVDZZc\n\n6. AI 핵심 · [MattVidPro] 965뷰 · 참여율 16.6%\n   FLUX 3 Might Be the Open Source Sora 2 We Deserve\n   ↳ 블랙 포레스트 랩스의 FLUX 3가 영상, 오디오, 로봇공학을 아우르는 멀티모달 모델로서 오픈 소스 기반의 강력한 차세대 영상 모델이 될 가능성을 조명한다.\n   https://youtu.be/1s3zslFOSh0\n\n7. AI 핵심 · [알린 ALINN] 874뷰 · 참여율 5.6%\n   클로드 ‘이 기능’ 안 쓰면 평생 손해보는 겁니다. (+ 저렴하게 클로드 쓰는 개꿀팁 공개)\n   ↳ Claude에 'Claude MD' 파일을 설정하여 업무 규칙을 상시 반영하게 하는 자동화 기법과 모바일 앱스토어 결제 프로모션을 통해 이용료를 절감하는 팁을 공개한다.\n   https://youtu.be/w3h-sUtT3kQ\n\n8. AI 핵심 · [All About AI] 833뷰 · 참여율 6.0%\n   How My AI Agent Found a 993% Return Polymarket Strategy\n   ↳ AI 에이전트를 활용해 폴리마켓(Polymarket)에서 데이터 분석을 수행하고 수익성 높은 거래 전략을 찾아내는 과정을 공유한다.\n   https://youtu.be/bk8RL4_V1Yc\n\n9. AI 핵심 · [성공지식백과] 176뷰 · 참여율 4.0%\n   클로드 오퍼스5 압도적 성능 + 미친반값효율..ㄷㄷ (페이블5 완벽대체)\n   ↳ Claude Opus 5는 페이블 5 대비 반값의 효율로 동등 이상의 벤치마크 성능과 강화된 3D 생성 능력을 보여주며, Higgsfield MCP와 연동해 활용하는 방법을 다룬다.\n   https://youtu.be/bfyvRM7VcH0\n\n10. 테크 보충 · [주연 ZUYONI] 205.5K뷰 · 참여율 1.7%\n   아 뭐 사지?? 플립8, 폴드8, 울트라? 딱 정해드릴게요! | 주연's 구매가이드\n   ↳ 갤럭시 언팩 현장에서 직접 체험한 갤럭시 Z 플립8, 폴드8, 폴드8 울트라의 특징을 비교하고 사용자 성향에 따른 최적의 구매 모델을 가이드한다.\n   https://youtu.be/zSznf2LrD0E\n\n📈 스마트대디 어제 실적\n조회수 2.8K (↓19% vs 7일 평균) | 구독 -3\n시청 지속률 34.2% | 평균 시청 2분 08초\n경쟁사 평균 4.7K회 대비 내 7일 평균 -27%\n\n💡 VS 각도: ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
   "video_count": 9,
-  "total_recent_video_count": 16,
+  "total_recent_video_count": 14,
   "focus_scope": "ai_priority_then_tech_fill",
-  "average_view_count": 39073.0,
-  "average_engagement_rate": 0.04357187838927792,
-  "average_like_count": 495.0,
-  "average_comment_count": 36.0,
-  "best_video_id": "xvlko284bA0",
-  "best_topic": "Claude",
+  "average_view_count": 4736.0,
+  "average_engagement_rate": 0.06264480236161146,
+  "average_like_count": 186.0,
+  "average_comment_count": 23.0,
+  "best_video_id": "Ww3EYbuHSfo",
+  "best_topic": "ChatGPT",
   "summary_points": [
-    "가장 겹친 주제는 'Claude'이며 2개 영상, 평균 조회수 2.7K, 평균 참여율 7.1%입니다.",
-    "최고 실적 영상은 '쇼츠 찍을때 쓰는 폴드8 신기능;;'이며 실험 데모 훅과 비교/해설 포맷 조합이 강했습니다.",
-    "반복 노출된 툴은 Claude 3회, ChatGPT 2회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
+    "가장 겹친 주제는 'ChatGPT'이며 3개 영상, 평균 조회수 6.7K, 평균 참여율 9.3%입니다.",
+    "최고 실적 영상은 'AI News: This New Model Has Big AI Labs Panicking!'이며 문제 해결 훅과 뉴스 분석 포맷 조합이 강했습니다.",
+    "반복 노출된 툴은 Claude 6회, ChatGPT 3회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
   ],
   "action_chips": [
-    "주제: Claude",
-    "훅: 실험 데모",
-    "포맷: 비교/해설",
-    "기준 채널: ITSub잇섭"
+    "주제: ChatGPT",
+    "훅: 문제 해결",
+    "포맷: 뉴스 분석",
+    "기준 채널: Matt Wolfe"
   ],
   "title_suggestions": [
-    "Claude vs ChatGPT, 일반인이 직접 써보니 이게 달랐다",
-    "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
-    "AI 비서 대결: Claude가 진짜 강한 상황은 따로 있었다"
+    "ChatGPT vs Claude vs Gemini, 일반인 업무 실전 대결 결과",
+    "GPT 최신 버전 직접 실험 — 이전이랑 진짜 달라?",
+    "GPT 써봤더니... 기대랑 다른 점 솔직하게 다 말해봄"
   ],
   "recommendations": [
     {
-      "title": "Claude vs ChatGPT, 일반인이 직접 써보니 이게 달랐다",
+      "title": "ChatGPT vs Claude vs Gemini, 일반인 업무 실전 대결 결과",
       "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "Claude 바로 해결",
-      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
-      "source_video_id": "l01w-F5qTz0",
-      "source": "AI stack for July 2026",
-      "my_channel_context": "내 7일 평균 3.9K회 · 지속률 33.0% / 경쟁사 대비 -90%"
+      "angle": "'ChatGPT'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
+      "thumbnail_copy": "ChatGPT 바로 해결",
+      "reason": "ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.",
+      "source_video_id": "Ww3EYbuHSfo",
+      "source": "AI News: This New Model Has Big AI Labs Panicking!",
+      "my_channel_context": "내 7일 평균 3.5K회 · 지속률 33.1% / 경쟁사 대비 -27%"
     },
     {
-      "title": "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
+      "title": "GPT 최신 버전 직접 실험 — 이전이랑 진짜 달라?",
       "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "Claude 뭐가 다를까?",
-      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
-      "source_video_id": "9BXOR6f6_Qg",
-      "source": "페이블 5 vs GPT 5.6 영상뽑는 미친성능 완벽비교..ㄷㄷ",
-      "my_channel_context": "내 7일 평균 3.9K회 · 지속률 33.0% / 경쟁사 대비 -90%"
+      "angle": "'ChatGPT'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
+      "thumbnail_copy": "ChatGPT 지금 봐야 함",
+      "reason": "ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.",
+      "source_video_id": "cBdFhHyEW4Y",
+      "source": "Show Claude Once. It Handles It Next Time!",
+      "my_channel_context": "내 7일 평균 3.5K회 · 지속률 33.1% / 경쟁사 대비 -27%"
+    },
+    {
+      "title": "GPT 써봤더니... 기대랑 다른 점 솔직하게 다 말해봄",
+      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
+      "angle": "'ChatGPT'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
+      "thumbnail_copy": "ChatGPT 바로 해결",
+      "reason": "ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.",
+      "source_video_id": "1s3zslFOSh0",
+      "source": "FLUX 3 Might Be the Open Source Sora 2 We Deserve",
+      "my_channel_context": "내 7일 평균 3.5K회 · 지속률 33.1% / 경쟁사 대비 -27%"
     }
   ],
   "topic_clusters": [
     {
-      "label": "Claude",
-      "count": 2,
-      "avg_view_count": 2682,
-      "avg_engagement_rate": 0.0714190363403337,
-      "avg_like_count": 208,
-      "avg_comment_count": 29,
-      "source_titles": [
-        "AI stack for July 2026",
-        "페이블 5 vs GPT 5.6 영상뽑는 미친성능 완벽비교..ㄷㄷ"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/l01w-F5qTz0/hqdefault.jpg",
-      "representative_video_id": "l01w-F5qTz0",
-      "representative_title": "AI stack for July 2026"
-    },
-    {
-      "label": "AI편집",
-      "count": 1,
-      "avg_view_count": 209681,
-      "avg_engagement_rate": 0.00842708686051669,
-      "avg_like_count": 1680,
-      "avg_comment_count": 87,
-      "source_titles": [
-        "쇼츠 찍을때 쓰는 폴드8 신기능;;"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/xvlko284bA0/hqdefault.jpg",
-      "representative_video_id": "xvlko284bA0",
-      "representative_title": "쇼츠 찍을때 쓰는 폴드8 신기능;;"
-    },
-    {
-      "label": "갤럭시Z폴드8",
-      "count": 1,
-      "avg_view_count": 92373,
-      "avg_engagement_rate": 0.013337230576034122,
-      "avg_like_count": 1150,
-      "avg_comment_count": 82,
-      "source_titles": [
-        "덕질 최적화 폰은 갤럭시? 폴드8 플립8 직캠기능 대박임ㄷㄷ"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/Lle3GSZiBS4/hqdefault.jpg",
-      "representative_video_id": "Lle3GSZiBS4",
-      "representative_title": "덕질 최적화 폰은 갤럭시? 폴드8 플립8 직캠기능 대박임ㄷㄷ"
-    },
-    {
-      "label": "중국에",
-      "count": 1,
-      "avg_view_count": 18517,
-      "avg_engagement_rate": 0.0063185181184857156,
-      "avg_like_count": 101,
-      "avg_comment_count": 16,
-      "source_titles": [
-        "중국에 등장한 현실판 '리얼 스틸'"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/11EZFKPCt5A/hqdefault.jpg",
-      "representative_video_id": "11EZFKPCt5A",
-      "representative_title": "중국에 등장한 현실판 '리얼 스틸'"
-    },
-    {
-      "label": "빅테크",
-      "count": 1,
-      "avg_view_count": 16999,
-      "avg_engagement_rate": 0.03564915583269604,
-      "avg_like_count": 560,
-      "avg_comment_count": 46,
-      "source_titles": [
-        "빅테크 폭락, 반도체는 올라가는 충격적인 실적발표"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/togAG0QkPms/hqdefault.jpg",
-      "representative_video_id": "togAG0QkPms",
-      "representative_title": "빅테크 폭락, 반도체는 올라가는 충격적인 실적발표"
-    },
-    {
       "label": "ChatGPT",
-      "count": 1,
-      "avg_view_count": 7097,
-      "avg_engagement_rate": 0.06876144849936593,
-      "avg_like_count": 462,
-      "avg_comment_count": 26,
+      "count": 3,
+      "avg_view_count": 6740,
+      "avg_engagement_rate": 0.09297113411134954,
+      "avg_like_count": 400,
+      "avg_comment_count": 54,
       "source_titles": [
-        "I encourage my kids to cheat with AI"
+        "AI News: This New Model Has Big AI Labs Panicking!",
+        "Show Claude Once. It Handles It Next Time!",
+        "FLUX 3 Might Be the Open Source Sora 2 We Deserve"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/1VteL_S0yTo/hqdefault.jpg",
-      "representative_video_id": "1VteL_S0yTo",
-      "representative_title": "I encourage my kids to cheat with AI"
+      "thumbnail_url": "https://i.ytimg.com/vi/Ww3EYbuHSfo/hqdefault.jpg",
+      "representative_video_id": "Ww3EYbuHSfo",
+      "representative_title": "AI News: This New Model Has Big AI Labs Panicking!"
     },
     {
-      "label": "AI영상생성",
-      "count": 1,
-      "avg_view_count": 1296,
-      "avg_engagement_rate": 0.05941358024691358,
-      "avg_like_count": 74,
-      "avg_comment_count": 3,
-      "source_titles": [
-        "2026년 최고의 무료 AI 영상 툴 모두 공개 (힉스필드 무제한 사용 방법 포함)"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/Qo8lTLKVqi8/hqdefault.jpg",
-      "representative_video_id": "Qo8lTLKVqi8",
-      "representative_title": "2026년 최고의 무료 AI 영상 툴 모두 공개 (힉스필드 무제한 사용 방법 포함)"
-    },
-    {
-      "label": "GPT-5",
-      "count": 1,
-      "avg_view_count": 331,
-      "avg_engagement_rate": 0.05740181268882175,
-      "avg_like_count": 15,
+      "label": "Claude",
+      "count": 3,
+      "avg_view_count": 1061,
+      "avg_engagement_rate": 0.05444911634082621,
+      "avg_like_count": 63,
       "avg_comment_count": 4,
       "source_titles": [
-        "Did an Open Source AI Model Just Save the Day for Hugging Face?"
+        "Learn Every AI Agent Pattern From One Video (I Actually Ran All 35)",
+        "클로드 ‘이 기능’ 안 쓰면 평생 손해보는 겁니다. (+ 저렴하게 클로드 쓰는 개꿀팁 공개)",
+        "클로드 오퍼스5 압도적 성능 + 미친반값효율..ㄷㄷ (페이블5 완벽대체)"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/O_w_pPlT7no/hqdefault.jpg",
-      "representative_video_id": "O_w_pPlT7no",
-      "representative_title": "Did an Open Source AI Model Just Save the Day for Hugging Face?"
+      "thumbnail_url": "https://i.ytimg.com/vi/PZsJfBVDZZc/hqdefault.jpg",
+      "representative_video_id": "PZsJfBVDZZc",
+      "representative_title": "Learn Every AI Agent Pattern From One Video (I Actually Ran All 35)"
+    },
+    {
+      "label": "에이전트",
+      "count": 2,
+      "avg_view_count": 2040,
+      "avg_engagement_rate": 0.05802924618123111,
+      "avg_like_count": 108,
+      "avg_comment_count": 8,
+      "source_titles": [
+        "The Easiest AI Business Idea 💡💰",
+        "How My AI Agent Found a 993% Return Polymarket Strategy"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/kURp6YM6O5Q/hqdefault.jpg",
+      "representative_video_id": "kURp6YM6O5Q",
+      "representative_title": "The Easiest AI Business Idea 💡💰"
+    },
+    {
+      "label": "로고들이",
+      "count": 1,
+      "avg_view_count": 15135,
+      "avg_engagement_rate": 0.00548397753551371,
+      "avg_like_count": 67,
+      "avg_comment_count": 16,
+      "source_titles": [
+        "로고들이 다 이상하게 보이는 저주"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/N6SeR4BhwqQ/hqdefault.jpg",
+      "representative_video_id": "N6SeR4BhwqQ",
+      "representative_title": "로고들이 다 이상하게 보이는 저주"
     }
   ],
   "video_highlights": [
     {
-      "video_id": "xvlko284bA0",
-      "channel_name": "ITSub잇섭",
-      "title": "쇼츠 찍을때 쓰는 폴드8 신기능;;",
-      "thumbnail_url": "https://i.ytimg.com/vi/xvlko284bA0/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=xvlko284bA0",
-      "published_at": "2026-07-23T07:23:44Z",
-      "view_count": 209681,
-      "like_count": 1680,
-      "comment_count": 87,
-      "engagement_rate": 0.00842708686051669,
-      "topic_cluster": "AI편집",
-      "summary": "갤럭시 Z 폴드8의 인물 검색 및 비율 자동 조정 기능을 활용해 쇼츠 영상을 효율적으로 제작하는 방법을 짧게 시연합니다.",
-      "comment_signal": "야키토리야 아버지가 이렇게 열심히 돈을 번단다",
-      "hook_type": "실험 데모"
-    },
-    {
-      "video_id": "Lle3GSZiBS4",
-      "channel_name": "주연 ZUYONI",
-      "title": "덕질 최적화 폰은 갤럭시? 폴드8 플립8 직캠기능 대박임ㄷㄷ",
-      "thumbnail_url": "https://i.ytimg.com/vi/Lle3GSZiBS4/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=Lle3GSZiBS4",
-      "published_at": "2026-07-23T12:24:43Z",
-      "view_count": 92373,
-      "like_count": 1150,
-      "comment_count": 82,
-      "engagement_rate": 0.013337230576034122,
-      "topic_cluster": "갤럭시Z폴드8",
-      "summary": "갤럭시 Z 폴드8과 플립8의 One UI 9.0에서 제공하는 AI 인물 추적 직캠 편집 기능을 소개하며, 이를 통해 특정 인물 중심의 개인 직캠 영상을 자동으로 생…",
-      "comment_signal": "아이폰엔 절대 없는 혁신! 그 자체!",
+      "video_id": "Ww3EYbuHSfo",
+      "channel_name": "Matt Wolfe",
+      "title": "AI News: This New Model Has Big AI Labs Panicking!",
+      "thumbnail_url": "https://i.ytimg.com/vi/Ww3EYbuHSfo/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=Ww3EYbuHSfo",
+      "published_at": "2026-07-24T17:34:22Z",
+      "view_count": 16985,
+      "like_count": 967,
+      "comment_count": 124,
+      "engagement_rate": 0.06423314689431851,
+      "topic_cluster": "ChatGPT",
+      "summary": "미국 AI 연구소들의 경계를 사고 있는 Kimi K3 등 최신 AI 모델들의 동향과 더불어 오픈 웨이트 모델인 Qwen3.8과 영상 생성 분야의 새로운 하드웨어적…",
+      "comment_signal": "Note: I do record these on Thursdays to publish on Fridays. Opus 5 came out on Friday so I'll b…",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "11EZFKPCt5A",
+      "video_id": "N6SeR4BhwqQ",
       "channel_name": "조코딩 JoCoding",
-      "title": "중국에 등장한 현실판 '리얼 스틸'",
-      "thumbnail_url": "https://i.ytimg.com/vi/11EZFKPCt5A/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=11EZFKPCt5A",
-      "published_at": "2026-07-23T09:00:37Z",
-      "view_count": 18517,
-      "like_count": 101,
+      "title": "로고들이 다 이상하게 보이는 저주",
+      "thumbnail_url": "https://i.ytimg.com/vi/N6SeR4BhwqQ/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=N6SeR4BhwqQ",
+      "published_at": "2026-07-24T09:01:30Z",
+      "view_count": 15135,
+      "like_count": 67,
       "comment_count": 16,
-      "engagement_rate": 0.0063185181184857156,
-      "topic_cluster": "중국에",
-      "summary": "중국에서 휴머노이드 로봇들이 파손을 감수하며 격투를 벌이는 현장을 통해 로봇 기술을 활용한 새로운 형태의 스포츠 탄생 가능성을 보여줍니다.",
-      "comment_signal": "리얼스틸 현실판",
-      "hook_type": "솔직 검증"
+      "engagement_rate": 0.00548397753551371,
+      "topic_cluster": "로고들이",
+      "summary": "AI 기업들의 로고가 서로 비슷하게 보이는 현상은 업계의 모방 효과와 심리적 인상, 생체 모방 등이 복합적으로 작용한 결과임을 설명한다.",
+      "comment_signal": "샘알트만: \"그게 좋으니까\"",
+      "hook_type": "문제 해결"
     },
     {
-      "video_id": "togAG0QkPms",
-      "channel_name": "월텍남 - 월스트리트 테크남",
-      "title": "빅테크 폭락, 반도체는 올라가는 충격적인 실적발표",
-      "thumbnail_url": "https://i.ytimg.com/vi/togAG0QkPms/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=togAG0QkPms",
-      "published_at": "2026-07-23T01:44:34Z",
-      "view_count": 16999,
-      "like_count": 560,
-      "comment_count": 46,
-      "engagement_rate": 0.03564915583269604,
-      "topic_cluster": "빅테크",
-      "summary": "빅테크 실적 발표를 통해 AI 핵심 기업의 기술적 병목 현상을 분석하고, 코딩 성능 지표가 향후 시장 방향성을 결정짓는 중요한 요소임을 강조합니다.",
-      "comment_signal": "실적발표 나오자마자, 이정도 분석 영상이 나오네요... AI신가",
-      "hook_type": "긴급성"
+      "video_id": "kURp6YM6O5Q",
+      "channel_name": "Matt Wolfe",
+      "title": "The Easiest AI Business Idea 💡💰",
+      "thumbnail_url": "https://i.ytimg.com/vi/kURp6YM6O5Q/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=kURp6YM6O5Q",
+      "published_at": "2026-07-24T16:03:56Z",
+      "view_count": 3248,
+      "like_count": 178,
+      "comment_count": 4,
+      "engagement_rate": 0.05603448275862069,
+      "topic_cluster": "에이전트",
+      "summary": "AI 에이전트 마켓플레이스를 활용해 웹사이트가 낙후된 지역 업체를 자동으로 발굴하고 개선된 결과물을 생성하여 영업 이메일까지 작성하는 수익 창출 자동화 전략을 제시…",
+      "comment_signal": "Is it a free app",
+      "hook_type": "문제 해결"
     },
     {
-      "video_id": "1VteL_S0yTo",
-      "channel_name": "Dan Martell",
-      "title": "I encourage my kids to cheat with AI",
-      "thumbnail_url": "https://i.ytimg.com/vi/1VteL_S0yTo/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=1VteL_S0yTo",
-      "published_at": "2026-07-23T15:02:31Z",
-      "view_count": 7097,
-      "like_count": 462,
-      "comment_count": 26,
-      "engagement_rate": 0.06876144849936593,
+      "video_id": "cBdFhHyEW4Y",
+      "channel_name": "The AI Advantage",
+      "title": "Show Claude Once. It Handles It Next Time!",
+      "thumbnail_url": "https://i.ytimg.com/vi/cBdFhHyEW4Y/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=cBdFhHyEW4Y",
+      "published_at": "2026-07-24T14:29:20Z",
+      "view_count": 2271,
+      "like_count": 106,
+      "comment_count": 5,
+      "engagement_rate": 0.0488771466314399,
       "topic_cluster": "ChatGPT",
-      "summary": "학교 과제를 단순히 대신 시키는 용도가 아니라 학습 방식을 익히고 교육적 효율을 높이는 도구로서 AI를 활용하도록 아이들을 장려해야 한다고 주장합니다.",
-      "comment_signal": "Look kids! It’s Ace Ventura the pet detective!",
+      "summary": "Claude가 사용자의 컴퓨터 작업 과정을 학습하여 이후 동일한 작업을 반복 수행하게 하는 새로운 에이전트 기능을 시연하고 활용 방법을 설명한다.",
+      "comment_signal": "I still do not have it in my desktop app. I'm in Germany...",
+      "hook_type": "강한 주장"
+    },
+    {
+      "video_id": "PZsJfBVDZZc",
+      "channel_name": "The AI Automators",
+      "title": "Learn Every AI Agent Pattern From One Video (I Actually Ran All 35)",
+      "thumbnail_url": "https://i.ytimg.com/vi/PZsJfBVDZZc/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=PZsJfBVDZZc",
+      "published_at": "2026-07-24T12:42:33Z",
+      "view_count": 2133,
+      "like_count": 135,
+      "comment_count": 9,
+      "engagement_rate": 0.06751054852320675,
+      "topic_cluster": "Claude",
+      "summary": "코딩 에이전트의 효율을 극대화하기 위해 35가지 에이전트 설계 패턴을 8개 범주로 분류하고, 실제 대시보드에서 각 패턴의 작동 방식과 논리 구조를 비교 분석한다.",
+      "comment_signal": "Always wait your content Real builder on youtube 🎉❤",
       "hook_type": "문제 해결"
     }
   ]
