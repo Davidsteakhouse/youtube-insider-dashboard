@@ -1,28 +1,28 @@
 {
-  "digest_date": "2026-07-25",
-  "generated_at": "2026-07-25T00:15:08+00:00",
-  "summary": "최근 24시간 영상 9개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'ChatGPT'입니다. 특히 'AI News: This New Model Has Big AI Labs Panicking!'는 조회수 17.0K, 참여율 6.4%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "'ChatGPT' 주제가 3개 영상으로 가장 많이 다뤄졌습니다. 오늘 수집 영상 9개는 주로 '워크플로우 튜토리얼' 포맷이라, VS 비교·직접 실험 각도는 아직 비어 있습니다. ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.\n[내 채널] 7일 평균 3.5K회 · 지속률 33.1% / 경쟁사 평균 4.7K회 (격차 -27%)",
-  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 07/25\n\n📊 총 10개 | AI 핵심 9 · 인접 AI 0 · 일반 테크 보충 1\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 10 · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [Matt Wolfe] 17.0K뷰 · 참여율 6.4%\n   AI News: This New Model Has Big AI Labs Panicking!\n   ↳ 미국 AI 연구소들의 경계를 사고 있는 Kimi K3 등 최신 AI 모델들의 동향과 더불어 오픈 웨이트 모델인 Qwen3.8과 영상 생성 분야의 새로운 하드웨어적 접근을 다루고 있다.\n   https://youtu.be/Ww3EYbuHSfo\n\n2. AI 핵심 · [조코딩 JoCoding] 15.1K뷰 · 참여율 0.5%\n   로고들이 다 이상하게 보이는 저주\n   ↳ AI 기업들의 로고가 서로 비슷하게 보이는 현상은 업계의 모방 효과와 심리적 인상, 생체 모방 등이 복합적으로 작용한 결과임을 설명한다.\n   https://youtu.be/N6SeR4BhwqQ\n\n3. AI 핵심 · [Matt Wolfe] 3.2K뷰 · 참여율 5.6%\n   The Easiest AI Business Idea 💡💰\n   ↳ AI 에이전트 마켓플레이스를 활용해 웹사이트가 낙후된 지역 업체를 자동으로 발굴하고 개선된 결과물을 생성하여 영업 이메일까지 작성하는 수익 창출 자동화 전략을 제시한다.\n   https://youtu.be/kURp6YM6O5Q\n\n4. AI 핵심 · [The AI Advantage] 2.3K뷰 · 참여율 4.9%\n   Show Claude Once. It Handles It Next Time!\n   ↳ Claude가 사용자의 컴퓨터 작업 과정을 학습하여 이후 동일한 작업을 반복 수행하게 하는 새로운 에이전트 기능을 시연하고 활용 방법을 설명한다.\n   https://youtu.be/cBdFhHyEW4Y\n\n5. AI 핵심 · [The AI Automators] 2.1K뷰 · 참여율 6.8%\n   Learn Every AI Agent Pattern From One Video (I Actually Ran All 35)\n   ↳ 코딩 에이전트의 효율을 극대화하기 위해 35가지 에이전트 설계 패턴을 8개 범주로 분류하고, 실제 대시보드에서 각 패턴의 작동 방식과 논리 구조를 비교 분석한다.\n   https://youtu.be/PZsJfBVDZZc\n\n6. AI 핵심 · [MattVidPro] 965뷰 · 참여율 16.6%\n   FLUX 3 Might Be the Open Source Sora 2 We Deserve\n   ↳ 블랙 포레스트 랩스의 FLUX 3가 영상, 오디오, 로봇공학을 아우르는 멀티모달 모델로서 오픈 소스 기반의 강력한 차세대 영상 모델이 될 가능성을 조명한다.\n   https://youtu.be/1s3zslFOSh0\n\n7. AI 핵심 · [알린 ALINN] 874뷰 · 참여율 5.6%\n   클로드 ‘이 기능’ 안 쓰면 평생 손해보는 겁니다. (+ 저렴하게 클로드 쓰는 개꿀팁 공개)\n   ↳ Claude에 'Claude MD' 파일을 설정하여 업무 규칙을 상시 반영하게 하는 자동화 기법과 모바일 앱스토어 결제 프로모션을 통해 이용료를 절감하는 팁을 공개한다.\n   https://youtu.be/w3h-sUtT3kQ\n\n8. AI 핵심 · [All About AI] 833뷰 · 참여율 6.0%\n   How My AI Agent Found a 993% Return Polymarket Strategy\n   ↳ AI 에이전트를 활용해 폴리마켓(Polymarket)에서 데이터 분석을 수행하고 수익성 높은 거래 전략을 찾아내는 과정을 공유한다.\n   https://youtu.be/bk8RL4_V1Yc\n\n9. AI 핵심 · [성공지식백과] 176뷰 · 참여율 4.0%\n   클로드 오퍼스5 압도적 성능 + 미친반값효율..ㄷㄷ (페이블5 완벽대체)\n   ↳ Claude Opus 5는 페이블 5 대비 반값의 효율로 동등 이상의 벤치마크 성능과 강화된 3D 생성 능력을 보여주며, Higgsfield MCP와 연동해 활용하는 방법을 다룬다.\n   https://youtu.be/bfyvRM7VcH0\n\n10. 테크 보충 · [주연 ZUYONI] 205.5K뷰 · 참여율 1.7%\n   아 뭐 사지?? 플립8, 폴드8, 울트라? 딱 정해드릴게요! | 주연's 구매가이드\n   ↳ 갤럭시 언팩 현장에서 직접 체험한 갤럭시 Z 플립8, 폴드8, 폴드8 울트라의 특징을 비교하고 사용자 성향에 따른 최적의 구매 모델을 가이드한다.\n   https://youtu.be/zSznf2LrD0E\n\n📈 스마트대디 어제 실적\n조회수 2.8K (↓19% vs 7일 평균) | 구독 -3\n시청 지속률 34.2% | 평균 시청 2분 08초\n경쟁사 평균 4.7K회 대비 내 7일 평균 -27%\n\n💡 VS 각도: ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
-  "video_count": 9,
-  "total_recent_video_count": 14,
+  "digest_date": "2026-07-26",
+  "generated_at": "2026-07-26T00:09:04+00:00",
+  "summary": "최근 24시간 영상 5개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'ChatGPT'입니다. 특히 '이재명 대통령, 젠슨황 만남 @샌프란시스코'는 조회수 18.8K, 참여율 1.0%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "'ChatGPT' 주제가 1개 영상으로 가장 많이 다뤄졌습니다. 오늘 수집 영상 5개는 주로 '뉴스 분석' 포맷이라, VS 비교·직접 실험 각도는 아직 비어 있습니다. ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.\n[내 채널] 7일 평균 3.1K회 · 지속률 33.0% / 경쟁사 평균 6.7K회 (격차 -54%)",
+  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 07/26\n\n📊 총 6개 | AI 핵심 1 · 인접 AI 4 · 일반 테크 보충 1\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 6 (최대 10) · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [Matt Wolfe] 2.2K뷰 · 참여율 4.8%\n   Literally everyone hated this feature\n   ↳ 메타가 AI 이미지 생성 도구인 '뮤즈 이미지'를 공개했으나, 사용자 동의 없이 인물 사진을 활용할 수 있는 프라이버시 문제로 거센 비판을 받으며 출시 3일 만에 기능을 철회했습니다.\n   https://youtu.be/n0JhhZyGP_w\n\n2. AI 인접 · [안될공학 - IT 테크 신기술] 18.8K뷰 · 참여율 1.0%\n   이재명 대통령, 젠슨황 만남 @샌프란시스코\n   ↳ 샌프란시스코에서 열린 AI 서밋에 이재명 대통령과 주요 글로벌 컴퓨팅 리더, 한국 주요 그룹 총수들이 참석하여 급변하는 AI 산업의 무게감과 협력의 장을 보여주었습니다.\n   https://youtu.be/i0LQQTY_Mi4\n\n3. AI 인접 · [Dan Martell] 8.6K뷰 · 참여율 7.0%\n   You're likely raising mentally weak kids\n   ↳ 자녀의 모든 문제를 부모가 해결해 주는 것은 자녀를 정신적으로 나약하게 만드는 원인이 됩니다. 부모는 아이들이 안전한 환경에서 스스로 어려움을 겪고 성장할 수 있는 기회를 제공해야 합니다.\n   https://youtu.be/c0zcXc_CUT4\n\n4. AI 인접 · [Dan Martell] 2.6K뷰 · 참여율 10.2%\n   How to overcome sales objections\n   ↳ 영업 중 발생하는 고객의 반대는 미리 예상하여 대화 초반에 해결하는 것이 효율적입니다. 문제의 지속 기간을 상기시키며 제품이 제공하는 가치를 강조하는 전략을 통해 이를 극복할 수 있습니다.\n   https://youtu.be/XSIRVTl7yy8\n\n5. AI 인접 · [안될공학 - IT 테크 신기술] 1.3K뷰 · 참여율 4.3%\n   갤럭시 워치의 퀄컴 신의 한수, 왜 엑시노스를 뺐나 | 갤럭시 워치 울트라2 미친 배터리 효율\n   ↳ 갤럭시 워치 울트라2는 배터리 용량을 대폭 늘리고 자체 엑시노스 대신 퀄컴 스냅드래곤 웨어 엘리트 칩셋을 탑재하여 효율성을 극대화했습니다. 퀄컴의 NPU와 센서 융합 기술이 실제 저전력 성능과 실사용 시간에 어떤…\n   https://youtu.be/Rg-d702MrIg\n\n6. 테크 보충 · [테크몽 Techmong] 10.0K뷰 · 참여율 0.7%\n   폴드8 쇼츠 볼때 진짜 쩌는듯;\n   ↳ 갤럭시 폴드8의 커버 화면을 활용한 쇼츠 시청 경험은 한 손으로 사용하기에 매우 편리합니다.\n   https://youtu.be/tNwliioD--Q\n\n📈 스마트대디 어제 실적\n조회수 3.2K (↑4% vs 7일 평균) | 구독 +5\n시청 지속률 32.5% | 평균 시청 2분 01초\n경쟁사 평균 6.7K회 대비 내 7일 평균 -54%\n\n💡 VS 각도: ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+  "video_count": 5,
+  "total_recent_video_count": 6,
   "focus_scope": "ai_priority_then_tech_fill",
-  "average_view_count": 4736.0,
-  "average_engagement_rate": 0.06264480236161146,
-  "average_like_count": 186.0,
-  "average_comment_count": 23.0,
-  "best_video_id": "Ww3EYbuHSfo",
+  "average_view_count": 6686.0,
+  "average_engagement_rate": 0.054599761164812334,
+  "average_like_count": 228.0,
+  "average_comment_count": 15.0,
+  "best_video_id": "i0LQQTY_Mi4",
   "best_topic": "ChatGPT",
   "summary_points": [
-    "가장 겹친 주제는 'ChatGPT'이며 3개 영상, 평균 조회수 6.7K, 평균 참여율 9.3%입니다.",
-    "최고 실적 영상은 'AI News: This New Model Has Big AI Labs Panicking!'이며 문제 해결 훅과 뉴스 분석 포맷 조합이 강했습니다.",
-    "반복 노출된 툴은 Claude 6회, ChatGPT 3회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
+    "가장 겹친 주제는 'ChatGPT'이며 1개 영상, 평균 조회수 18.8K, 평균 참여율 1.0%입니다.",
+    "최고 실적 영상은 '이재명 대통령, 젠슨황 만남 @샌프란시스코'이며 문제 해결 훅과 뉴스 분석 포맷 조합이 강했습니다.",
+    "반복 노출된 툴은 ChatGPT 1회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
   ],
   "action_chips": [
     "주제: ChatGPT",
     "훅: 문제 해결",
     "포맷: 뉴스 분석",
-    "기준 채널: Matt Wolfe"
+    "기준 채널: 안될공학 - IT 테크 신기술"
   ],
   "title_suggestions": [
     "ChatGPT vs Claude vs Gemini, 일반인 업무 실전 대결 결과",
@@ -36,174 +36,163 @@
       "angle": "'ChatGPT'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
       "thumbnail_copy": "ChatGPT 바로 해결",
       "reason": "ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.",
-      "source_video_id": "Ww3EYbuHSfo",
-      "source": "AI News: This New Model Has Big AI Labs Panicking!",
-      "my_channel_context": "내 7일 평균 3.5K회 · 지속률 33.1% / 경쟁사 대비 -27%"
-    },
-    {
-      "title": "GPT 최신 버전 직접 실험 — 이전이랑 진짜 달라?",
-      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'ChatGPT'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "ChatGPT 지금 봐야 함",
-      "reason": "ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.",
-      "source_video_id": "cBdFhHyEW4Y",
-      "source": "Show Claude Once. It Handles It Next Time!",
-      "my_channel_context": "내 7일 평균 3.5K회 · 지속률 33.1% / 경쟁사 대비 -27%"
-    },
-    {
-      "title": "GPT 써봤더니... 기대랑 다른 점 솔직하게 다 말해봄",
-      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'ChatGPT'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "ChatGPT 바로 해결",
-      "reason": "ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.",
-      "source_video_id": "1s3zslFOSh0",
-      "source": "FLUX 3 Might Be the Open Source Sora 2 We Deserve",
-      "my_channel_context": "내 7일 평균 3.5K회 · 지속률 33.1% / 경쟁사 대비 -27%"
+      "source_video_id": "i0LQQTY_Mi4",
+      "source": "이재명 대통령, 젠슨황 만남 @샌프란시스코",
+      "my_channel_context": "내 7일 평균 3.1K회 · 지속률 33.0% / 경쟁사 대비 -54%"
     }
   ],
   "topic_clusters": [
     {
       "label": "ChatGPT",
-      "count": 3,
-      "avg_view_count": 6740,
-      "avg_engagement_rate": 0.09297113411134954,
-      "avg_like_count": 400,
-      "avg_comment_count": 54,
-      "source_titles": [
-        "AI News: This New Model Has Big AI Labs Panicking!",
-        "Show Claude Once. It Handles It Next Time!",
-        "FLUX 3 Might Be the Open Source Sora 2 We Deserve"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/Ww3EYbuHSfo/hqdefault.jpg",
-      "representative_video_id": "Ww3EYbuHSfo",
-      "representative_title": "AI News: This New Model Has Big AI Labs Panicking!"
-    },
-    {
-      "label": "Claude",
-      "count": 3,
-      "avg_view_count": 1061,
-      "avg_engagement_rate": 0.05444911634082621,
-      "avg_like_count": 63,
-      "avg_comment_count": 4,
-      "source_titles": [
-        "Learn Every AI Agent Pattern From One Video (I Actually Ran All 35)",
-        "클로드 ‘이 기능’ 안 쓰면 평생 손해보는 겁니다. (+ 저렴하게 클로드 쓰는 개꿀팁 공개)",
-        "클로드 오퍼스5 압도적 성능 + 미친반값효율..ㄷㄷ (페이블5 완벽대체)"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/PZsJfBVDZZc/hqdefault.jpg",
-      "representative_video_id": "PZsJfBVDZZc",
-      "representative_title": "Learn Every AI Agent Pattern From One Video (I Actually Ran All 35)"
-    },
-    {
-      "label": "에이전트",
-      "count": 2,
-      "avg_view_count": 2040,
-      "avg_engagement_rate": 0.05802924618123111,
-      "avg_like_count": 108,
-      "avg_comment_count": 8,
-      "source_titles": [
-        "The Easiest AI Business Idea 💡💰",
-        "How My AI Agent Found a 993% Return Polymarket Strategy"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/kURp6YM6O5Q/hqdefault.jpg",
-      "representative_video_id": "kURp6YM6O5Q",
-      "representative_title": "The Easiest AI Business Idea 💡💰"
-    },
-    {
-      "label": "로고들이",
       "count": 1,
-      "avg_view_count": 15135,
-      "avg_engagement_rate": 0.00548397753551371,
-      "avg_like_count": 67,
-      "avg_comment_count": 16,
+      "avg_view_count": 18797,
+      "avg_engagement_rate": 0.009895196041921583,
+      "avg_like_count": 165,
+      "avg_comment_count": 21,
       "source_titles": [
-        "로고들이 다 이상하게 보이는 저주"
+        "이재명 대통령, 젠슨황 만남 @샌프란시스코"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/N6SeR4BhwqQ/hqdefault.jpg",
-      "representative_video_id": "N6SeR4BhwqQ",
-      "representative_title": "로고들이 다 이상하게 보이는 저주"
+      "thumbnail_url": "https://i.ytimg.com/vi/i0LQQTY_Mi4/hqdefault.jpg",
+      "representative_video_id": "i0LQQTY_Mi4",
+      "representative_title": "이재명 대통령, 젠슨황 만남 @샌프란시스코"
+    },
+    {
+      "label": "육아",
+      "count": 1,
+      "avg_view_count": 8584,
+      "avg_engagement_rate": 0.07047996272134203,
+      "avg_like_count": 593,
+      "avg_comment_count": 12,
+      "source_titles": [
+        "You're likely raising mentally weak kids"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/c0zcXc_CUT4/hqdefault.jpg",
+      "representative_video_id": "c0zcXc_CUT4",
+      "representative_title": "You're likely raising mentally weak kids"
+    },
+    {
+      "label": "업무생산성",
+      "count": 1,
+      "avg_view_count": 2617,
+      "avg_engagement_rate": 0.10240733664501338,
+      "avg_like_count": 237,
+      "avg_comment_count": 31,
+      "source_titles": [
+        "How to overcome sales objections"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/XSIRVTl7yy8/hqdefault.jpg",
+      "representative_video_id": "XSIRVTl7yy8",
+      "representative_title": "How to overcome sales objections"
+    },
+    {
+      "label": "인공지능",
+      "count": 1,
+      "avg_view_count": 2161,
+      "avg_engagement_rate": 0.04766311892642295,
+      "avg_like_count": 96,
+      "avg_comment_count": 7,
+      "source_titles": [
+        "Literally everyone hated this feature"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/n0JhhZyGP_w/hqdefault.jpg",
+      "representative_video_id": "n0JhhZyGP_w",
+      "representative_title": "Literally everyone hated this feature"
+    },
+    {
+      "label": "스마트워치",
+      "count": 1,
+      "avg_view_count": 1269,
+      "avg_engagement_rate": 0.0425531914893617,
+      "avg_like_count": 48,
+      "avg_comment_count": 6,
+      "source_titles": [
+        "갤럭시 워치의 퀄컴 신의 한수, 왜 엑시노스를 뺐나 | 갤럭시 워치 울트라2  미친 배터리 효율"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/Rg-d702MrIg/hqdefault.jpg",
+      "representative_video_id": "Rg-d702MrIg",
+      "representative_title": "갤럭시 워치의 퀄컴 신의 한수, 왜 엑시노스를 뺐나 | 갤럭시 워치 울트라2  미친 배터리 효율"
     }
   ],
   "video_highlights": [
     {
-      "video_id": "Ww3EYbuHSfo",
-      "channel_name": "Matt Wolfe",
-      "title": "AI News: This New Model Has Big AI Labs Panicking!",
-      "thumbnail_url": "https://i.ytimg.com/vi/Ww3EYbuHSfo/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=Ww3EYbuHSfo",
-      "published_at": "2026-07-24T17:34:22Z",
-      "view_count": 16985,
-      "like_count": 967,
-      "comment_count": 124,
-      "engagement_rate": 0.06423314689431851,
+      "video_id": "i0LQQTY_Mi4",
+      "channel_name": "안될공학 - IT 테크 신기술",
+      "title": "이재명 대통령, 젠슨황 만남 @샌프란시스코",
+      "thumbnail_url": "https://i.ytimg.com/vi/i0LQQTY_Mi4/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=i0LQQTY_Mi4",
+      "published_at": "2026-07-25T06:40:28Z",
+      "view_count": 18797,
+      "like_count": 165,
+      "comment_count": 21,
+      "engagement_rate": 0.009895196041921583,
       "topic_cluster": "ChatGPT",
-      "summary": "미국 AI 연구소들의 경계를 사고 있는 Kimi K3 등 최신 AI 모델들의 동향과 더불어 오픈 웨이트 모델인 Qwen3.8과 영상 생성 분야의 새로운 하드웨어적…",
-      "comment_signal": "Note: I do record these on Thursdays to publish on Fridays. Opus 5 came out on Friday so I'll b…",
+      "summary": "샌프란시스코에서 열린 AI 서밋에 이재명 대통령과 주요 글로벌 컴퓨팅 리더, 한국 주요 그룹 총수들이 참석하여 급변하는 AI 산업의 무게감과 협력의 장을 보여주었습…",
+      "comment_signal": "아이고 눈치 없이 저길 또 따라갔네 에휴.. 기업 총수들끼리 편하게 얘기하게 좀 냅두지 재명아",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "N6SeR4BhwqQ",
-      "channel_name": "조코딩 JoCoding",
-      "title": "로고들이 다 이상하게 보이는 저주",
-      "thumbnail_url": "https://i.ytimg.com/vi/N6SeR4BhwqQ/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=N6SeR4BhwqQ",
-      "published_at": "2026-07-24T09:01:30Z",
-      "view_count": 15135,
-      "like_count": 67,
-      "comment_count": 16,
-      "engagement_rate": 0.00548397753551371,
-      "topic_cluster": "로고들이",
-      "summary": "AI 기업들의 로고가 서로 비슷하게 보이는 현상은 업계의 모방 효과와 심리적 인상, 생체 모방 등이 복합적으로 작용한 결과임을 설명한다.",
-      "comment_signal": "샘알트만: \"그게 좋으니까\"",
+      "video_id": "c0zcXc_CUT4",
+      "channel_name": "Dan Martell",
+      "title": "You're likely raising mentally weak kids",
+      "thumbnail_url": "https://i.ytimg.com/vi/c0zcXc_CUT4/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=c0zcXc_CUT4",
+      "published_at": "2026-07-25T15:03:04Z",
+      "view_count": 8584,
+      "like_count": 593,
+      "comment_count": 12,
+      "engagement_rate": 0.07047996272134203,
+      "topic_cluster": "육아",
+      "summary": "자녀의 모든 문제를 부모가 해결해 주는 것은 자녀를 정신적으로 나약하게 만드는 원인이 됩니다. 부모는 아이들이 안전한 환경에서 스스로 어려움을 겪고 성장할 수 있는…",
+      "comment_signal": "Straight up. I remember to this day being at a Taco Bell when I was 7 and I wanted a bean burri…",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "kURp6YM6O5Q",
+      "video_id": "XSIRVTl7yy8",
+      "channel_name": "Dan Martell",
+      "title": "How to overcome sales objections",
+      "thumbnail_url": "https://i.ytimg.com/vi/XSIRVTl7yy8/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=XSIRVTl7yy8",
+      "published_at": "2026-07-25T21:00:20Z",
+      "view_count": 2617,
+      "like_count": 237,
+      "comment_count": 31,
+      "engagement_rate": 0.10240733664501338,
+      "topic_cluster": "업무생산성",
+      "summary": "영업 중 발생하는 고객의 반대는 미리 예상하여 대화 초반에 해결하는 것이 효율적입니다. 문제의 지속 기간을 상기시키며 제품이 제공하는 가치를 강조하는 전략을 통해…",
+      "comment_signal": "Bro what ARE THESE BOT COMMENTS 😭😭😭",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "n0JhhZyGP_w",
       "channel_name": "Matt Wolfe",
-      "title": "The Easiest AI Business Idea 💡💰",
-      "thumbnail_url": "https://i.ytimg.com/vi/kURp6YM6O5Q/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=kURp6YM6O5Q",
-      "published_at": "2026-07-24T16:03:56Z",
-      "view_count": 3248,
-      "like_count": 178,
-      "comment_count": 4,
-      "engagement_rate": 0.05603448275862069,
-      "topic_cluster": "에이전트",
-      "summary": "AI 에이전트 마켓플레이스를 활용해 웹사이트가 낙후된 지역 업체를 자동으로 발굴하고 개선된 결과물을 생성하여 영업 이메일까지 작성하는 수익 창출 자동화 전략을 제시…",
-      "comment_signal": "Is it a free app",
+      "title": "Literally everyone hated this feature",
+      "thumbnail_url": "https://i.ytimg.com/vi/n0JhhZyGP_w/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=n0JhhZyGP_w",
+      "published_at": "2026-07-25T13:38:23Z",
+      "view_count": 2161,
+      "like_count": 96,
+      "comment_count": 7,
+      "engagement_rate": 0.04766311892642295,
+      "topic_cluster": "인공지능",
+      "summary": "메타가 AI 이미지 생성 도구인 '뮤즈 이미지'를 공개했으나, 사용자 동의 없이 인물 사진을 활용할 수 있는 프라이버시 문제로 거센 비판을 받으며 출시 3일 만에…",
+      "comment_signal": "It was on purpose but for a reason...",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "cBdFhHyEW4Y",
-      "channel_name": "The AI Advantage",
-      "title": "Show Claude Once. It Handles It Next Time!",
-      "thumbnail_url": "https://i.ytimg.com/vi/cBdFhHyEW4Y/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=cBdFhHyEW4Y",
-      "published_at": "2026-07-24T14:29:20Z",
-      "view_count": 2271,
-      "like_count": 106,
-      "comment_count": 5,
-      "engagement_rate": 0.0488771466314399,
-      "topic_cluster": "ChatGPT",
-      "summary": "Claude가 사용자의 컴퓨터 작업 과정을 학습하여 이후 동일한 작업을 반복 수행하게 하는 새로운 에이전트 기능을 시연하고 활용 방법을 설명한다.",
-      "comment_signal": "I still do not have it in my desktop app. I'm in Germany...",
-      "hook_type": "강한 주장"
-    },
-    {
-      "video_id": "PZsJfBVDZZc",
-      "channel_name": "The AI Automators",
-      "title": "Learn Every AI Agent Pattern From One Video (I Actually Ran All 35)",
-      "thumbnail_url": "https://i.ytimg.com/vi/PZsJfBVDZZc/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=PZsJfBVDZZc",
-      "published_at": "2026-07-24T12:42:33Z",
-      "view_count": 2133,
-      "like_count": 135,
-      "comment_count": 9,
-      "engagement_rate": 0.06751054852320675,
-      "topic_cluster": "Claude",
-      "summary": "코딩 에이전트의 효율을 극대화하기 위해 35가지 에이전트 설계 패턴을 8개 범주로 분류하고, 실제 대시보드에서 각 패턴의 작동 방식과 논리 구조를 비교 분석한다.",
-      "comment_signal": "Always wait your content Real builder on youtube 🎉❤",
-      "hook_type": "문제 해결"
+      "video_id": "Rg-d702MrIg",
+      "channel_name": "안될공학 - IT 테크 신기술",
+      "title": "갤럭시 워치의 퀄컴 신의 한수, 왜 엑시노스를 뺐나 | 갤럭시 워치 울트라2  미친 배터리 효율",
+      "thumbnail_url": "https://i.ytimg.com/vi/Rg-d702MrIg/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=Rg-d702MrIg",
+      "published_at": "2026-07-25T23:17:27Z",
+      "view_count": 1269,
+      "like_count": 48,
+      "comment_count": 6,
+      "engagement_rate": 0.0425531914893617,
+      "topic_cluster": "스마트워치",
+      "summary": "갤럭시 워치 울트라2는 배터리 용량을 대폭 늘리고 자체 엑시노스 대신 퀄컴 스냅드래곤 웨어 엘리트 칩셋을 탑재하여 효율성을 극대화했습니다. 퀄컴의 NPU와 센서 융…",
+      "comment_signal": "Dx vs ds 시기 질투",
+      "hook_type": "시간 절약"
     }
   ]
 }
