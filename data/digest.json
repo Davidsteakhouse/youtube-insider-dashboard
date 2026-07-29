@@ -1,220 +1,197 @@
 {
-  "digest_date": "2026-07-28",
-  "generated_at": "2026-07-28T00:10:17+00:00",
-  "summary": "최근 24시간 영상 8개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'Claude'입니다. 특히 '이상한 배달원;; (ft.갤럭시Z폴드8 사전예약)'는 조회수 113.9K, 참여율 1.9%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "'Claude' 주제가 3개 영상으로 가장 많이 다뤄졌습니다. Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n[내 채널] 7일 평균 3.3K회 · 지속률 33.1% / 경쟁사 평균 19.8K회 (격차 -83%)",
-  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 07/28\n\n📊 총 10개 | AI 핵심 5 · 인접 AI 3 · 일반 테크 보충 2\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 10 · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [빌더 조쉬 Builder Josh] 8.4K뷰 · 참여율 2.7%\n   SaaS를 사람 없이 AI로 100% 운영하는 방법을 공개합니다. (진양의 인수창업 김지혁님)\n   ↳ 인수한 SaaS를 9개의 AI 에이전트로 1인 운영하는 전략을 공유한다. PM 에이전트를 통한 방대한 맥락 흡수와 쿼리어블 환경, 피드백 순환 구조인 클로즈드 루프, 자체 개선 시스템을 구축하여 비즈니스 효율을 극…\n   https://youtu.be/jajEm8R9nD0\n\n2. AI 핵심 · [조코딩 JoCoding] 8.2K뷰 · 참여율 2.9%\n   AI뉴스 - Claude Opus 5, Hugging Face 해킹, 오픈웨이트 규제, Gemini 3.6 Flash, FLUX 3, 샌프…\n   ↳ Claude Opus 5 출시, 오픈 웨이트 모델 규제 논란 등 최신 AI 기술 동향과 함께 1인 창업 트렌드 및 관련 프로젝트들을 소개한다.\n   https://youtu.be/_tX58F1grUs\n\n3. AI 핵심 · [Futurepedia] 553뷰 · 참여율 11.2%\n   Claude Chat vs Cowork vs Code: Which One Should You Use?\n   ↳ Claude Chat, Cowork, Code 제품의 차이점과 목적을 분석한다. Chat은 단순 대화와 사고, Cowork은 파일 기반 협업, Code는 실질적인 프로그래밍 빌드에 최적화되어 있음을 강조한다.\n   https://youtu.be/PtGQaduZwmA\n\n4. AI 핵심 · [AI Andy] 238뷰 · 참여율 5.9%\n   The One Thing Claude Fable 5 Still Does Better Than Opus 5\n   ↳ Claude Opus 5가 가격 면에서 유리하지만 특정 작업에서는 여전히 Fable 5가 뛰어난 성능을 보임을 확인한다. 모델 벤치마크 시 무조건 최대 성능을 설정하는 것이 오히려 효율을 떨어뜨릴 수 있음을 지적한…\n   https://youtu.be/JJ0XQIaOr_I\n\n5. AI 핵심 · [Goda Go] 231뷰 · 참여율 9.5%\n   How I Tricked AI Into Leaking Your Darkest Secrets\n   ↳ 웹 접근 권한을 가진 AI 에이전트의 보안 취약점인 '메모리 하이스트' 공격 기법을 설명하고, 개인정보 유출을 방지하기 위한 시스템 보안 설정 및 감사 프롬프트 활용법을 제시한다.\n   https://youtu.be/lBZe6C2V44w\n\n6. AI 인접 · [주연 ZUYONI] 113.9K뷰 · 참여율 1.9%\n   이상한 배달원;; (ft.갤럭시Z폴드8 사전예약)\n   ↳ 삼성스토어와 배달의민족이 협력하여 갤럭시 Z 폴드8·플립8 사전예약 혜택을 제공한다. 더블 스토리지 업그레이드와 배민상품권 증정, 빠른 배송 서비스를 주요 혜택으로 다룬다.\n   https://youtu.be/B4Ngh72phc8\n\n7. AI 인접 · [안될공학 - IT 테크 신기술] 25.2K뷰 · 참여율 2.6%\n   젠슨황 깐부 회동 선물 “DGX Spark” 직접 써보니… 단순한 AI PC가 아닙니다 | 엔비디아의 AI 개발자 플랫폼 큰 그림 [안될공…\n   ↳ 엔비디아의 DGX Spark를 통해 개인 개발자가 책상 위에서 고성능 AI 개발 환경을 구축하는 방법을 살펴본다. 단순 AI PC를 넘어 AI 개발 생태계 전체를 완성하려는 엔비디아의 전략적 도구임을 강조한다.\n   https://youtu.be/0S3EtkkVC8s\n\n8. AI 인접 · [Dan Martell] 2.1K뷰 · 참여율 6.3%\n   I don't care about grades or a report card\n   ↳ 아이들의 성적이나 성적표보다 타인에 대한 친절함, 창의성, 자원 활용 능력과 같은 실질적인 삶의 태도가 더욱 중요함을 강조한다.\n   https://youtu.be/l8nwqbZNvdo\n\n9. 테크 보충 · [주연 ZUYONI] 448.0K뷰 · 참여율 2.1%\n   폴드를 제발 이렇게 쓰지마세요😵‍💫🙏🙏 폴드8 살사람 필독!! (제품대여포함)\n   ↳ 갤럭시 Z 폴드8 사용자가 커버 화면에서 키보드 크기 및 투명도, 화면 레이아웃 설정을 최적화하여 더 넓고 쾌적하게 기기를 활용하는 구체적인 팁을 공유한다.\n   https://youtu.be/uYCkDXrkUis\n\n10. 테크 보충 · [ITSub잇섭] 237.5K뷰 · 참여율 1.5%\n   외면당한 삼성 신제품, 갤럭시 워치9&울트라2 달라진 점과 살만할까?\n   ↳ 갤럭시 워치9과 울트라2의 전작 대비 개선점을 비교 분석한다. 프로세서 개선으로 반응 속도가 향상되었으며, 울트라2는 강화된 내구성과 다이빙 컴퓨터 기능 등에서 차별화된 가치를 지닌다고 평가한다.\n   https://youtu.be/tZGofdXbsX4\n\n📈 스마트대디 어제 실적\n조회수 4.1K (↑22% vs 7일 평균) | 구독 +6\n시청 지속률 32.3% | 평균 시청 1분 57초\n경쟁사 평균 19.8K회 대비 내 7일 평균 -83%\n\n💡 VS 각도: Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
-  "video_count": 8,
-  "total_recent_video_count": 12,
+  "digest_date": "2026-07-29",
+  "generated_at": "2026-07-29T00:08:03+00:00",
+  "summary": "최근 24시간 영상 5개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'AI영화'입니다. 특히 '샤MONEY즘 실사화 시네마틱 AI 영화 트레일러 | 샤머니즘(네이버웹툰)'는 조회수 14.3K, 참여율 4.5%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "'AI영화' 주제가 1개 영상으로 가장 많이 다뤄졌습니다. 일반인 관점 직접 실험 or VS 비교 각도로 차별화할 영역이 있습니다.\n[내 채널] 7일 평균 7.2K회 · 지속률 31.5% / 경쟁사 평균 3.8K회 (격차 +91%)",
+  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 07/29\n\n📊 총 7개 | AI 핵심 4 · 인접 AI 1 · 일반 테크 보충 2\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 7 (최대 10) · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [Fantasoner(판타소너)] 14.3K뷰 · 참여율 4.5%\n   샤MONEY즘 실사화 시네마틱 AI 영화 트레일러 | 샤머니즘(네이버웹툰)\n   ↳ 네이버웹툰 '샤머니즘'을 원작으로 한 팬메이드 시네마틱 트레일러로, Nano banana, Gpt Image, Seedance, Higgsfield, Suno 등 다양한 AI 도구를 활용해 제작했다.\n   https://youtu.be/QTt0IKmcRAA\n\n2. AI 핵심 · [Matt Wolfe] 1.4K뷰 · 참여율 4.6%\n   #ad Why AI Intelligence Is Overrated\n   ↳ 기업 환경에서는 단순한 AI 성능보다 보안, 규정 준수, 기존 업무 시스템과의 통합이 중요하며, ServiceNow가 이러한 운영 가드레일을 제공하는 핵심 기업으로 부상하고 있다.\n   https://youtu.be/_3qXTqdEFm4\n\n3. AI 핵심 · [AI Andy] 285뷰 · 참여율 6.0%\n   I Tried Vibe Coding 100% of My SaaS Subscriptions (a $1047/mo Experiment)\n   ↳ SaaS 구독 비용을 줄이기 위해 '바이브 코딩'으로 대체 도구를 직접 개발하는 실험을 진행했으나, 완벽한 비용 제거는 불가능하며 특히 AI 모델 사용료는 대체하기 어렵다는 결론을 얻었다.\n   https://youtu.be/J6xOL82JFJE\n\n4. AI 핵심 · [동테크] 23뷰 · 참여율 21.7%\n   1개월 만에, 편집 노가다에서 해방됐습니다(전과정 공유)\n   ↳ 300시간의 시행착오 끝에 클로드 코드(Claude Code)를 활용하여 영상 편집 자동화 시스템을 구축했으며, 이를 통해 기존 편집 툴 구독을 해지할 수 있을 정도로 효율을 높였다.\n   https://youtu.be/bZczBtiCoJA\n\n5. AI 인접 · [Dan Martell] 2.8K뷰 · 참여율 5.3%\n   Important or Not Important: Business Edition\n   ↳ 비즈니스 효율성을 위해 AI로 불필요한 소통을 필터링하고 소셜 미디어 활동과 지표 관리를 일관되게 수행하는 것이 성공적인 사업 운영에 필수적이다.\n   https://youtu.be/45HsF2_mIS8\n\n6. 테크 보충 · [주연 ZUYONI] 137.1K뷰 · 참여율 1.3%\n   폴드8, 울트라, 플립8 케이스 & 맥세이프 붙였을 때 몽땅 보여드림!!\n   ↳ 갤럭시 Z 폴드8, 울트라, 플립8 모델별 정품 및 콜라보 케이스를 테스트하고, 각 기기에 맥세이프 액세서리를 부착했을 때의 호환성과 그립감 및 단차를 분석했다.\n   https://youtu.be/NtxHsr8omzQ\n\n7. 테크 보충 · [안될공학 - IT 테크 신기술] 27.2K뷰 · 참여율 4.4%\n   중국이 DUV 국산화에 성공합니다… ASML 독점 흔드나 | 실제 가능한 공정은 어디까지?\n   ↳ 중국이 이머전 DUV 노광장비 국산화에 성공했으나 이는 약 20년 전 기술로, 실제 반도체 양산의 핵심인 멀티 패터닝의 정확도와 생산성을 확보하는 것이 기술적 과제임을 시사한다.\n   https://youtu.be/G5Qn7Hoxq18\n\n📈 스마트대디 어제 실적\n조회수 18.1K (↑153% vs 7일 평균) | 구독 +239\n시청 지속률 27.6% | 평균 시청 2분 38초\n경쟁사 평균 3.8K회 대비 내 7일 평균 +91%\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+  "video_count": 5,
+  "total_recent_video_count": 8,
   "focus_scope": "ai_priority_then_tech_fill",
-  "average_view_count": 19845.0,
-  "average_engagement_rate": 0.05377069463981387,
-  "average_like_count": 397.0,
-  "average_comment_count": 43.0,
-  "best_video_id": "B4Ngh72phc8",
-  "best_topic": "Claude",
+  "average_view_count": 3754.0,
+  "average_engagement_rate": 0.08413137272870858,
+  "average_like_count": 148.0,
+  "average_comment_count": 26.0,
+  "best_video_id": "QTt0IKmcRAA",
+  "best_topic": "AI영화",
   "summary_points": [
-    "가장 겹친 주제는 'Claude'이며 3개 영상, 평균 조회수 341, 평균 참여율 8.9%입니다.",
-    "최고 실적 영상은 '이상한 배달원;; (ft.갤럭시Z폴드8 사전예약)'이며 문제 해결 훅과 비교 포맷 조합이 강했습니다.",
-    "반복 노출된 툴은 Claude 4회, MCP 2회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
+    "가장 겹친 주제는 'AI영화'이며 1개 영상, 평균 조회수 14.3K, 평균 참여율 4.5%입니다.",
+    "최고 실적 영상은 '샤MONEY즘 실사화 시네마틱 AI 영화 트레일러 | 샤머니즘(네이버웹툰)'이며 성과 약속 훅과 뉴스 분석 포맷 조합이 강했습니다.",
+    "반복 노출된 툴은 Claude 2회, OpenAI 1회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
   ],
   "action_chips": [
-    "주제: Claude",
-    "훅: 문제 해결",
-    "포맷: 비교",
-    "기준 채널: 주연 ZUYONI"
+    "주제: AI영화",
+    "훅: 성과 약속",
+    "포맷: 뉴스 분석",
+    "기준 채널: Fantasoner(판타소너)"
   ],
   "title_suggestions": [
-    "Claude vs ChatGPT, 일반인이 직접 써보니 이게 달랐다",
-    "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
-    "AI 비서 대결: Claude가 진짜 강한 상황은 따로 있었다"
+    "AI영화 직접 실험 — 이게 진짜 되나?",
+    "AI영화 vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
+    "AI영화 써봤더니... (기대 vs 현실 솔직 후기)"
   ],
   "recommendations": [
     {
-      "title": "Claude vs ChatGPT, 일반인이 직접 써보니 이게 달랐다",
-      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "Claude 뭐가 다를까?",
-      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
-      "source_video_id": "PtGQaduZwmA",
-      "source": "Claude Chat vs Cowork vs Code: Which One Should You Use?",
-      "my_channel_context": "내 7일 평균 3.3K회 · 지속률 33.1% / 경쟁사 대비 -83%"
-    },
-    {
-      "title": "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
-      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "Claude 바로 해결",
-      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
-      "source_video_id": "JJ0XQIaOr_I",
-      "source": "The One Thing Claude Fable 5 Still Does Better Than Opus 5",
-      "my_channel_context": "내 7일 평균 3.3K회 · 지속률 33.1% / 경쟁사 대비 -83%"
-    },
-    {
-      "title": "AI 비서 대결: Claude가 진짜 강한 상황은 따로 있었다",
-      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "Claude 바로 해결",
-      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
-      "source_video_id": "lBZe6C2V44w",
-      "source": "How I Tricked AI Into Leaking Your Darkest Secrets",
-      "my_channel_context": "내 7일 평균 3.3K회 · 지속률 33.1% / 경쟁사 대비 -83%"
+      "title": "AI영화 직접 실험 — 이게 진짜 되나?",
+      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
+      "angle": "큰 주제 하나를 대표 제목으로 세우고, 나머지 포인트는 보조 정보처럼 정리하는 압축형 포장이 좋습니다.",
+      "thumbnail_copy": "AI영화 핵심 3가지",
+      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
+      "source_video_id": "QTt0IKmcRAA",
+      "source": "샤MONEY즘 실사화 시네마틱 AI 영화 트레일러 | 샤머니즘(네이버웹툰)",
+      "my_channel_context": "내 7일 평균 7.2K회 · 지속률 31.5% / 경쟁사 대비 +91%"
     }
   ],
   "topic_clusters": [
     {
-      "label": "Claude",
-      "count": 3,
-      "avg_view_count": 341,
-      "avg_engagement_rate": 0.08872578567291896,
-      "avg_like_count": 30,
-      "avg_comment_count": 3,
-      "source_titles": [
-        "Claude Chat vs Cowork vs Code: Which One Should You Use?",
-        "The One Thing Claude Fable 5 Still Does Better Than Opus 5",
-        "How I Tricked AI Into Leaking Your Darkest Secrets"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/PtGQaduZwmA/hqdefault.jpg",
-      "representative_video_id": "PtGQaduZwmA",
-      "representative_title": "Claude Chat vs Cowork vs Code: Which One Should You Use?"
-    },
-    {
-      "label": "MCP",
-      "count": 2,
-      "avg_view_count": 16782,
-      "avg_engagement_rate": 0.026229657289455185,
-      "avg_like_count": 381,
-      "avg_comment_count": 56,
-      "source_titles": [
-        "젠슨황 깐부 회동 선물 “DGX Spark” 직접 써보니… 단순한 AI PC가 아닙니다 | 엔비디아의 AI 개발자 플랫폼 큰 그림 [안될공학xNVIDIA]",
-        "SaaS를 사람 없이 AI로 100% 운영하는 방법을 공개합니다. (진양의 인수창업 김지혁님)"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/0S3EtkkVC8s/hqdefault.jpg",
-      "representative_video_id": "0S3EtkkVC8s",
-      "representative_title": "젠슨황 깐부 회동 선물 “DGX Spark” 직접 써보니… 단순한 AI PC가 아닙니다 | 엔비디아의 AI 개발자 플랫폼 큰 그림 [안될공학xNVIDIA]"
-    },
-    {
-      "label": "이상한",
+      "label": "AI영화",
       "count": 1,
-      "avg_view_count": 113907,
-      "avg_engagement_rate": 0.019085745388782077,
-      "avg_like_count": 1980,
-      "avg_comment_count": 194,
+      "avg_view_count": 14263,
+      "avg_engagement_rate": 0.04480123396199958,
+      "avg_like_count": 520,
+      "avg_comment_count": 119,
       "source_titles": [
-        "이상한 배달원;; (ft.갤럭시Z폴드8 사전예약)"
+        "샤MONEY즘 실사화 시네마틱 AI 영화 트레일러 | 샤머니즘(네이버웹툰)"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/B4Ngh72phc8/hqdefault.jpg",
-      "representative_video_id": "B4Ngh72phc8",
-      "representative_title": "이상한 배달원;; (ft.갤럭시Z폴드8 사전예약)"
+      "thumbnail_url": "https://i.ytimg.com/vi/QTt0IKmcRAA/hqdefault.jpg",
+      "representative_video_id": "QTt0IKmcRAA",
+      "representative_title": "샤MONEY즘 실사화 시네마틱 AI 영화 트레일러 | 샤머니즘(네이버웹툰)"
+    },
+    {
+      "label": "AI활용",
+      "count": 1,
+      "avg_view_count": 2792,
+      "avg_engagement_rate": 0.05265042979942693,
+      "avg_like_count": 140,
+      "avg_comment_count": 7,
+      "source_titles": [
+        "Important or Not Important: Business Edition"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/45HsF2_mIS8/hqdefault.jpg",
+      "representative_video_id": "45HsF2_mIS8",
+      "representative_title": "Important or Not Important: Business Edition"
+    },
+    {
+      "label": "자동화",
+      "count": 1,
+      "avg_view_count": 1408,
+      "avg_engagement_rate": 0.04616477272727273,
+      "avg_like_count": 64,
+      "avg_comment_count": 1,
+      "source_titles": [
+        "#ad Why AI Intelligence Is Overrated"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/_3qXTqdEFm4/hqdefault.jpg",
+      "representative_video_id": "_3qXTqdEFm4",
+      "representative_title": "#ad Why AI Intelligence Is Overrated"
     },
     {
       "label": "OpenAI",
       "count": 1,
-      "avg_view_count": 8178,
-      "avg_engagement_rate": 0.02922474932746393,
-      "avg_like_count": 213,
-      "avg_comment_count": 26,
-      "source_titles": [
-        "AI뉴스 - Claude Opus 5, Hugging Face 해킹, 오픈웨이트 규제, Gemini 3.6 Flash, FLUX 3, 샌프란 AI Summit 등"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/_tX58F1grUs/hqdefault.jpg",
-      "representative_video_id": "_tX58F1grUs",
-      "representative_title": "AI뉴스 - Claude Opus 5, Hugging Face 해킹, 오픈웨이트 규제, Gemini 3.6 Flash, FLUX 3, 샌프란 AI Summit 등"
-    },
-    {
-      "label": "코딩",
-      "count": 1,
-      "avg_view_count": 2088,
-      "avg_engagement_rate": 0.06321839080459771,
-      "avg_like_count": 129,
+      "avg_view_count": 285,
+      "avg_engagement_rate": 0.05964912280701754,
+      "avg_like_count": 14,
       "avg_comment_count": 3,
       "source_titles": [
-        "I don't care about grades or a report card"
+        "I Tried Vibe Coding 100% of My SaaS Subscriptions (a $1047/mo Experiment)"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/l8nwqbZNvdo/hqdefault.jpg",
-      "representative_video_id": "l8nwqbZNvdo",
-      "representative_title": "I don't care about grades or a report card"
+      "thumbnail_url": "https://i.ytimg.com/vi/J6xOL82JFJE/hqdefault.jpg",
+      "representative_video_id": "J6xOL82JFJE",
+      "representative_title": "I Tried Vibe Coding 100% of My SaaS Subscriptions (a $1047/mo Experiment)"
+    },
+    {
+      "label": "Claude",
+      "count": 1,
+      "avg_view_count": 23,
+      "avg_engagement_rate": 0.21739130434782608,
+      "avg_like_count": 4,
+      "avg_comment_count": 1,
+      "source_titles": [
+        "1개월 만에, 편집 노가다에서 해방됐습니다(전과정 공유)"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/bZczBtiCoJA/hqdefault.jpg",
+      "representative_video_id": "bZczBtiCoJA",
+      "representative_title": "1개월 만에, 편집 노가다에서 해방됐습니다(전과정 공유)"
     }
   ],
   "video_highlights": [
     {
-      "video_id": "B4Ngh72phc8",
-      "channel_name": "주연 ZUYONI",
-      "title": "이상한 배달원;; (ft.갤럭시Z폴드8 사전예약)",
-      "thumbnail_url": "https://i.ytimg.com/vi/B4Ngh72phc8/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=B4Ngh72phc8",
-      "published_at": "2026-07-27T13:49:33Z",
-      "view_count": 113907,
-      "like_count": 1980,
-      "comment_count": 194,
-      "engagement_rate": 0.019085745388782077,
-      "topic_cluster": "이상한",
-      "summary": "삼성스토어와 배달의민족이 협력하여 갤럭시 Z 폴드8·플립8 사전예약 혜택을 제공한다. 더블 스토리지 업그레이드와 배민상품권 증정, 빠른 배송 서비스를 주요 혜택으로…",
-      "comment_signal": "잇섭보다 주연님보니까안구정화되네요",
-      "hook_type": "문제 해결"
+      "video_id": "QTt0IKmcRAA",
+      "channel_name": "Fantasoner(판타소너)",
+      "title": "샤MONEY즘 실사화 시네마틱 AI 영화 트레일러 | 샤머니즘(네이버웹툰)",
+      "thumbnail_url": "https://i.ytimg.com/vi/QTt0IKmcRAA/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=QTt0IKmcRAA",
+      "published_at": "2026-07-28T11:36:19Z",
+      "view_count": 14263,
+      "like_count": 520,
+      "comment_count": 119,
+      "engagement_rate": 0.04480123396199958,
+      "topic_cluster": "AI영화",
+      "summary": "네이버웹툰 '샤머니즘'을 원작으로 한 팬메이드 시네마틱 트레일러로, Nano banana, Gpt Image, Seedance, Higgsfield, Suno 등…",
+      "comment_signal": "넷플 뭐하냐 이분 데리고 시리즈 만들어라 전세계 히트 할 가능성 높다!",
+      "hook_type": "성과 약속"
     },
     {
-      "video_id": "0S3EtkkVC8s",
-      "channel_name": "안될공학 - IT 테크 신기술",
-      "title": "젠슨황 깐부 회동 선물 “DGX Spark” 직접 써보니… 단순한 AI PC가 아닙니다 | 엔비디아의 AI 개발자 플랫폼 큰 그림 [안될공학xNVIDIA]",
-      "thumbnail_url": "https://i.ytimg.com/vi/0S3EtkkVC8s/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=0S3EtkkVC8s",
-      "published_at": "2026-07-27T10:00:14Z",
-      "view_count": 25202,
-      "like_count": 563,
-      "comment_count": 90,
-      "engagement_rate": 0.025910642012538686,
-      "topic_cluster": "MCP",
-      "summary": "엔비디아의 DGX Spark를 통해 개인 개발자가 책상 위에서 고성능 AI 개발 환경을 구축하는 방법을 살펴본다. 단순 AI PC를 넘어 AI 개발 생태계 전체를…",
-      "comment_signal": "사실상 2개가 기본단위인...",
-      "hook_type": "실험"
-    },
-    {
-      "video_id": "jajEm8R9nD0",
-      "channel_name": "빌더 조쉬 Builder Josh",
-      "title": "SaaS를 사람 없이 AI로 100% 운영하는 방법을 공개합니다. (진양의 인수창업 김지혁님)",
-      "thumbnail_url": "https://i.ytimg.com/vi/jajEm8R9nD0/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=jajEm8R9nD0",
-      "published_at": "2026-07-27T01:26:48Z",
-      "view_count": 8362,
-      "like_count": 199,
-      "comment_count": 23,
-      "engagement_rate": 0.02654867256637168,
-      "topic_cluster": "MCP",
-      "summary": "인수한 SaaS를 9개의 AI 에이전트로 1인 운영하는 전략을 공유한다. PM 에이전트를 통한 방대한 맥락 흡수와 쿼리어블 환경, 피드백 순환 구조인 클로즈드 루프…",
-      "comment_signal": "안녕하세요, 인수창업가 진양입니다! AI 전문가는 아니지만, 저희가 실제로 구축해 사용하고 있는 AI 업무 환경과 셋업을 공유해 드리고자 출연하게 되었습니다. 저희의 경험…",
-      "hook_type": "긴급성"
-    },
-    {
-      "video_id": "_tX58F1grUs",
-      "channel_name": "조코딩 JoCoding",
-      "title": "AI뉴스 - Claude Opus 5, Hugging Face 해킹, 오픈웨이트 규제, Gemini 3.6 Flash, FLUX 3, 샌프란 AI Summit 등",
-      "thumbnail_url": "https://i.ytimg.com/vi/_tX58F1grUs/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=_tX58F1grUs",
-      "published_at": "2026-07-27T14:02:18Z",
-      "view_count": 8178,
-      "like_count": 213,
-      "comment_count": 26,
-      "engagement_rate": 0.02922474932746393,
-      "topic_cluster": "OpenAI",
-      "summary": "Claude Opus 5 출시, 오픈 웨이트 모델 규제 논란 등 최신 AI 기술 동향과 함께 1인 창업 트렌드 및 관련 프로젝트들을 소개한다.",
-      "comment_signal": "클로드를 15만원짜리 몇년을 이용하다가 이미지나 이런거때문에 지피티로 옮긴 유저입니다 클로드 오퍼스5로 저정도 3d 모델 게임을 만들 수 있다고 하는데 대체 이미지나 이런…",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "l8nwqbZNvdo",
+      "video_id": "45HsF2_mIS8",
       "channel_name": "Dan Martell",
-      "title": "I don't care about grades or a report card",
-      "thumbnail_url": "https://i.ytimg.com/vi/l8nwqbZNvdo/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=l8nwqbZNvdo",
-      "published_at": "2026-07-27T21:01:06Z",
-      "view_count": 2088,
-      "like_count": 129,
+      "title": "Important or Not Important: Business Edition",
+      "thumbnail_url": "https://i.ytimg.com/vi/45HsF2_mIS8/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=45HsF2_mIS8",
+      "published_at": "2026-07-28T21:00:55Z",
+      "view_count": 2792,
+      "like_count": 140,
+      "comment_count": 7,
+      "engagement_rate": 0.05265042979942693,
+      "topic_cluster": "AI활용",
+      "summary": "비즈니스 효율성을 위해 AI로 불필요한 소통을 필터링하고 소셜 미디어 활동과 지표 관리를 일관되게 수행하는 것이 성공적인 사업 운영에 필수적이다.",
+      "comment_signal": "Hello when is APEX fully coming (please respond)",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "_3qXTqdEFm4",
+      "channel_name": "Matt Wolfe",
+      "title": "#ad Why AI Intelligence Is Overrated",
+      "thumbnail_url": "https://i.ytimg.com/vi/_3qXTqdEFm4/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=_3qXTqdEFm4",
+      "published_at": "2026-07-28T18:59:54Z",
+      "view_count": 1408,
+      "like_count": 64,
+      "comment_count": 1,
+      "engagement_rate": 0.04616477272727273,
+      "topic_cluster": "자동화",
+      "summary": "기업 환경에서는 단순한 AI 성능보다 보안, 규정 준수, 기존 업무 시스템과의 통합이 중요하며, ServiceNow가 이러한 운영 가드레일을 제공하는 핵심 기업으로…",
+      "comment_signal": "초기 댓글 반응은 붙었지만 아직 대화가 확장되지는 않았습니다.",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "J6xOL82JFJE",
+      "channel_name": "AI Andy",
+      "title": "I Tried Vibe Coding 100% of My SaaS Subscriptions (a $1047/mo Experiment)",
+      "thumbnail_url": "https://i.ytimg.com/vi/J6xOL82JFJE/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=J6xOL82JFJE",
+      "published_at": "2026-07-28T14:21:33Z",
+      "view_count": 285,
+      "like_count": 14,
       "comment_count": 3,
-      "engagement_rate": 0.06321839080459771,
-      "topic_cluster": "코딩",
-      "summary": "아이들의 성적이나 성적표보다 타인에 대한 친절함, 창의성, 자원 활용 능력과 같은 실질적인 삶의 태도가 더욱 중요함을 강조한다.",
-      "comment_signal": "I was the first comment",
+      "engagement_rate": 0.05964912280701754,
+      "topic_cluster": "OpenAI",
+      "summary": "SaaS 구독 비용을 줄이기 위해 '바이브 코딩'으로 대체 도구를 직접 개발하는 실험을 진행했으나, 완벽한 비용 제거는 불가능하며 특히 AI 모델 사용료는 대체하기…",
+      "comment_signal": "👉 Get AI Agents to Do Work For You: https://skool.com/aimate",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "bZczBtiCoJA",
+      "channel_name": "동테크",
+      "title": "1개월 만에, 편집 노가다에서 해방됐습니다(전과정 공유)",
+      "thumbnail_url": "https://i.ytimg.com/vi/bZczBtiCoJA/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=bZczBtiCoJA",
+      "published_at": "2026-07-28T23:55:06Z",
+      "view_count": 23,
+      "like_count": 4,
+      "comment_count": 1,
+      "engagement_rate": 0.21739130434782608,
+      "topic_cluster": "Claude",
+      "summary": "300시간의 시행착오 끝에 클로드 코드(Claude Code)를 활용하여 영상 편집 자동화 시스템을 구축했으며, 이를 통해 기존 편집 툴 구독을 해지할 수 있을 정…",
+      "comment_signal": "3주 AI 영상편집 자동화 챌린지(선착순 마감) → https://www.latpeed.com/products/fDj2V [① 레퍼런스 분석 마스터 프롬프트] 너는 영상…",
       "hook_type": "문제 해결"
     }
   ]
