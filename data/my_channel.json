@@ -1,27 +1,17 @@
 {
-  "generated_at": "2026-07-30T09:08:47.191991+09:00",
+  "generated_at": "2026-07-31T09:13:54.556215+09:00",
   "channel_name": "스마트대디",
   "period_days": 7,
   "daily": [
-    {
-      "date": "2026-07-24",
-      "views": 3291,
-      "likes": 28,
-      "comments": 0,
-      "subscribers_net": 5,
-      "watch_minutes": 6533,
-      "avg_view_duration_sec": 125.0,
-      "avg_view_percentage": 33.6
-    },
     {
       "date": "2026-07-25",
       "views": 4091,
       "likes": 23,
       "comments": 1,
       "subscribers_net": 6,
-      "watch_minutes": 7668,
+      "watch_minutes": 7661,
       "avg_view_duration_sec": 117.0,
-      "avg_view_percentage": 32.34
+      "avg_view_percentage": 32.31
     },
     {
       "date": "2026-07-26",
@@ -42,72 +32,82 @@
       "watch_minutes": 40282,
       "avg_view_duration_sec": 149.0,
       "avg_view_percentage": 26.35
+    },
+    {
+      "date": "2026-07-28",
+      "views": 14506,
+      "likes": 213,
+      "comments": 8,
+      "subscribers_net": 112,
+      "watch_minutes": 35923,
+      "avg_view_duration_sec": 154.0,
+      "avg_view_percentage": 27.02
     }
   ],
   "video_stats": [
     {
       "video_id": "lfq_r6r_0XY",
-      "views": 45065,
-      "avg_view_percentage": 35.72,
-      "avg_view_duration_sec": 117.0,
-      "likes": 255,
-      "comments": 2
+      "views": 45026,
+      "avg_view_percentage": 35.59,
+      "avg_view_duration_sec": 116.0,
+      "likes": 257,
+      "comments": 4
     },
     {
       "video_id": "dpRR4oFuRZw",
-      "views": 40495,
-      "avg_view_percentage": 33.59,
-      "avg_view_duration_sec": 181.0,
-      "likes": 612,
+      "views": 40694,
+      "avg_view_percentage": 33.56,
+      "avg_view_duration_sec": 180.0,
+      "likes": 615,
       "comments": 33
     },
     {
-      "video_id": "3Um4wm6S4LI",
-      "views": 26781,
-      "avg_view_percentage": 30.12,
-      "avg_view_duration_sec": 152.0,
-      "likes": 460,
-      "comments": 26
+      "video_id": "Kbf8yqauzF0",
+      "views": 36437,
+      "avg_view_percentage": 25.730000000000004,
+      "avg_view_duration_sec": 164.0,
+      "likes": 692,
+      "comments": 34
     },
     {
-      "video_id": "Kbf8yqauzF0",
-      "views": 25832,
-      "avg_view_percentage": 25.72,
-      "avg_view_duration_sec": 164.0,
-      "likes": 514,
-      "comments": 28
+      "video_id": "3Um4wm6S4LI",
+      "views": 24869,
+      "avg_view_percentage": 29.94,
+      "avg_view_duration_sec": 151.0,
+      "likes": 400,
+      "comments": 22
     },
     {
       "video_id": "qyTUW0fqgzc",
-      "views": 10544,
-      "avg_view_percentage": 99.98,
-      "avg_view_duration_sec": 46.0,
-      "likes": 47,
+      "views": 10585,
+      "avg_view_percentage": 100.16000000000001,
+      "avg_view_duration_sec": 47.0,
+      "likes": 51,
       "comments": 7
     },
     {
       "video_id": "tRdAiLkZmdM",
-      "views": 7016,
+      "views": 7017,
       "avg_view_percentage": 76.8,
       "avg_view_duration_sec": 12.0,
       "likes": 0,
       "comments": 0
     },
     {
-      "video_id": "b_zd8V3QF18",
-      "views": 6475,
-      "avg_view_percentage": 106.36000000000001,
-      "avg_view_duration_sec": 15.0,
-      "likes": 0,
-      "comments": 0
+      "video_id": "EbKWRA_N4Gs",
+      "views": 6164,
+      "avg_view_percentage": 38.23,
+      "avg_view_duration_sec": 139.0,
+      "likes": 62,
+      "comments": 2
     },
     {
-      "video_id": "EbKWRA_N4Gs",
-      "views": 5755,
-      "avg_view_percentage": 38.29,
-      "avg_view_duration_sec": 139.0,
-      "likes": 59,
-      "comments": 2
+      "video_id": "b_zd8V3QF18",
+      "views": 5238,
+      "avg_view_percentage": 97.96,
+      "avg_view_duration_sec": 14.0,
+      "likes": 0,
+      "comments": 0
     },
     {
       "video_id": "qJauUid0e1c",
@@ -119,29 +119,29 @@
     },
     {
       "video_id": "Ts-9MMZzkhM",
-      "views": 3941,
-      "avg_view_percentage": 17.77,
-      "avg_view_duration_sec": 152.0,
-      "likes": 24,
+      "views": 4028,
+      "avg_view_percentage": 17.96,
+      "avg_view_duration_sec": 153.0,
+      "likes": 29,
       "comments": 2
     }
   ],
   "yesterday": {
-    "date": "2026-07-27",
-    "views": 16678,
-    "likes": 260,
-    "comments": 11,
-    "subscribers_net": 172,
-    "watch_minutes": 40282,
-    "avg_view_duration_sec": 149.0,
-    "avg_view_percentage": 26.35,
-    "engagement_rate": 0.0162
+    "date": "2026-07-28",
+    "views": 14506,
+    "likes": 213,
+    "comments": 8,
+    "subscribers_net": 112,
+    "watch_minutes": 35923,
+    "avg_view_duration_sec": 154.0,
+    "avg_view_percentage": 27.02,
+    "engagement_rate": 0.0152
   },
   "avg_7d": {
-    "views": 10550.75,
-    "likes": 160.5,
-    "comments": 7.75,
-    "subscribers_net": 105.5,
-    "avg_view_percentage": 29.98
+    "views": 13354.5,
+    "likes": 206.75,
+    "comments": 9.75,
+    "subscribers_net": 132.25,
+    "avg_view_percentage": 28.33
   }
 }
