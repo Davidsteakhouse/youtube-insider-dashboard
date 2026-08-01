@@ -1,264 +1,262 @@
 {
-  "digest_date": "2026-07-31",
-  "generated_at": "2026-07-31T00:15:13+00:00",
-  "summary": "최근 24시간 영상 13개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'Claude'입니다. 특히 '반도체 대폭락 범인은 22세 천재?..\"바닥 확인 후 대폭등 중\"'는 조회수 50.9K, 참여율 5.6%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "'Claude' 주제가 3개 영상으로 가장 많이 다뤄졌습니다. Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n[내 채널] 7일 평균 13.4K회 · 지속률 28.3% / 경쟁사 평균 12.1K회 (격차 +11%)",
-  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 07/31\n\n📊 총 10개 | AI 핵심 10 · 인접 AI 0 · 일반 테크 보충 0\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 10 · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [조코딩 JoCoding] 28.2K뷰 · 참여율 0.9%\n   GPT를 여자친구로 만들어버림..\n   ↳ GPT를 활용하여 대화 가능한 AI 여자친구를 구현하는 과정을 다룬다.\n   https://youtu.be/QaFSOPFzM8I\n\n2. AI 핵심 · [조코딩 JoCoding] 23.2K뷰 · 참여율 2.2%\n   10억개의 토큰을 무료로 쓰는 ㅎㄷㄷ한 방법\n   ↳ 271개의 프로바이더와 500개 이상의 AI 모델을 연결해 월간 14억 개의 무료 토큰을 효율적으로 활용할 수 있는 오픈 소스 API 활용법을 소개한다.\n   https://youtu.be/Ijmm39E0dCQ\n\n3. AI 핵심 · [조코딩 JoCoding] 12.2K뷰 · 참여율 1.6%\n   아이디어 한 줄이면 바로 운영 가능한 웹페이지를 만들어주는 AI\n   ↳ AI 서비스인 'Manus'를 통해 한 줄의 아이디어만으로 웹사이트 기획부터 디자인, 데이터베이스 구축까지 한 번에 수행하고 즉시 운영하는 방법을 설명한다.\n   https://youtu.be/1Ia8FtgXGT8\n\n4. AI 핵심 · [tef] 9.2K뷰 · 참여율 7.9%\n   AI Makes Pokémon with ONLY Images\n   ↳ Claude Opus 5와 Lovart AI만을 사용하여 외부 에셋 없이 오직 생성된 이미지로만 포켓몬 게임 에셋을 제작하는 실험을 진행했다.\n   https://youtu.be/wOIIQ7llu7w\n\n5. AI 핵심 · [Matt Wolfe] 3.1K뷰 · 참여율 4.9%\n   The Most Capable Humanoid Robot Yet!\n   ↳ 구글의 'Gemini Robotics 2'는 머리부터 발끝까지 정밀하게 제어해 균형 잡힌 보행과 섬세한 사물 조작이 가능하며, 다양한 로봇 하드웨어에 빠르게 이식할 수 있는 최신 AI 소프트웨어다.\n   https://youtu.be/Q60VNdtyiAA\n\n6. AI 핵심 · [빌더 조쉬 Builder Josh] 2.8K뷰 · 참여율 6.4%\n   클로드 코드로 AI 콘텐츠 마케팅 에이전시 만들기: 퀄리티 좋은 카드뉴스 실습 (힉스필드 mcp + gpt image 2.0 + 서브에이전…\n   ↳ Claude Code, 힉스필드 MCP, GPT Image 2.0 등을 연동하여 대본 작성부터 카드뉴스 이미지 생성, 영상화까지 자동화하는 마케팅 에이전시 운영 실습을 보여준다.\n   https://youtu.be/-1zFrs_TnoM\n\n7. AI 핵심 · [The AI Automators] 2.6K뷰 · 참여율 3.1%\n   Boris Cherny Just Told Us To Delete Our CLAUDE.md Files\n   ↳ Claude Code의 제작자가 시스템 프롬프트인 'CLAUDE.md'를 삭제하고 ablation 방식을 도입할 것을 권장하며, 모델의 자율 운영 효율을 높이는 프로프팅 전략을 공유한다.\n   https://youtu.be/HWEy91kb-8w\n\n8. AI 핵심 · [AI 머니] 1.6K뷰 · 참여율 4.4%\n   힉스필드, 지금 딱 24시간만 무료로 풀렸습니다 (마감 임박)\n   ↳ 힉스필드 MCP를 Claude에 연결하여 고퀄리티 AI 영상을 무제한으로 제작하는 방법과 루프 기능을 활용한 자연스러운 영상 생성 기법을 소개한다.\n   https://youtu.be/Nv1xIBMzkZk\n\n9. AI 핵심 · [The AI Advantage] 1.4K뷰 · 참여율 6.8%\n   Google Just Made Tutoring Free for Everyone!\n   ↳ 구글 Gemini의 'Study Notebooks' 기능을 활용해 개인 맞춤형 AI 튜터로 학습 효율을 높이고 자료를 체계적으로 관리하는 방법을 설명한다.\n   https://youtu.be/uaMbKQIOtwk\n\n10. AI 핵심 · [성공지식백과] 140뷰 · 참여율 9.3%\n   전문가 필요X 500만원급 에프터이펙트효과 영상에 때려박는법..ㄷㄷ\n   ↳ Claude와 힉스필드 MCP를 연동하여 전문적인 편집 툴 없이도 프롬프트 한 줄로 대본, 보이스, 장면, 자막이 포함된 복스 스타일 영상을 자동 생성하는 프로세스를 시연한다.\n   https://youtu.be/w7WoBUHyLvg\n\n📈 스마트대디 어제 실적\n조회수 14.5K (↑9% vs 7일 평균) | 구독 +112\n시청 지속률 27.0% | 평균 시청 2분 34초\n경쟁사 평균 12.1K회 대비 내 7일 평균 +11%\n\n💡 VS 각도: Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
-  "video_count": 13,
+  "digest_date": "2026-08-01",
+  "generated_at": "2026-08-01T00:10:33+00:00",
+  "summary": "최근 24시간 영상 14개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'Seedance'입니다. 특히 'IT유튜버의 현실 출장템, 호텔 언박싱, 런던 맛집(?)까지! 폴드8 언팩 Vlog🇬🇧 | 댓글이벤트🎁'는 조회수 78.7K, 참여율 3.5%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "'Seedance' 주제가 3개 영상으로 가장 많이 다뤄졌습니다. 일반인 관점 직접 실험 or VS 비교 각도로 차별화할 영역이 있습니다.\n[내 채널] 7일 평균 16.1K회 · 지속률 26.7% / 경쟁사 평균 12.0K회 (격차 +34%)",
+  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 08/01\n\n📊 총 10개 | AI 핵심 9 · 인접 AI 1 · 일반 테크 보충 0\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 10 · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [조코딩 JoCoding] 27.1K뷰 · 참여율 0.7%\n   로봇에 몰빵한 중국 기업 근황\n   ↳ 중국 기업 유니트리의 사족보행 로봇은 거친 지형을 이동하고 상당한 무게의 짐을 운반할 수 있으며, 무기 장착 시 군사적 활용 가능성까지 보여주는 높은 성능을 갖췄습니다.\n   https://youtu.be/nbahzNt5Dik\n\n2. AI 핵심 · [Matt Wolfe] 24.6K뷰 · 참여율 5.4%\n   AI News: Opus 5, the Slack Killer & Google Earth AI\n   ↳ 앤스로픽의 클로드 오퍼스 5 출시와 구글 어스의 AI 이미지 생성 기능 등 최근 AI 업계의 주요 업데이트 소식을 정리하며 변화하는 기술 트렌드를 소개합니다.\n   https://youtu.be/sUmx-Yi6TwE\n\n3. AI 핵심 · [성공지식백과] 1.3K뷰 · 참여율 4.8%\n   영상계 뒤엎는 미친모델 시댄스 2.5 등장 ㄷㄷ.. (지금까지 모델과 비교자체가 안되는 수준)\n   ↳ 시댄스 2.5는 일관된 컨텍스트를 유지하며 30초 분량의 영상을 한 번에 생성하고, 레퍼런스 반영 및 부분 수정 기능이 대폭 강화되어 기존 모델 대비 압도적인 영상 제작 효율을 제공합니다.\n   https://youtu.be/ZhZT7VP1lCo\n\n4. AI 핵심 · [AI 머니] 890뷰 · 참여율 3.0%\n   Seedance 2.5가 드디어 공개됐습니다 (남들보다 먼저 무제한으로 쓰는 법)\n   ↳ 영상 생성 모델 시댄스 2.5의 공개와 함께, 신규 사용자 대상 14일 무제한 체험 이벤트를 통해 이전 모델과 2.5 버전을 단계적으로 활용하는 방법을 공유합니다.\n   https://youtu.be/VJOg90xFNSA\n\n5. AI 핵심 · [AI 머니] 633뷰 · 참여율 2.2%\n   Seedance 2.5가 AI 영상의 판도를 완전히 바꿨습니다\n   ↳ 시댄스 2.5와 2.0 모델의 비교를 통해 2.5 버전이 일관된 캐릭터 유지와 복잡한 액션 연출에서 보여주는 기술적 진보를 실증합니다.\n   https://youtu.be/dOdIIlR6Nz0\n\n6. AI 핵심 · [AI 머니] 509뷰 · 참여율 2.6%\n   Seedance 2.5 vs 2.0, 뭐가 달라졌는지 직접 비교해봤습니다 (+ 무제한 사용 꿀팁 공개)\n   ↳ 힙합 뮤직비디오 및 액션 시퀀스 비교를 통해 시댄스 2.5가 이전 버전 대비 장면 서사와 연출의 정교함에서 얼마나 큰 격차를 보이는지 직접 분석합니다.\n   https://youtu.be/dC_uL7anPPo\n\n7. AI 핵심 · [성공지식백과] 329뷰 · 참여율 7.3%\n   해외에서 난리난 천원으로 천만원급 웹사이트 만드는 미친 AI 기법..ㄷㄷ\n   ↳ 시댄스 2.5의 30초 연속 생성 및 편집 기능을 활용하여 AI로만 저비용 고품질의 디더링 기법 웹사이트를 구축하는 실무적인 제작 기법을 설명합니다.\n   https://youtu.be/CncpfDb21ts\n\n8. AI 핵심 · [성공지식백과] 225뷰 · 참여율 7.6%\n   수백장 만들어도 0원.. 미친 4K 고화질영상 \"진짜무료\" 로 만드는 방법\n   ↳ 스토리 시트 설계부터 캐릭터 시트 잡기, 카메라 앵글 분할 및 생성 과정을 통해 전문가 도움 없이도 4K 애니메이션을 무료로 제작하는 워크플로우를 제시합니다.\n   https://youtu.be/-DIxhBieCEw\n\n9. AI 핵심 · [AI Andy] 211뷰 · 참여율 2.8%\n   I Made Opus 5 Rebuild 6 Real Games From Scratch\n   ↳ 클로드 오퍼스 5를 사용하여 고전 게임 6종을 스크린샷과 간단한 지침만으로 브라우저 기반 게임으로 재구현하는 실험을 진행하며 AI의 개발 보조 능력을 검증합니다.\n   https://youtu.be/TPNgU0M1d5c\n\n10. AI 인접 · [주연 ZUYONI] 78.7K뷰 · 참여율 3.5%\n   IT유튜버의 현실 출장템, 호텔 언박싱, 런던 맛집(?)까지! 폴드8 언팩 Vlog🇬🇧 | 댓글이벤트🎁\n   ↳ 갤럭시 폴드8 언팩 출장을 위한 현실적인 여행 필수템과 숙소 활용법을 소개하고, 고속 충전 효율을 최적화하는 쿡테크 충전기 및 보조배터리 제품군을 리뷰합니다.\n   https://youtu.be/UMzMm3wdVSA\n\n📈 스마트대디 어제 실적\n조회수 15.6K (↓3% vs 7일 평균) | 구독 +122\n시청 지속률 25.9% | 평균 시청 2분 27초\n경쟁사 평균 12.0K회 대비 내 7일 평균 +34%\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+  "video_count": 14,
   "total_recent_video_count": 16,
   "focus_scope": "ai_priority_then_tech_fill",
-  "average_view_count": 12059.0,
-  "average_engagement_rate": 0.049444137700925,
-  "average_like_count": 423.0,
-  "average_comment_count": 44.0,
-  "best_video_id": "_rXgrFCQenE",
-  "best_topic": "Claude",
+  "average_view_count": 12004.0,
+  "average_engagement_rate": 0.04538058980250937,
+  "average_like_count": 356.0,
+  "average_comment_count": 94.0,
+  "best_video_id": "UMzMm3wdVSA",
+  "best_topic": "Seedance",
   "summary_points": [
-    "가장 겹친 주제는 'Claude'이며 3개 영상, 평균 조회수 4.0K, 평균 참여율 6.8%입니다.",
-    "최고 실적 영상은 '반도체 대폭락 범인은 22세 천재?..\"바닥 확인 후 대폭등 중\"'이며 문제 해결 훅과 뉴스 분석 포맷 조합이 강했습니다.",
-    "반복 노출된 툴은 Claude 3회, MCP 3회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
+    "가장 겹친 주제는 'Seedance'이며 3개 영상, 평균 조회수 677, 평균 참여율 2.6%입니다.",
+    "최고 실적 영상은 'IT유튜버의 현실 출장템, 호텔 언박싱, 런던 맛집(?)까지! 폴드8 언팩 Vlog🇬🇧 | 댓글이벤트🎁'이며 솔직 검증 훅과 비교 포맷 조합이 강했습니다.",
+    "반복 노출된 툴은 Claude 2회, ChatGPT 1회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
   ],
   "action_chips": [
-    "주제: Claude",
-    "훅: 문제 해결",
-    "포맷: 뉴스 분석",
-    "기준 채널: 월텍남 - 월스트리트 테크남"
+    "주제: Seedance",
+    "훅: 솔직 검증",
+    "포맷: 비교",
+    "기준 채널: 주연 ZUYONI"
   ],
   "title_suggestions": [
-    "Claude vs ChatGPT, 일반인이 직접 써보니 이게 달랐다",
-    "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
-    "AI 비서 대결: Claude가 진짜 강한 상황은 따로 있었다"
+    "Seedance 직접 실험 — 이게 진짜 되나?",
+    "Seedance vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
+    "Seedance 써봤더니... (기대 vs 현실 솔직 후기)"
   ],
   "recommendations": [
     {
-      "title": "Claude vs ChatGPT, 일반인이 직접 써보니 이게 달랐다",
-      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "Claude 바로 해결",
-      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
-      "source_video_id": "wOIIQ7llu7w",
-      "source": "AI Makes Pokémon with ONLY Images",
-      "my_channel_context": "내 7일 평균 13.4K회 · 지속률 28.3% / 경쟁사 대비 +11%"
+      "title": "Seedance 직접 실험 — 이게 진짜 되나?",
+      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
+      "angle": "큰 주제 하나를 대표 제목으로 세우고, 나머지 포인트는 보조 정보처럼 정리하는 압축형 포장이 좋습니다.",
+      "thumbnail_copy": "Seedance 지금 봐야 함",
+      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
+      "source_video_id": "VJOg90xFNSA",
+      "source": "Seedance 2.5가 드디어 공개됐습니다 (남들보다 먼저 무제한으로 쓰는 법)",
+      "my_channel_context": "내 7일 평균 16.1K회 · 지속률 26.7% / 경쟁사 대비 +34%"
     },
     {
-      "title": "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
-      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "Claude 바로 해결",
-      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
-      "source_video_id": "HWEy91kb-8w",
-      "source": "Boris Cherny Just Told Us To Delete Our CLAUDE.md Files",
-      "my_channel_context": "내 7일 평균 13.4K회 · 지속률 28.3% / 경쟁사 대비 +11%"
+      "title": "Seedance vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
+      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
+      "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
+      "thumbnail_copy": "Seedance 바로 해결",
+      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
+      "source_video_id": "dOdIIlR6Nz0",
+      "source": "Seedance 2.5가 AI 영상의 판도를 완전히 바꿨습니다",
+      "my_channel_context": "내 7일 평균 16.1K회 · 지속률 26.7% / 경쟁사 대비 +34%"
     },
     {
-      "title": "AI 비서 대결: Claude가 진짜 강한 상황은 따로 있었다",
-      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "Claude 핵심 3가지",
-      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
-      "source_video_id": "w7WoBUHyLvg",
-      "source": "전문가 필요X 500만원급 에프터이펙트효과 영상에 때려박는법..ㄷㄷ",
-      "my_channel_context": "내 7일 평균 13.4K회 · 지속률 28.3% / 경쟁사 대비 +11%"
+      "title": "Seedance 써봤더니... (기대 vs 현실 솔직 후기)",
+      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
+      "angle": "큰 주제 하나를 대표 제목으로 세우고, 나머지 포인트는 보조 정보처럼 정리하는 압축형 포장이 좋습니다.",
+      "thumbnail_copy": "Seedance 지금 봐야 함",
+      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
+      "source_video_id": "dC_uL7anPPo",
+      "source": "Seedance 2.5 vs 2.0, 뭐가 달라졌는지 직접 비교해봤습니다 (+ 무제한 사용 꿀팁 공개)",
+      "my_channel_context": "내 7일 평균 16.1K회 · 지속률 26.7% / 경쟁사 대비 +34%"
     }
   ],
   "topic_clusters": [
     {
-      "label": "Claude",
+      "label": "Seedance",
       "count": 3,
-      "avg_view_count": 3994,
-      "avg_engagement_rate": 0.06777225141390554,
-      "avg_like_count": 243,
-      "avg_comment_count": 32,
+      "avg_view_count": 677,
+      "avg_engagement_rate": 0.02599808577809754,
+      "avg_like_count": 16,
+      "avg_comment_count": 2,
       "source_titles": [
-        "AI Makes Pokémon with ONLY Images",
-        "Boris Cherny Just Told Us To Delete Our CLAUDE.md Files",
-        "전문가 필요X 500만원급 에프터이펙트효과 영상에 때려박는법..ㄷㄷ"
+        "Seedance 2.5가 드디어 공개됐습니다 (남들보다 먼저 무제한으로 쓰는 법)",
+        "Seedance 2.5가 AI 영상의 판도를 완전히 바꿨습니다",
+        "Seedance 2.5 vs 2.0, 뭐가 달라졌는지 직접 비교해봤습니다 (+ 무제한 사용 꿀팁 공개)"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/wOIIQ7llu7w/hqdefault.jpg",
-      "representative_video_id": "wOIIQ7llu7w",
-      "representative_title": "AI Makes Pokémon with ONLY Images"
+      "thumbnail_url": "https://i.ytimg.com/vi/VJOg90xFNSA/hqdefault.jpg",
+      "representative_video_id": "VJOg90xFNSA",
+      "representative_title": "Seedance 2.5가 드디어 공개됐습니다 (남들보다 먼저 무제한으로 쓰는 법)"
     },
     {
-      "label": "Gemini",
-      "count": 2,
-      "avg_view_count": 2273,
-      "avg_engagement_rate": 0.05842034052336562,
-      "avg_like_count": 120,
-      "avg_comment_count": 5,
-      "source_titles": [
-        "The Most Capable Humanoid Robot Yet!",
-        "Google Just Made Tutoring Free for Everyone!"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/Q60VNdtyiAA/hqdefault.jpg",
-      "representative_video_id": "Q60VNdtyiAA",
-      "representative_title": "The Most Capable Humanoid Robot Yet!"
-    },
-    {
-      "label": "MCP",
-      "count": 2,
-      "avg_view_count": 2178,
-      "avg_engagement_rate": 0.05399546794126797,
-      "avg_like_count": 114,
-      "avg_comment_count": 10,
-      "source_titles": [
-        "클로드 코드로 AI 콘텐츠 마케팅 에이전시 만들기: 퀄리티 좋은 카드뉴스 실습 (힉스필드 mcp + gpt image 2.0 + 서브에이전트)",
-        "힉스필드, 지금 딱 24시간만 무료로 풀렸습니다 (마감 임박)"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/-1zFrs_TnoM/hqdefault.jpg",
-      "representative_video_id": "-1zFrs_TnoM",
-      "representative_title": "클로드 코드로 AI 콘텐츠 마케팅 에이전시 만들기: 퀄리티 좋은 카드뉴스 실습 (힉스필드 mcp + gpt image 2.0 + 서브에이전트)"
-    },
-    {
-      "label": "반도체",
+      "label": "IT유튜버의",
       "count": 1,
-      "avg_view_count": 50925,
-      "avg_engagement_rate": 0.05561119293078056,
-      "avg_like_count": 2556,
-      "avg_comment_count": 276,
+      "avg_view_count": 78714,
+      "avg_engagement_rate": 0.035432070533831336,
+      "avg_like_count": 1745,
+      "avg_comment_count": 1044,
       "source_titles": [
-        "반도체 대폭락 범인은 22세 천재?..\"바닥 확인 후 대폭등 중\""
+        "IT유튜버의 현실 출장템, 호텔 언박싱, 런던 맛집(?)까지! 폴드8 언팩 Vlog🇬🇧 | 댓글이벤트🎁"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/_rXgrFCQenE/hqdefault.jpg",
-      "representative_video_id": "_rXgrFCQenE",
-      "representative_title": "반도체 대폭락 범인은 22세 천재?..\"바닥 확인 후 대폭등 중\""
+      "thumbnail_url": "https://i.ytimg.com/vi/UMzMm3wdVSA/hqdefault.jpg",
+      "representative_video_id": "UMzMm3wdVSA",
+      "representative_title": "IT유튜버의 현실 출장템, 호텔 언박싱, 런던 맛집(?)까지! 폴드8 언팩 Vlog🇬🇧 | 댓글이벤트🎁"
     },
     {
-      "label": "GPT를",
+      "label": "로봇에",
       "count": 1,
-      "avg_view_count": 28216,
-      "avg_engagement_rate": 0.009001984689537851,
-      "avg_like_count": 232,
-      "avg_comment_count": 22,
+      "avg_view_count": 27099,
+      "avg_engagement_rate": 0.006789918447175173,
+      "avg_like_count": 153,
+      "avg_comment_count": 31,
       "source_titles": [
-        "GPT를 여자친구로 만들어버림.."
+        "로봇에 몰빵한 중국 기업 근황"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/QaFSOPFzM8I/hqdefault.jpg",
-      "representative_video_id": "QaFSOPFzM8I",
-      "representative_title": "GPT를 여자친구로 만들어버림.."
+      "thumbnail_url": "https://i.ytimg.com/vi/nbahzNt5Dik/hqdefault.jpg",
+      "representative_video_id": "nbahzNt5Dik",
+      "representative_title": "로봇에 몰빵한 중국 기업 근황"
     },
     {
-      "label": "10억개의",
+      "label": "OpenAI",
       "count": 1,
-      "avg_view_count": 23242,
-      "avg_engagement_rate": 0.02168488081920661,
-      "avg_like_count": 492,
-      "avg_comment_count": 12,
+      "avg_view_count": 24566,
+      "avg_engagement_rate": 0.05389562810388342,
+      "avg_like_count": 1231,
+      "avg_comment_count": 93,
       "source_titles": [
-        "10억개의 토큰을 무료로 쓰는 ㅎㄷㄷ한 방법"
+        "AI News: Opus 5, the Slack Killer & Google Earth AI"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/Ijmm39E0dCQ/hqdefault.jpg",
-      "representative_video_id": "Ijmm39E0dCQ",
-      "representative_title": "10억개의 토큰을 무료로 쓰는 ㅎㄷㄷ한 방법"
+      "thumbnail_url": "https://i.ytimg.com/vi/sUmx-Yi6TwE/hqdefault.jpg",
+      "representative_video_id": "sUmx-Yi6TwE",
+      "representative_title": "AI News: Opus 5, the Slack Killer & Google Earth AI"
     },
     {
-      "label": "agents",
+      "label": "코딩",
       "count": 1,
-      "avg_view_count": 17269,
-      "avg_engagement_rate": 0.039029474781400196,
-      "avg_like_count": 561,
-      "avg_comment_count": 113,
+      "avg_view_count": 16754,
+      "avg_engagement_rate": 0.040348573474991045,
+      "avg_like_count": 608,
+      "avg_comment_count": 68,
       "source_titles": [
-        "한국을 거대한 AI 공장으로… 엔비디아가 한국 전체를 AI로 묶는 이유 | 삼성·SK·현대차·네이버의 역할 | 샌프란시스코 AI Summit"
+        "돈만 쓰던 빅테크, 이제 본격적 회수가 시작됩니다 | AI 클라우드 재계약의 비밀 | 구글·마소·AWS 실적으로 본 공급 부족"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/Of_LDvvZmYA/hqdefault.jpg",
-      "representative_video_id": "Of_LDvvZmYA",
-      "representative_title": "한국을 거대한 AI 공장으로… 엔비디아가 한국 전체를 AI로 묶는 이유 | 삼성·SK·현대차·네이버의 역할 | 샌프란시스코 AI Summit"
+      "thumbnail_url": "https://i.ytimg.com/vi/gf0cPrinP9w/hqdefault.jpg",
+      "representative_video_id": "gf0cPrinP9w",
+      "representative_title": "돈만 쓰던 빅테크, 이제 본격적 회수가 시작됩니다 | AI 클라우드 재계약의 비밀 | 구글·마소·AWS 실적으로 본 공급 부족"
     },
     {
-      "label": "아이디어",
+      "label": "AI자동화",
       "count": 1,
-      "avg_view_count": 12213,
-      "avg_engagement_rate": 0.015720953082780643,
-      "avg_like_count": 179,
-      "avg_comment_count": 13,
+      "avg_view_count": 8201,
+      "avg_engagement_rate": 0.06401658334349469,
+      "avg_like_count": 521,
+      "avg_comment_count": 4,
       "source_titles": [
-        "아이디어 한 줄이면 바로 운영 가능한 웹페이지를 만들어주는 AI"
+        "If you were to restart today, how would you become a millionaire?"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/1Ia8FtgXGT8/hqdefault.jpg",
-      "representative_video_id": "1Ia8FtgXGT8",
-      "representative_title": "아이디어 한 줄이면 바로 운영 가능한 웹페이지를 만들어주는 AI"
+      "thumbnail_url": "https://i.ytimg.com/vi/KhmCCjrH7As/hqdefault.jpg",
+      "representative_video_id": "KhmCCjrH7As",
+      "representative_title": "If you were to restart today, how would you become a millionaire?"
+    },
+    {
+      "label": "ChatGPT",
+      "count": 1,
+      "avg_view_count": 6388,
+      "avg_engagement_rate": 0.08531621790857859,
+      "avg_like_count": 507,
+      "avg_comment_count": 38,
+      "source_titles": [
+        "Follow and comment STACK for my full list"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/ZdqVvB7G0vM/hqdefault.jpg",
+      "representative_video_id": "ZdqVvB7G0vM",
+      "representative_title": "Follow and comment STACK for my full list"
+    },
+    {
+      "label": "생산성",
+      "count": 1,
+      "avg_view_count": 2255,
+      "avg_engagement_rate": 0.04611973392461197,
+      "avg_like_count": 76,
+      "avg_comment_count": 28,
+      "source_titles": [
+        "$100M CEO handles sales objections"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/Y7ijB2wGihM/hqdefault.jpg",
+      "representative_video_id": "Y7ijB2wGihM",
+      "representative_title": "$100M CEO handles sales objections"
     }
   ],
   "video_highlights": [
     {
-      "video_id": "_rXgrFCQenE",
-      "channel_name": "월텍남 - 월스트리트 테크남",
-      "title": "반도체 대폭락 범인은 22세 천재?..\"바닥 확인 후 대폭등 중\"",
-      "thumbnail_url": "https://i.ytimg.com/vi/_rXgrFCQenE/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=_rXgrFCQenE",
-      "published_at": "2026-07-30T17:49:46Z",
-      "view_count": 50925,
-      "like_count": 2556,
-      "comment_count": 276,
-      "engagement_rate": 0.05561119293078056,
-      "topic_cluster": "반도체",
-      "summary": "미국 반도체 시장의 하락 원인을 레오폴드 헤지펀드 사건과 연관 지어 분석하고, 메모리 반도체 기업의 실적과 빅테크의 투자 전략을 바탕으로 향후 전망을 진단한다.",
-      "comment_signal": "싹다 죽이고 출발하는구나 무섭다 ㅋㅋ",
+      "video_id": "UMzMm3wdVSA",
+      "channel_name": "주연 ZUYONI",
+      "title": "IT유튜버의 현실 출장템, 호텔 언박싱, 런던 맛집(?)까지! 폴드8 언팩 Vlog🇬🇧 | 댓글이벤트🎁",
+      "thumbnail_url": "https://i.ytimg.com/vi/UMzMm3wdVSA/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=UMzMm3wdVSA",
+      "published_at": "2026-07-31T10:00:30Z",
+      "view_count": 78714,
+      "like_count": 1745,
+      "comment_count": 1044,
+      "engagement_rate": 0.035432070533831336,
+      "topic_cluster": "IT유튜버의",
+      "summary": "갤럭시 폴드8 언팩 출장을 위한 현실적인 여행 필수템과 숙소 활용법을 소개하고, 고속 충전 효율을 최적화하는 쿡테크 충전기 및 보조배터리 제품군을 리뷰합니다.",
+      "comment_signal": "영상보며 늘어가는 테크 지식이 아니라 노숙지식이 늘었습니다.",
+      "hook_type": "솔직 검증"
+    },
+    {
+      "video_id": "nbahzNt5Dik",
+      "channel_name": "조코딩 JoCoding",
+      "title": "로봇에 몰빵한 중국 기업 근황",
+      "thumbnail_url": "https://i.ytimg.com/vi/nbahzNt5Dik/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=nbahzNt5Dik",
+      "published_at": "2026-07-31T06:00:19Z",
+      "view_count": 27099,
+      "like_count": 153,
+      "comment_count": 31,
+      "engagement_rate": 0.006789918447175173,
+      "topic_cluster": "로봇에",
+      "summary": "중국 기업 유니트리의 사족보행 로봇은 거친 지형을 이동하고 상당한 무게의 짐을 운반할 수 있으며, 무기 장착 시 군사적 활용 가능성까지 보여주는 높은 성능을 갖췄습…",
+      "comment_signal": "움직임이 괴랄해선가 개무섭네 ㄷㄷ",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "QaFSOPFzM8I",
-      "channel_name": "조코딩 JoCoding",
-      "title": "GPT를 여자친구로 만들어버림..",
-      "thumbnail_url": "https://i.ytimg.com/vi/QaFSOPFzM8I/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=QaFSOPFzM8I",
-      "published_at": "2026-07-30T06:00:25Z",
-      "view_count": 28216,
-      "like_count": 232,
-      "comment_count": 22,
-      "engagement_rate": 0.009001984689537851,
-      "topic_cluster": "GPT를",
-      "summary": "GPT를 활용하여 대화 가능한 AI 여자친구를 구현하는 과정을 다룬다.",
-      "comment_signal": "이야.... 반하겠다",
+      "video_id": "sUmx-Yi6TwE",
+      "channel_name": "Matt Wolfe",
+      "title": "AI News: Opus 5, the Slack Killer & Google Earth AI",
+      "thumbnail_url": "https://i.ytimg.com/vi/sUmx-Yi6TwE/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=sUmx-Yi6TwE",
+      "published_at": "2026-07-31T14:30:14Z",
+      "view_count": 24566,
+      "like_count": 1231,
+      "comment_count": 93,
+      "engagement_rate": 0.05389562810388342,
+      "topic_cluster": "OpenAI",
+      "summary": "앤스로픽의 클로드 오퍼스 5 출시와 구글 어스의 AI 이미지 생성 기능 등 최근 AI 업계의 주요 업데이트 소식을 정리하며 변화하는 기술 트렌드를 소개합니다.",
+      "comment_signal": "4:37 lol thats utterly amazing",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "Ijmm39E0dCQ",
-      "channel_name": "조코딩 JoCoding",
-      "title": "10억개의 토큰을 무료로 쓰는 ㅎㄷㄷ한 방법",
-      "thumbnail_url": "https://i.ytimg.com/vi/Ijmm39E0dCQ/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=Ijmm39E0dCQ",
-      "published_at": "2026-07-30T09:27:20Z",
-      "view_count": 23242,
-      "like_count": 492,
-      "comment_count": 12,
-      "engagement_rate": 0.02168488081920661,
-      "topic_cluster": "10억개의",
-      "summary": "271개의 프로바이더와 500개 이상의 AI 모델을 연결해 월간 14억 개의 무료 토큰을 효율적으로 활용할 수 있는 오픈 소스 API 활용법을 소개한다.",
-      "comment_signal": "ㅋㅋㅋㅋㅋ 성능 와따가따 레전드겠네",
+      "video_id": "gf0cPrinP9w",
+      "channel_name": "안될공학 - IT 테크 신기술",
+      "title": "돈만 쓰던 빅테크, 이제 본격적 회수가 시작됩니다 | AI 클라우드 재계약의 비밀 | 구글·마소·AWS 실적으로 본 공급 부족",
+      "thumbnail_url": "https://i.ytimg.com/vi/gf0cPrinP9w/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=gf0cPrinP9w",
+      "published_at": "2026-07-31T11:37:13Z",
+      "view_count": 16754,
+      "like_count": 608,
+      "comment_count": 68,
+      "engagement_rate": 0.040348573474991045,
+      "topic_cluster": "코딩",
+      "summary": "빅테크 기업의 AI 투자가 저가 장기 계약 종료 및 클라우드 자원 수요 급증과 맞물려 향후 본격적인 수익 회수 구간으로 진입할 것이라는 시장 전망을 분석합니다.",
+      "comment_signal": "로봇시대가 조만간 열리면.. 다시 퀀텀 점프..",
       "hook_type": "수익"
     },
     {
-      "video_id": "Of_LDvvZmYA",
-      "channel_name": "안될공학 - IT 테크 신기술",
-      "title": "한국을 거대한 AI 공장으로… 엔비디아가 한국 전체를 AI로 묶는 이유 | 삼성·SK·현대차·네이버의 역할 | 샌프란시스코 AI Summit",
-      "thumbnail_url": "https://i.ytimg.com/vi/Of_LDvvZmYA/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=Of_LDvvZmYA",
-      "published_at": "2026-07-30T07:44:44Z",
-      "view_count": 17269,
-      "like_count": 561,
-      "comment_count": 113,
-      "engagement_rate": 0.039029474781400196,
-      "topic_cluster": "agents",
-      "summary": "엔비디아가 한국의 주요 기업들과 협력해 하드웨어 공급을 넘어 데이터, 모델, 제조, 로봇이 순환되는 거대한 AI 학습 및 산업 생태계를 구축하려는 전략을 분석한다.",
-      "comment_signal": "지금 엔비디아는 시장이 쪼그라들까봐 혈안이 되어 시장 개척중임 한국에서 삼전 하닉이 벌어놓은 막대한 자금을 GPU 사는데 쓰도록 유도하고 싶은거임",
+      "video_id": "KhmCCjrH7As",
+      "channel_name": "Dan Martell",
+      "title": "If you were to restart today, how would you become a millionaire?",
+      "thumbnail_url": "https://i.ytimg.com/vi/KhmCCjrH7As/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=KhmCCjrH7As",
+      "published_at": "2026-07-31T15:03:41Z",
+      "view_count": 8201,
+      "like_count": 521,
+      "comment_count": 4,
+      "engagement_rate": 0.06401658334349469,
+      "topic_cluster": "AI자동화",
+      "summary": "무일푼 상태에서 다시 시작해 백만장자가 되기 위한 비즈니스 전략과 핵심 역량 강화 방안에 대해 논합니다.",
+      "comment_signal": "if you learn sales you will never go hungry again",
       "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "1Ia8FtgXGT8",
-      "channel_name": "조코딩 JoCoding",
-      "title": "아이디어 한 줄이면 바로 운영 가능한 웹페이지를 만들어주는 AI",
-      "thumbnail_url": "https://i.ytimg.com/vi/1Ia8FtgXGT8/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=1Ia8FtgXGT8",
-      "published_at": "2026-07-30T05:00:39Z",
-      "view_count": 12213,
-      "like_count": 179,
-      "comment_count": 13,
-      "engagement_rate": 0.015720953082780643,
-      "topic_cluster": "아이디어",
-      "summary": "AI 서비스인 'Manus'를 통해 한 줄의 아이디어만으로 웹사이트 기획부터 디자인, 데이터베이스 구축까지 한 번에 수행하고 즉시 운영하는 방법을 설명한다.",
-      "comment_signal": "마누스... 다 좋은데 크레딧 소모가 너무 심함,,",
-      "hook_type": "시간 절약"
     }
   ]
 }
