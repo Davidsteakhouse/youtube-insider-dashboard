@@ -1,261 +1,194 @@
 {
-  "digest_date": "2026-08-01",
-  "generated_at": "2026-08-01T00:10:33+00:00",
-  "summary": "최근 24시간 영상 14개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'Seedance'입니다. 특히 'IT유튜버의 현실 출장템, 호텔 언박싱, 런던 맛집(?)까지! 폴드8 언팩 Vlog🇬🇧 | 댓글이벤트🎁'는 조회수 78.7K, 참여율 3.5%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "'Seedance' 주제가 3개 영상으로 가장 많이 다뤄졌습니다. 일반인 관점 직접 실험 or VS 비교 각도로 차별화할 영역이 있습니다.\n[내 채널] 7일 평균 16.1K회 · 지속률 26.7% / 경쟁사 평균 12.0K회 (격차 +34%)",
-  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 08/01\n\n📊 총 10개 | AI 핵심 9 · 인접 AI 1 · 일반 테크 보충 0\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 10 · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [조코딩 JoCoding] 27.1K뷰 · 참여율 0.7%\n   로봇에 몰빵한 중국 기업 근황\n   ↳ 중국 기업 유니트리의 사족보행 로봇은 거친 지형을 이동하고 상당한 무게의 짐을 운반할 수 있으며, 무기 장착 시 군사적 활용 가능성까지 보여주는 높은 성능을 갖췄습니다.\n   https://youtu.be/nbahzNt5Dik\n\n2. AI 핵심 · [Matt Wolfe] 24.6K뷰 · 참여율 5.4%\n   AI News: Opus 5, the Slack Killer & Google Earth AI\n   ↳ 앤스로픽의 클로드 오퍼스 5 출시와 구글 어스의 AI 이미지 생성 기능 등 최근 AI 업계의 주요 업데이트 소식을 정리하며 변화하는 기술 트렌드를 소개합니다.\n   https://youtu.be/sUmx-Yi6TwE\n\n3. AI 핵심 · [성공지식백과] 1.3K뷰 · 참여율 4.8%\n   영상계 뒤엎는 미친모델 시댄스 2.5 등장 ㄷㄷ.. (지금까지 모델과 비교자체가 안되는 수준)\n   ↳ 시댄스 2.5는 일관된 컨텍스트를 유지하며 30초 분량의 영상을 한 번에 생성하고, 레퍼런스 반영 및 부분 수정 기능이 대폭 강화되어 기존 모델 대비 압도적인 영상 제작 효율을 제공합니다.\n   https://youtu.be/ZhZT7VP1lCo\n\n4. AI 핵심 · [AI 머니] 890뷰 · 참여율 3.0%\n   Seedance 2.5가 드디어 공개됐습니다 (남들보다 먼저 무제한으로 쓰는 법)\n   ↳ 영상 생성 모델 시댄스 2.5의 공개와 함께, 신규 사용자 대상 14일 무제한 체험 이벤트를 통해 이전 모델과 2.5 버전을 단계적으로 활용하는 방법을 공유합니다.\n   https://youtu.be/VJOg90xFNSA\n\n5. AI 핵심 · [AI 머니] 633뷰 · 참여율 2.2%\n   Seedance 2.5가 AI 영상의 판도를 완전히 바꿨습니다\n   ↳ 시댄스 2.5와 2.0 모델의 비교를 통해 2.5 버전이 일관된 캐릭터 유지와 복잡한 액션 연출에서 보여주는 기술적 진보를 실증합니다.\n   https://youtu.be/dOdIIlR6Nz0\n\n6. AI 핵심 · [AI 머니] 509뷰 · 참여율 2.6%\n   Seedance 2.5 vs 2.0, 뭐가 달라졌는지 직접 비교해봤습니다 (+ 무제한 사용 꿀팁 공개)\n   ↳ 힙합 뮤직비디오 및 액션 시퀀스 비교를 통해 시댄스 2.5가 이전 버전 대비 장면 서사와 연출의 정교함에서 얼마나 큰 격차를 보이는지 직접 분석합니다.\n   https://youtu.be/dC_uL7anPPo\n\n7. AI 핵심 · [성공지식백과] 329뷰 · 참여율 7.3%\n   해외에서 난리난 천원으로 천만원급 웹사이트 만드는 미친 AI 기법..ㄷㄷ\n   ↳ 시댄스 2.5의 30초 연속 생성 및 편집 기능을 활용하여 AI로만 저비용 고품질의 디더링 기법 웹사이트를 구축하는 실무적인 제작 기법을 설명합니다.\n   https://youtu.be/CncpfDb21ts\n\n8. AI 핵심 · [성공지식백과] 225뷰 · 참여율 7.6%\n   수백장 만들어도 0원.. 미친 4K 고화질영상 \"진짜무료\" 로 만드는 방법\n   ↳ 스토리 시트 설계부터 캐릭터 시트 잡기, 카메라 앵글 분할 및 생성 과정을 통해 전문가 도움 없이도 4K 애니메이션을 무료로 제작하는 워크플로우를 제시합니다.\n   https://youtu.be/-DIxhBieCEw\n\n9. AI 핵심 · [AI Andy] 211뷰 · 참여율 2.8%\n   I Made Opus 5 Rebuild 6 Real Games From Scratch\n   ↳ 클로드 오퍼스 5를 사용하여 고전 게임 6종을 스크린샷과 간단한 지침만으로 브라우저 기반 게임으로 재구현하는 실험을 진행하며 AI의 개발 보조 능력을 검증합니다.\n   https://youtu.be/TPNgU0M1d5c\n\n10. AI 인접 · [주연 ZUYONI] 78.7K뷰 · 참여율 3.5%\n   IT유튜버의 현실 출장템, 호텔 언박싱, 런던 맛집(?)까지! 폴드8 언팩 Vlog🇬🇧 | 댓글이벤트🎁\n   ↳ 갤럭시 폴드8 언팩 출장을 위한 현실적인 여행 필수템과 숙소 활용법을 소개하고, 고속 충전 효율을 최적화하는 쿡테크 충전기 및 보조배터리 제품군을 리뷰합니다.\n   https://youtu.be/UMzMm3wdVSA\n\n📈 스마트대디 어제 실적\n조회수 15.6K (↓3% vs 7일 평균) | 구독 +122\n시청 지속률 25.9% | 평균 시청 2분 27초\n경쟁사 평균 12.0K회 대비 내 7일 평균 +34%\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
-  "video_count": 14,
-  "total_recent_video_count": 16,
+  "digest_date": "2026-08-02",
+  "generated_at": "2026-08-02T00:07:15+00:00",
+  "summary": "최근 24시간 영상 5개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'ChatGPT'입니다. 특히 '구글 로봇 경쟁자는 테슬라가 아닙니다... Gemini Robotics 2에서 밝혀진, 로봇판 안드로이드 등장'는 조회수 23.3K, 참여율 2.7%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "'ChatGPT' 주제가 2개 영상으로 가장 많이 다뤄졌습니다. ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.\n[내 채널] 7일 평균 14.2K회 · 지속률 26.3% / 경쟁사 평균 12.3K회 (격차 +15%)",
+  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 08/02\n\n📊 총 7개 | AI 핵심 3 · 인접 AI 2 · 일반 테크 보충 2\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 7 (최대 10) · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [AI Samson] 17.0K뷰 · 참여율 4.0%\n   Seedance 2.5 Is Finally Here... But Is It Actually Better?\n   ↳ Seedance 2.5는 사실적인 영상미, 캐릭터 일관성, 영화적 카메라 움직임 등 향상된 기능을 제공하며 AI 영상 제작의 큰 도약을 보여줍니다. 실무적인 워크플로우와 VFX 데모를 통해 성능을 검증하지만, 모델…\n   https://youtu.be/VBtMLBDIbx8\n\n2. AI 핵심 · [The AI Advantage] 13.0K뷰 · 참여율 4.3%\n   You Have to Try the New ChatGPT Voice!\n   ↳ ChatGPT의 새로운 음성 모드는 웹, 모바일, 데스크톱 전반에서 업무 효율을 높여주지만, 모바일에서는 실시간 비디오 및 사진 인식 기능이 일부 제한되는 등의 제약이 있습니다.\n   https://youtu.be/UIKgq0LBfws\n\n3. AI 핵심 · [Matt Wolfe] 1.4K뷰 · 참여율 4.7%\n   We’re getting closer to “Jarvis” everyday!\n   ↳ ChatGPT와 Claude의 새로운 음성 기능을 활용해 3D 디자인 생성 및 편집 과정을 음성 명령만으로 수행하는 '개인용 자비스' 구현 방법을 소개합니다.\n   https://youtu.be/PaNIJ9l2NOE\n\n4. AI 인접 · [안될공학 - IT 테크 신기술] 23.3K뷰 · 참여율 2.7%\n   구글 로봇 경쟁자는 테슬라가 아닙니다... Gemini Robotics 2에서 밝혀진, 로봇판 안드로이드 등장\n   ↳ 구글의 Gemini Robotics 2는 서로 다른 로봇이 동일한 기반 지능을 공유하는 멀티 로봇 협업 구조를 제시합니다. 하드웨어의 화려한 동작보다 AI 모델의 범용성과 적응 학습 능력이 로봇 산업의 핵심임을 강…\n   https://youtu.be/VrloORxOLoA\n\n5. AI 인접 · [Dan Martell] 6.8K뷰 · 참여율 6.5%\n   Answering your AI questions\n   ↳ AI가 잘못된 정보를 사실처럼 말할 때가 있으므로 항상 스스로 검토하게 하거나 논쟁을 유도하는 방식이 결과의 창의성과 정확도를 높이는 데 도움이 됩니다.\n   https://youtu.be/jBcjSqlt0LM\n\n6. 테크 보충 · [ITSub잇섭] 317.6K뷰 · 참여율 1.4%\n   와이드가 꼭 정답은 아닙니다. 의외로 만족스러웠던 Z 폴드8 울트라 일주일 사용기!\n   ↳ 갤럭시 Z 폴드8 울트라는 기존 모델 대비 무게 배분이 개선되어 펼쳤을 때의 사용감이 우수합니다. 카메라 디테일과 화면 비율 등에서 호불호가 갈릴 수 있으나, 일주일간의 실사용을 통해 기기의 성능과 완성도를 종합적…\n   https://youtu.be/uq14seOjILU\n\n7. 테크 보충 · [ITSub잇섭] 54.8K뷰 · 참여율 1.2%\n   폴드8 구입 전 미리 비율을 볼 수 있는 사이트가 있다?!\n   ↳ 갤럭시 Z 폴드8 시리즈 구매 전, 접거나 펼친 상태에서의 화면 비율과 실제 활용도를 다양한 애플리케이션 환경에서 미리 체험해 볼 수 있는 웹 서비스를 안내합니다.\n   https://youtu.be/YS55-h4w1wc\n\n📈 스마트대디 어제 실적\n조회수 10.5K (↓26% vs 7일 평균) | 구독 +87\n시청 지속률 25.9% | 평균 시청 2분 24초\n경쟁사 평균 12.3K회 대비 내 7일 평균 +15%\n\n💡 VS 각도: ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+  "video_count": 5,
+  "total_recent_video_count": 9,
   "focus_scope": "ai_priority_then_tech_fill",
-  "average_view_count": 12004.0,
-  "average_engagement_rate": 0.04538058980250937,
-  "average_like_count": 356.0,
-  "average_comment_count": 94.0,
-  "best_video_id": "UMzMm3wdVSA",
-  "best_topic": "Seedance",
+  "average_view_count": 12304.0,
+  "average_engagement_rate": 0.04432310274528156,
+  "average_like_count": 435.0,
+  "average_comment_count": 38.0,
+  "best_video_id": "VrloORxOLoA",
+  "best_topic": "ChatGPT",
   "summary_points": [
-    "가장 겹친 주제는 'Seedance'이며 3개 영상, 평균 조회수 677, 평균 참여율 2.6%입니다.",
-    "최고 실적 영상은 'IT유튜버의 현실 출장템, 호텔 언박싱, 런던 맛집(?)까지! 폴드8 언팩 Vlog🇬🇧 | 댓글이벤트🎁'이며 솔직 검증 훅과 비교 포맷 조합이 강했습니다.",
-    "반복 노출된 툴은 Claude 2회, ChatGPT 1회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
+    "가장 겹친 주제는 'ChatGPT'이며 2개 영상, 평균 조회수 4.1K, 평균 참여율 5.6%입니다.",
+    "최고 실적 영상은 '구글 로봇 경쟁자는 테슬라가 아닙니다... Gemini Robotics 2에서 밝혀진, 로봇판 안드로이드 등장'이며 문제 해결 훅과 비교 포맷 조합이 강했습니다.",
+    "반복 노출된 툴은 ChatGPT 3회, Claude 3회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
   ],
   "action_chips": [
-    "주제: Seedance",
-    "훅: 솔직 검증",
+    "주제: ChatGPT",
+    "훅: 문제 해결",
     "포맷: 비교",
-    "기준 채널: 주연 ZUYONI"
+    "기준 채널: 안될공학 - IT 테크 신기술"
   ],
   "title_suggestions": [
-    "Seedance 직접 실험 — 이게 진짜 되나?",
-    "Seedance vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
-    "Seedance 써봤더니... (기대 vs 현실 솔직 후기)"
+    "ChatGPT vs Claude vs Gemini, 일반인 업무 실전 대결 결과",
+    "GPT 최신 버전 직접 실험 — 이전이랑 진짜 달라?",
+    "GPT 써봤더니... 기대랑 다른 점 솔직하게 다 말해봄"
   ],
   "recommendations": [
     {
-      "title": "Seedance 직접 실험 — 이게 진짜 되나?",
-      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
-      "angle": "큰 주제 하나를 대표 제목으로 세우고, 나머지 포인트는 보조 정보처럼 정리하는 압축형 포장이 좋습니다.",
-      "thumbnail_copy": "Seedance 지금 봐야 함",
-      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
-      "source_video_id": "VJOg90xFNSA",
-      "source": "Seedance 2.5가 드디어 공개됐습니다 (남들보다 먼저 무제한으로 쓰는 법)",
-      "my_channel_context": "내 7일 평균 16.1K회 · 지속률 26.7% / 경쟁사 대비 +34%"
+      "title": "ChatGPT vs Claude vs Gemini, 일반인 업무 실전 대결 결과",
+      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
+      "angle": "'ChatGPT'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
+      "thumbnail_copy": "ChatGPT 바로 해결",
+      "reason": "ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.",
+      "source_video_id": "jBcjSqlt0LM",
+      "source": "Answering your AI questions",
+      "my_channel_context": "내 7일 평균 14.2K회 · 지속률 26.3% / 경쟁사 대비 +15%"
     },
     {
-      "title": "Seedance vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
-      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
-      "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
-      "thumbnail_copy": "Seedance 바로 해결",
-      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
-      "source_video_id": "dOdIIlR6Nz0",
-      "source": "Seedance 2.5가 AI 영상의 판도를 완전히 바꿨습니다",
-      "my_channel_context": "내 7일 평균 16.1K회 · 지속률 26.7% / 경쟁사 대비 +34%"
-    },
-    {
-      "title": "Seedance 써봤더니... (기대 vs 현실 솔직 후기)",
-      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
-      "angle": "큰 주제 하나를 대표 제목으로 세우고, 나머지 포인트는 보조 정보처럼 정리하는 압축형 포장이 좋습니다.",
-      "thumbnail_copy": "Seedance 지금 봐야 함",
-      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
-      "source_video_id": "dC_uL7anPPo",
-      "source": "Seedance 2.5 vs 2.0, 뭐가 달라졌는지 직접 비교해봤습니다 (+ 무제한 사용 꿀팁 공개)",
-      "my_channel_context": "내 7일 평균 16.1K회 · 지속률 26.7% / 경쟁사 대비 +34%"
+      "title": "GPT 최신 버전 직접 실험 — 이전이랑 진짜 달라?",
+      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
+      "angle": "'ChatGPT'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
+      "thumbnail_copy": "ChatGPT 바로 해결",
+      "reason": "ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.",
+      "source_video_id": "PaNIJ9l2NOE",
+      "source": "We’re getting closer to “Jarvis” everyday!",
+      "my_channel_context": "내 7일 평균 14.2K회 · 지속률 26.3% / 경쟁사 대비 +15%"
     }
   ],
   "topic_clusters": [
     {
-      "label": "Seedance",
-      "count": 3,
-      "avg_view_count": 677,
-      "avg_engagement_rate": 0.02599808577809754,
-      "avg_like_count": 16,
-      "avg_comment_count": 2,
+      "label": "ChatGPT",
+      "count": 2,
+      "avg_view_count": 4090,
+      "avg_engagement_rate": 0.05602664361707715,
+      "avg_like_count": 240,
+      "avg_comment_count": 13,
       "source_titles": [
-        "Seedance 2.5가 드디어 공개됐습니다 (남들보다 먼저 무제한으로 쓰는 법)",
-        "Seedance 2.5가 AI 영상의 판도를 완전히 바꿨습니다",
-        "Seedance 2.5 vs 2.0, 뭐가 달라졌는지 직접 비교해봤습니다 (+ 무제한 사용 꿀팁 공개)"
+        "Answering your AI questions",
+        "We’re getting closer to “Jarvis” everyday!"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/VJOg90xFNSA/hqdefault.jpg",
-      "representative_video_id": "VJOg90xFNSA",
-      "representative_title": "Seedance 2.5가 드디어 공개됐습니다 (남들보다 먼저 무제한으로 쓰는 법)"
+      "thumbnail_url": "https://i.ytimg.com/vi/jBcjSqlt0LM/hqdefault.jpg",
+      "representative_video_id": "jBcjSqlt0LM",
+      "representative_title": "Answering your AI questions"
     },
     {
-      "label": "IT유튜버의",
+      "label": "Gemini",
       "count": 1,
-      "avg_view_count": 78714,
-      "avg_engagement_rate": 0.035432070533831336,
-      "avg_like_count": 1745,
-      "avg_comment_count": 1044,
+      "avg_view_count": 23298,
+      "avg_engagement_rate": 0.02678341488539789,
+      "avg_like_count": 576,
+      "avg_comment_count": 48,
       "source_titles": [
-        "IT유튜버의 현실 출장템, 호텔 언박싱, 런던 맛집(?)까지! 폴드8 언팩 Vlog🇬🇧 | 댓글이벤트🎁"
+        "구글 로봇 경쟁자는 테슬라가 아닙니다... Gemini Robotics 2에서 밝혀진, 로봇판 안드로이드 등장"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/UMzMm3wdVSA/hqdefault.jpg",
-      "representative_video_id": "UMzMm3wdVSA",
-      "representative_title": "IT유튜버의 현실 출장템, 호텔 언박싱, 런던 맛집(?)까지! 폴드8 언팩 Vlog🇬🇧 | 댓글이벤트🎁"
+      "thumbnail_url": "https://i.ytimg.com/vi/VrloORxOLoA/hqdefault.jpg",
+      "representative_video_id": "VrloORxOLoA",
+      "representative_title": "구글 로봇 경쟁자는 테슬라가 아닙니다... Gemini Robotics 2에서 밝혀진, 로봇판 안드로이드 등장"
     },
     {
-      "label": "로봇에",
+      "label": "Claude",
       "count": 1,
-      "avg_view_count": 27099,
-      "avg_engagement_rate": 0.006789918447175173,
-      "avg_like_count": 153,
-      "avg_comment_count": 31,
+      "avg_view_count": 17040,
+      "avg_engagement_rate": 0.0397887323943662,
+      "avg_like_count": 597,
+      "avg_comment_count": 81,
       "source_titles": [
-        "로봇에 몰빵한 중국 기업 근황"
+        "Seedance 2.5 Is Finally Here... But Is It Actually Better?"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/nbahzNt5Dik/hqdefault.jpg",
-      "representative_video_id": "nbahzNt5Dik",
-      "representative_title": "로봇에 몰빵한 중국 기업 근황"
+      "thumbnail_url": "https://i.ytimg.com/vi/VBtMLBDIbx8/hqdefault.jpg",
+      "representative_video_id": "VBtMLBDIbx8",
+      "representative_title": "Seedance 2.5 Is Finally Here... But Is It Actually Better?"
     },
     {
       "label": "OpenAI",
       "count": 1,
-      "avg_view_count": 24566,
-      "avg_engagement_rate": 0.05389562810388342,
-      "avg_like_count": 1231,
-      "avg_comment_count": 93,
+      "avg_view_count": 13003,
+      "avg_engagement_rate": 0.04299007921248942,
+      "avg_like_count": 523,
+      "avg_comment_count": 36,
       "source_titles": [
-        "AI News: Opus 5, the Slack Killer & Google Earth AI"
+        "You Have to Try the New ChatGPT Voice!"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/sUmx-Yi6TwE/hqdefault.jpg",
-      "representative_video_id": "sUmx-Yi6TwE",
-      "representative_title": "AI News: Opus 5, the Slack Killer & Google Earth AI"
-    },
-    {
-      "label": "코딩",
-      "count": 1,
-      "avg_view_count": 16754,
-      "avg_engagement_rate": 0.040348573474991045,
-      "avg_like_count": 608,
-      "avg_comment_count": 68,
-      "source_titles": [
-        "돈만 쓰던 빅테크, 이제 본격적 회수가 시작됩니다 | AI 클라우드 재계약의 비밀 | 구글·마소·AWS 실적으로 본 공급 부족"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/gf0cPrinP9w/hqdefault.jpg",
-      "representative_video_id": "gf0cPrinP9w",
-      "representative_title": "돈만 쓰던 빅테크, 이제 본격적 회수가 시작됩니다 | AI 클라우드 재계약의 비밀 | 구글·마소·AWS 실적으로 본 공급 부족"
-    },
-    {
-      "label": "AI자동화",
-      "count": 1,
-      "avg_view_count": 8201,
-      "avg_engagement_rate": 0.06401658334349469,
-      "avg_like_count": 521,
-      "avg_comment_count": 4,
-      "source_titles": [
-        "If you were to restart today, how would you become a millionaire?"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/KhmCCjrH7As/hqdefault.jpg",
-      "representative_video_id": "KhmCCjrH7As",
-      "representative_title": "If you were to restart today, how would you become a millionaire?"
-    },
-    {
-      "label": "ChatGPT",
-      "count": 1,
-      "avg_view_count": 6388,
-      "avg_engagement_rate": 0.08531621790857859,
-      "avg_like_count": 507,
-      "avg_comment_count": 38,
-      "source_titles": [
-        "Follow and comment STACK for my full list"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/ZdqVvB7G0vM/hqdefault.jpg",
-      "representative_video_id": "ZdqVvB7G0vM",
-      "representative_title": "Follow and comment STACK for my full list"
-    },
-    {
-      "label": "생산성",
-      "count": 1,
-      "avg_view_count": 2255,
-      "avg_engagement_rate": 0.04611973392461197,
-      "avg_like_count": 76,
-      "avg_comment_count": 28,
-      "source_titles": [
-        "$100M CEO handles sales objections"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/Y7ijB2wGihM/hqdefault.jpg",
-      "representative_video_id": "Y7ijB2wGihM",
-      "representative_title": "$100M CEO handles sales objections"
+      "thumbnail_url": "https://i.ytimg.com/vi/UIKgq0LBfws/hqdefault.jpg",
+      "representative_video_id": "UIKgq0LBfws",
+      "representative_title": "You Have to Try the New ChatGPT Voice!"
     }
   ],
   "video_highlights": [
     {
-      "video_id": "UMzMm3wdVSA",
-      "channel_name": "주연 ZUYONI",
-      "title": "IT유튜버의 현실 출장템, 호텔 언박싱, 런던 맛집(?)까지! 폴드8 언팩 Vlog🇬🇧 | 댓글이벤트🎁",
-      "thumbnail_url": "https://i.ytimg.com/vi/UMzMm3wdVSA/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=UMzMm3wdVSA",
-      "published_at": "2026-07-31T10:00:30Z",
-      "view_count": 78714,
-      "like_count": 1745,
-      "comment_count": 1044,
-      "engagement_rate": 0.035432070533831336,
-      "topic_cluster": "IT유튜버의",
-      "summary": "갤럭시 폴드8 언팩 출장을 위한 현실적인 여행 필수템과 숙소 활용법을 소개하고, 고속 충전 효율을 최적화하는 쿡테크 충전기 및 보조배터리 제품군을 리뷰합니다.",
-      "comment_signal": "영상보며 늘어가는 테크 지식이 아니라 노숙지식이 늘었습니다.",
-      "hook_type": "솔직 검증"
-    },
-    {
-      "video_id": "nbahzNt5Dik",
-      "channel_name": "조코딩 JoCoding",
-      "title": "로봇에 몰빵한 중국 기업 근황",
-      "thumbnail_url": "https://i.ytimg.com/vi/nbahzNt5Dik/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=nbahzNt5Dik",
-      "published_at": "2026-07-31T06:00:19Z",
-      "view_count": 27099,
-      "like_count": 153,
-      "comment_count": 31,
-      "engagement_rate": 0.006789918447175173,
-      "topic_cluster": "로봇에",
-      "summary": "중국 기업 유니트리의 사족보행 로봇은 거친 지형을 이동하고 상당한 무게의 짐을 운반할 수 있으며, 무기 장착 시 군사적 활용 가능성까지 보여주는 높은 성능을 갖췄습…",
-      "comment_signal": "움직임이 괴랄해선가 개무섭네 ㄷㄷ",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "sUmx-Yi6TwE",
-      "channel_name": "Matt Wolfe",
-      "title": "AI News: Opus 5, the Slack Killer & Google Earth AI",
-      "thumbnail_url": "https://i.ytimg.com/vi/sUmx-Yi6TwE/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=sUmx-Yi6TwE",
-      "published_at": "2026-07-31T14:30:14Z",
-      "view_count": 24566,
-      "like_count": 1231,
-      "comment_count": 93,
-      "engagement_rate": 0.05389562810388342,
-      "topic_cluster": "OpenAI",
-      "summary": "앤스로픽의 클로드 오퍼스 5 출시와 구글 어스의 AI 이미지 생성 기능 등 최근 AI 업계의 주요 업데이트 소식을 정리하며 변화하는 기술 트렌드를 소개합니다.",
-      "comment_signal": "4:37 lol thats utterly amazing",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "gf0cPrinP9w",
+      "video_id": "VrloORxOLoA",
       "channel_name": "안될공학 - IT 테크 신기술",
-      "title": "돈만 쓰던 빅테크, 이제 본격적 회수가 시작됩니다 | AI 클라우드 재계약의 비밀 | 구글·마소·AWS 실적으로 본 공급 부족",
-      "thumbnail_url": "https://i.ytimg.com/vi/gf0cPrinP9w/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=gf0cPrinP9w",
-      "published_at": "2026-07-31T11:37:13Z",
-      "view_count": 16754,
-      "like_count": 608,
-      "comment_count": 68,
-      "engagement_rate": 0.040348573474991045,
-      "topic_cluster": "코딩",
-      "summary": "빅테크 기업의 AI 투자가 저가 장기 계약 종료 및 클라우드 자원 수요 급증과 맞물려 향후 본격적인 수익 회수 구간으로 진입할 것이라는 시장 전망을 분석합니다.",
-      "comment_signal": "로봇시대가 조만간 열리면.. 다시 퀀텀 점프..",
-      "hook_type": "수익"
+      "title": "구글 로봇 경쟁자는 테슬라가 아닙니다... Gemini Robotics 2에서 밝혀진, 로봇판 안드로이드 등장",
+      "thumbnail_url": "https://i.ytimg.com/vi/VrloORxOLoA/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=VrloORxOLoA",
+      "published_at": "2026-08-01T09:18:24Z",
+      "view_count": 23298,
+      "like_count": 576,
+      "comment_count": 48,
+      "engagement_rate": 0.02678341488539789,
+      "topic_cluster": "Gemini",
+      "summary": "구글의 Gemini Robotics 2는 서로 다른 로봇이 동일한 기반 지능을 공유하는 멀티 로봇 협업 구조를 제시합니다. 하드웨어의 화려한 동작보다 AI 모델의…",
+      "comment_signal": "구글에서 보스톤다이나믹스 센터장부터 핵심기술자는 죄다 빼갓습니다. 보스톤다이나믹스는 구글AI를 선택을 했고요.. 결국 보스톤다이나믹스는 껍질만 남앗을수도 있다는 생각이듭니…",
+      "hook_type": "문제 해결"
     },
     {
-      "video_id": "KhmCCjrH7As",
+      "video_id": "VBtMLBDIbx8",
+      "channel_name": "AI Samson",
+      "title": "Seedance 2.5 Is Finally Here... But Is It Actually Better?",
+      "thumbnail_url": "https://i.ytimg.com/vi/VBtMLBDIbx8/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=VBtMLBDIbx8",
+      "published_at": "2026-08-01T05:41:58Z",
+      "view_count": 17040,
+      "like_count": 597,
+      "comment_count": 81,
+      "engagement_rate": 0.0397887323943662,
+      "topic_cluster": "Claude",
+      "summary": "Seedance 2.5는 사실적인 영상미, 캐릭터 일관성, 영화적 카메라 움직임 등 향상된 기능을 제공하며 AI 영상 제작의 큰 도약을 보여줍니다. 실무적인 워크플…",
+      "comment_signal": "Your channel deserves way more love Samson ! Great content as always! Cheers",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "UIKgq0LBfws",
+      "channel_name": "The AI Advantage",
+      "title": "You Have to Try the New ChatGPT Voice!",
+      "thumbnail_url": "https://i.ytimg.com/vi/UIKgq0LBfws/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=UIKgq0LBfws",
+      "published_at": "2026-08-01T01:23:31Z",
+      "view_count": 13003,
+      "like_count": 523,
+      "comment_count": 36,
+      "engagement_rate": 0.04299007921248942,
+      "topic_cluster": "OpenAI",
+      "summary": "ChatGPT의 새로운 음성 모드는 웹, 모바일, 데스크톱 전반에서 업무 효율을 높여주지만, 모바일에서는 실시간 비디오 및 사진 인식 기능이 일부 제한되는 등의 제…",
+      "comment_signal": "It does work with your projects, you just need to click into the project screen",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "jBcjSqlt0LM",
       "channel_name": "Dan Martell",
-      "title": "If you were to restart today, how would you become a millionaire?",
-      "thumbnail_url": "https://i.ytimg.com/vi/KhmCCjrH7As/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=KhmCCjrH7As",
-      "published_at": "2026-07-31T15:03:41Z",
-      "view_count": 8201,
-      "like_count": 521,
-      "comment_count": 4,
-      "engagement_rate": 0.06401658334349469,
-      "topic_cluster": "AI자동화",
-      "summary": "무일푼 상태에서 다시 시작해 백만장자가 되기 위한 비즈니스 전략과 핵심 역량 강화 방안에 대해 논합니다.",
-      "comment_signal": "if you learn sales you will never go hungry again",
+      "title": "Answering your AI questions",
+      "thumbnail_url": "https://i.ytimg.com/vi/jBcjSqlt0LM/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=jBcjSqlt0LM",
+      "published_at": "2026-08-01T15:01:04Z",
+      "view_count": 6757,
+      "like_count": 418,
+      "comment_count": 21,
+      "engagement_rate": 0.06496966109220068,
+      "topic_cluster": "ChatGPT",
+      "summary": "AI가 잘못된 정보를 사실처럼 말할 때가 있으므로 항상 스스로 검토하게 하거나 논쟁을 유도하는 방식이 결과의 창의성과 정확도를 높이는 데 도움이 됩니다.",
+      "comment_signal": "My Ai fundamentally disagrees with most of what I say lol.",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "PaNIJ9l2NOE",
+      "channel_name": "Matt Wolfe",
+      "title": "We’re getting closer to “Jarvis” everyday!",
+      "thumbnail_url": "https://i.ytimg.com/vi/PaNIJ9l2NOE/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=PaNIJ9l2NOE",
+      "published_at": "2026-08-01T13:59:28Z",
+      "view_count": 1423,
+      "like_count": 62,
+      "comment_count": 5,
+      "engagement_rate": 0.04708362614195362,
+      "topic_cluster": "ChatGPT",
+      "summary": "ChatGPT와 Claude의 새로운 음성 기능을 활용해 3D 디자인 생성 및 편집 과정을 음성 명령만으로 수행하는 '개인용 자비스' 구현 방법을 소개합니다.",
+      "comment_signal": "I'm in a situation right now, where they are both working the same project for me... and I just…",
       "hook_type": "문제 해결"
     }
   ]
