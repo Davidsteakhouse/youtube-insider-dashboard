@@ -1,167 +1,236 @@
 {
-  "digest_date": "2026-08-03",
-  "generated_at": "2026-08-03T00:08:10+00:00",
-  "summary": "최근 24시간 영상 4개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'Gemini'입니다. 특히 'IT뉴스 - 오픈AI Astra 10대 난제 해결, DeepSeek-V4-Flash 정식, Seedance 2.5, MiniMax H3, Gemini Robotics 2 등'는 조회수 9.2K, 참여율 3.0%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "'Gemini' 주제가 1개 영상으로 가장 많이 다뤄졌습니다. 오늘 수집 영상 4개는 주로 '뉴스 분석' 포맷이라, VS 비교·직접 실험 각도는 아직 비어 있습니다. Gemini vs ChatGPT 일반인 기준 직접 실험 영상이 비어 있습니다. 구글 생태계 쓰는 사람이 체감하는 차이 검증.\n[내 채널] 7일 평균 12.0K회 · 지속률 26.4% / 경쟁사 평균 6.8K회 (격차 +77%)",
-  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 08/03\n\n📊 총 4개 | AI 핵심 3 · 인접 AI 1 · 일반 테크 보충 0\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 4 (최대 10) · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [조코딩 JoCoding] 9.2K뷰 · 참여율 3.0%\n   IT뉴스 - 오픈AI Astra 10대 난제 해결, DeepSeek-V4-Flash 정식, Seedance 2.5, MiniMax H3,…\n   ↳ 오픈AI의 Astra 난제 해결, DeepSeek-V4-Flash 정식 출시, MiniMax H3 및 Gemini Robotics 2 등 최신 AI 모델들의 동향과 기술적 성과를 정리했다.\n   https://youtu.be/e_j_SyBlc18\n\n2. AI 핵심 · [The AI Automators] 9.0K뷰 · 참여율 4.5%\n   Langfuse is Free + Gives You X-Ray Vision Into Your Coding Agents & AI Apps\n   ↳ Langfuse는 AI 에이전트와 앱의 실행 과정을 시각화하여 비용과 응답 품질을 모니터링하는 도구로, 개발자가 코드 실행 내역을 추적하고 최적화할 수 있도록 지원한다.\n   https://youtu.be/V1khxZL-yVA\n\n3. AI 핵심 · [조코딩 JoCoding] 2.9K뷰 · 참여율 1.4%\n   [LIVE] 삼전닉스 기원 '데이터 센터' 게임으로 배워보기\n   ↳ 데이터 센터 건설 시뮬레이션 게임을 통해 AGI 시대의 필수 기반 시설인 데이터 센터의 구축 원리와 그 중요성을 체험하며 학습한다.\n   https://youtu.be/KrE6zFGbD8s\n\n4. AI 인접 · [Dan Martell] 5.9K뷰 · 참여율 5.3%\n   If you're working late all the time it's not a flex\n   ↳ 습관적으로 야근하는 것은 성실함의 증거가 아니라 시간 관리 능력의 부재를 보여주는 것이라며, 업무 효율성과 경계 설정의 중요성을 강조한다.\n   https://youtu.be/stKD6FZqIBI\n\n📈 스마트대디 어제 실적\n조회수 7.7K (↓35% vs 7일 평균) | 구독 +39\n시청 지속률 27.0% | 평균 시청 2분 24초\n경쟁사 평균 6.8K회 대비 내 7일 평균 +77%\n\n💡 VS 각도: Gemini vs ChatGPT 일반인 기준 직접 실험 영상이 비어 있습니다. 구글 생태계 쓰는 사람이 체감하는 차이 검증.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
-  "video_count": 4,
-  "total_recent_video_count": 6,
+  "digest_date": "2026-08-04",
+  "generated_at": "2026-08-04T00:16:11+00:00",
+  "summary": "최근 24시간 영상 8개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'Claude'입니다. 특히 '혁신적이라길래 펀딩했더니 또 *같이 망한 이유?'는 조회수 218.3K, 참여율 1.3%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "'Claude' 주제가 2개 영상으로 가장 많이 다뤄졌습니다. Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n[내 채널] 7일 평균 10.2K회 · 지속률 26.7% / 경쟁사 평균 35.3K회 (격차 -71%)",
+  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 08/04\n\n📊 총 8개 | AI 핵심 6 · 인접 AI 2 · 일반 테크 보충 0\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 8 (최대 10) · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [tef] 22.2K뷰 · 참여율 5.8%\n   Grok 4.5 is lowkey NUTS.\n   ↳ Grok 4.5 모델의 게임 생성 성능을 테스트한 결과, 마인크래프트나 포트나이트 등 특정 장르에서 이전 모델 대비 개선된 모습을 보였으나 캐릭터 모델링과 물리 시스템 구현에는 여전히 한계가 있음을 확인했습니다.\n   https://youtu.be/j4-VvZ3hnEI\n\n2. AI 핵심 · [조코딩 JoCoding] 10.8K뷰 · 참여율 2.5%\n   AI뉴스 - 오픈AI Astra 10대 난제 해결, DeepSeek-V4-Flash 정식, Seedance 2.5, MiniMax H3,…\n   ↳ 오픈AI의 10대 난제 해결 모델 발표와 DeepSeek-V4-Flash의 오픈 웨이트 출시 등 최신 AI 모델 동향을 다루며, 관련 기술의 벤치마크 성과와 활용 가능성을 정리했습니다.\n   https://youtu.be/tt5kQIi_QK0\n\n3. AI 핵심 · [tef] 3.6K뷰 · 참여율 9.1%\n   I hired an AI to plan a $100K/Month Business For Me...\n   ↳ Accio Work 플랫폼을 활용해 비즈니스 전략 수립부터 실행 계획까지 자동화하는 과정을 보여주며, AI 에이전트가 1인 개발자의 비즈니스 업무를 어떻게 보조할 수 있는지 설명했습니다.\n   https://youtu.be/p62FntyLcTU\n\n4. AI 핵심 · [조코딩 JoCoding] 2.9K뷰 · 참여율 4.3%\n   AI 시대에도 게임 엔진은 필요할까? 유니티 CEO에게 직접 물었습니다\n   ↳ 유니티 CEO와의 인터뷰를 통해 AI 시대 게임 엔진의 존재 이유와 창작자의 정의, 유니티가 언리얼 등 경쟁사와 협력하거나 생태계를 개방하는 전략적 배경을 다루었습니다.\n   https://youtu.be/sNAppH0c1O0\n\n5. AI 핵심 · [AI 머니] 2.3K뷰 · 참여율 6.1%\n   요즘 돈 버는 방법을 클로드와 힉스필드가 완전히 바꿔놓았습니다!\n   ↳ 클로드와 힉스필드 MCP를 연동하여 콘텐츠 트렌드 조사, 계획, 영상 생성까지 수행하는 AI 기반 인플루언서 운영 방식을 소개하며, 일반인도 쉽게 영상 제작 비즈니스를 시작할 수 있음을 강조했습니다.\n   https://youtu.be/CZgBFqhslp8\n\n6. AI 핵심 · [All About AI] 653뷰 · 참여율 3.7%\n   QuantWFX: Polymarket AI Weather Forcast + Week 1 AI Battle Results\n   ↳ AI 모델 간의 예측 성능 대결인 AI 배틀 1주 차 결과를 분석하고, 폴리마켓 데이터를 활용한 자율 AI 날씨 예측 트레이딩 시스템의 성과를 공유했습니다.\n   https://youtu.be/ANN_GP_vAaA\n\n7. AI 인접 · [ITSub잇섭] 218.3K뷰 · 참여율 1.3%\n   혁신적이라길래 펀딩했더니 또 *같이 망한 이유?\n   ↳ DECOKEE Quake 보조 모니터의 하드웨어 사양을 리뷰하고, AI 기능과 터치스크린의 혁신성을 기대했으나 높은 가격 대비 소프트웨어의 복잡성과 최적화 부족으로 실사용 만족도가 낮았음을 지적했습니다.\n   https://youtu.be/OPo1qds-mFQ\n\n8. AI 인접 · [안될공학 - IT 테크 신기술] 21.3K뷰 · 참여율 3.7%\n   HBM 후발주자 치욕 딛고, 다시 왕좌 찾는 삼성 | HBM4부터 핵심은 베이스다이가 된 기술적 이유 | 삼성 파운드리 vs tsmc\n   ↳ HBM4부터 베이스 다이의 로직 공정이 성능의 핵심 요소로 부상함에 따라, 삼성의 수직 통합 구조와 SK하이닉스-TSMC 협력 사례를 통해 향후 HBM 메모리 시장에서의 기술 경쟁과 파운드리 중요성을 분석했습니다.\n   https://youtu.be/5Sce0mThJE4\n\n📈 스마트대디 어제 실적\n조회수 6.9K (↓32% vs 7일 평균) | 구독 +27\n시청 지속률 28.0% | 평균 시청 2분 26초\n경쟁사 평균 35.3K회 대비 내 7일 평균 -71%\n\n💡 VS 각도: Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+  "video_count": 8,
+  "total_recent_video_count": 11,
   "focus_scope": "ai_priority_then_tech_fill",
-  "average_view_count": 6758.0,
-  "average_engagement_rate": 0.03579659641069578,
-  "average_like_count": 256.0,
-  "average_comment_count": 5.0,
-  "best_video_id": "e_j_SyBlc18",
-  "best_topic": "Gemini",
+  "average_view_count": 35251.0,
+  "average_engagement_rate": 0.04556315326506452,
+  "average_like_count": 623.0,
+  "average_comment_count": 96.0,
+  "best_video_id": "OPo1qds-mFQ",
+  "best_topic": "Claude",
   "summary_points": [
-    "가장 겹친 주제는 'Gemini'이며 1개 영상, 평균 조회수 9.2K, 평균 참여율 3.0%입니다.",
-    "최고 실적 영상은 'IT뉴스 - 오픈AI Astra 10대 난제 해결, DeepSeek-V4-Flash 정식, Seedance 2.5, MiniMax H3, Gemini Robotics 2 등'이며 문제 해결 훅과 빌드 데모 포맷 조합이 강했습니다.",
-    "반복 노출된 툴은 Claude 1회, MCP 1회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
+    "가장 겹친 주제는 'Claude'이며 2개 영상, 평균 조회수 1.5K, 평균 참여율 4.9%입니다.",
+    "최고 실적 영상은 '혁신적이라길래 펀딩했더니 또 *같이 망한 이유?'이며 문제 해결 훅과 뉴스 분석 포맷 조합이 강했습니다.",
+    "반복 노출된 툴은 Claude 2회, Gemini 2회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
   ],
   "action_chips": [
-    "주제: Gemini",
+    "주제: Claude",
     "훅: 문제 해결",
-    "포맷: 빌드 데모",
-    "기준 채널: 조코딩 JoCoding"
+    "포맷: 뉴스 분석",
+    "기준 채널: ITSub잇섭"
   ],
   "title_suggestions": [
-    "Gemini vs ChatGPT, 직장인이 1주일 써보니 이렇게 달랐다",
-    "구글 AI 직접 실험 결과 — 이게 진짜 되네? 안되네?",
-    "Gemini 써봤더니... 광고 말고 진짜 솔직 비교"
+    "Claude vs ChatGPT, 일반인이 직접 써보니 이게 달랐다",
+    "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
+    "AI 비서 대결: Claude가 진짜 강한 상황은 따로 있었다"
   ],
   "recommendations": [
     {
-      "title": "Gemini vs ChatGPT, 직장인이 1주일 써보니 이렇게 달랐다",
+      "title": "Claude vs ChatGPT, 일반인이 직접 써보니 이게 달랐다",
       "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'Gemini'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "Gemini 바로 해결",
-      "reason": "Gemini vs ChatGPT 일반인 기준 직접 실험 영상이 비어 있습니다. 구글 생태계 쓰는 사람이 체감하는 차이 검증.",
-      "source_video_id": "e_j_SyBlc18",
-      "source": "IT뉴스 - 오픈AI Astra 10대 난제 해결, DeepSeek-V4-Flash 정식, Seedance 2.5, MiniMax H3, Gemini Robotics 2 등",
-      "my_channel_context": "내 7일 평균 12.0K회 · 지속률 26.4% / 경쟁사 대비 +77%"
+      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
+      "thumbnail_copy": "Claude 뭐가 다를까?",
+      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
+      "source_video_id": "CZgBFqhslp8",
+      "source": "요즘 돈 버는 방법을 클로드와 힉스필드가 완전히 바꿔놓았습니다!",
+      "my_channel_context": "내 7일 평균 10.2K회 · 지속률 26.7% / 경쟁사 대비 -71%"
+    },
+    {
+      "title": "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
+      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
+      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
+      "thumbnail_copy": "Claude 바로 해결",
+      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
+      "source_video_id": "ANN_GP_vAaA",
+      "source": "QuantWFX: Polymarket AI Weather Forcast + Week 1 AI Battle Results",
+      "my_channel_context": "내 7일 평균 10.2K회 · 지속률 26.7% / 경쟁사 대비 -71%"
     }
   ],
   "topic_clusters": [
     {
-      "label": "Gemini",
-      "count": 1,
-      "avg_view_count": 9171,
-      "avg_engagement_rate": 0.03031294297241304,
-      "avg_like_count": 274,
+      "label": "Claude",
+      "count": 2,
+      "avg_view_count": 1485,
+      "avg_engagement_rate": 0.04901979575690961,
+      "avg_like_count": 79,
       "avg_comment_count": 4,
       "source_titles": [
-        "IT뉴스 - 오픈AI Astra 10대 난제 해결, DeepSeek-V4-Flash 정식, Seedance 2.5, MiniMax H3, Gemini Robotics 2 등"
+        "요즘 돈 버는 방법을 클로드와 힉스필드가 완전히 바꿔놓았습니다!",
+        "QuantWFX: Polymarket AI Weather Forcast + Week 1 AI Battle Results"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/e_j_SyBlc18/hqdefault.jpg",
-      "representative_video_id": "e_j_SyBlc18",
-      "representative_title": "IT뉴스 - 오픈AI Astra 10대 난제 해결, DeepSeek-V4-Flash 정식, Seedance 2.5, MiniMax H3, Gemini Robotics 2 등"
+      "thumbnail_url": "https://i.ytimg.com/vi/CZgBFqhslp8/hqdefault.jpg",
+      "representative_video_id": "CZgBFqhslp8",
+      "representative_title": "요즘 돈 버는 방법을 클로드와 힉스필드가 완전히 바꿔놓았습니다!"
     },
     {
-      "label": "Claude",
+      "label": "Arc",
       "count": 1,
-      "avg_view_count": 9024,
-      "avg_engagement_rate": 0.04532358156028369,
-      "avg_like_count": 397,
+      "avg_view_count": 218261,
+      "avg_engagement_rate": 0.012824095921855027,
+      "avg_like_count": 2389,
+      "avg_comment_count": 410,
+      "source_titles": [
+        "혁신적이라길래 펀딩했더니 또 *같이 망한 이유?"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/OPo1qds-mFQ/hqdefault.jpg",
+      "representative_video_id": "OPo1qds-mFQ",
+      "representative_title": "혁신적이라길래 펀딩했더니 또 *같이 망한 이유?"
+    },
+    {
+      "label": "Gemini",
+      "count": 1,
+      "avg_view_count": 22224,
+      "avg_engagement_rate": 0.057955363570914326,
+      "avg_like_count": 1078,
+      "avg_comment_count": 210,
+      "source_titles": [
+        "Grok 4.5 is lowkey NUTS."
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/j4-VvZ3hnEI/hqdefault.jpg",
+      "representative_video_id": "j4-VvZ3hnEI",
+      "representative_title": "Grok 4.5 is lowkey NUTS."
+    },
+    {
+      "label": "HBM",
+      "count": 1,
+      "avg_view_count": 21321,
+      "avg_engagement_rate": 0.03663055203789691,
+      "avg_like_count": 724,
+      "avg_comment_count": 57,
+      "source_titles": [
+        "HBM 후발주자 치욕 딛고, 다시 왕좌 찾는 삼성 | HBM4부터 핵심은 베이스다이가 된 기술적 이유 | 삼성 파운드리 vs tsmc"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/5Sce0mThJE4/hqdefault.jpg",
+      "representative_video_id": "5Sce0mThJE4",
+      "representative_title": "HBM 후발주자 치욕 딛고, 다시 왕좌 찾는 삼성 | HBM4부터 핵심은 베이스다이가 된 기술적 이유 | 삼성 파운드리 vs tsmc"
+    },
+    {
+      "label": "GPT-5",
+      "count": 1,
+      "avg_view_count": 10751,
+      "avg_engagement_rate": 0.024834899079155426,
+      "avg_like_count": 240,
+      "avg_comment_count": 27,
+      "source_titles": [
+        "AI뉴스 - 오픈AI Astra 10대 난제 해결, DeepSeek-V4-Flash 정식, Seedance 2.5, MiniMax H3, Gemini Robotics 2 등"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/tt5kQIi_QK0/hqdefault.jpg",
+      "representative_video_id": "tt5kQIi_QK0",
+      "representative_title": "AI뉴스 - 오픈AI Astra 10대 난제 해결, DeepSeek-V4-Flash 정식, Seedance 2.5, MiniMax H3, Gemini Robotics 2 등"
+    },
+    {
+      "label": "Notion",
+      "count": 1,
+      "avg_view_count": 3572,
+      "avg_engagement_rate": 0.09126539753639418,
+      "avg_like_count": 279,
+      "avg_comment_count": 47,
+      "source_titles": [
+        "I hired an AI to plan a $100K/Month Business For Me..."
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/p62FntyLcTU/hqdefault.jpg",
+      "representative_video_id": "p62FntyLcTU",
+      "representative_title": "I hired an AI to plan a $100K/Month Business For Me..."
+    },
+    {
+      "label": "게임개발",
+      "count": 1,
+      "avg_view_count": 2910,
+      "avg_engagement_rate": 0.0429553264604811,
+      "avg_like_count": 113,
       "avg_comment_count": 12,
       "source_titles": [
-        "Langfuse is Free + Gives You X-Ray Vision Into Your Coding Agents & AI Apps"
+        "AI 시대에도 게임 엔진은 필요할까? 유니티 CEO에게 직접 물었습니다"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/V1khxZL-yVA/hqdefault.jpg",
-      "representative_video_id": "V1khxZL-yVA",
-      "representative_title": "Langfuse is Free + Gives You X-Ray Vision Into Your Coding Agents & AI Apps"
-    },
-    {
-      "label": "업무효율",
-      "count": 1,
-      "avg_view_count": 5893,
-      "avg_engagement_rate": 0.053283556762260306,
-      "avg_like_count": 309,
-      "avg_comment_count": 5,
-      "source_titles": [
-        "If you're working late all the time it's not a flex"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/stKD6FZqIBI/hqdefault.jpg",
-      "representative_video_id": "stKD6FZqIBI",
-      "representative_title": "If you're working late all the time it's not a flex"
-    },
-    {
-      "label": "agents",
-      "count": 1,
-      "avg_view_count": 2944,
-      "avg_engagement_rate": 0.014266304347826086,
-      "avg_like_count": 42,
-      "avg_comment_count": 0,
-      "source_titles": [
-        "[LIVE] 삼전닉스 기원 '데이터 센터' 게임으로 배워보기"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/KrE6zFGbD8s/hqdefault.jpg",
-      "representative_video_id": "KrE6zFGbD8s",
-      "representative_title": "[LIVE] 삼전닉스 기원 '데이터 센터' 게임으로 배워보기"
+      "thumbnail_url": "https://i.ytimg.com/vi/sNAppH0c1O0/hqdefault.jpg",
+      "representative_video_id": "sNAppH0c1O0",
+      "representative_title": "AI 시대에도 게임 엔진은 필요할까? 유니티 CEO에게 직접 물었습니다"
     }
   ],
   "video_highlights": [
     {
-      "video_id": "e_j_SyBlc18",
-      "channel_name": "조코딩 JoCoding",
-      "title": "IT뉴스 - 오픈AI Astra 10대 난제 해결, DeepSeek-V4-Flash 정식, Seedance 2.5, MiniMax H3, Gemini Robotics 2 등",
-      "thumbnail_url": "https://i.ytimg.com/vi/e_j_SyBlc18/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=e_j_SyBlc18",
-      "published_at": "2026-08-02T10:19:24Z",
-      "view_count": 9171,
-      "like_count": 274,
-      "comment_count": 4,
-      "engagement_rate": 0.03031294297241304,
+      "video_id": "OPo1qds-mFQ",
+      "channel_name": "ITSub잇섭",
+      "title": "혁신적이라길래 펀딩했더니 또 *같이 망한 이유?",
+      "thumbnail_url": "https://i.ytimg.com/vi/OPo1qds-mFQ/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=OPo1qds-mFQ",
+      "published_at": "2026-08-03T11:00:37Z",
+      "view_count": 218261,
+      "like_count": 2389,
+      "comment_count": 410,
+      "engagement_rate": 0.012824095921855027,
+      "topic_cluster": "Arc",
+      "summary": "DECOKEE Quake 보조 모니터의 하드웨어 사양을 리뷰하고, AI 기능과 터치스크린의 혁신성을 기대했으나 높은 가격 대비 소프트웨어의 복잡성과 최적화 부족으로…",
+      "comment_signal": "영상과 관련없지만 잇섭님께 감사말씀드리고 싶어 용기내어 댓글 작성합니다 저희 이른둥이 보물이가 신생아 중환자실에서 힘겨운 사투끝에 일주일 만에 하늘에 별로 떠났습니다 그당…",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "j4-VvZ3hnEI",
+      "channel_name": "tef",
+      "title": "Grok 4.5 is lowkey NUTS.",
+      "thumbnail_url": "https://i.ytimg.com/vi/j4-VvZ3hnEI/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=j4-VvZ3hnEI",
+      "published_at": "2026-08-03T00:24:47Z",
+      "view_count": 22224,
+      "like_count": 1078,
+      "comment_count": 210,
+      "engagement_rate": 0.057955363570914326,
       "topic_cluster": "Gemini",
-      "summary": "오픈AI의 Astra 난제 해결, DeepSeek-V4-Flash 정식 출시, MiniMax H3 및 Gemini Robotics 2 등 최신 AI 모델들의 동향과…",
-      "comment_signal": "감사합니다",
+      "summary": "Grok 4.5 모델의 게임 생성 성능을 테스트한 결과, 마인크래프트나 포트나이트 등 특정 장르에서 이전 모델 대비 개선된 모습을 보였으나 캐릭터 모델링과 물리 시…",
+      "comment_signal": "HERE IT IS!!",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "V1khxZL-yVA",
-      "channel_name": "The AI Automators",
-      "title": "Langfuse is Free + Gives You X-Ray Vision Into Your Coding Agents & AI Apps",
-      "thumbnail_url": "https://i.ytimg.com/vi/V1khxZL-yVA/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=V1khxZL-yVA",
-      "published_at": "2026-08-02T11:00:22Z",
-      "view_count": 9024,
-      "like_count": 397,
-      "comment_count": 12,
-      "engagement_rate": 0.04532358156028369,
-      "topic_cluster": "Claude",
-      "summary": "Langfuse는 AI 에이전트와 앱의 실행 과정을 시각화하여 비용과 응답 품질을 모니터링하는 도구로, 개발자가 코드 실행 내역을 추적하고 최적화할 수 있도록 지원…",
-      "comment_signal": "distilling models on behalf of LangFuse, brilliant.",
-      "hook_type": "문제 해결"
+      "video_id": "5Sce0mThJE4",
+      "channel_name": "안될공학 - IT 테크 신기술",
+      "title": "HBM 후발주자 치욕 딛고, 다시 왕좌 찾는 삼성 | HBM4부터 핵심은 베이스다이가 된 기술적 이유 | 삼성 파운드리 vs tsmc",
+      "thumbnail_url": "https://i.ytimg.com/vi/5Sce0mThJE4/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=5Sce0mThJE4",
+      "published_at": "2026-08-03T09:25:15Z",
+      "view_count": 21321,
+      "like_count": 724,
+      "comment_count": 57,
+      "engagement_rate": 0.03663055203789691,
+      "topic_cluster": "HBM",
+      "summary": "HBM4부터 베이스 다이의 로직 공정이 성능의 핵심 요소로 부상함에 따라, 삼성의 수직 통합 구조와 SK하이닉스-TSMC 협력 사례를 통해 향후 HBM 메모리 시장…",
+      "comment_signal": "우리 에러형도 가끔은 생존신고좀😅",
+      "hook_type": "비교"
     },
     {
-      "video_id": "stKD6FZqIBI",
-      "channel_name": "Dan Martell",
-      "title": "If you're working late all the time it's not a flex",
-      "thumbnail_url": "https://i.ytimg.com/vi/stKD6FZqIBI/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=stKD6FZqIBI",
-      "published_at": "2026-08-02T15:01:38Z",
-      "view_count": 5893,
-      "like_count": 309,
-      "comment_count": 5,
-      "engagement_rate": 0.053283556762260306,
-      "topic_cluster": "업무효율",
-      "summary": "습관적으로 야근하는 것은 성실함의 증거가 아니라 시간 관리 능력의 부재를 보여주는 것이라며, 업무 효율성과 경계 설정의 중요성을 강조한다.",
-      "comment_signal": "Outcomes over output. Hit the nail on the head! 🎯",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "KrE6zFGbD8s",
+      "video_id": "tt5kQIi_QK0",
       "channel_name": "조코딩 JoCoding",
-      "title": "[LIVE] 삼전닉스 기원 '데이터 센터' 게임으로 배워보기",
-      "thumbnail_url": "https://i.ytimg.com/vi/KrE6zFGbD8s/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=KrE6zFGbD8s",
-      "published_at": "2026-08-02T11:53:59Z",
-      "view_count": 2944,
-      "like_count": 42,
-      "comment_count": 0,
-      "engagement_rate": 0.014266304347826086,
-      "topic_cluster": "agents",
-      "summary": "데이터 센터 건설 시뮬레이션 게임을 통해 AGI 시대의 필수 기반 시설인 데이터 센터의 구축 원리와 그 중요성을 체험하며 학습한다.",
-      "comment_signal": "댓글 반응은 아직 약한 편입니다.",
+      "title": "AI뉴스 - 오픈AI Astra 10대 난제 해결, DeepSeek-V4-Flash 정식, Seedance 2.5, MiniMax H3, Gemini Robotics 2 등",
+      "thumbnail_url": "https://i.ytimg.com/vi/tt5kQIi_QK0/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=tt5kQIi_QK0",
+      "published_at": "2026-08-03T13:00:32Z",
+      "view_count": 10751,
+      "like_count": 240,
+      "comment_count": 27,
+      "engagement_rate": 0.024834899079155426,
+      "topic_cluster": "GPT-5",
+      "summary": "오픈AI의 10대 난제 해결 모델 발표와 DeepSeek-V4-Flash의 오픈 웨이트 출시 등 최신 AI 모델 동향을 다루며, 관련 기술의 벤치마크 성과와 활용…",
+      "comment_signal": "2분전은 못참지",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "p62FntyLcTU",
+      "channel_name": "tef",
+      "title": "I hired an AI to plan a $100K/Month Business For Me...",
+      "thumbnail_url": "https://i.ytimg.com/vi/p62FntyLcTU/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=p62FntyLcTU",
+      "published_at": "2026-08-03T10:59:46Z",
+      "view_count": 3572,
+      "like_count": 279,
+      "comment_count": 47,
+      "engagement_rate": 0.09126539753639418,
+      "topic_cluster": "Notion",
+      "summary": "Accio Work 플랫폼을 활용해 비즈니스 전략 수립부터 실행 계획까지 자동화하는 과정을 보여주며, AI 에이전트가 1인 개발자의 비즈니스 업무를 어떻게 보조할…",
+      "comment_signal": "want more video like this dawg tho didnt even watched the full vid",
       "hook_type": "문제 해결"
     }
   ]
