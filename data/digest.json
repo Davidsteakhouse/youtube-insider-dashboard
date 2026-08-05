@@ -1,237 +1,212 @@
 {
-  "digest_date": "2026-08-04",
-  "generated_at": "2026-08-04T00:16:11+00:00",
-  "summary": "최근 24시간 영상 8개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'Claude'입니다. 특히 '혁신적이라길래 펀딩했더니 또 *같이 망한 이유?'는 조회수 218.3K, 참여율 1.3%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "'Claude' 주제가 2개 영상으로 가장 많이 다뤄졌습니다. Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n[내 채널] 7일 평균 10.2K회 · 지속률 26.7% / 경쟁사 평균 35.3K회 (격차 -71%)",
-  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 08/04\n\n📊 총 8개 | AI 핵심 6 · 인접 AI 2 · 일반 테크 보충 0\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 8 (최대 10) · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [tef] 22.2K뷰 · 참여율 5.8%\n   Grok 4.5 is lowkey NUTS.\n   ↳ Grok 4.5 모델의 게임 생성 성능을 테스트한 결과, 마인크래프트나 포트나이트 등 특정 장르에서 이전 모델 대비 개선된 모습을 보였으나 캐릭터 모델링과 물리 시스템 구현에는 여전히 한계가 있음을 확인했습니다.\n   https://youtu.be/j4-VvZ3hnEI\n\n2. AI 핵심 · [조코딩 JoCoding] 10.8K뷰 · 참여율 2.5%\n   AI뉴스 - 오픈AI Astra 10대 난제 해결, DeepSeek-V4-Flash 정식, Seedance 2.5, MiniMax H3,…\n   ↳ 오픈AI의 10대 난제 해결 모델 발표와 DeepSeek-V4-Flash의 오픈 웨이트 출시 등 최신 AI 모델 동향을 다루며, 관련 기술의 벤치마크 성과와 활용 가능성을 정리했습니다.\n   https://youtu.be/tt5kQIi_QK0\n\n3. AI 핵심 · [tef] 3.6K뷰 · 참여율 9.1%\n   I hired an AI to plan a $100K/Month Business For Me...\n   ↳ Accio Work 플랫폼을 활용해 비즈니스 전략 수립부터 실행 계획까지 자동화하는 과정을 보여주며, AI 에이전트가 1인 개발자의 비즈니스 업무를 어떻게 보조할 수 있는지 설명했습니다.\n   https://youtu.be/p62FntyLcTU\n\n4. AI 핵심 · [조코딩 JoCoding] 2.9K뷰 · 참여율 4.3%\n   AI 시대에도 게임 엔진은 필요할까? 유니티 CEO에게 직접 물었습니다\n   ↳ 유니티 CEO와의 인터뷰를 통해 AI 시대 게임 엔진의 존재 이유와 창작자의 정의, 유니티가 언리얼 등 경쟁사와 협력하거나 생태계를 개방하는 전략적 배경을 다루었습니다.\n   https://youtu.be/sNAppH0c1O0\n\n5. AI 핵심 · [AI 머니] 2.3K뷰 · 참여율 6.1%\n   요즘 돈 버는 방법을 클로드와 힉스필드가 완전히 바꿔놓았습니다!\n   ↳ 클로드와 힉스필드 MCP를 연동하여 콘텐츠 트렌드 조사, 계획, 영상 생성까지 수행하는 AI 기반 인플루언서 운영 방식을 소개하며, 일반인도 쉽게 영상 제작 비즈니스를 시작할 수 있음을 강조했습니다.\n   https://youtu.be/CZgBFqhslp8\n\n6. AI 핵심 · [All About AI] 653뷰 · 참여율 3.7%\n   QuantWFX: Polymarket AI Weather Forcast + Week 1 AI Battle Results\n   ↳ AI 모델 간의 예측 성능 대결인 AI 배틀 1주 차 결과를 분석하고, 폴리마켓 데이터를 활용한 자율 AI 날씨 예측 트레이딩 시스템의 성과를 공유했습니다.\n   https://youtu.be/ANN_GP_vAaA\n\n7. AI 인접 · [ITSub잇섭] 218.3K뷰 · 참여율 1.3%\n   혁신적이라길래 펀딩했더니 또 *같이 망한 이유?\n   ↳ DECOKEE Quake 보조 모니터의 하드웨어 사양을 리뷰하고, AI 기능과 터치스크린의 혁신성을 기대했으나 높은 가격 대비 소프트웨어의 복잡성과 최적화 부족으로 실사용 만족도가 낮았음을 지적했습니다.\n   https://youtu.be/OPo1qds-mFQ\n\n8. AI 인접 · [안될공학 - IT 테크 신기술] 21.3K뷰 · 참여율 3.7%\n   HBM 후발주자 치욕 딛고, 다시 왕좌 찾는 삼성 | HBM4부터 핵심은 베이스다이가 된 기술적 이유 | 삼성 파운드리 vs tsmc\n   ↳ HBM4부터 베이스 다이의 로직 공정이 성능의 핵심 요소로 부상함에 따라, 삼성의 수직 통합 구조와 SK하이닉스-TSMC 협력 사례를 통해 향후 HBM 메모리 시장에서의 기술 경쟁과 파운드리 중요성을 분석했습니다.\n   https://youtu.be/5Sce0mThJE4\n\n📈 스마트대디 어제 실적\n조회수 6.9K (↓32% vs 7일 평균) | 구독 +27\n시청 지속률 28.0% | 평균 시청 2분 26초\n경쟁사 평균 35.3K회 대비 내 7일 평균 -71%\n\n💡 VS 각도: Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
-  "video_count": 8,
+  "digest_date": "2026-08-05",
+  "generated_at": "2026-08-05T00:14:40+00:00",
+  "summary": "최근 24시간 영상 6개를 기준으로 보면, 오늘 가장 먼저 볼 축은 '팔란티어'입니다. 특히 '팔란티어 30% 대폭등, \"Rule of 155\" 경이적인 수치 발표'는 조회수 13.0K, 참여율 3.1%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "'팔란티어' 주제가 1개 영상으로 가장 많이 다뤄졌습니다. 오늘 수집 영상 6개는 주로 '뉴스 분석' 포맷이라, VS 비교·직접 실험 각도는 아직 비어 있습니다. 일반인 관점 직접 실험 or VS 비교 각도로 차별화할 영역이 있습니다.\n[내 채널] 7일 평균 8.1K회 · 지속률 27.2% / 경쟁사 평균 7.0K회 (격차 +16%)",
+  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 08/05\n\n📊 총 9개 | AI 핵심 4 · 인접 AI 2 · 일반 테크 보충 3\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 9 (최대 10) · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [조코딩 JoCoding] 8.9K뷰 · 참여율 1.0%\n   인간 연구자를 뛰어넘고 난제까지 해결해버린 AI ㄷㄷ;;;\n   ↳ 오픈AI가 발표한 새로운 AI 모델이 인간 연구자들도 풀지 못한 수학적 난제를 해결하며 기술적 특이점에 가까워졌음을 시사했다.\n   https://youtu.be/MWFYoDybPa0\n\n2. AI 핵심 · [조코딩 JoCoding] 8.6K뷰 · 참여율 0.6%\n   AI 대가가 추천하는 새로운 LLM 벤치마크\n   ↳ 안드레 카파시가 제안한 새로운 LLM 벤치마크 방식으로, 문학 작품의 장면을 3D 애니메이션으로 구현하여 모델의 성능을 비교 평가하는 방안을 다루었다.\n   https://youtu.be/NVU2ssAGZtc\n\n3. AI 핵심 · [Futurepedia] 7.8K뷰 · 참여율 7.4%\n   Claude Design Just Unlocked AI Motion Graphics\n   ↳ 클로드 디자인(Claude Design)의 숨겨진 기능인 모션 그래픽 제작 능력을 소개하며, 텍스트나 이미지를 활용해 고품질의 애니메이션을 간단하게 생성하는 방법을 설명했다.\n   https://youtu.be/97Y5cz7H8SM\n\n4. AI 핵심 · [Matt Wolfe] 2.0K뷰 · 참여율 4.2%\n   You Can Now Search Your Own Memory\n   ↳ 신용카드 두께의 AI 기록 장치인 '세컨드브레인 노트'를 소개하며, 일상 대화와 아이디어를 자동으로 녹음하고 체계적인 메모와 업무 지원을 제공하는 기능을 다루었다.\n   https://youtu.be/_HhnzIDnVnk\n\n5. AI 인접 · [월텍남 - 월스트리트 테크남] 13.0K뷰 · 참여율 3.1%\n   팔란티어 30% 대폭등, \"Rule of 155\" 경이적인 수치 발표\n   ↳ 팔란티어가 강력한 매출 성장과 비용 효율성을 동시에 달성하는 경이적인 실적을 발표하며 AI 핵심 기업으로서의 우수한 재무 성과를 증명했다.\n   https://youtu.be/7Ed117Du39g\n\n6. AI 인접 · [Dan Martell] 1.7K뷰 · 참여율 6.6%\n   The only skills you need to learn\n   ↳ 현대 비즈니스 환경에서 가장 중요한 핵심 기술로 마케팅과 세일즈 능력을 꼽았으며, 프롬프팅과 같은 기술은 AI로 대체 가능함을 강조했다.\n   https://youtu.be/P8RKnv9B_VU\n\n7. 테크 보충 · [주연 ZUYONI] 212.4K뷰 · 참여율 1.6%\n   이렇게 나오면 폴드8 못 이길텐데... 아이폰 폴드 우려 & 기대 포인트 총정리!\n   ↳ 출시 예정인 아이폰 폴더블과 갤럭시 Z폴드8을 비교하며, 카메라 및 멀티태스킹 성능, 디자인 차이와 예상 가격 등 주요 기대 및 우려 포인트를 분석했다.\n   https://youtu.be/FO22Nv6o5jc\n\n8. 테크 보충 · [테크몽 Techmong] 78.0K뷰 · 참여율 0.6%\n   정품보다 훨씬 빠른 폴드 8 충전기\n   ↳ 갤럭시 Z폴드8 전용 펠티어 냉각 충전기를 사용하면 정품 충전기보다 훨씬 빠르게 충전할 수 있으며 가격 경쟁력까지 갖추고 있음을 보여주었다.\n   https://youtu.be/RdXFMtPey4o\n\n9. 테크 보충 · [안될공학 - IT 테크 신기술] 19.3K뷰 · 참여율 4.1%\n   HBM4 가격은 왜 오를까? | DDR5부터 베이스 다이까지, 제조사의 계산법\n   ↳ HBM4는 복잡한 적층 구조, 로직 베이스 다이 결합, 서버용 DDR5 생산 대체에 따른 기회비용으로 인해 HBM3E보다 가격이 대폭 상승할 것이라는 분석을 내놓았다.\n   https://youtu.be/yCmLJYxYPjk\n\n📈 스마트대디 어제 실적\n조회수 7.3K (↓10% vs 7일 평균) | 구독 +41\n시청 지속률 27.9% | 평균 시청 2분 28초\n경쟁사 평균 7.0K회 대비 내 7일 평균 +16%\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+  "video_count": 6,
   "total_recent_video_count": 11,
   "focus_scope": "ai_priority_then_tech_fill",
-  "average_view_count": 35251.0,
-  "average_engagement_rate": 0.04556315326506452,
-  "average_like_count": 623.0,
-  "average_comment_count": 96.0,
-  "best_video_id": "OPo1qds-mFQ",
-  "best_topic": "Claude",
+  "average_view_count": 7000.0,
+  "average_engagement_rate": 0.0381842671790549,
+  "average_like_count": 198.0,
+  "average_comment_count": 21.0,
+  "best_video_id": "7Ed117Du39g",
+  "best_topic": "팔란티어",
   "summary_points": [
-    "가장 겹친 주제는 'Claude'이며 2개 영상, 평균 조회수 1.5K, 평균 참여율 4.9%입니다.",
-    "최고 실적 영상은 '혁신적이라길래 펀딩했더니 또 *같이 망한 이유?'이며 문제 해결 훅과 뉴스 분석 포맷 조합이 강했습니다.",
-    "반복 노출된 툴은 Claude 2회, Gemini 2회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
+    "가장 겹친 주제는 '팔란티어'이며 1개 영상, 평균 조회수 13.0K, 평균 참여율 3.1%입니다.",
+    "최고 실적 영상은 '팔란티어 30% 대폭등, \"Rule of 155\" 경이적인 수치 발표'이며 긴급성 훅과 뉴스 분석 포맷 조합이 강했습니다.",
+    "반복 노출된 툴은 Claude 1회, Gemini 1회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
   ],
   "action_chips": [
-    "주제: Claude",
-    "훅: 문제 해결",
+    "주제: 팔란티어",
+    "훅: 긴급성",
     "포맷: 뉴스 분석",
-    "기준 채널: ITSub잇섭"
+    "기준 채널: 월텍남 - 월스트리트 테크남"
   ],
   "title_suggestions": [
-    "Claude vs ChatGPT, 일반인이 직접 써보니 이게 달랐다",
-    "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
-    "AI 비서 대결: Claude가 진짜 강한 상황은 따로 있었다"
+    "팔란티어 직접 실험 — 이게 진짜 되나?",
+    "팔란티어 vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
+    "팔란티어 써봤더니... (기대 vs 현실 솔직 후기)"
   ],
   "recommendations": [
     {
-      "title": "Claude vs ChatGPT, 일반인이 직접 써보니 이게 달랐다",
-      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "Claude 뭐가 다를까?",
-      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
-      "source_video_id": "CZgBFqhslp8",
-      "source": "요즘 돈 버는 방법을 클로드와 힉스필드가 완전히 바꿔놓았습니다!",
-      "my_channel_context": "내 7일 평균 10.2K회 · 지속률 26.7% / 경쟁사 대비 -71%"
-    },
-    {
-      "title": "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
-      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "Claude 바로 해결",
-      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
-      "source_video_id": "ANN_GP_vAaA",
-      "source": "QuantWFX: Polymarket AI Weather Forcast + Week 1 AI Battle Results",
-      "my_channel_context": "내 7일 평균 10.2K회 · 지속률 26.7% / 경쟁사 대비 -71%"
+      "title": "팔란티어 직접 실험 — 이게 진짜 되나?",
+      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
+      "angle": "큰 주제 하나를 대표 제목으로 세우고, 나머지 포인트는 보조 정보처럼 정리하는 압축형 포장이 좋습니다.",
+      "thumbnail_copy": "팔란티어 지금 봐야 함",
+      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
+      "source_video_id": "7Ed117Du39g",
+      "source": "팔란티어 30% 대폭등, \"Rule of 155\" 경이적인 수치 발표",
+      "my_channel_context": "내 7일 평균 8.1K회 · 지속률 27.2% / 경쟁사 대비 +16%"
     }
   ],
   "topic_clusters": [
     {
+      "label": "팔란티어",
+      "count": 1,
+      "avg_view_count": 12960,
+      "avg_engagement_rate": 0.030632716049382717,
+      "avg_like_count": 331,
+      "avg_comment_count": 66,
+      "source_titles": [
+        "팔란티어 30% 대폭등, \"Rule of 155\" 경이적인 수치 발표"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/7Ed117Du39g/hqdefault.jpg",
+      "representative_video_id": "7Ed117Du39g",
+      "representative_title": "팔란티어 30% 대폭등, \"Rule of 155\" 경이적인 수치 발표"
+    },
+    {
+      "label": "인공지능",
+      "count": 1,
+      "avg_view_count": 8898,
+      "avg_engagement_rate": 0.009777478084962913,
+      "avg_like_count": 76,
+      "avg_comment_count": 11,
+      "source_titles": [
+        "인간 연구자를 뛰어넘고 난제까지 해결해버린 AI ㄷㄷ;;;"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/MWFYoDybPa0/hqdefault.jpg",
+      "representative_video_id": "MWFYoDybPa0",
+      "representative_title": "인간 연구자를 뛰어넘고 난제까지 해결해버린 AI ㄷㄷ;;;"
+    },
+    {
+      "label": "대가가",
+      "count": 1,
+      "avg_view_count": 8614,
+      "avg_engagement_rate": 0.005920594381239842,
+      "avg_like_count": 51,
+      "avg_comment_count": 0,
+      "source_titles": [
+        "AI 대가가 추천하는 새로운 LLM 벤치마크"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/NVU2ssAGZtc/hqdefault.jpg",
+      "representative_video_id": "NVU2ssAGZtc",
+      "representative_title": "AI 대가가 추천하는 새로운 LLM 벤치마크"
+    },
+    {
       "label": "Claude",
-      "count": 2,
-      "avg_view_count": 1485,
-      "avg_engagement_rate": 0.04901979575690961,
-      "avg_like_count": 79,
-      "avg_comment_count": 4,
-      "source_titles": [
-        "요즘 돈 버는 방법을 클로드와 힉스필드가 완전히 바꿔놓았습니다!",
-        "QuantWFX: Polymarket AI Weather Forcast + Week 1 AI Battle Results"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/CZgBFqhslp8/hqdefault.jpg",
-      "representative_video_id": "CZgBFqhslp8",
-      "representative_title": "요즘 돈 버는 방법을 클로드와 힉스필드가 완전히 바꿔놓았습니다!"
-    },
-    {
-      "label": "Arc",
       "count": 1,
-      "avg_view_count": 218261,
-      "avg_engagement_rate": 0.012824095921855027,
-      "avg_like_count": 2389,
-      "avg_comment_count": 410,
+      "avg_view_count": 7761,
+      "avg_engagement_rate": 0.07447493879654683,
+      "avg_like_count": 543,
+      "avg_comment_count": 35,
       "source_titles": [
-        "혁신적이라길래 펀딩했더니 또 *같이 망한 이유?"
+        "Claude Design Just Unlocked AI Motion Graphics"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/OPo1qds-mFQ/hqdefault.jpg",
-      "representative_video_id": "OPo1qds-mFQ",
-      "representative_title": "혁신적이라길래 펀딩했더니 또 *같이 망한 이유?"
-    },
-    {
-      "label": "Gemini",
-      "count": 1,
-      "avg_view_count": 22224,
-      "avg_engagement_rate": 0.057955363570914326,
-      "avg_like_count": 1078,
-      "avg_comment_count": 210,
-      "source_titles": [
-        "Grok 4.5 is lowkey NUTS."
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/j4-VvZ3hnEI/hqdefault.jpg",
-      "representative_video_id": "j4-VvZ3hnEI",
-      "representative_title": "Grok 4.5 is lowkey NUTS."
-    },
-    {
-      "label": "HBM",
-      "count": 1,
-      "avg_view_count": 21321,
-      "avg_engagement_rate": 0.03663055203789691,
-      "avg_like_count": 724,
-      "avg_comment_count": 57,
-      "source_titles": [
-        "HBM 후발주자 치욕 딛고, 다시 왕좌 찾는 삼성 | HBM4부터 핵심은 베이스다이가 된 기술적 이유 | 삼성 파운드리 vs tsmc"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/5Sce0mThJE4/hqdefault.jpg",
-      "representative_video_id": "5Sce0mThJE4",
-      "representative_title": "HBM 후발주자 치욕 딛고, 다시 왕좌 찾는 삼성 | HBM4부터 핵심은 베이스다이가 된 기술적 이유 | 삼성 파운드리 vs tsmc"
-    },
-    {
-      "label": "GPT-5",
-      "count": 1,
-      "avg_view_count": 10751,
-      "avg_engagement_rate": 0.024834899079155426,
-      "avg_like_count": 240,
-      "avg_comment_count": 27,
-      "source_titles": [
-        "AI뉴스 - 오픈AI Astra 10대 난제 해결, DeepSeek-V4-Flash 정식, Seedance 2.5, MiniMax H3, Gemini Robotics 2 등"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/tt5kQIi_QK0/hqdefault.jpg",
-      "representative_video_id": "tt5kQIi_QK0",
-      "representative_title": "AI뉴스 - 오픈AI Astra 10대 난제 해결, DeepSeek-V4-Flash 정식, Seedance 2.5, MiniMax H3, Gemini Robotics 2 등"
+      "thumbnail_url": "https://i.ytimg.com/vi/97Y5cz7H8SM/hqdefault.jpg",
+      "representative_video_id": "97Y5cz7H8SM",
+      "representative_title": "Claude Design Just Unlocked AI Motion Graphics"
     },
     {
       "label": "Notion",
       "count": 1,
-      "avg_view_count": 3572,
-      "avg_engagement_rate": 0.09126539753639418,
-      "avg_like_count": 279,
-      "avg_comment_count": 47,
+      "avg_view_count": 2041,
+      "avg_engagement_rate": 0.042136207741303285,
+      "avg_like_count": 73,
+      "avg_comment_count": 13,
       "source_titles": [
-        "I hired an AI to plan a $100K/Month Business For Me..."
+        "You Can Now Search Your Own Memory"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/p62FntyLcTU/hqdefault.jpg",
-      "representative_video_id": "p62FntyLcTU",
-      "representative_title": "I hired an AI to plan a $100K/Month Business For Me..."
+      "thumbnail_url": "https://i.ytimg.com/vi/_HhnzIDnVnk/hqdefault.jpg",
+      "representative_video_id": "_HhnzIDnVnk",
+      "representative_title": "You Can Now Search Your Own Memory"
     },
     {
-      "label": "게임개발",
+      "label": "코딩",
       "count": 1,
-      "avg_view_count": 2910,
-      "avg_engagement_rate": 0.0429553264604811,
-      "avg_like_count": 113,
-      "avg_comment_count": 12,
+      "avg_view_count": 1723,
+      "avg_engagement_rate": 0.0661636680208938,
+      "avg_like_count": 112,
+      "avg_comment_count": 2,
       "source_titles": [
-        "AI 시대에도 게임 엔진은 필요할까? 유니티 CEO에게 직접 물었습니다"
+        "The only skills you need to learn"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/sNAppH0c1O0/hqdefault.jpg",
-      "representative_video_id": "sNAppH0c1O0",
-      "representative_title": "AI 시대에도 게임 엔진은 필요할까? 유니티 CEO에게 직접 물었습니다"
+      "thumbnail_url": "https://i.ytimg.com/vi/P8RKnv9B_VU/hqdefault.jpg",
+      "representative_video_id": "P8RKnv9B_VU",
+      "representative_title": "The only skills you need to learn"
     }
   ],
   "video_highlights": [
     {
-      "video_id": "OPo1qds-mFQ",
-      "channel_name": "ITSub잇섭",
-      "title": "혁신적이라길래 펀딩했더니 또 *같이 망한 이유?",
-      "thumbnail_url": "https://i.ytimg.com/vi/OPo1qds-mFQ/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=OPo1qds-mFQ",
-      "published_at": "2026-08-03T11:00:37Z",
-      "view_count": 218261,
-      "like_count": 2389,
-      "comment_count": 410,
-      "engagement_rate": 0.012824095921855027,
-      "topic_cluster": "Arc",
-      "summary": "DECOKEE Quake 보조 모니터의 하드웨어 사양을 리뷰하고, AI 기능과 터치스크린의 혁신성을 기대했으나 높은 가격 대비 소프트웨어의 복잡성과 최적화 부족으로…",
-      "comment_signal": "영상과 관련없지만 잇섭님께 감사말씀드리고 싶어 용기내어 댓글 작성합니다 저희 이른둥이 보물이가 신생아 중환자실에서 힘겨운 사투끝에 일주일 만에 하늘에 별로 떠났습니다 그당…",
-      "hook_type": "문제 해결"
+      "video_id": "7Ed117Du39g",
+      "channel_name": "월텍남 - 월스트리트 테크남",
+      "title": "팔란티어 30% 대폭등, \"Rule of 155\" 경이적인 수치 발표",
+      "thumbnail_url": "https://i.ytimg.com/vi/7Ed117Du39g/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=7Ed117Du39g",
+      "published_at": "2026-08-04T05:10:31Z",
+      "view_count": 12960,
+      "like_count": 331,
+      "comment_count": 66,
+      "engagement_rate": 0.030632716049382717,
+      "topic_cluster": "팔란티어",
+      "summary": "팔란티어가 강력한 매출 성장과 비용 효율성을 동시에 달성하는 경이적인 실적을 발표하며 AI 핵심 기업으로서의 우수한 재무 성과를 증명했다.",
+      "comment_signal": "마이클 버리 제발 청산당해라",
+      "hook_type": "긴급성"
     },
     {
-      "video_id": "j4-VvZ3hnEI",
-      "channel_name": "tef",
-      "title": "Grok 4.5 is lowkey NUTS.",
-      "thumbnail_url": "https://i.ytimg.com/vi/j4-VvZ3hnEI/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=j4-VvZ3hnEI",
-      "published_at": "2026-08-03T00:24:47Z",
-      "view_count": 22224,
-      "like_count": 1078,
-      "comment_count": 210,
-      "engagement_rate": 0.057955363570914326,
-      "topic_cluster": "Gemini",
-      "summary": "Grok 4.5 모델의 게임 생성 성능을 테스트한 결과, 마인크래프트나 포트나이트 등 특정 장르에서 이전 모델 대비 개선된 모습을 보였으나 캐릭터 모델링과 물리 시…",
-      "comment_signal": "HERE IT IS!!",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "5Sce0mThJE4",
-      "channel_name": "안될공학 - IT 테크 신기술",
-      "title": "HBM 후발주자 치욕 딛고, 다시 왕좌 찾는 삼성 | HBM4부터 핵심은 베이스다이가 된 기술적 이유 | 삼성 파운드리 vs tsmc",
-      "thumbnail_url": "https://i.ytimg.com/vi/5Sce0mThJE4/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=5Sce0mThJE4",
-      "published_at": "2026-08-03T09:25:15Z",
-      "view_count": 21321,
-      "like_count": 724,
-      "comment_count": 57,
-      "engagement_rate": 0.03663055203789691,
-      "topic_cluster": "HBM",
-      "summary": "HBM4부터 베이스 다이의 로직 공정이 성능의 핵심 요소로 부상함에 따라, 삼성의 수직 통합 구조와 SK하이닉스-TSMC 협력 사례를 통해 향후 HBM 메모리 시장…",
-      "comment_signal": "우리 에러형도 가끔은 생존신고좀😅",
-      "hook_type": "비교"
-    },
-    {
-      "video_id": "tt5kQIi_QK0",
+      "video_id": "MWFYoDybPa0",
       "channel_name": "조코딩 JoCoding",
-      "title": "AI뉴스 - 오픈AI Astra 10대 난제 해결, DeepSeek-V4-Flash 정식, Seedance 2.5, MiniMax H3, Gemini Robotics 2 등",
-      "thumbnail_url": "https://i.ytimg.com/vi/tt5kQIi_QK0/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=tt5kQIi_QK0",
-      "published_at": "2026-08-03T13:00:32Z",
-      "view_count": 10751,
-      "like_count": 240,
-      "comment_count": 27,
-      "engagement_rate": 0.024834899079155426,
-      "topic_cluster": "GPT-5",
-      "summary": "오픈AI의 10대 난제 해결 모델 발표와 DeepSeek-V4-Flash의 오픈 웨이트 출시 등 최신 AI 모델 동향을 다루며, 관련 기술의 벤치마크 성과와 활용…",
-      "comment_signal": "2분전은 못참지",
+      "title": "인간 연구자를 뛰어넘고 난제까지 해결해버린 AI ㄷㄷ;;;",
+      "thumbnail_url": "https://i.ytimg.com/vi/MWFYoDybPa0/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=MWFYoDybPa0",
+      "published_at": "2026-08-04T06:21:34Z",
+      "view_count": 8898,
+      "like_count": 76,
+      "comment_count": 11,
+      "engagement_rate": 0.009777478084962913,
+      "topic_cluster": "인공지능",
+      "summary": "오픈AI가 발표한 새로운 AI 모델이 인간 연구자들도 풀지 못한 수학적 난제를 해결하며 기술적 특이점에 가까워졌음을 시사했다.",
+      "comment_signal": "그럼 해결자 명단에 사람 이름 대신 open ai 모델 명이 올라가는건가... 신기하네요",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "p62FntyLcTU",
-      "channel_name": "tef",
-      "title": "I hired an AI to plan a $100K/Month Business For Me...",
-      "thumbnail_url": "https://i.ytimg.com/vi/p62FntyLcTU/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=p62FntyLcTU",
-      "published_at": "2026-08-03T10:59:46Z",
-      "view_count": 3572,
-      "like_count": 279,
-      "comment_count": 47,
-      "engagement_rate": 0.09126539753639418,
-      "topic_cluster": "Notion",
-      "summary": "Accio Work 플랫폼을 활용해 비즈니스 전략 수립부터 실행 계획까지 자동화하는 과정을 보여주며, AI 에이전트가 1인 개발자의 비즈니스 업무를 어떻게 보조할…",
-      "comment_signal": "want more video like this dawg tho didnt even watched the full vid",
+      "video_id": "NVU2ssAGZtc",
+      "channel_name": "조코딩 JoCoding",
+      "title": "AI 대가가 추천하는 새로운 LLM 벤치마크",
+      "thumbnail_url": "https://i.ytimg.com/vi/NVU2ssAGZtc/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=NVU2ssAGZtc",
+      "published_at": "2026-08-04T09:00:16Z",
+      "view_count": 8614,
+      "like_count": 51,
+      "comment_count": 0,
+      "engagement_rate": 0.005920594381239842,
+      "topic_cluster": "대가가",
+      "summary": "안드레 카파시가 제안한 새로운 LLM 벤치마크 방식으로, 문학 작품의 장면을 3D 애니메이션으로 구현하여 모델의 성능을 비교 평가하는 방안을 다루었다.",
+      "comment_signal": "댓글 반응은 아직 약한 편입니다.",
       "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "97Y5cz7H8SM",
+      "channel_name": "Futurepedia",
+      "title": "Claude Design Just Unlocked AI Motion Graphics",
+      "thumbnail_url": "https://i.ytimg.com/vi/97Y5cz7H8SM/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=97Y5cz7H8SM",
+      "published_at": "2026-08-04T18:59:11Z",
+      "view_count": 7761,
+      "like_count": 543,
+      "comment_count": 35,
+      "engagement_rate": 0.07447493879654683,
+      "topic_cluster": "Claude",
+      "summary": "클로드 디자인(Claude Design)의 숨겨진 기능인 모션 그래픽 제작 능력을 소개하며, 텍스트나 이미지를 활용해 고품질의 애니메이션을 간단하게 생성하는 방법을…",
+      "comment_signal": "bro, fuck claude design, your plugin is goated",
+      "hook_type": "실험 데모"
+    },
+    {
+      "video_id": "_HhnzIDnVnk",
+      "channel_name": "Matt Wolfe",
+      "title": "You Can Now Search Your Own Memory",
+      "thumbnail_url": "https://i.ytimg.com/vi/_HhnzIDnVnk/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=_HhnzIDnVnk",
+      "published_at": "2026-08-04T13:15:35Z",
+      "view_count": 2041,
+      "like_count": 73,
+      "comment_count": 13,
+      "engagement_rate": 0.042136207741303285,
+      "topic_cluster": "Notion",
+      "summary": "신용카드 두께의 AI 기록 장치인 '세컨드브레인 노트'를 소개하며, 일상 대화와 아이디어를 자동으로 녹음하고 체계적인 메모와 업무 지원을 제공하는 기능을 다루었다.",
+      "comment_signal": "Back in the days this was called spy technology.",
+      "hook_type": "긴급성"
     }
   ]
 }
