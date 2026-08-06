@@ -1,212 +1,263 @@
 {
-  "digest_date": "2026-08-05",
-  "generated_at": "2026-08-05T00:14:40+00:00",
-  "summary": "최근 24시간 영상 6개를 기준으로 보면, 오늘 가장 먼저 볼 축은 '팔란티어'입니다. 특히 '팔란티어 30% 대폭등, \"Rule of 155\" 경이적인 수치 발표'는 조회수 13.0K, 참여율 3.1%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "'팔란티어' 주제가 1개 영상으로 가장 많이 다뤄졌습니다. 오늘 수집 영상 6개는 주로 '뉴스 분석' 포맷이라, VS 비교·직접 실험 각도는 아직 비어 있습니다. 일반인 관점 직접 실험 or VS 비교 각도로 차별화할 영역이 있습니다.\n[내 채널] 7일 평균 8.1K회 · 지속률 27.2% / 경쟁사 평균 7.0K회 (격차 +16%)",
-  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 08/05\n\n📊 총 9개 | AI 핵심 4 · 인접 AI 2 · 일반 테크 보충 3\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 9 (최대 10) · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [조코딩 JoCoding] 8.9K뷰 · 참여율 1.0%\n   인간 연구자를 뛰어넘고 난제까지 해결해버린 AI ㄷㄷ;;;\n   ↳ 오픈AI가 발표한 새로운 AI 모델이 인간 연구자들도 풀지 못한 수학적 난제를 해결하며 기술적 특이점에 가까워졌음을 시사했다.\n   https://youtu.be/MWFYoDybPa0\n\n2. AI 핵심 · [조코딩 JoCoding] 8.6K뷰 · 참여율 0.6%\n   AI 대가가 추천하는 새로운 LLM 벤치마크\n   ↳ 안드레 카파시가 제안한 새로운 LLM 벤치마크 방식으로, 문학 작품의 장면을 3D 애니메이션으로 구현하여 모델의 성능을 비교 평가하는 방안을 다루었다.\n   https://youtu.be/NVU2ssAGZtc\n\n3. AI 핵심 · [Futurepedia] 7.8K뷰 · 참여율 7.4%\n   Claude Design Just Unlocked AI Motion Graphics\n   ↳ 클로드 디자인(Claude Design)의 숨겨진 기능인 모션 그래픽 제작 능력을 소개하며, 텍스트나 이미지를 활용해 고품질의 애니메이션을 간단하게 생성하는 방법을 설명했다.\n   https://youtu.be/97Y5cz7H8SM\n\n4. AI 핵심 · [Matt Wolfe] 2.0K뷰 · 참여율 4.2%\n   You Can Now Search Your Own Memory\n   ↳ 신용카드 두께의 AI 기록 장치인 '세컨드브레인 노트'를 소개하며, 일상 대화와 아이디어를 자동으로 녹음하고 체계적인 메모와 업무 지원을 제공하는 기능을 다루었다.\n   https://youtu.be/_HhnzIDnVnk\n\n5. AI 인접 · [월텍남 - 월스트리트 테크남] 13.0K뷰 · 참여율 3.1%\n   팔란티어 30% 대폭등, \"Rule of 155\" 경이적인 수치 발표\n   ↳ 팔란티어가 강력한 매출 성장과 비용 효율성을 동시에 달성하는 경이적인 실적을 발표하며 AI 핵심 기업으로서의 우수한 재무 성과를 증명했다.\n   https://youtu.be/7Ed117Du39g\n\n6. AI 인접 · [Dan Martell] 1.7K뷰 · 참여율 6.6%\n   The only skills you need to learn\n   ↳ 현대 비즈니스 환경에서 가장 중요한 핵심 기술로 마케팅과 세일즈 능력을 꼽았으며, 프롬프팅과 같은 기술은 AI로 대체 가능함을 강조했다.\n   https://youtu.be/P8RKnv9B_VU\n\n7. 테크 보충 · [주연 ZUYONI] 212.4K뷰 · 참여율 1.6%\n   이렇게 나오면 폴드8 못 이길텐데... 아이폰 폴드 우려 & 기대 포인트 총정리!\n   ↳ 출시 예정인 아이폰 폴더블과 갤럭시 Z폴드8을 비교하며, 카메라 및 멀티태스킹 성능, 디자인 차이와 예상 가격 등 주요 기대 및 우려 포인트를 분석했다.\n   https://youtu.be/FO22Nv6o5jc\n\n8. 테크 보충 · [테크몽 Techmong] 78.0K뷰 · 참여율 0.6%\n   정품보다 훨씬 빠른 폴드 8 충전기\n   ↳ 갤럭시 Z폴드8 전용 펠티어 냉각 충전기를 사용하면 정품 충전기보다 훨씬 빠르게 충전할 수 있으며 가격 경쟁력까지 갖추고 있음을 보여주었다.\n   https://youtu.be/RdXFMtPey4o\n\n9. 테크 보충 · [안될공학 - IT 테크 신기술] 19.3K뷰 · 참여율 4.1%\n   HBM4 가격은 왜 오를까? | DDR5부터 베이스 다이까지, 제조사의 계산법\n   ↳ HBM4는 복잡한 적층 구조, 로직 베이스 다이 결합, 서버용 DDR5 생산 대체에 따른 기회비용으로 인해 HBM3E보다 가격이 대폭 상승할 것이라는 분석을 내놓았다.\n   https://youtu.be/yCmLJYxYPjk\n\n📈 스마트대디 어제 실적\n조회수 7.3K (↓10% vs 7일 평균) | 구독 +41\n시청 지속률 27.9% | 평균 시청 2분 28초\n경쟁사 평균 7.0K회 대비 내 7일 평균 +16%\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
-  "video_count": 6,
-  "total_recent_video_count": 11,
+  "digest_date": "2026-08-06",
+  "generated_at": "2026-08-06T00:09:21+00:00",
+  "summary": "최근 24시간 영상 12개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'Claude'입니다. 특히 '무서울정도로 구분 못할 AI 영상 등장'는 조회수 26.4K, 참여율 1.0%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "'Claude' 주제가 3개 영상으로 가장 많이 다뤄졌습니다. Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n[내 채널] 7일 평균 6.8K회 · 지속률 28.0% / 경쟁사 평균 12.0K회 (격차 -43%)",
+  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 08/06\n\n📊 총 10개 | AI 핵심 6 · 인접 AI 4 · 일반 테크 보충 0\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 10 · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [조코딩 JoCoding] 26.4K뷰 · 참여율 1.0%\n   무서울정도로 구분 못할 AI 영상 등장\n   ↳ 영상 생성 AI인 시댄스 2.5를 활용해 실제 광고 수준의 고퀄리티 키보드 광고 영상을 제작하는 과정을 보여줍니다.\n   https://youtu.be/FI5f8Zc6lcg\n\n2. AI 핵심 · [조코딩 JoCoding] 26.2K뷰 · 참여율 0.9%\n   네트워크 전혀 없이 무선으로 주고받는 법 ㄷㄷ\n   ↳ 와이파이나 블루투스 같은 네트워크 연결 없이도 QR코드의 깜빡임만을 이용해 무선으로 데이터를 전송하는 기술적 가능성을 소개합니다.\n   https://youtu.be/XmmDstOhpYQ\n\n3. AI 핵심 · [조코딩 JoCoding] 4.2K뷰 · 참여율 2.1%\n   AI 이미지, ‘생성’보다 중요한 건 따로 있습니다\n   ↳ 어도비 파이어플라이의 브러시 및 영역 수정 기능을 통해 이미지 전체를 재생성하지 않고도 사용자가 원하는 부분만 세밀하게 제어하는 효율적인 작업 방법을 설명합니다.\n   https://youtu.be/_xJYgbQqPqU\n\n4. AI 핵심 · [빌더 조쉬 Builder Josh] 2.3K뷰 · 참여율 3.6%\n   에이전트에 권한을 다 열어두면 어떻게 뚫리는지 보안 전문가가 직접 보여줍니다 (스틸리언 심재빈님)\n   ↳ 보안 전문가가 AI 에이전트의 프롬프트 인젝션 및 시스템 프롬프트 유출 위험성을 시연하고, 안전한 서비스를 위해 권한 격리와 가드레일 설정이 필수적임을 강조합니다.\n   https://youtu.be/xW3egX7Vo-E\n\n5. AI 핵심 · [All About AI] 512뷰 · 참여율 4.1%\n   OpenAI vs Claude Polymarket AI Prediciton Battle Week 2\n   ↳ 폴리마켓 예측 플랫폼을 통해 GPT-5.6과 클로드 오퍼스 5의 성능을 비교하는 2주 차 대결 결과를 공유합니다.\n   https://youtu.be/mE19g0youEQ\n\n6. AI 핵심 · [Goda Go] 303뷰 · 참여율 12.2%\n   AI Memory Pyramids (NEW Research)\n   ↳ AI가 정보를 단순 검색하는 RAG 방식에서 벗어나, 인간처럼 기억을 능동적으로 탐색하는 '메모리 피라미드' 기반의 새로운 연구와 구현 모델을 소개합니다.\n   https://youtu.be/FGHfRynuJ5E\n\n7. AI 인접 · [Dan Martell] 25.6K뷰 · 참여율 9.0%\n   How To Become Dangerously Self-Educated (with AI)\n   ↳ 수동적인 학습에서 벗어나 AI를 활용한 '적시 학습(Just-in-time learning)'을 통해 실질적인 문제 해결 역량을 키우는 자기계발 전략을 제안합니다.\n   https://youtu.be/6poBPhfB-WY\n\n8. AI 인접 · [월텍남 - 월스트리트 테크남] 18.6K뷰 · 참여율 3.3%\n   \"수백조 적자, AI 버블 붕괴?\" 빅테크 3대장이 숨기고 있는 역대급 인프라 독점 시나리오\n   ↳ 빅테크 기업들이 AI 인프라 시장을 독점하는 상황에서 하드웨어 투자와 모델 개발의 수익성, 그리고 데이터센터 운영의 경제적 관점을 분석합니다.\n   https://youtu.be/kaSf9gSynRw\n\n9. AI 인접 · [Dan Martell] 17.0K뷰 · 참여율 4.2%\n   \"How do you feel about your net worth?\n   ↳ 자산 규모에 대한 세간의 평가와 그에 따른 압박감, 그리고 단순히 부를 쫓는 것이 아닌 가치 지향적인 삶의 중요성에 대해 다룹니다.\n   https://youtu.be/uib-G4XPCYU\n\n10. AI 인접 · [월텍남 - 월스트리트 테크남] 15.2K뷰 · 참여율 3.6%\n   \"모두가 당했습니다\"\n   ↳ AI 서버향 메모리 반도체 시장에 대한 낙관적인 전망과 함께, 오픈소스 모델과 프론티어 모델 간의 실제 성능 차이에 대한 견해를 공유합니다.\n   https://youtu.be/h-WpAGTcPOM\n\n📈 스마트대디 어제 실적\n조회수 5.4K (↓21% vs 7일 평균) | 구독 +27\n시청 지속률 29.0% | 평균 시청 2분 20초\n경쟁사 평균 12.0K회 대비 내 7일 평균 -43%\n\n💡 VS 각도: Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+  "video_count": 12,
+  "total_recent_video_count": 12,
   "focus_scope": "ai_priority_then_tech_fill",
-  "average_view_count": 7000.0,
-  "average_engagement_rate": 0.0381842671790549,
-  "average_like_count": 198.0,
-  "average_comment_count": 21.0,
-  "best_video_id": "7Ed117Du39g",
-  "best_topic": "팔란티어",
+  "average_view_count": 11957.0,
+  "average_engagement_rate": 0.04728565490975287,
+  "average_like_count": 421.0,
+  "average_comment_count": 25.0,
+  "best_video_id": "FI5f8Zc6lcg",
+  "best_topic": "Claude",
   "summary_points": [
-    "가장 겹친 주제는 '팔란티어'이며 1개 영상, 평균 조회수 13.0K, 평균 참여율 3.1%입니다.",
-    "최고 실적 영상은 '팔란티어 30% 대폭등, \"Rule of 155\" 경이적인 수치 발표'이며 긴급성 훅과 뉴스 분석 포맷 조합이 강했습니다.",
-    "반복 노출된 툴은 Claude 1회, Gemini 1회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
+    "가장 겹친 주제는 'Claude'이며 3개 영상, 평균 조회수 9.4K, 평균 참여율 8.2%입니다.",
+    "최고 실적 영상은 '무서울정도로 구분 못할 AI 영상 등장'이며 문제 해결 훅과 빌드 데모 포맷 조합이 강했습니다.",
+    "반복 노출된 툴은 Claude 4회, ChatGPT 3회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
   ],
   "action_chips": [
-    "주제: 팔란티어",
-    "훅: 긴급성",
-    "포맷: 뉴스 분석",
-    "기준 채널: 월텍남 - 월스트리트 테크남"
+    "주제: Claude",
+    "훅: 문제 해결",
+    "포맷: 빌드 데모",
+    "기준 채널: 조코딩 JoCoding"
   ],
   "title_suggestions": [
-    "팔란티어 직접 실험 — 이게 진짜 되나?",
-    "팔란티어 vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
-    "팔란티어 써봤더니... (기대 vs 현실 솔직 후기)"
+    "Claude vs ChatGPT, 일반인이 직접 써보니 이게 달랐다",
+    "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
+    "AI 비서 대결: Claude가 진짜 강한 상황은 따로 있었다"
   ],
   "recommendations": [
     {
-      "title": "팔란티어 직접 실험 — 이게 진짜 되나?",
-      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
-      "angle": "큰 주제 하나를 대표 제목으로 세우고, 나머지 포인트는 보조 정보처럼 정리하는 압축형 포장이 좋습니다.",
-      "thumbnail_copy": "팔란티어 지금 봐야 함",
-      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
-      "source_video_id": "7Ed117Du39g",
-      "source": "팔란티어 30% 대폭등, \"Rule of 155\" 경이적인 수치 발표",
-      "my_channel_context": "내 7일 평균 8.1K회 · 지속률 27.2% / 경쟁사 대비 +16%"
+      "title": "Claude vs ChatGPT, 일반인이 직접 써보니 이게 달랐다",
+      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
+      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
+      "thumbnail_copy": "Claude 바로 해결",
+      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
+      "source_video_id": "6poBPhfB-WY",
+      "source": "How To Become Dangerously Self-Educated (with AI)",
+      "my_channel_context": "내 7일 평균 6.8K회 · 지속률 28.0% / 경쟁사 대비 -43%"
+    },
+    {
+      "title": "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
+      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
+      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
+      "thumbnail_copy": "Claude 핵심 3가지",
+      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
+      "source_video_id": "xW3egX7Vo-E",
+      "source": "에이전트에 권한을 다 열어두면 어떻게 뚫리는지 보안 전문가가 직접 보여줍니다 (스틸리언 심재빈님)",
+      "my_channel_context": "내 7일 평균 6.8K회 · 지속률 28.0% / 경쟁사 대비 -43%"
+    },
+    {
+      "title": "AI 비서 대결: Claude가 진짜 강한 상황은 따로 있었다",
+      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
+      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
+      "thumbnail_copy": "Claude 바로 해결",
+      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
+      "source_video_id": "FGHfRynuJ5E",
+      "source": "AI Memory Pyramids (NEW Research)",
+      "my_channel_context": "내 7일 평균 6.8K회 · 지속률 28.0% / 경쟁사 대비 -43%"
     }
   ],
   "topic_clusters": [
     {
-      "label": "팔란티어",
-      "count": 1,
-      "avg_view_count": 12960,
-      "avg_engagement_rate": 0.030632716049382717,
-      "avg_like_count": 331,
-      "avg_comment_count": 66,
-      "source_titles": [
-        "팔란티어 30% 대폭등, \"Rule of 155\" 경이적인 수치 발표"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/7Ed117Du39g/hqdefault.jpg",
-      "representative_video_id": "7Ed117Du39g",
-      "representative_title": "팔란티어 30% 대폭등, \"Rule of 155\" 경이적인 수치 발표"
-    },
-    {
-      "label": "인공지능",
-      "count": 1,
-      "avg_view_count": 8898,
-      "avg_engagement_rate": 0.009777478084962913,
-      "avg_like_count": 76,
-      "avg_comment_count": 11,
-      "source_titles": [
-        "인간 연구자를 뛰어넘고 난제까지 해결해버린 AI ㄷㄷ;;;"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/MWFYoDybPa0/hqdefault.jpg",
-      "representative_video_id": "MWFYoDybPa0",
-      "representative_title": "인간 연구자를 뛰어넘고 난제까지 해결해버린 AI ㄷㄷ;;;"
-    },
-    {
-      "label": "대가가",
-      "count": 1,
-      "avg_view_count": 8614,
-      "avg_engagement_rate": 0.005920594381239842,
-      "avg_like_count": 51,
-      "avg_comment_count": 0,
-      "source_titles": [
-        "AI 대가가 추천하는 새로운 LLM 벤치마크"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/NVU2ssAGZtc/hqdefault.jpg",
-      "representative_video_id": "NVU2ssAGZtc",
-      "representative_title": "AI 대가가 추천하는 새로운 LLM 벤치마크"
-    },
-    {
       "label": "Claude",
-      "count": 1,
-      "avg_view_count": 7761,
-      "avg_engagement_rate": 0.07447493879654683,
-      "avg_like_count": 543,
-      "avg_comment_count": 35,
+      "count": 3,
+      "avg_view_count": 9400,
+      "avg_engagement_rate": 0.08243302534217102,
+      "avg_like_count": 768,
+      "avg_comment_count": 37,
       "source_titles": [
-        "Claude Design Just Unlocked AI Motion Graphics"
+        "How To Become Dangerously Self-Educated (with AI)",
+        "에이전트에 권한을 다 열어두면 어떻게 뚫리는지 보안 전문가가 직접 보여줍니다 (스틸리언 심재빈님)",
+        "AI Memory Pyramids (NEW Research)"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/97Y5cz7H8SM/hqdefault.jpg",
-      "representative_video_id": "97Y5cz7H8SM",
-      "representative_title": "Claude Design Just Unlocked AI Motion Graphics"
+      "thumbnail_url": "https://i.ytimg.com/vi/6poBPhfB-WY/hqdefault.jpg",
+      "representative_video_id": "6poBPhfB-WY",
+      "representative_title": "How To Become Dangerously Self-Educated (with AI)"
     },
     {
-      "label": "Notion",
-      "count": 1,
-      "avg_view_count": 2041,
-      "avg_engagement_rate": 0.042136207741303285,
-      "avg_like_count": 73,
-      "avg_comment_count": 13,
+      "label": "ChatGPT",
+      "count": 2,
+      "avg_view_count": 3656,
+      "avg_engagement_rate": 0.0642721400228572,
+      "avg_like_count": 222,
+      "avg_comment_count": 12,
       "source_titles": [
-        "You Can Now Search Your Own Memory"
+        "If you're selling to...",
+        "These are the AI tools you need to run your business"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/_HhnzIDnVnk/hqdefault.jpg",
-      "representative_video_id": "_HhnzIDnVnk",
-      "representative_title": "You Can Now Search Your Own Memory"
+      "thumbnail_url": "https://i.ytimg.com/vi/cDLzIsBbuAc/hqdefault.jpg",
+      "representative_video_id": "cDLzIsBbuAc",
+      "representative_title": "If you're selling to..."
+    },
+    {
+      "label": "무서울정도로",
+      "count": 1,
+      "avg_view_count": 26375,
+      "avg_engagement_rate": 0.009630331753554502,
+      "avg_like_count": 238,
+      "avg_comment_count": 16,
+      "source_titles": [
+        "무서울정도로 구분 못할 AI 영상 등장"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/FI5f8Zc6lcg/hqdefault.jpg",
+      "representative_video_id": "FI5f8Zc6lcg",
+      "representative_title": "무서울정도로 구분 못할 AI 영상 등장"
+    },
+    {
+      "label": "네트워크",
+      "count": 1,
+      "avg_view_count": 26160,
+      "avg_engagement_rate": 0.008944954128440367,
+      "avg_like_count": 204,
+      "avg_comment_count": 30,
+      "source_titles": [
+        "네트워크 전혀 없이 무선으로 주고받는 법 ㄷㄷ"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/XmmDstOhpYQ/hqdefault.jpg",
+      "representative_video_id": "XmmDstOhpYQ",
+      "representative_title": "네트워크 전혀 없이 무선으로 주고받는 법 ㄷㄷ"
+    },
+    {
+      "label": "수백조",
+      "count": 1,
+      "avg_view_count": 18550,
+      "avg_engagement_rate": 0.033045822102425876,
+      "avg_like_count": 567,
+      "avg_comment_count": 46,
+      "source_titles": [
+        "\"수백조 적자, AI 버블 붕괴?\" 빅테크 3대장이 숨기고 있는 역대급 인프라 독점 시나리오"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/kaSf9gSynRw/hqdefault.jpg",
+      "representative_video_id": "kaSf9gSynRw",
+      "representative_title": "\"수백조 적자, AI 버블 붕괴?\" 빅테크 3대장이 숨기고 있는 역대급 인프라 독점 시나리오"
+    },
+    {
+      "label": "질문",
+      "count": 1,
+      "avg_view_count": 16993,
+      "avg_engagement_rate": 0.04160536691578885,
+      "avg_like_count": 699,
+      "avg_comment_count": 8,
+      "source_titles": [
+        "\"How do you feel about your net worth?"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/uib-G4XPCYU/hqdefault.jpg",
+      "representative_video_id": "uib-G4XPCYU",
+      "representative_title": "\"How do you feel about your net worth?"
     },
     {
       "label": "코딩",
       "count": 1,
-      "avg_view_count": 1723,
-      "avg_engagement_rate": 0.0661636680208938,
-      "avg_like_count": 112,
-      "avg_comment_count": 2,
+      "avg_view_count": 15213,
+      "avg_engagement_rate": 0.036219023203838824,
+      "avg_like_count": 498,
+      "avg_comment_count": 53,
       "source_titles": [
-        "The only skills you need to learn"
+        "\"모두가 당했습니다\""
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/P8RKnv9B_VU/hqdefault.jpg",
-      "representative_video_id": "P8RKnv9B_VU",
-      "representative_title": "The only skills you need to learn"
+      "thumbnail_url": "https://i.ytimg.com/vi/h-WpAGTcPOM/hqdefault.jpg",
+      "representative_video_id": "h-WpAGTcPOM",
+      "representative_title": "\"모두가 당했습니다\""
+    },
+    {
+      "label": "자동화",
+      "count": 1,
+      "avg_view_count": 4166,
+      "avg_engagement_rate": 0.02112337974075852,
+      "avg_like_count": 79,
+      "avg_comment_count": 9,
+      "source_titles": [
+        "AI 이미지, ‘생성’보다 중요한 건 따로 있습니다"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/_xJYgbQqPqU/hqdefault.jpg",
+      "representative_video_id": "_xJYgbQqPqU",
+      "representative_title": "AI 이미지, ‘생성’보다 중요한 건 따로 있습니다"
     }
   ],
   "video_highlights": [
     {
-      "video_id": "7Ed117Du39g",
-      "channel_name": "월텍남 - 월스트리트 테크남",
-      "title": "팔란티어 30% 대폭등, \"Rule of 155\" 경이적인 수치 발표",
-      "thumbnail_url": "https://i.ytimg.com/vi/7Ed117Du39g/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=7Ed117Du39g",
-      "published_at": "2026-08-04T05:10:31Z",
-      "view_count": 12960,
-      "like_count": 331,
-      "comment_count": 66,
-      "engagement_rate": 0.030632716049382717,
-      "topic_cluster": "팔란티어",
-      "summary": "팔란티어가 강력한 매출 성장과 비용 효율성을 동시에 달성하는 경이적인 실적을 발표하며 AI 핵심 기업으로서의 우수한 재무 성과를 증명했다.",
-      "comment_signal": "마이클 버리 제발 청산당해라",
-      "hook_type": "긴급성"
-    },
-    {
-      "video_id": "MWFYoDybPa0",
+      "video_id": "FI5f8Zc6lcg",
       "channel_name": "조코딩 JoCoding",
-      "title": "인간 연구자를 뛰어넘고 난제까지 해결해버린 AI ㄷㄷ;;;",
-      "thumbnail_url": "https://i.ytimg.com/vi/MWFYoDybPa0/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=MWFYoDybPa0",
-      "published_at": "2026-08-04T06:21:34Z",
-      "view_count": 8898,
-      "like_count": 76,
-      "comment_count": 11,
-      "engagement_rate": 0.009777478084962913,
-      "topic_cluster": "인공지능",
-      "summary": "오픈AI가 발표한 새로운 AI 모델이 인간 연구자들도 풀지 못한 수학적 난제를 해결하며 기술적 특이점에 가까워졌음을 시사했다.",
-      "comment_signal": "그럼 해결자 명단에 사람 이름 대신 open ai 모델 명이 올라가는건가... 신기하네요",
+      "title": "무서울정도로 구분 못할 AI 영상 등장",
+      "thumbnail_url": "https://i.ytimg.com/vi/FI5f8Zc6lcg/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=FI5f8Zc6lcg",
+      "published_at": "2026-08-05T09:00:11Z",
+      "view_count": 26375,
+      "like_count": 238,
+      "comment_count": 16,
+      "engagement_rate": 0.009630331753554502,
+      "topic_cluster": "무서울정도로",
+      "summary": "영상 생성 AI인 시댄스 2.5를 활용해 실제 광고 수준의 고퀄리티 키보드 광고 영상을 제작하는 과정을 보여줍니다.",
+      "comment_signal": "진짜 잘 먹고 사는 건 AI.부려먹는 능력자들이나 투자할 사람들이군.",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "NVU2ssAGZtc",
+      "video_id": "XmmDstOhpYQ",
       "channel_name": "조코딩 JoCoding",
-      "title": "AI 대가가 추천하는 새로운 LLM 벤치마크",
-      "thumbnail_url": "https://i.ytimg.com/vi/NVU2ssAGZtc/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=NVU2ssAGZtc",
-      "published_at": "2026-08-04T09:00:16Z",
-      "view_count": 8614,
-      "like_count": 51,
-      "comment_count": 0,
-      "engagement_rate": 0.005920594381239842,
-      "topic_cluster": "대가가",
-      "summary": "안드레 카파시가 제안한 새로운 LLM 벤치마크 방식으로, 문학 작품의 장면을 3D 애니메이션으로 구현하여 모델의 성능을 비교 평가하는 방안을 다루었다.",
-      "comment_signal": "댓글 반응은 아직 약한 편입니다.",
+      "title": "네트워크 전혀 없이 무선으로 주고받는 법 ㄷㄷ",
+      "thumbnail_url": "https://i.ytimg.com/vi/XmmDstOhpYQ/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=XmmDstOhpYQ",
+      "published_at": "2026-08-05T06:44:16Z",
+      "view_count": 26160,
+      "like_count": 204,
+      "comment_count": 30,
+      "engagement_rate": 0.008944954128440367,
+      "topic_cluster": "네트워크",
+      "summary": "와이파이나 블루투스 같은 네트워크 연결 없이도 QR코드의 깜빡임만을 이용해 무선으로 데이터를 전송하는 기술적 가능성을 소개합니다.",
+      "comment_signal": "10년쯤 전에, 하드디스크 헤드를 의도적으로 이동시키고, 이 때 발생하는 소음으로 데이터를 전송하는 에어갭 기법도 있었음. 안알려지고 골때리는 해킹 기법들이 상당히 많음.…",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "97Y5cz7H8SM",
-      "channel_name": "Futurepedia",
-      "title": "Claude Design Just Unlocked AI Motion Graphics",
-      "thumbnail_url": "https://i.ytimg.com/vi/97Y5cz7H8SM/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=97Y5cz7H8SM",
-      "published_at": "2026-08-04T18:59:11Z",
-      "view_count": 7761,
-      "like_count": 543,
-      "comment_count": 35,
-      "engagement_rate": 0.07447493879654683,
+      "video_id": "6poBPhfB-WY",
+      "channel_name": "Dan Martell",
+      "title": "How To Become Dangerously Self-Educated (with AI)",
+      "thumbnail_url": "https://i.ytimg.com/vi/6poBPhfB-WY/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=6poBPhfB-WY",
+      "published_at": "2026-08-05T13:00:37Z",
+      "view_count": 25645,
+      "like_count": 2194,
+      "comment_count": 105,
+      "engagement_rate": 0.08964710469877168,
       "topic_cluster": "Claude",
-      "summary": "클로드 디자인(Claude Design)의 숨겨진 기능인 모션 그래픽 제작 능력을 소개하며, 텍스트나 이미지를 활용해 고품질의 애니메이션을 간단하게 생성하는 방법을…",
-      "comment_signal": "bro, fuck claude design, your plugin is goated",
-      "hook_type": "실험 데모"
+      "summary": "수동적인 학습에서 벗어나 AI를 활용한 '적시 학습(Just-in-time learning)'을 통해 실질적인 문제 해결 역량을 키우는 자기계발 전략을 제안합니다.",
+      "comment_signal": "The biggest skill in 2026 isn't knowing everything, it's knowing what to ask AI",
+      "hook_type": "문제 해결"
     },
     {
-      "video_id": "_HhnzIDnVnk",
-      "channel_name": "Matt Wolfe",
-      "title": "You Can Now Search Your Own Memory",
-      "thumbnail_url": "https://i.ytimg.com/vi/_HhnzIDnVnk/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=_HhnzIDnVnk",
-      "published_at": "2026-08-04T13:15:35Z",
-      "view_count": 2041,
-      "like_count": 73,
-      "comment_count": 13,
-      "engagement_rate": 0.042136207741303285,
-      "topic_cluster": "Notion",
-      "summary": "신용카드 두께의 AI 기록 장치인 '세컨드브레인 노트'를 소개하며, 일상 대화와 아이디어를 자동으로 녹음하고 체계적인 메모와 업무 지원을 제공하는 기능을 다루었다.",
-      "comment_signal": "Back in the days this was called spy technology.",
-      "hook_type": "긴급성"
+      "video_id": "kaSf9gSynRw",
+      "channel_name": "월텍남 - 월스트리트 테크남",
+      "title": "\"수백조 적자, AI 버블 붕괴?\" 빅테크 3대장이 숨기고 있는 역대급 인프라 독점 시나리오",
+      "thumbnail_url": "https://i.ytimg.com/vi/kaSf9gSynRw/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=kaSf9gSynRw",
+      "published_at": "2026-08-05T10:42:23Z",
+      "view_count": 18550,
+      "like_count": 567,
+      "comment_count": 46,
+      "engagement_rate": 0.033045822102425876,
+      "topic_cluster": "수백조",
+      "summary": "빅테크 기업들이 AI 인프라 시장을 독점하는 상황에서 하드웨어 투자와 모델 개발의 수익성, 그리고 데이터센터 운영의 경제적 관점을 분석합니다.",
+      "comment_signal": "그래서 빅테크 롱 메모리 숏 이야?",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "uib-G4XPCYU",
+      "channel_name": "Dan Martell",
+      "title": "\"How do you feel about your net worth?",
+      "thumbnail_url": "https://i.ytimg.com/vi/uib-G4XPCYU/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=uib-G4XPCYU",
+      "published_at": "2026-08-05T01:00:54Z",
+      "view_count": 16993,
+      "like_count": 699,
+      "comment_count": 8,
+      "engagement_rate": 0.04160536691578885,
+      "topic_cluster": "질문",
+      "summary": "자산 규모에 대한 세간의 평가와 그에 따른 압박감, 그리고 단순히 부를 쫓는 것이 아닌 가치 지향적인 삶의 중요성에 대해 다룹니다.",
+      "comment_signal": "Impressive net worth.😊 What I like most is that it wasn't built on hit songs, blockbuster movie…",
+      "hook_type": "문제 해결"
     }
   ]
 }
