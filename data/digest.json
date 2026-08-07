@@ -1,262 +1,237 @@
 {
-  "digest_date": "2026-08-06",
-  "generated_at": "2026-08-06T00:09:21+00:00",
-  "summary": "최근 24시간 영상 12개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'Claude'입니다. 특히 '무서울정도로 구분 못할 AI 영상 등장'는 조회수 26.4K, 참여율 1.0%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "'Claude' 주제가 3개 영상으로 가장 많이 다뤄졌습니다. Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n[내 채널] 7일 평균 6.8K회 · 지속률 28.0% / 경쟁사 평균 12.0K회 (격차 -43%)",
-  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 08/06\n\n📊 총 10개 | AI 핵심 6 · 인접 AI 4 · 일반 테크 보충 0\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 10 · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [조코딩 JoCoding] 26.4K뷰 · 참여율 1.0%\n   무서울정도로 구분 못할 AI 영상 등장\n   ↳ 영상 생성 AI인 시댄스 2.5를 활용해 실제 광고 수준의 고퀄리티 키보드 광고 영상을 제작하는 과정을 보여줍니다.\n   https://youtu.be/FI5f8Zc6lcg\n\n2. AI 핵심 · [조코딩 JoCoding] 26.2K뷰 · 참여율 0.9%\n   네트워크 전혀 없이 무선으로 주고받는 법 ㄷㄷ\n   ↳ 와이파이나 블루투스 같은 네트워크 연결 없이도 QR코드의 깜빡임만을 이용해 무선으로 데이터를 전송하는 기술적 가능성을 소개합니다.\n   https://youtu.be/XmmDstOhpYQ\n\n3. AI 핵심 · [조코딩 JoCoding] 4.2K뷰 · 참여율 2.1%\n   AI 이미지, ‘생성’보다 중요한 건 따로 있습니다\n   ↳ 어도비 파이어플라이의 브러시 및 영역 수정 기능을 통해 이미지 전체를 재생성하지 않고도 사용자가 원하는 부분만 세밀하게 제어하는 효율적인 작업 방법을 설명합니다.\n   https://youtu.be/_xJYgbQqPqU\n\n4. AI 핵심 · [빌더 조쉬 Builder Josh] 2.3K뷰 · 참여율 3.6%\n   에이전트에 권한을 다 열어두면 어떻게 뚫리는지 보안 전문가가 직접 보여줍니다 (스틸리언 심재빈님)\n   ↳ 보안 전문가가 AI 에이전트의 프롬프트 인젝션 및 시스템 프롬프트 유출 위험성을 시연하고, 안전한 서비스를 위해 권한 격리와 가드레일 설정이 필수적임을 강조합니다.\n   https://youtu.be/xW3egX7Vo-E\n\n5. AI 핵심 · [All About AI] 512뷰 · 참여율 4.1%\n   OpenAI vs Claude Polymarket AI Prediciton Battle Week 2\n   ↳ 폴리마켓 예측 플랫폼을 통해 GPT-5.6과 클로드 오퍼스 5의 성능을 비교하는 2주 차 대결 결과를 공유합니다.\n   https://youtu.be/mE19g0youEQ\n\n6. AI 핵심 · [Goda Go] 303뷰 · 참여율 12.2%\n   AI Memory Pyramids (NEW Research)\n   ↳ AI가 정보를 단순 검색하는 RAG 방식에서 벗어나, 인간처럼 기억을 능동적으로 탐색하는 '메모리 피라미드' 기반의 새로운 연구와 구현 모델을 소개합니다.\n   https://youtu.be/FGHfRynuJ5E\n\n7. AI 인접 · [Dan Martell] 25.6K뷰 · 참여율 9.0%\n   How To Become Dangerously Self-Educated (with AI)\n   ↳ 수동적인 학습에서 벗어나 AI를 활용한 '적시 학습(Just-in-time learning)'을 통해 실질적인 문제 해결 역량을 키우는 자기계발 전략을 제안합니다.\n   https://youtu.be/6poBPhfB-WY\n\n8. AI 인접 · [월텍남 - 월스트리트 테크남] 18.6K뷰 · 참여율 3.3%\n   \"수백조 적자, AI 버블 붕괴?\" 빅테크 3대장이 숨기고 있는 역대급 인프라 독점 시나리오\n   ↳ 빅테크 기업들이 AI 인프라 시장을 독점하는 상황에서 하드웨어 투자와 모델 개발의 수익성, 그리고 데이터센터 운영의 경제적 관점을 분석합니다.\n   https://youtu.be/kaSf9gSynRw\n\n9. AI 인접 · [Dan Martell] 17.0K뷰 · 참여율 4.2%\n   \"How do you feel about your net worth?\n   ↳ 자산 규모에 대한 세간의 평가와 그에 따른 압박감, 그리고 단순히 부를 쫓는 것이 아닌 가치 지향적인 삶의 중요성에 대해 다룹니다.\n   https://youtu.be/uib-G4XPCYU\n\n10. AI 인접 · [월텍남 - 월스트리트 테크남] 15.2K뷰 · 참여율 3.6%\n   \"모두가 당했습니다\"\n   ↳ AI 서버향 메모리 반도체 시장에 대한 낙관적인 전망과 함께, 오픈소스 모델과 프론티어 모델 간의 실제 성능 차이에 대한 견해를 공유합니다.\n   https://youtu.be/h-WpAGTcPOM\n\n📈 스마트대디 어제 실적\n조회수 5.4K (↓21% vs 7일 평균) | 구독 +27\n시청 지속률 29.0% | 평균 시청 2분 20초\n경쟁사 평균 12.0K회 대비 내 7일 평균 -43%\n\n💡 VS 각도: Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
-  "video_count": 12,
-  "total_recent_video_count": 12,
+  "digest_date": "2026-08-07",
+  "generated_at": "2026-08-07T01:46:12+00:00",
+  "summary": "최근 24시간 영상 9개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'ChatGPT'입니다. 특히 '미친듯이 기다린 스팀머신 한국 정발 안한다고? 빡쳐서 직접 만들어봤습니다 ㅋㅋ'는 조회수 219.9K, 참여율 1.4%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "'ChatGPT' 주제가 2개 영상으로 가장 많이 다뤄졌습니다. ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.\n[내 채널] 7일 평균 6.4K회 · 지속률 28.8% / 경쟁사 평균 37.3K회 (격차 -83%)",
+  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 08/07\n\n📊 총 10개 | AI 핵심 7 · 인접 AI 2 · 일반 테크 보충 1\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 10 · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [AI Explained] 38.4K뷰 · 참여율 6.6%\n   AI is getting a little out of control\n   ↳ AI 에이전트들의 자율적인 과학적 발견과 보안 사고 사례를 통해 AI의 통제 불능 가능성과 위험성을 다룬다. 특히 에이전트 간의 예상치 못한 협업과 메시지 기록 방식이 인간의 복잡한 조직 문제와 유사하게 나타나는…\n   https://youtu.be/xGzseSSStnw\n\n2. AI 핵심 · [조코딩 JoCoding] 36.4K뷰 · 참여율 1.3%\n   진짜 내 컴퓨터에서 돌릴 수 있는 1위 모델의 등장 ㄷㄷ\n   ↳ 개인 컴퓨터(GTX 3060 환경)에서 구동 가능한 MiniMax H3 모델을 소개하며, 아레나 기준 기존 모델을 뛰어넘는 고성능 비디오 생성 능력과 실제 활용 가능성을 검증한다.\n   https://youtu.be/sP-XQBJuX2Y\n\n3. AI 핵심 · [조코딩 JoCoding] 11.2K뷰 · 참여율 1.6%\n   구글을 뚜까패버린 초가성비 모델의 등장\n   ↳ 구글의 최신 모델과 대등한 성능을 보이면서도 압도적인 가성비를 자랑하는 새로운 AI 모델을 분석하며, 시장 내 경쟁력과 활용 가능성을 평가한다.\n   https://youtu.be/4H8UECXsJCY\n\n4. AI 핵심 · [Matt Wolfe] 1.4K뷰 · 참여율 3.2%\n   It’s like Slack… But for AIs\n   ↳ 잭 도시의 Block이 출시한 'Buzz'는 AI 에이전트와 협업할 수 있는 오픈소스 기반의 협업 툴로, 분산형 프로토콜인 Nostr를 채택하여 개발자와 스타트업이 자율적인 AI 워크포스를 구축하도록 돕는다.\n   https://youtu.be/FjalStmjUpw\n\n5. AI 핵심 · [The AI Advantage] 1.4K뷰 · 참여율 1.3%\n   You HAVE to Try ChatGPT Voice on Desktop\n   ↳ 새롭게 업데이트된 ChatGPT 데스크톱 앱의 음성 기능을 통해 작업 일정을 관리하고 업무 효율을 높이는 실질적인 활용법을 제시한다.\n   https://youtu.be/3UzUNuM0O3U\n\n6. AI 핵심 · [MattVidPro] 783뷰 · 참여율 16.7%\n   Minimax H3 is a Local AI Video BEAST for Anyone & Everyone.\n   ↳ 오픈 웨이트 기반의 MiniMax H3 비디오 생성 모델을 로컬 환경에서 직접 설치 및 테스트하여 성능을 평가한다. 고품질 영상 생성의 편의성을 강조하면서도 모델 사용 시 발생할 수 있는 잠재적 안전 문제와 기술적…\n   https://youtu.be/pPWnWcWNPrA\n\n7. AI 핵심 · [Goda Go] 468뷰 · 참여율 7.9%\n   1000+ hours of Talking with Nerdy CEOs, this is what they want\n   ↳ 복잡한 멀티 에이전트 시스템보다 비즈니스 현장의 실질적인 병목 지점을 파악하는 것이 중요함을 강조한다. 운영 효율 개선을 위해 AI 에이전트를 활용하여 핵심 지표를 모니터링하고 비용 효율적인 해결책을 찾는 방법을…\n   https://youtu.be/LplnXm8EXMw\n\n8. AI 인접 · [ITSub잇섭] 219.9K뷰 · 참여율 1.4%\n   미친듯이 기다린 스팀머신 한국 정발 안한다고? 빡쳐서 직접 만들어봤습니다 ㅋㅋ\n   ↳ 스팀 머신 미출시의 대안으로 스팀 OS를 활용한 자체 SFF PC 구축 과정을 다룬다. FSR 4 적용을 통해 기존 콘솔 대비 높은 그래픽 성능으로 AAA 게임을 구동할 수 있음을 확인한다.\n   https://youtu.be/kzcMPeIgMwM\n\n9. AI 인접 · [안될공학 - IT 테크 신기술] 25.8K뷰 · 참여율 3.0%\n   삼성·하이닉스 막 공개. HBM보다 10배 큰 메모리 | HBF·zNAND-O 전격 분석 | 서로 다른 NAND 전략\n   ↳ SK하이닉스의 HBF와 삼성전자의 zNAND-O 등 HBM 이후를 겨냥한 차세대 AI 메모리 기술을 분석한다. 대용량 데이터를 효율적으로 처리하기 위한 두 기업의 서로 다른 기술적 전략과 향후 AI 가속기 시장에…\n   https://youtu.be/oWfrzyv8H1Y\n\n10. 테크 보충 · [테크몽 Techmong] 68.3K뷰 · 참여율 2.1%\n   갤럭시 Z 폴드8 2주 동안 써보니 이게 최고입니다..\n   ↳ 갤럭시 Z 폴드8을 2주간 사용하며 느낀 장단점과 함께 커버 화면 활용, 게임 성능, 카메라 간섭 없는 액세서리 조합 등 최적의 사용 경험을 공유한다.\n   https://youtu.be/wg5jkfNU4dk\n\n📈 스마트대디 어제 실적\n조회수 6.2K (↓4% vs 7일 평균) | 구독 +35\n시청 지속률 30.2% | 평균 시청 2분 18초\n경쟁사 평균 37.3K회 대비 내 7일 평균 -83%\n\n💡 VS 각도: ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+  "video_count": 9,
+  "total_recent_video_count": 13,
   "focus_scope": "ai_priority_then_tech_fill",
-  "average_view_count": 11957.0,
-  "average_engagement_rate": 0.04728565490975287,
-  "average_like_count": 421.0,
-  "average_comment_count": 25.0,
-  "best_video_id": "FI5f8Zc6lcg",
-  "best_topic": "Claude",
+  "average_view_count": 37301.0,
+  "average_engagement_rate": 0.0479261839636634,
+  "average_like_count": 713.0,
+  "average_comment_count": 102.0,
+  "best_video_id": "kzcMPeIgMwM",
+  "best_topic": "ChatGPT",
   "summary_points": [
-    "가장 겹친 주제는 'Claude'이며 3개 영상, 평균 조회수 9.4K, 평균 참여율 8.2%입니다.",
-    "최고 실적 영상은 '무서울정도로 구분 못할 AI 영상 등장'이며 문제 해결 훅과 빌드 데모 포맷 조합이 강했습니다.",
-    "반복 노출된 툴은 Claude 4회, ChatGPT 3회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
+    "가장 겹친 주제는 'ChatGPT'이며 2개 영상, 평균 조회수 19.9K, 평균 참여율 4.0%입니다.",
+    "최고 실적 영상은 '미친듯이 기다린 스팀머신 한국 정발 안한다고? 빡쳐서 직접 만들어봤습니다 ㅋㅋ'이며 실험 훅과 비교 포맷 조합이 강했습니다.",
+    "반복 노출된 툴은 Arc 3회, Claude 3회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
   ],
   "action_chips": [
-    "주제: Claude",
-    "훅: 문제 해결",
-    "포맷: 빌드 데모",
-    "기준 채널: 조코딩 JoCoding"
+    "주제: ChatGPT",
+    "훅: 실험",
+    "포맷: 비교",
+    "기준 채널: ITSub잇섭"
   ],
   "title_suggestions": [
-    "Claude vs ChatGPT, 일반인이 직접 써보니 이게 달랐다",
-    "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
-    "AI 비서 대결: Claude가 진짜 강한 상황은 따로 있었다"
+    "ChatGPT vs Claude vs Gemini, 일반인 업무 실전 대결 결과",
+    "GPT 최신 버전 직접 실험 — 이전이랑 진짜 달라?",
+    "GPT 써봤더니... 기대랑 다른 점 솔직하게 다 말해봄"
   ],
   "recommendations": [
     {
-      "title": "Claude vs ChatGPT, 일반인이 직접 써보니 이게 달랐다",
+      "title": "ChatGPT vs Claude vs Gemini, 일반인 업무 실전 대결 결과",
       "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "Claude 바로 해결",
-      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
-      "source_video_id": "6poBPhfB-WY",
-      "source": "How To Become Dangerously Self-Educated (with AI)",
-      "my_channel_context": "내 7일 평균 6.8K회 · 지속률 28.0% / 경쟁사 대비 -43%"
+      "angle": "'ChatGPT'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
+      "thumbnail_copy": "ChatGPT 바로 해결",
+      "reason": "ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.",
+      "source_video_id": "xGzseSSStnw",
+      "source": "AI is getting a little out of control",
+      "my_channel_context": "내 7일 평균 6.4K회 · 지속률 28.8% / 경쟁사 대비 -83%"
     },
     {
-      "title": "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
+      "title": "GPT 최신 버전 직접 실험 — 이전이랑 진짜 달라?",
       "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "Claude 핵심 3가지",
-      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
-      "source_video_id": "xW3egX7Vo-E",
-      "source": "에이전트에 권한을 다 열어두면 어떻게 뚫리는지 보안 전문가가 직접 보여줍니다 (스틸리언 심재빈님)",
-      "my_channel_context": "내 7일 평균 6.8K회 · 지속률 28.0% / 경쟁사 대비 -43%"
-    },
-    {
-      "title": "AI 비서 대결: Claude가 진짜 강한 상황은 따로 있었다",
-      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "Claude 바로 해결",
-      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
-      "source_video_id": "FGHfRynuJ5E",
-      "source": "AI Memory Pyramids (NEW Research)",
-      "my_channel_context": "내 7일 평균 6.8K회 · 지속률 28.0% / 경쟁사 대비 -43%"
+      "angle": "'ChatGPT'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
+      "thumbnail_copy": "ChatGPT 바로 해결",
+      "reason": "ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.",
+      "source_video_id": "3UzUNuM0O3U",
+      "source": "You HAVE to Try ChatGPT Voice on Desktop",
+      "my_channel_context": "내 7일 평균 6.4K회 · 지속률 28.8% / 경쟁사 대비 -83%"
     }
   ],
   "topic_clusters": [
     {
-      "label": "Claude",
-      "count": 3,
-      "avg_view_count": 9400,
-      "avg_engagement_rate": 0.08243302534217102,
-      "avg_like_count": 768,
-      "avg_comment_count": 37,
-      "source_titles": [
-        "How To Become Dangerously Self-Educated (with AI)",
-        "에이전트에 권한을 다 열어두면 어떻게 뚫리는지 보안 전문가가 직접 보여줍니다 (스틸리언 심재빈님)",
-        "AI Memory Pyramids (NEW Research)"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/6poBPhfB-WY/hqdefault.jpg",
-      "representative_video_id": "6poBPhfB-WY",
-      "representative_title": "How To Become Dangerously Self-Educated (with AI)"
-    },
-    {
       "label": "ChatGPT",
       "count": 2,
-      "avg_view_count": 3656,
-      "avg_engagement_rate": 0.0642721400228572,
-      "avg_like_count": 222,
-      "avg_comment_count": 12,
+      "avg_view_count": 19900,
+      "avg_engagement_rate": 0.039696516411027234,
+      "avg_like_count": 1089,
+      "avg_comment_count": 190,
       "source_titles": [
-        "If you're selling to...",
-        "These are the AI tools you need to run your business"
+        "AI is getting a little out of control",
+        "You HAVE to Try ChatGPT Voice on Desktop"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/cDLzIsBbuAc/hqdefault.jpg",
-      "representative_video_id": "cDLzIsBbuAc",
-      "representative_title": "If you're selling to..."
+      "thumbnail_url": "https://i.ytimg.com/vi/xGzseSSStnw/hqdefault.jpg",
+      "representative_video_id": "xGzseSSStnw",
+      "representative_title": "AI is getting a little out of control"
     },
     {
-      "label": "무서울정도로",
-      "count": 1,
-      "avg_view_count": 26375,
-      "avg_engagement_rate": 0.009630331753554502,
-      "avg_like_count": 238,
-      "avg_comment_count": 16,
+      "label": "Claude",
+      "count": 2,
+      "avg_view_count": 958,
+      "avg_engagement_rate": 0.055413892430467016,
+      "avg_like_count": 41,
+      "avg_comment_count": 0,
       "source_titles": [
-        "무서울정도로 구분 못할 AI 영상 등장"
+        "It’s like Slack… But for AIs",
+        "1000+ hours of Talking with Nerdy CEOs, this is what they want"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/FI5f8Zc6lcg/hqdefault.jpg",
-      "representative_video_id": "FI5f8Zc6lcg",
-      "representative_title": "무서울정도로 구분 못할 AI 영상 등장"
+      "thumbnail_url": "https://i.ytimg.com/vi/FjalStmjUpw/hqdefault.jpg",
+      "representative_video_id": "FjalStmjUpw",
+      "representative_title": "It’s like Slack… But for AIs"
     },
     {
-      "label": "네트워크",
+      "label": "미친듯이",
       "count": 1,
-      "avg_view_count": 26160,
-      "avg_engagement_rate": 0.008944954128440367,
-      "avg_like_count": 204,
-      "avg_comment_count": 30,
+      "avg_view_count": 219869,
+      "avg_engagement_rate": 0.014181171515766207,
+      "avg_like_count": 2749,
+      "avg_comment_count": 369,
       "source_titles": [
-        "네트워크 전혀 없이 무선으로 주고받는 법 ㄷㄷ"
+        "미친듯이 기다린 스팀머신 한국 정발 안한다고? 빡쳐서 직접 만들어봤습니다 ㅋㅋ"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/XmmDstOhpYQ/hqdefault.jpg",
-      "representative_video_id": "XmmDstOhpYQ",
-      "representative_title": "네트워크 전혀 없이 무선으로 주고받는 법 ㄷㄷ"
+      "thumbnail_url": "https://i.ytimg.com/vi/kzcMPeIgMwM/hqdefault.jpg",
+      "representative_video_id": "kzcMPeIgMwM",
+      "representative_title": "미친듯이 기다린 스팀머신 한국 정발 안한다고? 빡쳐서 직접 만들어봤습니다 ㅋㅋ"
     },
     {
-      "label": "수백조",
+      "label": "진짜",
       "count": 1,
-      "avg_view_count": 18550,
-      "avg_engagement_rate": 0.033045822102425876,
-      "avg_like_count": 567,
-      "avg_comment_count": 46,
+      "avg_view_count": 36418,
+      "avg_engagement_rate": 0.013262672304904168,
+      "avg_like_count": 461,
+      "avg_comment_count": 22,
       "source_titles": [
-        "\"수백조 적자, AI 버블 붕괴?\" 빅테크 3대장이 숨기고 있는 역대급 인프라 독점 시나리오"
+        "진짜 내 컴퓨터에서 돌릴 수 있는 1위 모델의 등장 ㄷㄷ"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/kaSf9gSynRw/hqdefault.jpg",
-      "representative_video_id": "kaSf9gSynRw",
-      "representative_title": "\"수백조 적자, AI 버블 붕괴?\" 빅테크 3대장이 숨기고 있는 역대급 인프라 독점 시나리오"
+      "thumbnail_url": "https://i.ytimg.com/vi/sP-XQBJuX2Y/hqdefault.jpg",
+      "representative_video_id": "sP-XQBJuX2Y",
+      "representative_title": "진짜 내 컴퓨터에서 돌릴 수 있는 1위 모델의 등장 ㄷㄷ"
     },
     {
-      "label": "질문",
+      "label": "삼성하이닉스",
       "count": 1,
-      "avg_view_count": 16993,
-      "avg_engagement_rate": 0.04160536691578885,
-      "avg_like_count": 699,
-      "avg_comment_count": 8,
+      "avg_view_count": 25772,
+      "avg_engagement_rate": 0.030226602514356667,
+      "avg_like_count": 715,
+      "avg_comment_count": 64,
       "source_titles": [
-        "\"How do you feel about your net worth?"
+        "삼성·하이닉스 막 공개. HBM보다 10배 큰 메모리 | HBF·zNAND-O 전격 분석 | 서로 다른 NAND 전략"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/uib-G4XPCYU/hqdefault.jpg",
-      "representative_video_id": "uib-G4XPCYU",
-      "representative_title": "\"How do you feel about your net worth?"
+      "thumbnail_url": "https://i.ytimg.com/vi/oWfrzyv8H1Y/hqdefault.jpg",
+      "representative_video_id": "oWfrzyv8H1Y",
+      "representative_title": "삼성·하이닉스 막 공개. HBM보다 10배 큰 메모리 | HBF·zNAND-O 전격 분석 | 서로 다른 NAND 전략"
     },
     {
-      "label": "코딩",
+      "label": "구글을",
       "count": 1,
-      "avg_view_count": 15213,
-      "avg_engagement_rate": 0.036219023203838824,
-      "avg_like_count": 498,
-      "avg_comment_count": 53,
+      "avg_view_count": 11153,
+      "avg_engagement_rate": 0.01613915538420156,
+      "avg_like_count": 125,
+      "avg_comment_count": 55,
       "source_titles": [
-        "\"모두가 당했습니다\""
+        "구글을 뚜까패버린 초가성비 모델의 등장"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/h-WpAGTcPOM/hqdefault.jpg",
-      "representative_video_id": "h-WpAGTcPOM",
-      "representative_title": "\"모두가 당했습니다\""
+      "thumbnail_url": "https://i.ytimg.com/vi/4H8UECXsJCY/hqdefault.jpg",
+      "representative_video_id": "4H8UECXsJCY",
+      "representative_title": "구글을 뚜까패버린 초가성비 모델의 등장"
     },
     {
-      "label": "자동화",
+      "label": "Arc",
       "count": 1,
-      "avg_view_count": 4166,
-      "avg_engagement_rate": 0.02112337974075852,
-      "avg_like_count": 79,
-      "avg_comment_count": 9,
+      "avg_view_count": 783,
+      "avg_engagement_rate": 0.1673052362707535,
+      "avg_like_count": 108,
+      "avg_comment_count": 23,
       "source_titles": [
-        "AI 이미지, ‘생성’보다 중요한 건 따로 있습니다"
+        "Minimax H3 is a Local AI Video BEAST for Anyone & Everyone."
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/_xJYgbQqPqU/hqdefault.jpg",
-      "representative_video_id": "_xJYgbQqPqU",
-      "representative_title": "AI 이미지, ‘생성’보다 중요한 건 따로 있습니다"
+      "thumbnail_url": "https://i.ytimg.com/vi/pPWnWcWNPrA/hqdefault.jpg",
+      "representative_video_id": "pPWnWcWNPrA",
+      "representative_title": "Minimax H3 is a Local AI Video BEAST for Anyone & Everyone."
     }
   ],
   "video_highlights": [
     {
-      "video_id": "FI5f8Zc6lcg",
+      "video_id": "kzcMPeIgMwM",
+      "channel_name": "ITSub잇섭",
+      "title": "미친듯이 기다린 스팀머신 한국 정발 안한다고? 빡쳐서 직접 만들어봤습니다 ㅋㅋ",
+      "thumbnail_url": "https://i.ytimg.com/vi/kzcMPeIgMwM/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=kzcMPeIgMwM",
+      "published_at": "2026-08-06T11:30:28Z",
+      "view_count": 219869,
+      "like_count": 2749,
+      "comment_count": 369,
+      "engagement_rate": 0.014181171515766207,
+      "topic_cluster": "미친듯이",
+      "summary": "스팀 머신 미출시의 대안으로 스팀 OS를 활용한 자체 SFF PC 구축 과정을 다룬다. FSR 4 적용을 통해 기존 콘솔 대비 높은 그래픽 성능으로 AAA 게임을…",
+      "comment_signal": "인트로 몸무게 내려치기 하셨죠",
+      "hook_type": "실험"
+    },
+    {
+      "video_id": "xGzseSSStnw",
+      "channel_name": "AI Explained",
+      "title": "AI is getting a little out of control",
+      "thumbnail_url": "https://i.ytimg.com/vi/xGzseSSStnw/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=xGzseSSStnw",
+      "published_at": "2026-08-06T15:02:06Z",
+      "view_count": 38448,
+      "like_count": 2163,
+      "comment_count": 378,
+      "engagement_rate": 0.06608926342072409,
+      "topic_cluster": "ChatGPT",
+      "summary": "AI 에이전트들의 자율적인 과학적 발견과 보안 사고 사례를 통해 AI의 통제 불능 가능성과 위험성을 다룬다. 특히 에이전트 간의 예상치 못한 협업과 메시지 기록 방…",
+      "comment_signal": "Remember when ai was hitting a wall?",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "sP-XQBJuX2Y",
       "channel_name": "조코딩 JoCoding",
-      "title": "무서울정도로 구분 못할 AI 영상 등장",
-      "thumbnail_url": "https://i.ytimg.com/vi/FI5f8Zc6lcg/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=FI5f8Zc6lcg",
-      "published_at": "2026-08-05T09:00:11Z",
-      "view_count": 26375,
-      "like_count": 238,
-      "comment_count": 16,
-      "engagement_rate": 0.009630331753554502,
-      "topic_cluster": "무서울정도로",
-      "summary": "영상 생성 AI인 시댄스 2.5를 활용해 실제 광고 수준의 고퀄리티 키보드 광고 영상을 제작하는 과정을 보여줍니다.",
-      "comment_signal": "진짜 잘 먹고 사는 건 AI.부려먹는 능력자들이나 투자할 사람들이군.",
-      "hook_type": "문제 해결"
+      "title": "진짜 내 컴퓨터에서 돌릴 수 있는 1위 모델의 등장 ㄷㄷ",
+      "thumbnail_url": "https://i.ytimg.com/vi/sP-XQBJuX2Y/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=sP-XQBJuX2Y",
+      "published_at": "2026-08-06T09:00:02Z",
+      "view_count": 36418,
+      "like_count": 461,
+      "comment_count": 22,
+      "engagement_rate": 0.013262672304904168,
+      "topic_cluster": "진짜",
+      "summary": "개인 컴퓨터(GTX 3060 환경)에서 구동 가능한 MiniMax H3 모델을 소개하며, 아레나 기준 기존 모델을 뛰어넘는 고성능 비디오 생성 능력과 실제 활용 가…",
+      "comment_signal": "3060으로 만들수 있다고 했지. 시간이 얼마나 걸리는지는 얘기 안했다.",
+      "hook_type": "솔직 검증"
     },
     {
-      "video_id": "XmmDstOhpYQ",
+      "video_id": "oWfrzyv8H1Y",
+      "channel_name": "안될공학 - IT 테크 신기술",
+      "title": "삼성·하이닉스 막 공개. HBM보다 10배 큰 메모리 | HBF·zNAND-O 전격 분석 | 서로 다른 NAND 전략",
+      "thumbnail_url": "https://i.ytimg.com/vi/oWfrzyv8H1Y/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=oWfrzyv8H1Y",
+      "published_at": "2026-08-06T13:05:47Z",
+      "view_count": 25772,
+      "like_count": 715,
+      "comment_count": 64,
+      "engagement_rate": 0.030226602514356667,
+      "topic_cluster": "삼성하이닉스",
+      "summary": "SK하이닉스의 HBF와 삼성전자의 zNAND-O 등 HBM 이후를 겨냥한 차세대 AI 메모리 기술을 분석한다. 대용량 데이터를 효율적으로 처리하기 위한 두 기업의…",
+      "comment_signal": "간단하게 말하면 크고 고정된 ai 모델를 비교적 빠르게 사용하기 위해 gpu에 층으로 겹쳐진 nand/ssd 추가함. cpu와 pci 거치는 기존 ssd 보다 거쳐가는 좁…",
+      "hook_type": "긴급성"
+    },
+    {
+      "video_id": "4H8UECXsJCY",
       "channel_name": "조코딩 JoCoding",
-      "title": "네트워크 전혀 없이 무선으로 주고받는 법 ㄷㄷ",
-      "thumbnail_url": "https://i.ytimg.com/vi/XmmDstOhpYQ/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=XmmDstOhpYQ",
-      "published_at": "2026-08-05T06:44:16Z",
-      "view_count": 26160,
-      "like_count": 204,
-      "comment_count": 30,
-      "engagement_rate": 0.008944954128440367,
-      "topic_cluster": "네트워크",
-      "summary": "와이파이나 블루투스 같은 네트워크 연결 없이도 QR코드의 깜빡임만을 이용해 무선으로 데이터를 전송하는 기술적 가능성을 소개합니다.",
-      "comment_signal": "10년쯤 전에, 하드디스크 헤드를 의도적으로 이동시키고, 이 때 발생하는 소음으로 데이터를 전송하는 에어갭 기법도 있었음. 안알려지고 골때리는 해킹 기법들이 상당히 많음.…",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "6poBPhfB-WY",
-      "channel_name": "Dan Martell",
-      "title": "How To Become Dangerously Self-Educated (with AI)",
-      "thumbnail_url": "https://i.ytimg.com/vi/6poBPhfB-WY/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=6poBPhfB-WY",
-      "published_at": "2026-08-05T13:00:37Z",
-      "view_count": 25645,
-      "like_count": 2194,
-      "comment_count": 105,
-      "engagement_rate": 0.08964710469877168,
-      "topic_cluster": "Claude",
-      "summary": "수동적인 학습에서 벗어나 AI를 활용한 '적시 학습(Just-in-time learning)'을 통해 실질적인 문제 해결 역량을 키우는 자기계발 전략을 제안합니다.",
-      "comment_signal": "The biggest skill in 2026 isn't knowing everything, it's knowing what to ask AI",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "kaSf9gSynRw",
-      "channel_name": "월텍남 - 월스트리트 테크남",
-      "title": "\"수백조 적자, AI 버블 붕괴?\" 빅테크 3대장이 숨기고 있는 역대급 인프라 독점 시나리오",
-      "thumbnail_url": "https://i.ytimg.com/vi/kaSf9gSynRw/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=kaSf9gSynRw",
-      "published_at": "2026-08-05T10:42:23Z",
-      "view_count": 18550,
-      "like_count": 567,
-      "comment_count": 46,
-      "engagement_rate": 0.033045822102425876,
-      "topic_cluster": "수백조",
-      "summary": "빅테크 기업들이 AI 인프라 시장을 독점하는 상황에서 하드웨어 투자와 모델 개발의 수익성, 그리고 데이터센터 운영의 경제적 관점을 분석합니다.",
-      "comment_signal": "그래서 빅테크 롱 메모리 숏 이야?",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "uib-G4XPCYU",
-      "channel_name": "Dan Martell",
-      "title": "\"How do you feel about your net worth?",
-      "thumbnail_url": "https://i.ytimg.com/vi/uib-G4XPCYU/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=uib-G4XPCYU",
-      "published_at": "2026-08-05T01:00:54Z",
-      "view_count": 16993,
-      "like_count": 699,
-      "comment_count": 8,
-      "engagement_rate": 0.04160536691578885,
-      "topic_cluster": "질문",
-      "summary": "자산 규모에 대한 세간의 평가와 그에 따른 압박감, 그리고 단순히 부를 쫓는 것이 아닌 가치 지향적인 삶의 중요성에 대해 다룹니다.",
-      "comment_signal": "Impressive net worth.😊 What I like most is that it wasn't built on hit songs, blockbuster movie…",
+      "title": "구글을 뚜까패버린 초가성비 모델의 등장",
+      "thumbnail_url": "https://i.ytimg.com/vi/4H8UECXsJCY/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=4H8UECXsJCY",
+      "published_at": "2026-08-06T06:00:14Z",
+      "view_count": 11153,
+      "like_count": 125,
+      "comment_count": 55,
+      "engagement_rate": 0.01613915538420156,
+      "topic_cluster": "구글을",
+      "summary": "구글의 최신 모델과 대등한 성능을 보이면서도 압도적인 가성비를 자랑하는 새로운 AI 모델을 분석하며, 시장 내 경쟁력과 활용 가능성을 평가한다.",
+      "comment_signal": "성능도 뒤쳐진 주제에 클로드의 사용량 시스템 도입 부터 하더니 바로 오픈 모델에 발리고 있네",
       "hook_type": "문제 해결"
     }
   ]
