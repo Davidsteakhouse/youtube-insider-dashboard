@@ -1,263 +1,108 @@
 {
-  "digest_date": "2026-08-08",
-  "generated_at": "2026-08-07T23:43:37+00:00",
-  "summary": "최근 24시간 영상 15개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'ChatGPT'입니다. 특히 '머스크 \"메모리가 가장 병목이다\"..내가 직접 테라팹에서 만들겠다'는 조회수 33.3K, 참여율 2.8%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "'ChatGPT' 주제가 5개 영상으로 가장 많이 다뤄졌습니다. ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.\n[내 채널] 7일 평균 6.3K회 · 지속률 29.1% / 경쟁사 평균 10.9K회 (격차 -42%)",
-  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 08/08\n\n📊 총 10개 | AI 핵심 10 · 인접 AI 0 · 일반 테크 보충 0\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 10 · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [조코딩 JoCoding] 23.7K뷰 · 참여율 1.0%\n   클로드 코드 제작자가 쓰는 AI 성능 올리는 비법\n   ↳ 최신 AI 모델의 성능을 극대화하려면 기존에 사용하던 복잡한 하네스나 스킬 시스템을 제거하는 것이 오히려 효과적이라는 최신 분석 결과를 다룹니다.\n   https://youtu.be/2cDAVdrzGGA\n\n2. AI 핵심 · [조코딩 JoCoding] 23.6K뷰 · 참여율 1.6%\n   1위를 탈환한 오픈소스 STT 모델 ㄷㄷㄷ\n   ↳ 기존 모델보다 뛰어난 인식 성능과 감정 표현력을 갖춘 새로운 오픈소스 STT 모델 '크리스퍼 위스터 2.0'을 소개합니다.\n   https://youtu.be/UjDOksH5cFY\n\n3. AI 핵심 · [Matt Wolfe] 20.5K뷰 · 참여율 6.6%\n   AI News: The AI Stories Everyone's Freaking Out About\n   ↳ Seedance 2.5, FLUX 3 Video, Qwen3.8-Max 등 최신 AI 기술 발표와 보안 이슈를 포함한 한 주간의 핵심 AI 뉴스들을 요약 정리합니다.\n   https://youtu.be/ACYAYsVMmT8\n\n4. AI 핵심 · [조코딩 JoCoding] 14.7K뷰 · 참여율 1.1%\n   AI 돌리는 데이터센터, 직접 만들어봤습니다\n   ↳ AI 모델 구동의 핵심 기반인 데이터센터의 구조를 이해하고 학습하기 위해 시뮬레이션 게임을 통해 직접 데이터센터를 구축해보는 과정을 담았습니다.\n   https://youtu.be/V5JJFNL2kSI\n\n5. AI 핵심 · [AI Samson] 13.0K뷰 · 참여율 6.5%\n   Forget Seedance 2.5? This Is Cheaper and Less Restricted\n   ↳ Seedance 2.5의 대안으로 떠오른, 더 경제적이고 자유도가 높은 오픈소스 영상 생성 모델인 Higgsfield의 특징과 활용 방향을 다룹니다.\n   https://youtu.be/AahSeCn7lOU\n\n6. AI 핵심 · [MattVidPro] 9.3K뷰 · 참여율 7.6%\n   Minimax H3 is a Local AI Video BEAST for Anyone & Everyone.\n   ↳ 오픈 가중치 기반의 AI 영상 모델 'Minimax H3'를 로컬 GPU 환경에서 실행하는 방법과 구성 요소, 성능 및 기술적 제약 사항을 검증합니다.\n   https://youtu.be/pPWnWcWNPrA\n\n7. AI 핵심 · [Fantasoner(판타소너)] 7.2K뷰 · 참여율 6.7%\n   귀멸의 칼날: 아카자 과거편 삽입곡(이름 없는 눈)\n   ↳ Kling, Suno 등 다양한 AI 도구를 활용하여 애니메이션 '귀멸의 칼날' 캐릭터의 과거편을 재해석한 팬메이드 영상입니다.\n   https://youtu.be/pLuiPAIoJPo\n\n8. AI 핵심 · [The AI Advantage] 2.1K뷰 · 참여율 8.3%\n   I'm Obsessed With New ChatGPT Voice\n   ↳ 데스크톱 버전 챗GPT의 음성 대화 기능을 활용해 웹사이트 제작 등 복잡한 업무를 대화형 에이전트와 함께 효율적으로 처리하는 방법을 보여줍니다.\n   https://youtu.be/_HzdjYg0vXs\n\n9. AI 핵심 · [알린 ALINN] 1.7K뷰 · 참여율 4.8%\n   방금 파워포인트 삭제했습니다. 발표 준비 5분컷, 고퀄리티 PPT \"무한 생성\" 가능한 디자인 끝판왕 AI\n   ↳ 클로드 디자인(Claude Design)을 활용해 디자인 시스템과 템플릿을 미리 구축함으로써, 발표 자료(PPT)를 자동화하고 빠르게 제작하는 프로세스를 소개합니다.\n   https://youtu.be/1VBoV7O4GVg\n\n10. AI 핵심 · [AI 머니] 1.2K뷰 · 참여율 3.5%\n   (국내 최초 공개) 현시점 최강 AI 영상 툴인 Seedance 2.5를 지금 바로 무제한 사용하세요!\n   ↳ 영화 수준의 고품질 영상을 생성할 수 있는 AI 도구 'Seedance 2.5'의 특징을 설명하고, 현재 제공되는 무제한 사용 프로모션 기회를 공유합니다.\n   https://youtu.be/W11UOTNZlH8\n\n📈 스마트대디 어제 실적\n조회수 6.6K (↑4% vs 7일 평균) | 구독 +44\n시청 지속률 29.1% | 평균 시청 2분 20초\n경쟁사 평균 10.9K회 대비 내 7일 평균 -42%\n\n💡 VS 각도: ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
-  "video_count": 15,
-  "total_recent_video_count": 18,
+  "digest_date": "2026-08-09",
+  "generated_at": "2026-08-08T23:39:47+00:00",
+  "summary": "최근 24시간 영상 2개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'Gemini'입니다. 특히 'Master the NEW Gemini Notebook'는 조회수 2.5K, 참여율 7.4%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "'Gemini' 주제가 1개 영상으로 가장 많이 다뤄졌습니다. 오늘 수집 영상 2개는 주로 '워크플로우 튜토리얼' 포맷이라, VS 비교·직접 실험 각도는 아직 비어 있습니다. Gemini vs ChatGPT 일반인 기준 직접 실험 영상이 비어 있습니다. 구글 생태계 쓰는 사람이 체감하는 차이 검증.\n[내 채널] 7일 평균 5.8K회 · 지속률 28.9% / 경쟁사 평균 2.3K회 (격차 +152%)",
+  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 08/09\n\n📊 총 4개 | AI 핵심 2 · 인접 AI 0 · 일반 테크 보충 2\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 4 (최대 10) · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [Futurepedia] 2.5K뷰 · 참여율 7.4%\n   Master the NEW Gemini Notebook\n   ↳ Gemini Notebook은 기존 노트북의 리서치 및 학습 기능에 Gemini의 창의적 대화 기능을 결합하여 효율성을 높였으며, 스튜디오 패널과 연동을 통해 자료 관리와 인사이트 도출을 원활하게 지원한다.\n   https://youtu.be/TGlPNGaHo6I\n\n2. AI 핵심 · [성공지식백과] 2.1K뷰 · 참여율 2.7%\n   역대급 영상모델 시댄스 2.5 정식출시! 무료로 최신모델 쓰는 방법까지..ㄷㄷ\n   ↳ AI 영상 모델인 '시댄스 2.5'는 최대 50개의 레퍼런스를 활용해 30초 분량의 일관성 있는 영상을 생성하며, 목표 설정과 클립 단위의 프롬프트 구성 등 5가지 핵심 기법을 통해 고품질의 결과물을 무료로 제작할…\n   https://youtu.be/om7QnmFM9OI\n\n3. 테크 보충 · [주연 ZUYONI] 143.5K뷰 · 참여율 2.2%\n   300만원 주고 중국 폴드 사봤습니다… 폴드8보다 좋은 점은!?\n   ↳ 화웨이 폴더블폰을 직접 구매해 삼성 갤럭시 Z 폴드 8과 비교 분석한 결과, 펀치홀 위치와 화면 반사 방지 등 하드웨어 디자인에서 독특한 차별점을 발견했다.\n   https://youtu.be/FIwU1ISO36k\n\n4. 테크 보충 · [ITSub잇섭] 116.5K뷰 · 참여율 1.6%\n   무선충전기 살 때 '이거' 꼭 확인하세요! 25W 차량용 충전기 비교!\n   ↳ 최신 Qi2.2 규격을 적용한 25W 차량용 무선 충전기 5종을 테스트한 결과, 기존 15W 대비 향상된 충전 속도와 효율을 보여주었으며 사용 환경에 따른 충전 성능 차이를 확인했다.\n   https://youtu.be/F2Gtzf_zmEc\n\n📈 스마트대디 어제 실적\n조회수 5.4K (↓8% vs 7일 평균) | 구독 +20\n시청 지속률 27.4% | 평균 시청 2분 19초\n경쟁사 평균 2.3K회 대비 내 7일 평균 +152%\n\n💡 VS 각도: Gemini vs ChatGPT 일반인 기준 직접 실험 영상이 비어 있습니다. 구글 생태계 쓰는 사람이 체감하는 차이 검증.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+  "video_count": 2,
+  "total_recent_video_count": 7,
   "focus_scope": "ai_priority_then_tech_fill",
-  "average_view_count": 10883.0,
-  "average_engagement_rate": 0.047363979337523864,
-  "average_like_count": 356.0,
-  "average_comment_count": 54.0,
-  "best_video_id": "wwEb_yofOcw",
-  "best_topic": "ChatGPT",
+  "average_view_count": 2318.0,
+  "average_engagement_rate": 0.05061804260225029,
+  "average_like_count": 116.0,
+  "average_comment_count": 6.0,
+  "best_video_id": "TGlPNGaHo6I",
+  "best_topic": "Gemini",
   "summary_points": [
-    "가장 겹친 주제는 'ChatGPT'이며 5개 영상, 평균 조회수 3.0K, 평균 참여율 5.8%입니다.",
-    "최고 실적 영상은 '머스크 \"메모리가 가장 병목이다\"..내가 직접 테라팹에서 만들겠다'이며 실험 훅과 뉴스 분석 포맷 조합이 강했습니다.",
-    "반복 노출된 툴은 ChatGPT 6회, Claude 4회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
+    "가장 겹친 주제는 'Gemini'이며 1개 영상, 평균 조회수 2.5K, 평균 참여율 7.4%입니다.",
+    "최고 실적 영상은 'Master the NEW Gemini Notebook'이며 문제 해결 훅과 워크플로우 튜토리얼 포맷 조합이 강했습니다.",
+    "반복 노출된 툴은 Gemini 1회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
   ],
   "action_chips": [
-    "주제: ChatGPT",
-    "훅: 실험",
-    "포맷: 뉴스 분석",
-    "기준 채널: 월텍남 - 월스트리트 테크남"
+    "주제: Gemini",
+    "훅: 문제 해결",
+    "포맷: 워크플로우 튜토리얼",
+    "기준 채널: Futurepedia"
   ],
   "title_suggestions": [
-    "ChatGPT vs Claude vs Gemini, 일반인 업무 실전 대결 결과",
-    "GPT 최신 버전 직접 실험 — 이전이랑 진짜 달라?",
-    "GPT 써봤더니... 기대랑 다른 점 솔직하게 다 말해봄"
+    "Gemini vs ChatGPT, 직장인이 1주일 써보니 이렇게 달랐다",
+    "구글 AI 직접 실험 결과 — 이게 진짜 되네? 안되네?",
+    "Gemini 써봤더니... 광고 말고 진짜 솔직 비교"
   ],
   "recommendations": [
     {
-      "title": "ChatGPT vs Claude vs Gemini, 일반인 업무 실전 대결 결과",
+      "title": "Gemini vs ChatGPT, 직장인이 1주일 써보니 이렇게 달랐다",
       "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'ChatGPT'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "ChatGPT 바로 해결",
-      "reason": "ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.",
-      "source_video_id": "xN_2lOQ5eaw",
-      "source": "I don't tolerate disrespect on my team",
-      "my_channel_context": "내 7일 평균 6.3K회 · 지속률 29.1% / 경쟁사 대비 -42%"
-    },
-    {
-      "title": "GPT 최신 버전 직접 실험 — 이전이랑 진짜 달라?",
-      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'ChatGPT'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "ChatGPT 지금 봐야 함",
-      "reason": "ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.",
-      "source_video_id": "pp-l82wnzG8",
-      "source": "I think schools are irresponsible with AI",
-      "my_channel_context": "내 7일 평균 6.3K회 · 지속률 29.1% / 경쟁사 대비 -42%"
-    },
-    {
-      "title": "GPT 써봤더니... 기대랑 다른 점 솔직하게 다 말해봄",
-      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'ChatGPT'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "ChatGPT 바로 해결",
-      "reason": "ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.",
-      "source_video_id": "_HzdjYg0vXs",
-      "source": "I'm Obsessed With New ChatGPT Voice",
-      "my_channel_context": "내 7일 평균 6.3K회 · 지속률 29.1% / 경쟁사 대비 -42%"
+      "angle": "'Gemini'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
+      "thumbnail_copy": "Gemini 바로 해결",
+      "reason": "Gemini vs ChatGPT 일반인 기준 직접 실험 영상이 비어 있습니다. 구글 생태계 쓰는 사람이 체감하는 차이 검증.",
+      "source_video_id": "TGlPNGaHo6I",
+      "source": "Master the NEW Gemini Notebook",
+      "my_channel_context": "내 7일 평균 5.8K회 · 지속률 28.9% / 경쟁사 대비 +152%"
     }
   ],
   "topic_clusters": [
     {
-      "label": "ChatGPT",
-      "count": 5,
-      "avg_view_count": 2992,
-      "avg_engagement_rate": 0.057580676740443426,
+      "label": "Gemini",
+      "count": 1,
+      "avg_view_count": 2519,
+      "avg_engagement_rate": 0.07383882493052799,
       "avg_like_count": 178,
-      "avg_comment_count": 9,
-      "source_titles": [
-        "I don't tolerate disrespect on my team",
-        "I think schools are irresponsible with AI",
-        "I'm Obsessed With New ChatGPT Voice"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/xN_2lOQ5eaw/hqdefault.jpg",
-      "representative_video_id": "xN_2lOQ5eaw",
-      "representative_title": "I don't tolerate disrespect on my team"
-    },
-    {
-      "label": "Claude",
-      "count": 2,
-      "avg_view_count": 7391,
-      "avg_engagement_rate": 0.056946775175609254,
-      "avg_like_count": 406,
-      "avg_comment_count": 62,
-      "source_titles": [
-        "Forget Seedance 2.5? This Is Cheaper and Less Restricted",
-        "방금 파워포인트 삭제했습니다. 발표 준비 5분컷, 고퀄리티 PPT \"무한 생성\" 가능한 디자인 끝판왕 AI"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/AahSeCn7lOU/hqdefault.jpg",
-      "representative_video_id": "AahSeCn7lOU",
-      "representative_title": "Forget Seedance 2.5? This Is Cheaper and Less Restricted"
-    },
-    {
-      "label": "머스크",
-      "count": 1,
-      "avg_view_count": 33347,
-      "avg_engagement_rate": 0.027858577983026957,
-      "avg_like_count": 630,
-      "avg_comment_count": 299,
-      "source_titles": [
-        "머스크 \"메모리가 가장 병목이다\"..내가 직접 테라팹에서 만들겠다"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/wwEb_yofOcw/hqdefault.jpg",
-      "representative_video_id": "wwEb_yofOcw",
-      "representative_title": "머스크 \"메모리가 가장 병목이다\"..내가 직접 테라팹에서 만들겠다"
-    },
-    {
-      "label": "클로드",
-      "count": 1,
-      "avg_view_count": 23699,
-      "avg_engagement_rate": 0.009578463226296468,
-      "avg_like_count": 219,
       "avg_comment_count": 8,
       "source_titles": [
-        "클로드 코드 제작자가 쓰는 AI 성능 올리는 비법"
+        "Master the NEW Gemini Notebook"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/2cDAVdrzGGA/hqdefault.jpg",
-      "representative_video_id": "2cDAVdrzGGA",
-      "representative_title": "클로드 코드 제작자가 쓰는 AI 성능 올리는 비법"
+      "thumbnail_url": "https://i.ytimg.com/vi/TGlPNGaHo6I/hqdefault.jpg",
+      "representative_video_id": "TGlPNGaHo6I",
+      "representative_title": "Master the NEW Gemini Notebook"
     },
     {
-      "label": "1위를",
+      "label": "역대급",
       "count": 1,
-      "avg_view_count": 23630,
-      "avg_engagement_rate": 0.015869657215404148,
-      "avg_like_count": 363,
-      "avg_comment_count": 12,
+      "avg_view_count": 2117,
+      "avg_engagement_rate": 0.0273972602739726,
+      "avg_like_count": 55,
+      "avg_comment_count": 3,
       "source_titles": [
-        "1위를 탈환한 오픈소스 STT 모델 ㄷㄷㄷ"
+        "역대급 영상모델 시댄스 2.5 정식출시! 무료로 최신모델 쓰는 방법까지..ㄷㄷ"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/UjDOksH5cFY/hqdefault.jpg",
-      "representative_video_id": "UjDOksH5cFY",
-      "representative_title": "1위를 탈환한 오픈소스 STT 모델 ㄷㄷㄷ"
-    },
-    {
-      "label": "OpenAI",
-      "count": 1,
-      "avg_view_count": 20462,
-      "avg_engagement_rate": 0.06578047111719285,
-      "avg_like_count": 1190,
-      "avg_comment_count": 156,
-      "source_titles": [
-        "AI News: The AI Stories Everyone's Freaking Out About"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/ACYAYsVMmT8/hqdefault.jpg",
-      "representative_video_id": "ACYAYsVMmT8",
-      "representative_title": "AI News: The AI Stories Everyone's Freaking Out About"
-    },
-    {
-      "label": "돌리는",
-      "count": 1,
-      "avg_view_count": 14687,
-      "avg_engagement_rate": 0.011030162728943964,
-      "avg_like_count": 158,
-      "avg_comment_count": 4,
-      "source_titles": [
-        "AI 돌리는 데이터센터, 직접 만들어봤습니다"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/V5JJFNL2kSI/hqdefault.jpg",
-      "representative_video_id": "V5JJFNL2kSI",
-      "representative_title": "AI 돌리는 데이터센터, 직접 만들어봤습니다"
-    },
-    {
-      "label": "Arc",
-      "count": 1,
-      "avg_view_count": 9265,
-      "avg_engagement_rate": 0.07630868861305991,
-      "avg_like_count": 606,
-      "avg_comment_count": 101,
-      "source_titles": [
-        "Minimax H3 is a Local AI Video BEAST for Anyone & Everyone."
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/pPWnWcWNPrA/hqdefault.jpg",
-      "representative_video_id": "pPWnWcWNPrA",
-      "representative_title": "Minimax H3 is a Local AI Video BEAST for Anyone & Everyone."
+      "thumbnail_url": "https://i.ytimg.com/vi/om7QnmFM9OI/hqdefault.jpg",
+      "representative_video_id": "om7QnmFM9OI",
+      "representative_title": "역대급 영상모델 시댄스 2.5 정식출시! 무료로 최신모델 쓰는 방법까지..ㄷㄷ"
     }
   ],
   "video_highlights": [
     {
-      "video_id": "wwEb_yofOcw",
-      "channel_name": "월텍남 - 월스트리트 테크남",
-      "title": "머스크 \"메모리가 가장 병목이다\"..내가 직접 테라팹에서 만들겠다",
-      "thumbnail_url": "https://i.ytimg.com/vi/wwEb_yofOcw/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=wwEb_yofOcw",
-      "published_at": "2026-08-07T11:38:05Z",
-      "view_count": 33347,
-      "like_count": 630,
-      "comment_count": 299,
-      "engagement_rate": 0.027858577983026957,
-      "topic_cluster": "머스크",
-      "summary": "일론 머스크가 AI 데이터센터의 핵심 병목 현상인 메모리 문제를 해결하기 위해 직접 반도체 생산에 뛰어든 배경과 전략적 의도를 분석합니다.",
-      "comment_signal": "머스크는 개인주주들에게 끝없는 인내심과 충성심을 요구한다!!!! (테슬라 6년 장기투자자)",
-      "hook_type": "실험"
-    },
-    {
-      "video_id": "2cDAVdrzGGA",
-      "channel_name": "조코딩 JoCoding",
-      "title": "클로드 코드 제작자가 쓰는 AI 성능 올리는 비법",
-      "thumbnail_url": "https://i.ytimg.com/vi/2cDAVdrzGGA/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=2cDAVdrzGGA",
-      "published_at": "2026-08-07T06:00:01Z",
-      "view_count": 23699,
-      "like_count": 219,
+      "video_id": "TGlPNGaHo6I",
+      "channel_name": "Futurepedia",
+      "title": "Master the NEW Gemini Notebook",
+      "thumbnail_url": "https://i.ytimg.com/vi/TGlPNGaHo6I/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=TGlPNGaHo6I",
+      "published_at": "2026-08-08T20:38:07Z",
+      "view_count": 2519,
+      "like_count": 178,
       "comment_count": 8,
-      "engagement_rate": 0.009578463226296468,
-      "topic_cluster": "클로드",
-      "summary": "최신 AI 모델의 성능을 극대화하려면 기존에 사용하던 복잡한 하네스나 스킬 시스템을 제거하는 것이 오히려 효과적이라는 최신 분석 결과를 다룹니다.",
-      "comment_signal": "예전엔 거의 코드짜듯이 스킬 빡빡하게 작성했었는데 진짜 이젠 가이드만 해줘도 잘하더라구요",
+      "engagement_rate": 0.07383882493052799,
+      "topic_cluster": "Gemini",
+      "summary": "Gemini Notebook은 기존 노트북의 리서치 및 학습 기능에 Gemini의 창의적 대화 기능을 결합하여 효율성을 높였으며, 스튜디오 패널과 연동을 통해 자료…",
+      "comment_signal": "*Free Guide to Gemini Notebook:* https://clickhubspot.com/8v0q",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "UjDOksH5cFY",
-      "channel_name": "조코딩 JoCoding",
-      "title": "1위를 탈환한 오픈소스 STT 모델 ㄷㄷㄷ",
-      "thumbnail_url": "https://i.ytimg.com/vi/UjDOksH5cFY/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=UjDOksH5cFY",
-      "published_at": "2026-08-07T09:00:05Z",
-      "view_count": 23630,
-      "like_count": 363,
-      "comment_count": 12,
-      "engagement_rate": 0.015869657215404148,
-      "topic_cluster": "1위를",
-      "summary": "기존 모델보다 뛰어난 인식 성능과 감정 표현력을 갖춘 새로운 오픈소스 STT 모델 '크리스퍼 위스터 2.0'을 소개합니다.",
-      "comment_signal": "오~ 로컬에서 돌릴 수 있는지 찾아봐야겠다!! 최근에 번역 프로그램 만들었는데 ㅋㅋ",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "ACYAYsVMmT8",
-      "channel_name": "Matt Wolfe",
-      "title": "AI News: The AI Stories Everyone's Freaking Out About",
-      "thumbnail_url": "https://i.ytimg.com/vi/ACYAYsVMmT8/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=ACYAYsVMmT8",
-      "published_at": "2026-08-07T14:30:29Z",
-      "view_count": 20462,
-      "like_count": 1190,
-      "comment_count": 156,
-      "engagement_rate": 0.06578047111719285,
-      "topic_cluster": "OpenAI",
-      "summary": "Seedance 2.5, FLUX 3 Video, Qwen3.8-Max 등 최신 AI 기술 발표와 보안 이슈를 포함한 한 주간의 핵심 AI 뉴스들을 요약 정리합니다.",
-      "comment_signal": "No intro 😢😢",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "V5JJFNL2kSI",
-      "channel_name": "조코딩 JoCoding",
-      "title": "AI 돌리는 데이터센터, 직접 만들어봤습니다",
-      "thumbnail_url": "https://i.ytimg.com/vi/V5JJFNL2kSI/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=V5JJFNL2kSI",
-      "published_at": "2026-08-07T05:00:38Z",
-      "view_count": 14687,
-      "like_count": 158,
-      "comment_count": 4,
-      "engagement_rate": 0.011030162728943964,
-      "topic_cluster": "돌리는",
-      "summary": "AI 모델 구동의 핵심 기반인 데이터센터의 구조를 이해하고 학습하기 위해 시뮬레이션 게임을 통해 직접 데이터센터를 구축해보는 과정을 담았습니다.",
-      "comment_signal": "뭐야.....건축부터 하는게 아니에요? Fwu...ups..ahu..출입통제..did..냉각탑..냉동기....",
-      "hook_type": "실험"
+      "video_id": "om7QnmFM9OI",
+      "channel_name": "성공지식백과",
+      "title": "역대급 영상모델 시댄스 2.5 정식출시! 무료로 최신모델 쓰는 방법까지..ㄷㄷ",
+      "thumbnail_url": "https://i.ytimg.com/vi/om7QnmFM9OI/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=om7QnmFM9OI",
+      "published_at": "2026-08-08T08:13:42Z",
+      "view_count": 2117,
+      "like_count": 55,
+      "comment_count": 3,
+      "engagement_rate": 0.0273972602739726,
+      "topic_cluster": "역대급",
+      "summary": "AI 영상 모델인 '시댄스 2.5'는 최대 50개의 레퍼런스를 활용해 30초 분량의 일관성 있는 영상을 생성하며, 목표 설정과 클립 단위의 프롬프트 구성 등 5가지…",
+      "comment_signal": "저도 2.5로 만들어서 올려놨는데 스케일 크게해도 안깨지네요",
+      "hook_type": "긴급성"
     }
   ]
 }
