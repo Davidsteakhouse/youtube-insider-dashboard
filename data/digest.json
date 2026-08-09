@@ -1,108 +1,212 @@
 {
-  "digest_date": "2026-08-09",
-  "generated_at": "2026-08-08T23:39:47+00:00",
-  "summary": "최근 24시간 영상 2개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'Gemini'입니다. 특히 'Master the NEW Gemini Notebook'는 조회수 2.5K, 참여율 7.4%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "'Gemini' 주제가 1개 영상으로 가장 많이 다뤄졌습니다. 오늘 수집 영상 2개는 주로 '워크플로우 튜토리얼' 포맷이라, VS 비교·직접 실험 각도는 아직 비어 있습니다. Gemini vs ChatGPT 일반인 기준 직접 실험 영상이 비어 있습니다. 구글 생태계 쓰는 사람이 체감하는 차이 검증.\n[내 채널] 7일 평균 5.8K회 · 지속률 28.9% / 경쟁사 평균 2.3K회 (격차 +152%)",
-  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 08/09\n\n📊 총 4개 | AI 핵심 2 · 인접 AI 0 · 일반 테크 보충 2\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 4 (최대 10) · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [Futurepedia] 2.5K뷰 · 참여율 7.4%\n   Master the NEW Gemini Notebook\n   ↳ Gemini Notebook은 기존 노트북의 리서치 및 학습 기능에 Gemini의 창의적 대화 기능을 결합하여 효율성을 높였으며, 스튜디오 패널과 연동을 통해 자료 관리와 인사이트 도출을 원활하게 지원한다.\n   https://youtu.be/TGlPNGaHo6I\n\n2. AI 핵심 · [성공지식백과] 2.1K뷰 · 참여율 2.7%\n   역대급 영상모델 시댄스 2.5 정식출시! 무료로 최신모델 쓰는 방법까지..ㄷㄷ\n   ↳ AI 영상 모델인 '시댄스 2.5'는 최대 50개의 레퍼런스를 활용해 30초 분량의 일관성 있는 영상을 생성하며, 목표 설정과 클립 단위의 프롬프트 구성 등 5가지 핵심 기법을 통해 고품질의 결과물을 무료로 제작할…\n   https://youtu.be/om7QnmFM9OI\n\n3. 테크 보충 · [주연 ZUYONI] 143.5K뷰 · 참여율 2.2%\n   300만원 주고 중국 폴드 사봤습니다… 폴드8보다 좋은 점은!?\n   ↳ 화웨이 폴더블폰을 직접 구매해 삼성 갤럭시 Z 폴드 8과 비교 분석한 결과, 펀치홀 위치와 화면 반사 방지 등 하드웨어 디자인에서 독특한 차별점을 발견했다.\n   https://youtu.be/FIwU1ISO36k\n\n4. 테크 보충 · [ITSub잇섭] 116.5K뷰 · 참여율 1.6%\n   무선충전기 살 때 '이거' 꼭 확인하세요! 25W 차량용 충전기 비교!\n   ↳ 최신 Qi2.2 규격을 적용한 25W 차량용 무선 충전기 5종을 테스트한 결과, 기존 15W 대비 향상된 충전 속도와 효율을 보여주었으며 사용 환경에 따른 충전 성능 차이를 확인했다.\n   https://youtu.be/F2Gtzf_zmEc\n\n📈 스마트대디 어제 실적\n조회수 5.4K (↓8% vs 7일 평균) | 구독 +20\n시청 지속률 27.4% | 평균 시청 2분 19초\n경쟁사 평균 2.3K회 대비 내 7일 평균 +152%\n\n💡 VS 각도: Gemini vs ChatGPT 일반인 기준 직접 실험 영상이 비어 있습니다. 구글 생태계 쓰는 사람이 체감하는 차이 검증.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
-  "video_count": 2,
-  "total_recent_video_count": 7,
+  "digest_date": "2026-08-10",
+  "generated_at": "2026-08-09T23:41:51+00:00",
+  "summary": "최근 24시간 영상 6개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'agents'입니다. 특히 'AI 데이터센터, 짓는대로 돈 된다… SpaceX가 서둘러 10GW 데이터센터 건설 하는 이유! Microsoft가 고객? SemiAnalysis 전력 당 매출 분석'는 조회수 21.7K, 참여율 3.2%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "'agents' 주제가 1개 영상으로 가장 많이 다뤄졌습니다. 일반인 관점 직접 실험 or VS 비교 각도로 차별화할 영역이 있습니다.\n[내 채널] 7일 평균 5.9K회 · 지속률 28.9% / 경쟁사 평균 9.2K회 (격차 -36%)",
+  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 08/10\n\n📊 총 8개 | AI 핵심 4 · 인접 AI 2 · 일반 테크 보충 2\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 8 (최대 10) · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [tef] 10.7K뷰 · 참여율 6.6%\n   ChatGPT 5.6 vs Claude Fable 5 vs Kimi K3 Make Palworld From Scratch\n   ↳ ChatGPT 5.6, Claude Fable 5, Kimi K3를 사용하여 게임 '팰월드'를 처음부터 개발하는 대결을 진행했으며, 각 AI의 코딩 결과물과 성능을 비교한 결과 ChatGPT가 우위를 점했다.\n   https://youtu.be/cIT0-nPw1CQ\n\n2. AI 핵심 · [조코딩 JoCoding] 9.4K뷰 · 참여율 2.3%\n   IT뉴스 - Google 리더십 개편, GPT-6 Astra 소식, Luna 무제한, 콜드카드 하드월렛 해킹, Muse Spark 1.2,…\n   ↳ 구글 리더십 개편과 GPT-6 Astra 소식 등 최신 IT 이슈를 다루며, 450ms 이하의 빠른 응답 속도를 가진 허깅페이스 보이스 챗과 같은 새로운 기술 도구들의 활용법을 소개했다.\n   https://youtu.be/Kve2d_PpIHQ\n\n3. AI 핵심 · [AI Samson] 8.0K뷰 · 참여율 4.6%\n   Seedance 2.5 Is a FREAK (50+ Surprising Examples)\n   ↳ AI 영상 제작 도구인 Seedance 2.5를 소개하며, 실제 영상을 활용한 다양한 생성 사례를 통해 이 도구의 효율적인 사용법과 활용 가능성을 설명했다.\n   https://youtu.be/_tyfMINqtDY\n\n4. AI 핵심 · [All About AI] 1.2K뷰 · 참여율 4.8%\n   My Quant AI Execution Alpha Setup Is CRUSHING Polymarket\n   ↳ 암호화폐 예측 시장인 폴리마켓에서 수익을 극대화하기 위해 AI 코딩을 활용한 실행 전략과 테스트 최적화 프로세스를 소개했다.\n   https://youtu.be/CAJDhsf8qhQ\n\n5. AI 인접 · [안될공학 - IT 테크 신기술] 21.7K뷰 · 참여율 3.2%\n   AI 데이터센터, 짓는대로 돈 된다… SpaceX가 서둘러 10GW 데이터센터 건설 하는 이유! Microsoft가 고객? SemiAnal…\n   ↳ 스페이스X의 10GW 데이터센터 구축 계획을 통해 AI 컴퓨팅 인프라의 전력 효율과 매출 잠재력을 분석하고, 대규모 AI 서비스 운영을 위한 하드웨어 성능과 전력 확보의 중요성을 설명했다.\n   https://youtu.be/wGxYJRtncEk\n\n6. AI 인접 · [Dan Martell] 3.8K뷰 · 참여율 5.9%\n   Teaching a 10 year old how to start an AI automation business\n   ↳ 10세 아동에게 AI 자동화 비즈니스의 개념을 소개하고, 적은 자본으로 시작할 수 있는 사업 모델에 대해 교육하는 과정을 다루었다.\n   https://youtu.be/WWipe1-TyXU\n\n7. 테크 보충 · [테크몽 Techmong] 86.7K뷰 · 참여율 2.1%\n   아니 대체 이게 왜 만원인데? ㅋㅋ 직접 써보고 고른 알리템 BEST12\n   ↳ 알리익스프레스에서 판매 중인 1만 원대 가성비 제품들을 직접 사용해 보고 센서등, 마우스, 자동차 관리 용품 등 실생활에서 유용한 베스트 12 아이템을 추천했다.\n   https://youtu.be/YFKhJUXQxDI\n\n8. 테크 보충 · [주연 ZUYONI] 31.3K뷰 · 참여율 1.5%\n   IT유튜버 출장 현실ㅋㅋㅜㅜ 충전지옥🥲🔥\n   ↳ IT 기기를 많이 사용하는 환경에서 충전 효율을 높이기 위해 패스스루 기능을 지원하는 보조배터리와 120W 초고속 충전기 등 출장에 적합한 충전 솔루션을 소개했다.\n   https://youtu.be/AWDb_A7ufSY\n\n📈 스마트대디 어제 실적\n조회수 5.8K (↓1% vs 7일 평균) | 구독 +28\n시청 지속률 29.0% | 평균 시청 2분 27초\n경쟁사 평균 9.2K회 대비 내 7일 평균 -36%\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+  "video_count": 6,
+  "total_recent_video_count": 10,
   "focus_scope": "ai_priority_then_tech_fill",
-  "average_view_count": 2318.0,
-  "average_engagement_rate": 0.05061804260225029,
-  "average_like_count": 116.0,
-  "average_comment_count": 6.0,
-  "best_video_id": "TGlPNGaHo6I",
-  "best_topic": "Gemini",
+  "average_view_count": 9158.0,
+  "average_engagement_rate": 0.04567701599277538,
+  "average_like_count": 338.0,
+  "average_comment_count": 42.0,
+  "best_video_id": "wGxYJRtncEk",
+  "best_topic": "agents",
   "summary_points": [
-    "가장 겹친 주제는 'Gemini'이며 1개 영상, 평균 조회수 2.5K, 평균 참여율 7.4%입니다.",
-    "최고 실적 영상은 'Master the NEW Gemini Notebook'이며 문제 해결 훅과 워크플로우 튜토리얼 포맷 조합이 강했습니다.",
-    "반복 노출된 툴은 Gemini 1회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
+    "가장 겹친 주제는 'agents'이며 1개 영상, 평균 조회수 21.7K, 평균 참여율 3.2%입니다.",
+    "최고 실적 영상은 'AI 데이터센터, 짓는대로 돈 된다… SpaceX가 서둘러 10GW 데이터센터 건설 하는 이유! Microsoft가 고객? SemiAnalysis 전력 당 매출 분석'이며 수익 훅과 비교 포맷 조합이 강했습니다.",
+    "반복 노출된 툴은 Claude 2회, ChatGPT 1회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
   ],
   "action_chips": [
-    "주제: Gemini",
-    "훅: 문제 해결",
-    "포맷: 워크플로우 튜토리얼",
-    "기준 채널: Futurepedia"
+    "주제: agents",
+    "훅: 수익",
+    "포맷: 비교",
+    "기준 채널: 안될공학 - IT 테크 신기술"
   ],
   "title_suggestions": [
-    "Gemini vs ChatGPT, 직장인이 1주일 써보니 이렇게 달랐다",
-    "구글 AI 직접 실험 결과 — 이게 진짜 되네? 안되네?",
-    "Gemini 써봤더니... 광고 말고 진짜 솔직 비교"
+    "agents 직접 실험 — 이게 진짜 되나?",
+    "agents vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
+    "agents 써봤더니... (기대 vs 현실 솔직 후기)"
   ],
   "recommendations": [
     {
-      "title": "Gemini vs ChatGPT, 직장인이 1주일 써보니 이렇게 달랐다",
-      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'Gemini'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "Gemini 바로 해결",
-      "reason": "Gemini vs ChatGPT 일반인 기준 직접 실험 영상이 비어 있습니다. 구글 생태계 쓰는 사람이 체감하는 차이 검증.",
-      "source_video_id": "TGlPNGaHo6I",
-      "source": "Master the NEW Gemini Notebook",
-      "my_channel_context": "내 7일 평균 5.8K회 · 지속률 28.9% / 경쟁사 대비 +152%"
+      "title": "agents 직접 실험 — 이게 진짜 되나?",
+      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
+      "angle": "큰 주제 하나를 대표 제목으로 세우고, 나머지 포인트는 보조 정보처럼 정리하는 압축형 포장이 좋습니다.",
+      "thumbnail_copy": "agents 핵심 3가지",
+      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
+      "source_video_id": "wGxYJRtncEk",
+      "source": "AI 데이터센터, 짓는대로 돈 된다… SpaceX가 서둘러 10GW 데이터센터 건설 하는 이유! Microsoft가 고객? SemiAnalysis 전력 당 매출 분석",
+      "my_channel_context": "내 7일 평균 5.9K회 · 지속률 28.9% / 경쟁사 대비 -36%"
     }
   ],
   "topic_clusters": [
     {
-      "label": "Gemini",
+      "label": "agents",
       "count": 1,
-      "avg_view_count": 2519,
-      "avg_engagement_rate": 0.07383882493052799,
-      "avg_like_count": 178,
-      "avg_comment_count": 8,
+      "avg_view_count": 21741,
+      "avg_engagement_rate": 0.03238121521549147,
+      "avg_like_count": 612,
+      "avg_comment_count": 92,
       "source_titles": [
-        "Master the NEW Gemini Notebook"
+        "AI 데이터센터, 짓는대로 돈 된다… SpaceX가 서둘러 10GW 데이터센터 건설 하는 이유! Microsoft가 고객? SemiAnalysis 전력 당 매출 분석"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/TGlPNGaHo6I/hqdefault.jpg",
-      "representative_video_id": "TGlPNGaHo6I",
-      "representative_title": "Master the NEW Gemini Notebook"
+      "thumbnail_url": "https://i.ytimg.com/vi/wGxYJRtncEk/hqdefault.jpg",
+      "representative_video_id": "wGxYJRtncEk",
+      "representative_title": "AI 데이터센터, 짓는대로 돈 된다… SpaceX가 서둘러 10GW 데이터센터 건설 하는 이유! Microsoft가 고객? SemiAnalysis 전력 당 매출 분석"
     },
     {
-      "label": "역대급",
+      "label": "ChatGPT",
       "count": 1,
-      "avg_view_count": 2117,
-      "avg_engagement_rate": 0.0273972602739726,
-      "avg_like_count": 55,
-      "avg_comment_count": 3,
+      "avg_view_count": 10727,
+      "avg_engagement_rate": 0.06628134613591871,
+      "avg_like_count": 588,
+      "avg_comment_count": 123,
       "source_titles": [
-        "역대급 영상모델 시댄스 2.5 정식출시! 무료로 최신모델 쓰는 방법까지..ㄷㄷ"
+        "ChatGPT 5.6 vs Claude Fable 5 vs Kimi K3 Make Palworld From Scratch"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/om7QnmFM9OI/hqdefault.jpg",
-      "representative_video_id": "om7QnmFM9OI",
-      "representative_title": "역대급 영상모델 시댄스 2.5 정식출시! 무료로 최신모델 쓰는 방법까지..ㄷㄷ"
+      "thumbnail_url": "https://i.ytimg.com/vi/cIT0-nPw1CQ/hqdefault.jpg",
+      "representative_video_id": "cIT0-nPw1CQ",
+      "representative_title": "ChatGPT 5.6 vs Claude Fable 5 vs Kimi K3 Make Palworld From Scratch"
+    },
+    {
+      "label": "구글",
+      "count": 1,
+      "avg_view_count": 9394,
+      "avg_engagement_rate": 0.02299340004258037,
+      "avg_like_count": 211,
+      "avg_comment_count": 5,
+      "source_titles": [
+        "IT뉴스 - Google 리더십 개편, GPT-6 Astra 소식, Luna 무제한, 콜드카드 하드월렛 해킹, Muse Spark 1.2, Imagine Image 2.0 등"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/Kve2d_PpIHQ/hqdefault.jpg",
+      "representative_video_id": "Kve2d_PpIHQ",
+      "representative_title": "IT뉴스 - Google 리더십 개편, GPT-6 Astra 소식, Luna 무제한, 콜드카드 하드월렛 해킹, Muse Spark 1.2, Imagine Image 2.0 등"
+    },
+    {
+      "label": "Claude",
+      "count": 1,
+      "avg_view_count": 8018,
+      "avg_engagement_rate": 0.04627089049638314,
+      "avg_like_count": 349,
+      "avg_comment_count": 22,
+      "source_titles": [
+        "Seedance 2.5 Is a FREAK (50+ Surprising Examples)"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/_tyfMINqtDY/hqdefault.jpg",
+      "representative_video_id": "_tyfMINqtDY",
+      "representative_title": "Seedance 2.5 Is a FREAK (50+ Surprising Examples)"
+    },
+    {
+      "label": "자동화",
+      "count": 1,
+      "avg_view_count": 3828,
+      "avg_engagement_rate": 0.05851619644723093,
+      "avg_like_count": 218,
+      "avg_comment_count": 6,
+      "source_titles": [
+        "Teaching a 10 year old how to start an AI automation business"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/WWipe1-TyXU/hqdefault.jpg",
+      "representative_video_id": "WWipe1-TyXU",
+      "representative_title": "Teaching a 10 year old how to start an AI automation business"
+    },
+    {
+      "label": "코딩",
+      "count": 1,
+      "avg_view_count": 1239,
+      "avg_engagement_rate": 0.047619047619047616,
+      "avg_like_count": 53,
+      "avg_comment_count": 6,
+      "source_titles": [
+        "My Quant AI Execution Alpha Setup Is CRUSHING Polymarket"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/CAJDhsf8qhQ/hqdefault.jpg",
+      "representative_video_id": "CAJDhsf8qhQ",
+      "representative_title": "My Quant AI Execution Alpha Setup Is CRUSHING Polymarket"
     }
   ],
   "video_highlights": [
     {
-      "video_id": "TGlPNGaHo6I",
-      "channel_name": "Futurepedia",
-      "title": "Master the NEW Gemini Notebook",
-      "thumbnail_url": "https://i.ytimg.com/vi/TGlPNGaHo6I/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=TGlPNGaHo6I",
-      "published_at": "2026-08-08T20:38:07Z",
-      "view_count": 2519,
-      "like_count": 178,
-      "comment_count": 8,
-      "engagement_rate": 0.07383882493052799,
-      "topic_cluster": "Gemini",
-      "summary": "Gemini Notebook은 기존 노트북의 리서치 및 학습 기능에 Gemini의 창의적 대화 기능을 결합하여 효율성을 높였으며, 스튜디오 패널과 연동을 통해 자료…",
-      "comment_signal": "*Free Guide to Gemini Notebook:* https://clickhubspot.com/8v0q",
+      "video_id": "wGxYJRtncEk",
+      "channel_name": "안될공학 - IT 테크 신기술",
+      "title": "AI 데이터센터, 짓는대로 돈 된다… SpaceX가 서둘러 10GW 데이터센터 건설 하는 이유! Microsoft가 고객? SemiAnalysis 전력 당 매출 분석",
+      "thumbnail_url": "https://i.ytimg.com/vi/wGxYJRtncEk/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=wGxYJRtncEk",
+      "published_at": "2026-08-09T08:13:38Z",
+      "view_count": 21741,
+      "like_count": 612,
+      "comment_count": 92,
+      "engagement_rate": 0.03238121521549147,
+      "topic_cluster": "agents",
+      "summary": "스페이스X의 10GW 데이터센터 구축 계획을 통해 AI 컴퓨팅 인프라의 전력 효율과 매출 잠재력을 분석하고, 대규모 AI 서비스 운영을 위한 하드웨어 성능과 전력…",
+      "comment_signal": "일론은 2016년에 fsd가 전세계에 상용화 될거라햇음",
+      "hook_type": "수익"
+    },
+    {
+      "video_id": "cIT0-nPw1CQ",
+      "channel_name": "tef",
+      "title": "ChatGPT 5.6 vs Claude Fable 5 vs Kimi K3 Make Palworld From Scratch",
+      "thumbnail_url": "https://i.ytimg.com/vi/cIT0-nPw1CQ/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=cIT0-nPw1CQ",
+      "published_at": "2026-08-09T12:34:18Z",
+      "view_count": 10727,
+      "like_count": 588,
+      "comment_count": 123,
+      "engagement_rate": 0.06628134613591871,
+      "topic_cluster": "ChatGPT",
+      "summary": "ChatGPT 5.6, Claude Fable 5, Kimi K3를 사용하여 게임 '팰월드'를 처음부터 개발하는 대결을 진행했으며, 각 AI의 코딩 결과물과 성능을…",
+      "comment_signal": "create a spiderman game from AI",
+      "hook_type": "비교"
+    },
+    {
+      "video_id": "Kve2d_PpIHQ",
+      "channel_name": "조코딩 JoCoding",
+      "title": "IT뉴스 - Google 리더십 개편, GPT-6 Astra 소식, Luna 무제한, 콜드카드 하드월렛 해킹, Muse Spark 1.2, Imagine Image 2.0 등",
+      "thumbnail_url": "https://i.ytimg.com/vi/Kve2d_PpIHQ/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=Kve2d_PpIHQ",
+      "published_at": "2026-08-09T10:31:47Z",
+      "view_count": 9394,
+      "like_count": 211,
+      "comment_count": 5,
+      "engagement_rate": 0.02299340004258037,
+      "topic_cluster": "구글",
+      "summary": "구글 리더십 개편과 GPT-6 Astra 소식 등 최신 IT 이슈를 다루며, 450ms 이하의 빠른 응답 속도를 가진 허깅페이스 보이스 챗과 같은 새로운 기술 도구…",
+      "comment_signal": "Gpt 6 출시일 나왓나요??",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "om7QnmFM9OI",
-      "channel_name": "성공지식백과",
-      "title": "역대급 영상모델 시댄스 2.5 정식출시! 무료로 최신모델 쓰는 방법까지..ㄷㄷ",
-      "thumbnail_url": "https://i.ytimg.com/vi/om7QnmFM9OI/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=om7QnmFM9OI",
-      "published_at": "2026-08-08T08:13:42Z",
-      "view_count": 2117,
-      "like_count": 55,
-      "comment_count": 3,
-      "engagement_rate": 0.0273972602739726,
-      "topic_cluster": "역대급",
-      "summary": "AI 영상 모델인 '시댄스 2.5'는 최대 50개의 레퍼런스를 활용해 30초 분량의 일관성 있는 영상을 생성하며, 목표 설정과 클립 단위의 프롬프트 구성 등 5가지…",
-      "comment_signal": "저도 2.5로 만들어서 올려놨는데 스케일 크게해도 안깨지네요",
-      "hook_type": "긴급성"
+      "video_id": "_tyfMINqtDY",
+      "channel_name": "AI Samson",
+      "title": "Seedance 2.5 Is a FREAK (50+ Surprising Examples)",
+      "thumbnail_url": "https://i.ytimg.com/vi/_tyfMINqtDY/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=_tyfMINqtDY",
+      "published_at": "2026-08-09T02:25:34Z",
+      "view_count": 8018,
+      "like_count": 349,
+      "comment_count": 22,
+      "engagement_rate": 0.04627089049638314,
+      "topic_cluster": "Claude",
+      "summary": "AI 영상 제작 도구인 Seedance 2.5를 소개하며, 실제 영상을 활용한 다양한 생성 사례를 통해 이 도구의 효율적인 사용법과 활용 가능성을 설명했다.",
+      "comment_signal": "Why are all the models so expensive? I'm not paying almost 600 euros all at once. Why can't you…",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "WWipe1-TyXU",
+      "channel_name": "Dan Martell",
+      "title": "Teaching a 10 year old how to start an AI automation business",
+      "thumbnail_url": "https://i.ytimg.com/vi/WWipe1-TyXU/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=WWipe1-TyXU",
+      "published_at": "2026-08-09T21:00:52Z",
+      "view_count": 3828,
+      "like_count": 218,
+      "comment_count": 6,
+      "engagement_rate": 0.05851619644723093,
+      "topic_cluster": "자동화",
+      "summary": "10세 아동에게 AI 자동화 비즈니스의 개념을 소개하고, 적은 자본으로 시작할 수 있는 사업 모델에 대해 교육하는 과정을 다루었다.",
+      "comment_signal": "Good Job Dan!❤",
+      "hook_type": "문제 해결"
     }
   ]
 }
