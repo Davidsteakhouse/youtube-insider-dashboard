@@ -1,210 +1,251 @@
 {
-  "digest_date": "2026-08-13",
-  "generated_at": "2026-08-12T23:54:15+00:00",
-  "summary": "최근 24시간 영상 7개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'ChatGPT'입니다. 특히 'GPT에는 없는 그록 이미지만의 기능 ㄷㄷ'는 조회수 29.2K, 참여율 1.0%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "'ChatGPT' 주제가 2개 영상으로 가장 많이 다뤄졌습니다. 오늘 수집 영상 7개는 주로 '뉴스 분석' 포맷이라, VS 비교·직접 실험 각도는 아직 비어 있습니다. ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.\n[내 채널] 7일 평균 5.7K회 · 지속률 29.5% / 경쟁사 평균 9.0K회 (격차 -37%)",
-  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 08/13\n\n📊 총 10개 | AI 핵심 4 · 인접 AI 3 · 일반 테크 보충 3\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 10 · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [조코딩 JoCoding] 29.2K뷰 · 참여율 1.0%\n   GPT에는 없는 그록 이미지만의 기능 ㄷㄷ\n   ↳ 그록(Grok)은 이미지 생성 후 특정 요소만 선택하여 수정할 수 있는 기능을 제공하며, 기존 GPT와 차별화된 이미지 편집 편의성을 보여준다.\n   https://youtu.be/FXS_Szo4-Rg\n\n2. AI 핵심 · [Jeff Su] 8.8K뷰 · 참여율 5.0%\n   How to Give AI Perfect Memory (a completely guide)\n   ↳ AI의 메모리 수준을 글로벌, 프로젝트, 커스텀 시스템으로 나누어 설명하며, 사용자가 직접 데이터 통제권을 갖는 메모리 관리 워크플로우를 구축하는 방법을 제시한다.\n   https://youtu.be/cEEw1AbeysI\n\n3. AI 핵심 · [AI 머니] 2.8K뷰 · 참여율 7.4%\n   AI 영상에 돈 그만 쓰세요: 지금 당장 쓸만한 무료 & 무제한 AI 영상 툴 공개합니다\n   ↳ 무료 및 무제한 AI 영상 생성 툴인 Seedance 2.5와 Luma ML 등을 활용한 영상 제작 방법을 소개하며, 사용자가 직접 생성 품질을 비교하여 도구를 선택하는 효율적인 프로세스를 다룬다.\n   https://youtu.be/38XCtcCu5TE\n\n4. AI 핵심 · [AI Samson] 2.4K뷰 · 참여율 8.0%\n   Claude Unlocks Seedance 2.5 (God Mode)\n   ↳ Claude와 Seedance 2.5를 결합하여 자율 에이전트 기반의 장편 AI 영상 제작 워크플로우를 구축하는 기술적 단계를 설명한다.\n   https://youtu.be/UEPkmzIiaoI\n\n5. AI 인접 · [월텍남 - 월스트리트 테크남] 11.5K뷰 · 참여율 5.2%\n   스페이스X + 테슬라 합병까지 노리는 '진짜 머스크의 계획'\n   ↳ 일론 머스크가 스페이스X의 컴퓨팅 인프라를 활용해 고부가가치 추론 API를 판매하려는 전략을 분석하며, 모델 발전과 인프라 확보가 결합된 비즈니스의 수익 잠재력을 강조한다.\n   https://youtu.be/EpNKSRDQ-CI\n\n6. AI 인접 · [Dan Martell] 7.0K뷰 · 참여율 9.1%\n   What AI tools can actually make you money\n   ↳ Grok, Claude, ChatGPT 등 주요 AI 도구별 강점을 활용해 기업용 자동화 솔루션이나 맞춤형 앱 개발로 수익을 창출할 수 있는 구체적인 경로를 제안한다.\n   https://youtu.be/3q3eqoGwqu8\n\n7. AI 인접 · [Dan Martell] 1.4K뷰 · 참여율 8.0%\n   You can start a business with ChatGPT\n   ↳ ChatGPT를 비즈니스 도구로 활용하는 법을 설명하며, 기술 활용과 병행하여 실제 고객을 확보하기 위한 현장 중심의 실전 경영 학습을 강조한다.\n   https://youtu.be/GOeTaEF6aCo\n\n8. 테크 보충 · [테크몽 Techmong] 118.5K뷰 · 참여율 0.4%\n   폴드8 쓰면 이건 못참지\n   ↳ 갤럭시 Z 폴드8 기기에 최적화된 크기의 보조 배터리를 소개하며, 고속 무선 충전 지원 등 실사용 편의성을 보여준다.\n   https://youtu.be/onxQuUS3nOE\n\n9. 테크 보충 · [안될공학 - IT 테크 신기술] 6.5K뷰 · 참여율 0.3%\n   구구단보다 도형 곱셈법부터 배우는 중국 아이들\n   ↳ 중국 어린이들이 구구단보다 도형을 활용한 직관적인 곱셈 원리를 먼저 학습하는 교육 방식의 특징을 다룬다.\n   https://youtu.be/1ukZmekLSGg\n\n10. 테크 보충 · [안될공학 - IT 테크 신기술] 5.5K뷰 · 참여율 3.8%\n   영화 '오디세이' 영화관 안 가던 사람도 IMAX 찾는 이유 | 놀란 감독이 IMAX에 집착한 기술적 이유\n   ↳ 영화 오디세이를 통해 IMAX 필름 카메라 촬영과 대형 스크린이 제공하는 몰입감의 차이를 기술적으로 분석하며, 대규모 음향과 시야각이 극장 경험을 결정짓는 핵심 요소임을 설명한다.\n   https://youtu.be/Aqrw5z0CDMk\n\n📈 스마트대디 어제 실적\n조회수 4.7K (↓17% vs 7일 평균) | 구독 +20\n시청 지속률 30.1% | 평균 시청 2분 19초\n경쟁사 평균 9.0K회 대비 내 7일 평균 -37%\n\n💡 VS 각도: ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
-  "video_count": 7,
-  "total_recent_video_count": 13,
+  "digest_date": "2026-08-14",
+  "generated_at": "2026-08-13T23:54:05+00:00",
+  "summary": "최근 24시간 영상 10개를 기준으로 보면, 오늘 가장 먼저 볼 축은 '코딩'입니다. 특히 'Making An Actually Fun 3D Game with AI'는 조회수 18.4K, 참여율 4.9%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "'코딩' 주제가 2개 영상으로 가장 많이 다뤄졌습니다. 오늘 수집 영상 10개는 주로 '뉴스 분석' 포맷이라, VS 비교·직접 실험 각도는 아직 비어 있습니다. 일반인 관점 직접 실험 or VS 비교 각도로 차별화할 영역이 있습니다.\n[내 채널] 7일 평균 5.2K회 · 지속률 29.6% / 경쟁사 평균 4.0K회 (격차 +32%)",
+  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 08/14\n\n📊 총 10개 | AI 핵심 7 · 인접 AI 3 · 일반 테크 보충 0\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 10 · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [Matt Wolfe] 18.4K뷰 · 참여율 4.9%\n   Making An Actually Fun 3D Game with AI\n   ↳ 클로드 코드와 GPT-5.6 등을 활용하여 3D 로그라이트 게임 '더 라이브러리언 2'를 개발한 결과, AI가 게임 개발의 생산성을 높일 수는 있으나 여전히 복잡한 과정과 숙련된 기술이 필요하다는 결론을 얻었습니다.\n   https://youtu.be/qK4nV_LnXxQ\n\n2. AI 핵심 · [빌더 조쉬 Builder Josh] 5.7K뷰 · 참여율 4.1%\n   \"만들었는데 안 팔린다\"는 빌더들에게. 클로드 코드로 마케팅까지 끝내는 12단계 (김형태 대표, 데일리그로스)\n   ↳ 클로드 코드를 활용한 마케팅 자동화 및 데이터 분석 사례를 통해 1인 마케터도 효율적인 대행 업무가 가능함을 보여주며, 기술적 도구 도입보다 고객 문제 해결에 집중하는 마케팅 원론의 중요성을 강조합니다.\n   https://youtu.be/FZzxy_0FT0o\n\n3. AI 핵심 · [조코딩 JoCoding] 4.4K뷰 · 참여율 0.7%\n   🚨 진짜 생물을 죽이는 바이러스를 만든 AI...ㄷㄷ\n   ↳ AI가 수천 개의 바이러스 게놈을 설계하고 그중 일부가 실제 박테리아를 사멸시키는 결과를 보임으로써, 생물학적 연구에서의 AI 활용에 따른 강력한 규제와 안전성의 필요성을 시사합니다.\n   https://youtu.be/agX7q0ZyJOc\n\n4. AI 핵심 · [조코딩 JoCoding] 3.2K뷰 · 참여율 0.9%\n   🏃💨 당장 달려가서 레어닉 먹으세요!!!\n   ↳ 클라우드플레어를 통해 AI와 상호작용하는 전투용 지갑 서비스를 소개하며, 특정 플랫폼 내의 레어 닉네임 선점 기회를 강조합니다.\n   https://youtu.be/S5Z7uwCnORM\n\n5. AI 핵심 · [빌더 조쉬 Builder Josh] 1.5K뷰 · 참여율 1.2%\n   제품이 좋다고 말하면 안 팔리는 이유\n   ↳ 제품의 성능을 나열하는 방식 대신 고객의 문제를 어떻게 해결할 수 있는지에 초점을 맞추는 관점 전환이 실제 구매와 마케팅 성공으로 이어진다고 강조합니다.\n   https://youtu.be/5JPX1HaF4J4\n\n6. AI 핵심 · [All About AI] 359뷰 · 참여율 8.9%\n   STOP LOSING On Kalshi and Polymarket! Do This Now With AI\n   ↳ 칼시나 폴리마켓 같은 베팅 플랫폼에서 AI를 활용해 북메이커의 배당률과 실제 확률 차이를 분석함으로써 수익을 내고 손실을 방지하는 전략을 설명합니다.\n   https://youtu.be/3-WEYoWyDB8\n\n7. AI 핵심 · [MattVidPro] 178뷰 · 참여율 19.1%\n   Trying Minimax M3 - Best Open Weight AI Music Model Yet!\n   ↳ 로컬 환경에서 구동 가능한 오픈 가중치 모델인 'MiniMax Music3'를 테스트한 결과, Suno와 비교해도 손색없는 우수한 음질과 작사 능력을 보여주어 로컬 AI 음악 생성 기술의 큰 도약을 확인했습니다.\n   https://youtu.be/-Ye71x8Yi3g\n\n8. AI 인접 · [Dan Martell] 2.6K뷰 · 참여율 6.6%\n   How to be a leader\n   ↳ 진정한 리더십은 구성원에게 명확한 기대치를 설정하고 그들의 능력을 신뢰하여 스스로 책임감을 가지고 업무를 수행하도록 하는 환경을 조성하는 데 있습니다.\n   https://youtu.be/8STwRDfQVD4\n\n9. AI 인접 · [안될공학 - IT 테크 신기술] 2.2K뷰 · 참여율 1.1%\n   비닐봉지 매듭까지 묶는다? 로봇 손이 정교해진 이유\n   ↳ 제미나이 로보틱스 기술을 통해 로봇 손이 정해진 반복 동작에서 벗어나 상황을 판단하고 유연하게 대처하는 능력을 갖추게 됨으로써 비닐봉지 묶기와 같은 복잡한 작업이 가능해졌습니다.\n   https://youtu.be/KyA2ejPjb_0\n\n10. AI 인접 · [Dan Martell] 1.2K뷰 · 참여율 10.3%\n   What success habits actually matter for a young entrepreneur?\n   ↳ 젊은 창업자가 성공하기 위해서는 매일 아침 일찍 기상하고 규칙적인 운동과 독서, 그리고 취침 전 자기 성찰을 통한 비전 시각화 습관을 실천하는 것이 필수적입니다.\n   https://youtu.be/KL34xCAZRkc\n\n📈 스마트대디 어제 실적\n조회수 4.0K (↓23% vs 7일 평균) | 구독 +25\n시청 지속률 29.2% | 평균 시청 2분 19초\n경쟁사 평균 4.0K회 대비 내 7일 평균 +32%\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+  "video_count": 10,
+  "total_recent_video_count": 14,
   "focus_scope": "ai_priority_then_tech_fill",
-  "average_view_count": 8984.0,
-  "average_engagement_rate": 0.06254300992665832,
-  "average_like_count": 328.0,
-  "average_comment_count": 25.0,
-  "best_video_id": "FXS_Szo4-Rg",
-  "best_topic": "ChatGPT",
+  "average_view_count": 3966.0,
+  "average_engagement_rate": 0.05788829448105055,
+  "average_like_count": 143.0,
+  "average_comment_count": 17.0,
+  "best_video_id": "qK4nV_LnXxQ",
+  "best_topic": "코딩",
   "summary_points": [
-    "가장 겹친 주제는 'ChatGPT'이며 2개 영상, 평균 조회수 5.1K, 평균 참여율 6.5%입니다.",
-    "최고 실적 영상은 'GPT에는 없는 그록 이미지만의 기능 ㄷㄷ'이며 실험 데모 훅과 빌드 데모 포맷 조합이 강했습니다.",
-    "반복 노출된 툴은 Claude 3회, ChatGPT 2회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
+    "가장 겹친 주제는 '코딩'이며 2개 영상, 평균 조회수 268, 평균 참여율 14.0%입니다.",
+    "최고 실적 영상은 'Making An Actually Fun 3D Game with AI'이며 문제 해결 훅과 워크플로우 튜토리얼 포맷 조합이 강했습니다.",
+    "반복 노출된 툴은 ChatGPT 2회, Claude 2회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
   ],
   "action_chips": [
-    "주제: ChatGPT",
-    "훅: 실험 데모",
-    "포맷: 빌드 데모",
-    "기준 채널: 조코딩 JoCoding"
+    "주제: 코딩",
+    "훅: 문제 해결",
+    "포맷: 워크플로우 튜토리얼",
+    "기준 채널: Matt Wolfe"
   ],
   "title_suggestions": [
-    "ChatGPT vs Claude vs Gemini, 일반인 업무 실전 대결 결과",
-    "GPT 최신 버전 직접 실험 — 이전이랑 진짜 달라?",
-    "GPT 써봤더니... 기대랑 다른 점 솔직하게 다 말해봄"
+    "코딩 직접 실험 — 이게 진짜 되나?",
+    "코딩 vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
+    "코딩 써봤더니... (기대 vs 현실 솔직 후기)"
   ],
   "recommendations": [
     {
-      "title": "ChatGPT vs Claude vs Gemini, 일반인 업무 실전 대결 결과",
-      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'ChatGPT'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "ChatGPT 바로 해결",
-      "reason": "ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.",
-      "source_video_id": "cEEw1AbeysI",
-      "source": "How to Give AI Perfect Memory (a completely guide)",
-      "my_channel_context": "내 7일 평균 5.7K회 · 지속률 29.5% / 경쟁사 대비 -37%"
+      "title": "코딩 직접 실험 — 이게 진짜 되나?",
+      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
+      "angle": "큰 주제 하나를 대표 제목으로 세우고, 나머지 포인트는 보조 정보처럼 정리하는 압축형 포장이 좋습니다.",
+      "thumbnail_copy": "코딩 지금 봐야 함",
+      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
+      "source_video_id": "3-WEYoWyDB8",
+      "source": "STOP LOSING On Kalshi and Polymarket! Do This Now With AI",
+      "my_channel_context": "내 7일 평균 5.2K회 · 지속률 29.6% / 경쟁사 대비 +32%"
     },
     {
-      "title": "GPT 최신 버전 직접 실험 — 이전이랑 진짜 달라?",
-      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'ChatGPT'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "ChatGPT 바로 해결",
-      "reason": "ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.",
-      "source_video_id": "GOeTaEF6aCo",
-      "source": "You can start a business with ChatGPT",
-      "my_channel_context": "내 7일 평균 5.7K회 · 지속률 29.5% / 경쟁사 대비 -37%"
+      "title": "코딩 vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
+      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
+      "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
+      "thumbnail_copy": "코딩 바로 해결",
+      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
+      "source_video_id": "-Ye71x8Yi3g",
+      "source": "Trying Minimax M3 - Best Open Weight AI Music Model Yet!",
+      "my_channel_context": "내 7일 평균 5.2K회 · 지속률 29.6% / 경쟁사 대비 +32%"
     }
   ],
   "topic_clusters": [
     {
-      "label": "ChatGPT",
+      "label": "코딩",
       "count": 2,
-      "avg_view_count": 5058,
-      "avg_engagement_rate": 0.0648752116044666,
-      "avg_like_count": 259,
-      "avg_comment_count": 14,
+      "avg_view_count": 268,
+      "avg_engagement_rate": 0.14007386310287628,
+      "avg_like_count": 21,
+      "avg_comment_count": 12,
       "source_titles": [
-        "How to Give AI Perfect Memory (a completely guide)",
-        "You can start a business with ChatGPT"
+        "STOP LOSING On Kalshi and Polymarket! Do This Now With AI",
+        "Trying Minimax M3 - Best Open Weight AI Music Model Yet!"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/cEEw1AbeysI/hqdefault.jpg",
-      "representative_video_id": "cEEw1AbeysI",
-      "representative_title": "How to Give AI Perfect Memory (a completely guide)"
-    },
-    {
-      "label": "Claude",
-      "count": 2,
-      "avg_view_count": 4680,
-      "avg_engagement_rate": 0.08584640392864921,
-      "avg_like_count": 388,
-      "avg_comment_count": 26,
-      "source_titles": [
-        "What AI tools can actually make you money",
-        "Claude Unlocks Seedance 2.5 (God Mode)"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/3q3eqoGwqu8/hqdefault.jpg",
-      "representative_video_id": "3q3eqoGwqu8",
-      "representative_title": "What AI tools can actually make you money"
-    },
-    {
-      "label": "이미지생성",
-      "count": 1,
-      "avg_view_count": 29184,
-      "avg_engagement_rate": 0.009936951754385965,
-      "avg_like_count": 276,
-      "avg_comment_count": 14,
-      "source_titles": [
-        "GPT에는 없는 그록 이미지만의 기능 ㄷㄷ"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/FXS_Szo4-Rg/hqdefault.jpg",
-      "representative_video_id": "FXS_Szo4-Rg",
-      "representative_title": "GPT에는 없는 그록 이미지만의 기능 ㄷㄷ"
+      "thumbnail_url": "https://i.ytimg.com/vi/3-WEYoWyDB8/hqdefault.jpg",
+      "representative_video_id": "3-WEYoWyDB8",
+      "representative_title": "STOP LOSING On Kalshi and Polymarket! Do This Now With AI"
     },
     {
       "label": "OpenAI",
       "count": 1,
-      "avg_view_count": 11453,
-      "avg_engagement_rate": 0.05221339387060159,
-      "avg_like_count": 545,
-      "avg_comment_count": 53,
+      "avg_view_count": 18354,
+      "avg_engagement_rate": 0.04941702081290182,
+      "avg_like_count": 784,
+      "avg_comment_count": 123,
       "source_titles": [
-        "스페이스X + 테슬라 합병까지 노리는 '진짜 머스크의 계획'"
+        "Making An Actually Fun 3D Game with AI"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/EpNKSRDQ-CI/hqdefault.jpg",
-      "representative_video_id": "EpNKSRDQ-CI",
-      "representative_title": "스페이스X + 테슬라 합병까지 노리는 '진짜 머스크의 계획'"
+      "thumbnail_url": "https://i.ytimg.com/vi/qK4nV_LnXxQ/hqdefault.jpg",
+      "representative_video_id": "qK4nV_LnXxQ",
+      "representative_title": "Making An Actually Fun 3D Game with AI"
     },
     {
-      "label": "영상에",
+      "label": "Claude",
       "count": 1,
-      "avg_view_count": 2776,
-      "avg_engagement_rate": 0.07420749279538905,
-      "avg_like_count": 180,
-      "avg_comment_count": 26,
+      "avg_view_count": 5699,
+      "avg_engagement_rate": 0.04141077381996842,
+      "avg_like_count": 224,
+      "avg_comment_count": 12,
       "source_titles": [
-        "AI 영상에 돈 그만 쓰세요: 지금 당장 쓸만한 무료 & 무제한 AI 영상 툴 공개합니다"
+        "\"만들었는데 안 팔린다\"는 빌더들에게. 클로드 코드로 마케팅까지 끝내는 12단계 (김형태 대표, 데일리그로스)"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/38XCtcCu5TE/hqdefault.jpg",
-      "representative_video_id": "38XCtcCu5TE",
-      "representative_title": "AI 영상에 돈 그만 쓰세요: 지금 당장 쓸만한 무료 & 무제한 AI 영상 툴 공개합니다"
+      "thumbnail_url": "https://i.ytimg.com/vi/FZzxy_0FT0o/hqdefault.jpg",
+      "representative_video_id": "FZzxy_0FT0o",
+      "representative_title": "\"만들었는데 안 팔린다\"는 빌더들에게. 클로드 코드로 마케팅까지 끝내는 12단계 (김형태 대표, 데일리그로스)"
+    },
+    {
+      "label": "진짜",
+      "count": 1,
+      "avg_view_count": 4407,
+      "avg_engagement_rate": 0.007488087134104833,
+      "avg_like_count": 30,
+      "avg_comment_count": 3,
+      "source_titles": [
+        "🚨 진짜 생물을 죽이는 바이러스를 만든 AI...ㄷㄷ"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/agX7q0ZyJOc/hqdefault.jpg",
+      "representative_video_id": "agX7q0ZyJOc",
+      "representative_title": "🚨 진짜 생물을 죽이는 바이러스를 만든 AI...ㄷㄷ"
+    },
+    {
+      "label": "당장",
+      "count": 1,
+      "avg_view_count": 3193,
+      "avg_engagement_rate": 0.008769182586908864,
+      "avg_like_count": 27,
+      "avg_comment_count": 1,
+      "source_titles": [
+        "🏃💨 당장 달려가서 레어닉 먹으세요!!!"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/S5Z7uwCnORM/hqdefault.jpg",
+      "representative_video_id": "S5Z7uwCnORM",
+      "representative_title": "🏃💨 당장 달려가서 레어닉 먹으세요!!!"
+    },
+    {
+      "label": "AI리더십",
+      "count": 1,
+      "avg_view_count": 2579,
+      "avg_engagement_rate": 0.06552927491275688,
+      "avg_like_count": 166,
+      "avg_comment_count": 3,
+      "source_titles": [
+        "How to be a leader"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/8STwRDfQVD4/hqdefault.jpg",
+      "representative_video_id": "8STwRDfQVD4",
+      "representative_title": "How to be a leader"
+    },
+    {
+      "label": "Gemini",
+      "count": 1,
+      "avg_view_count": 2222,
+      "avg_engagement_rate": 0.010801080108010801,
+      "avg_like_count": 22,
+      "avg_comment_count": 2,
+      "source_titles": [
+        "비닐봉지 매듭까지 묶는다? 로봇 손이 정교해진 이유"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/KyA2ejPjb_0/hqdefault.jpg",
+      "representative_video_id": "KyA2ejPjb_0",
+      "representative_title": "비닐봉지 매듭까지 묶는다? 로봇 손이 정교해진 이유"
+    },
+    {
+      "label": "마케팅",
+      "count": 1,
+      "avg_view_count": 1487,
+      "avg_engagement_rate": 0.0121049092131809,
+      "avg_like_count": 18,
+      "avg_comment_count": 0,
+      "source_titles": [
+        "제품이 좋다고 말하면 안 팔리는 이유"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/5JPX1HaF4J4/hqdefault.jpg",
+      "representative_video_id": "5JPX1HaF4J4",
+      "representative_title": "제품이 좋다고 말하면 안 팔리는 이유"
     }
   ],
   "video_highlights": [
     {
-      "video_id": "FXS_Szo4-Rg",
-      "channel_name": "조코딩 JoCoding",
-      "title": "GPT에는 없는 그록 이미지만의 기능 ㄷㄷ",
-      "thumbnail_url": "https://i.ytimg.com/vi/FXS_Szo4-Rg/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=FXS_Szo4-Rg",
-      "published_at": "2026-08-12T09:00:12Z",
-      "view_count": 29184,
-      "like_count": 276,
-      "comment_count": 14,
-      "engagement_rate": 0.009936951754385965,
-      "topic_cluster": "이미지생성",
-      "summary": "그록(Grok)은 이미지 생성 후 특정 요소만 선택하여 수정할 수 있는 기능을 제공하며, 기존 GPT와 차별화된 이미지 편집 편의성을 보여준다.",
-      "comment_signal": "조코딩 취향 확인",
-      "hook_type": "실험 데모"
-    },
-    {
-      "video_id": "EpNKSRDQ-CI",
-      "channel_name": "월텍남 - 월스트리트 테크남",
-      "title": "스페이스X + 테슬라 합병까지 노리는 '진짜 머스크의 계획'",
-      "thumbnail_url": "https://i.ytimg.com/vi/EpNKSRDQ-CI/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=EpNKSRDQ-CI",
-      "published_at": "2026-08-12T12:16:23Z",
-      "view_count": 11453,
-      "like_count": 545,
-      "comment_count": 53,
-      "engagement_rate": 0.05221339387060159,
+      "video_id": "qK4nV_LnXxQ",
+      "channel_name": "Matt Wolfe",
+      "title": "Making An Actually Fun 3D Game with AI",
+      "thumbnail_url": "https://i.ytimg.com/vi/qK4nV_LnXxQ/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=qK4nV_LnXxQ",
+      "published_at": "2026-08-13T01:53:16Z",
+      "view_count": 18354,
+      "like_count": 784,
+      "comment_count": 123,
+      "engagement_rate": 0.04941702081290182,
       "topic_cluster": "OpenAI",
-      "summary": "일론 머스크가 스페이스X의 컴퓨팅 인프라를 활용해 고부가가치 추론 API를 판매하려는 전략을 분석하며, 모델 발전과 인프라 확보가 결합된 비즈니스의 수익 잠재력을…",
-      "comment_signal": "개발관련 일하고 있습니다. 사용하는 AI비용이 무지 많이 늘었습니다.ㅠㅠ 택남님 말씀에 전적으로 동의합니다.",
-      "hook_type": "솔직 검증"
-    },
-    {
-      "video_id": "cEEw1AbeysI",
-      "channel_name": "Jeff Su",
-      "title": "How to Give AI Perfect Memory (a completely guide)",
-      "thumbnail_url": "https://i.ytimg.com/vi/cEEw1AbeysI/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=cEEw1AbeysI",
-      "published_at": "2026-08-12T13:15:33Z",
-      "view_count": 8763,
-      "like_count": 412,
-      "comment_count": 25,
-      "engagement_rate": 0.049868766404199474,
-      "topic_cluster": "ChatGPT",
-      "summary": "AI의 메모리 수준을 글로벌, 프로젝트, 커스텀 시스템으로 나누어 설명하며, 사용자가 직접 데이터 통제권을 갖는 메모리 관리 워크플로우를 구축하는 방법을 제시한다.",
-      "comment_signal": "Good video. I've been doing level 3 for a while. One thing with it - you have to stay on top of…",
+      "summary": "클로드 코드와 GPT-5.6 등을 활용하여 3D 로그라이트 게임 '더 라이브러리언 2'를 개발한 결과, AI가 게임 개발의 생산성을 높일 수는 있으나 여전히 복잡한…",
+      "comment_signal": "26-year AAA-to-Indie game dev here. Couldn't agree more with your takes. I've been working with…",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "3q3eqoGwqu8",
-      "channel_name": "Dan Martell",
-      "title": "What AI tools can actually make you money",
-      "thumbnail_url": "https://i.ytimg.com/vi/3q3eqoGwqu8/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=3q3eqoGwqu8",
-      "published_at": "2026-08-12T15:05:47Z",
-      "view_count": 6970,
-      "like_count": 613,
-      "comment_count": 24,
-      "engagement_rate": 0.09139167862266857,
+      "video_id": "FZzxy_0FT0o",
+      "channel_name": "빌더 조쉬 Builder Josh",
+      "title": "\"만들었는데 안 팔린다\"는 빌더들에게. 클로드 코드로 마케팅까지 끝내는 12단계 (김형태 대표, 데일리그로스)",
+      "thumbnail_url": "https://i.ytimg.com/vi/FZzxy_0FT0o/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=FZzxy_0FT0o",
+      "published_at": "2026-08-13T04:45:59Z",
+      "view_count": 5699,
+      "like_count": 224,
+      "comment_count": 12,
+      "engagement_rate": 0.04141077381996842,
       "topic_cluster": "Claude",
-      "summary": "Grok, Claude, ChatGPT 등 주요 AI 도구별 강점을 활용해 기업용 자동화 솔루션이나 맞춤형 앱 개발로 수익을 창출할 수 있는 구체적인 경로를 제안한…",
-      "comment_signal": "What are you talking about ???",
-      "hook_type": "성과 약속"
+      "summary": "클로드 코드를 활용한 마케팅 자동화 및 데이터 분석 사례를 통해 1인 마케터도 효율적인 대행 업무가 가능함을 보여주며, 기술적 도구 도입보다 고객 문제 해결에 집중…",
+      "comment_signal": "넘 유익합니다! 돈 주고 들어야 하는 거 아닌가 싶네요.... 자주 나와주세요!",
+      "hook_type": "문제 해결"
     },
     {
-      "video_id": "38XCtcCu5TE",
-      "channel_name": "AI 머니",
-      "title": "AI 영상에 돈 그만 쓰세요: 지금 당장 쓸만한 무료 & 무제한 AI 영상 툴 공개합니다",
-      "thumbnail_url": "https://i.ytimg.com/vi/38XCtcCu5TE/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=38XCtcCu5TE",
-      "published_at": "2026-08-12T10:15:14Z",
-      "view_count": 2776,
-      "like_count": 180,
-      "comment_count": 26,
-      "engagement_rate": 0.07420749279538905,
-      "topic_cluster": "영상에",
-      "summary": "무료 및 무제한 AI 영상 생성 툴인 Seedance 2.5와 Luma ML 등을 활용한 영상 제작 방법을 소개하며, 사용자가 직접 생성 품질을 비교하여 도구를 선…",
-      "comment_signal": "👉 Seedance 2.5 33일 동안 무제한 사용하기: https://higgsfield.ai/s/unlimited-seedance-2-5-yt-10-aug-aimone…",
-      "hook_type": "긴급성"
+      "video_id": "agX7q0ZyJOc",
+      "channel_name": "조코딩 JoCoding",
+      "title": "🚨 진짜 생물을 죽이는 바이러스를 만든 AI...ㄷㄷ",
+      "thumbnail_url": "https://i.ytimg.com/vi/agX7q0ZyJOc/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=agX7q0ZyJOc",
+      "published_at": "2026-08-13T08:41:55Z",
+      "view_count": 4407,
+      "like_count": 30,
+      "comment_count": 3,
+      "engagement_rate": 0.007488087134104833,
+      "topic_cluster": "진짜",
+      "summary": "AI가 수천 개의 바이러스 게놈을 설계하고 그중 일부가 실제 박테리아를 사멸시키는 결과를 보임으로써, 생물학적 연구에서의 AI 활용에 따른 강력한 규제와 안전성의…",
+      "comment_signal": "어후.. 정신없고 ADHD걸릴거 같음",
+      "hook_type": "솔직 검증"
+    },
+    {
+      "video_id": "S5Z7uwCnORM",
+      "channel_name": "조코딩 JoCoding",
+      "title": "🏃💨 당장 달려가서 레어닉 먹으세요!!!",
+      "thumbnail_url": "https://i.ytimg.com/vi/S5Z7uwCnORM/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=S5Z7uwCnORM",
+      "published_at": "2026-08-13T10:00:03Z",
+      "view_count": 3193,
+      "like_count": 27,
+      "comment_count": 1,
+      "engagement_rate": 0.008769182586908864,
+      "topic_cluster": "당장",
+      "summary": "클라우드플레어를 통해 AI와 상호작용하는 전투용 지갑 서비스를 소개하며, 특정 플랫폼 내의 레어 닉네임 선점 기회를 강조합니다.",
+      "comment_signal": "초기 댓글 반응은 붙었지만 아직 대화가 확장되지는 않았습니다.",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "8STwRDfQVD4",
+      "channel_name": "Dan Martell",
+      "title": "How to be a leader",
+      "thumbnail_url": "https://i.ytimg.com/vi/8STwRDfQVD4/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=8STwRDfQVD4",
+      "published_at": "2026-08-13T15:03:15Z",
+      "view_count": 2579,
+      "like_count": 166,
+      "comment_count": 3,
+      "engagement_rate": 0.06552927491275688,
+      "topic_cluster": "AI리더십",
+      "summary": "진정한 리더십은 구성원에게 명확한 기대치를 설정하고 그들의 능력을 신뢰하여 스스로 책임감을 가지고 업무를 수행하도록 하는 환경을 조성하는 데 있습니다.",
+      "comment_signal": "Hey dan I'm Krishay and I love the content you have been making it has helped me not a lot but…",
+      "hook_type": "문제 해결"
     }
   ]
 }
