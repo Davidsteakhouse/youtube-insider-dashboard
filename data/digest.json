@@ -1,250 +1,250 @@
 {
-  "digest_date": "2026-08-14",
-  "generated_at": "2026-08-13T23:54:05+00:00",
-  "summary": "최근 24시간 영상 10개를 기준으로 보면, 오늘 가장 먼저 볼 축은 '코딩'입니다. 특히 'Making An Actually Fun 3D Game with AI'는 조회수 18.4K, 참여율 4.9%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "'코딩' 주제가 2개 영상으로 가장 많이 다뤄졌습니다. 오늘 수집 영상 10개는 주로 '뉴스 분석' 포맷이라, VS 비교·직접 실험 각도는 아직 비어 있습니다. 일반인 관점 직접 실험 or VS 비교 각도로 차별화할 영역이 있습니다.\n[내 채널] 7일 평균 5.2K회 · 지속률 29.6% / 경쟁사 평균 4.0K회 (격차 +32%)",
-  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 08/14\n\n📊 총 10개 | AI 핵심 7 · 인접 AI 3 · 일반 테크 보충 0\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 10 · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [Matt Wolfe] 18.4K뷰 · 참여율 4.9%\n   Making An Actually Fun 3D Game with AI\n   ↳ 클로드 코드와 GPT-5.6 등을 활용하여 3D 로그라이트 게임 '더 라이브러리언 2'를 개발한 결과, AI가 게임 개발의 생산성을 높일 수는 있으나 여전히 복잡한 과정과 숙련된 기술이 필요하다는 결론을 얻었습니다.\n   https://youtu.be/qK4nV_LnXxQ\n\n2. AI 핵심 · [빌더 조쉬 Builder Josh] 5.7K뷰 · 참여율 4.1%\n   \"만들었는데 안 팔린다\"는 빌더들에게. 클로드 코드로 마케팅까지 끝내는 12단계 (김형태 대표, 데일리그로스)\n   ↳ 클로드 코드를 활용한 마케팅 자동화 및 데이터 분석 사례를 통해 1인 마케터도 효율적인 대행 업무가 가능함을 보여주며, 기술적 도구 도입보다 고객 문제 해결에 집중하는 마케팅 원론의 중요성을 강조합니다.\n   https://youtu.be/FZzxy_0FT0o\n\n3. AI 핵심 · [조코딩 JoCoding] 4.4K뷰 · 참여율 0.7%\n   🚨 진짜 생물을 죽이는 바이러스를 만든 AI...ㄷㄷ\n   ↳ AI가 수천 개의 바이러스 게놈을 설계하고 그중 일부가 실제 박테리아를 사멸시키는 결과를 보임으로써, 생물학적 연구에서의 AI 활용에 따른 강력한 규제와 안전성의 필요성을 시사합니다.\n   https://youtu.be/agX7q0ZyJOc\n\n4. AI 핵심 · [조코딩 JoCoding] 3.2K뷰 · 참여율 0.9%\n   🏃💨 당장 달려가서 레어닉 먹으세요!!!\n   ↳ 클라우드플레어를 통해 AI와 상호작용하는 전투용 지갑 서비스를 소개하며, 특정 플랫폼 내의 레어 닉네임 선점 기회를 강조합니다.\n   https://youtu.be/S5Z7uwCnORM\n\n5. AI 핵심 · [빌더 조쉬 Builder Josh] 1.5K뷰 · 참여율 1.2%\n   제품이 좋다고 말하면 안 팔리는 이유\n   ↳ 제품의 성능을 나열하는 방식 대신 고객의 문제를 어떻게 해결할 수 있는지에 초점을 맞추는 관점 전환이 실제 구매와 마케팅 성공으로 이어진다고 강조합니다.\n   https://youtu.be/5JPX1HaF4J4\n\n6. AI 핵심 · [All About AI] 359뷰 · 참여율 8.9%\n   STOP LOSING On Kalshi and Polymarket! Do This Now With AI\n   ↳ 칼시나 폴리마켓 같은 베팅 플랫폼에서 AI를 활용해 북메이커의 배당률과 실제 확률 차이를 분석함으로써 수익을 내고 손실을 방지하는 전략을 설명합니다.\n   https://youtu.be/3-WEYoWyDB8\n\n7. AI 핵심 · [MattVidPro] 178뷰 · 참여율 19.1%\n   Trying Minimax M3 - Best Open Weight AI Music Model Yet!\n   ↳ 로컬 환경에서 구동 가능한 오픈 가중치 모델인 'MiniMax Music3'를 테스트한 결과, Suno와 비교해도 손색없는 우수한 음질과 작사 능력을 보여주어 로컬 AI 음악 생성 기술의 큰 도약을 확인했습니다.\n   https://youtu.be/-Ye71x8Yi3g\n\n8. AI 인접 · [Dan Martell] 2.6K뷰 · 참여율 6.6%\n   How to be a leader\n   ↳ 진정한 리더십은 구성원에게 명확한 기대치를 설정하고 그들의 능력을 신뢰하여 스스로 책임감을 가지고 업무를 수행하도록 하는 환경을 조성하는 데 있습니다.\n   https://youtu.be/8STwRDfQVD4\n\n9. AI 인접 · [안될공학 - IT 테크 신기술] 2.2K뷰 · 참여율 1.1%\n   비닐봉지 매듭까지 묶는다? 로봇 손이 정교해진 이유\n   ↳ 제미나이 로보틱스 기술을 통해 로봇 손이 정해진 반복 동작에서 벗어나 상황을 판단하고 유연하게 대처하는 능력을 갖추게 됨으로써 비닐봉지 묶기와 같은 복잡한 작업이 가능해졌습니다.\n   https://youtu.be/KyA2ejPjb_0\n\n10. AI 인접 · [Dan Martell] 1.2K뷰 · 참여율 10.3%\n   What success habits actually matter for a young entrepreneur?\n   ↳ 젊은 창업자가 성공하기 위해서는 매일 아침 일찍 기상하고 규칙적인 운동과 독서, 그리고 취침 전 자기 성찰을 통한 비전 시각화 습관을 실천하는 것이 필수적입니다.\n   https://youtu.be/KL34xCAZRkc\n\n📈 스마트대디 어제 실적\n조회수 4.0K (↓23% vs 7일 평균) | 구독 +25\n시청 지속률 29.2% | 평균 시청 2분 19초\n경쟁사 평균 4.0K회 대비 내 7일 평균 +32%\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
-  "video_count": 10,
-  "total_recent_video_count": 14,
+  "digest_date": "2026-08-15",
+  "generated_at": "2026-08-14T23:32:56+00:00",
+  "summary": "최근 24시간 영상 11개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'agents'입니다. 특히 '이젠 세션까지 넘나들며 작업하는 클로드 ㄷㄷ'는 조회수 32.5K, 참여율 0.9%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "'agents' 주제가 2개 영상으로 가장 많이 다뤄졌습니다. 일반인 관점 직접 실험 or VS 비교 각도로 차별화할 영역이 있습니다.\n[내 채널] 7일 평균 4.5K회 · 지속률 29.5% / 경쟁사 평균 12.8K회 (격차 -65%)",
+  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 08/15\n\n📊 총 10개 | AI 핵심 8 · 인접 AI 2 · 일반 테크 보충 0\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 10 · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [조코딩 JoCoding] 32.5K뷰 · 참여율 0.9%\n   이젠 세션까지 넘나들며 작업하는 클로드 ㄷㄷ\n   ↳ 클로드의 새로운 기능을 통해 서로 다른 세션 간에 파일을 공유하고 소통하며 효율적으로 개발 작업을 진행할 수 있게 되었습니다.\n   https://youtu.be/sx7VBi4IKW8\n\n2. AI 핵심 · [조코딩 JoCoding] 32.2K뷰 · 참여율 0.7%\n   AI로 한단계 업그레이드 된 구글 번역기\n   ↳ 구글 번역기에 인터넷 연결 없이 작동하는 온디바이스 AI 모델인 젬마 4 E2B가 탑재되어 성능이 향상되었습니다.\n   https://youtu.be/kDTe4HO4cew\n\n3. AI 핵심 · [Matt Wolfe] 27.2K뷰 · 참여율 5.6%\n   AI News: A Flood of New Models (Here's What Matters)\n   ↳ 구글 제미나이 3.7 플래시, 메타의 뮤즈 글리머, 엔비디아 네모트론 3.5 등 이번 주에 발표된 다양한 최신 AI 모델과 업계 소식을 정리했습니다.\n   https://youtu.be/NC4h5kWH_-A\n\n4. AI 핵심 · [MattVidPro] 12.9K뷰 · 참여율 6.8%\n   Trying Minimax M3 - Best Open Weight AI Music Model Yet!\n   ↳ 오픈 웨이트 기반의 AI 음악 생성 모델인 미니맥스 M3를 테스트한 결과, 로컬 환경에서 구동 가능하며 음악적 품질과 가사 표현력이 뛰어나 실용적인 수준임을 확인했습니다.\n   https://youtu.be/-Ye71x8Yi3g\n\n5. AI 핵심 · [성공지식백과] 8.6K뷰 · 참여율 1.8%\n   클로드 소넷 왜씀? 더 싸고 강력한 구글 제미나이 3.7 등장\n   ↳ 구글 제미나이 3.7 플래시는 이전 모델보다 뛰어난 코딩 성능과 경제적인 가격 경쟁력을 갖추어 하위 에이전트 워크플로우에 최적화된 선택지입니다.\n   https://youtu.be/FfMCvz1fVlc\n\n6. AI 핵심 · [The AI Advantage] 2.6K뷰 · 참여율 6.9%\n   OpenAI's Most Controversial Move Ever\n   ↳ ChatGPT 데스크톱 앱에 추가된 '컴퓨터 기록' 기능은 사용자의 작업 내용을 직접 인식하고 활용할 수 있게 하여 편의성을 높였으나 사생활 보호 측면에서 논란이 되고 있습니다.\n   https://youtu.be/rzLYEIheLPs\n\n7. AI 핵심 · [Matt Wolfe] 2.3K뷰 · 참여율 3.3%\n   Did This AI Device Cross The Line...?\n   ↳ 대화형 AI 목걸이인 '프렌드 2.0'은 사용자와 양방향 대화가 가능해졌으나, 제품의 마케팅 전략과 필요성에 대해 시장에서 복합적인 반응을 보이고 있습니다.\n   https://youtu.be/MVOWGGrVTOs\n\n8. AI 핵심 · [MattVidPro] 529뷰 · 참여율 10.2%\n   Claude & GPT-5.6 Govern the Same mini Civilization!\n   ↳ 로버블을 활용해 가상의 문명을 구축한 후 클로드 오퍼스 5와 GPT-5.6 솔의 거버넌스 능력을 비교한 결과, 높은 추론 환경에서 두 모델의 서로 다른 강점과 실패 요인이 드러났습니다.\n   https://youtu.be/9D-t1AZmCCk\n\n9. AI 인접 · [월텍남 - 월스트리트 테크남] 14.1K뷰 · 참여율 3.7%\n   월가 보고서 6편 + 마이크론 반박문 = 삼전 닉스는 왜 이 가격인가?!\n   ↳ 월가 투자은행의 리포트와 마이크론의 반박문을 바탕으로 한국 반도체 주식의 현재 가치와 시장의 펀더멘털 반영 가능성을 분석했습니다.\n   https://youtu.be/LuPfezbk9To\n\n10. AI 인접 · [안될공학 - IT 테크 신기술] 4.7K뷰 · 참여율 4.1%\n   AI로 두 번째 뇌 만드는 가장 빠른 방법, 말만 해 두면 끝 |젠스파크 SecondBrain·세컨드브레인 노트 직접 체험\n   ↳ 젠스파크의 세컨드브레인 기능을 통해 과거의 프로젝트 기록과 문서를 연결하고 이를 AI가 기억하게 하여 업무 효율성을 극대화하는 방법을 직접 체험했습니다.\n   https://youtu.be/Qcbo6yI21VQ\n\n📈 스마트대디 어제 실적\n조회수 3.8K (↓16% vs 7일 평균) | 구독 +21\n시청 지속률 28.5% | 평균 시청 2분 16초\n경쟁사 평균 12.8K회 대비 내 7일 평균 -65%\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+  "video_count": 11,
+  "total_recent_video_count": 18,
   "focus_scope": "ai_priority_then_tech_fill",
-  "average_view_count": 3966.0,
-  "average_engagement_rate": 0.05788829448105055,
-  "average_like_count": 143.0,
-  "average_comment_count": 17.0,
-  "best_video_id": "qK4nV_LnXxQ",
-  "best_topic": "코딩",
+  "average_view_count": 12833.0,
+  "average_engagement_rate": 0.04054560313405319,
+  "average_like_count": 324.0,
+  "average_comment_count": 50.0,
+  "best_video_id": "sx7VBi4IKW8",
+  "best_topic": "agents",
   "summary_points": [
-    "가장 겹친 주제는 '코딩'이며 2개 영상, 평균 조회수 268, 평균 참여율 14.0%입니다.",
-    "최고 실적 영상은 'Making An Actually Fun 3D Game with AI'이며 문제 해결 훅과 워크플로우 튜토리얼 포맷 조합이 강했습니다.",
-    "반복 노출된 툴은 ChatGPT 2회, Claude 2회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
+    "가장 겹친 주제는 'agents'이며 2개 영상, 평균 조회수 9.4K, 평균 참여율 3.9%입니다.",
+    "최고 실적 영상은 '이젠 세션까지 넘나들며 작업하는 클로드 ㄷㄷ'이며 문제 해결 훅과 빌드 데모 포맷 조합이 강했습니다.",
+    "반복 노출된 툴은 Claude 2회, ChatGPT 2회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
   ],
   "action_chips": [
-    "주제: 코딩",
+    "주제: agents",
     "훅: 문제 해결",
-    "포맷: 워크플로우 튜토리얼",
-    "기준 채널: Matt Wolfe"
+    "포맷: 빌드 데모",
+    "기준 채널: 조코딩 JoCoding"
   ],
   "title_suggestions": [
-    "코딩 직접 실험 — 이게 진짜 되나?",
-    "코딩 vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
-    "코딩 써봤더니... (기대 vs 현실 솔직 후기)"
+    "agents 직접 실험 — 이게 진짜 되나?",
+    "agents vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
+    "agents 써봤더니... (기대 vs 현실 솔직 후기)"
   ],
   "recommendations": [
     {
-      "title": "코딩 직접 실험 — 이게 진짜 되나?",
-      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
-      "angle": "큰 주제 하나를 대표 제목으로 세우고, 나머지 포인트는 보조 정보처럼 정리하는 압축형 포장이 좋습니다.",
-      "thumbnail_copy": "코딩 지금 봐야 함",
-      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
-      "source_video_id": "3-WEYoWyDB8",
-      "source": "STOP LOSING On Kalshi and Polymarket! Do This Now With AI",
-      "my_channel_context": "내 7일 평균 5.2K회 · 지속률 29.6% / 경쟁사 대비 +32%"
-    },
-    {
-      "title": "코딩 vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
+      "title": "agents 직접 실험 — 이게 진짜 되나?",
       "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
       "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
-      "thumbnail_copy": "코딩 바로 해결",
+      "thumbnail_copy": "agents 바로 해결",
       "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
-      "source_video_id": "-Ye71x8Yi3g",
-      "source": "Trying Minimax M3 - Best Open Weight AI Music Model Yet!",
-      "my_channel_context": "내 7일 평균 5.2K회 · 지속률 29.6% / 경쟁사 대비 +32%"
+      "source_video_id": "LuPfezbk9To",
+      "source": "월가 보고서 6편 + 마이크론 반박문 = 삼전 닉스는 왜 이 가격인가?!",
+      "my_channel_context": "내 7일 평균 4.5K회 · 지속률 29.5% / 경쟁사 대비 -65%"
+    },
+    {
+      "title": "agents vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
+      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
+      "angle": "큰 주제 하나를 대표 제목으로 세우고, 나머지 포인트는 보조 정보처럼 정리하는 압축형 포장이 좋습니다.",
+      "thumbnail_copy": "agents 핵심 3가지",
+      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
+      "source_video_id": "Qcbo6yI21VQ",
+      "source": "AI로 두 번째 뇌 만드는 가장 빠른 방법, 말만 해 두면 끝 |젠스파크 SecondBrain·세컨드브레인 노트 직접 체험",
+      "my_channel_context": "내 7일 평균 4.5K회 · 지속률 29.5% / 경쟁사 대비 -65%"
     }
   ],
   "topic_clusters": [
     {
-      "label": "코딩",
+      "label": "agents",
       "count": 2,
-      "avg_view_count": 268,
-      "avg_engagement_rate": 0.14007386310287628,
-      "avg_like_count": 21,
-      "avg_comment_count": 12,
+      "avg_view_count": 9400,
+      "avg_engagement_rate": 0.03877050890646583,
+      "avg_like_count": 306,
+      "avg_comment_count": 48,
       "source_titles": [
-        "STOP LOSING On Kalshi and Polymarket! Do This Now With AI",
-        "Trying Minimax M3 - Best Open Weight AI Music Model Yet!"
+        "월가 보고서 6편 + 마이크론 반박문 = 삼전 닉스는 왜 이 가격인가?!",
+        "AI로 두 번째 뇌 만드는 가장 빠른 방법, 말만 해 두면 끝 |젠스파크 SecondBrain·세컨드브레인 노트 직접 체험"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/3-WEYoWyDB8/hqdefault.jpg",
-      "representative_video_id": "3-WEYoWyDB8",
-      "representative_title": "STOP LOSING On Kalshi and Polymarket! Do This Now With AI"
+      "thumbnail_url": "https://i.ytimg.com/vi/LuPfezbk9To/hqdefault.jpg",
+      "representative_video_id": "LuPfezbk9To",
+      "representative_title": "월가 보고서 6편 + 마이크론 반박문 = 삼전 닉스는 왜 이 가격인가?!"
+    },
+    {
+      "label": "클로드",
+      "count": 1,
+      "avg_view_count": 32490,
+      "avg_engagement_rate": 0.009418282548476454,
+      "avg_like_count": 278,
+      "avg_comment_count": 28,
+      "source_titles": [
+        "이젠 세션까지 넘나들며 작업하는 클로드 ㄷㄷ"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/sx7VBi4IKW8/hqdefault.jpg",
+      "representative_video_id": "sx7VBi4IKW8",
+      "representative_title": "이젠 세션까지 넘나들며 작업하는 클로드 ㄷㄷ"
+    },
+    {
+      "label": "AI로",
+      "count": 1,
+      "avg_view_count": 32219,
+      "avg_engagement_rate": 0.006611005928179025,
+      "avg_like_count": 170,
+      "avg_comment_count": 43,
+      "source_titles": [
+        "AI로 한단계 업그레이드 된 구글 번역기"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/kDTe4HO4cew/hqdefault.jpg",
+      "representative_video_id": "kDTe4HO4cew",
+      "representative_title": "AI로 한단계 업그레이드 된 구글 번역기"
     },
     {
       "label": "OpenAI",
       "count": 1,
-      "avg_view_count": 18354,
-      "avg_engagement_rate": 0.04941702081290182,
-      "avg_like_count": 784,
-      "avg_comment_count": 123,
+      "avg_view_count": 27198,
+      "avg_engagement_rate": 0.0557026251930289,
+      "avg_like_count": 1327,
+      "avg_comment_count": 188,
       "source_titles": [
-        "Making An Actually Fun 3D Game with AI"
+        "AI News: A Flood of New Models (Here's What Matters)"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/qK4nV_LnXxQ/hqdefault.jpg",
-      "representative_video_id": "qK4nV_LnXxQ",
-      "representative_title": "Making An Actually Fun 3D Game with AI"
+      "thumbnail_url": "https://i.ytimg.com/vi/NC4h5kWH_-A/hqdefault.jpg",
+      "representative_video_id": "NC4h5kWH_-A",
+      "representative_title": "AI News: A Flood of New Models (Here's What Matters)"
     },
     {
-      "label": "Claude",
+      "label": "Whisper",
       "count": 1,
-      "avg_view_count": 5699,
-      "avg_engagement_rate": 0.04141077381996842,
-      "avg_like_count": 224,
-      "avg_comment_count": 12,
+      "avg_view_count": 12859,
+      "avg_engagement_rate": 0.0682790263628587,
+      "avg_like_count": 759,
+      "avg_comment_count": 119,
       "source_titles": [
-        "\"만들었는데 안 팔린다\"는 빌더들에게. 클로드 코드로 마케팅까지 끝내는 12단계 (김형태 대표, 데일리그로스)"
+        "Trying Minimax M3 - Best Open Weight AI Music Model Yet!"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/FZzxy_0FT0o/hqdefault.jpg",
-      "representative_video_id": "FZzxy_0FT0o",
-      "representative_title": "\"만들었는데 안 팔린다\"는 빌더들에게. 클로드 코드로 마케팅까지 끝내는 12단계 (김형태 대표, 데일리그로스)"
-    },
-    {
-      "label": "진짜",
-      "count": 1,
-      "avg_view_count": 4407,
-      "avg_engagement_rate": 0.007488087134104833,
-      "avg_like_count": 30,
-      "avg_comment_count": 3,
-      "source_titles": [
-        "🚨 진짜 생물을 죽이는 바이러스를 만든 AI...ㄷㄷ"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/agX7q0ZyJOc/hqdefault.jpg",
-      "representative_video_id": "agX7q0ZyJOc",
-      "representative_title": "🚨 진짜 생물을 죽이는 바이러스를 만든 AI...ㄷㄷ"
-    },
-    {
-      "label": "당장",
-      "count": 1,
-      "avg_view_count": 3193,
-      "avg_engagement_rate": 0.008769182586908864,
-      "avg_like_count": 27,
-      "avg_comment_count": 1,
-      "source_titles": [
-        "🏃💨 당장 달려가서 레어닉 먹으세요!!!"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/S5Z7uwCnORM/hqdefault.jpg",
-      "representative_video_id": "S5Z7uwCnORM",
-      "representative_title": "🏃💨 당장 달려가서 레어닉 먹으세요!!!"
-    },
-    {
-      "label": "AI리더십",
-      "count": 1,
-      "avg_view_count": 2579,
-      "avg_engagement_rate": 0.06552927491275688,
-      "avg_like_count": 166,
-      "avg_comment_count": 3,
-      "source_titles": [
-        "How to be a leader"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/8STwRDfQVD4/hqdefault.jpg",
-      "representative_video_id": "8STwRDfQVD4",
-      "representative_title": "How to be a leader"
+      "thumbnail_url": "https://i.ytimg.com/vi/-Ye71x8Yi3g/hqdefault.jpg",
+      "representative_video_id": "-Ye71x8Yi3g",
+      "representative_title": "Trying Minimax M3 - Best Open Weight AI Music Model Yet!"
     },
     {
       "label": "Gemini",
       "count": 1,
-      "avg_view_count": 2222,
-      "avg_engagement_rate": 0.010801080108010801,
-      "avg_like_count": 22,
-      "avg_comment_count": 2,
+      "avg_view_count": 8607,
+      "avg_engagement_rate": 0.017660044150110375,
+      "avg_like_count": 118,
+      "avg_comment_count": 34,
       "source_titles": [
-        "비닐봉지 매듭까지 묶는다? 로봇 손이 정교해진 이유"
+        "클로드 소넷 왜씀? 더 싸고 강력한 구글 제미나이 3.7 등장"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/KyA2ejPjb_0/hqdefault.jpg",
-      "representative_video_id": "KyA2ejPjb_0",
-      "representative_title": "비닐봉지 매듭까지 묶는다? 로봇 손이 정교해진 이유"
+      "thumbnail_url": "https://i.ytimg.com/vi/FfMCvz1fVlc/hqdefault.jpg",
+      "representative_video_id": "FfMCvz1fVlc",
+      "representative_title": "클로드 소넷 왜씀? 더 싸고 강력한 구글 제미나이 3.7 등장"
     },
     {
-      "label": "마케팅",
+      "label": "삼성이",
       "count": 1,
-      "avg_view_count": 1487,
-      "avg_engagement_rate": 0.0121049092131809,
-      "avg_like_count": 18,
+      "avg_view_count": 3531,
+      "avg_engagement_rate": 0.006230529595015576,
+      "avg_like_count": 22,
       "avg_comment_count": 0,
       "source_titles": [
-        "제품이 좋다고 말하면 안 팔리는 이유"
+        "삼성이 엑시노스 버리고 퀄컴 선택한 이유(갤럭시 워치)"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/5JPX1HaF4J4/hqdefault.jpg",
-      "representative_video_id": "5JPX1HaF4J4",
-      "representative_title": "제품이 좋다고 말하면 안 팔리는 이유"
+      "thumbnail_url": "https://i.ytimg.com/vi/TpfLXb6dgBQ/hqdefault.jpg",
+      "representative_video_id": "TpfLXb6dgBQ",
+      "representative_title": "삼성이 엑시노스 버리고 퀄컴 선택한 이유(갤럭시 워치)"
+    },
+    {
+      "label": "ChatGPT",
+      "count": 1,
+      "avg_view_count": 2641,
+      "avg_engagement_rate": 0.0692919348731541,
+      "avg_like_count": 158,
+      "avg_comment_count": 25,
+      "source_titles": [
+        "OpenAI's Most Controversial Move Ever"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/rzLYEIheLPs/hqdefault.jpg",
+      "representative_video_id": "rzLYEIheLPs",
+      "representative_title": "OpenAI's Most Controversial Move Ever"
     }
   ],
   "video_highlights": [
     {
-      "video_id": "qK4nV_LnXxQ",
+      "video_id": "sx7VBi4IKW8",
+      "channel_name": "조코딩 JoCoding",
+      "title": "이젠 세션까지 넘나들며 작업하는 클로드 ㄷㄷ",
+      "thumbnail_url": "https://i.ytimg.com/vi/sx7VBi4IKW8/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=sx7VBi4IKW8",
+      "published_at": "2026-08-14T06:00:18Z",
+      "view_count": 32490,
+      "like_count": 278,
+      "comment_count": 28,
+      "engagement_rate": 0.009418282548476454,
+      "topic_cluster": "클로드",
+      "summary": "클로드의 새로운 기능을 통해 서로 다른 세션 간에 파일을 공유하고 소통하며 효율적으로 개발 작업을 진행할 수 있게 되었습니다.",
+      "comment_signal": "토큰 녹겠다",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "kDTe4HO4cew",
+      "channel_name": "조코딩 JoCoding",
+      "title": "AI로 한단계 업그레이드 된 구글 번역기",
+      "thumbnail_url": "https://i.ytimg.com/vi/kDTe4HO4cew/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=kDTe4HO4cew",
+      "published_at": "2026-08-14T09:00:17Z",
+      "view_count": 32219,
+      "like_count": 170,
+      "comment_count": 43,
+      "engagement_rate": 0.006611005928179025,
+      "topic_cluster": "AI로",
+      "summary": "구글 번역기에 인터넷 연결 없이 작동하는 온디바이스 AI 모델인 젬마 4 E2B가 탑재되어 성능이 향상되었습니다.",
+      "comment_signal": "가지고 다니기는 애매할 듯",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "NC4h5kWH_-A",
       "channel_name": "Matt Wolfe",
-      "title": "Making An Actually Fun 3D Game with AI",
-      "thumbnail_url": "https://i.ytimg.com/vi/qK4nV_LnXxQ/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=qK4nV_LnXxQ",
-      "published_at": "2026-08-13T01:53:16Z",
-      "view_count": 18354,
-      "like_count": 784,
-      "comment_count": 123,
-      "engagement_rate": 0.04941702081290182,
+      "title": "AI News: A Flood of New Models (Here's What Matters)",
+      "thumbnail_url": "https://i.ytimg.com/vi/NC4h5kWH_-A/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=NC4h5kWH_-A",
+      "published_at": "2026-08-14T15:00:28Z",
+      "view_count": 27198,
+      "like_count": 1327,
+      "comment_count": 188,
+      "engagement_rate": 0.0557026251930289,
       "topic_cluster": "OpenAI",
-      "summary": "클로드 코드와 GPT-5.6 등을 활용하여 3D 로그라이트 게임 '더 라이브러리언 2'를 개발한 결과, AI가 게임 개발의 생산성을 높일 수는 있으나 여전히 복잡한…",
-      "comment_signal": "26-year AAA-to-Indie game dev here. Couldn't agree more with your takes. I've been working with…",
+      "summary": "구글 제미나이 3.7 플래시, 메타의 뮤즈 글리머, 엔비디아 네모트론 3.5 등 이번 주에 발표된 다양한 최신 AI 모델과 업계 소식을 정리했습니다.",
+      "comment_signal": "best intro yet lmao",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "FZzxy_0FT0o",
-      "channel_name": "빌더 조쉬 Builder Josh",
-      "title": "\"만들었는데 안 팔린다\"는 빌더들에게. 클로드 코드로 마케팅까지 끝내는 12단계 (김형태 대표, 데일리그로스)",
-      "thumbnail_url": "https://i.ytimg.com/vi/FZzxy_0FT0o/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=FZzxy_0FT0o",
-      "published_at": "2026-08-13T04:45:59Z",
-      "view_count": 5699,
-      "like_count": 224,
-      "comment_count": 12,
-      "engagement_rate": 0.04141077381996842,
-      "topic_cluster": "Claude",
-      "summary": "클로드 코드를 활용한 마케팅 자동화 및 데이터 분석 사례를 통해 1인 마케터도 효율적인 대행 업무가 가능함을 보여주며, 기술적 도구 도입보다 고객 문제 해결에 집중…",
-      "comment_signal": "넘 유익합니다! 돈 주고 들어야 하는 거 아닌가 싶네요.... 자주 나와주세요!",
+      "video_id": "LuPfezbk9To",
+      "channel_name": "월텍남 - 월스트리트 테크남",
+      "title": "월가 보고서 6편 + 마이크론 반박문 = 삼전 닉스는 왜 이 가격인가?!",
+      "thumbnail_url": "https://i.ytimg.com/vi/LuPfezbk9To/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=LuPfezbk9To",
+      "published_at": "2026-08-14T04:13:59Z",
+      "view_count": 14082,
+      "like_count": 432,
+      "comment_count": 84,
+      "engagement_rate": 0.036642522368981675,
+      "topic_cluster": "agents",
+      "summary": "월가 투자은행의 리포트와 마이크론의 반박문을 바탕으로 한국 반도체 주식의 현재 가치와 시장의 펀더멘털 반영 가능성을 분석했습니다.",
+      "comment_signal": "마이크론 입장에서는 마이클버리가 얼마나 웃기겠나 ㅋㅋㅋㅋㅋ",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "agX7q0ZyJOc",
-      "channel_name": "조코딩 JoCoding",
-      "title": "🚨 진짜 생물을 죽이는 바이러스를 만든 AI...ㄷㄷ",
-      "thumbnail_url": "https://i.ytimg.com/vi/agX7q0ZyJOc/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=agX7q0ZyJOc",
-      "published_at": "2026-08-13T08:41:55Z",
-      "view_count": 4407,
-      "like_count": 30,
-      "comment_count": 3,
-      "engagement_rate": 0.007488087134104833,
-      "topic_cluster": "진짜",
-      "summary": "AI가 수천 개의 바이러스 게놈을 설계하고 그중 일부가 실제 박테리아를 사멸시키는 결과를 보임으로써, 생물학적 연구에서의 AI 활용에 따른 강력한 규제와 안전성의…",
-      "comment_signal": "어후.. 정신없고 ADHD걸릴거 같음",
-      "hook_type": "솔직 검증"
-    },
-    {
-      "video_id": "S5Z7uwCnORM",
-      "channel_name": "조코딩 JoCoding",
-      "title": "🏃💨 당장 달려가서 레어닉 먹으세요!!!",
-      "thumbnail_url": "https://i.ytimg.com/vi/S5Z7uwCnORM/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=S5Z7uwCnORM",
-      "published_at": "2026-08-13T10:00:03Z",
-      "view_count": 3193,
-      "like_count": 27,
-      "comment_count": 1,
-      "engagement_rate": 0.008769182586908864,
-      "topic_cluster": "당장",
-      "summary": "클라우드플레어를 통해 AI와 상호작용하는 전투용 지갑 서비스를 소개하며, 특정 플랫폼 내의 레어 닉네임 선점 기회를 강조합니다.",
-      "comment_signal": "초기 댓글 반응은 붙었지만 아직 대화가 확장되지는 않았습니다.",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "8STwRDfQVD4",
-      "channel_name": "Dan Martell",
-      "title": "How to be a leader",
-      "thumbnail_url": "https://i.ytimg.com/vi/8STwRDfQVD4/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=8STwRDfQVD4",
-      "published_at": "2026-08-13T15:03:15Z",
-      "view_count": 2579,
-      "like_count": 166,
-      "comment_count": 3,
-      "engagement_rate": 0.06552927491275688,
-      "topic_cluster": "AI리더십",
-      "summary": "진정한 리더십은 구성원에게 명확한 기대치를 설정하고 그들의 능력을 신뢰하여 스스로 책임감을 가지고 업무를 수행하도록 하는 환경을 조성하는 데 있습니다.",
-      "comment_signal": "Hey dan I'm Krishay and I love the content you have been making it has helped me not a lot but…",
+      "video_id": "-Ye71x8Yi3g",
+      "channel_name": "MattVidPro",
+      "title": "Trying Minimax M3 - Best Open Weight AI Music Model Yet!",
+      "thumbnail_url": "https://i.ytimg.com/vi/-Ye71x8Yi3g/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=-Ye71x8Yi3g",
+      "published_at": "2026-08-13T23:37:41Z",
+      "view_count": 12859,
+      "like_count": 759,
+      "comment_count": 119,
+      "engagement_rate": 0.0682790263628587,
+      "topic_cluster": "Whisper",
+      "summary": "오픈 웨이트 기반의 AI 음악 생성 모델인 미니맥스 M3를 테스트한 결과, 로컬 환경에서 구동 가능하며 음악적 품질과 가사 표현력이 뛰어나 실용적인 수준임을 확인했…",
+      "comment_signal": "Ok, that is the best intro so far",
       "hook_type": "문제 해결"
     }
   ]
