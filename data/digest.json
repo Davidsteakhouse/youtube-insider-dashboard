@@ -1,251 +1,239 @@
 {
-  "digest_date": "2026-08-21",
-  "generated_at": "2026-08-20T23:35:45+00:00",
-  "summary": "최근 24시간 영상 13개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'Claude'입니다. 특히 '359만원짜리 갤럭시 Z 트라이폴드 깨먹으면 수리비 얼마나 나올까?'는 조회수 251.9K, 참여율 1.6%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "'Claude' 주제가 2개 영상으로 가장 많이 다뤄졌습니다. Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n[내 채널] 7일 평균 3.7K회 · 지속률 29.3% / 경쟁사 평균 35.2K회 (격차 -89%)",
-  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 08/21\n\n📊 총 10개 | AI 핵심 8 · 인접 AI 2 · 일반 테크 보충 0\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 10 · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [조코딩 JoCoding] 23.5K뷰 · 참여율 1.6%\n   X 알고리즘을 냅다 공개해버린 머스크\n   ↳ 일론 머스크가 X의 알고리즘을 공개하며 플랫폼 내 콘텐츠 노출 방식과 정부의 검열 요구 사항을 투명하게 드러냈다.\n   https://youtu.be/ySGiw27EMts\n\n2. AI 핵심 · [조코딩 JoCoding] 19.4K뷰 · 참여율 0.5%\n   이젠 공짜 리셋은 안해준다는 오픈AI..?\n   ↳ 오픈AI가 사용량 한도 리셋을 위해 80달러의 비용을 청구하기 시작했다는 소식이 전해지며 화제가 되고 있다.\n   https://youtu.be/1jYthEo0pFk\n\n3. AI 핵심 · [조코딩 JoCoding] 18.7K뷰 · 참여율 0.8%\n   미친 속도로 결과물이 나온다는 GPT 근황\n   ↳ GPT가 셀레브라스와의 협업을 통해 초당 최대 750개의 출력을 생성하며 기존보다 14배 빠른 속도로 동작하는 기술을 제한적 프리뷰로 공개했다.\n   https://youtu.be/YvzcLPUTrOg\n\n4. AI 핵심 · [Matt Wolfe] 6.0K뷰 · 참여율 3.7%\n   Claude’s Text Watermark Could Follow It Everywhere\n   ↳ 앤스로픽이 클로드 생성 텍스트에 수정되어도 유지되는 통계적 패턴 기반의 워터마크를 도입해 AI 작성 여부를 탐지하려 한다.\n   https://youtu.be/O-8TbMFOAfg\n\n5. AI 핵심 · [빌더 조쉬 Builder Josh] 2.3K뷰 · 참여율 4.1%\n   GPT·Claude가 우리 브랜드를 추천하게 만드는 GEO 최적화, SEO 전문가에게 처음부터 배웠습니다 (헤일로X 이재철 대표님)\n   ↳ AI 검색 엔진에 최적화된 콘텐츠를 제공하는 GEO 전략을 위해 전문성 있는 주제 권위 구축과 기술적 SEO 인프라 마련의 중요성을 강조한다.\n   https://youtu.be/6S_3OfKM-No\n\n6. AI 핵심 · [빌더 조쉬 Builder Josh] 1.6K뷰 · 참여율 0.6%\n   검색이 구글에서 GPT로 넘어갔다, GEO가 필요한 이유\n   ↳ 검색의 중심이 구글에서 GPT로 이동함에 따라 기존 SEO처럼 AI 답변 내에 자사 브랜드가 인용되도록 최적화하는 GEO 전략이 필수적이다.\n   https://youtu.be/_d2HyrMAWAs\n\n7. AI 핵심 · [빌더 조쉬 Builder Josh] 1.5K뷰 · 참여율 0.3%\n   AI로 양산한 콘텐츠, 사람도 GPT도 다 알아봅니다\n   ↳ 단순히 AI로 양산한 콘텐츠는 전략이 부족해 검색 점유율 확보가 어려우며, 사람과 AI 모두 콘텐츠의 진위와 권위를 판단할 수 있다.\n   https://youtu.be/3Up3qSO8nZE\n\n8. AI 핵심 · [조코딩 JoCoding] 1.3K뷰 · 참여율 2.1%\n   삼일PwC는 Codex를 어떻게 활용할까? | OpenAI × AX 인재전쟁\n   ↳ 삼일PwC는 ChatGPT와 Codex를 활용해 컨설팅 업무의 밸류체인을 효율화하고 AI 에이전트를 직접 구현함으로써 실무적 성과를 내고 있다.\n   https://youtu.be/iXt4pp8BI8A\n\n9. AI 인접 · [ITSub잇섭] 251.9K뷰 · 참여율 1.6%\n   359만원짜리 갤럭시 Z 트라이폴드 깨먹으면 수리비 얼마나 나올까?\n   ↳ 갤럭시 Z 트라이폴드의 메인 디스플레이 수리비가 매우 고가이나, 프리미엄 고객을 위한 1회 50% 할인 혜택이 지원된다.\n   https://youtu.be/48JWie_aMxI\n\n10. AI 인접 · [주연 ZUYONI] 110.4K뷰 · 참여율 1.9%\n   아싸 꽁돈 생겼다 히히 (서랍 속에 굴러다니는 아이폰, 돈으로 바꿀 수 있다고?)\n   ↳ 이마트 에이스토어를 이용하면 서랍 속 방치된 애플 기기를 즉시 현금으로 보상받고 안전하게 데이터를 삭제할 수 있다.\n   https://youtu.be/2nszYxBxreA\n\n📈 스마트대디 어제 실적\n조회수 3.0K (↓18% vs 7일 평균) | 구독 -7\n시청 지속률 28.6% | 평균 시청 2분 14초\n경쟁사 평균 35.2K회 대비 내 7일 평균 -89%\n\n💡 VS 각도: Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
-  "video_count": 13,
-  "total_recent_video_count": 16,
+  "digest_date": "2026-08-22",
+  "generated_at": "2026-08-21T23:34:00+00:00",
+  "summary": "최근 24시간 영상 10개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'OpenAI'입니다. 특히 'AI News: OpenAI Pauses, AI Cancer Vaccine, and Qwen3.8'는 조회수 19.3K, 참여율 6.0%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "'OpenAI' 주제가 2개 영상으로 가장 많이 다뤄졌습니다. 일반인 관점 직접 실험 or VS 비교 각도로 차별화할 영역이 있습니다.\n[내 채널] 7일 평균 3.3K회 · 지속률 29.4% / 경쟁사 평균 6.6K회 (격차 -50%)",
+  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 08/22\n\n📊 총 10개 | AI 핵심 10 · 인접 AI 0 · 일반 테크 보충 0\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 10 · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [Matt Wolfe] 19.3K뷰 · 참여율 6.0%\n   AI News: OpenAI Pauses, AI Cancer Vaccine, and Qwen3.8\n   ↳ 이번 주 주요 AI 소식으로 OpenAI의 청소년 대상 기능 도입, mRNA 암 백신 임상 성공, 알리바바의 Qwen3.8 오픈 웨이트 공개 및 다양한 AI 에이전트 도구 출시 소식을 다루었다.\n   https://youtu.be/EfGF7QbJItA\n\n2. AI 핵심 · [조코딩 JoCoding] 14.1K뷰 · 참여율 1.1%\n   전문가들도 Suno 쓰는게 개꿀인 이유\n   ↳ 음악 생성 AI인 Suno가 클로드 코드와 연동되어 자연어 설명만으로 오디오 효과 분리 및 특정 구간 편곡이 가능한 기능을 제공하며, 전문가들에게도 유용한 워크플로우를 제시한다.\n   https://youtu.be/09omWCAaecY\n\n3. AI 핵심 · [조코딩 JoCoding] 13.7K뷰 · 참여율 0.5%\n   결국 중국에 한 수 접은 애플...그런데 성능이?\n   ↳ 애플 인텔리전스의 중국 내 성능이 오픈 웨이트 모델 경쟁력을 바탕으로 미국 모델보다 뛰어날 가능성이 제기되며, AI 시장에서의 중국 기술력 성장을 분석한다.\n   https://youtu.be/EUyJRKopRUY\n\n4. AI 핵심 · [AI Samson] 7.1K뷰 · 참여율 4.9%\n   This AI Video Model is Faster And Less Restricted. (Full Testing)\n   ↳ 오픈 웨이트 AI 비디오 모델인 LTX 2.5를 실사, 물리, 액션 등 다양한 조건에서 테스트한 결과, 속도는 매우 빠르지만 고도의 복잡한 영상에서는 한계가 있음을 확인했다.\n   https://youtu.be/AS42UINNzR8\n\n5. AI 핵심 · [tef] 6.1K뷰 · 참여율 8.4%\n   I Made an Anime w/ ONLY AI (Peak)\n   ↳ ChatGPT로 애니메이션 플롯을 설계하고 다양한 AI 도구를 활용하여 수준 높은 퀄리티의 애니메이션 작품을 제작하는 과정을 선보인다.\n   https://youtu.be/7EqDp2Q90W8\n\n6. AI 핵심 · [The AI Advantage] 2.6K뷰 · 참여율 4.4%\n   Claude vs. ChatGPT Just Got Serious\n   ↳ Claude의 커넥터 업데이트와 ChatGPT의 기능을 비교하여, 각 AI 도구가 사용자의 작업 효율성 측면에서 어떻게 차별화되는지 분석한다.\n   https://youtu.be/ARnUlEyVRoY\n\n7. AI 핵심 · [조코딩 JoCoding] 1.3K뷰 · 참여율 2.1%\n   AI 시대, 기업은 어떤 인재를 뽑을까? AX 인재전쟁 본선 스케치 | OpenAI × 조코딩AX파트너스\n   ↳ OpenAI의 후원으로 진행된 AX 인재전쟁 본선에서 참가자들이 AI 도구를 활용해 실제 기업 실무 문제를 해결하며, AI 시대에 요구되는 새로운 인재상의 기준을 제시한다.\n   https://youtu.be/IoI3LQUctkM\n\n8. AI 핵심 · [Matt Wolfe] 1.2K뷰 · 참여율 2.5%\n   This Pyramid Could Be Your Next Intern\n   ↳ AI 에이전트 실행에 특화된 소형 피라미드 형태의 하드웨어 'Autonomous Intern 2'를 소개하며, 로컬 환경에서 다양한 에이전트 프레임워크를 운용할 수 있는 기능을 설명한다.\n   https://youtu.be/1m5Ee9QbLF0\n\n9. AI 핵심 · [알린 ALINN] 721뷰 · 참여율 3.6%\n   진짜 돈 되는 AI는 여기에 있었습니다. 외주비 천만 원 넘게 아껴준 AI로 콘텐츠 제작하는 방법 공개\n   ↳ Claude에 Higgsfield MCP를 연결하여 제품 상세 페이지부터 광고 영상, 랜딩 페이지까지 제작하는 방법을 통해 콘텐츠 제작 비용을 절감하는 실무 노하우를 공개한다.\n   https://youtu.be/V2b7CXqMMa4\n\n10. AI 핵심 · [빌더 조쉬 Builder Josh] 0뷰 · 참여율 200.0%\n   현업 개발자가 알려주는코덱스 실무 활용법\n   ↳ 현업 개발자가 실무 환경에서 코덱스를 활용하여 생산성을 높이고 효율적으로 협업하는 구체적인 방법론을 설명한다.\n   https://youtu.be/qyOEjo7Qo6U\n\n📈 스마트대디 어제 실적\n조회수 2.9K (↓12% vs 7일 평균) | 구독 +7\n시청 지속률 28.9% | 평균 시청 2분 15초\n경쟁사 평균 6.6K회 대비 내 7일 평균 -50%\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+  "video_count": 10,
+  "total_recent_video_count": 13,
   "focus_scope": "ai_priority_then_tech_fill",
-  "average_view_count": 35212.0,
-  "average_engagement_rate": 0.020549951874082366,
-  "average_like_count": 522.0,
-  "average_comment_count": 73.0,
-  "best_video_id": "48JWie_aMxI",
-  "best_topic": "Claude",
+  "average_view_count": 6611.0,
+  "average_engagement_rate": 0.23350693013693397,
+  "average_like_count": 242.0,
+  "average_comment_count": 2.0,
+  "best_video_id": "EfGF7QbJItA",
+  "best_topic": "OpenAI",
   "summary_points": [
-    "가장 겹친 주제는 'Claude'이며 2개 영상, 평균 조회수 4.2K, 평균 참여율 3.9%입니다.",
-    "최고 실적 영상은 '359만원짜리 갤럭시 Z 트라이폴드 깨먹으면 수리비 얼마나 나올까?'이며 수익 훅과 사례 분석 포맷 조합이 강했습니다.",
-    "반복 노출된 툴은 Claude 2회, OpenAI 1회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
+    "가장 겹친 주제는 'OpenAI'이며 2개 영상, 평균 조회수 10.3K, 평균 참여율 4.1%입니다.",
+    "최고 실적 영상은 'AI News: OpenAI Pauses, AI Cancer Vaccine, and Qwen3.8'이며 문제 해결 훅과 빌드 데모 포맷 조합이 강했습니다.",
+    "반복 노출된 툴은 Claude 4회, ChatGPT 3회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
   ],
   "action_chips": [
-    "주제: Claude",
-    "훅: 수익",
-    "포맷: 사례 분석",
-    "기준 채널: ITSub잇섭"
+    "주제: OpenAI",
+    "훅: 문제 해결",
+    "포맷: 빌드 데모",
+    "기준 채널: Matt Wolfe"
   ],
   "title_suggestions": [
-    "Claude vs ChatGPT, 일반인이 직접 써보니 이게 달랐다",
-    "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
-    "AI 비서 대결: Claude가 진짜 강한 상황은 따로 있었다"
+    "OpenAI 직접 실험 — 이게 진짜 되나?",
+    "OpenAI vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
+    "OpenAI 써봤더니... (기대 vs 현실 솔직 후기)"
   ],
   "recommendations": [
     {
-      "title": "Claude vs ChatGPT, 일반인이 직접 써보니 이게 달랐다",
-      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "Claude 지금 봐야 함",
-      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
-      "source_video_id": "O-8TbMFOAfg",
-      "source": "Claude’s Text Watermark Could Follow It Everywhere",
-      "my_channel_context": "내 7일 평균 3.7K회 · 지속률 29.3% / 경쟁사 대비 -89%"
+      "title": "OpenAI 직접 실험 — 이게 진짜 되나?",
+      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
+      "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
+      "thumbnail_copy": "OpenAI 바로 해결",
+      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
+      "source_video_id": "EfGF7QbJItA",
+      "source": "AI News: OpenAI Pauses, AI Cancer Vaccine, and Qwen3.8",
+      "my_channel_context": "내 7일 평균 3.3K회 · 지속률 29.4% / 경쟁사 대비 -50%"
     },
     {
-      "title": "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
-      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "Claude 바로 해결",
-      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
-      "source_video_id": "6S_3OfKM-No",
-      "source": "GPT·Claude가 우리 브랜드를 추천하게 만드는 GEO 최적화, SEO 전문가에게 처음부터 배웠습니다 (헤일로X 이재철 대표님)",
-      "my_channel_context": "내 7일 평균 3.7K회 · 지속률 29.3% / 경쟁사 대비 -89%"
+      "title": "OpenAI vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
+      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
+      "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
+      "thumbnail_copy": "OpenAI 바로 해결",
+      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
+      "source_video_id": "IoI3LQUctkM",
+      "source": "AI 시대, 기업은 어떤 인재를 뽑을까? AX 인재전쟁 본선 스케치 | OpenAI × 조코딩AX파트너스",
+      "my_channel_context": "내 7일 평균 3.3K회 · 지속률 29.4% / 경쟁사 대비 -50%"
     }
   ],
   "topic_clusters": [
     {
+      "label": "OpenAI",
+      "count": 2,
+      "avg_view_count": 10294,
+      "avg_engagement_rate": 0.040530605728134675,
+      "avg_like_count": 594,
+      "avg_comment_count": 4,
+      "source_titles": [
+        "AI News: OpenAI Pauses, AI Cancer Vaccine, and Qwen3.8",
+        "AI 시대, 기업은 어떤 인재를 뽑을까? AX 인재전쟁 본선 스케치 | OpenAI × 조코딩AX파트너스"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/EfGF7QbJItA/hqdefault.jpg",
+      "representative_video_id": "EfGF7QbJItA",
+      "representative_title": "AI News: OpenAI Pauses, AI Cancer Vaccine, and Qwen3.8"
+    },
+    {
+      "label": "ChatGPT",
+      "count": 2,
+      "avg_view_count": 4364,
+      "avg_engagement_rate": 0.06423573235408063,
+      "avg_like_count": 310,
+      "avg_comment_count": 6,
+      "source_titles": [
+        "I Made an Anime w/ ONLY AI (Peak)",
+        "Claude vs. ChatGPT Just Got Serious"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/7EqDp2Q90W8/hqdefault.jpg",
+      "representative_video_id": "7EqDp2Q90W8",
+      "representative_title": "I Made an Anime w/ ONLY AI (Peak)"
+    },
+    {
       "label": "Claude",
       "count": 2,
-      "avg_view_count": 4156,
-      "avg_engagement_rate": 0.03890945108839865,
-      "avg_like_count": 133,
-      "avg_comment_count": 25,
+      "avg_view_count": 974,
+      "avg_engagement_rate": 0.030652663013277792,
+      "avg_like_count": 28,
+      "avg_comment_count": 1,
       "source_titles": [
-        "Claude’s Text Watermark Could Follow It Everywhere",
-        "GPT·Claude가 우리 브랜드를 추천하게 만드는 GEO 최적화, SEO 전문가에게 처음부터 배웠습니다 (헤일로X 이재철 대표님)"
+        "This Pyramid Could Be Your Next Intern",
+        "진짜 돈 되는 AI는 여기에 있었습니다. 외주비 천만 원 넘게 아껴준 AI로 콘텐츠 제작하는 방법 공개"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/O-8TbMFOAfg/hqdefault.jpg",
-      "representative_video_id": "O-8TbMFOAfg",
-      "representative_title": "Claude’s Text Watermark Could Follow It Everywhere"
+      "thumbnail_url": "https://i.ytimg.com/vi/1m5Ee9QbLF0/hqdefault.jpg",
+      "representative_video_id": "1m5Ee9QbLF0",
+      "representative_title": "This Pyramid Could Be Your Next Intern"
     },
     {
-      "label": "갤럭시Z트라이폴드",
+      "label": "전문가들도",
       "count": 1,
-      "avg_view_count": 251939,
-      "avg_engagement_rate": 0.01559504483228083,
-      "avg_like_count": 3270,
-      "avg_comment_count": 659,
+      "avg_view_count": 14062,
+      "avg_engagement_rate": 0.01052481866021903,
+      "avg_like_count": 148,
+      "avg_comment_count": 0,
       "source_titles": [
-        "359만원짜리 갤럭시 Z 트라이폴드 깨먹으면 수리비 얼마나 나올까?"
+        "전문가들도 Suno 쓰는게 개꿀인 이유"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/48JWie_aMxI/hqdefault.jpg",
-      "representative_video_id": "48JWie_aMxI",
-      "representative_title": "359만원짜리 갤럭시 Z 트라이폴드 깨먹으면 수리비 얼마나 나올까?"
+      "thumbnail_url": "https://i.ytimg.com/vi/09omWCAaecY/hqdefault.jpg",
+      "representative_video_id": "09omWCAaecY",
+      "representative_title": "전문가들도 Suno 쓰는게 개꿀인 이유"
     },
     {
-      "label": "아이폰",
+      "label": "agents",
       "count": 1,
-      "avg_view_count": 110361,
-      "avg_engagement_rate": 0.01872038129411658,
-      "avg_like_count": 1912,
-      "avg_comment_count": 154,
+      "avg_view_count": 13697,
+      "avg_engagement_rate": 0.004891582098269694,
+      "avg_like_count": 66,
+      "avg_comment_count": 1,
       "source_titles": [
-        "아싸 꽁돈 생겼다 히히 (서랍 속에 굴러다니는 아이폰, 돈으로 바꿀 수 있다고?)"
+        "결국 중국에 한 수 접은 애플...그런데 성능이?"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/2nszYxBxreA/hqdefault.jpg",
-      "representative_video_id": "2nszYxBxreA",
-      "representative_title": "아싸 꽁돈 생겼다 히히 (서랍 속에 굴러다니는 아이폰, 돈으로 바꿀 수 있다고?)"
+      "thumbnail_url": "https://i.ytimg.com/vi/EUyJRKopRUY/hqdefault.jpg",
+      "representative_video_id": "EUyJRKopRUY",
+      "representative_title": "결국 중국에 한 수 접은 애플...그런데 성능이?"
     },
     {
-      "label": "X",
+      "label": "코딩",
       "count": 1,
-      "avg_view_count": 23548,
-      "avg_engagement_rate": 0.01588245286223883,
-      "avg_like_count": 363,
-      "avg_comment_count": 11,
+      "avg_view_count": 7088,
+      "avg_engagement_rate": 0.04881489841986456,
+      "avg_like_count": 344,
+      "avg_comment_count": 2,
       "source_titles": [
-        "X 알고리즘을 냅다 공개해버린 머스크"
+        "This AI Video Model is Faster And Less Restricted. (Full Testing)"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/ySGiw27EMts/hqdefault.jpg",
-      "representative_video_id": "ySGiw27EMts",
-      "representative_title": "X 알고리즘을 냅다 공개해버린 머스크"
+      "thumbnail_url": "https://i.ytimg.com/vi/AS42UINNzR8/hqdefault.jpg",
+      "representative_video_id": "AS42UINNzR8",
+      "representative_title": "This AI Video Model is Faster And Less Restricted. (Full Testing)"
     },
     {
-      "label": "이젠",
+      "label": "현업",
       "count": 1,
-      "avg_view_count": 19373,
-      "avg_engagement_rate": 0.0048004955350229705,
-      "avg_like_count": 76,
-      "avg_comment_count": 17,
+      "avg_view_count": 0,
+      "avg_engagement_rate": 2.0,
+      "avg_like_count": 2,
+      "avg_comment_count": 0,
       "source_titles": [
-        "이젠 공짜 리셋은 안해준다는 오픈AI..?"
+        "현업 개발자가 알려주는코덱스 실무 활용법"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/1jYthEo0pFk/hqdefault.jpg",
-      "representative_video_id": "1jYthEo0pFk",
-      "representative_title": "이젠 공짜 리셋은 안해준다는 오픈AI..?"
-    },
-    {
-      "label": "미친",
-      "count": 1,
-      "avg_view_count": 18661,
-      "avg_engagement_rate": 0.00750227747709126,
-      "avg_like_count": 131,
-      "avg_comment_count": 9,
-      "source_titles": [
-        "미친 속도로 결과물이 나온다는 GPT 근황"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/YvzcLPUTrOg/hqdefault.jpg",
-      "representative_video_id": "YvzcLPUTrOg",
-      "representative_title": "미친 속도로 결과물이 나온다는 GPT 근황"
-    },
-    {
-      "label": "금융",
-      "count": 1,
-      "avg_view_count": 9980,
-      "avg_engagement_rate": 0.035270541082164326,
-      "avg_like_count": 339,
-      "avg_comment_count": 13,
-      "source_titles": [
-        "Ranking financial decisions to make in your 20s"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/t4QvMbkGmEo/hqdefault.jpg",
-      "representative_video_id": "t4QvMbkGmEo",
-      "representative_title": "Ranking financial decisions to make in your 20s"
-    },
-    {
-      "label": "Arc",
-      "count": 1,
-      "avg_view_count": 7323,
-      "avg_engagement_rate": 0.053393417998088215,
-      "avg_like_count": 363,
-      "avg_comment_count": 28,
-      "source_titles": [
-        "GPU는 왜 AI 시대의 왕이 됐을까? 소프트웨어는 칩을 타고 흐른다 | CPU·GPU·CUDA 권력 이동 [패치의 칩문학 시즌1 - 1편]"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/w9_GrgPh76k/hqdefault.jpg",
-      "representative_video_id": "w9_GrgPh76k",
-      "representative_title": "GPU는 왜 AI 시대의 왕이 됐을까? 소프트웨어는 칩을 타고 흐른다 | CPU·GPU·CUDA 권력 이동 [패치의 칩문학 시즌1 - 1편]"
+      "thumbnail_url": "https://i.ytimg.com/vi/qyOEjo7Qo6U/hqdefault_live.jpg",
+      "representative_video_id": "qyOEjo7Qo6U",
+      "representative_title": "현업 개발자가 알려주는코덱스 실무 활용법"
     }
   ],
   "video_highlights": [
     {
-      "video_id": "48JWie_aMxI",
-      "channel_name": "ITSub잇섭",
-      "title": "359만원짜리 갤럭시 Z 트라이폴드 깨먹으면 수리비 얼마나 나올까?",
-      "thumbnail_url": "https://i.ytimg.com/vi/48JWie_aMxI/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=48JWie_aMxI",
-      "published_at": "2026-08-20T11:45:23Z",
-      "view_count": 251939,
-      "like_count": 3270,
-      "comment_count": 659,
-      "engagement_rate": 0.01559504483228083,
-      "topic_cluster": "갤럭시Z트라이폴드",
-      "summary": "갤럭시 Z 트라이폴드의 메인 디스플레이 수리비가 매우 고가이나, 프리미엄 고객을 위한 1회 50% 할인 혜택이 지원된다.",
-      "comment_signal": "※ MD님이 본인 실수로 파손된 것이다보니 처음 저에게 설명을 해주실 때 긴장을 하신 것 같습니다. 영상을 초반만 보신 분들이 혹시 계실까봐 오해를 방지하기 위해 '책상…",
-      "hook_type": "수익"
+      "video_id": "EfGF7QbJItA",
+      "channel_name": "Matt Wolfe",
+      "title": "AI News: OpenAI Pauses, AI Cancer Vaccine, and Qwen3.8",
+      "thumbnail_url": "https://i.ytimg.com/vi/EfGF7QbJItA/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=EfGF7QbJItA",
+      "published_at": "2026-08-21T15:00:23Z",
+      "view_count": 19325,
+      "like_count": 1162,
+      "comment_count": 7,
+      "engagement_rate": 0.06049159120310479,
+      "topic_cluster": "OpenAI",
+      "summary": "이번 주 주요 AI 소식으로 OpenAI의 청소년 대상 기능 도입, mRNA 암 백신 임상 성공, 알리바바의 Qwen3.8 오픈 웨이트 공개 및 다양한 AI 에이전…",
+      "comment_signal": "You’ve mentioned a lot in recent videos how the sentiment online around ai has gotten so negati…",
+      "hook_type": "문제 해결"
     },
     {
-      "video_id": "2nszYxBxreA",
-      "channel_name": "주연 ZUYONI",
-      "title": "아싸 꽁돈 생겼다 히히 (서랍 속에 굴러다니는 아이폰, 돈으로 바꿀 수 있다고?)",
-      "thumbnail_url": "https://i.ytimg.com/vi/2nszYxBxreA/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=2nszYxBxreA",
-      "published_at": "2026-08-20T11:34:46Z",
-      "view_count": 110361,
-      "like_count": 1912,
-      "comment_count": 154,
-      "engagement_rate": 0.01872038129411658,
-      "topic_cluster": "아이폰",
-      "summary": "이마트 에이스토어를 이용하면 서랍 속 방치된 애플 기기를 즉시 현금으로 보상받고 안전하게 데이터를 삭제할 수 있다.",
-      "comment_signal": "당근 팔고 한참뒤에 뭐가 안되요~ 문제가 생겼어어요~ 이런 말에 시달릴 바엔 ㅎㅎ",
-      "hook_type": "수익"
-    },
-    {
-      "video_id": "ySGiw27EMts",
+      "video_id": "09omWCAaecY",
       "channel_name": "조코딩 JoCoding",
-      "title": "X 알고리즘을 냅다 공개해버린 머스크",
-      "thumbnail_url": "https://i.ytimg.com/vi/ySGiw27EMts/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=ySGiw27EMts",
-      "published_at": "2026-08-20T06:00:22Z",
-      "view_count": 23548,
-      "like_count": 363,
+      "title": "전문가들도 Suno 쓰는게 개꿀인 이유",
+      "thumbnail_url": "https://i.ytimg.com/vi/09omWCAaecY/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=09omWCAaecY",
+      "published_at": "2026-08-21T06:00:01Z",
+      "view_count": 14062,
+      "like_count": 148,
+      "comment_count": 0,
+      "engagement_rate": 0.01052481866021903,
+      "topic_cluster": "전문가들도",
+      "summary": "음악 생성 AI인 Suno가 클로드 코드와 연동되어 자연어 설명만으로 오디오 효과 분리 및 특정 구간 편곡이 가능한 기능을 제공하며, 전문가들에게도 유용한 워크플로…",
+      "comment_signal": "이 또한 신창섭의 은혜겠지요",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "EUyJRKopRUY",
+      "channel_name": "조코딩 JoCoding",
+      "title": "결국 중국에 한 수 접은 애플...그런데 성능이?",
+      "thumbnail_url": "https://i.ytimg.com/vi/EUyJRKopRUY/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=EUyJRKopRUY",
+      "published_at": "2026-08-21T09:00:21Z",
+      "view_count": 13697,
+      "like_count": 66,
+      "comment_count": 1,
+      "engagement_rate": 0.004891582098269694,
+      "topic_cluster": "agents",
+      "summary": "애플 인텔리전스의 중국 내 성능이 오픈 웨이트 모델 경쟁력을 바탕으로 미국 모델보다 뛰어날 가능성이 제기되며, AI 시장에서의 중국 기술력 성장을 분석한다.",
+      "comment_signal": "근데 구글 요즘 제미나이 뭐함? 코딩에이전트 성능 너무 끔찍해서 그냥 유기했는데 아직도 그대로인것같은데 ㅋㅋㅋ",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "AS42UINNzR8",
+      "channel_name": "AI Samson",
+      "title": "This AI Video Model is Faster And Less Restricted. (Full Testing)",
+      "thumbnail_url": "https://i.ytimg.com/vi/AS42UINNzR8/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=AS42UINNzR8",
+      "published_at": "2026-08-21T13:41:35Z",
+      "view_count": 7088,
+      "like_count": 344,
+      "comment_count": 2,
+      "engagement_rate": 0.04881489841986456,
+      "topic_cluster": "코딩",
+      "summary": "오픈 웨이트 AI 비디오 모델인 LTX 2.5를 실사, 물리, 액션 등 다양한 조건에서 테스트한 결과, 속도는 매우 빠르지만 고도의 복잡한 영상에서는 한계가 있음을…",
+      "comment_signal": "Sorry but the identity retained is much better in minimax with ref images, i tried LTX 2.5 and…",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "7EqDp2Q90W8",
+      "channel_name": "tef",
+      "title": "I Made an Anime w/ ONLY AI (Peak)",
+      "thumbnail_url": "https://i.ytimg.com/vi/7EqDp2Q90W8/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=7EqDp2Q90W8",
+      "published_at": "2026-08-21T15:35:49Z",
+      "view_count": 6134,
+      "like_count": 505,
       "comment_count": 11,
-      "engagement_rate": 0.01588245286223883,
-      "topic_cluster": "X",
-      "summary": "일론 머스크가 X의 알고리즘을 공개하며 플랫폼 내 콘텐츠 노출 방식과 정부의 검열 요구 사항을 투명하게 드러냈다.",
-      "comment_signal": "일론형 어쩌다 완전 반트럼프가 돼버렸냐 ㅋㅋ",
-      "hook_type": "긴급성"
-    },
-    {
-      "video_id": "1jYthEo0pFk",
-      "channel_name": "조코딩 JoCoding",
-      "title": "이젠 공짜 리셋은 안해준다는 오픈AI..?",
-      "thumbnail_url": "https://i.ytimg.com/vi/1jYthEo0pFk/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=1jYthEo0pFk",
-      "published_at": "2026-08-20T09:00:20Z",
-      "view_count": 19373,
-      "like_count": 76,
-      "comment_count": 17,
-      "engagement_rate": 0.0048004955350229705,
-      "topic_cluster": "이젠",
-      "summary": "오픈AI가 사용량 한도 리셋을 위해 80달러의 비용을 청구하기 시작했다는 소식이 전해지며 화제가 되고 있다.",
-      "comment_signal": "오픈ai 사용량 어마어마하게 많던데 이번에 그거땜에 클로드에서 넘어감",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "YvzcLPUTrOg",
-      "channel_name": "조코딩 JoCoding",
-      "title": "미친 속도로 결과물이 나온다는 GPT 근황",
-      "thumbnail_url": "https://i.ytimg.com/vi/YvzcLPUTrOg/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=YvzcLPUTrOg",
-      "published_at": "2026-08-20T10:00:02Z",
-      "view_count": 18661,
-      "like_count": 131,
-      "comment_count": 9,
-      "engagement_rate": 0.00750227747709126,
-      "topic_cluster": "미친",
-      "summary": "GPT가 셀레브라스와의 협업을 통해 초당 최대 750개의 출력을 생성하며 기존보다 14배 빠른 속도로 동작하는 기술을 제한적 프리뷰로 공개했다.",
-      "comment_signal": "이러려고 요즘 속터지게 돌아가는 거였나",
-      "hook_type": "문제 해결"
+      "engagement_rate": 0.08412129116400391,
+      "topic_cluster": "ChatGPT",
+      "summary": "ChatGPT로 애니메이션 플롯을 설계하고 다양한 AI 도구를 활용하여 수준 높은 퀄리티의 애니메이션 작품을 제작하는 과정을 선보인다.",
+      "comment_signal": "It went from dbz to invincible.",
+      "hook_type": "수익"
     }
   ]
 }
