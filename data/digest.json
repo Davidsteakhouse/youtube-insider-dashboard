@@ -1,167 +1,137 @@
 {
-  "digest_date": "2026-08-23",
-  "generated_at": "2026-08-22T23:33:05+00:00",
-  "summary": "최근 24시간 영상 4개를 기준으로 보면, 오늘 가장 먼저 볼 축은 '갤럭시'입니다. 특히 '갤럭시 워치 언제 이렇게 좋아짐? 이 3가지는 꼭 써보세요!'는 조회수 27.0K, 참여율 2.2%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "'갤럭시' 주제가 1개 영상으로 가장 많이 다뤄졌습니다. 오늘 수집 영상 4개는 주로 '뉴스 분석' 포맷이라, VS 비교·직접 실험 각도는 아직 비어 있습니다. 일반인 관점 직접 실험 or VS 비교 각도로 차별화할 영역이 있습니다.\n[내 채널] 7일 평균 3.1K회 · 지속률 29.5% / 경쟁사 평균 8.9K회 (격차 -65%)",
-  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 08/23\n\n📊 총 5개 | AI 핵심 2 · 인접 AI 2 · 일반 테크 보충 1\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 5 (최대 10) · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [Matt Wolfe] 3.3K뷰 · 참여율 3.8%\n   The Wildest Smartphone I’ve Ever Seen 🤯\n   ↳ 아너(HONOR)에서 선보인 신형 스마트폰은 200MP 카메라를 전동 티타늄 짐벌에 탑재해 물리적으로 돌출 및 회전이 가능한 독특한 구조를 갖추고 있다. 스냅드래곤 8 엘리트 칩셋을 탑재한 이 제품은 혁신적인 촬영…\n   https://youtu.be/aOzaO5AAGjk\n\n2. AI 핵심 · [All About AI] 1.1K뷰 · 참여율 3.4%\n   Kalshi AI Trading Bot Speedrunning - Can We Profit In 12 Hours?\n   ↳ AI 트레이딩 봇을 활용하여 칼시(Kalshi) 플랫폼에서 12시간 동안 수익을 창출하는 실험을 진행했다. 테스트 결과 봇 운용을 통해 자산 잔액을 120달러에서 137달러로 늘리며 단기 수익 달성 가능성을 확인했…\n   https://youtu.be/YOcWVXElbDY\n\n3. AI 인접 · [테크몽 Techmong] 27.0K뷰 · 참여율 2.2%\n   갤럭시 워치 언제 이렇게 좋아짐? 이 3가지는 꼭 써보세요!\n   ↳ 갤럭시 워치 울트라 전용 워치페이스와 원UI 9 워치 버전의 신기능을 소개하며 사용자가 일상에서 유용하게 활용할 수 있는 팁을 제안한다. 다만, 기존 워치 9 모델과의 디자인 호환성 제한 및 충전기 호환성 문제에…\n   https://youtu.be/t3cSvjoCeUc\n\n4. AI 인접 · [Dan Martell] 4.1K뷰 · 참여율 5.8%\n   How to be a great leader\n   ↳ 훌륭한 리더가 되기 위해서는 뛰어난 실무 능력뿐만 아니라 타인을 존중하는 높은 수준의 감성 지능이 필수적이다. 구성원을 대하는 태도가 리더십의 본질을 결정하며 이는 조직 내 소통과 신뢰 형성에 중요한 영향을 미친다.\n   https://youtu.be/Sc1lPi-LD1Q\n\n5. 테크 보충 · [ITSub잇섭] 249.5K뷰 · 참여율 1.3%\n   한국인들은 못 사는 게임PC? 스팀머신 첫인상!\n   ↳ 밸브의 스팀머신은 훌륭한 쿨링 설계로 구동 시 정숙함을 자랑하지만, 가격 대비 성능 면에서는 콘솔과 PC 사이에서 모호한 위치에 있다. 고사양 게임을 고해상도로 즐기거나 가성비를 중시하는 사용자 모두에게 추천하기…\n   https://youtu.be/JbQPce7DXRY\n\n📈 스마트대디 어제 실적\n조회수 3.0K (↓2% vs 7일 평균) | 구독 +9\n시청 지속률 29.8% | 평균 시청 2분 18초\n경쟁사 평균 8.9K회 대비 내 7일 평균 -65%\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
-  "video_count": 4,
-  "total_recent_video_count": 7,
+  "digest_date": "2026-08-24",
+  "generated_at": "2026-08-23T23:30:58+00:00",
+  "summary": "최근 24시간 영상 3개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'Gemini'입니다. 특히 'SK하이닉스 Nature 논문 최초 공개, AI 광학 메모리 시대 등장 | CPO가 메모리까지 들어오면 생기는 일'는 조회수 29.3K, 참여율 3.1%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "'Gemini' 주제가 1개 영상으로 가장 많이 다뤄졌습니다. Gemini vs ChatGPT 일반인 기준 직접 실험 영상이 비어 있습니다. 구글 생태계 쓰는 사람이 체감하는 차이 검증.\n[내 채널] 7일 평균 3.1K회 · 지속률 29.3% / 경쟁사 평균 16.4K회 (격차 -81%)",
+  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 08/24\n\n📊 총 3개 | AI 핵심 2 · 인접 AI 1 · 일반 테크 보충 0\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 3 (최대 10) · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [조코딩 JoCoding] 11.2K뷰 · 참여율 2.8%\n   IT뉴스 - ox-alpha, 오픈AI 트레이닝 중지, Mythos 5 개방, Gemini 하입과 무료, 모더나 머크, 통속의 뇌 등\n   ↳ 오픈AI의 훈련 중단 이슈와 Mythos 5 모델 공개, 그리고 인간 뇌세포를 활용한 컴퓨팅 연산 연구 및 모더나 주가 급등 등 최신 IT 기술 동향을 전합니다.\n   https://youtu.be/iP5RUzXhWoc\n\n2. AI 핵심 · [성공지식백과] 8.9K뷰 · 참여율 2.5%\n   페이블5 뛰어넘은 미친 무료모델 Ox Alpha..ㄷㄷ 당장 무료로 쓰는법\n   ↳ 디자인과 3D 분야에서 강력한 성능을 보이는 Ox-Alpha 모델의 특징과 벤치마크 결과를 소개하고, 오픈코드 플랫폼을 통해 해당 모델을 무료로 설정하고 사용하는 방법을 가이드합니다.\n   https://youtu.be/VwsJKgEtkQE\n\n3. AI 인접 · [안될공학 - IT 테크 신기술] 29.3K뷰 · 참여율 3.1%\n   SK하이닉스 Nature 논문 최초 공개, AI 광학 메모리 시대 등장 | CPO가 메모리까지 들어오면 생기는 일\n   ↳ SK하이닉스가 참여한 네이처 일렉트로닉스 논문을 통해 GPU와 메모리 간 병목을 해결할 광학 인터커넥트(CPO) 기술과 차세대 메모리 구조의 발전 방향을 분석합니다.\n   https://youtu.be/4h7_lPC38Kg\n\n📈 스마트대디 어제 실적\n조회수 3.5K (↑14% vs 7일 평균) | 구독 +2\n시청 지속률 30.0% | 평균 시청 2분 25초\n경쟁사 평균 16.4K회 대비 내 7일 평균 -81%\n\n💡 VS 각도: Gemini vs ChatGPT 일반인 기준 직접 실험 영상이 비어 있습니다. 구글 생태계 쓰는 사람이 체감하는 차이 검증.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+  "video_count": 3,
+  "total_recent_video_count": 5,
   "focus_scope": "ai_priority_then_tech_fill",
-  "average_view_count": 8866.0,
-  "average_engagement_rate": 0.037972987281007675,
-  "average_like_count": 218.0,
-  "average_comment_count": 30.0,
-  "best_video_id": "t3cSvjoCeUc",
-  "best_topic": "갤럭시",
+  "average_view_count": 16439.0,
+  "average_engagement_rate": 0.027902693123037295,
+  "average_like_count": 441.0,
+  "average_comment_count": 41.0,
+  "best_video_id": "4h7_lPC38Kg",
+  "best_topic": "Gemini",
   "summary_points": [
-    "가장 겹친 주제는 '갤럭시'이며 1개 영상, 평균 조회수 27.0K, 평균 참여율 2.2%입니다.",
-    "최고 실적 영상은 '갤럭시 워치 언제 이렇게 좋아짐? 이 3가지는 꼭 써보세요!'이며 문제 해결 훅과 뉴스 분석 포맷 조합이 강했습니다.",
-    "반복 노출된 툴은 ChatGPT 1회, Claude 1회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
+    "가장 겹친 주제는 'Gemini'이며 1개 영상, 평균 조회수 29.3K, 평균 참여율 3.1%입니다.",
+    "최고 실적 영상은 'SK하이닉스 Nature 논문 최초 공개, AI 광학 메모리 시대 등장 | CPO가 메모리까지 들어오면 생기는 일'이며 긴급성 훅과 비교 포맷 조합이 강했습니다.",
+    "반복 노출된 툴은 Gemini 2회, GPT-5 1회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
   ],
   "action_chips": [
-    "주제: 갤럭시",
-    "훅: 문제 해결",
-    "포맷: 뉴스 분석",
-    "기준 채널: 테크몽 Techmong"
+    "주제: Gemini",
+    "훅: 긴급성",
+    "포맷: 비교",
+    "기준 채널: 안될공학 - IT 테크 신기술"
   ],
   "title_suggestions": [
-    "갤럭시 직접 실험 — 이게 진짜 되나?",
-    "갤럭시 vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
-    "갤럭시 써봤더니... (기대 vs 현실 솔직 후기)"
+    "Gemini vs ChatGPT, 직장인이 1주일 써보니 이렇게 달랐다",
+    "구글 AI 직접 실험 결과 — 이게 진짜 되네? 안되네?",
+    "Gemini 써봤더니... 광고 말고 진짜 솔직 비교"
   ],
   "recommendations": [
     {
-      "title": "갤럭시 직접 실험 — 이게 진짜 되나?",
-      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
-      "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
-      "thumbnail_copy": "갤럭시 바로 해결",
-      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
-      "source_video_id": "t3cSvjoCeUc",
-      "source": "갤럭시 워치 언제 이렇게 좋아짐? 이 3가지는 꼭 써보세요!",
-      "my_channel_context": "내 7일 평균 3.1K회 · 지속률 29.5% / 경쟁사 대비 -65%"
+      "title": "Gemini vs ChatGPT, 직장인이 1주일 써보니 이렇게 달랐다",
+      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
+      "angle": "'Gemini'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
+      "thumbnail_copy": "Gemini 지금 봐야 함",
+      "reason": "Gemini vs ChatGPT 일반인 기준 직접 실험 영상이 비어 있습니다. 구글 생태계 쓰는 사람이 체감하는 차이 검증.",
+      "source_video_id": "4h7_lPC38Kg",
+      "source": "SK하이닉스 Nature 논문 최초 공개, AI 광학 메모리 시대 등장 | CPO가 메모리까지 들어오면 생기는 일",
+      "my_channel_context": "내 7일 평균 3.1K회 · 지속률 29.3% / 경쟁사 대비 -81%"
     }
   ],
   "topic_clusters": [
     {
-      "label": "갤럭시",
+      "label": "Gemini",
       "count": 1,
-      "avg_view_count": 26953,
-      "avg_engagement_rate": 0.021964159833784736,
-      "avg_like_count": 486,
-      "avg_comment_count": 106,
+      "avg_view_count": 29269,
+      "avg_engagement_rate": 0.03133007618982541,
+      "avg_like_count": 828,
+      "avg_comment_count": 89,
       "source_titles": [
-        "갤럭시 워치 언제 이렇게 좋아짐? 이 3가지는 꼭 써보세요!"
+        "SK하이닉스 Nature 논문 최초 공개, AI 광학 메모리 시대 등장 | CPO가 메모리까지 들어오면 생기는 일"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/t3cSvjoCeUc/hqdefault.jpg",
-      "representative_video_id": "t3cSvjoCeUc",
-      "representative_title": "갤럭시 워치 언제 이렇게 좋아짐? 이 3가지는 꼭 써보세요!"
-    },
-    {
-      "label": "ChatGPT",
-      "count": 1,
-      "avg_view_count": 4073,
-      "avg_engagement_rate": 0.05769702921679352,
-      "avg_like_count": 231,
-      "avg_comment_count": 4,
-      "source_titles": [
-        "How to be a great leader"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/Sc1lPi-LD1Q/hqdefault.jpg",
-      "representative_video_id": "Sc1lPi-LD1Q",
-      "representative_title": "How to be a great leader"
-    },
-    {
-      "label": "코딩",
-      "count": 1,
-      "avg_view_count": 3321,
-      "avg_engagement_rate": 0.038241493526046375,
-      "avg_like_count": 123,
-      "avg_comment_count": 4,
-      "source_titles": [
-        "The Wildest Smartphone I’ve Ever Seen 🤯"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/aOzaO5AAGjk/hqdefault.jpg",
-      "representative_video_id": "aOzaO5AAGjk",
-      "representative_title": "The Wildest Smartphone I’ve Ever Seen 🤯"
+      "thumbnail_url": "https://i.ytimg.com/vi/4h7_lPC38Kg/hqdefault.jpg",
+      "representative_video_id": "4h7_lPC38Kg",
+      "representative_title": "SK하이닉스 Nature 논문 최초 공개, AI 광학 메모리 시대 등장 | CPO가 메모리까지 들어오면 생기는 일"
     },
     {
       "label": "GPT-5",
       "count": 1,
-      "avg_view_count": 1118,
-      "avg_engagement_rate": 0.03398926654740608,
-      "avg_like_count": 33,
+      "avg_view_count": 11194,
+      "avg_engagement_rate": 0.027872074325531536,
+      "avg_like_count": 307,
       "avg_comment_count": 5,
       "source_titles": [
-        "Kalshi AI Trading Bot Speedrunning - Can We Profit In 12 Hours?"
+        "IT뉴스 - ox-alpha, 오픈AI 트레이닝 중지, Mythos 5 개방, Gemini 하입과 무료, 모더나 머크, 통속의 뇌 등"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/YOcWVXElbDY/hqdefault.jpg",
-      "representative_video_id": "YOcWVXElbDY",
-      "representative_title": "Kalshi AI Trading Bot Speedrunning - Can We Profit In 12 Hours?"
+      "thumbnail_url": "https://i.ytimg.com/vi/iP5RUzXhWoc/hqdefault.jpg",
+      "representative_video_id": "iP5RUzXhWoc",
+      "representative_title": "IT뉴스 - ox-alpha, 오픈AI 트레이닝 중지, Mythos 5 개방, Gemini 하입과 무료, 모더나 머크, 통속의 뇌 등"
+    },
+    {
+      "label": "코딩",
+      "count": 1,
+      "avg_view_count": 8855,
+      "avg_engagement_rate": 0.02450592885375494,
+      "avg_like_count": 187,
+      "avg_comment_count": 30,
+      "source_titles": [
+        "페이블5 뛰어넘은 미친 무료모델 Ox Alpha..ㄷㄷ 당장 무료로 쓰는법"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/VwsJKgEtkQE/hqdefault.jpg",
+      "representative_video_id": "VwsJKgEtkQE",
+      "representative_title": "페이블5 뛰어넘은 미친 무료모델 Ox Alpha..ㄷㄷ 당장 무료로 쓰는법"
     }
   ],
   "video_highlights": [
     {
-      "video_id": "t3cSvjoCeUc",
-      "channel_name": "테크몽 Techmong",
-      "title": "갤럭시 워치 언제 이렇게 좋아짐? 이 3가지는 꼭 써보세요!",
-      "thumbnail_url": "https://i.ytimg.com/vi/t3cSvjoCeUc/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=t3cSvjoCeUc",
-      "published_at": "2026-08-22T10:00:22Z",
-      "view_count": 26953,
-      "like_count": 486,
-      "comment_count": 106,
-      "engagement_rate": 0.021964159833784736,
-      "topic_cluster": "갤럭시",
-      "summary": "갤럭시 워치 울트라 전용 워치페이스와 원UI 9 워치 버전의 신기능을 소개하며 사용자가 일상에서 유용하게 활용할 수 있는 팁을 제안한다. 다만, 기존 워치 9 모델…",
-      "comment_signal": "uwb도 안돼, 페이도 안돼, 아직도 ui는 5년 전이고, 좋아진 것도 없음",
-      "hook_type": "문제 해결"
+      "video_id": "4h7_lPC38Kg",
+      "channel_name": "안될공학 - IT 테크 신기술",
+      "title": "SK하이닉스 Nature 논문 최초 공개, AI 광학 메모리 시대 등장 | CPO가 메모리까지 들어오면 생기는 일",
+      "thumbnail_url": "https://i.ytimg.com/vi/4h7_lPC38Kg/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=4h7_lPC38Kg",
+      "published_at": "2026-08-23T05:34:53Z",
+      "view_count": 29269,
+      "like_count": 828,
+      "comment_count": 89,
+      "engagement_rate": 0.03133007618982541,
+      "topic_cluster": "Gemini",
+      "summary": "SK하이닉스가 참여한 네이처 일렉트로닉스 논문을 통해 GPU와 메모리 간 병목을 해결할 광학 인터커넥트(CPO) 기술과 차세대 메모리 구조의 발전 방향을 분석합니다.",
+      "comment_signal": "요분은 관련 업계에서 일하시다 오신 거 같은데, 전문성이랑 해설력이 장난아님",
+      "hook_type": "긴급성"
     },
     {
-      "video_id": "Sc1lPi-LD1Q",
-      "channel_name": "Dan Martell",
-      "title": "How to be a great leader",
-      "thumbnail_url": "https://i.ytimg.com/vi/Sc1lPi-LD1Q/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=Sc1lPi-LD1Q",
-      "published_at": "2026-08-22T21:01:15Z",
-      "view_count": 4073,
-      "like_count": 231,
-      "comment_count": 4,
-      "engagement_rate": 0.05769702921679352,
-      "topic_cluster": "ChatGPT",
-      "summary": "훌륭한 리더가 되기 위해서는 뛰어난 실무 능력뿐만 아니라 타인을 존중하는 높은 수준의 감성 지능이 필수적이다. 구성원을 대하는 태도가 리더십의 본질을 결정하며 이는…",
-      "comment_signal": "Business isnt working with or using others for money and power. Its using the pursuit of money…",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "aOzaO5AAGjk",
-      "channel_name": "Matt Wolfe",
-      "title": "The Wildest Smartphone I’ve Ever Seen 🤯",
-      "thumbnail_url": "https://i.ytimg.com/vi/aOzaO5AAGjk/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=aOzaO5AAGjk",
-      "published_at": "2026-08-22T13:05:27Z",
-      "view_count": 3321,
-      "like_count": 123,
-      "comment_count": 4,
-      "engagement_rate": 0.038241493526046375,
-      "topic_cluster": "코딩",
-      "summary": "아너(HONOR)에서 선보인 신형 스마트폰은 200MP 카메라를 전동 티타늄 짐벌에 탑재해 물리적으로 돌출 및 회전이 가능한 독특한 구조를 갖추고 있다. 스냅드래곤…",
-      "comment_signal": "Apples new phone has less rounded corners than previous gen, but not as square as the older gen.",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "YOcWVXElbDY",
-      "channel_name": "All About AI",
-      "title": "Kalshi AI Trading Bot Speedrunning - Can We Profit In 12 Hours?",
-      "thumbnail_url": "https://i.ytimg.com/vi/YOcWVXElbDY/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=YOcWVXElbDY",
-      "published_at": "2026-08-22T16:48:35Z",
-      "view_count": 1118,
-      "like_count": 33,
+      "video_id": "iP5RUzXhWoc",
+      "channel_name": "조코딩 JoCoding",
+      "title": "IT뉴스 - ox-alpha, 오픈AI 트레이닝 중지, Mythos 5 개방, Gemini 하입과 무료, 모더나 머크, 통속의 뇌 등",
+      "thumbnail_url": "https://i.ytimg.com/vi/iP5RUzXhWoc/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=iP5RUzXhWoc",
+      "published_at": "2026-08-23T11:18:01Z",
+      "view_count": 11194,
+      "like_count": 307,
       "comment_count": 5,
-      "engagement_rate": 0.03398926654740608,
+      "engagement_rate": 0.027872074325531536,
       "topic_cluster": "GPT-5",
-      "summary": "AI 트레이딩 봇을 활용하여 칼시(Kalshi) 플랫폼에서 12시간 동안 수익을 창출하는 실험을 진행했다. 테스트 결과 봇 운용을 통해 자산 잔액을 120달러에서…",
-      "comment_signal": "How much are they paying you 😂 you’re losing views promoting gambling don’t you see lol",
+      "summary": "오픈AI의 훈련 중단 이슈와 Mythos 5 모델 공개, 그리고 인간 뇌세포를 활용한 컴퓨팅 연산 연구 및 모더나 주가 급등 등 최신 IT 기술 동향을 전합니다.",
+      "comment_signal": "이번에 잼미니3.7나오고 진지하게 바이브코딩용으로 써봤거든요...결론은 일주일치 그냥 롤백했습니다. 프론티어급 아니면 답이...",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "VwsJKgEtkQE",
+      "channel_name": "성공지식백과",
+      "title": "페이블5 뛰어넘은 미친 무료모델 Ox Alpha..ㄷㄷ 당장 무료로 쓰는법",
+      "thumbnail_url": "https://i.ytimg.com/vi/VwsJKgEtkQE/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=VwsJKgEtkQE",
+      "published_at": "2026-08-23T05:26:14Z",
+      "view_count": 8855,
+      "like_count": 187,
+      "comment_count": 30,
+      "engagement_rate": 0.02450592885375494,
+      "topic_cluster": "코딩",
+      "summary": "디자인과 3D 분야에서 강력한 성능을 보이는 Ox-Alpha 모델의 특징과 벤치마크 결과를 소개하고, 오픈코드 플랫폼을 통해 해당 모델을 무료로 설정하고 사용하는…",
+      "comment_signal": "천안문사태에 대해 질문해보면 알수있음. 중국발 ai는 답변이 제한됨.",
       "hook_type": "문제 해결"
     }
   ]
