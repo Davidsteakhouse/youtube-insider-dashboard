@@ -1,138 +1,240 @@
 {
-  "digest_date": "2026-08-24",
-  "generated_at": "2026-08-23T23:30:58+00:00",
-  "summary": "최근 24시간 영상 3개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'Gemini'입니다. 특히 'SK하이닉스 Nature 논문 최초 공개, AI 광학 메모리 시대 등장 | CPO가 메모리까지 들어오면 생기는 일'는 조회수 29.3K, 참여율 3.1%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "'Gemini' 주제가 1개 영상으로 가장 많이 다뤄졌습니다. Gemini vs ChatGPT 일반인 기준 직접 실험 영상이 비어 있습니다. 구글 생태계 쓰는 사람이 체감하는 차이 검증.\n[내 채널] 7일 평균 3.1K회 · 지속률 29.3% / 경쟁사 평균 16.4K회 (격차 -81%)",
-  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 08/24\n\n📊 총 3개 | AI 핵심 2 · 인접 AI 1 · 일반 테크 보충 0\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 3 (최대 10) · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [조코딩 JoCoding] 11.2K뷰 · 참여율 2.8%\n   IT뉴스 - ox-alpha, 오픈AI 트레이닝 중지, Mythos 5 개방, Gemini 하입과 무료, 모더나 머크, 통속의 뇌 등\n   ↳ 오픈AI의 훈련 중단 이슈와 Mythos 5 모델 공개, 그리고 인간 뇌세포를 활용한 컴퓨팅 연산 연구 및 모더나 주가 급등 등 최신 IT 기술 동향을 전합니다.\n   https://youtu.be/iP5RUzXhWoc\n\n2. AI 핵심 · [성공지식백과] 8.9K뷰 · 참여율 2.5%\n   페이블5 뛰어넘은 미친 무료모델 Ox Alpha..ㄷㄷ 당장 무료로 쓰는법\n   ↳ 디자인과 3D 분야에서 강력한 성능을 보이는 Ox-Alpha 모델의 특징과 벤치마크 결과를 소개하고, 오픈코드 플랫폼을 통해 해당 모델을 무료로 설정하고 사용하는 방법을 가이드합니다.\n   https://youtu.be/VwsJKgEtkQE\n\n3. AI 인접 · [안될공학 - IT 테크 신기술] 29.3K뷰 · 참여율 3.1%\n   SK하이닉스 Nature 논문 최초 공개, AI 광학 메모리 시대 등장 | CPO가 메모리까지 들어오면 생기는 일\n   ↳ SK하이닉스가 참여한 네이처 일렉트로닉스 논문을 통해 GPU와 메모리 간 병목을 해결할 광학 인터커넥트(CPO) 기술과 차세대 메모리 구조의 발전 방향을 분석합니다.\n   https://youtu.be/4h7_lPC38Kg\n\n📈 스마트대디 어제 실적\n조회수 3.5K (↑14% vs 7일 평균) | 구독 +2\n시청 지속률 30.0% | 평균 시청 2분 25초\n경쟁사 평균 16.4K회 대비 내 7일 평균 -81%\n\n💡 VS 각도: Gemini vs ChatGPT 일반인 기준 직접 실험 영상이 비어 있습니다. 구글 생태계 쓰는 사람이 체감하는 차이 검증.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
-  "video_count": 3,
-  "total_recent_video_count": 5,
+  "digest_date": "2026-08-25",
+  "generated_at": "2026-08-24T23:31:24+00:00",
+  "summary": "최근 24시간 영상 9개를 기준으로 보면, 오늘 가장 먼저 볼 축은 '노트북'입니다. 특히 '120만원...LG 미쳤나요?? ㅋㅋ 반값 수준으로 출시한 LG 그램북 미리 써봤습니다'는 조회수 195.2K, 참여율 1.4%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "'노트북' 주제가 1개 영상으로 가장 많이 다뤄졌습니다. 일반인 관점 직접 실험 or VS 비교 각도로 차별화할 영역이 있습니다.\n[내 채널] 7일 평균 3.5K회 · 지속률 29.3% / 경쟁사 평균 33.9K회 (격차 -90%)",
+  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 08/25\n\n📊 총 10개 | AI 핵심 4 · 인접 AI 5 · 일반 테크 보충 1\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 10 · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [조코딩 JoCoding] 14.5K뷰 · 참여율 2.3%\n   AI뉴스 - ox-alpha 열풍, 오픈AI RL 중지, Mythos 5 개방, Gemini 하입과 무료, 모더나 머크, 독파모, 통속의…\n   ↳ 정체불명의 모델 ox-alpha를 비롯한 최신 AI 모델 동향과 오픈AI, 엔비디아, 앤트로픽 등 주요 테크 기업의 신규 API 및 기술 업데이트를 다룬다. 또한 로봇 공학 발전과 암 백신 임상 성공 등 산업 전반…\n   https://youtu.be/i1FoKc5X4_8\n\n2. AI 핵심 · [조코딩 JoCoding] 4.9K뷰 · 참여율 1.8%\n   여러분의 서비스는 모두에게 열려있나요?\n   ↳ 웹 서비스 이용 시 스크린 리더 사용자를 위해 버튼과 요소에 정확한 이름과 역할을 부여하는 웹 접근성 개선의 중요성을 강조한다.\n   https://youtu.be/qFnADa20OOo\n\n3. AI 핵심 · [Matt Wolfe] 3.0K뷰 · 참여율 5.6%\n   This AI Creates Insane 3D Worlds\n   ↳ 텐센트의 WorldClaw 모델은 텍스트 프롬프트만으로 편집 가능한 개별 3D 객체들로 구성된 3D 환경을 생성한다. 이는 이미지 분할 및 2D-to-3D 기술을 결합하여 게임 환경 개발이나 로봇 시뮬레이션 등에…\n   https://youtu.be/ZY628bslSYY\n\n4. AI 핵심 · [All About AI] 525뷰 · 참여율 5.3%\n   30 Days of AI Bot Trading on Kalshi and Polymarket: The Results\n   ↳ 30일간 칼시(Kalshi)와 폴리마켓(Polymarket)에서 AI 봇을 활용해 자동 거래를 수행한 결과를 공유하며 실제 투자 운영 경험과 성과를 정리한다.\n   https://youtu.be/AGLYcwegcis\n\n5. AI 인접 · [ITSub잇섭] 195.2K뷰 · 참여율 1.4%\n   120만원...LG 미쳤나요?? ㅋㅋ 반값 수준으로 출시한 LG 그램북 미리 써봤습니다\n   ↳ 120만 원대의 합리적인 가격으로 출시된 'LG 그램북 2026'을 미리 살펴보고, 저전력 프로세서 기반의 뛰어난 배터리 효율과 가벼운 작업 환경에서의 사용성을 분석한다.\n   https://youtu.be/0f4cfOuJ1CQ\n\n6. AI 인접 · [주연 ZUYONI] 51.0K뷰 · 참여율 2.1%\n   30대의 꿈: 일하러 가서 놀고 먹기\n   ↳ 드리미의 신제품 '아쿠아 스팀' 로봇청소기 런칭 행사를 방문하여 180도 고온 스팀 분사, 자동 물걸레 세척 및 확장형 롤러 등 핵심 기능을 체험하고 살펴본다.\n   https://youtu.be/wTDXNwbCnCA\n\n7. AI 인접 · [Dan Martell] 27.3K뷰 · 참여율 5.5%\n   How much do you ACTUALLY know about AI?\n   ↳ LLM, 에이전트, MCP 등 복잡한 AI 관련 용어와 개념들을 나열하며 사용자가 AI 생태계 전반에 대해 얼마나 알고 있는지 점검하도록 유도한다.\n   https://youtu.be/2lWarkDqRTA\n\n8. AI 인접 · [안될공학 - IT 테크 신기술] 7.7K뷰 · 참여율 4.5%\n   엔비디아 금융 플랫폼 등장! 빅테크가 이렇게까지 AI에 투자하는 진짜 이유 | GPU 부족이 곧 매출 손실이 되는 시대\n   ↳ 엔비디아가 금융권을 결합해 AI 인프라 시장을 선점하려는 이유와 GPU 컴퓨트 자원이 곧 매출로 직결되는 현상을 분석한다. 인프라 투자 정당화를 위한 매출 효율성의 중요성과 데이터센터 구축의 다각적 요소를 다룬다.\n   https://youtu.be/tsJP-sWP3Sg\n\n9. AI 인접 · [Dan Martell] 1.3K뷰 · 참여율 10.6%\n   The intersection of kind and warrior\n   ↳ 친절함과 강인함의 공존이라는 주제를 다루며 영상 하단 링크를 통해 지원할 것을 안내한다.\n   https://youtu.be/haPuQQ5gf34\n\n10. 테크 보충 · [귀곰] 33.4K뷰 · 참여율 0.8%\n   현직 밥솥마냥 스팀 뿜어내는 로봇청소기 ㄷㄷ\n   ↳ 드리미 아쿠아 스팀 로봇청소기는 180도 고온 스팀을 분사해 바닥을 닦아내는 방식으로, 행사장에서 확인한 강력한 스팀 청소 성능과 기기 특징을 소개한다.\n   https://youtu.be/Tjw2_VjLelk\n\n📈 스마트대디 어제 실적\n조회수 4.6K (↑32% vs 7일 평균) | 구독 +9\n시청 지속률 28.5% | 평균 시청 2분 18초\n경쟁사 평균 33.9K회 대비 내 7일 평균 -90%\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+  "video_count": 9,
+  "total_recent_video_count": 12,
   "focus_scope": "ai_priority_then_tech_fill",
-  "average_view_count": 16439.0,
-  "average_engagement_rate": 0.027902693123037295,
-  "average_like_count": 441.0,
-  "average_comment_count": 41.0,
-  "best_video_id": "4h7_lPC38Kg",
-  "best_topic": "Gemini",
+  "average_view_count": 33945.0,
+  "average_engagement_rate": 0.04351182831812656,
+  "average_like_count": 647.0,
+  "average_comment_count": 76.0,
+  "best_video_id": "0f4cfOuJ1CQ",
+  "best_topic": "노트북",
   "summary_points": [
-    "가장 겹친 주제는 'Gemini'이며 1개 영상, 평균 조회수 29.3K, 평균 참여율 3.1%입니다.",
-    "최고 실적 영상은 'SK하이닉스 Nature 논문 최초 공개, AI 광학 메모리 시대 등장 | CPO가 메모리까지 들어오면 생기는 일'이며 긴급성 훅과 비교 포맷 조합이 강했습니다.",
-    "반복 노출된 툴은 Gemini 2회, GPT-5 1회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
+    "가장 겹친 주제는 '노트북'이며 1개 영상, 평균 조회수 195.2K, 평균 참여율 1.4%입니다.",
+    "최고 실적 영상은 '120만원...LG 미쳤나요?? ㅋㅋ 반값 수준으로 출시한 LG 그램북 미리 써봤습니다'이며 긴급성 훅과 뉴스 분석 포맷 조합이 강했습니다.",
+    "반복 노출된 툴은 ChatGPT 2회, Claude 2회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
   ],
   "action_chips": [
-    "주제: Gemini",
+    "주제: 노트북",
     "훅: 긴급성",
-    "포맷: 비교",
-    "기준 채널: 안될공학 - IT 테크 신기술"
+    "포맷: 뉴스 분석",
+    "기준 채널: ITSub잇섭"
   ],
   "title_suggestions": [
-    "Gemini vs ChatGPT, 직장인이 1주일 써보니 이렇게 달랐다",
-    "구글 AI 직접 실험 결과 — 이게 진짜 되네? 안되네?",
-    "Gemini 써봤더니... 광고 말고 진짜 솔직 비교"
+    "노트북 직접 실험 — 이게 진짜 되나?",
+    "노트북 vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
+    "노트북 써봤더니... (기대 vs 현실 솔직 후기)"
   ],
   "recommendations": [
     {
-      "title": "Gemini vs ChatGPT, 직장인이 1주일 써보니 이렇게 달랐다",
-      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'Gemini'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "Gemini 지금 봐야 함",
-      "reason": "Gemini vs ChatGPT 일반인 기준 직접 실험 영상이 비어 있습니다. 구글 생태계 쓰는 사람이 체감하는 차이 검증.",
-      "source_video_id": "4h7_lPC38Kg",
-      "source": "SK하이닉스 Nature 논문 최초 공개, AI 광학 메모리 시대 등장 | CPO가 메모리까지 들어오면 생기는 일",
-      "my_channel_context": "내 7일 평균 3.1K회 · 지속률 29.3% / 경쟁사 대비 -81%"
+      "title": "노트북 직접 실험 — 이게 진짜 되나?",
+      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
+      "angle": "큰 주제 하나를 대표 제목으로 세우고, 나머지 포인트는 보조 정보처럼 정리하는 압축형 포장이 좋습니다.",
+      "thumbnail_copy": "노트북 지금 봐야 함",
+      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
+      "source_video_id": "0f4cfOuJ1CQ",
+      "source": "120만원...LG 미쳤나요?? ㅋㅋ 반값 수준으로 출시한 LG 그램북 미리 써봤습니다",
+      "my_channel_context": "내 7일 평균 3.5K회 · 지속률 29.3% / 경쟁사 대비 -90%"
     }
   ],
   "topic_clusters": [
     {
-      "label": "Gemini",
+      "label": "노트북",
       "count": 1,
-      "avg_view_count": 29269,
-      "avg_engagement_rate": 0.03133007618982541,
-      "avg_like_count": 828,
-      "avg_comment_count": 89,
+      "avg_view_count": 195249,
+      "avg_engagement_rate": 0.014453339069598307,
+      "avg_like_count": 2369,
+      "avg_comment_count": 453,
       "source_titles": [
-        "SK하이닉스 Nature 논문 최초 공개, AI 광학 메모리 시대 등장 | CPO가 메모리까지 들어오면 생기는 일"
+        "120만원...LG 미쳤나요?? ㅋㅋ 반값 수준으로 출시한 LG 그램북 미리 써봤습니다"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/4h7_lPC38Kg/hqdefault.jpg",
-      "representative_video_id": "4h7_lPC38Kg",
-      "representative_title": "SK하이닉스 Nature 논문 최초 공개, AI 광학 메모리 시대 등장 | CPO가 메모리까지 들어오면 생기는 일"
+      "thumbnail_url": "https://i.ytimg.com/vi/0f4cfOuJ1CQ/hqdefault.jpg",
+      "representative_video_id": "0f4cfOuJ1CQ",
+      "representative_title": "120만원...LG 미쳤나요?? ㅋㅋ 반값 수준으로 출시한 LG 그램북 미리 써봤습니다"
+    },
+    {
+      "label": "30대의",
+      "count": 1,
+      "avg_view_count": 51024,
+      "avg_engagement_rate": 0.021362496080275947,
+      "avg_like_count": 997,
+      "avg_comment_count": 93,
+      "source_titles": [
+        "30대의 꿈: 일하러 가서 놀고 먹기"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/wTDXNwbCnCA/hqdefault.jpg",
+      "representative_video_id": "wTDXNwbCnCA",
+      "representative_title": "30대의 꿈: 일하러 가서 놀고 먹기"
+    },
+    {
+      "label": "AI기본용어",
+      "count": 1,
+      "avg_view_count": 27257,
+      "avg_engagement_rate": 0.05521517408372161,
+      "avg_like_count": 1463,
+      "avg_comment_count": 42,
+      "source_titles": [
+        "How much do you ACTUALLY know about AI?"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/2lWarkDqRTA/hqdefault.jpg",
+      "representative_video_id": "2lWarkDqRTA",
+      "representative_title": "How much do you ACTUALLY know about AI?"
     },
     {
       "label": "GPT-5",
       "count": 1,
-      "avg_view_count": 11194,
-      "avg_engagement_rate": 0.027872074325531536,
-      "avg_like_count": 307,
-      "avg_comment_count": 5,
+      "avg_view_count": 14529,
+      "avg_engagement_rate": 0.02257553857801638,
+      "avg_like_count": 291,
+      "avg_comment_count": 37,
       "source_titles": [
-        "IT뉴스 - ox-alpha, 오픈AI 트레이닝 중지, Mythos 5 개방, Gemini 하입과 무료, 모더나 머크, 통속의 뇌 등"
+        "AI뉴스 - ox-alpha 열풍, 오픈AI RL 중지, Mythos 5 개방, Gemini 하입과 무료, 모더나 머크, 독파모, 통속의 뇌, 로봇 올림픽 등"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/iP5RUzXhWoc/hqdefault.jpg",
-      "representative_video_id": "iP5RUzXhWoc",
-      "representative_title": "IT뉴스 - ox-alpha, 오픈AI 트레이닝 중지, Mythos 5 개방, Gemini 하입과 무료, 모더나 머크, 통속의 뇌 등"
+      "thumbnail_url": "https://i.ytimg.com/vi/i1FoKc5X4_8/hqdefault.jpg",
+      "representative_video_id": "i1FoKc5X4_8",
+      "representative_title": "AI뉴스 - ox-alpha 열풍, 오픈AI RL 중지, Mythos 5 개방, Gemini 하입과 무료, 모더나 머크, 독파모, 통속의 뇌, 로봇 올림픽 등"
+    },
+    {
+      "label": "Gemini",
+      "count": 1,
+      "avg_view_count": 7742,
+      "avg_engagement_rate": 0.04482045982950142,
+      "avg_like_count": 314,
+      "avg_comment_count": 33,
+      "source_titles": [
+        "엔비디아 금융 플랫폼 등장! 빅테크가 이렇게까지 AI에 투자하는 진짜 이유 | GPU 부족이 곧 매출 손실이 되는 시대"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/tsJP-sWP3Sg/hqdefault.jpg",
+      "representative_video_id": "tsJP-sWP3Sg",
+      "representative_title": "엔비디아 금융 플랫폼 등장! 빅테크가 이렇게까지 AI에 투자하는 진짜 이유 | GPU 부족이 곧 매출 손실이 되는 시대"
+    },
+    {
+      "label": "여러분의",
+      "count": 1,
+      "avg_view_count": 4858,
+      "avg_engagement_rate": 0.017908604363935775,
+      "avg_like_count": 81,
+      "avg_comment_count": 6,
+      "source_titles": [
+        "여러분의 서비스는 모두에게 열려있나요?"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/qFnADa20OOo/hqdefault.jpg",
+      "representative_video_id": "qFnADa20OOo",
+      "representative_title": "여러분의 서비스는 모두에게 열려있나요?"
     },
     {
       "label": "코딩",
       "count": 1,
-      "avg_view_count": 8855,
-      "avg_engagement_rate": 0.02450592885375494,
-      "avg_like_count": 187,
-      "avg_comment_count": 30,
+      "avg_view_count": 2998,
+      "avg_engagement_rate": 0.056037358238825885,
+      "avg_like_count": 155,
+      "avg_comment_count": 13,
       "source_titles": [
-        "페이블5 뛰어넘은 미친 무료모델 Ox Alpha..ㄷㄷ 당장 무료로 쓰는법"
+        "This AI Creates Insane 3D Worlds"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/VwsJKgEtkQE/hqdefault.jpg",
-      "representative_video_id": "VwsJKgEtkQE",
-      "representative_title": "페이블5 뛰어넘은 미친 무료모델 Ox Alpha..ㄷㄷ 당장 무료로 쓰는법"
+      "thumbnail_url": "https://i.ytimg.com/vi/ZY628bslSYY/hqdefault.jpg",
+      "representative_video_id": "ZY628bslSYY",
+      "representative_title": "This AI Creates Insane 3D Worlds"
+    },
+    {
+      "label": "ChatGPT",
+      "count": 1,
+      "avg_view_count": 1322,
+      "avg_engagement_rate": 0.1059001512859304,
+      "avg_like_count": 133,
+      "avg_comment_count": 7,
+      "source_titles": [
+        "The intersection of kind and warrior"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/haPuQQ5gf34/hqdefault.jpg",
+      "representative_video_id": "haPuQQ5gf34",
+      "representative_title": "The intersection of kind and warrior"
     }
   ],
   "video_highlights": [
     {
-      "video_id": "4h7_lPC38Kg",
-      "channel_name": "안될공학 - IT 테크 신기술",
-      "title": "SK하이닉스 Nature 논문 최초 공개, AI 광학 메모리 시대 등장 | CPO가 메모리까지 들어오면 생기는 일",
-      "thumbnail_url": "https://i.ytimg.com/vi/4h7_lPC38Kg/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=4h7_lPC38Kg",
-      "published_at": "2026-08-23T05:34:53Z",
-      "view_count": 29269,
-      "like_count": 828,
-      "comment_count": 89,
-      "engagement_rate": 0.03133007618982541,
-      "topic_cluster": "Gemini",
-      "summary": "SK하이닉스가 참여한 네이처 일렉트로닉스 논문을 통해 GPU와 메모리 간 병목을 해결할 광학 인터커넥트(CPO) 기술과 차세대 메모리 구조의 발전 방향을 분석합니다.",
-      "comment_signal": "요분은 관련 업계에서 일하시다 오신 거 같은데, 전문성이랑 해설력이 장난아님",
+      "video_id": "0f4cfOuJ1CQ",
+      "channel_name": "ITSub잇섭",
+      "title": "120만원...LG 미쳤나요?? ㅋㅋ 반값 수준으로 출시한 LG 그램북 미리 써봤습니다",
+      "thumbnail_url": "https://i.ytimg.com/vi/0f4cfOuJ1CQ/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=0f4cfOuJ1CQ",
+      "published_at": "2026-08-24T11:00:23Z",
+      "view_count": 195249,
+      "like_count": 2369,
+      "comment_count": 453,
+      "engagement_rate": 0.014453339069598307,
+      "topic_cluster": "노트북",
+      "summary": "120만 원대의 합리적인 가격으로 출시된 'LG 그램북 2026'을 미리 살펴보고, 저전력 프로세서 기반의 뛰어난 배터리 효율과 가벼운 작업 환경에서의 사용성을 분…",
+      "comment_signal": "120만원이 가성비 시대라니ㄷㄷ",
       "hook_type": "긴급성"
     },
     {
-      "video_id": "iP5RUzXhWoc",
-      "channel_name": "조코딩 JoCoding",
-      "title": "IT뉴스 - ox-alpha, 오픈AI 트레이닝 중지, Mythos 5 개방, Gemini 하입과 무료, 모더나 머크, 통속의 뇌 등",
-      "thumbnail_url": "https://i.ytimg.com/vi/iP5RUzXhWoc/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=iP5RUzXhWoc",
-      "published_at": "2026-08-23T11:18:01Z",
-      "view_count": 11194,
-      "like_count": 307,
-      "comment_count": 5,
-      "engagement_rate": 0.027872074325531536,
-      "topic_cluster": "GPT-5",
-      "summary": "오픈AI의 훈련 중단 이슈와 Mythos 5 모델 공개, 그리고 인간 뇌세포를 활용한 컴퓨팅 연산 연구 및 모더나 주가 급등 등 최신 IT 기술 동향을 전합니다.",
-      "comment_signal": "이번에 잼미니3.7나오고 진지하게 바이브코딩용으로 써봤거든요...결론은 일주일치 그냥 롤백했습니다. 프론티어급 아니면 답이...",
+      "video_id": "wTDXNwbCnCA",
+      "channel_name": "주연 ZUYONI",
+      "title": "30대의 꿈: 일하러 가서 놀고 먹기",
+      "thumbnail_url": "https://i.ytimg.com/vi/wTDXNwbCnCA/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=wTDXNwbCnCA",
+      "published_at": "2026-08-24T10:00:30Z",
+      "view_count": 51024,
+      "like_count": 997,
+      "comment_count": 93,
+      "engagement_rate": 0.021362496080275947,
+      "topic_cluster": "30대의",
+      "summary": "드리미의 신제품 '아쿠아 스팀' 로봇청소기 런칭 행사를 방문하여 180도 고온 스팀 분사, 자동 물걸레 세척 및 확장형 롤러 등 핵심 기능을 체험하고 살펴본다.",
+      "comment_signal": "뭐야 그냥 열심히 일했음 청년이잔아..?",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "VwsJKgEtkQE",
-      "channel_name": "성공지식백과",
-      "title": "페이블5 뛰어넘은 미친 무료모델 Ox Alpha..ㄷㄷ 당장 무료로 쓰는법",
-      "thumbnail_url": "https://i.ytimg.com/vi/VwsJKgEtkQE/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=VwsJKgEtkQE",
-      "published_at": "2026-08-23T05:26:14Z",
-      "view_count": 8855,
-      "like_count": 187,
-      "comment_count": 30,
-      "engagement_rate": 0.02450592885375494,
-      "topic_cluster": "코딩",
-      "summary": "디자인과 3D 분야에서 강력한 성능을 보이는 Ox-Alpha 모델의 특징과 벤치마크 결과를 소개하고, 오픈코드 플랫폼을 통해 해당 모델을 무료로 설정하고 사용하는…",
-      "comment_signal": "천안문사태에 대해 질문해보면 알수있음. 중국발 ai는 답변이 제한됨.",
+      "video_id": "2lWarkDqRTA",
+      "channel_name": "Dan Martell",
+      "title": "How much do you ACTUALLY know about AI?",
+      "thumbnail_url": "https://i.ytimg.com/vi/2lWarkDqRTA/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=2lWarkDqRTA",
+      "published_at": "2026-08-24T15:02:25Z",
+      "view_count": 27257,
+      "like_count": 1463,
+      "comment_count": 42,
+      "engagement_rate": 0.05521517408372161,
+      "topic_cluster": "AI기본용어",
+      "summary": "LLM, 에이전트, MCP 등 복잡한 AI 관련 용어와 개념들을 나열하며 사용자가 AI 생태계 전반에 대해 얼마나 알고 있는지 점검하도록 유도한다.",
+      "comment_signal": "Thanks for the granola recommendation it’s low-key underrated",
+      "hook_type": "긴급성"
+    },
+    {
+      "video_id": "i1FoKc5X4_8",
+      "channel_name": "조코딩 JoCoding",
+      "title": "AI뉴스 - ox-alpha 열풍, 오픈AI RL 중지, Mythos 5 개방, Gemini 하입과 무료, 모더나 머크, 독파모, 통속의 뇌, 로봇 올림픽 등",
+      "thumbnail_url": "https://i.ytimg.com/vi/i1FoKc5X4_8/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=i1FoKc5X4_8",
+      "published_at": "2026-08-24T13:00:39Z",
+      "view_count": 14529,
+      "like_count": 291,
+      "comment_count": 37,
+      "engagement_rate": 0.02257553857801638,
+      "topic_cluster": "GPT-5",
+      "summary": "정체불명의 모델 ox-alpha를 비롯한 최신 AI 모델 동향과 오픈AI, 엔비디아, 앤트로픽 등 주요 테크 기업의 신규 API 및 기술 업데이트를 다룬다. 또한…",
+      "comment_signal": "진짜 무슨 대해적시대 같네ㅋㅋ",
       "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "tsJP-sWP3Sg",
+      "channel_name": "안될공학 - IT 테크 신기술",
+      "title": "엔비디아 금융 플랫폼 등장! 빅테크가 이렇게까지 AI에 투자하는 진짜 이유 | GPU 부족이 곧 매출 손실이 되는 시대",
+      "thumbnail_url": "https://i.ytimg.com/vi/tsJP-sWP3Sg/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=tsJP-sWP3Sg",
+      "published_at": "2026-08-24T06:01:44Z",
+      "view_count": 7742,
+      "like_count": 314,
+      "comment_count": 33,
+      "engagement_rate": 0.04482045982950142,
+      "topic_cluster": "Gemini",
+      "summary": "엔비디아가 금융권을 결합해 AI 인프라 시장을 선점하려는 이유와 GPU 컴퓨트 자원이 곧 매출로 직결되는 현상을 분석한다. 인프라 투자 정당화를 위한 매출 효율성의…",
+      "comment_signal": "한국도 당시 위험한 뻘짓이라 불린 반도체, 고속 인터넷망 배치 없었으면 스타, 디아블로 등이 전통 민속놀이 됐을까",
+      "hook_type": "수익"
     }
   ]
 }
