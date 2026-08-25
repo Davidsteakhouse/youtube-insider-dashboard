@@ -1,240 +1,251 @@
 {
-  "digest_date": "2026-08-25",
-  "generated_at": "2026-08-24T23:31:24+00:00",
-  "summary": "최근 24시간 영상 9개를 기준으로 보면, 오늘 가장 먼저 볼 축은 '노트북'입니다. 특히 '120만원...LG 미쳤나요?? ㅋㅋ 반값 수준으로 출시한 LG 그램북 미리 써봤습니다'는 조회수 195.2K, 참여율 1.4%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "'노트북' 주제가 1개 영상으로 가장 많이 다뤄졌습니다. 일반인 관점 직접 실험 or VS 비교 각도로 차별화할 영역이 있습니다.\n[내 채널] 7일 평균 3.5K회 · 지속률 29.3% / 경쟁사 평균 33.9K회 (격차 -90%)",
-  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 08/25\n\n📊 총 10개 | AI 핵심 4 · 인접 AI 5 · 일반 테크 보충 1\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 10 · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [조코딩 JoCoding] 14.5K뷰 · 참여율 2.3%\n   AI뉴스 - ox-alpha 열풍, 오픈AI RL 중지, Mythos 5 개방, Gemini 하입과 무료, 모더나 머크, 독파모, 통속의…\n   ↳ 정체불명의 모델 ox-alpha를 비롯한 최신 AI 모델 동향과 오픈AI, 엔비디아, 앤트로픽 등 주요 테크 기업의 신규 API 및 기술 업데이트를 다룬다. 또한 로봇 공학 발전과 암 백신 임상 성공 등 산업 전반…\n   https://youtu.be/i1FoKc5X4_8\n\n2. AI 핵심 · [조코딩 JoCoding] 4.9K뷰 · 참여율 1.8%\n   여러분의 서비스는 모두에게 열려있나요?\n   ↳ 웹 서비스 이용 시 스크린 리더 사용자를 위해 버튼과 요소에 정확한 이름과 역할을 부여하는 웹 접근성 개선의 중요성을 강조한다.\n   https://youtu.be/qFnADa20OOo\n\n3. AI 핵심 · [Matt Wolfe] 3.0K뷰 · 참여율 5.6%\n   This AI Creates Insane 3D Worlds\n   ↳ 텐센트의 WorldClaw 모델은 텍스트 프롬프트만으로 편집 가능한 개별 3D 객체들로 구성된 3D 환경을 생성한다. 이는 이미지 분할 및 2D-to-3D 기술을 결합하여 게임 환경 개발이나 로봇 시뮬레이션 등에…\n   https://youtu.be/ZY628bslSYY\n\n4. AI 핵심 · [All About AI] 525뷰 · 참여율 5.3%\n   30 Days of AI Bot Trading on Kalshi and Polymarket: The Results\n   ↳ 30일간 칼시(Kalshi)와 폴리마켓(Polymarket)에서 AI 봇을 활용해 자동 거래를 수행한 결과를 공유하며 실제 투자 운영 경험과 성과를 정리한다.\n   https://youtu.be/AGLYcwegcis\n\n5. AI 인접 · [ITSub잇섭] 195.2K뷰 · 참여율 1.4%\n   120만원...LG 미쳤나요?? ㅋㅋ 반값 수준으로 출시한 LG 그램북 미리 써봤습니다\n   ↳ 120만 원대의 합리적인 가격으로 출시된 'LG 그램북 2026'을 미리 살펴보고, 저전력 프로세서 기반의 뛰어난 배터리 효율과 가벼운 작업 환경에서의 사용성을 분석한다.\n   https://youtu.be/0f4cfOuJ1CQ\n\n6. AI 인접 · [주연 ZUYONI] 51.0K뷰 · 참여율 2.1%\n   30대의 꿈: 일하러 가서 놀고 먹기\n   ↳ 드리미의 신제품 '아쿠아 스팀' 로봇청소기 런칭 행사를 방문하여 180도 고온 스팀 분사, 자동 물걸레 세척 및 확장형 롤러 등 핵심 기능을 체험하고 살펴본다.\n   https://youtu.be/wTDXNwbCnCA\n\n7. AI 인접 · [Dan Martell] 27.3K뷰 · 참여율 5.5%\n   How much do you ACTUALLY know about AI?\n   ↳ LLM, 에이전트, MCP 등 복잡한 AI 관련 용어와 개념들을 나열하며 사용자가 AI 생태계 전반에 대해 얼마나 알고 있는지 점검하도록 유도한다.\n   https://youtu.be/2lWarkDqRTA\n\n8. AI 인접 · [안될공학 - IT 테크 신기술] 7.7K뷰 · 참여율 4.5%\n   엔비디아 금융 플랫폼 등장! 빅테크가 이렇게까지 AI에 투자하는 진짜 이유 | GPU 부족이 곧 매출 손실이 되는 시대\n   ↳ 엔비디아가 금융권을 결합해 AI 인프라 시장을 선점하려는 이유와 GPU 컴퓨트 자원이 곧 매출로 직결되는 현상을 분석한다. 인프라 투자 정당화를 위한 매출 효율성의 중요성과 데이터센터 구축의 다각적 요소를 다룬다.\n   https://youtu.be/tsJP-sWP3Sg\n\n9. AI 인접 · [Dan Martell] 1.3K뷰 · 참여율 10.6%\n   The intersection of kind and warrior\n   ↳ 친절함과 강인함의 공존이라는 주제를 다루며 영상 하단 링크를 통해 지원할 것을 안내한다.\n   https://youtu.be/haPuQQ5gf34\n\n10. 테크 보충 · [귀곰] 33.4K뷰 · 참여율 0.8%\n   현직 밥솥마냥 스팀 뿜어내는 로봇청소기 ㄷㄷ\n   ↳ 드리미 아쿠아 스팀 로봇청소기는 180도 고온 스팀을 분사해 바닥을 닦아내는 방식으로, 행사장에서 확인한 강력한 스팀 청소 성능과 기기 특징을 소개한다.\n   https://youtu.be/Tjw2_VjLelk\n\n📈 스마트대디 어제 실적\n조회수 4.6K (↑32% vs 7일 평균) | 구독 +9\n시청 지속률 28.5% | 평균 시청 2분 18초\n경쟁사 평균 33.9K회 대비 내 7일 평균 -90%\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+  "digest_date": "2026-08-26",
+  "generated_at": "2026-08-25T23:35:06+00:00",
+  "summary": "최근 24시간 영상 9개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'ChatGPT'입니다. 특히 '로봇들도 모여서 올림픽을 여는 시대'는 조회수 26.2K, 참여율 0.6%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "'ChatGPT' 주제가 2개 영상으로 가장 많이 다뤄졌습니다. ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.\n[내 채널] 7일 평균 3.9K회 · 지속률 29.1% / 경쟁사 평균 11.6K회 (격차 -67%)",
+  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 08/26\n\n📊 총 10개 | AI 핵심 8 · 인접 AI 1 · 일반 테크 보충 1\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 10 · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [조코딩 JoCoding] 26.2K뷰 · 참여율 0.6%\n   로봇들도 모여서 올림픽을 여는 시대\n   ↳ 휴머노이드 로봇 기술이 1년 만에 비약적으로 발전하며 인간의 운동 기록을 뛰어넘는 속도와 퍼포먼스를 보여주고 있습니다.\n   https://youtu.be/k6O3cd5Ptx0\n\n2. AI 핵심 · [조코딩 JoCoding] 22.2K뷰 · 참여율 0.4%\n   유출된 에어팟 울트라의 정체 ㄷㄷ\n   ↳ 유출된 에어팟 울트라 루머를 통해 비주얼 인식 및 카메라 기능이 탑재되어 사물과 사람을 식별하는 스마트 기능을 갖출 가능성을 다룹니다.\n   https://youtu.be/IQA309U_39M\n\n3. AI 핵심 · [조코딩 JoCoding] 15.1K뷰 · 참여율 0.9%\n   한국 대표 AI 선발 기준이..?\n   ↳ 한국 AI 대표 기업 선발 과정에서 성능 1위 모델이 제외되고 다른 기업들이 선정된 것에 대한 논란과 심사 기준의 의문을 제기합니다.\n   https://youtu.be/D-y_hBD5wdU\n\n4. AI 핵심 · [Jeff Su] 12.9K뷰 · 참여율 5.2%\n   Learn 95% of ChatGPT Work in Under 20 Minutes\n   ↳ ChatGPT Work에서 agents.md 파일을 활용해 업무 규칙을 설정하고 플러그인을 연결하여 맞춤형 AI 시스템을 구축하는 효율적인 워크플로우 방법을 설명합니다.\n   https://youtu.be/KmcTu2EigTs\n\n5. AI 핵심 · [조코딩 JoCoding] 6.0K뷰 · 참여율 1.0%\n   1년동안 제미나이를 무료로 쓰는 미친 이벤트;;;;\n   ↳ 제미나이 서비스와 함께 제공되는 대용량 클라우드 스토리지 및 학습 툴 업로드 혜택을 무료로 이용할 수 있는 이벤트 정보를 공유합니다.\n   https://youtu.be/gmSwCPdwfcw\n\n6. AI 핵심 · [Futurepedia] 4.6K뷰 · 참여율 5.6%\n   ChatGPT Work Is More Powerful Than You Think\n   ↳ ChatGPT Work의 고급 기능을 활용해 웹 브라우저 제어, 플러그인, 자동화 블록 구축 등 업무 효율을 극대화하는 실질적인 활용법을 제시합니다.\n   https://youtu.be/18Ih4w16UP0\n\n7. AI 핵심 · [Matt Wolfe] 3.1K뷰 · 참여율 4.9%\n   This AI Found Money I Was Wasting\n   ↳ Hyperagent AI 에이전트 팀을 구성하여 이메일에서 영수증을 자동 추출하고 비용을 카테고리별로 관리하여 불필요한 지출을 찾아내는 자동화 시스템을 구축했습니다.\n   https://youtu.be/f74JmwXm-sQ\n\n8. AI 핵심 · [The AI Advantage] 1.8K뷰 · 참여율 1.6%\n   ChatGPT Can See Everything on Your Computer Now\n   ↳ ChatGPT가 컴퓨터 화면을 직접 보고 작업 내용을 기억하는 기능을 통해 AI가 사용자의 활동 맥락을 파악하고 보조하는 방식이 강화되었습니다.\n   https://youtu.be/y4AMjMp2wxo\n\n9. AI 인접 · [월텍남 - 월스트리트 테크남] 12.6K뷰 · 참여율 2.5%\n   삼전, 닉스 HBM이제 필요 없다고?! 완전히 새로운 메모리가 등장..ㄷㄷㄷ\n   ↳ HBM을 넘어선 차세대 메모리 규격인 HBF가 등장하여 메모리 용량과 속도를 획기적으로 높이고 전체 컴퓨팅 부품을 통합해 AI 서비스 비용 절감을 가능케 합니다.\n   https://youtu.be/MDYLNfrRaPA\n\n10. 테크 보충 · [ITSub잇섭] 114.3K뷰 · 참여율 2.0%\n   긴급속보 | 애플 M6 맥미니&신형 맥스튜디오 기습 공개? 최대 3,000만원짜리 풀옵션 무엇 ㄷㄷ\n   ↳ 새롭게 리프레시된 M6 맥미니와 M5 Ultra 맥스튜디오의 스펙을 정리하고, 상승한 가격 정책과 메모리 구성 옵션 변화를 상세히 분석합니다.\n   https://youtu.be/VikM38M0RG8\n\n📈 스마트대디 어제 실적\n조회수 4.4K (↑14% vs 7일 평균) | 구독 +0\n시청 지속률 28.3% | 평균 시청 2분 13초\n경쟁사 평균 11.6K회 대비 내 7일 평균 -67%\n\n💡 VS 각도: ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
   "video_count": 9,
-  "total_recent_video_count": 12,
+  "total_recent_video_count": 15,
   "focus_scope": "ai_priority_then_tech_fill",
-  "average_view_count": 33945.0,
-  "average_engagement_rate": 0.04351182831812656,
-  "average_like_count": 647.0,
-  "average_comment_count": 76.0,
-  "best_video_id": "0f4cfOuJ1CQ",
-  "best_topic": "노트북",
+  "average_view_count": 11609.0,
+  "average_engagement_rate": 0.025272340898476502,
+  "average_like_count": 188.0,
+  "average_comment_count": 20.0,
+  "best_video_id": "k6O3cd5Ptx0",
+  "best_topic": "ChatGPT",
   "summary_points": [
-    "가장 겹친 주제는 '노트북'이며 1개 영상, 평균 조회수 195.2K, 평균 참여율 1.4%입니다.",
-    "최고 실적 영상은 '120만원...LG 미쳤나요?? ㅋㅋ 반값 수준으로 출시한 LG 그램북 미리 써봤습니다'이며 긴급성 훅과 뉴스 분석 포맷 조합이 강했습니다.",
-    "반복 노출된 툴은 ChatGPT 2회, Claude 2회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
+    "가장 겹친 주제는 'ChatGPT'이며 2개 영상, 평균 조회수 3.2K, 평균 참여율 3.6%입니다.",
+    "최고 실적 영상은 '로봇들도 모여서 올림픽을 여는 시대'이며 문제 해결 훅과 빌드 데모 포맷 조합이 강했습니다.",
+    "반복 노출된 툴은 ChatGPT 3회, Claude 2회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
   ],
   "action_chips": [
-    "주제: 노트북",
-    "훅: 긴급성",
-    "포맷: 뉴스 분석",
-    "기준 채널: ITSub잇섭"
+    "주제: ChatGPT",
+    "훅: 문제 해결",
+    "포맷: 빌드 데모",
+    "기준 채널: 조코딩 JoCoding"
   ],
   "title_suggestions": [
-    "노트북 직접 실험 — 이게 진짜 되나?",
-    "노트북 vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
-    "노트북 써봤더니... (기대 vs 현실 솔직 후기)"
+    "ChatGPT vs Claude vs Gemini, 일반인 업무 실전 대결 결과",
+    "GPT 최신 버전 직접 실험 — 이전이랑 진짜 달라?",
+    "GPT 써봤더니... 기대랑 다른 점 솔직하게 다 말해봄"
   ],
   "recommendations": [
     {
-      "title": "노트북 직접 실험 — 이게 진짜 되나?",
-      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
-      "angle": "큰 주제 하나를 대표 제목으로 세우고, 나머지 포인트는 보조 정보처럼 정리하는 압축형 포장이 좋습니다.",
-      "thumbnail_copy": "노트북 지금 봐야 함",
-      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
-      "source_video_id": "0f4cfOuJ1CQ",
-      "source": "120만원...LG 미쳤나요?? ㅋㅋ 반값 수준으로 출시한 LG 그램북 미리 써봤습니다",
-      "my_channel_context": "내 7일 평균 3.5K회 · 지속률 29.3% / 경쟁사 대비 -90%"
+      "title": "ChatGPT vs Claude vs Gemini, 일반인 업무 실전 대결 결과",
+      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
+      "angle": "'ChatGPT'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
+      "thumbnail_copy": "ChatGPT 바로 해결",
+      "reason": "ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.",
+      "source_video_id": "18Ih4w16UP0",
+      "source": "ChatGPT Work Is More Powerful Than You Think",
+      "my_channel_context": "내 7일 평균 3.9K회 · 지속률 29.1% / 경쟁사 대비 -67%"
+    },
+    {
+      "title": "GPT 최신 버전 직접 실험 — 이전이랑 진짜 달라?",
+      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
+      "angle": "'ChatGPT'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
+      "thumbnail_copy": "ChatGPT 지금 봐야 함",
+      "reason": "ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.",
+      "source_video_id": "y4AMjMp2wxo",
+      "source": "ChatGPT Can See Everything on Your Computer Now",
+      "my_channel_context": "내 7일 평균 3.9K회 · 지속률 29.1% / 경쟁사 대비 -67%"
     }
   ],
   "topic_clusters": [
     {
-      "label": "노트북",
-      "count": 1,
-      "avg_view_count": 195249,
-      "avg_engagement_rate": 0.014453339069598307,
-      "avg_like_count": 2369,
-      "avg_comment_count": 453,
+      "label": "ChatGPT",
+      "count": 2,
+      "avg_view_count": 3204,
+      "avg_engagement_rate": 0.03628014458901526,
+      "avg_like_count": 136,
+      "avg_comment_count": 8,
       "source_titles": [
-        "120만원...LG 미쳤나요?? ㅋㅋ 반값 수준으로 출시한 LG 그램북 미리 써봤습니다"
+        "ChatGPT Work Is More Powerful Than You Think",
+        "ChatGPT Can See Everything on Your Computer Now"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/0f4cfOuJ1CQ/hqdefault.jpg",
-      "representative_video_id": "0f4cfOuJ1CQ",
-      "representative_title": "120만원...LG 미쳤나요?? ㅋㅋ 반값 수준으로 출시한 LG 그램북 미리 써봤습니다"
+      "thumbnail_url": "https://i.ytimg.com/vi/18Ih4w16UP0/hqdefault.jpg",
+      "representative_video_id": "18Ih4w16UP0",
+      "representative_title": "ChatGPT Work Is More Powerful Than You Think"
     },
     {
-      "label": "30대의",
+      "label": "로봇들도",
       "count": 1,
-      "avg_view_count": 51024,
-      "avg_engagement_rate": 0.021362496080275947,
-      "avg_like_count": 997,
-      "avg_comment_count": 93,
+      "avg_view_count": 26155,
+      "avg_engagement_rate": 0.00615561078187727,
+      "avg_like_count": 132,
+      "avg_comment_count": 29,
       "source_titles": [
-        "30대의 꿈: 일하러 가서 놀고 먹기"
+        "로봇들도 모여서 올림픽을 여는 시대"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/wTDXNwbCnCA/hqdefault.jpg",
-      "representative_video_id": "wTDXNwbCnCA",
-      "representative_title": "30대의 꿈: 일하러 가서 놀고 먹기"
+      "thumbnail_url": "https://i.ytimg.com/vi/k6O3cd5Ptx0/hqdefault.jpg",
+      "representative_video_id": "k6O3cd5Ptx0",
+      "representative_title": "로봇들도 모여서 올림픽을 여는 시대"
     },
     {
-      "label": "AI기본용어",
+      "label": "유출된",
       "count": 1,
-      "avg_view_count": 27257,
-      "avg_engagement_rate": 0.05521517408372161,
-      "avg_like_count": 1463,
-      "avg_comment_count": 42,
+      "avg_view_count": 22233,
+      "avg_engagement_rate": 0.0044978185579993704,
+      "avg_like_count": 79,
+      "avg_comment_count": 21,
       "source_titles": [
-        "How much do you ACTUALLY know about AI?"
+        "유출된 에어팟 울트라의 정체 ㄷㄷ"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/2lWarkDqRTA/hqdefault.jpg",
-      "representative_video_id": "2lWarkDqRTA",
-      "representative_title": "How much do you ACTUALLY know about AI?"
+      "thumbnail_url": "https://i.ytimg.com/vi/IQA309U_39M/hqdefault.jpg",
+      "representative_video_id": "IQA309U_39M",
+      "representative_title": "유출된 에어팟 울트라의 정체 ㄷㄷ"
     },
     {
-      "label": "GPT-5",
+      "label": "한국",
       "count": 1,
-      "avg_view_count": 14529,
-      "avg_engagement_rate": 0.02257553857801638,
-      "avg_like_count": 291,
-      "avg_comment_count": 37,
+      "avg_view_count": 15093,
+      "avg_engagement_rate": 0.008547008547008548,
+      "avg_like_count": 106,
+      "avg_comment_count": 23,
       "source_titles": [
-        "AI뉴스 - ox-alpha 열풍, 오픈AI RL 중지, Mythos 5 개방, Gemini 하입과 무료, 모더나 머크, 독파모, 통속의 뇌, 로봇 올림픽 등"
+        "한국 대표 AI 선발 기준이..?"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/i1FoKc5X4_8/hqdefault.jpg",
-      "representative_video_id": "i1FoKc5X4_8",
-      "representative_title": "AI뉴스 - ox-alpha 열풍, 오픈AI RL 중지, Mythos 5 개방, Gemini 하입과 무료, 모더나 머크, 독파모, 통속의 뇌, 로봇 올림픽 등"
+      "thumbnail_url": "https://i.ytimg.com/vi/D-y_hBD5wdU/hqdefault.jpg",
+      "representative_video_id": "D-y_hBD5wdU",
+      "representative_title": "한국 대표 AI 선발 기준이..?"
     },
     {
-      "label": "Gemini",
+      "label": "OpenAI",
       "count": 1,
-      "avg_view_count": 7742,
-      "avg_engagement_rate": 0.04482045982950142,
-      "avg_like_count": 314,
-      "avg_comment_count": 33,
+      "avg_view_count": 12907,
+      "avg_engagement_rate": 0.05152242968931588,
+      "avg_like_count": 627,
+      "avg_comment_count": 38,
       "source_titles": [
-        "엔비디아 금융 플랫폼 등장! 빅테크가 이렇게까지 AI에 투자하는 진짜 이유 | GPU 부족이 곧 매출 손실이 되는 시대"
+        "Learn 95% of ChatGPT Work in Under 20 Minutes"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/tsJP-sWP3Sg/hqdefault.jpg",
-      "representative_video_id": "tsJP-sWP3Sg",
-      "representative_title": "엔비디아 금융 플랫폼 등장! 빅테크가 이렇게까지 AI에 투자하는 진짜 이유 | GPU 부족이 곧 매출 손실이 되는 시대"
+      "thumbnail_url": "https://i.ytimg.com/vi/KmcTu2EigTs/hqdefault.jpg",
+      "representative_video_id": "KmcTu2EigTs",
+      "representative_title": "Learn 95% of ChatGPT Work in Under 20 Minutes"
     },
     {
-      "label": "여러분의",
+      "label": "agents",
       "count": 1,
-      "avg_view_count": 4858,
-      "avg_engagement_rate": 0.017908604363935775,
-      "avg_like_count": 81,
+      "avg_view_count": 12606,
+      "avg_engagement_rate": 0.024670791686498494,
+      "avg_like_count": 270,
+      "avg_comment_count": 41,
+      "source_titles": [
+        "삼전, 닉스 HBM이제 필요 없다고?! 완전히 새로운 메모리가 등장..ㄷㄷㄷ"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/MDYLNfrRaPA/hqdefault.jpg",
+      "representative_video_id": "MDYLNfrRaPA",
+      "representative_title": "삼전, 닉스 HBM이제 필요 없다고?! 완전히 새로운 메모리가 등장..ㄷㄷㄷ"
+    },
+    {
+      "label": "1년동안",
+      "count": 1,
+      "avg_view_count": 5964,
+      "avg_engagement_rate": 0.01039570757880617,
+      "avg_like_count": 56,
       "avg_comment_count": 6,
       "source_titles": [
-        "여러분의 서비스는 모두에게 열려있나요?"
+        "1년동안 제미나이를 무료로 쓰는 미친 이벤트;;;;"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/qFnADa20OOo/hqdefault.jpg",
-      "representative_video_id": "qFnADa20OOo",
-      "representative_title": "여러분의 서비스는 모두에게 열려있나요?"
+      "thumbnail_url": "https://i.ytimg.com/vi/gmSwCPdwfcw/hqdefault.jpg",
+      "representative_video_id": "gmSwCPdwfcw",
+      "representative_title": "1년동안 제미나이를 무료로 쓰는 미친 이벤트;;;;"
     },
     {
-      "label": "코딩",
+      "label": "Claude",
       "count": 1,
-      "avg_view_count": 2998,
-      "avg_engagement_rate": 0.056037358238825885,
-      "avg_like_count": 155,
-      "avg_comment_count": 13,
+      "avg_view_count": 3116,
+      "avg_engagement_rate": 0.04910141206675225,
+      "avg_like_count": 145,
+      "avg_comment_count": 8,
       "source_titles": [
-        "This AI Creates Insane 3D Worlds"
+        "This AI Found Money I Was Wasting"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/ZY628bslSYY/hqdefault.jpg",
-      "representative_video_id": "ZY628bslSYY",
-      "representative_title": "This AI Creates Insane 3D Worlds"
-    },
-    {
-      "label": "ChatGPT",
-      "count": 1,
-      "avg_view_count": 1322,
-      "avg_engagement_rate": 0.1059001512859304,
-      "avg_like_count": 133,
-      "avg_comment_count": 7,
-      "source_titles": [
-        "The intersection of kind and warrior"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/haPuQQ5gf34/hqdefault.jpg",
-      "representative_video_id": "haPuQQ5gf34",
-      "representative_title": "The intersection of kind and warrior"
+      "thumbnail_url": "https://i.ytimg.com/vi/f74JmwXm-sQ/hqdefault.jpg",
+      "representative_video_id": "f74JmwXm-sQ",
+      "representative_title": "This AI Found Money I Was Wasting"
     }
   ],
   "video_highlights": [
     {
-      "video_id": "0f4cfOuJ1CQ",
-      "channel_name": "ITSub잇섭",
-      "title": "120만원...LG 미쳤나요?? ㅋㅋ 반값 수준으로 출시한 LG 그램북 미리 써봤습니다",
-      "thumbnail_url": "https://i.ytimg.com/vi/0f4cfOuJ1CQ/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=0f4cfOuJ1CQ",
-      "published_at": "2026-08-24T11:00:23Z",
-      "view_count": 195249,
-      "like_count": 2369,
-      "comment_count": 453,
-      "engagement_rate": 0.014453339069598307,
-      "topic_cluster": "노트북",
-      "summary": "120만 원대의 합리적인 가격으로 출시된 'LG 그램북 2026'을 미리 살펴보고, 저전력 프로세서 기반의 뛰어난 배터리 효율과 가벼운 작업 환경에서의 사용성을 분…",
-      "comment_signal": "120만원이 가성비 시대라니ㄷㄷ",
-      "hook_type": "긴급성"
-    },
-    {
-      "video_id": "wTDXNwbCnCA",
-      "channel_name": "주연 ZUYONI",
-      "title": "30대의 꿈: 일하러 가서 놀고 먹기",
-      "thumbnail_url": "https://i.ytimg.com/vi/wTDXNwbCnCA/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=wTDXNwbCnCA",
-      "published_at": "2026-08-24T10:00:30Z",
-      "view_count": 51024,
-      "like_count": 997,
-      "comment_count": 93,
-      "engagement_rate": 0.021362496080275947,
-      "topic_cluster": "30대의",
-      "summary": "드리미의 신제품 '아쿠아 스팀' 로봇청소기 런칭 행사를 방문하여 180도 고온 스팀 분사, 자동 물걸레 세척 및 확장형 롤러 등 핵심 기능을 체험하고 살펴본다.",
-      "comment_signal": "뭐야 그냥 열심히 일했음 청년이잔아..?",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "2lWarkDqRTA",
-      "channel_name": "Dan Martell",
-      "title": "How much do you ACTUALLY know about AI?",
-      "thumbnail_url": "https://i.ytimg.com/vi/2lWarkDqRTA/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=2lWarkDqRTA",
-      "published_at": "2026-08-24T15:02:25Z",
-      "view_count": 27257,
-      "like_count": 1463,
-      "comment_count": 42,
-      "engagement_rate": 0.05521517408372161,
-      "topic_cluster": "AI기본용어",
-      "summary": "LLM, 에이전트, MCP 등 복잡한 AI 관련 용어와 개념들을 나열하며 사용자가 AI 생태계 전반에 대해 얼마나 알고 있는지 점검하도록 유도한다.",
-      "comment_signal": "Thanks for the granola recommendation it’s low-key underrated",
-      "hook_type": "긴급성"
-    },
-    {
-      "video_id": "i1FoKc5X4_8",
+      "video_id": "k6O3cd5Ptx0",
       "channel_name": "조코딩 JoCoding",
-      "title": "AI뉴스 - ox-alpha 열풍, 오픈AI RL 중지, Mythos 5 개방, Gemini 하입과 무료, 모더나 머크, 독파모, 통속의 뇌, 로봇 올림픽 등",
-      "thumbnail_url": "https://i.ytimg.com/vi/i1FoKc5X4_8/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=i1FoKc5X4_8",
-      "published_at": "2026-08-24T13:00:39Z",
-      "view_count": 14529,
-      "like_count": 291,
-      "comment_count": 37,
-      "engagement_rate": 0.02257553857801638,
-      "topic_cluster": "GPT-5",
-      "summary": "정체불명의 모델 ox-alpha를 비롯한 최신 AI 모델 동향과 오픈AI, 엔비디아, 앤트로픽 등 주요 테크 기업의 신규 API 및 기술 업데이트를 다룬다. 또한…",
-      "comment_signal": "진짜 무슨 대해적시대 같네ㅋㅋ",
+      "title": "로봇들도 모여서 올림픽을 여는 시대",
+      "thumbnail_url": "https://i.ytimg.com/vi/k6O3cd5Ptx0/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=k6O3cd5Ptx0",
+      "published_at": "2026-08-25T09:00:30Z",
+      "view_count": 26155,
+      "like_count": 132,
+      "comment_count": 29,
+      "engagement_rate": 0.00615561078187727,
+      "topic_cluster": "로봇들도",
+      "summary": "휴머노이드 로봇 기술이 1년 만에 비약적으로 발전하며 인간의 운동 기록을 뛰어넘는 속도와 퍼포먼스를 보여주고 있습니다.",
+      "comment_signal": "도리도리 뭔데 ㅋㅋㅋㅋㅋ아씨 밥먹다뱉었네",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "tsJP-sWP3Sg",
-      "channel_name": "안될공학 - IT 테크 신기술",
-      "title": "엔비디아 금융 플랫폼 등장! 빅테크가 이렇게까지 AI에 투자하는 진짜 이유 | GPU 부족이 곧 매출 손실이 되는 시대",
-      "thumbnail_url": "https://i.ytimg.com/vi/tsJP-sWP3Sg/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=tsJP-sWP3Sg",
-      "published_at": "2026-08-24T06:01:44Z",
-      "view_count": 7742,
-      "like_count": 314,
-      "comment_count": 33,
-      "engagement_rate": 0.04482045982950142,
-      "topic_cluster": "Gemini",
-      "summary": "엔비디아가 금융권을 결합해 AI 인프라 시장을 선점하려는 이유와 GPU 컴퓨트 자원이 곧 매출로 직결되는 현상을 분석한다. 인프라 투자 정당화를 위한 매출 효율성의…",
-      "comment_signal": "한국도 당시 위험한 뻘짓이라 불린 반도체, 고속 인터넷망 배치 없었으면 스타, 디아블로 등이 전통 민속놀이 됐을까",
-      "hook_type": "수익"
+      "video_id": "IQA309U_39M",
+      "channel_name": "조코딩 JoCoding",
+      "title": "유출된 에어팟 울트라의 정체 ㄷㄷ",
+      "thumbnail_url": "https://i.ytimg.com/vi/IQA309U_39M/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=IQA309U_39M",
+      "published_at": "2026-08-25T06:00:23Z",
+      "view_count": 22233,
+      "like_count": 79,
+      "comment_count": 21,
+      "engagement_rate": 0.0044978185579993704,
+      "topic_cluster": "유출된",
+      "summary": "유출된 에어팟 울트라 루머를 통해 비주얼 인식 및 카메라 기능이 탑재되어 사물과 사람을 식별하는 스마트 기능을 갖출 가능성을 다룹니다.",
+      "comment_signal": "그 각도가 아닌데 그리고 배터리 문제만 봐도 그 용도는 아니야...",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "D-y_hBD5wdU",
+      "channel_name": "조코딩 JoCoding",
+      "title": "한국 대표 AI 선발 기준이..?",
+      "thumbnail_url": "https://i.ytimg.com/vi/D-y_hBD5wdU/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=D-y_hBD5wdU",
+      "published_at": "2026-08-25T10:00:07Z",
+      "view_count": 15093,
+      "like_count": 106,
+      "comment_count": 23,
+      "engagement_rate": 0.008547008547008548,
+      "topic_cluster": "한국",
+      "summary": "한국 AI 대표 기업 선발 과정에서 성능 1위 모델이 제외되고 다른 기업들이 선정된 것에 대한 논란과 심사 기준의 의문을 제기합니다.",
+      "comment_signal": "책임자가 국회의원 하겠다고 런해서 망한 사업임",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "KmcTu2EigTs",
+      "channel_name": "Jeff Su",
+      "title": "Learn 95% of ChatGPT Work in Under 20 Minutes",
+      "thumbnail_url": "https://i.ytimg.com/vi/KmcTu2EigTs/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=KmcTu2EigTs",
+      "published_at": "2026-08-25T13:00:23Z",
+      "view_count": 12907,
+      "like_count": 627,
+      "comment_count": 38,
+      "engagement_rate": 0.05152242968931588,
+      "topic_cluster": "OpenAI",
+      "summary": "ChatGPT Work에서 agents.md 파일을 활용해 업무 규칙을 설정하고 플러그인을 연결하여 맞춤형 AI 시스템을 구축하는 효율적인 워크플로우 방법을 설명합…",
+      "comment_signal": "Great stuff. Pro tip if you’re bouncing between Claude and Chat. Rather than maintaining a Clau…",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "MDYLNfrRaPA",
+      "channel_name": "월텍남 - 월스트리트 테크남",
+      "title": "삼전, 닉스 HBM이제 필요 없다고?! 완전히 새로운 메모리가 등장..ㄷㄷㄷ",
+      "thumbnail_url": "https://i.ytimg.com/vi/MDYLNfrRaPA/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=MDYLNfrRaPA",
+      "published_at": "2026-08-25T10:37:43Z",
+      "view_count": 12606,
+      "like_count": 270,
+      "comment_count": 41,
+      "engagement_rate": 0.024670791686498494,
+      "topic_cluster": "agents",
+      "summary": "HBM을 넘어선 차세대 메모리 규격인 HBF가 등장하여 메모리 용량과 속도를 획기적으로 높이고 전체 컴퓨팅 부품을 통합해 AI 서비스 비용 절감을 가능케 합니다.",
+      "comment_signal": "현직자입니다. HBM은 DRAM을 쌓은거구요. HBF는 Flash를 쌓은건데요... 엄연히.. 두개는 완전 다릅니다. DRAM은 레이턴시(지연)가 굉장히 작고, I/O개당…",
+      "hook_type": "문제 해결"
     }
   ]
 }
