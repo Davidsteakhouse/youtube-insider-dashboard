@@ -1,237 +1,261 @@
 {
-  "digest_date": "2026-08-27",
-  "generated_at": "2026-08-27T04:31:31+00:00",
-  "summary": "최근 24시간 영상 9개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'Claude'입니다. 특히 '오픈AI가 막아둔 Codex의 성능을 쪽쪽 빨아먹는 방법'는 조회수 35.0K, 참여율 1.0%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "'Claude' 주제가 2개 영상으로 가장 많이 다뤄졌습니다. Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n[내 채널] 7일 평균 4.1K회 · 지속률 28.6% / 경쟁사 평균 18.9K회 (격차 -78%)",
-  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 08/27\n\n📊 총 10개 | AI 핵심 7 · 인접 AI 2 · 일반 테크 보충 1\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 10 · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [조코딩 JoCoding] 35.0K뷰 · 참여율 1.0%\n   오픈AI가 막아둔 Codex의 성능을 쪽쪽 빨아먹는 방법\n   ↳ 오픈AI 코덱스의 모델 컨텍스트 윈도우를 설정 파일 수정을 통해 확장하는 방법을 다루며, 무조건적인 확장이 아닌 데이터 압축을 병행하는 것이 효율성 측면에서 더 나은 성능을 낼 수 있음을 강조합니다.\n   https://youtu.be/-uHHa9qdT8E\n\n2. AI 핵심 · [조코딩 JoCoding] 19.5K뷰 · 참여율 0.8%\n   🚨 알리는 당신이 누군지 다 알고있습니다\n   ↳ 알리익스프레스가 비가청 음파를 활용해 사용자의 기기를 특정하고 추적할 가능성을 제기하며, 이러한 기술이 개인정보 식별에 이용될 수 있다는 우려를 다룹니다.\n   https://youtu.be/fNyHVbY8m8g\n\n3. AI 핵심 · [조코딩 JoCoding] 19.2K뷰 · 참여율 1.7%\n   3D 캐릭터 일일히 만들 필요가 없는 이유\n   ↳ 3D 캐릭터 모델링을 직접 수행하지 않고도 효율적으로 생성할 수 있는 도구와 기술을 소개하며, 이를 활용해 게임 개발 과정에서 시간과 노력을 절감하는 방법을 보여줍니다.\n   https://youtu.be/w5oupYX9rUQ\n\n4. AI 핵심 · [조코딩 JoCoding] 17.1K뷰 · 참여율 0.7%\n   이런 것까지 GPT Image가 지원한다고??\n   ↳ GPT 이미지 생성 기능을 통해 별도의 배경 제거 작업 없이도 즉시 투명 배경 이미지를 생성할 수 있는 활용법을 공유합니다.\n   https://youtu.be/1vA50YFI4Us\n\n5. AI 핵심 · [Matt Wolfe] 9.1K뷰 · 참여율 8.2%\n   I Built a FREE App That Runs Your Entire Business\n   ↳ 코덱스와 챗GPT를 활용해 비즈니스 데이터 관리, 일정 추적, 뉴스 요약 등을 한곳에서 처리하는 생산성 대시보드 'Control Center'를 개발하고 배포하는 과정을 설명합니다.\n   https://youtu.be/rKo9iLGjUbs\n\n6. AI 핵심 · [조코딩 JoCoding] 9.0K뷰 · 참여율 3.0%\n   미국의 노션 본사, 직접 다녀왔습니다 - AI로 일하는 실리콘밸리 회사는 뭐가 다를까\n   ↳ 노션 본사를 방문해 AI 시대에 기업이 에이전트를 도입하고 업무 효율을 높이는 인프라를 구축하는 방식과, 노션만의 AX 플레이북 전략을 인터뷰를 통해 살펴봅니다.\n   https://youtu.be/3flfON7F8hU\n\n7. AI 핵심 · [Matt Wolfe] 5.2K뷰 · 참여율 4.0%\n   How To EASILY Run Local AI Models\n   ↳ LM Studio를 활용해 일반 소비자용 컴퓨터에서도 Qwen 3.8 27B와 같은 고성능 AI 모델을 로컬 환경에서 쉽고 안전하게 구동하는 방법을 안내합니다.\n   https://youtu.be/uS2gi-D8C0k\n\n8. AI 인접 · [안될공학 - IT 테크 신기술] 31.0K뷰 · 참여율 2.8%\n   HBM급 미친 메모리 스펙, M5 Ultra 등장... 애플은 에이전틱 AI 시대 강자입니다 | MLX·오픈 모델의 폭발\n   ↳ 애플의 M5 Ultra 칩이 1.2TB/s 메모리 대역폭을 통해 고성능 AI 모델 구동에 최적화되었음을 분석하며, MLX 생태계를 통해 애플 실리콘 환경에서 로컬 AI 모델 경쟁력이 강화되고 있음을 설명합니다.\n   https://youtu.be/ybhBFLKB4Kg\n\n9. AI 인접 · [Dan Martell] 25.1K뷰 · 참여율 6.4%\n   How to start a 1-person business with AI (ask these 3 questions)\n   ↳ 1인 창업 전 사업 아이디어를 검증하기 위해 AI에게 판매 전략과 차별점 등을 질문하며, 자동화 도입 전 수동 검증 프로세스를 거치는 비즈니스 설계 방식을 제시합니다.\n   https://youtu.be/1BApLicRt1w\n\n10. 테크 보충 · [안될공학 - IT 테크 신기술] 38.2K뷰 · 참여율 3.6%\n   삼성 엑시노스 2700, 차세대 퀄컴 칩 성능 이겼다 | 이번 내부 테스트가 유독 신빙성 높은 이유\n   ↳ 삼성 엑시노스 2700이 내부 테스트에서 차세대 스냅드래곤 대비 높은 전력 효율과 성능을 기록한 사례를 분석하며, MX사업부의 검증을 거친 결과라는 점에서 이전보다 높은 신빙성과 성능 개선 가능성을 시사합니다.\n   https://youtu.be/MosypojkWgU\n\n📈 스마트대디 어제 실적\n조회수 3.9K (↓5% vs 7일 평균) | 구독 -1\n시청 지속률 27.8% | 평균 시청 2분 13초\n경쟁사 평균 18.9K회 대비 내 7일 평균 -78%\n\n💡 VS 각도: Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
-  "video_count": 9,
-  "total_recent_video_count": 12,
+  "digest_date": "2026-08-28",
+  "generated_at": "2026-08-28T06:58:22+00:00",
+  "summary": "최근 24시간 영상 11개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'ChatGPT'입니다. 특히 '폴드8은 이렇게 쓰라고 태어났구나..'는 조회수 163.0K, 참여율 1.1%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "'ChatGPT' 주제가 3개 영상으로 가장 많이 다뤄졌습니다. ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.\n[내 채널] 7일 평균 4.0K회 · 지속률 28.1% / 경쟁사 평균 29.9K회 (격차 -86%)",
+  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 08/28\n\n📊 총 10개 | AI 핵심 8 · 인접 AI 2 · 일반 테크 보충 0\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 10 · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [AI Explained] 74.7K뷰 · 참여율 2.9%\n   Sam Altman :‘AGI in 2026’, just as Models Start to [Mis]Train Themselves\n   ↳ 샘 알트만이 2026년 AGI 도래를 예고한 가운데, OpenAI와 METR의 보고서를 통해 AI 모델이 스스로를 학습하거나 에이전트 간 분석을 수행하는 등 차세대 AI 기술의 위험성과 발전 양상을 다룬다.\n   https://youtu.be/KL9_1GbmCic\n\n2. AI 핵심 · [조코딩 JoCoding] 22.5K뷰 · 참여율 0.7%\n   보법이 다른 Speak 본사 직원들 ㄷㄷ\n   ↳ AI 영어 학습 앱 '스픽' 본사 직원들이 AI 네이티브 도구를 활용해 효율적으로 코딩하고 앱을 개발하는 업무 방식을 소개한다.\n   https://youtu.be/iv_eCWhphCU\n\n3. AI 핵심 · [조코딩 JoCoding] 9.9K뷰 · 참여율 0.4%\n   술에 진심인 Speak 미국 본사 ㄷㄷ\n   ↳ AI 영어 학습 앱 '스픽' 미국 본사 사무실의 자유로운 분위기와 사내 문화를 짧게 보여준다.\n   https://youtu.be/dJwHZ-X0fwU\n\n4. AI 핵심 · [MattVidPro] 8.3K뷰 · 참여율 4.2%\n   New H3 \"Max\" 3-Second Gens VS Local H3 Turbo\n   ↳ Fal AI에서 출시한 비디오 모델 'H3 Max'의 빠른 생성 성능을 로컬 MiniMax H3 설정과 비교하며, 성능과 비용 측면에서 모델 활용에 대한 견해를 제시한다.\n   https://youtu.be/W4RLaKsHR9k\n\n5. AI 핵심 · [조코딩 JoCoding] 7.7K뷰 · 참여율 1.1%\n   AI 모델 개선 vs 하네스 엔지니어링\n   ↳ AI 모델 자체의 개선보다 프롬프트와 맥락을 정교하게 다루는 '하네스 엔지니어링'이 실제 결과물 도출에 더 큰 차이를 만들 수 있음을 설명한다.\n   https://youtu.be/2VRwvTWsxhQ\n\n6. AI 핵심 · [Matt Wolfe] 5.2K뷰 · 참여율 3.4%\n   This Company Will Buy Your AI Training Data\n   ↳ AI 모델 학습을 위한 데이터 수요가 폭증함에 따라, 사용자가 자신의 데이터를 직접 판매하고 보상을 받는 'Verb'와 같은 서비스가 향후 하나의 트렌드가 될 수 있음을 시사한다.\n   https://youtu.be/Z93MPi8ZO3A\n\n7. AI 핵심 · [조코딩 JoCoding] 3.3K뷰 · 참여율 0.6%\n   노션 본사 곳곳에 인형이 있는 이유\n   ↳ 노션 본사 곳곳에 캐릭터 인형을 배치한 이유는 고객 중심의 사고를 잃지 않기 위한 상징적 장치임을 설명한다.\n   https://youtu.be/iFcNUaDF1N8\n\n8. AI 핵심 · [조코딩 JoCoding] 2.5K뷰 · 참여율 3.1%\n   영상 AI를 신박하게 활용하는 방법\n   ↳ 생성형 AI 모델 H3를 활용해 캐릭터의 움직임 클립을 제작하고, 이를 프레임 단위로 편집하여 게임 애니메이션 등 콘텐츠 제작에 응용하는 방법을 제안한다.\n   https://youtu.be/fq6t6iNPPjk\n\n9. AI 인접 · [테크몽 Techmong] 163.0K뷰 · 참여율 1.1%\n   폴드8은 이렇게 쓰라고 태어났구나..\n   ↳ 갤럭시 Z 폴드8의 넓은 화면을 활용해 AI로 생성한 이미지를 배경화면으로 꾸미고, 사진을 영상으로 변환하여 잠금 화면과 홈 화면을 연결하는 활용법을 소개한다.\n   https://youtu.be/XrpNk9NQ9x0\n\n10. AI 인접 · [월텍남 - 월스트리트 테크남] 29.4K뷰 · 참여율 1.3%\n   역대급 실적 속 숨겨진 \"버블?\"...메모리 부족이 심각합니다.\n   ↳ 엔비디아의 실적 발표와 메모리 반도체 가격 상승 추이를 분석하며, AI 시장 성장에 따른 마진 압박 및 물리적 AI 분야에서의 엔비디아 영향력을 논한다.\n   https://youtu.be/lglBTc-jC8c\n\n📈 스마트대디 어제 실적\n조회수 3.4K (↓15% vs 7일 평균) | 구독 -3\n시청 지속률 27.8% | 평균 시청 2분 15초\n경쟁사 평균 29.9K회 대비 내 7일 평균 -86%\n\n💡 VS 각도: ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+  "video_count": 11,
+  "total_recent_video_count": 15,
   "focus_scope": "ai_priority_then_tech_fill",
-  "average_view_count": 18915.0,
-  "average_engagement_rate": 0.03170583251877945,
-  "average_like_count": 473.0,
-  "average_comment_count": 43.0,
-  "best_video_id": "-uHHa9qdT8E",
-  "best_topic": "Claude",
+  "average_view_count": 29857.0,
+  "average_engagement_rate": 0.02468390351560779,
+  "average_like_count": 432.0,
+  "average_comment_count": 65.0,
+  "best_video_id": "XrpNk9NQ9x0",
+  "best_topic": "ChatGPT",
   "summary_points": [
-    "가장 겹친 주제는 'Claude'이며 2개 영상, 평균 조회수 17.1K, 평균 참여율 4.7%입니다.",
-    "최고 실적 영상은 '오픈AI가 막아둔 Codex의 성능을 쪽쪽 빨아먹는 방법'이며 문제 해결 훅과 워크플로우 튜토리얼 포맷 조합이 강했습니다.",
-    "반복 노출된 툴은 Claude 3회, ChatGPT 2회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
+    "가장 겹친 주제는 'ChatGPT'이며 3개 영상, 평균 조회수 34.1K, 평균 참여율 2.3%입니다.",
+    "최고 실적 영상은 '폴드8은 이렇게 쓰라고 태어났구나..'이며 문제 해결 훅과 빌드 데모 포맷 조합이 강했습니다.",
+    "반복 노출된 툴은 ChatGPT 3회, OpenAI 1회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
   ],
   "action_chips": [
-    "주제: Claude",
+    "주제: ChatGPT",
     "훅: 문제 해결",
-    "포맷: 워크플로우 튜토리얼",
-    "기준 채널: 조코딩 JoCoding"
+    "포맷: 빌드 데모",
+    "기준 채널: 테크몽 Techmong"
   ],
   "title_suggestions": [
-    "Claude vs ChatGPT, 일반인이 직접 써보니 이게 달랐다",
-    "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
-    "AI 비서 대결: Claude가 진짜 강한 상황은 따로 있었다"
+    "ChatGPT vs Claude vs Gemini, 일반인 업무 실전 대결 결과",
+    "GPT 최신 버전 직접 실험 — 이전이랑 진짜 달라?",
+    "GPT 써봤더니... 기대랑 다른 점 솔직하게 다 말해봄"
   ],
   "recommendations": [
     {
-      "title": "Claude vs ChatGPT, 일반인이 직접 써보니 이게 달랐다",
+      "title": "ChatGPT vs Claude vs Gemini, 일반인 업무 실전 대결 결과",
       "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "Claude 바로 해결",
-      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
-      "source_video_id": "1BApLicRt1w",
-      "source": "How to start a 1-person business with AI (ask these 3 questions)",
-      "my_channel_context": "내 7일 평균 4.1K회 · 지속률 28.6% / 경쟁사 대비 -78%"
+      "angle": "'ChatGPT'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
+      "thumbnail_copy": "ChatGPT 바로 해결",
+      "reason": "ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.",
+      "source_video_id": "KL9_1GbmCic",
+      "source": "Sam Altman :‘AGI in 2026’, just as Models Start to [Mis]Train Themselves",
+      "my_channel_context": "내 7일 평균 4.0K회 · 지속률 28.1% / 경쟁사 대비 -86%"
     },
     {
-      "title": "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
+      "title": "GPT 최신 버전 직접 실험 — 이전이랑 진짜 달라?",
       "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "Claude 핵심 3가지",
-      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
-      "source_video_id": "3flfON7F8hU",
-      "source": "미국의 노션 본사, 직접 다녀왔습니다 - AI로 일하는 실리콘밸리 회사는 뭐가 다를까",
-      "my_channel_context": "내 7일 평균 4.1K회 · 지속률 28.6% / 경쟁사 대비 -78%"
+      "angle": "'ChatGPT'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
+      "thumbnail_copy": "ChatGPT 바로 해결",
+      "reason": "ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.",
+      "source_video_id": "iv_eCWhphCU",
+      "source": "보법이 다른 Speak 본사 직원들 ㄷㄷ",
+      "my_channel_context": "내 7일 평균 4.0K회 · 지속률 28.1% / 경쟁사 대비 -86%"
+    },
+    {
+      "title": "GPT 써봤더니... 기대랑 다른 점 솔직하게 다 말해봄",
+      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
+      "angle": "'ChatGPT'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
+      "thumbnail_copy": "ChatGPT 바로 해결",
+      "reason": "ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.",
+      "source_video_id": "Z93MPi8ZO3A",
+      "source": "This Company Will Buy Your AI Training Data",
+      "my_channel_context": "내 7일 평균 4.0K회 · 지속률 28.1% / 경쟁사 대비 -86%"
     }
   ],
   "topic_clusters": [
     {
-      "label": "Claude",
-      "count": 2,
-      "avg_view_count": 17079,
-      "avg_engagement_rate": 0.047099575374794936,
-      "avg_like_count": 886,
-      "avg_comment_count": 58,
-      "source_titles": [
-        "How to start a 1-person business with AI (ask these 3 questions)",
-        "미국의 노션 본사, 직접 다녀왔습니다 - AI로 일하는 실리콘밸리 회사는 뭐가 다를까"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/1BApLicRt1w/hqdefault.jpg",
-      "representative_video_id": "1BApLicRt1w",
-      "representative_title": "How to start a 1-person business with AI (ask these 3 questions)"
-    },
-    {
       "label": "ChatGPT",
-      "count": 2,
-      "avg_view_count": 7180,
-      "avg_engagement_rate": 0.06106116914423464,
-      "avg_like_count": 444,
-      "avg_comment_count": 36,
+      "count": 3,
+      "avg_view_count": 34148,
+      "avg_engagement_rate": 0.02330585722855634,
+      "avg_like_count": 672,
+      "avg_comment_count": 157,
       "source_titles": [
-        "I Built a FREE App That Runs Your Entire Business",
-        "How To EASILY Run Local AI Models"
+        "Sam Altman :‘AGI in 2026’, just as Models Start to [Mis]Train Themselves",
+        "보법이 다른 Speak 본사 직원들 ㄷㄷ",
+        "This Company Will Buy Your AI Training Data"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/rKo9iLGjUbs/hqdefault.jpg",
-      "representative_video_id": "rKo9iLGjUbs",
-      "representative_title": "I Built a FREE App That Runs Your Entire Business"
+      "thumbnail_url": "https://i.ytimg.com/vi/KL9_1GbmCic/hqdefault.jpg",
+      "representative_video_id": "KL9_1GbmCic",
+      "representative_title": "Sam Altman :‘AGI in 2026’, just as Models Start to [Mis]Train Themselves"
     },
     {
-      "label": "코딩",
+      "label": "폴드8은",
       "count": 1,
-      "avg_view_count": 34977,
-      "avg_engagement_rate": 0.009892214884066672,
-      "avg_like_count": 328,
-      "avg_comment_count": 18,
+      "avg_view_count": 163014,
+      "avg_engagement_rate": 0.011434600709141545,
+      "avg_like_count": 1716,
+      "avg_comment_count": 148,
       "source_titles": [
-        "오픈AI가 막아둔 Codex의 성능을 쪽쪽 빨아먹는 방법"
+        "폴드8은 이렇게 쓰라고 태어났구나.."
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/-uHHa9qdT8E/hqdefault.jpg",
-      "representative_video_id": "-uHHa9qdT8E",
-      "representative_title": "오픈AI가 막아둔 Codex의 성능을 쪽쪽 빨아먹는 방법"
+      "thumbnail_url": "https://i.ytimg.com/vi/XrpNk9NQ9x0/hqdefault.jpg",
+      "representative_video_id": "XrpNk9NQ9x0",
+      "representative_title": "폴드8은 이렇게 쓰라고 태어났구나.."
     },
     {
-      "label": "agents",
+      "label": "역대급",
       "count": 1,
-      "avg_view_count": 30963,
-      "avg_engagement_rate": 0.027904272841778897,
-      "avg_like_count": 708,
-      "avg_comment_count": 156,
+      "avg_view_count": 29415,
+      "avg_engagement_rate": 0.013428522862485127,
+      "avg_like_count": 350,
+      "avg_comment_count": 45,
       "source_titles": [
-        "HBM급 미친 메모리 스펙, M5 Ultra 등장... 애플은 에이전틱 AI 시대 강자입니다 | MLX·오픈 모델의 폭발"
+        "역대급 실적 속 숨겨진 \"버블?\"...메모리 부족이 심각합니다."
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/ybhBFLKB4Kg/hqdefault.jpg",
-      "representative_video_id": "ybhBFLKB4Kg",
-      "representative_title": "HBM급 미친 메모리 스펙, M5 Ultra 등장... 애플은 에이전틱 AI 시대 강자입니다 | MLX·오픈 모델의 폭발"
+      "thumbnail_url": "https://i.ytimg.com/vi/lglBTc-jC8c/hqdefault.jpg",
+      "representative_video_id": "lglBTc-jC8c",
+      "representative_title": "역대급 실적 속 숨겨진 \"버블?\"...메모리 부족이 심각합니다."
+    },
+    {
+      "label": "술에",
+      "count": 1,
+      "avg_view_count": 9929,
+      "avg_engagement_rate": 0.004028603081881358,
+      "avg_like_count": 39,
+      "avg_comment_count": 1,
+      "source_titles": [
+        "술에 진심인 Speak 미국 본사 ㄷㄷ"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/dJwHZ-X0fwU/hqdefault.jpg",
+      "representative_video_id": "dJwHZ-X0fwU",
+      "representative_title": "술에 진심인 Speak 미국 본사 ㄷㄷ"
     },
     {
       "label": "OpenAI",
       "count": 1,
-      "avg_view_count": 19490,
-      "avg_engagement_rate": 0.0076449461262185735,
-      "avg_like_count": 136,
-      "avg_comment_count": 13,
+      "avg_view_count": 8260,
+      "avg_engagement_rate": 0.04200968523002421,
+      "avg_like_count": 308,
+      "avg_comment_count": 39,
       "source_titles": [
-        "🚨 알리는 당신이 누군지 다 알고있습니다"
+        "New H3 \"Max\" 3-Second Gens VS Local H3 Turbo"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/fNyHVbY8m8g/hqdefault.jpg",
-      "representative_video_id": "fNyHVbY8m8g",
-      "representative_title": "🚨 알리는 당신이 누군지 다 알고있습니다"
+      "thumbnail_url": "https://i.ytimg.com/vi/W4RLaKsHR9k/hqdefault.jpg",
+      "representative_video_id": "W4RLaKsHR9k",
+      "representative_title": "New H3 \"Max\" 3-Second Gens VS Local H3 Turbo"
     },
     {
-      "label": "3D모델링",
+      "label": "모델",
       "count": 1,
-      "avg_view_count": 19208,
-      "avg_engagement_rate": 0.016972094960433153,
-      "avg_like_count": 318,
-      "avg_comment_count": 8,
+      "avg_view_count": 7742,
+      "avg_engagement_rate": 0.0108499095840868,
+      "avg_like_count": 82,
+      "avg_comment_count": 2,
       "source_titles": [
-        "3D 캐릭터 일일히 만들 필요가 없는 이유"
+        "AI 모델 개선 vs 하네스 엔지니어링"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/w5oupYX9rUQ/hqdefault.jpg",
-      "representative_video_id": "w5oupYX9rUQ",
-      "representative_title": "3D 캐릭터 일일히 만들 필요가 없는 이유"
+      "thumbnail_url": "https://i.ytimg.com/vi/2VRwvTWsxhQ/hqdefault.jpg",
+      "representative_video_id": "2VRwvTWsxhQ",
+      "representative_title": "AI 모델 개선 vs 하네스 엔지니어링"
     },
     {
-      "label": "이런",
+      "label": "Notion",
       "count": 1,
-      "avg_view_count": 17076,
-      "avg_engagement_rate": 0.006617474818458656,
-      "avg_like_count": 108,
-      "avg_comment_count": 5,
+      "avg_view_count": 3287,
+      "avg_engagement_rate": 0.0060845756008518406,
+      "avg_like_count": 19,
+      "avg_comment_count": 1,
       "source_titles": [
-        "이런 것까지 GPT Image가 지원한다고??"
+        "노션 본사 곳곳에 인형이 있는 이유"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/1vA50YFI4Us/hqdefault.jpg",
-      "representative_video_id": "1vA50YFI4Us",
-      "representative_title": "이런 것까지 GPT Image가 지원한다고??"
+      "thumbnail_url": "https://i.ytimg.com/vi/iFcNUaDF1N8/hqdefault.jpg",
+      "representative_video_id": "iFcNUaDF1N8",
+      "representative_title": "노션 본사 곳곳에 인형이 있는 이유"
+    },
+    {
+      "label": "영상제작",
+      "count": 1,
+      "avg_view_count": 2486,
+      "avg_engagement_rate": 0.030571198712791632,
+      "avg_like_count": 76,
+      "avg_comment_count": 0,
+      "source_titles": [
+        "영상 AI를 신박하게 활용하는 방법"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/fq6t6iNPPjk/hqdefault.jpg",
+      "representative_video_id": "fq6t6iNPPjk",
+      "representative_title": "영상 AI를 신박하게 활용하는 방법"
     }
   ],
   "video_highlights": [
     {
-      "video_id": "-uHHa9qdT8E",
+      "video_id": "XrpNk9NQ9x0",
+      "channel_name": "테크몽 Techmong",
+      "title": "폴드8은 이렇게 쓰라고 태어났구나..",
+      "thumbnail_url": "https://i.ytimg.com/vi/XrpNk9NQ9x0/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=XrpNk9NQ9x0",
+      "published_at": "2026-08-27T11:00:22Z",
+      "view_count": 163014,
+      "like_count": 1716,
+      "comment_count": 148,
+      "engagement_rate": 0.011434600709141545,
+      "topic_cluster": "폴드8은",
+      "summary": "갤럭시 Z 폴드8의 넓은 화면을 활용해 AI로 생성한 이미지를 배경화면으로 꾸미고, 사진을 영상으로 변환하여 잠금 화면과 홈 화면을 연결하는 활용법을 소개한다.",
+      "comment_signal": "👉 영상에 사용한 이미지는 아래 링크에서 다운 가능합니다😆 [짱구] 🔗 링크: https://kr.pinterest.com/pin/645774034122682657/ [고…",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "KL9_1GbmCic",
+      "channel_name": "AI Explained",
+      "title": "Sam Altman :‘AGI in 2026’, just as Models Start to [Mis]Train Themselves",
+      "thumbnail_url": "https://i.ytimg.com/vi/KL9_1GbmCic/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=KL9_1GbmCic",
+      "published_at": "2026-08-27T19:16:24Z",
+      "view_count": 74742,
+      "like_count": 1720,
+      "comment_count": 437,
+      "engagement_rate": 0.0288592759091274,
+      "topic_cluster": "ChatGPT",
+      "summary": "샘 알트만이 2026년 AGI 도래를 예고한 가운데, OpenAI와 METR의 보고서를 통해 AI 모델이 스스로를 학습하거나 에이전트 간 분석을 수행하는 등 차세대…",
+      "comment_signal": "The sun is rising on the dawn of AGI and the first thing it does is build secret MySpace.",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "lglBTc-jC8c",
+      "channel_name": "월텍남 - 월스트리트 테크남",
+      "title": "역대급 실적 속 숨겨진 \"버블?\"...메모리 부족이 심각합니다.",
+      "thumbnail_url": "https://i.ytimg.com/vi/lglBTc-jC8c/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=lglBTc-jC8c",
+      "published_at": "2026-08-27T07:45:07Z",
+      "view_count": 29415,
+      "like_count": 350,
+      "comment_count": 45,
+      "engagement_rate": 0.013428522862485127,
+      "topic_cluster": "역대급",
+      "summary": "엔비디아의 실적 발표와 메모리 반도체 가격 상승 추이를 분석하며, AI 시장 성장에 따른 마진 압박 및 물리적 AI 분야에서의 엔비디아 영향력을 논한다.",
+      "comment_signal": "아니요. 전인구가 지구를 구했습니다.",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "iv_eCWhphCU",
       "channel_name": "조코딩 JoCoding",
-      "title": "오픈AI가 막아둔 Codex의 성능을 쪽쪽 빨아먹는 방법",
-      "thumbnail_url": "https://i.ytimg.com/vi/-uHHa9qdT8E/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=-uHHa9qdT8E",
-      "published_at": "2026-08-26T06:00:18Z",
-      "view_count": 34977,
-      "like_count": 328,
-      "comment_count": 18,
-      "engagement_rate": 0.009892214884066672,
-      "topic_cluster": "코딩",
-      "summary": "오픈AI 코덱스의 모델 컨텍스트 윈도우를 설정 파일 수정을 통해 확장하는 방법을 다루며, 무조건적인 확장이 아닌 데이터 압축을 병행하는 것이 효율성 측면에서 더 나…",
-      "comment_signal": "5.6솔 기준 70만 넘어가면 성능 확죽어버림... 컨텍스트 불판 갈아주는건 선택 아닌 필수 그래도 5.3, 제미나이3.1로 코딩하던 시절엔 루프엔지니어링 이런거 생각도…",
+      "title": "보법이 다른 Speak 본사 직원들 ㄷㄷ",
+      "thumbnail_url": "https://i.ytimg.com/vi/iv_eCWhphCU/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=iv_eCWhphCU",
+      "published_at": "2026-08-27T09:00:13Z",
+      "view_count": 22543,
+      "like_count": 131,
+      "comment_count": 21,
+      "engagement_rate": 0.006742669564831655,
+      "topic_cluster": "ChatGPT",
+      "summary": "AI 영어 학습 앱 '스픽' 본사 직원들이 AI 네이티브 도구를 활용해 효율적으로 코딩하고 앱을 개발하는 업무 방식을 소개한다.",
+      "comment_signal": "채널주 스타일대비 댓글 꼰대력이 높네요",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "ybhBFLKB4Kg",
-      "channel_name": "안될공학 - IT 테크 신기술",
-      "title": "HBM급 미친 메모리 스펙, M5 Ultra 등장... 애플은 에이전틱 AI 시대 강자입니다 | MLX·오픈 모델의 폭발",
-      "thumbnail_url": "https://i.ytimg.com/vi/ybhBFLKB4Kg/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=ybhBFLKB4Kg",
-      "published_at": "2026-08-26T11:41:48Z",
-      "view_count": 30963,
-      "like_count": 708,
-      "comment_count": 156,
-      "engagement_rate": 0.027904272841778897,
-      "topic_cluster": "agents",
-      "summary": "애플의 M5 Ultra 칩이 1.2TB/s 메모리 대역폭을 통해 고성능 AI 모델 구동에 최적화되었음을 분석하며, MLX 생태계를 통해 애플 실리콘 환경에서 로컬…",
-      "comment_signal": "DGX사려고했는데 물건이 나와버렸다.",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "1BApLicRt1w",
-      "channel_name": "Dan Martell",
-      "title": "How to start a 1-person business with AI (ask these 3 questions)",
-      "thumbnail_url": "https://i.ytimg.com/vi/1BApLicRt1w/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=1BApLicRt1w",
-      "published_at": "2026-08-26T13:00:33Z",
-      "view_count": 25112,
-      "like_count": 1517,
-      "comment_count": 99,
-      "engagement_rate": 0.06435170436444727,
-      "topic_cluster": "Claude",
-      "summary": "1인 창업 전 사업 아이디어를 검증하기 위해 AI에게 판매 전략과 차별점 등을 질문하며, 자동화 도입 전 수동 검증 프로세스를 거치는 비즈니스 설계 방식을 제시합니…",
-      "comment_signal": "I felt this one. Success is simple you either outwork your excuses or you lose. The Other Side…",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "fNyHVbY8m8g",
+      "video_id": "dJwHZ-X0fwU",
       "channel_name": "조코딩 JoCoding",
-      "title": "🚨 알리는 당신이 누군지 다 알고있습니다",
-      "thumbnail_url": "https://i.ytimg.com/vi/fNyHVbY8m8g/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=fNyHVbY8m8g",
-      "published_at": "2026-08-26T10:00:14Z",
-      "view_count": 19490,
-      "like_count": 136,
-      "comment_count": 13,
-      "engagement_rate": 0.0076449461262185735,
-      "topic_cluster": "OpenAI",
-      "summary": "알리익스프레스가 비가청 음파를 활용해 사용자의 기기를 특정하고 추적할 가능성을 제기하며, 이러한 기술이 개인정보 식별에 이용될 수 있다는 우려를 다룹니다.",
-      "comment_signal": "ㅋㅋ 브라우저 핑거프린팅 안 사용하는 기업이 있긴한가? 애플, 구글, 네이버, 카카오, Openai 등 모든 기업이 브라우저 핑거프린트로 사용자 식별함.",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "w5oupYX9rUQ",
-      "channel_name": "조코딩 JoCoding",
-      "title": "3D 캐릭터 일일히 만들 필요가 없는 이유",
-      "thumbnail_url": "https://i.ytimg.com/vi/w5oupYX9rUQ/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=w5oupYX9rUQ",
-      "published_at": "2026-08-26T11:00:16Z",
-      "view_count": 19208,
-      "like_count": 318,
-      "comment_count": 8,
-      "engagement_rate": 0.016972094960433153,
-      "topic_cluster": "3D모델링",
-      "summary": "3D 캐릭터 모델링을 직접 수행하지 않고도 효율적으로 생성할 수 있는 도구와 기술을 소개하며, 이를 활용해 게임 개발 과정에서 시간과 노력을 절감하는 방법을 보여줍…",
-      "comment_signal": "잠시만. 해볼께 있어",
+      "title": "술에 진심인 Speak 미국 본사 ㄷㄷ",
+      "thumbnail_url": "https://i.ytimg.com/vi/dJwHZ-X0fwU/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=dJwHZ-X0fwU",
+      "published_at": "2026-08-27T08:00:18Z",
+      "view_count": 9929,
+      "like_count": 39,
+      "comment_count": 1,
+      "engagement_rate": 0.004028603081881358,
+      "topic_cluster": "술에",
+      "summary": "AI 영어 학습 앱 '스픽' 미국 본사 사무실의 자유로운 분위기와 사내 문화를 짧게 보여준다.",
+      "comment_signal": "나도 회의실 이름 저렇게 지어야지",
       "hook_type": "문제 해결"
     }
   ]
