@@ -1,250 +1,197 @@
 {
-  "digest_date": "2026-08-29",
-  "generated_at": "2026-08-29T04:12:03+00:00",
-  "summary": "최근 24시간 영상 12개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'ChatGPT'입니다. 특히 'NVIDIA HBM 등장, 삼성 zHBM 상세 스펙 공개 3일 후... GPU 못 팔아도 ASIC/XPU 엔비디아 남는 이유'는 조회수 57.1K, 참여율 0.9%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "'ChatGPT' 주제가 2개 영상으로 가장 많이 다뤄졌습니다. ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.\n[내 채널] 7일 평균 3.6K회 · 지속률 28.2% / 경쟁사 평균 25.3K회 (격차 -86%)",
-  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 08/29\n\n📊 총 10개 | AI 핵심 9 · 인접 AI 1 · 일반 테크 보충 0\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 10 · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [Matt Wolfe] 54.0K뷰 · 참여율 3.8%\n   AI News: OpenAI Made a Massive Move Against NVIDIA\n   ↳ OpenAI가 GPT-5.6 Soul 모델의 가격을 20% 인하하고 엔트로픽은 클로드의 메모리 기능을 확장하는 등 주요 AI 업데이트 소식을 전했다. 또한 애플의 M6 칩과 알리바바 및 구글의 최신 경량화 모델 출…\n   https://youtu.be/TInwQglNkzo\n\n2. AI 핵심 · [조코딩 JoCoding] 44.2K뷰 · 참여율 1.7%\n   영상 AI를 신박하게 활용하는 방법\n   ↳ 영상 생성 AI 도구인 H3를 활용해 캐릭터의 걷기, 점프 등 다양한 동작을 5초 클립으로 생성하고 이를 조합해 게임 애니메이션을 제작하는 방법을 소개한다.\n   https://youtu.be/fq6t6iNPPjk\n\n3. AI 핵심 · [조코딩 JoCoding] 37.6K뷰 · 참여율 0.7%\n   통 속의 뇌를 구현해버린 미친 회사\n   ↳ 1,600만 개의 살아있는 인간 뉴런을 실리콘 하드웨어에 통합하여 데이터를 처리하는 혁신적인 차세대 데이터 센터 기술을 소개한다.\n   https://youtu.be/PCgcmo_uimY\n\n4. AI 핵심 · [조코딩 JoCoding] 30.5K뷰 · 참여율 1.8%\n   AI 강의? 이거 하나면 됩니다 ㄷㄷ\n   ↳ 클로드 공식 아카데미가 강의를 무료로 공개하여 사용자가 독학으로 클로드 활용법을 체계적으로 학습할 수 있게 되었다고 안내한다.\n   https://youtu.be/VraGGMA8lhs\n\n5. AI 핵심 · [조코딩 JoCoding] 10.9K뷰 · 참여율 0.6%\n   신박하게 변신하는 휴머노이드 등장\n   ↳ 인간형 로봇이 단순히 걷는 것을 넘어, 접히는 구조를 통해 드론과 결합하여 비행 상태로 변신하는 독특한 로봇 기술을 선보인다.\n   https://youtu.be/cEQl99-pZgI\n\n6. AI 핵심 · [The AI Advantage] 9.1K뷰 · 참여율 1.9%\n   How to Use Claude's New Browser for Real Work\n   ↳ 챗GPT와 클로드에 탑재된 브라우징 기능을 비교하고, 웹 서핑 및 데이터 분석 업무를 효율적으로 수행하기 위한 실무 활용 사례를 제시한다.\n   https://youtu.be/yshSzI1rAMs\n\n7. AI 핵심 · [MattVidPro] 6.9K뷰 · 참여율 3.0%\n   Install DLSS 5 EARLY & your Games will Look DISTURBINGLY Real.\n   ↳ 커뮤니티에서 개발한 비공식 DLSS 5 신경망 렌더링 모드를 적용하여 게임의 비주얼을 실사 수준으로 개선하는 실험을 진행했다. 다만 성능 저하와 고스팅 등 기술적 한계점도 발견되었다.\n   https://youtu.be/LdyDpIspChs\n\n8. AI 핵심 · [Matt Wolfe] 244뷰 · 참여율 2.9%\n   This Robot Is Faster Than Usain Bolt?!\n   ↳ 유니트리(Unitree)가 개발한 신형 로봇 '슈퍼맨'은 시속 약 45km(28mph)의 속도로 질주하고 제자리에서 2미터를 도약하는 등 인간의 물리적 한계를 넘어서는 성능을 보여준다.\n   https://youtu.be/2_UcYzbYnAI\n\n9. AI 핵심 · [tef] 0뷰 · 참여율 0.0%\n   tef Live Stream\n   ↳ 해당 영상은 라이브 스트림으로, 특정 주제에 대한 상세 내용은 포함되지 않았다.\n   https://youtu.be/SMsEKuXmXZ4\n\n10. AI 인접 · [안될공학 - IT 테크 신기술] 57.1K뷰 · 참여율 0.9%\n   NVIDIA HBM 등장, 삼성 zHBM 상세 스펙 공개 3일 후... GPU 못 팔아도 ASIC/XPU 엔비디아 남는 이유\n   ↳ 엔비디아의 새로운 커스텀 HBM 전략인 NVHBM이 삼성의 cHBM 로드맵과 유사함을 분석하고, 엔비디아가 GPU 외에 자체 XPU 생태계까지 장악하려는 전략을 설명한다.\n   https://youtu.be/vVCOxL3tgHg\n\n📈 스마트대디 어제 실적\n조회수 2.9K (↓22% vs 7일 평균) | 구독 +4\n시청 지속률 28.9% | 평균 시청 2분 15초\n경쟁사 평균 25.3K회 대비 내 7일 평균 -86%\n\n💡 VS 각도: ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
-  "video_count": 12,
-  "total_recent_video_count": 16,
+  "digest_date": "2026-08-31",
+  "generated_at": "2026-08-31T01:23:37+00:00",
+  "summary": "최근 24시간 영상 5개를 기준으로 보면, 오늘 가장 먼저 볼 축은 '코딩'입니다. 특히 'HBF 성공 가능성 낮다? 말하지 않는 치명적 난제 | HBF, zNAND-O 핵심 과제는 발열, 온도, NAND 신뢰성'는 조회수 57.8K, 참여율 0.9%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "'코딩' 주제가 1개 영상으로 가장 많이 다뤄졌습니다. 일반인 관점 직접 실험 or VS 비교 각도로 차별화할 영역이 있습니다.\n[내 채널] 7일 평균 5.5K회 · 지속률 28.4% / 경쟁사 평균 24.0K회 (격차 -77%)",
+  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 08/31\n\n📊 총 7개 | AI 핵심 2 · 인접 AI 3 · 일반 테크 보충 2\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 7 (최대 10) · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [조코딩 JoCoding] 34.6K뷰 · 참여율 0.9%\n   IT뉴스 - Astra 임박, 할라피뇨, Fable 5.1, 넥토리얼, GLM-5.3, 실시간 H3, Gemini Omni 1.1 등\n   ↳ 오픈AI가 브로드컴과 공동 설계한 AI 추론 칩 '할라피뇨'가 엔비디아 블랙웰 대비 높은 전력 효율을 보인다는 소식과 함께 넥슨의 채용연계형 인턴십 넥토리얼의 주요 변경 사항을 다루었습니다.\n   https://youtu.be/Xs9wHHv-wak\n\n2. AI 핵심 · [AI Samson] 17.7K뷰 · 참여율 2.7%\n   These 3 AI Video Models Are FREE* And Less Restricted (Full-Testing)\n   ↳ 최신 AI 영상 생성 모델 3종을 비교 테스트하여 물리적 움직임 표현, 인물 연기력 및 무료 샌드박스 환경에서의 성능을 평가하고 창작자에게 적합한 도구를 제안했습니다.\n   https://youtu.be/DMV6y4ZaNYQ\n\n3. AI 인접 · [안될공학 - IT 테크 신기술] 57.8K뷰 · 참여율 0.9%\n   HBF 성공 가능성 낮다? 말하지 않는 치명적 난제 | HBF, zNAND-O 핵심 과제는 발열, 온도, NAND 신뢰성\n   ↳ AI 가속기용 HBF 기술의 핵심 난제인 발열과 NAND 신뢰성 문제를 분석하며, 읽기 중심 데이터 처리를 위한 SLC 기반 설계의 필요성과 컨트롤러 기술의 중요성을 설명했습니다.\n   https://youtu.be/gJTto7SP8w0\n\n4. AI 인접 · [Dan Martell] 7.7K뷰 · 참여율 5.5%\n   Which AI tools should you be using as of August 2026?\n   ↳ 2026년 8월 기준 이미지 생성 및 업무 효율화를 위해 활용하기 좋은 주요 AI 도구들을 소개했습니다.\n   https://youtu.be/UeTjH7wFWUY\n\n5. AI 인접 · [Dan Martell] 2.1K뷰 · 참여율 11.0%\n   How to create an AI brain\n   ↳ 메모 앱인 옵시디언을 활용하여 개인의 지식과 데이터를 체계적으로 관리하고 나만의 AI 브레인을 구축하는 방법을 안내했습니다.\n   https://youtu.be/8ER6koqRjKM\n\n6. 테크 보충 · [ITSub잇섭] 845.3K뷰 · 참여율 0.7%\n   이.. 이거 진짜 실화인가요? ㄷㄷ 갤럭시 S27 디자인&성능 루머 총정리!\n   ↳ 갤럭시 S27 시리즈의 대폭 변화할 디자인 루머와 탑재 예정인 엑시노스 2700의 성능 예측을 통해 차기 플래그십 모델의 방향성을 분석했습니다.\n   https://youtu.be/HhA-3LtnBKY\n\n7. 테크 보충 · [테크몽 Techmong] 26.7K뷰 · 참여율 0.9%\n   폴드8은 이렇게 쓰라고 태어난듯..\n   ↳ 갤럭시 폴드8의 넓은 디스플레이를 활용하여 영상의 특정 부분을 잠금 화면이나 메인 화면으로 설정해 커스텀하는 실사용 팁을 공유했습니다.\n   https://youtu.be/fM_0nXUayyA\n\n📈 스마트대디 어제 실적\n조회수 7.7K (↑41% vs 7일 평균) | 구독 +0\n시청 지속률 28.7% | 평균 시청 2분 26초\n경쟁사 평균 24.0K회 대비 내 7일 평균 -77%\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+  "video_count": 5,
+  "total_recent_video_count": 8,
   "focus_scope": "ai_priority_then_tech_fill",
-  "average_view_count": 25295.0,
-  "average_engagement_rate": 0.02000935334999524,
-  "average_like_count": 423.0,
-  "average_comment_count": 39.0,
-  "best_video_id": "vVCOxL3tgHg",
-  "best_topic": "ChatGPT",
+  "average_view_count": 23957.0,
+  "average_engagement_rate": 0.04207509247868742,
+  "average_like_count": 356.0,
+  "average_comment_count": 37.0,
+  "best_video_id": "gJTto7SP8w0",
+  "best_topic": "코딩",
   "summary_points": [
-    "가장 겹친 주제는 'ChatGPT'이며 2개 영상, 평균 조회수 8.0K, 평균 참여율 2.5%입니다.",
-    "최고 실적 영상은 'NVIDIA HBM 등장, 삼성 zHBM 상세 스펙 공개 3일 후... GPU 못 팔아도 ASIC/XPU 엔비디아 남는 이유'이며 긴급성 훅과 사례 분석 포맷 조합이 강했습니다.",
-    "반복 노출된 툴은 ChatGPT 3회, Claude 2회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
+    "가장 겹친 주제는 '코딩'이며 1개 영상, 평균 조회수 57.8K, 평균 참여율 0.9%입니다.",
+    "최고 실적 영상은 'HBF 성공 가능성 낮다? 말하지 않는 치명적 난제 | HBF, zNAND-O 핵심 과제는 발열, 온도, NAND 신뢰성'이며 문제 해결 훅과 뉴스 분석 포맷 조합이 강했습니다.",
+    "반복 노출된 툴은 ChatGPT 1회, Claude 1회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
   ],
   "action_chips": [
-    "주제: ChatGPT",
-    "훅: 긴급성",
-    "포맷: 사례 분석",
+    "주제: 코딩",
+    "훅: 문제 해결",
+    "포맷: 뉴스 분석",
     "기준 채널: 안될공학 - IT 테크 신기술"
   ],
   "title_suggestions": [
-    "ChatGPT vs Claude vs Gemini, 일반인 업무 실전 대결 결과",
-    "GPT 최신 버전 직접 실험 — 이전이랑 진짜 달라?",
-    "GPT 써봤더니... 기대랑 다른 점 솔직하게 다 말해봄"
+    "코딩 직접 실험 — 이게 진짜 되나?",
+    "코딩 vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
+    "코딩 써봤더니... (기대 vs 현실 솔직 후기)"
   ],
   "recommendations": [
     {
-      "title": "ChatGPT vs Claude vs Gemini, 일반인 업무 실전 대결 결과",
-      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'ChatGPT'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "ChatGPT 바로 해결",
-      "reason": "ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.",
-      "source_video_id": "yshSzI1rAMs",
-      "source": "How to Use Claude's New Browser for Real Work",
-      "my_channel_context": "내 7일 평균 3.6K회 · 지속률 28.2% / 경쟁사 대비 -86%"
-    },
-    {
-      "title": "GPT 최신 버전 직접 실험 — 이전이랑 진짜 달라?",
-      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'ChatGPT'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "ChatGPT 바로 해결",
-      "reason": "ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.",
-      "source_video_id": "LdyDpIspChs",
-      "source": "Install DLSS 5 EARLY & your Games will Look DISTURBINGLY Real.",
-      "my_channel_context": "내 7일 평균 3.6K회 · 지속률 28.2% / 경쟁사 대비 -86%"
+      "title": "코딩 직접 실험 — 이게 진짜 되나?",
+      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
+      "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
+      "thumbnail_copy": "코딩 바로 해결",
+      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
+      "source_video_id": "gJTto7SP8w0",
+      "source": "HBF 성공 가능성 낮다? 말하지 않는 치명적 난제 | HBF, zNAND-O 핵심 과제는 발열, 온도, NAND 신뢰성",
+      "my_channel_context": "내 7일 평균 5.5K회 · 지속률 28.4% / 경쟁사 대비 -77%"
     }
   ],
   "topic_clusters": [
     {
-      "label": "ChatGPT",
-      "count": 2,
-      "avg_view_count": 7964,
-      "avg_engagement_rate": 0.024628531113748575,
-      "avg_like_count": 158,
-      "avg_comment_count": 32,
+      "label": "코딩",
+      "count": 1,
+      "avg_view_count": 57770,
+      "avg_engagement_rate": 0.009122381859096416,
+      "avg_like_count": 468,
+      "avg_comment_count": 59,
       "source_titles": [
-        "How to Use Claude's New Browser for Real Work",
-        "Install DLSS 5 EARLY & your Games will Look DISTURBINGLY Real."
+        "HBF 성공 가능성 낮다? 말하지 않는 치명적 난제 | HBF, zNAND-O 핵심 과제는 발열, 온도, NAND 신뢰성"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/yshSzI1rAMs/hqdefault.jpg",
-      "representative_video_id": "yshSzI1rAMs",
-      "representative_title": "How to Use Claude's New Browser for Real Work"
+      "thumbnail_url": "https://i.ytimg.com/vi/gJTto7SP8w0/hqdefault.jpg",
+      "representative_video_id": "gJTto7SP8w0",
+      "representative_title": "HBF 성공 가능성 낮다? 말하지 않는 치명적 난제 | HBF, zNAND-O 핵심 과제는 발열, 온도, NAND 신뢰성"
     },
     {
-      "label": "NVIDIA",
+      "label": "Gemini",
       "count": 1,
-      "avg_view_count": 57126,
-      "avg_engagement_rate": 0.00943528340860554,
-      "avg_like_count": 483,
-      "avg_comment_count": 56,
-      "source_titles": [
-        "NVIDIA HBM 등장, 삼성 zHBM 상세 스펙 공개 3일 후... GPU 못 팔아도 ASIC/XPU 엔비디아 남는 이유"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/vVCOxL3tgHg/hqdefault.jpg",
-      "representative_video_id": "vVCOxL3tgHg",
-      "representative_title": "NVIDIA HBM 등장, 삼성 zHBM 상세 스펙 공개 3일 후... GPU 못 팔아도 ASIC/XPU 엔비디아 남는 이유"
-    },
-    {
-      "label": "OpenAI",
-      "count": 1,
-      "avg_view_count": 54039,
-      "avg_engagement_rate": 0.038490719665426824,
-      "avg_like_count": 1835,
-      "avg_comment_count": 245,
-      "source_titles": [
-        "AI News: OpenAI Made a Massive Move Against NVIDIA"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/TInwQglNkzo/hqdefault.jpg",
-      "representative_video_id": "TInwQglNkzo",
-      "representative_title": "AI News: OpenAI Made a Massive Move Against NVIDIA"
-    },
-    {
-      "label": "agents",
-      "count": 1,
-      "avg_view_count": 45657,
-      "avg_engagement_rate": 0.010250344963532427,
-      "avg_like_count": 430,
-      "avg_comment_count": 38,
-      "source_titles": [
-        "eSSD, HBF, zNAND-O... 홀대받던 NAND Flash는 앞으로 훨씬 더 많이 필요해진다"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/pUqkjC716h4/hqdefault.jpg",
-      "representative_video_id": "pUqkjC716h4",
-      "representative_title": "eSSD, HBF, zNAND-O... 홀대받던 NAND Flash는 앞으로 훨씬 더 많이 필요해진다"
-    },
-    {
-      "label": "영상",
-      "count": 1,
-      "avg_view_count": 44242,
-      "avg_engagement_rate": 0.017426879435830208,
-      "avg_like_count": 763,
-      "avg_comment_count": 8,
-      "source_titles": [
-        "영상 AI를 신박하게 활용하는 방법"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/fq6t6iNPPjk/hqdefault.jpg",
-      "representative_video_id": "fq6t6iNPPjk",
-      "representative_title": "영상 AI를 신박하게 활용하는 방법"
-    },
-    {
-      "label": "미래기술",
-      "count": 1,
-      "avg_view_count": 37587,
-      "avg_engagement_rate": 0.007103519833985154,
-      "avg_like_count": 234,
-      "avg_comment_count": 33,
-      "source_titles": [
-        "통 속의 뇌를 구현해버린 미친 회사"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/PCgcmo_uimY/hqdefault.jpg",
-      "representative_video_id": "PCgcmo_uimY",
-      "representative_title": "통 속의 뇌를 구현해버린 미친 회사"
-    },
-    {
-      "label": "강의",
-      "count": 1,
-      "avg_view_count": 30534,
-      "avg_engagement_rate": 0.018274710159166832,
-      "avg_like_count": 548,
+      "avg_view_count": 34598,
+      "avg_engagement_rate": 0.008671021446326378,
+      "avg_like_count": 290,
       "avg_comment_count": 10,
       "source_titles": [
-        "AI 강의? 이거 하나면 됩니다 ㄷㄷ"
+        "IT뉴스 - Astra 임박, 할라피뇨, Fable 5.1, 넥토리얼, GLM-5.3, 실시간 H3, Gemini Omni 1.1 등"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/VraGGMA8lhs/hqdefault.jpg",
-      "representative_video_id": "VraGGMA8lhs",
-      "representative_title": "AI 강의? 이거 하나면 됩니다 ㄷㄷ"
+      "thumbnail_url": "https://i.ytimg.com/vi/Xs9wHHv-wak/hqdefault.jpg",
+      "representative_video_id": "Xs9wHHv-wak",
+      "representative_title": "IT뉴스 - Astra 임박, 할라피뇨, Fable 5.1, 넥토리얼, GLM-5.3, 실시간 H3, Gemini Omni 1.1 등"
     },
     {
-      "label": "로봇",
+      "label": "자동화",
       "count": 1,
-      "avg_view_count": 10855,
-      "avg_engagement_rate": 0.006448641179180101,
-      "avg_like_count": 64,
-      "avg_comment_count": 6,
+      "avg_view_count": 17657,
+      "avg_engagement_rate": 0.027241320722659567,
+      "avg_like_count": 417,
+      "avg_comment_count": 64,
       "source_titles": [
-        "신박하게 변신하는 휴머노이드 등장"
+        "These 3 AI Video Models Are FREE* And Less Restricted (Full-Testing)"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/cEQl99-pZgI/hqdefault.jpg",
-      "representative_video_id": "cEQl99-pZgI",
-      "representative_title": "신박하게 변신하는 휴머노이드 등장"
+      "thumbnail_url": "https://i.ytimg.com/vi/DMV6y4ZaNYQ/hqdefault.jpg",
+      "representative_video_id": "DMV6y4ZaNYQ",
+      "representative_title": "These 3 AI Video Models Are FREE* And Less Restricted (Full-Testing)"
+    },
+    {
+      "label": "ChatGPT",
+      "count": 1,
+      "avg_view_count": 7705,
+      "avg_engagement_rate": 0.0554185593770279,
+      "avg_like_count": 418,
+      "avg_comment_count": 9,
+      "source_titles": [
+        "Which AI tools should you be using as of August 2026?"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/UeTjH7wFWUY/hqdefault.jpg",
+      "representative_video_id": "UeTjH7wFWUY",
+      "representative_title": "Which AI tools should you be using as of August 2026?"
+    },
+    {
+      "label": "뇌",
+      "count": 1,
+      "avg_view_count": 2056,
+      "avg_engagement_rate": 0.10992217898832685,
+      "avg_like_count": 185,
+      "avg_comment_count": 41,
+      "source_titles": [
+        "How to create an AI brain"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/8ER6koqRjKM/hqdefault.jpg",
+      "representative_video_id": "8ER6koqRjKM",
+      "representative_title": "How to create an AI brain"
     }
   ],
   "video_highlights": [
     {
-      "video_id": "vVCOxL3tgHg",
+      "video_id": "gJTto7SP8w0",
       "channel_name": "안될공학 - IT 테크 신기술",
-      "title": "NVIDIA HBM 등장, 삼성 zHBM 상세 스펙 공개 3일 후... GPU 못 팔아도 ASIC/XPU 엔비디아 남는 이유",
-      "thumbnail_url": "https://i.ytimg.com/vi/vVCOxL3tgHg/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=vVCOxL3tgHg",
-      "published_at": "2026-08-28T13:20:53Z",
-      "view_count": 57126,
-      "like_count": 483,
-      "comment_count": 56,
-      "engagement_rate": 0.00943528340860554,
-      "topic_cluster": "NVIDIA",
-      "summary": "엔비디아의 새로운 커스텀 HBM 전략인 NVHBM이 삼성의 cHBM 로드맵과 유사함을 분석하고, 엔비디아가 GPU 외에 자체 XPU 생태계까지 장악하려는 전략을 설…",
-      "comment_signal": "이제 1일 1영상도 아니고 1일 2영상 ㄷㄷㄷ",
-      "hook_type": "긴급성"
-    },
-    {
-      "video_id": "TInwQglNkzo",
-      "channel_name": "Matt Wolfe",
-      "title": "AI News: OpenAI Made a Massive Move Against NVIDIA",
-      "thumbnail_url": "https://i.ytimg.com/vi/TInwQglNkzo/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=TInwQglNkzo",
-      "published_at": "2026-08-28T15:00:09Z",
-      "view_count": 54039,
-      "like_count": 1835,
-      "comment_count": 245,
-      "engagement_rate": 0.038490719665426824,
-      "topic_cluster": "OpenAI",
-      "summary": "OpenAI가 GPT-5.6 Soul 모델의 가격을 20% 인하하고 엔트로픽은 클로드의 메모리 기능을 확장하는 등 주요 AI 업데이트 소식을 전했다. 또한 애플의…",
-      "comment_signal": "Congrats on 1M!",
-      "hook_type": "수익"
-    },
-    {
-      "video_id": "pUqkjC716h4",
-      "channel_name": "안될공학 - IT 테크 신기술",
-      "title": "eSSD, HBF, zNAND-O... 홀대받던 NAND Flash는 앞으로 훨씬 더 많이 필요해진다",
-      "thumbnail_url": "https://i.ytimg.com/vi/pUqkjC716h4/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=pUqkjC716h4",
-      "published_at": "2026-08-28T05:00:11Z",
-      "view_count": 45657,
-      "like_count": 430,
-      "comment_count": 38,
-      "engagement_rate": 0.010250344963532427,
-      "topic_cluster": "agents",
-      "summary": "AI 연산 데이터 증가에 따라 기업용 SSD와 고대역폭 플래시(HBF)의 중요성이 커지고 있으며, NAND 메모리가 단순 저장을 넘어 AI 모델 가중치 처리 등 연…",
-      "comment_signal": "제일 부지런해요! 내용도 알차구요!",
+      "title": "HBF 성공 가능성 낮다? 말하지 않는 치명적 난제 | HBF, zNAND-O 핵심 과제는 발열, 온도, NAND 신뢰성",
+      "thumbnail_url": "https://i.ytimg.com/vi/gJTto7SP8w0/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=gJTto7SP8w0",
+      "published_at": "2026-08-30T10:51:32Z",
+      "view_count": 57770,
+      "like_count": 468,
+      "comment_count": 59,
+      "engagement_rate": 0.009122381859096416,
+      "topic_cluster": "코딩",
+      "summary": "AI 가속기용 HBF 기술의 핵심 난제인 발열과 NAND 신뢰성 문제를 분석하며, 읽기 중심 데이터 처리를 위한 SLC 기반 설계의 필요성과 컨트롤러 기술의 중요성…",
+      "comment_signal": "생각보다 난관이 많네요. 기술혁신이 필요하겠군요",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "fq6t6iNPPjk",
+      "video_id": "Xs9wHHv-wak",
       "channel_name": "조코딩 JoCoding",
-      "title": "영상 AI를 신박하게 활용하는 방법",
-      "thumbnail_url": "https://i.ytimg.com/vi/fq6t6iNPPjk/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=fq6t6iNPPjk",
-      "published_at": "2026-08-28T06:00:01Z",
-      "view_count": 44242,
-      "like_count": 763,
-      "comment_count": 8,
-      "engagement_rate": 0.017426879435830208,
-      "topic_cluster": "영상",
-      "summary": "영상 생성 AI 도구인 H3를 활용해 캐릭터의 걷기, 점프 등 다양한 동작을 5초 클립으로 생성하고 이를 조합해 게임 애니메이션을 제작하는 방법을 소개한다.",
-      "comment_signal": "이 모델로 여러 캐릭터 감정 애니메이션 뽑아봤는데, 그냥 이제 캐릭터 리소스 다 뽑을 수 있다 라고 생각이 들었습니다.",
+      "title": "IT뉴스 - Astra 임박, 할라피뇨, Fable 5.1, 넥토리얼, GLM-5.3, 실시간 H3, Gemini Omni 1.1 등",
+      "thumbnail_url": "https://i.ytimg.com/vi/Xs9wHHv-wak/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=Xs9wHHv-wak",
+      "published_at": "2026-08-30T11:44:05Z",
+      "view_count": 34598,
+      "like_count": 290,
+      "comment_count": 10,
+      "engagement_rate": 0.008671021446326378,
+      "topic_cluster": "Gemini",
+      "summary": "오픈AI가 브로드컴과 공동 설계한 AI 추론 칩 '할라피뇨'가 엔비디아 블랙웰 대비 높은 전력 효율을 보인다는 소식과 함께 넥슨의 채용연계형 인턴십 넥토리얼의 주요…",
+      "comment_signal": "1:07:24 내눈!!!!!!!!!!!!!!!!!",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "PCgcmo_uimY",
-      "channel_name": "조코딩 JoCoding",
-      "title": "통 속의 뇌를 구현해버린 미친 회사",
-      "thumbnail_url": "https://i.ytimg.com/vi/PCgcmo_uimY/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=PCgcmo_uimY",
-      "published_at": "2026-08-28T10:00:17Z",
-      "view_count": 37587,
-      "like_count": 234,
-      "comment_count": 33,
-      "engagement_rate": 0.007103519833985154,
-      "topic_cluster": "미래기술",
-      "summary": "1,600만 개의 살아있는 인간 뉴런을 실리콘 하드웨어에 통합하여 데이터를 처리하는 혁신적인 차세대 데이터 센터 기술을 소개한다.",
-      "comment_signal": "기계가 인간을 통속의 뇌로 만드는 걸 걱정하더니, 인간이 인간 스스로 통속의 뇌를 만들고 있네…",
+      "video_id": "DMV6y4ZaNYQ",
+      "channel_name": "AI Samson",
+      "title": "These 3 AI Video Models Are FREE* And Less Restricted (Full-Testing)",
+      "thumbnail_url": "https://i.ytimg.com/vi/DMV6y4ZaNYQ/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=DMV6y4ZaNYQ",
+      "published_at": "2026-08-30T13:15:55Z",
+      "view_count": 17657,
+      "like_count": 417,
+      "comment_count": 64,
+      "engagement_rate": 0.027241320722659567,
+      "topic_cluster": "자동화",
+      "summary": "최신 AI 영상 생성 모델 3종을 비교 테스트하여 물리적 움직임 표현, 인물 연기력 및 무료 샌드박스 환경에서의 성능을 평가하고 창작자에게 적합한 도구를 제안했습니…",
+      "comment_signal": "Removing points for \" hair swishing\". That pony tail swish was perfect. With the speed she turn…",
+      "hook_type": "비교"
+    },
+    {
+      "video_id": "UeTjH7wFWUY",
+      "channel_name": "Dan Martell",
+      "title": "Which AI tools should you be using as of August 2026?",
+      "thumbnail_url": "https://i.ytimg.com/vi/UeTjH7wFWUY/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=UeTjH7wFWUY",
+      "published_at": "2026-08-30T15:00:26Z",
+      "view_count": 7705,
+      "like_count": 418,
+      "comment_count": 9,
+      "engagement_rate": 0.0554185593770279,
+      "topic_cluster": "ChatGPT",
+      "summary": "2026년 8월 기준 이미지 생성 및 업무 효율화를 위해 활용하기 좋은 주요 AI 도구들을 소개했습니다.",
+      "comment_signal": "AI tools i use :Claude, ChatGPT. Thank you Sir",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "8ER6koqRjKM",
+      "channel_name": "Dan Martell",
+      "title": "How to create an AI brain",
+      "thumbnail_url": "https://i.ytimg.com/vi/8ER6koqRjKM/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=8ER6koqRjKM",
+      "published_at": "2026-08-30T21:00:52Z",
+      "view_count": 2056,
+      "like_count": 185,
+      "comment_count": 41,
+      "engagement_rate": 0.10992217898832685,
+      "topic_cluster": "뇌",
+      "summary": "메모 앱인 옵시디언을 활용하여 개인의 지식과 데이터를 체계적으로 관리하고 나만의 AI 브레인을 구축하는 방법을 안내했습니다.",
+      "comment_signal": "What is the best ai for building a website free or very cheap?",
       "hook_type": "문제 해결"
     }
   ]
