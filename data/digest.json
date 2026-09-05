@@ -1,251 +1,238 @@
 {
-  "digest_date": "2026-09-04",
-  "generated_at": "2026-09-04T00:58:11+00:00",
-  "summary": "최근 24시간 영상 14개를 기준으로 보면, 오늘 가장 먼저 볼 축은 '코딩'입니다. 특히 'The Most Overhyped and Underhyped New AI Models'는 조회수 76.3K, 참여율 2.1%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "'코딩' 주제가 2개 영상으로 가장 많이 다뤄졌습니다. 일반인 관점 직접 실험 or VS 비교 각도로 차별화할 영역이 있습니다.\n[내 채널] 7일 평균 10.4K회 · 지속률 24.9% / 경쟁사 평균 12.0K회 (격차 -13%)",
-  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 09/04\n\n📊 총 10개 | AI 핵심 10 · 인접 AI 0 · 일반 테크 보충 0\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 10 · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [Matt Wolfe] 76.3K뷰 · 참여율 2.1%\n   The Most Overhyped and Underhyped New AI Models\n   ↳ Fable 5.1과 Gemini 3.8 Flash 등 최신 AI 모델들의 성능과 비용 효율성을 분석하며, 코딩 작업에서는 유용할 수 있으나 비싼 비용 대비 효율성에 대해서는 회의적인 시각을 제시한다.\n   https://youtu.be/Po_Dh7WLgmM\n\n2. AI 핵심 · [tef] 25.9K뷰 · 참여율 4.9%\n   Claude Fable 5.1 is UNFAIR.\n   ↳ Claude Fable 5.1을 활용해 마인크래프트, 지오메트리 대시, CS2와 같은 게임을 단일 프롬프트로 제작하는 과정을 보여주며 모델의 높은 코딩 및 창의적 구현 능력을 호평한다.\n   https://youtu.be/9OVGyC7T5c0\n\n3. AI 핵심 · [조코딩 JoCoding] 14.1K뷰 · 참여율 0.7%\n   로봇이 만든 새로운 효과적인 자세..?\n   ↳ 휴머노이드 로봇이 강화학습을 통해 효율적인 달리기 자세를 스스로 터득하는 과정을 소개하며, 인공지능이 최적화된 동작을 찾아내는 성능을 다룬다.\n   https://youtu.be/bTP55wgeMGM\n\n4. AI 핵심 · [조코딩 JoCoding] 13.7K뷰 · 참여율 0.9%\n   100조 토큰까지 처리할 수 있는 모델의 충격적인 진실\n   ↳ 하루 100조 토큰을 처리할 수 있는 중국의 대규모 언어 모델 인프라를 분석하며, 엄청난 추론 능력을 뒷받침하는 기술적 배경과 트래픽 처리 역량을 설명한다.\n   https://youtu.be/n4dU5JjbNHg\n\n5. AI 핵심 · [조코딩 JoCoding] 10.9K뷰 · 참여율 0.6%\n   AI 교육은 이벤트고, AX는 시스템이다 | 조코딩AX파트너스 웨비나\n   ↳ AI 교육을 단순한 일회성 이벤트가 아닌 조직 내 시스템으로 안착시키는 방법론을 논하며, 기업의 AI 활용 역량 진단과 정착 전략을 제시한다.\n   https://youtu.be/nYlCKEN3aDw\n\n6. AI 핵심 · [알린 ALINN] 5.9K뷰 · 참여율 2.1%\n   일잘러들은 다 쓴다는 개꿀 무료 캡쳐 도구 ㅋㅋ\n   ↳ AI 기반의 무료 캡처 도구인 '이지 캡처'를 소개하며, 스크롤 캡처, AI 이미지 편집, 배경 제거, OCR 텍스트 추출 등 작업 효율을 높여주는 다양한 기능을 설명한다.\n   https://youtu.be/X0YWWtve9HA\n\n7. AI 핵심 · [Matt Wolfe] 5.4K뷰 · 참여율 19.4%\n   GPT-6 Astra Is Finally Here (And It’s REALLY Good)\n   ↳ GPT-6 Astra의 출시를 다루며, 기존 모델 대비 뛰어난 성능과 창의적인 활용 사례들을 통해 해당 모델이 AI 성능 면에서 큰 도약을 이뤘음을 강조한다.\n   https://youtu.be/GGzT7zVrRTU\n\n8. AI 핵심 · [Matt Wolfe] 3.4K뷰 · 참여율 4.7%\n   This Robot Can Learn Almost ANY Task\n   ↳ Skild AI의 S1 모델을 소개하며, 로봇이 단 하나의 영상 시연만으로 별도의 미세 조정 없이 커피 제조, 요리 등 최대 10분 길이의 복잡한 작업을 학습하고 수행하는 능력을 보여준다.\n   https://youtu.be/K_iUGDw2Sho\n\n9. AI 핵심 · [AI 머니] 3.3K뷰 · 참여율 4.4%\n   100시간 갈아넣고 찾은, 진짜 무제한 무료 AI 영상 툴 4개 추천\n   ↳ 영상을 제작할 때 유용한 4가지 무제한 무료 AI 툴을 추천하며, 편집 실력이 부족해도 레퍼런스 영상의 연출을 가져와 고품질 결과물을 만드는 방법을 안내한다.\n   https://youtu.be/qZDHslRUtVs\n\n10. AI 핵심 · [성공지식백과] 2.6K뷰 · 참여율 4.3%\n   페이블 박살내버린 GPT-6 아스트라..ㄷㄷ 벤치 실화냐 AGI 99.9% Exploit 100% FrontierMath 98%..\n   ↳ GPT-6 Astra가 ARC AGI 3에서 99.9%의 점수를 기록하며 기존 모델 대비 압도적인 성능을 보인 점을 분석하고, 출시가 지연된 이유인 보안 강화 조치와 API 가격 정책을 설명한다.\n   https://youtu.be/MxdCDMnghRA\n\n📈 스마트대디 어제 실적\n조회수 7.4K (↓29% vs 7일 평균) | 구독 -11\n시청 지속률 23.9% | 평균 시청 2분 02초\n경쟁사 평균 12.0K회 대비 내 7일 평균 -13%\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
-  "video_count": 14,
-  "total_recent_video_count": 18,
+  "digest_date": "2026-09-05",
+  "generated_at": "2026-09-05T00:52:26+00:00",
+  "summary": "최근 24시간 영상 10개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'OpenAI'입니다. 특히 'GPT 6 Astra, so good even OpenAI are worried'는 조회수 274.8K, 참여율 2.3%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "'OpenAI' 주제가 2개 영상으로 가장 많이 다뤄졌습니다. 일반인 관점 직접 실험 or VS 비교 각도로 차별화할 영역이 있습니다.\n[내 채널] 7일 평균 14.2K회 · 지속률 26.8% / 경쟁사 평균 72.1K회 (격차 -80%)",
+  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 09/05\n\n📊 총 10개 | AI 핵심 8 · 인접 AI 2 · 일반 테크 보충 0\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 10 · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [AI Explained] 274.8K뷰 · 참여율 2.3%\n   GPT 6 Astra, so good even OpenAI are worried\n   ↳ GPT-6 Astra가 벤치마크 평가에서 우수한 성능을 입증하며 AI 업계의 관심을 받고 있습니다. 특히 보안과 탈옥 시도에 대한 저항력이 개선되었으나, 생성된 결과물의 실현 가능성에 대한 신뢰도는 여전히 논의의…\n   https://youtu.be/Spuza-KwTJ4\n\n2. AI 핵심 · [AI Samson] 82.0K뷰 · 참여율 1.8%\n   GPT-6 Astra is the MOST DANGEROUS AI Ever Made...\n   ↳ GPT-6 Astra는 복잡한 코딩, 3D 모델링, 게임 개발 등 다양한 작업에서 뛰어난 능력을 보이며 업무 생산성을 혁신할 잠재력을 보여줍니다. 해킹 도구로 활용될 수 있는 위험성도 존재하지만, 범용 인공지능(A…\n   https://youtu.be/5Cz4gDBMbEc\n\n3. AI 핵심 · [Matt Wolfe] 56.1K뷰 · 참여율 2.9%\n   AI News: The Most Insane Week So Far This Year!\n   ↳ 최근 AI 분야는 GPT-6 Astra, Claude Fable 5.1, Gemini 3.8 Flash 등 다수의 신규 모델이 발표되며 매우 활발한 변화를 겪고 있습니다. 엔비디아의 허깅페이스 인수설과 함께 급변하…\n   https://youtu.be/GfPZm9yucQo\n\n4. AI 핵심 · [조코딩 JoCoding] 53.5K뷰 · 참여율 1.1%\n   중학생도 AI를 만들 수 있는 시대\n   ↳ 기업의 API 제한이나 비용 문제에 대응하여 개인 컴퓨터 환경에서 직접 학습시킬 수 있는 1.09 파라미터 한국어 LLM 학습 파이프라인 개발 사례를 소개합니다.\n   https://youtu.be/UUdnp6aixRA\n\n5. AI 핵심 · [조코딩 JoCoding] 18.2K뷰 · 참여율 1.4%\n   AI가 사람처럼 기억을 저장하는 방법 ㄷㄷ\n   ↳ 사용자의 과거 대화와 기억을 뇌처럼 저장하고 보이스 에이전트가 이를 활용해 개인화된 답변을 제공하는 오픈 소스 기술을 다룹니다.\n   https://youtu.be/OsM2U9PD4f8\n\n6. AI 핵심 · [조코딩 JoCoding] 10.2K뷰 · 참여율 0.8%\n   오픈소스라고 돈 못번다?? 충격적인 딥시크 근황\n   ↳ 오픈소스 AI 모델을 표방하는 딥시크가 1월부터 7월까지 약 970억 원의 매출을 기록하며 수익성 있는 사업 모델을 입증하고 있습니다.\n   https://youtu.be/51sbHSPa_yk\n\n7. AI 핵심 · [The AI Advantage] 8.4K뷰 · 참여율 4.2%\n   GPT-6 Astra: 20 Real Examples From Useful to Almost Impossible\n   ↳ GPT-6 Astra를 활용하여 3D 도시 구축, 영상 생성, 실시간 코드 실행 등 다양한 실무 사례를 시연하며, 개인의 삶을 자동화하고 업무 효율을 극대화하는 방안을 제시합니다.\n   https://youtu.be/_AyXuJKm8iw\n\n8. AI 핵심 · [조코딩 JoCoding] 6.9K뷰 · 참여율 0.6%\n   나날이 발전하기만 하는 영상 AI 근황\n   ↳ 이전 영상의 데이터를 기반으로 조명과 목소리를 분석해 자연스러운 연결을 만드는 영상 AI의 향상된 기능을 설명합니다.\n   https://youtu.be/8ANHSyLnNNM\n\n9. AI 인접 · [주연 ZUYONI] 206.6K뷰 · 참여율 1.7%\n   LG가 만든 공간음향 스피커 군단;; 세계 최초 기능까지 넣어버림 (150만원 구독자 이벤트💸)\n   ↳ LG 사운드 스위트 AI는 세계 최초로 'Dolby Atmos FlexConnect'를 적용하여, 스피커 배치 위치와 상관없이 AI가 공간을 분석해 최적화된 입체 음향을 구현합니다.\n   https://youtu.be/bzbvklumT7E\n\n10. AI 인접 · [Dan Martell] 4.5K뷰 · 참여율 6.7%\n   Should You Start These Businesses?\n   ↳ 빠른 수익 창출이 가능한 에이전시 비즈니스와 지속적인 관심을 받는 부동산 투자의 특징을 비교하며, 상황에 맞는 창업 방향을 제안합니다.\n   https://youtu.be/YMBZ0o8JBBU\n\n📈 스마트대디 어제 실적\n조회수 22.8K (↑60% vs 7일 평균) | 구독 +58\n시청 지속률 35.8% | 평균 시청 3분 03초\n경쟁사 평균 72.1K회 대비 내 7일 평균 -80%\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+  "video_count": 10,
+  "total_recent_video_count": 15,
   "focus_scope": "ai_priority_then_tech_fill",
-  "average_view_count": 11996.0,
-  "average_engagement_rate": 0.03796561098046873,
-  "average_like_count": 309.0,
-  "average_comment_count": 39.0,
-  "best_video_id": "Po_Dh7WLgmM",
-  "best_topic": "코딩",
+  "average_view_count": 72125.0,
+  "average_engagement_rate": 0.02366536519607688,
+  "average_like_count": 1148.0,
+  "average_comment_count": 327.0,
+  "best_video_id": "Spuza-KwTJ4",
+  "best_topic": "OpenAI",
   "summary_points": [
-    "가장 겹친 주제는 '코딩'이며 2개 영상, 평균 조회수 7.2K, 평균 참여율 2.6%입니다.",
-    "최고 실적 영상은 'The Most Overhyped and Underhyped New AI Models'이며 문제 해결 훅과 사례 분석 포맷 조합이 강했습니다.",
-    "반복 노출된 툴은 ChatGPT 4회, Claude 4회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
+    "가장 겹친 주제는 'OpenAI'이며 2개 영상, 평균 조회수 178.4K, 평균 참여율 2.1%입니다.",
+    "최고 실적 영상은 'GPT 6 Astra, so good even OpenAI are worried'이며 문제 해결 훅과 비교 포맷 조합이 강했습니다.",
+    "반복 노출된 툴은 ChatGPT 3회, Claude 3회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
   ],
   "action_chips": [
-    "주제: 코딩",
+    "주제: OpenAI",
     "훅: 문제 해결",
-    "포맷: 사례 분석",
-    "기준 채널: Matt Wolfe"
+    "포맷: 비교",
+    "기준 채널: AI Explained"
   ],
   "title_suggestions": [
-    "코딩 직접 실험 — 이게 진짜 되나?",
-    "코딩 vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
-    "코딩 써봤더니... (기대 vs 현실 솔직 후기)"
+    "OpenAI 직접 실험 — 이게 진짜 되나?",
+    "OpenAI vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
+    "OpenAI 써봤더니... (기대 vs 현실 솔직 후기)"
   ],
   "recommendations": [
     {
-      "title": "코딩 직접 실험 — 이게 진짜 되나?",
+      "title": "OpenAI 직접 실험 — 이게 진짜 되나?",
       "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
       "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
-      "thumbnail_copy": "코딩 바로 해결",
+      "thumbnail_copy": "OpenAI 바로 해결",
       "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
-      "source_video_id": "nYlCKEN3aDw",
-      "source": "AI 교육은 이벤트고, AX는 시스템이다 | 조코딩AX파트너스 웨비나",
-      "my_channel_context": "내 7일 평균 10.4K회 · 지속률 24.9% / 경쟁사 대비 -13%"
+      "source_video_id": "Spuza-KwTJ4",
+      "source": "GPT 6 Astra, so good even OpenAI are worried",
+      "my_channel_context": "내 7일 평균 14.2K회 · 지속률 26.8% / 경쟁사 대비 -80%"
     },
     {
-      "title": "코딩 vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
+      "title": "OpenAI vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
       "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
-      "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
-      "thumbnail_copy": "코딩 바로 해결",
+      "angle": "큰 주제 하나를 대표 제목으로 세우고, 나머지 포인트는 보조 정보처럼 정리하는 압축형 포장이 좋습니다.",
+      "thumbnail_copy": "OpenAI 핵심 3가지",
       "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
-      "source_video_id": "K_iUGDw2Sho",
-      "source": "This Robot Can Learn Almost ANY Task",
-      "my_channel_context": "내 7일 평균 10.4K회 · 지속률 24.9% / 경쟁사 대비 -13%"
+      "source_video_id": "5Cz4gDBMbEc",
+      "source": "GPT-6 Astra is the MOST DANGEROUS AI Ever Made...",
+      "my_channel_context": "내 7일 평균 14.2K회 · 지속률 26.8% / 경쟁사 대비 -80%"
     }
   ],
   "topic_clusters": [
     {
-      "label": "코딩",
+      "label": "OpenAI",
       "count": 2,
-      "avg_view_count": 7186,
-      "avg_engagement_rate": 0.026300443771487065,
-      "avg_like_count": 104,
-      "avg_comment_count": 8,
+      "avg_view_count": 178407,
+      "avg_engagement_rate": 0.020888337358944558,
+      "avg_like_count": 3405,
+      "avg_comment_count": 554,
       "source_titles": [
-        "AI 교육은 이벤트고, AX는 시스템이다 | 조코딩AX파트너스 웨비나",
-        "This Robot Can Learn Almost ANY Task"
+        "GPT 6 Astra, so good even OpenAI are worried",
+        "GPT-6 Astra is the MOST DANGEROUS AI Ever Made..."
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/nYlCKEN3aDw/hqdefault.jpg",
-      "representative_video_id": "nYlCKEN3aDw",
-      "representative_title": "AI 교육은 이벤트고, AX는 시스템이다 | 조코딩AX파트너스 웨비나"
+      "thumbnail_url": "https://i.ytimg.com/vi/Spuza-KwTJ4/hqdefault.jpg",
+      "representative_video_id": "Spuza-KwTJ4",
+      "representative_title": "GPT 6 Astra, so good even OpenAI are worried"
+    },
+    {
+      "label": "agents",
+      "count": 2,
+      "avg_view_count": 35826,
+      "avg_engagement_rate": 0.012437916469197766,
+      "avg_like_count": 382,
+      "avg_comment_count": 31,
+      "source_titles": [
+        "중학생도 AI를 만들 수 있는 시대",
+        "AI가 사람처럼 기억을 저장하는 방법 ㄷㄷ"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/UUdnp6aixRA/hqdefault.jpg",
+      "representative_video_id": "UUdnp6aixRA",
+      "representative_title": "중학생도 AI를 만들 수 있는 시대"
     },
     {
       "label": "ChatGPT",
       "count": 2,
-      "avg_view_count": 1425,
-      "avg_engagement_rate": 0.015673254127784766,
-      "avg_like_count": 18,
-      "avg_comment_count": 1,
+      "avg_view_count": 32242,
+      "avg_engagement_rate": 0.035231658937333404,
+      "avg_like_count": 882,
+      "avg_comment_count": 100,
       "source_titles": [
-        "챗GPT 이용권 등 혜택이 가득한 Namuh PLUG 출시 이벤트 2가지",
-        "You Have to Try Claude Cowork's New Built-In Browser"
+        "AI News: The Most Insane Week So Far This Year!",
+        "GPT-6 Astra: 20 Real Examples From Useful to Almost Impossible"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/3aGnGKBLfmk/hqdefault.jpg",
-      "representative_video_id": "3aGnGKBLfmk",
-      "representative_title": "챗GPT 이용권 등 혜택이 가득한 Namuh PLUG 출시 이벤트 2가지"
+      "thumbnail_url": "https://i.ytimg.com/vi/GfPZm9yucQo/hqdefault.jpg",
+      "representative_video_id": "GfPZm9yucQo",
+      "representative_title": "AI News: The Most Insane Week So Far This Year!"
     },
     {
-      "label": "OpenAI",
+      "label": "LG가",
       "count": 1,
-      "avg_view_count": 76255,
-      "avg_engagement_rate": 0.02061504163661399,
-      "avg_like_count": 1382,
-      "avg_comment_count": 190,
+      "avg_view_count": 206627,
+      "avg_engagement_rate": 0.017471095258606087,
+      "avg_like_count": 1725,
+      "avg_comment_count": 1885,
       "source_titles": [
-        "The Most Overhyped and Underhyped New AI Models"
+        "LG가 만든 공간음향 스피커 군단;; 세계 최초 기능까지 넣어버림 (150만원 구독자 이벤트💸)"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/Po_Dh7WLgmM/hqdefault.jpg",
-      "representative_video_id": "Po_Dh7WLgmM",
-      "representative_title": "The Most Overhyped and Underhyped New AI Models"
+      "thumbnail_url": "https://i.ytimg.com/vi/bzbvklumT7E/hqdefault.jpg",
+      "representative_video_id": "bzbvklumT7E",
+      "representative_title": "LG가 만든 공간음향 스피커 군단;; 세계 최초 기능까지 넣어버림 (150만원 구독자 이벤트💸)"
     },
     {
-      "label": "Claude",
+      "label": "오픈소스라고",
       "count": 1,
-      "avg_view_count": 25912,
-      "avg_engagement_rate": 0.04939796233405372,
-      "avg_like_count": 1118,
-      "avg_comment_count": 162,
+      "avg_view_count": 10212,
+      "avg_engagement_rate": 0.008225616921269096,
+      "avg_like_count": 69,
+      "avg_comment_count": 15,
       "source_titles": [
-        "Claude Fable 5.1 is UNFAIR."
+        "오픈소스라고 돈 못번다?? 충격적인 딥시크 근황"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/9OVGyC7T5c0/hqdefault.jpg",
-      "representative_video_id": "9OVGyC7T5c0",
-      "representative_title": "Claude Fable 5.1 is UNFAIR."
+      "thumbnail_url": "https://i.ytimg.com/vi/51sbHSPa_yk/hqdefault.jpg",
+      "representative_video_id": "51sbHSPa_yk",
+      "representative_title": "오픈소스라고 돈 못번다?? 충격적인 딥시크 근황"
     },
     {
-      "label": "로봇이",
+      "label": "나날이",
       "count": 1,
-      "avg_view_count": 14099,
-      "avg_engagement_rate": 0.007092701610043266,
-      "avg_like_count": 91,
-      "avg_comment_count": 9,
+      "avg_view_count": 6928,
+      "avg_engagement_rate": 0.006351039260969977,
+      "avg_like_count": 44,
+      "avg_comment_count": 0,
       "source_titles": [
-        "로봇이 만든 새로운 효과적인 자세..?"
+        "나날이 발전하기만 하는 영상 AI 근황"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/bTP55wgeMGM/hqdefault.jpg",
-      "representative_video_id": "bTP55wgeMGM",
-      "representative_title": "로봇이 만든 새로운 효과적인 자세..?"
+      "thumbnail_url": "https://i.ytimg.com/vi/8ANHSyLnNNM/hqdefault.jpg",
+      "representative_video_id": "8ANHSyLnNNM",
+      "representative_title": "나날이 발전하기만 하는 영상 AI 근황"
     },
     {
-      "label": "100조",
+      "label": "사업아이템",
       "count": 1,
-      "avg_view_count": 13729,
-      "avg_engagement_rate": 0.008813460557943041,
-      "avg_like_count": 117,
+      "avg_view_count": 4534,
+      "avg_engagement_rate": 0.0674900749889722,
+      "avg_like_count": 302,
       "avg_comment_count": 4,
       "source_titles": [
-        "100조 토큰까지 처리할 수 있는 모델의 충격적인 진실"
+        "Should You Start These Businesses?"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/n4dU5JjbNHg/hqdefault.jpg",
-      "representative_video_id": "n4dU5JjbNHg",
-      "representative_title": "100조 토큰까지 처리할 수 있는 모델의 충격적인 진실"
-    },
-    {
-      "label": "일잘러들은",
-      "count": 1,
-      "avg_view_count": 5899,
-      "avg_engagement_rate": 0.021190032208848956,
-      "avg_like_count": 99,
-      "avg_comment_count": 26,
-      "source_titles": [
-        "일잘러들은 다 쓴다는 개꿀 무료 캡쳐 도구 ㅋㅋ"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/X0YWWtve9HA/hqdefault.jpg",
-      "representative_video_id": "X0YWWtve9HA",
-      "representative_title": "일잘러들은 다 쓴다는 개꿀 무료 캡쳐 도구 ㅋㅋ"
-    },
-    {
-      "label": "수익화",
-      "count": 1,
-      "avg_view_count": 5393,
-      "avg_engagement_rate": 0.19432597811978491,
-      "avg_like_count": 949,
-      "avg_comment_count": 99,
-      "source_titles": [
-        "GPT-6 Astra Is Finally Here (And It’s REALLY Good)"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/GGzT7zVrRTU/hqdefault.jpg",
-      "representative_video_id": "GGzT7zVrRTU",
-      "representative_title": "GPT-6 Astra Is Finally Here (And It’s REALLY Good)"
+      "thumbnail_url": "https://i.ytimg.com/vi/YMBZ0o8JBBU/hqdefault.jpg",
+      "representative_video_id": "YMBZ0o8JBBU",
+      "representative_title": "Should You Start These Businesses?"
     }
   ],
   "video_highlights": [
     {
-      "video_id": "Po_Dh7WLgmM",
-      "channel_name": "Matt Wolfe",
-      "title": "The Most Overhyped and Underhyped New AI Models",
-      "thumbnail_url": "https://i.ytimg.com/vi/Po_Dh7WLgmM/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=Po_Dh7WLgmM",
-      "published_at": "2026-09-03T02:14:55Z",
-      "view_count": 76255,
-      "like_count": 1382,
-      "comment_count": 190,
-      "engagement_rate": 0.02061504163661399,
+      "video_id": "Spuza-KwTJ4",
+      "channel_name": "AI Explained",
+      "title": "GPT 6 Astra, so good even OpenAI are worried",
+      "thumbnail_url": "https://i.ytimg.com/vi/Spuza-KwTJ4/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=Spuza-KwTJ4",
+      "published_at": "2026-09-04T11:37:27Z",
+      "view_count": 274765,
+      "like_count": 5514,
+      "comment_count": 888,
+      "engagement_rate": 0.023299910832893563,
       "topic_cluster": "OpenAI",
-      "summary": "Fable 5.1과 Gemini 3.8 Flash 등 최신 AI 모델들의 성능과 비용 효율성을 분석하며, 코딩 작업에서는 유용할 수 있으나 비싼 비용 대비 효율성에…",
-      "comment_signal": "Solid take - though as a software engineer I'll say that frontier models absolutely unlock capa…",
+      "summary": "GPT-6 Astra가 벤치마크 평가에서 우수한 성능을 입증하며 AI 업계의 관심을 받고 있습니다. 특히 보안과 탈옥 시도에 대한 저항력이 개선되었으나, 생성된 결…",
+      "comment_signal": "I'm glad you didn't hype up every development in AI. That way we know that when you say somethi…",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "9OVGyC7T5c0",
-      "channel_name": "tef",
-      "title": "Claude Fable 5.1 is UNFAIR.",
-      "thumbnail_url": "https://i.ytimg.com/vi/9OVGyC7T5c0/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=9OVGyC7T5c0",
-      "published_at": "2026-09-03T07:58:15Z",
-      "view_count": 25912,
-      "like_count": 1118,
-      "comment_count": 162,
-      "engagement_rate": 0.04939796233405372,
-      "topic_cluster": "Claude",
-      "summary": "Claude Fable 5.1을 활용해 마인크래프트, 지오메트리 대시, CS2와 같은 게임을 단일 프롬프트로 제작하는 과정을 보여주며 모델의 높은 코딩 및 창의적…",
-      "comment_signal": "hey tef, I would recommend putting images with your prompt. it makes the games better",
+      "video_id": "bzbvklumT7E",
+      "channel_name": "주연 ZUYONI",
+      "title": "LG가 만든 공간음향 스피커 군단;; 세계 최초 기능까지 넣어버림 (150만원 구독자 이벤트💸)",
+      "thumbnail_url": "https://i.ytimg.com/vi/bzbvklumT7E/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=bzbvklumT7E",
+      "published_at": "2026-09-04T10:00:07Z",
+      "view_count": 206627,
+      "like_count": 1725,
+      "comment_count": 1885,
+      "engagement_rate": 0.017471095258606087,
+      "topic_cluster": "LG가",
+      "summary": "LG 사운드 스위트 AI는 세계 최초로 'Dolby Atmos FlexConnect'를 적용하여, 스피커 배치 위치와 상관없이 AI가 공간을 분석해 최적화된 입체…",
+      "comment_signal": "🎁 주돈주산 X LG 구독자 댓글 이벤트 | 총 1,534,000원 상당 / 5명 증정 이번 영상 보셨다면 아무 댓글이나 남겨주시고! 💬 아래 링크에서 이벤트에 참여해주세…",
+      "hook_type": "수익"
+    },
+    {
+      "video_id": "5Cz4gDBMbEc",
+      "channel_name": "AI Samson",
+      "title": "GPT-6 Astra is the MOST DANGEROUS AI Ever Made...",
+      "thumbnail_url": "https://i.ytimg.com/vi/5Cz4gDBMbEc/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=5Cz4gDBMbEc",
+      "published_at": "2026-09-04T10:11:45Z",
+      "view_count": 82049,
+      "like_count": 1296,
+      "comment_count": 220,
+      "engagement_rate": 0.018476763884995553,
+      "topic_cluster": "OpenAI",
+      "summary": "GPT-6 Astra는 복잡한 코딩, 3D 모델링, 게임 개발 등 다양한 작업에서 뛰어난 능력을 보이며 업무 생산성을 혁신할 잠재력을 보여줍니다. 해킹 도구로 활용…",
+      "comment_signal": "I feel so safe that the man in charge of 'most dangerous' AI is Sam Altman.",
+      "hook_type": "수익"
+    },
+    {
+      "video_id": "GfPZm9yucQo",
+      "channel_name": "Matt Wolfe",
+      "title": "AI News: The Most Insane Week So Far This Year!",
+      "thumbnail_url": "https://i.ytimg.com/vi/GfPZm9yucQo/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=GfPZm9yucQo",
+      "published_at": "2026-09-04T15:00:34Z",
+      "view_count": 56112,
+      "like_count": 1448,
+      "comment_count": 167,
+      "engagement_rate": 0.02878172226974622,
+      "topic_cluster": "ChatGPT",
+      "summary": "최근 AI 분야는 GPT-6 Astra, Claude Fable 5.1, Gemini 3.8 Flash 등 다수의 신규 모델이 발표되며 매우 활발한 변화를 겪고 있…",
+      "comment_signal": "I'm not exhausted, I want more Ai and I want it faster!",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "bTP55wgeMGM",
+      "video_id": "UUdnp6aixRA",
       "channel_name": "조코딩 JoCoding",
-      "title": "로봇이 만든 새로운 효과적인 자세..?",
-      "thumbnail_url": "https://i.ytimg.com/vi/bTP55wgeMGM/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=bTP55wgeMGM",
-      "published_at": "2026-09-03T06:00:09Z",
-      "view_count": 14099,
-      "like_count": 91,
-      "comment_count": 9,
-      "engagement_rate": 0.007092701610043266,
-      "topic_cluster": "로봇이",
-      "summary": "휴머노이드 로봇이 강화학습을 통해 효율적인 달리기 자세를 스스로 터득하는 과정을 소개하며, 인공지능이 최적화된 동작을 찾아내는 성능을 다룬다.",
-      "comment_signal": "식빵물고등교하는 일본애니메이션 여학생달리기",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "n4dU5JjbNHg",
-      "channel_name": "조코딩 JoCoding",
-      "title": "100조 토큰까지 처리할 수 있는 모델의 충격적인 진실",
-      "thumbnail_url": "https://i.ytimg.com/vi/n4dU5JjbNHg/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=n4dU5JjbNHg",
-      "published_at": "2026-09-03T09:00:24Z",
-      "view_count": 13729,
-      "like_count": 117,
-      "comment_count": 4,
-      "engagement_rate": 0.008813460557943041,
-      "topic_cluster": "100조",
-      "summary": "하루 100조 토큰을 처리할 수 있는 중국의 대규모 언어 모델 인프라를 분석하며, 엄청난 추론 능력을 뒷받침하는 기술적 배경과 트래픽 처리 역량을 설명한다.",
-      "comment_signal": "현제 오픈라우터에서 할인도 해서 매우 싼 가격에 GPT 5.5급 모델을 돌릴 수 있음",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "nYlCKEN3aDw",
-      "channel_name": "조코딩 JoCoding",
-      "title": "AI 교육은 이벤트고, AX는 시스템이다 | 조코딩AX파트너스 웨비나",
-      "thumbnail_url": "https://i.ytimg.com/vi/nYlCKEN3aDw/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=nYlCKEN3aDw",
-      "published_at": "2026-09-03T23:37:27Z",
-      "view_count": 10936,
-      "like_count": 63,
-      "comment_count": 3,
-      "engagement_rate": 0.006035113386978786,
-      "topic_cluster": "코딩",
-      "summary": "AI 교육을 단순한 일회성 이벤트가 아닌 조직 내 시스템으로 안착시키는 방법론을 논하며, 기업의 AI 활용 역량 진단과 정착 전략을 제시한다.",
-      "comment_signal": "중국 현지 한국수출. 무역 관리 자동화시스템, 바이브코딩으로 2년동안 개발 업그레이드 하면서 실제 업무에 도입하고 테스트 중입니다(중국현지 알바 시스템활용으로 관리비용 절…",
+      "title": "중학생도 AI를 만들 수 있는 시대",
+      "thumbnail_url": "https://i.ytimg.com/vi/UUdnp6aixRA/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=UUdnp6aixRA",
+      "published_at": "2026-09-04T06:00:22Z",
+      "view_count": 53484,
+      "like_count": 509,
+      "comment_count": 59,
+      "engagement_rate": 0.010619998504225563,
+      "topic_cluster": "agents",
+      "summary": "기업의 API 제한이나 비용 문제에 대응하여 개인 컴퓨터 환경에서 직접 학습시킬 수 있는 1.09 파라미터 한국어 LLM 학습 파이프라인 개발 사례를 소개합니다.",
+      "comment_signal": "내가 중2땐 프라모델이나 만들었는데...",
       "hook_type": "문제 해결"
     }
   ]
