@@ -1,237 +1,262 @@
 {
-  "digest_date": "2026-09-14",
-  "generated_at": "2026-09-14T01:00:48+00:00",
-  "summary": "최근 24시간 영상 8개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'Claude'입니다. 특히 '중국 정부 기밀 정보, Claude로… 앤트로픽 베끼려다가 중국 기밀이 Claude로 넘어간 현 상황 | 딥시크·키미 황당한 역유출 | 러시아 정보도?'는 조회수 158.4K, 참여율 1.2%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "'Claude' 주제가 2개 영상으로 가장 많이 다뤄졌습니다. 오늘 수집 영상 8개는 주로 '뉴스 분석' 포맷이라, VS 비교·직접 실험 각도는 아직 비어 있습니다. Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n[내 채널] 7일 평균 39.3K회 · 지속률 33.2% / 경쟁사 평균 26.7K회 (격차 +47%)",
-  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 09/14\n\n📊 총 8개 | AI 핵심 3 · 인접 AI 5 · 일반 테크 보충 0\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 8 (최대 10) · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [조코딩 JoCoding] 32.0K뷰 · 참여율 0.8%\n   IT뉴스 - 초파리 열풍, OpenAI 밀레니엄 난제 해결, Images 2.5, AI의 발전 속도를 늦춰야하나, Google ARTEMI…\n   ↳ AI 기술의 급격한 발전으로 인해 안전성뿐만 아니라 발전 속도를 조절해야 한다는 주장이 주요 CEO들 사이에서 제기되었습니다. 또한 나비에-스토크스 방정식과 같은 난제 해결 및 최신 AI 모델과 연구 성과들이 소개…\n   https://youtu.be/l7frz_bd5vM\n\n2. AI 핵심 · [동테크] 4.5K뷰 · 참여율 1.5%\n   GPT만 있으면 AI 종이 스타일 영상 편집 가능합니다(방법 전부 공개)\n   ↳ 1인 크리에이터가 영상 편집의 본질을 이해하고 클로드와 같은 AI 도구와 캡컷을 활용해 편집 과정을 자동화하고 몰입감 있는 영상을 제작하는 체계적인 방법을 다룹니다.\n   https://youtu.be/BvfVOjV5--E\n\n3. AI 핵심 · [성공지식백과] 140뷰 · 참여율 7.9%\n   수백만원 영상 크레딧 아끼는법.. ㄷㄷ 힉스필드 블렌더 + 클로드 = 3D 영상 렌더링기법\n   ↳ 힉스필드 블렌더와 클로드를 연동하여 3D 프리비즈를 자동 생성함으로써 고비용 렌더링 과정을 최적화하는 기법을 소개합니다. 클로드에게 텍스트로 장면을 명령해 3D 에셋을 배치하고 이를 시댄스 2.5 영상 생성의 가이…\n   https://youtu.be/jhLXAjH82MQ\n\n4. AI 인접 · [안될공학 - IT 테크 신기술] 158.4K뷰 · 참여율 1.2%\n   중국 정부 기밀 정보, Claude로… 앤트로픽 베끼려다가 중국 기밀이 Claude로 넘어간 현 상황 | 딥시크·키미 황당한 역유출 | 러…\n   ↳ 중국 AI 서비스인 딥시크와 키미가 사용자 데이터를 증류하는 과정에서 경쟁 모델인 클로드로 정보가 역유출되는 보안 사고가 발생했습니다. 이로 인해 민감한 기밀 자료와 러시아 정부 데이터베이스 접속 정보 등이 의도치…\n   https://youtu.be/d0kRWcguYSU\n\n5. AI 인접 · [Dan Martell] 13.2K뷰 · 참여율 5.8%\n   Should you use AI, an Assistant, or yourself for these tasks?\n   ↳ 업무 성격에 따라 AI, 비서, 혹은 본인이 직접 처리해야 할 영역을 구분하는 기준을 제시하며, 중요한 협상이나 핵심 의사결정 등 인간의 개입이 필수적인 영역의 중요성을 강조합니다.\n   https://youtu.be/cJAnjEiSCb0\n\n6. AI 인접 · [Dan Martell] 2.6K뷰 · 참여율 12.8%\n   How to set up an AI agent\n   ↳ AI 에이전트를 성공적으로 도입하기 위해 해결하고자 하는 목표를 명확히 설정해야 하며, 승인 절차를 포함한 자동화 시스템 구축 전략을 다룹니다.\n   https://youtu.be/0AcoA21fu6A\n\n7. AI 인접 · [월텍남 - 월스트리트 테크남] 1.3K뷰 · 참여율 0.2%\n   AI가 바보같다고 느끼는 가장 큰 이유\n   ↳ AI가 대화 중 초반 조건을 잊어버리거나 멍청하게 느껴지는 이유는 '컨텍스트 창'이라는 입력 제한 때문임을 설명합니다. 대화가 이 범위를 벗어나면 AI가 이전 정보를 참조할 수 없게 되어 발생하는 현상입니다.\n   https://youtu.be/E6yoKoTngY8\n\n8. AI 인접 · [월텍남 - 월스트리트 테크남] 1.3K뷰 · 참여율 0.1%\n   서울대 철학과가 컴공 취업률을 앞섰다 ㄷㄷ..\n   ↳ AI가 코딩 및 지식 노동 영역을 빠르게 대체함에 따라 서울대 자유전공 학생들의 컴퓨터공학 선택 비율이 급감하고 철학과 등 인문학의 선호도가 높아지는 현상을 분석합니다.\n   https://youtu.be/ppYHihyV3k0\n\n📈 스마트대디 어제 실적\n조회수 22.5K (↓43% vs 7일 평균) | 구독 +38\n시청 지속률 33.4% | 평균 시청 2분 08초\n경쟁사 평균 26.7K회 대비 내 7일 평균 +47%\n\n💡 VS 각도: Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
-  "video_count": 8,
-  "total_recent_video_count": 9,
+  "digest_date": "2026-09-15",
+  "generated_at": "2026-09-15T01:26:18+00:00",
+  "summary": "최근 24시간 영상 13개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'ChatGPT'입니다. 특히 '요즘 삼성이 애플을 작정하고 긁는 이유'는 조회수 151.4K, 참여율 0.9%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "'ChatGPT' 주제가 3개 영상으로 가장 많이 다뤄졌습니다. ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.\n[내 채널] 7일 평균 36.6K회 · 지속률 33.1% / 경쟁사 평균 20.9K회 (격차 +75%)",
+  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 09/15\n\n📊 총 10개 | AI 핵심 10 · 인접 AI 0 · 일반 테크 보충 0\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 10 · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [조코딩 JoCoding] 48.7K뷰 · 참여율 0.8%\n   AI뉴스 - AI 멈추지 않으면 다 죽는다, OpenAI 밀레니엄 난제 해결, Images 2.5, Google ARTEMIS, Alpha…\n   ↳ 앤트로픽과 OpenAI를 중심으로 한 최신 AI 업계 동향과 기술적 성과를 다루며, AI 안전성과 규제 논의 및 다양한 최신 모델의 출시 소식을 정리했다.\n   https://youtu.be/vmzKqn5GOaw\n\n2. AI 핵심 · [빌더 조쉬 Builder Josh] 3.9K뷰 · 참여율 1.3%\n   SEO 없이 GEO부터 하는 건 순서가 뒤바뀐 겁니다, 한국 기업이 먼저 해야 할 일 (엘리펀트컴퍼니 김예지 대표님)\n   ↳ AI 검색 시대에 맞춰 브랜드가 인용될 가능성을 높이는 GEO 전략을 소개하며, 엔티티 구축과 일관된 콘텐츠 전략의 중요성을 강조했다.\n   https://youtu.be/f0SdOoVBeFo\n\n3. AI 핵심 · [All About AI] 2.7K뷰 · 참여율 2.4%\n   GPT-6 Kalshi AI Trading Bot Week 1 Results - Printing Money?\n   ↳ GPT-6와 연동한 Kalshi AI 트레이딩 봇의 첫 주 운영 성과를 공유하며 향후 업데이트를 예고했다.\n   https://youtu.be/KOv_Oj8l8Mg\n\n4. AI 핵심 · [The AI Advantage] 2.6K뷰 · 참여율 0.8%\n   GPT-6 Astra + ChatGPT Images 2.5 Goes Crazy\n   ↳ ChatGPT Images 2.5와 GPT-6 Astra를 결합해 시각적 콘텐츠를 제작하는 고도화된 워크플로우와 그 결과물을 시연했다.\n   https://youtu.be/ja8hDC1_5ss\n\n5. AI 핵심 · [Matt Wolfe] 2.0K뷰 · 참여율 4.1%\n   Is AI Going To \"Kill Us All\"?\n   ↳ AI 기업들의 속도 조절 요구가 단순한 위기 대응인지 경제적 계산인지 논하며, AI 경쟁 속에서 안전성 확보를 위한 균형 있는 시각을 제시했다.\n   https://youtu.be/mku_K8pCLx4\n\n6. AI 핵심 · [빌더 조쉬 Builder Josh] 1.2K뷰 · 참여율 0.3%\n   GEO는 결국 브랜딩입니다, AI가 우리 브랜드를 신뢰하게 만드는 법 (엘리펀트컴퍼니 김예지 대표님)\n   ↳ GEO는 AI가 브랜드를 신뢰하게 만드는 브랜딩 과정임을 강조하며, 고객의 질문에 답하는 전문적인 콘텐츠 축적의 필요성을 설명했다.\n   https://youtu.be/nEcQU8EHzS8\n\n7. AI 핵심 · [The AI Advantage] 826뷰 · 참여율 1.7%\n   Claude Skills: Report Generator\n   ↳ Claude의 스킬 기능을 활용하여 단계별로 보고서를 자동으로 생성하는 워크플로우 구축 방법을 안내했다.\n   https://youtu.be/PgYD_y_Jba8\n\n8. AI 핵심 · [The AI Advantage] 808뷰 · 참여율 4.2%\n   Claude Skills Explained: Unslop\n   ↳ Claude에서 'Unslop' 스킬을 설치하고 에이전트처럼 활용하여 답변의 품질을 높이는 구체적인 설정 방법을 설명했다.\n   https://youtu.be/MkrwxIJS0_o\n\n9. AI 핵심 · [AI Samson] 756뷰 · 참여율 0.7%\n   Master AI Video Creation: Your 5 Level Roadmap\n   ↳ AI 영상 제작의 5단계 로드맵을 제시하여 초보자부터 전문가까지 제어력과 일관성을 높이는 기술적 단계를 정리했다.\n   https://youtu.be/rnZXSc8azc0\n\n10. AI 핵심 · [성공지식백과] 413뷰 · 참여율 2.4%\n   초보자도 공짜API로 돈받는서비스 만드는 방법..ㄷㄷ\n   ↳ 노코드 플랫폼 온스페이스와 메트로폴리탄 미술관 API를 활용해 코딩이나 API 키 없이도 앱을 제작하고 수익화하는 과정을 시연했다.\n   https://youtu.be/LbZ6pTW7oLA\n\n📈 스마트대디 어제 실적\n조회수 37.7K (↑3% vs 7일 평균) | 구독 +66\n시청 지속률 33.9% | 평균 시청 2분 44초\n경쟁사 평균 20.9K회 대비 내 7일 평균 +75%\n\n💡 VS 각도: ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+  "video_count": 13,
+  "total_recent_video_count": 16,
   "focus_scope": "ai_priority_then_tech_fill",
-  "average_view_count": 26692.0,
-  "average_engagement_rate": 0.03793431398768313,
-  "average_like_count": 368.0,
-  "average_comment_count": 48.0,
-  "best_video_id": "d0kRWcguYSU",
-  "best_topic": "Claude",
+  "average_view_count": 20934.0,
+  "average_engagement_rate": 0.025482489951620987,
+  "average_like_count": 156.0,
+  "average_comment_count": 57.0,
+  "best_video_id": "Z18OoC1ck78",
+  "best_topic": "ChatGPT",
   "summary_points": [
-    "가장 겹친 주제는 'Claude'이며 2개 영상, 평균 조회수 79.3K, 평균 참여율 4.5%입니다.",
-    "최고 실적 영상은 '중국 정부 기밀 정보, Claude로… 앤트로픽 베끼려다가 중국 기밀이 Claude로 넘어간 현 상황 | 딥시크·키미 황당한 역유출 | 러시아 정보도?'이며 문제 해결 훅과 빌드 데모 포맷 조합이 강했습니다.",
-    "반복 노출된 툴은 Claude 3회, MCP 2회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
+    "가장 겹친 주제는 'ChatGPT'이며 3개 영상, 평균 조회수 1.8K, 평균 참여율 3.0%입니다.",
+    "최고 실적 영상은 '요즘 삼성이 애플을 작정하고 긁는 이유'이며 문제 해결 훅과 뉴스 분석 포맷 조합이 강했습니다.",
+    "반복 노출된 툴은 ChatGPT 4회, Claude 2회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
   ],
   "action_chips": [
-    "주제: Claude",
+    "주제: ChatGPT",
     "훅: 문제 해결",
-    "포맷: 빌드 데모",
-    "기준 채널: 안될공학 - IT 테크 신기술"
+    "포맷: 뉴스 분석",
+    "기준 채널: 테크몽 Techmong"
   ],
   "title_suggestions": [
-    "Claude vs ChatGPT, 일반인이 직접 써보니 이게 달랐다",
-    "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
-    "AI 비서 대결: Claude가 진짜 강한 상황은 따로 있었다"
+    "ChatGPT vs Claude vs Gemini, 일반인 업무 실전 대결 결과",
+    "GPT 최신 버전 직접 실험 — 이전이랑 진짜 달라?",
+    "GPT 써봤더니... 기대랑 다른 점 솔직하게 다 말해봄"
   ],
   "recommendations": [
     {
-      "title": "Claude vs ChatGPT, 일반인이 직접 써보니 이게 달랐다",
+      "title": "ChatGPT vs Claude vs Gemini, 일반인 업무 실전 대결 결과",
       "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "Claude 바로 해결",
-      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
-      "source_video_id": "d0kRWcguYSU",
-      "source": "중국 정부 기밀 정보, Claude로… 앤트로픽 베끼려다가 중국 기밀이 Claude로 넘어간 현 상황 | 딥시크·키미 황당한 역유출 | 러시아 정보도?",
-      "my_channel_context": "내 7일 평균 39.3K회 · 지속률 33.2% / 경쟁사 대비 +47%"
+      "angle": "'ChatGPT'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
+      "thumbnail_copy": "ChatGPT 바로 해결",
+      "reason": "ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.",
+      "source_video_id": "ja8hDC1_5ss",
+      "source": "GPT-6 Astra + ChatGPT Images 2.5 Goes Crazy",
+      "my_channel_context": "내 7일 평균 36.6K회 · 지속률 33.1% / 경쟁사 대비 +75%"
     },
     {
-      "title": "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
+      "title": "GPT 최신 버전 직접 실험 — 이전이랑 진짜 달라?",
       "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "Claude 바로 해결",
-      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
-      "source_video_id": "jhLXAjH82MQ",
-      "source": "수백만원 영상 크레딧 아끼는법.. ㄷㄷ 힉스필드 블렌더 + 클로드 = 3D 영상 렌더링기법",
-      "my_channel_context": "내 7일 평균 39.3K회 · 지속률 33.2% / 경쟁사 대비 +47%"
+      "angle": "'ChatGPT'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
+      "thumbnail_copy": "ChatGPT 바로 해결",
+      "reason": "ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.",
+      "source_video_id": "mku_K8pCLx4",
+      "source": "Is AI Going To \"Kill Us All\"?",
+      "my_channel_context": "내 7일 평균 36.6K회 · 지속률 33.1% / 경쟁사 대비 +75%"
+    },
+    {
+      "title": "GPT 써봤더니... 기대랑 다른 점 솔직하게 다 말해봄",
+      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
+      "angle": "'ChatGPT'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
+      "thumbnail_copy": "ChatGPT 바로 해결",
+      "reason": "ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.",
+      "source_video_id": "MkrwxIJS0_o",
+      "source": "Claude Skills Explained: Unslop",
+      "my_channel_context": "내 7일 평균 36.6K회 · 지속률 33.1% / 경쟁사 대비 +75%"
     }
   ],
   "topic_clusters": [
     {
-      "label": "Claude",
-      "count": 2,
-      "avg_view_count": 79271,
-      "avg_engagement_rate": 0.04526417415364525,
-      "avg_like_count": 802,
-      "avg_comment_count": 150,
+      "label": "ChatGPT",
+      "count": 3,
+      "avg_view_count": 1791,
+      "avg_engagement_rate": 0.030372495273721507,
+      "avg_like_count": 38,
+      "avg_comment_count": 7,
       "source_titles": [
-        "중국 정부 기밀 정보, Claude로… 앤트로픽 베끼려다가 중국 기밀이 Claude로 넘어간 현 상황 | 딥시크·키미 황당한 역유출 | 러시아 정보도?",
-        "수백만원 영상 크레딧 아끼는법.. ㄷㄷ 힉스필드 블렌더 + 클로드 = 3D 영상 렌더링기법"
+        "GPT-6 Astra + ChatGPT Images 2.5 Goes Crazy",
+        "Is AI Going To \"Kill Us All\"?",
+        "Claude Skills Explained: Unslop"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/d0kRWcguYSU/hqdefault.jpg",
-      "representative_video_id": "d0kRWcguYSU",
-      "representative_title": "중국 정부 기밀 정보, Claude로… 앤트로픽 베끼려다가 중국 기밀이 Claude로 넘어간 현 상황 | 딥시크·키미 황당한 역유출 | 러시아 정보도?"
+      "thumbnail_url": "https://i.ytimg.com/vi/ja8hDC1_5ss/hqdefault.jpg",
+      "representative_video_id": "ja8hDC1_5ss",
+      "representative_title": "GPT-6 Astra + ChatGPT Images 2.5 Goes Crazy"
+    },
+    {
+      "label": "요즘",
+      "count": 1,
+      "avg_view_count": 151422,
+      "avg_engagement_rate": 0.008690943191874365,
+      "avg_like_count": 870,
+      "avg_comment_count": 446,
+      "source_titles": [
+        "요즘 삼성이 애플을 작정하고 긁는 이유"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/Z18OoC1ck78/hqdefault.jpg",
+      "representative_video_id": "Z18OoC1ck78",
+      "representative_title": "요즘 삼성이 애플을 작정하고 긁는 이유"
+    },
+    {
+      "label": "agents",
+      "count": 1,
+      "avg_view_count": 56624,
+      "avg_engagement_rate": 0.013315908448714326,
+      "avg_like_count": 632,
+      "avg_comment_count": 122,
+      "source_titles": [
+        "갑작스레 AI 속도 늦추자... 투자는 확대?  ‘카르텔’ 논란의 진짜 쟁점 | 중국은 멈추지 않는다"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/O6eCcA9fFg8/hqdefault.jpg",
+      "representative_video_id": "O6eCcA9fFg8",
+      "representative_title": "갑작스레 AI 속도 늦추자... 투자는 확대?  ‘카르텔’ 논란의 진짜 쟁점 | 중국은 멈추지 않는다"
     },
     {
       "label": "OpenAI",
       "count": 1,
-      "avg_view_count": 31976,
-      "avg_engagement_rate": 0.00766199649737303,
-      "avg_like_count": 235,
-      "avg_comment_count": 10,
+      "avg_view_count": 48745,
+      "avg_engagement_rate": 0.008226484767668478,
+      "avg_like_count": 291,
+      "avg_comment_count": 110,
       "source_titles": [
-        "IT뉴스 - 초파리 열풍, OpenAI 밀레니엄 난제 해결, Images 2.5, AI의 발전 속도를 늦춰야하나, Google ARTEMIS, AlphaGenome Atlas 등"
+        "AI뉴스 - AI 멈추지 않으면 다 죽는다, OpenAI 밀레니엄 난제 해결, Images 2.5, Google ARTEMIS, AlphaGenome Atlas 등"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/l7frz_bd5vM/hqdefault.jpg",
-      "representative_video_id": "l7frz_bd5vM",
-      "representative_title": "IT뉴스 - 초파리 열풍, OpenAI 밀레니엄 난제 해결, Images 2.5, AI의 발전 속도를 늦춰야하나, Google ARTEMIS, AlphaGenome Atlas 등"
+      "thumbnail_url": "https://i.ytimg.com/vi/vmzKqn5GOaw/hqdefault.jpg",
+      "representative_video_id": "vmzKqn5GOaw",
+      "representative_title": "AI뉴스 - AI 멈추지 않으면 다 죽는다, OpenAI 밀레니엄 난제 해결, Images 2.5, Google ARTEMIS, AlphaGenome Atlas 등"
     },
     {
-      "label": "AI활용",
+      "label": "AI마케팅",
       "count": 1,
-      "avg_view_count": 13240,
-      "avg_engagement_rate": 0.0581570996978852,
-      "avg_like_count": 733,
-      "avg_comment_count": 37,
+      "avg_view_count": 3946,
+      "avg_engagement_rate": 0.012924480486568676,
+      "avg_like_count": 36,
+      "avg_comment_count": 15,
       "source_titles": [
-        "Should you use AI, an Assistant, or yourself for these tasks?"
+        "SEO 없이 GEO부터 하는 건 순서가 뒤바뀐 겁니다, 한국 기업이 먼저 해야 할 일 (엘리펀트컴퍼니 김예지 대표님)"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/cJAnjEiSCb0/hqdefault.jpg",
-      "representative_video_id": "cJAnjEiSCb0",
-      "representative_title": "Should you use AI, an Assistant, or yourself for these tasks?"
-    },
-    {
-      "label": "ChatGPT",
-      "count": 1,
-      "avg_view_count": 4480,
-      "avg_engagement_rate": 0.014955357142857144,
-      "avg_like_count": 63,
-      "avg_comment_count": 4,
-      "source_titles": [
-        "GPT만 있으면 AI 종이 스타일 영상 편집 가능합니다(방법 전부 공개)"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/BvfVOjV5--E/hqdefault.jpg",
-      "representative_video_id": "BvfVOjV5--E",
-      "representative_title": "GPT만 있으면 AI 종이 스타일 영상 편집 가능합니다(방법 전부 공개)"
+      "thumbnail_url": "https://i.ytimg.com/vi/f0SdOoVBeFo/hqdefault.jpg",
+      "representative_video_id": "f0SdOoVBeFo",
+      "representative_title": "SEO 없이 GEO부터 하는 건 순서가 뒤바뀐 겁니다, 한국 기업이 먼저 해야 할 일 (엘리펀트컴퍼니 김예지 대표님)"
     },
     {
       "label": "에이전트",
       "count": 1,
-      "avg_view_count": 2616,
-      "avg_engagement_rate": 0.12844036697247707,
-      "avg_like_count": 304,
-      "avg_comment_count": 32,
+      "avg_view_count": 2659,
+      "avg_engagement_rate": 0.0236931177134261,
+      "avg_like_count": 46,
+      "avg_comment_count": 17,
       "source_titles": [
-        "How to set up an AI agent"
+        "GPT-6 Kalshi AI Trading Bot Week 1 Results - Printing Money?"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/0AcoA21fu6A/hqdefault.jpg",
-      "representative_video_id": "0AcoA21fu6A",
-      "representative_title": "How to set up an AI agent"
+      "thumbnail_url": "https://i.ytimg.com/vi/KOv_Oj8l8Mg/hqdefault.jpg",
+      "representative_video_id": "KOv_Oj8l8Mg",
+      "representative_title": "GPT-6 Kalshi AI Trading Bot Week 1 Results - Printing Money?"
     },
     {
-      "label": "인공지능",
+      "label": "GEO는",
       "count": 1,
-      "avg_view_count": 1340,
-      "avg_engagement_rate": 0.002238805970149254,
-      "avg_like_count": 3,
+      "avg_view_count": 1240,
+      "avg_engagement_rate": 0.0032258064516129032,
+      "avg_like_count": 4,
       "avg_comment_count": 0,
       "source_titles": [
-        "AI가 바보같다고 느끼는 가장 큰 이유"
+        "GEO는 결국 브랜딩입니다, AI가 우리 브랜드를 신뢰하게 만드는 법 (엘리펀트컴퍼니 김예지 대표님)"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/E6yoKoTngY8/hqdefault.jpg",
-      "representative_video_id": "E6yoKoTngY8",
-      "representative_title": "AI가 바보같다고 느끼는 가장 큰 이유"
+      "thumbnail_url": "https://i.ytimg.com/vi/nEcQU8EHzS8/hqdefault.jpg",
+      "representative_video_id": "nEcQU8EHzS8",
+      "representative_title": "GEO는 결국 브랜딩입니다, AI가 우리 브랜드를 신뢰하게 만드는 법 (엘리펀트컴퍼니 김예지 대표님)"
     },
     {
-      "label": "서울대",
+      "label": "Claude",
       "count": 1,
-      "avg_view_count": 1340,
-      "avg_engagement_rate": 0.0014925373134328358,
-      "avg_like_count": 1,
+      "avg_view_count": 826,
+      "avg_engagement_rate": 0.01694915254237288,
+      "avg_like_count": 13,
       "avg_comment_count": 1,
       "source_titles": [
-        "서울대 철학과가 컴공 취업률을 앞섰다 ㄷㄷ.."
+        "Claude Skills: Report Generator"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/ppYHihyV3k0/hqdefault.jpg",
-      "representative_video_id": "ppYHihyV3k0",
-      "representative_title": "서울대 철학과가 컴공 취업률을 앞섰다 ㄷㄷ.."
+      "thumbnail_url": "https://i.ytimg.com/vi/PgYD_y_Jba8/hqdefault.jpg",
+      "representative_video_id": "PgYD_y_Jba8",
+      "representative_title": "Claude Skills: Report Generator"
     }
   ],
   "video_highlights": [
     {
-      "video_id": "d0kRWcguYSU",
+      "video_id": "Z18OoC1ck78",
+      "channel_name": "테크몽 Techmong",
+      "title": "요즘 삼성이 애플을 작정하고 긁는 이유",
+      "thumbnail_url": "https://i.ytimg.com/vi/Z18OoC1ck78/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=Z18OoC1ck78",
+      "published_at": "2026-09-14T11:10:47Z",
+      "view_count": 151422,
+      "like_count": 870,
+      "comment_count": 446,
+      "engagement_rate": 0.008690943191874365,
+      "topic_cluster": "요즘",
+      "summary": "아이폰 듀오 출시 이후 삼성과 애플이 서로를 적극적으로 견제하는 마케팅 배경과 기업 간 경쟁 구도를 분석했다.",
+      "comment_signal": "걍 서로 노는 것 같은데 좀 냅둬 저 정도로 서로 디스하는거면 걍 찐친인듯",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "O6eCcA9fFg8",
       "channel_name": "안될공학 - IT 테크 신기술",
-      "title": "중국 정부 기밀 정보, Claude로… 앤트로픽 베끼려다가 중국 기밀이 Claude로 넘어간 현 상황 | 딥시크·키미 황당한 역유출 | 러시아 정보도?",
-      "thumbnail_url": "https://i.ytimg.com/vi/d0kRWcguYSU/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=d0kRWcguYSU",
-      "published_at": "2026-09-13T07:28:14Z",
-      "view_count": 158402,
-      "like_count": 1594,
-      "comment_count": 300,
-      "engagement_rate": 0.011956919735861922,
-      "topic_cluster": "Claude",
-      "summary": "중국 AI 서비스인 딥시크와 키미가 사용자 데이터를 증류하는 과정에서 경쟁 모델인 클로드로 정보가 역유출되는 보안 사고가 발생했습니다. 이로 인해 민감한 기밀 자료…",
-      "comment_signal": "베끼다가 역으로 당하는건...ㅋㅋㅋ",
-      "hook_type": "문제 해결"
+      "title": "갑작스레 AI 속도 늦추자... 투자는 확대?  ‘카르텔’ 논란의 진짜 쟁점 | 중국은 멈추지 않는다",
+      "thumbnail_url": "https://i.ytimg.com/vi/O6eCcA9fFg8/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=O6eCcA9fFg8",
+      "published_at": "2026-09-14T07:39:12Z",
+      "view_count": 56624,
+      "like_count": 632,
+      "comment_count": 122,
+      "engagement_rate": 0.013315908448714326,
+      "topic_cluster": "agents",
+      "summary": "AI 안전을 명분으로 한 개발 속도 조절 논란의 쟁점을 짚어보고, 모델 출시와 컴퓨팅 투자 간의 전략적 간극을 분석했다.",
+      "comment_signal": "서로 상대방 AI속도 늦추게 하고 자기는 뒤에서 열심히 투자하고 속도 높이기 ㅋㅋ 너무 웃기네",
+      "hook_type": "솔직 검증"
     },
     {
-      "video_id": "l7frz_bd5vM",
+      "video_id": "vmzKqn5GOaw",
       "channel_name": "조코딩 JoCoding",
-      "title": "IT뉴스 - 초파리 열풍, OpenAI 밀레니엄 난제 해결, Images 2.5, AI의 발전 속도를 늦춰야하나, Google ARTEMIS, AlphaGenome Atlas 등",
-      "thumbnail_url": "https://i.ytimg.com/vi/l7frz_bd5vM/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=l7frz_bd5vM",
-      "published_at": "2026-09-13T11:41:58Z",
-      "view_count": 31976,
-      "like_count": 235,
-      "comment_count": 10,
-      "engagement_rate": 0.00766199649737303,
+      "title": "AI뉴스 - AI 멈추지 않으면 다 죽는다, OpenAI 밀레니엄 난제 해결, Images 2.5, Google ARTEMIS, AlphaGenome Atlas 등",
+      "thumbnail_url": "https://i.ytimg.com/vi/vmzKqn5GOaw/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=vmzKqn5GOaw",
+      "published_at": "2026-09-14T14:30:21Z",
+      "view_count": 48745,
+      "like_count": 291,
+      "comment_count": 110,
+      "engagement_rate": 0.008226484767668478,
       "topic_cluster": "OpenAI",
-      "summary": "AI 기술의 급격한 발전으로 인해 안전성뿐만 아니라 발전 속도를 조절해야 한다는 주장이 주요 CEO들 사이에서 제기되었습니다. 또한 나비에-스토크스 방정식과 같은…",
-      "comment_signal": "비유하자면 소스에 하드코딩 되었다는건 문짝에다 비번 적어놓은거라 생각하면 됩니다",
+      "summary": "앤트로픽과 OpenAI를 중심으로 한 최신 AI 업계 동향과 기술적 성과를 다루며, AI 안전성과 규제 논의 및 다양한 최신 모델의 출시 소식을 정리했다.",
+      "comment_signal": "중국이 따를 리가 없으니 늦추는 건 말이 안 된다고 생각",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "cJAnjEiSCb0",
-      "channel_name": "Dan Martell",
-      "title": "Should you use AI, an Assistant, or yourself for these tasks?",
-      "thumbnail_url": "https://i.ytimg.com/vi/cJAnjEiSCb0/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=cJAnjEiSCb0",
-      "published_at": "2026-09-13T01:01:13Z",
-      "view_count": 13240,
-      "like_count": 733,
-      "comment_count": 37,
-      "engagement_rate": 0.0581570996978852,
-      "topic_cluster": "AI활용",
-      "summary": "업무 성격에 따라 AI, 비서, 혹은 본인이 직접 처리해야 할 영역을 구분하는 기준을 제시하며, 중요한 협상이나 핵심 의사결정 등 인간의 개입이 필수적인 영역의 중…",
-      "comment_signal": "ironically the age of ai, makes someone really values himself",
+      "video_id": "f0SdOoVBeFo",
+      "channel_name": "빌더 조쉬 Builder Josh",
+      "title": "SEO 없이 GEO부터 하는 건 순서가 뒤바뀐 겁니다, 한국 기업이 먼저 해야 할 일 (엘리펀트컴퍼니 김예지 대표님)",
+      "thumbnail_url": "https://i.ytimg.com/vi/f0SdOoVBeFo/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=f0SdOoVBeFo",
+      "published_at": "2026-09-14T06:55:58Z",
+      "view_count": 3946,
+      "like_count": 36,
+      "comment_count": 15,
+      "engagement_rate": 0.012924480486568676,
+      "topic_cluster": "AI마케팅",
+      "summary": "AI 검색 시대에 맞춰 브랜드가 인용될 가능성을 높이는 GEO 전략을 소개하며, 엔티티 구축과 일관된 콘텐츠 전략의 중요성을 강조했다.",
+      "comment_signal": "엘리펀트컴퍼니 김예지 대표님을 초대해주셔서 감사합니다 :) 빌더조쉬 구독자분들께 이번 영상이 AI 검색시대에도 꾸준히 성장할 수 있는 힌트가 되었으면 좋겠습니다! - 여러…",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "BvfVOjV5--E",
-      "channel_name": "동테크",
-      "title": "GPT만 있으면 AI 종이 스타일 영상 편집 가능합니다(방법 전부 공개)",
-      "thumbnail_url": "https://i.ytimg.com/vi/BvfVOjV5--E/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=BvfVOjV5--E",
-      "published_at": "2026-09-13T03:29:37Z",
-      "view_count": 4480,
-      "like_count": 63,
-      "comment_count": 4,
-      "engagement_rate": 0.014955357142857144,
-      "topic_cluster": "ChatGPT",
-      "summary": "1인 크리에이터가 영상 편집의 본질을 이해하고 클로드와 같은 AI 도구와 캡컷을 활용해 편집 과정을 자동화하고 몰입감 있는 영상을 제작하는 체계적인 방법을 다룹니다.",
-      "comment_signal": "영상에서 사용한 프롬프트와 실습 자료입니다. (전체 프롬프트, 31초 실습 음성, 참고 영상, 실제 피드백 예시) → https://ilbu.kr/go/y/collage-…",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "0AcoA21fu6A",
-      "channel_name": "Dan Martell",
-      "title": "How to set up an AI agent",
-      "thumbnail_url": "https://i.ytimg.com/vi/0AcoA21fu6A/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=0AcoA21fu6A",
-      "published_at": "2026-09-13T21:01:26Z",
-      "view_count": 2616,
-      "like_count": 304,
-      "comment_count": 32,
-      "engagement_rate": 0.12844036697247707,
+      "video_id": "KOv_Oj8l8Mg",
+      "channel_name": "All About AI",
+      "title": "GPT-6 Kalshi AI Trading Bot Week 1 Results - Printing Money?",
+      "thumbnail_url": "https://i.ytimg.com/vi/KOv_Oj8l8Mg/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=KOv_Oj8l8Mg",
+      "published_at": "2026-09-14T18:40:43Z",
+      "view_count": 2659,
+      "like_count": 46,
+      "comment_count": 17,
+      "engagement_rate": 0.0236931177134261,
       "topic_cluster": "에이전트",
-      "summary": "AI 에이전트를 성공적으로 도입하기 위해 해결하고자 하는 목표를 명확히 설정해야 하며, 승인 절차를 포함한 자동화 시스템 구축 전략을 다룹니다.",
-      "comment_signal": "SUMMIT",
-      "hook_type": "문제 해결"
+      "summary": "GPT-6와 연동한 Kalshi AI 트레이딩 봇의 첫 주 운영 성과를 공유하며 향후 업데이트를 예고했다.",
+      "comment_signal": "I'm new to trading, and I've lost a good sum trying out strategies I found in online tutorials.…",
+      "hook_type": "성과 약속"
     }
   ]
 }
