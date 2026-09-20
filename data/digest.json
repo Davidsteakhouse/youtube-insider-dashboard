@@ -1,252 +1,198 @@
 {
-  "digest_date": "2026-09-18",
-  "generated_at": "2026-09-18T01:16:56+00:00",
-  "summary": "최근 24시간 영상 13개를 기준으로 보면, 오늘 가장 먼저 볼 축은 '자동화'입니다. 특히 '사람보다 휴대폰을 더 잘쓰는 AI 등장'는 조회수 70.9K, 참여율 1.4%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "'자동화' 주제가 2개 영상으로 가장 많이 다뤄졌습니다. 자동화 전/후 직접 비교 — '진짜 시간이 줄어드나?' 실측 실험 영상 포맷이 비어 있습니다.\n[내 채널] 7일 평균 147.1K회 · 지속률 33.7% / 경쟁사 평균 17.0K회 (격차 +768%)",
-  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 09/18\n\n📊 총 10개 | AI 핵심 8 · 인접 AI 2 · 일반 테크 보충 0\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 10 · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [조코딩 JoCoding] 70.9K뷰 · 참여율 1.4%\n   사람보다 휴대폰을 더 잘쓰는 AI 등장\n   ↳ 구글의 AI 에이전트 '아르테미스'를 소개하며, 말로 명령하여 복잡한 작업을 수행할 수 있는 스마트폰 제어 기능의 편의성과 고령자 활용 가능성을 강조합니다.\n   https://youtu.be/UXbGIQt0Jsk\n\n2. AI 핵심 · [조코딩 JoCoding] 33.2K뷰 · 참여율 0.7%\n   다시 반격을 시작한 딥시크 ㄷㄷ\n   ↳ 딥시크 V 4.1 플래시 모델이 공개되어 기존 소프트웨어 엔지니어링 및 오토메이션 배치 성능에서 GPT-6 아스트라를 뛰어넘는 성능을 보여줍니다.\n   https://youtu.be/2pMB34RXAaQ\n\n3. AI 핵심 · [성공지식백과] 30.0K뷰 · 참여율 0.9%\n   GPT6 아스트라급 비밀모델이 공짜로 풀렸습니다 ㄷㄷ\n   ↳ 오픈코드에서 무료로 제공하는 고성능 비밀 모델 '유니온 알파'를 활용해 3D 디자인과 체스 시뮬레이션 로직을 구현하는 방법을 다루며, 최신 프론티어 모델과 대등한 성능을 보임을 테스트로 검증합니다.\n   https://youtu.be/FQake9oXwRA\n\n4. AI 핵심 · [성공지식백과] 20.0K뷰 · 참여율 1.4%\n   힉스필드 통째로 복사해버린 오픈소스 등장.. ㄷㄷ Higgsfield API 미쳤다\n   ↳ 힉스필드와 동일한 인터페이스를 제공하는 오픈소스 'OpenHiggsfield'와 API 활용법을 소개하며, 사용량만큼 지불하는 방식으로 다른 플랫폼 대비 경제적인 AI 영상 생성 환경을 구축하는 방법을 제시합니다.\n   https://youtu.be/lT_7gEkxROk\n\n5. AI 핵심 · [조코딩 JoCoding] 11.7K뷰 · 참여율 0.7%\n   API 개발할 때 조심해야 하는 이유\n   ↳ 허술하게 관리된 API 설계로 인해 민감한 개인정보가 유출될 수 있음을 지적하며, 개발 단계에서 보안의 중요성을 강조합니다.\n   https://youtu.be/obmT608yBOg\n\n6. AI 핵심 · [조코딩 JoCoding] 9.2K뷰 · 참여율 1.0%\n   3000만명이 털린 티빙, 근데 이유가..?\n   ↳ 티빙 등 대규모 개인정보 유출 사례를 통해 소스 코드 내부에 서비스 접근 키를 방치하는 보안 관리 부실이 해킹의 핵심 원인임을 분석합니다.\n   https://youtu.be/hRjYnh97o4k\n\n7. AI 핵심 · [Futurepedia] 1.4K뷰 · 참여율 0.9%\n   Flawless infographic in minutes with this AI.\n   ↳ GPT 이미지 2.5 모델이 생성 전 정보를 직접 검색하여 텍스트 데이터의 정확도를 높이는 점을 강점으로 꼽으며, 정보 밀도가 높은 차트나 대시보드 제작에 최적화된 새로운 대안 모델로 소개합니다.\n   https://youtu.be/h5jAM71SVrw\n\n8. AI 핵심 · [성공지식백과] 321뷰 · 참여율 8.4%\n   초보라면 환장할 AI 영화만드는 치트키 등장! 고수 프롬프트 통째로 복붙.. ㄷㄷ\n   ↳ AI 영상 제작 플랫폼 뉴테이크를 활용해 기획부터 이미지 및 영상 생성까지 단일 캔버스에서 처리하는 워크플로우를 소개하며, 고수의 프롬프트를 재사용하여 전문적인 영상을 만드는 효율적인 방법을 제시합니다.\n   https://youtu.be/NcM91bU50Ac\n\n9. AI 인접 · [안될공학 - IT 테크 신기술] 28.1K뷰 · 참여율 1.1%\n   AI 잘 쓰는 사람들은 왜 까만창을 켤까? Codex·Claude Code·Gemini CLI | 버튼 없는 까만창이 더 많은 일을 할 수…\n   ↳ 개발자들이 터미널 기반의 CLI 환경을 선호하는 이유는 여러 앱의 기능을 AI로 통합하여 복잡한 작업을 자동화하기에 유리하기 때문이며, 향후 사용자 경험이 어떻게 변화할지 전망합니다.\n   https://youtu.be/rpUNfIsLyGI\n\n10. AI 인접 · [Dan Martell] 12.2K뷰 · 참여율 6.7%\n   Screenshot this and give it to your AI\n   ↳ AI 활용 능력을 극대화하기 위해 전략가, 카피라이터, 프로그래머 등 다양한 페르소나와 프롬프트 기법을 스크린샷으로 저장하여 적재적소에 활용할 것을 제안합니다.\n   https://youtu.be/hRdxDtdz6RA\n\n📈 스마트대디 어제 실적\n조회수 278.9K (↑90% vs 7일 평균) | 구독 +1055\n시청 지속률 33.3% | 평균 시청 3분 39초\n경쟁사 평균 17.0K회 대비 내 7일 평균 +768%\n\n💡 VS 각도: 자동화 전/후 직접 비교 — '진짜 시간이 줄어드나?' 실측 실험 영상 포맷이 비어 있습니다.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
-  "video_count": 13,
-  "total_recent_video_count": 19,
+  "digest_date": "2026-09-20",
+  "generated_at": "2026-09-20T01:00:44+00:00",
+  "summary": "최근 24시간 영상 5개를 기준으로 보면, 오늘 가장 먼저 볼 축은 '극비개발'입니다. 특히 '극비개발 출시! 미친 속도 비용 신개념 AI Jev 등장.. ㄷㄷ'는 조회수 26.8K, 참여율 1.2%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "'극비개발' 주제가 1개 영상으로 가장 많이 다뤄졌습니다. 일반인 관점 직접 실험 or VS 비교 각도로 차별화할 영역이 있습니다.\n[내 채널] 7일 평균 192.3K회 · 지속률 32.2% / 경쟁사 평균 9.1K회 (격차 +2017%)",
+  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 09/20\n\n📊 총 8개 | AI 핵심 4 · 인접 AI 1 · 일반 테크 보충 3\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 8 (최대 10) · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [성공지식백과] 26.8K뷰 · 참여율 1.2%\n   극비개발 출시! 미친 속도 비용 신개념 AI Jev 등장.. ㄷㄷ\n   ↳ 타입세이프가 공개한 Jev는 글 생성이 아닌 선택, 점수 매기기, 예/아니오 판단 등 의사결정에 특화된 저비용 고속 AI 모델입니다. 복잡한 계산은 코드가 수행하고 모델은 판단만 담당하는 분업 구조를 통해 효율적인…\n   https://youtu.be/gOXd2XKJN4A\n\n2. AI 핵심 · [tef] 6.6K뷰 · 참여율 3.8%\n   Building a BETTER Canvas with AI\n   ↳ Abacus AI가 제작한 학생용 정리 도구는 기존 플랫폼인 캔버스보다 3배 더 효율적인 기능을 제공하며, 사용자의 집중력을 높여주는 우수한 대안으로 평가받습니다.\n   https://youtu.be/BZ2C84s7X8w\n\n3. AI 핵심 · [Minimunch] 1.6K뷰 · 참여율 7.4%\n   Claude vs Grok Make GTA 6 From Scratch\n   ↳ Claude Opus 5와 Grok 4.6 모델을 활용하여 3시간 동안 GTA 6 게임 제작을 시도한 결과, 두 AI 모두 게임 개발 과정에서 서로 다른 수준의 구현 능력과 한계를 보였습니다.\n   https://youtu.be/lXT_vVC-HXM\n\n4. AI 핵심 · [Futurepedia] 740뷰 · 참여율 0.7%\n   GPT Image 2.5 vs. Gemini 2: which model nails a camouflaged spider in one sho…\n   ↳ 환경에 숨은 거미를 생성하는 테스트에서 GPT Image 2.5가 높은 디테일과 질감 표현으로 Gemini 2보다 뛰어난 복잡한 장면 생성 능력을 입증했습니다.\n   https://youtu.be/0geOeaTgXu0\n\n5. AI 인접 · [Dan Martell] 9.6K뷰 · 참여율 8.7%\n   Stop letting your AI be your Yes Man. Follow + Comment \"YES MAN\" for the guide\n   ↳ AI가 무조건 동의만 하는 예스맨이 되지 않도록 방지하고, 불확실한 경우 솔직하게 답변하도록 유도하는 전용 프롬프트를 통해 더 정확한 결과를 얻을 수 있습니다.\n   https://youtu.be/xaPNJjGg3wI\n\n6. 테크 보충 · [주연 ZUYONI] 314.0K뷰 · 참여율 0.8%\n   아이폰18프로 하루종일 써보니 보이는 것들! (버건디, 글레이셔 실물 후기)\n   ↳ 아이폰 18 프로는 카메라 프로 컨트롤과 4단계 가변 조리개 등 강화된 사진 기능을 갖췄으며, 3배 커진 베이퍼 챔버를 탑재해 발열 제어와 지속 성능이 크게 향상되었습니다.\n   https://youtu.be/K20z_4xycwc\n\n7. 테크 보충 · [테크몽 Techmong] 31.7K뷰 · 참여율 0.8%\n   아이폰 18 프로 강화유리 아무거나 사면 후회합니다.. 딱 골라드릴게요!\n   ↳ 아이폰 18 프로용 강화유리 5종을 비교 테스트한 결과, 반사율과 내구성을 종합적으로 고려했을 때 지니비와 컬러스케일 제품이 가장 뛰어난 성능을 보여 추천되었습니다.\n   https://youtu.be/l60q-TBU5Wg\n\n8. 테크 보충 · [월텍남 - 월스트리트 테크남] 1.2K뷰 · 참여율 0.3%\n   수주 신기록을 낸 해에 적자를 낸 조선사\n   ↳ 조선사가 역대급 수주 실적에도 적자를 기록하는 이유는 선박 매출이 계약 시점이 아닌 건조 기간에 걸쳐 나누어 인식되는 산업 특성 때문입니다.\n   https://youtu.be/6wkdVnu_Qio\n\n📈 스마트대디 어제 실적\n조회수 155.4K (↓19% vs 7일 평균) | 구독 +388\n시청 지속률 31.5% | 평균 시청 3분 23초\n경쟁사 평균 9.1K회 대비 내 7일 평균 +2017%\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+  "video_count": 5,
+  "total_recent_video_count": 10,
   "focus_scope": "ai_priority_then_tech_fill",
-  "average_view_count": 16956.0,
-  "average_engagement_rate": 0.025197250559524206,
-  "average_like_count": 239.0,
-  "average_comment_count": 15.0,
-  "best_video_id": "UXbGIQt0Jsk",
-  "best_topic": "자동화",
+  "average_view_count": 9087.0,
+  "average_engagement_rate": 0.04325571256626356,
+  "average_like_count": 265.0,
+  "average_comment_count": 39.0,
+  "best_video_id": "gOXd2XKJN4A",
+  "best_topic": "극비개발",
   "summary_points": [
-    "가장 겹친 주제는 '자동화'이며 2개 영상, 평균 조회수 35.6K, 평균 참여율 4.9%입니다.",
-    "최고 실적 영상은 '사람보다 휴대폰을 더 잘쓰는 AI 등장'이며 문제 해결 훅과 빌드 데모 포맷 조합이 강했습니다.",
-    "반복 노출된 툴은 Arc 2회, Gemini 2회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
+    "가장 겹친 주제는 '극비개발'이며 1개 영상, 평균 조회수 26.8K, 평균 참여율 1.2%입니다.",
+    "최고 실적 영상은 '극비개발 출시! 미친 속도 비용 신개념 AI Jev 등장.. ㄷㄷ'이며 긴급성 훅과 비교 포맷 조합이 강했습니다.",
+    "반복 노출된 툴은 Claude 2회, ChatGPT 1회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
   ],
   "action_chips": [
-    "주제: 자동화",
-    "훅: 문제 해결",
-    "포맷: 빌드 데모",
-    "기준 채널: 조코딩 JoCoding"
+    "주제: 극비개발",
+    "훅: 긴급성",
+    "포맷: 비교",
+    "기준 채널: 성공지식백과"
   ],
   "title_suggestions": [
-    "AI 자동화 직접 해봤는데, 이게 진짜 되는 건지 실험해봄",
-    "자동화 전/후 실측 비교 — 실제로 몇 분이 줄었나?",
-    "자동화 툴 대결: 이게 진짜 일반인도 쓸 수 있나?"
+    "극비개발 직접 실험 — 이게 진짜 되나?",
+    "극비개발 vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
+    "극비개발 써봤더니... (기대 vs 현실 솔직 후기)"
   ],
   "recommendations": [
     {
-      "title": "AI 자동화 직접 해봤는데, 이게 진짜 되는 건지 실험해봄",
+      "title": "극비개발 직접 실험 — 이게 진짜 되나?",
       "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
-      "angle": "자동화 전체를 설명하지 말고, 반복 업무 하나를 전/후 비교 화면으로 보여주는 식으로 포장을 좁히는 편이 좋습니다.",
-      "thumbnail_copy": "자동화 바로 해결",
-      "reason": "자동화 전/후 직접 비교 — '진짜 시간이 줄어드나?' 실측 실험 영상 포맷이 비어 있습니다.",
-      "source_video_id": "UXbGIQt0Jsk",
-      "source": "사람보다 휴대폰을 더 잘쓰는 AI 등장",
-      "my_channel_context": "내 7일 평균 147.1K회 · 지속률 33.7% / 경쟁사 대비 +768%"
-    },
-    {
-      "title": "자동화 전/후 실측 비교 — 실제로 몇 분이 줄었나?",
-      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
-      "angle": "자동화 전체를 설명하지 말고, 반복 업무 하나를 전/후 비교 화면으로 보여주는 식으로 포장을 좁히는 편이 좋습니다.",
-      "thumbnail_copy": "자동화 바로 해결",
-      "reason": "자동화 전/후 직접 비교 — '진짜 시간이 줄어드나?' 실측 실험 영상 포맷이 비어 있습니다.",
-      "source_video_id": "NcM91bU50Ac",
-      "source": "초보라면 환장할 AI 영화만드는 치트키 등장! 고수 프롬프트 통째로 복붙.. ㄷㄷ",
-      "my_channel_context": "내 7일 평균 147.1K회 · 지속률 33.7% / 경쟁사 대비 +768%"
+      "angle": "큰 주제 하나를 대표 제목으로 세우고, 나머지 포인트는 보조 정보처럼 정리하는 압축형 포장이 좋습니다.",
+      "thumbnail_copy": "극비개발 지금 봐야 함",
+      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
+      "source_video_id": "gOXd2XKJN4A",
+      "source": "극비개발 출시! 미친 속도 비용 신개념 AI Jev 등장.. ㄷㄷ",
+      "my_channel_context": "내 7일 평균 192.3K회 · 지속률 32.2% / 경쟁사 대비 +2017%"
     }
   ],
   "topic_clusters": [
     {
-      "label": "자동화",
-      "count": 2,
-      "avg_view_count": 35612,
-      "avg_engagement_rate": 0.04898808046428047,
-      "avg_like_count": 482,
-      "avg_comment_count": 24,
-      "source_titles": [
-        "사람보다 휴대폰을 더 잘쓰는 AI 등장",
-        "초보라면 환장할 AI 영화만드는 치트키 등장! 고수 프롬프트 통째로 복붙.. ㄷㄷ"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/UXbGIQt0Jsk/hqdefault.jpg",
-      "representative_video_id": "UXbGIQt0Jsk",
-      "representative_title": "사람보다 휴대폰을 더 잘쓰는 AI 등장"
-    },
-    {
-      "label": "Arc",
-      "count": 2,
-      "avg_view_count": 6787,
-      "avg_engagement_rate": 0.038165944141504156,
-      "avg_like_count": 410,
-      "avg_comment_count": 4,
-      "source_titles": [
-        "Screenshot this and give it to your AI",
-        "Flawless infographic in minutes with this AI."
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/hRdxDtdz6RA/hqdefault.jpg",
-      "representative_video_id": "hRdxDtdz6RA",
-      "representative_title": "Screenshot this and give it to your AI"
-    },
-    {
-      "label": "Gemini",
+      "label": "극비개발",
       "count": 1,
-      "avg_view_count": 33241,
-      "avg_engagement_rate": 0.006889082759243104,
-      "avg_like_count": 197,
-      "avg_comment_count": 32,
+      "avg_view_count": 26818,
+      "avg_engagement_rate": 0.011559400402714595,
+      "avg_like_count": 298,
+      "avg_comment_count": 12,
       "source_titles": [
-        "다시 반격을 시작한 딥시크 ㄷㄷ"
+        "극비개발 출시! 미친 속도 비용 신개념 AI Jev 등장.. ㄷㄷ"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/2pMB34RXAaQ/hqdefault.jpg",
-      "representative_video_id": "2pMB34RXAaQ",
-      "representative_title": "다시 반격을 시작한 딥시크 ㄷㄷ"
+      "thumbnail_url": "https://i.ytimg.com/vi/gOXd2XKJN4A/hqdefault.jpg",
+      "representative_video_id": "gOXd2XKJN4A",
+      "representative_title": "극비개발 출시! 미친 속도 비용 신개념 AI Jev 등장.. ㄷㄷ"
     },
     {
-      "label": "agents",
+      "label": "ChatGPT",
       "count": 1,
-      "avg_view_count": 30038,
-      "avg_engagement_rate": 0.009421399560556628,
-      "avg_like_count": 263,
-      "avg_comment_count": 20,
+      "avg_view_count": 9638,
+      "avg_engagement_rate": 0.08673998754928408,
+      "avg_like_count": 734,
+      "avg_comment_count": 102,
       "source_titles": [
-        "GPT6 아스트라급 비밀모델이 공짜로 풀렸습니다 ㄷㄷ"
+        "Stop letting your AI be your Yes Man. Follow + Comment \"YES MAN\" for the guide"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/FQake9oXwRA/hqdefault.jpg",
-      "representative_video_id": "FQake9oXwRA",
-      "representative_title": "GPT6 아스트라급 비밀모델이 공짜로 풀렸습니다 ㄷㄷ"
+      "thumbnail_url": "https://i.ytimg.com/vi/xaPNJjGg3wI/hqdefault.jpg",
+      "representative_video_id": "xaPNJjGg3wI",
+      "representative_title": "Stop letting your AI be your Yes Man. Follow + Comment \"YES MAN\" for the guide"
+    },
+    {
+      "label": "에이전트",
+      "count": 1,
+      "avg_view_count": 6606,
+      "avg_engagement_rate": 0.037693006357856496,
+      "avg_like_count": 187,
+      "avg_comment_count": 62,
+      "source_titles": [
+        "Building a BETTER Canvas with AI"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/BZ2C84s7X8w/hqdefault.jpg",
+      "representative_video_id": "BZ2C84s7X8w",
+      "representative_title": "Building a BETTER Canvas with AI"
     },
     {
       "label": "Claude",
       "count": 1,
-      "avg_view_count": 28092,
-      "avg_engagement_rate": 0.01121315677061085,
-      "avg_like_count": 281,
-      "avg_comment_count": 34,
+      "avg_view_count": 1632,
+      "avg_engagement_rate": 0.07352941176470588,
+      "avg_like_count": 101,
+      "avg_comment_count": 19,
       "source_titles": [
-        "AI 잘 쓰는 사람들은 왜 까만창을 켤까? Codex·Claude Code·Gemini CLI | 버튼 없는 까만창이 더 많은 일을 할 수 있는 이유"
+        "Claude vs Grok Make GTA 6 From Scratch"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/rpUNfIsLyGI/hqdefault.jpg",
-      "representative_video_id": "rpUNfIsLyGI",
-      "representative_title": "AI 잘 쓰는 사람들은 왜 까만창을 켤까? Codex·Claude Code·Gemini CLI | 버튼 없는 까만창이 더 많은 일을 할 수 있는 이유"
+      "thumbnail_url": "https://i.ytimg.com/vi/lXT_vVC-HXM/hqdefault.jpg",
+      "representative_video_id": "lXT_vVC-HXM",
+      "representative_title": "Claude vs Grok Make GTA 6 From Scratch"
     },
     {
-      "label": "코딩",
+      "label": "Gemini",
       "count": 1,
-      "avg_view_count": 20017,
-      "avg_engagement_rate": 0.013838237498126592,
-      "avg_like_count": 261,
-      "avg_comment_count": 16,
+      "avg_view_count": 740,
+      "avg_engagement_rate": 0.006756756756756757,
+      "avg_like_count": 5,
+      "avg_comment_count": 0,
       "source_titles": [
-        "힉스필드 통째로 복사해버린 오픈소스 등장.. ㄷㄷ Higgsfield API 미쳤다"
+        "GPT Image 2.5 vs. Gemini 2: which model nails a camouflaged spider in one shot?"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/lT_7gEkxROk/hqdefault.jpg",
-      "representative_video_id": "lT_7gEkxROk",
-      "representative_title": "힉스필드 통째로 복사해버린 오픈소스 등장.. ㄷㄷ Higgsfield API 미쳤다"
-    },
-    {
-      "label": "API",
-      "count": 1,
-      "avg_view_count": 11744,
-      "avg_engagement_rate": 0.007067438692098093,
-      "avg_like_count": 73,
-      "avg_comment_count": 10,
-      "source_titles": [
-        "API 개발할 때 조심해야 하는 이유"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/obmT608yBOg/hqdefault.jpg",
-      "representative_video_id": "obmT608yBOg",
-      "representative_title": "API 개발할 때 조심해야 하는 이유"
-    },
-    {
-      "label": "3000만명이",
-      "count": 1,
-      "avg_view_count": 9249,
-      "avg_engagement_rate": 0.009947021299599956,
-      "avg_like_count": 83,
-      "avg_comment_count": 9,
-      "source_titles": [
-        "3000만명이 털린 티빙, 근데 이유가..?"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/hRjYnh97o4k/hqdefault.jpg",
-      "representative_video_id": "hRjYnh97o4k",
-      "representative_title": "3000만명이 털린 티빙, 근데 이유가..?"
+      "thumbnail_url": "https://i.ytimg.com/vi/0geOeaTgXu0/hqdefault.jpg",
+      "representative_video_id": "0geOeaTgXu0",
+      "representative_title": "GPT Image 2.5 vs. Gemini 2: which model nails a camouflaged spider in one shot?"
     }
   ],
   "video_highlights": [
     {
-      "video_id": "UXbGIQt0Jsk",
-      "channel_name": "조코딩 JoCoding",
-      "title": "사람보다 휴대폰을 더 잘쓰는 AI 등장",
-      "thumbnail_url": "https://i.ytimg.com/vi/UXbGIQt0Jsk/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=UXbGIQt0Jsk",
-      "published_at": "2026-09-17T10:00:07Z",
-      "view_count": 70903,
-      "like_count": 937,
-      "comment_count": 46,
-      "engagement_rate": 0.013864011395850669,
-      "topic_cluster": "자동화",
-      "summary": "구글의 AI 에이전트 '아르테미스'를 소개하며, 말로 명령하여 복잡한 작업을 수행할 수 있는 스마트폰 제어 기능의 편의성과 고령자 활용 가능성을 강조합니다.",
-      "comment_signal": "뉴욕피자 시켜달랬더니 뉴욕에 있는 피자집에 전화를 건다.",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "2pMB34RXAaQ",
-      "channel_name": "조코딩 JoCoding",
-      "title": "다시 반격을 시작한 딥시크 ㄷㄷ",
-      "thumbnail_url": "https://i.ytimg.com/vi/2pMB34RXAaQ/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=2pMB34RXAaQ",
-      "published_at": "2026-09-17T11:00:32Z",
-      "view_count": 33241,
-      "like_count": 197,
-      "comment_count": 32,
-      "engagement_rate": 0.006889082759243104,
-      "topic_cluster": "Gemini",
-      "summary": "딥시크 V 4.1 플래시 모델이 공개되어 기존 소프트웨어 엔지니어링 및 오토메이션 배치 성능에서 GPT-6 아스트라를 뛰어넘는 성능을 보여줍니다.",
-      "comment_signal": "이제 아스트라 api달았나 ?",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "FQake9oXwRA",
+      "video_id": "gOXd2XKJN4A",
       "channel_name": "성공지식백과",
-      "title": "GPT6 아스트라급 비밀모델이 공짜로 풀렸습니다 ㄷㄷ",
-      "thumbnail_url": "https://i.ytimg.com/vi/FQake9oXwRA/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=FQake9oXwRA",
-      "published_at": "2026-09-17T01:59:57Z",
-      "view_count": 30038,
-      "like_count": 263,
-      "comment_count": 20,
-      "engagement_rate": 0.009421399560556628,
-      "topic_cluster": "agents",
-      "summary": "오픈코드에서 무료로 제공하는 고성능 비밀 모델 '유니온 알파'를 활용해 3D 디자인과 체스 시뮬레이션 로직을 구현하는 방법을 다루며, 최신 프론티어 모델과 대등한…",
-      "comment_signal": "또 중국이겠지",
+      "title": "극비개발 출시! 미친 속도 비용 신개념 AI Jev 등장.. ㄷㄷ",
+      "thumbnail_url": "https://i.ytimg.com/vi/gOXd2XKJN4A/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=gOXd2XKJN4A",
+      "published_at": "2026-09-19T09:57:53Z",
+      "view_count": 26818,
+      "like_count": 298,
+      "comment_count": 12,
+      "engagement_rate": 0.011559400402714595,
+      "topic_cluster": "극비개발",
+      "summary": "타입세이프가 공개한 Jev는 글 생성이 아닌 선택, 점수 매기기, 예/아니오 판단 등 의사결정에 특화된 저비용 고속 AI 모델입니다. 복잡한 계산은 코드가 수행하고…",
+      "comment_signal": "성공지식백과 Jev 카드뉴스: https://www.instagram.com/p/Dddvmp5Gw-p/?stkn=MWE1emRnemZ1b3kyaA== Jev 가이드 전문은…",
+      "hook_type": "긴급성"
+    },
+    {
+      "video_id": "xaPNJjGg3wI",
+      "channel_name": "Dan Martell",
+      "title": "Stop letting your AI be your Yes Man. Follow + Comment \"YES MAN\" for the guide",
+      "thumbnail_url": "https://i.ytimg.com/vi/xaPNJjGg3wI/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=xaPNJjGg3wI",
+      "published_at": "2026-09-19T15:03:18Z",
+      "view_count": 9638,
+      "like_count": 734,
+      "comment_count": 102,
+      "engagement_rate": 0.08673998754928408,
+      "topic_cluster": "ChatGPT",
+      "summary": "AI가 무조건 동의만 하는 예스맨이 되지 않도록 방지하고, 불확실한 경우 솔직하게 답변하도록 유도하는 전용 프롬프트를 통해 더 정확한 결과를 얻을 수 있습니다.",
+      "comment_signal": "Dan always Delivers... ❤️❤️",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "rpUNfIsLyGI",
-      "channel_name": "안될공학 - IT 테크 신기술",
-      "title": "AI 잘 쓰는 사람들은 왜 까만창을 켤까? Codex·Claude Code·Gemini CLI | 버튼 없는 까만창이 더 많은 일을 할 수 있는 이유",
-      "thumbnail_url": "https://i.ytimg.com/vi/rpUNfIsLyGI/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=rpUNfIsLyGI",
-      "published_at": "2026-09-17T11:02:38Z",
-      "view_count": 28092,
-      "like_count": 281,
-      "comment_count": 34,
-      "engagement_rate": 0.01121315677061085,
+      "video_id": "BZ2C84s7X8w",
+      "channel_name": "tef",
+      "title": "Building a BETTER Canvas with AI",
+      "thumbnail_url": "https://i.ytimg.com/vi/BZ2C84s7X8w/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=BZ2C84s7X8w",
+      "published_at": "2026-09-19T14:00:30Z",
+      "view_count": 6606,
+      "like_count": 187,
+      "comment_count": 62,
+      "engagement_rate": 0.037693006357856496,
+      "topic_cluster": "에이전트",
+      "summary": "Abacus AI가 제작한 학생용 정리 도구는 기존 플랫폼인 캔버스보다 3배 더 효율적인 기능을 제공하며, 사용자의 집중력을 높여주는 우수한 대안으로 평가받습니다.",
+      "comment_signal": "The people who where here before 5 hours should unite",
+      "hook_type": "실험 데모"
+    },
+    {
+      "video_id": "lXT_vVC-HXM",
+      "channel_name": "Minimunch",
+      "title": "Claude vs Grok Make GTA 6 From Scratch",
+      "thumbnail_url": "https://i.ytimg.com/vi/lXT_vVC-HXM/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=lXT_vVC-HXM",
+      "published_at": "2026-09-19T23:36:36Z",
+      "view_count": 1632,
+      "like_count": 101,
+      "comment_count": 19,
+      "engagement_rate": 0.07352941176470588,
       "topic_cluster": "Claude",
-      "summary": "개발자들이 터미널 기반의 CLI 환경을 선호하는 이유는 여러 앱의 기능을 AI로 통합하여 복잡한 작업을 자동화하기에 유리하기 때문이며, 향후 사용자 경험이 어떻게…",
-      "comment_signal": "도스 쓰던 85년생은 익숙하다.",
-      "hook_type": "문제 해결"
+      "summary": "Claude Opus 5와 Grok 4.6 모델을 활용하여 3시간 동안 GTA 6 게임 제작을 시도한 결과, 두 AI 모두 게임 개발 과정에서 서로 다른 수준의 구…",
+      "comment_signal": "Imagine what it can do in 5 years from now. 20 years from now it'll be generating full sized ga…",
+      "hook_type": "비교"
     },
     {
-      "video_id": "lT_7gEkxROk",
-      "channel_name": "성공지식백과",
-      "title": "힉스필드 통째로 복사해버린 오픈소스 등장.. ㄷㄷ Higgsfield API 미쳤다",
-      "thumbnail_url": "https://i.ytimg.com/vi/lT_7gEkxROk/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=lT_7gEkxROk",
-      "published_at": "2026-09-17T09:20:01Z",
-      "view_count": 20017,
-      "like_count": 261,
-      "comment_count": 16,
-      "engagement_rate": 0.013838237498126592,
-      "topic_cluster": "코딩",
-      "summary": "힉스필드와 동일한 인터페이스를 제공하는 오픈소스 'OpenHiggsfield'와 API 활용법을 소개하며, 사용량만큼 지불하는 방식으로 다른 플랫폼 대비 경제적인…",
-      "comment_signal": "결론은 그냥 아무의미없는 영업이네 ㅋㅋㅋㅋ",
-      "hook_type": "문제 해결"
+      "video_id": "0geOeaTgXu0",
+      "channel_name": "Futurepedia",
+      "title": "GPT Image 2.5 vs. Gemini 2: which model nails a camouflaged spider in one shot?",
+      "thumbnail_url": "https://i.ytimg.com/vi/0geOeaTgXu0/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=0geOeaTgXu0",
+      "published_at": "2026-09-19T14:23:16Z",
+      "view_count": 740,
+      "like_count": 5,
+      "comment_count": 0,
+      "engagement_rate": 0.006756756756756757,
+      "topic_cluster": "Gemini",
+      "summary": "환경에 숨은 거미를 생성하는 테스트에서 GPT Image 2.5가 높은 디테일과 질감 표현으로 Gemini 2보다 뛰어난 복잡한 장면 생성 능력을 입증했습니다.",
+      "comment_signal": "댓글 반응은 아직 약한 편입니다.",
+      "hook_type": "비교"
     }
   ]
 }
