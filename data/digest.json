@@ -1,198 +1,221 @@
 {
-  "digest_date": "2026-09-20",
-  "generated_at": "2026-09-20T01:00:44+00:00",
-  "summary": "최근 24시간 영상 5개를 기준으로 보면, 오늘 가장 먼저 볼 축은 '극비개발'입니다. 특히 '극비개발 출시! 미친 속도 비용 신개념 AI Jev 등장.. ㄷㄷ'는 조회수 26.8K, 참여율 1.2%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "'극비개발' 주제가 1개 영상으로 가장 많이 다뤄졌습니다. 일반인 관점 직접 실험 or VS 비교 각도로 차별화할 영역이 있습니다.\n[내 채널] 7일 평균 192.3K회 · 지속률 32.2% / 경쟁사 평균 9.1K회 (격차 +2017%)",
-  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 09/20\n\n📊 총 8개 | AI 핵심 4 · 인접 AI 1 · 일반 테크 보충 3\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 8 (최대 10) · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [성공지식백과] 26.8K뷰 · 참여율 1.2%\n   극비개발 출시! 미친 속도 비용 신개념 AI Jev 등장.. ㄷㄷ\n   ↳ 타입세이프가 공개한 Jev는 글 생성이 아닌 선택, 점수 매기기, 예/아니오 판단 등 의사결정에 특화된 저비용 고속 AI 모델입니다. 복잡한 계산은 코드가 수행하고 모델은 판단만 담당하는 분업 구조를 통해 효율적인…\n   https://youtu.be/gOXd2XKJN4A\n\n2. AI 핵심 · [tef] 6.6K뷰 · 참여율 3.8%\n   Building a BETTER Canvas with AI\n   ↳ Abacus AI가 제작한 학생용 정리 도구는 기존 플랫폼인 캔버스보다 3배 더 효율적인 기능을 제공하며, 사용자의 집중력을 높여주는 우수한 대안으로 평가받습니다.\n   https://youtu.be/BZ2C84s7X8w\n\n3. AI 핵심 · [Minimunch] 1.6K뷰 · 참여율 7.4%\n   Claude vs Grok Make GTA 6 From Scratch\n   ↳ Claude Opus 5와 Grok 4.6 모델을 활용하여 3시간 동안 GTA 6 게임 제작을 시도한 결과, 두 AI 모두 게임 개발 과정에서 서로 다른 수준의 구현 능력과 한계를 보였습니다.\n   https://youtu.be/lXT_vVC-HXM\n\n4. AI 핵심 · [Futurepedia] 740뷰 · 참여율 0.7%\n   GPT Image 2.5 vs. Gemini 2: which model nails a camouflaged spider in one sho…\n   ↳ 환경에 숨은 거미를 생성하는 테스트에서 GPT Image 2.5가 높은 디테일과 질감 표현으로 Gemini 2보다 뛰어난 복잡한 장면 생성 능력을 입증했습니다.\n   https://youtu.be/0geOeaTgXu0\n\n5. AI 인접 · [Dan Martell] 9.6K뷰 · 참여율 8.7%\n   Stop letting your AI be your Yes Man. Follow + Comment \"YES MAN\" for the guide\n   ↳ AI가 무조건 동의만 하는 예스맨이 되지 않도록 방지하고, 불확실한 경우 솔직하게 답변하도록 유도하는 전용 프롬프트를 통해 더 정확한 결과를 얻을 수 있습니다.\n   https://youtu.be/xaPNJjGg3wI\n\n6. 테크 보충 · [주연 ZUYONI] 314.0K뷰 · 참여율 0.8%\n   아이폰18프로 하루종일 써보니 보이는 것들! (버건디, 글레이셔 실물 후기)\n   ↳ 아이폰 18 프로는 카메라 프로 컨트롤과 4단계 가변 조리개 등 강화된 사진 기능을 갖췄으며, 3배 커진 베이퍼 챔버를 탑재해 발열 제어와 지속 성능이 크게 향상되었습니다.\n   https://youtu.be/K20z_4xycwc\n\n7. 테크 보충 · [테크몽 Techmong] 31.7K뷰 · 참여율 0.8%\n   아이폰 18 프로 강화유리 아무거나 사면 후회합니다.. 딱 골라드릴게요!\n   ↳ 아이폰 18 프로용 강화유리 5종을 비교 테스트한 결과, 반사율과 내구성을 종합적으로 고려했을 때 지니비와 컬러스케일 제품이 가장 뛰어난 성능을 보여 추천되었습니다.\n   https://youtu.be/l60q-TBU5Wg\n\n8. 테크 보충 · [월텍남 - 월스트리트 테크남] 1.2K뷰 · 참여율 0.3%\n   수주 신기록을 낸 해에 적자를 낸 조선사\n   ↳ 조선사가 역대급 수주 실적에도 적자를 기록하는 이유는 선박 매출이 계약 시점이 아닌 건조 기간에 걸쳐 나누어 인식되는 산업 특성 때문입니다.\n   https://youtu.be/6wkdVnu_Qio\n\n📈 스마트대디 어제 실적\n조회수 155.4K (↓19% vs 7일 평균) | 구독 +388\n시청 지속률 31.5% | 평균 시청 3분 23초\n경쟁사 평균 9.1K회 대비 내 7일 평균 +2017%\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
-  "video_count": 5,
-  "total_recent_video_count": 10,
+  "digest_date": "2026-09-21",
+  "generated_at": "2026-09-21T01:04:57+00:00",
+  "summary": "최근 24시간 영상 8개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'ChatGPT'입니다. 특히 'IT뉴스 - 200배 빠른 Jev 열풍, OpenAI 해킹, Astra for Law, 구글도 드디어 해킹, Gemini 4 Pro 소문, RSI 등'는 조회수 40.1K, 참여율 0.8%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "'ChatGPT' 주제가 3개 영상으로 가장 많이 다뤄졌습니다. 오늘 수집 영상 8개는 주로 '뉴스 분석' 포맷이라, VS 비교·직접 실험 각도는 아직 비어 있습니다. ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.\n[내 채널] 7일 평균 191.8K회 · 지속률 32.1% / 경쟁사 평균 9.0K회 (격차 +2031%)",
+  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 09/21\n\n📊 총 10개 | AI 핵심 2 · 인접 AI 6 · 일반 테크 보충 2\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 10 · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [조코딩 JoCoding] 40.1K뷰 · 참여율 0.8%\n   IT뉴스 - 200배 빠른 Jev 열풍, OpenAI 해킹, Astra for Law, 구글도 드디어 해킹, Gemini 4 Pro 소문,…\n   ↳ AI 가속기를 활용한 Jev의 빠른 추론 성능과 트레이딩뷰 MCP 연동을 통한 분석 사례를 소개하며, AI 시장 내 RSI 등 최신 기술 동향을 다룬다.\n   https://youtu.be/hJj7Xrc5N6c\n\n2. AI 핵심 · [Futurepedia] 399뷰 · 참여율 1.5%\n   One-click background removal just got way smarter with this AI.\n   ↳ GPT Image 2.5 모델은 배경 제거 기능이 향상되어 잠자리 날개나 해파리처럼 투명도가 중요한 피사체도 정교하게 처리하며, 자연스러운 반투명 효과를 유지한다.\n   https://youtu.be/D8qiNmxPSuc\n\n3. AI 인접 · [Dan Martell] 18.4K뷰 · 참여율 4.4%\n   How to switch from CLAUDE to CHATGPT\n   ↳ Claude에서 ChatGPT로 AI 도구를 전환하는 구체적인 3단계 방법과 시스템 프롬프트를 통해 AI와의 상호작용 방식을 최적화하는 과정을 안내한다.\n   https://youtu.be/sieAUnU1XBE\n\n4. AI 인접 · [안될공학 - IT 테크 신기술] 6.1K뷰 · 참여율 1.3%\n   AI 모델이 커질 수록 진짜 비싸지는 이것\n   ↳ AI 모델이 에이전트 형태로 진화함에 따라 호출 빈도가 급증해 API 운영 비용이 크게 증가하는 현상과 Gemini 3.7 플래시의 가격 정책 및 성능 개선 내용을 분석한다.\n   https://youtu.be/APE9Dr6h1WM\n\n5. AI 인접 · [Dan Martell] 4.7K뷰 · 참여율 6.3%\n   These are the best AI tools for every task TODAY\n   ↳ 작업별 생산성을 높이기 위해 현재 가장 주목받고 효과적인 최신 AI 도구들을 소개한다.\n   https://youtu.be/8gOWy6F0HPo\n\n6. AI 인접 · [월텍남 - 월스트리트 테크남] 1.3K뷰 · 참여율 0.4%\n   GPU 옆 메모리를 왜 높이 쌓을까?\n   ↳ HBM은 얇은 메모리 칩을 수직으로 쌓아 GPU와 물리적으로 가깝게 배치함으로써 데이터 전송 속도를 극대화하고 전력 효율을 높이는 구조적 이점을 가진다.\n   https://youtu.be/O7mmChe66oM\n\n7. AI 인접 · [월텍남 - 월스트리트 테크남] 1.1K뷰 · 참여율 0.2%\n   수주 1040억 달러를 쌓고도 주가가 빠지는 회사\n   ↳ GPU 대여 업체 코어위브가 막대한 수주 잔고에도 불구하고 주가가 하락한 이유는 설비 투자를 위한 대규모 부채와 주식 희석으로 인한 주주 가치 감소 때문이다.\n   https://youtu.be/ONRmPJGQUw8\n\n8. AI 인접 · [월텍남 - 월스트리트 테크남] 9뷰 · 참여율 0.0%\n   만 원짜리 한 그릇에서 사장이 갖는 870원\n   ↳ 최근 4년간 외식업계는 매출 증가세보다 재료비, 인건비 등 영업비용 상승폭이 더 커지면서 실질적인 영업이익률이 감소하는 어려움을 겪고 있다.\n   https://youtu.be/SQKBZuH5yB0\n\n9. 테크 보충 · [주연 ZUYONI] 456.8K뷰 · 참여율 1.0%\n   솔직히 비싼데 실물 보니 사고 싶어져서 문제ㅋㅋ | 아이폰 듀오 무게, 주름, 그립감까지\n   ↳ 애플의 첫 폴더블폰 '아이폰 듀오'를 리뷰하며 힌지 장력, 무게감, 나노 텍스처 글래스의 특징 및 UDC 카메라와 넷플릭스 전용 UI 등 실물 사용 경험을 전달한다.\n   https://youtu.be/VnVA22FmzBQ\n\n10. 테크 보충 · [월텍남 - 월스트리트 테크남] 1.3K뷰 · 참여율 0.2%\n   보조금 떨어진 달에 차값을 회사가 대신 낸 이유\n   ↳ BYD가 한국 시장 점유율 유지를 위해 전기차 보조금 축소분을 회사 차원에서 직접 보전하며 가격 경쟁력을 방어하려는 전략을 분석한다.\n   https://youtu.be/yblnzk1B9fs\n\n📈 스마트대디 어제 실적\n조회수 155.0K (↓19% vs 7일 평균) | 구독 +361\n시청 지속률 31.7% | 평균 시청 3분 24초\n경쟁사 평균 9.0K회 대비 내 7일 평균 +2031%\n\n💡 VS 각도: ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+  "video_count": 8,
+  "total_recent_video_count": 11,
   "focus_scope": "ai_priority_then_tech_fill",
-  "average_view_count": 9087.0,
-  "average_engagement_rate": 0.04325571256626356,
-  "average_like_count": 265.0,
-  "average_comment_count": 39.0,
-  "best_video_id": "gOXd2XKJN4A",
-  "best_topic": "극비개발",
+  "average_view_count": 9002.0,
+  "average_engagement_rate": 0.018492410102346497,
+  "average_like_count": 178.0,
+  "average_comment_count": 11.0,
+  "best_video_id": "hJj7Xrc5N6c",
+  "best_topic": "ChatGPT",
   "summary_points": [
-    "가장 겹친 주제는 '극비개발'이며 1개 영상, 평균 조회수 26.8K, 평균 참여율 1.2%입니다.",
-    "최고 실적 영상은 '극비개발 출시! 미친 속도 비용 신개념 AI Jev 등장.. ㄷㄷ'이며 긴급성 훅과 비교 포맷 조합이 강했습니다.",
-    "반복 노출된 툴은 Claude 2회, ChatGPT 1회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
+    "가장 겹친 주제는 'ChatGPT'이며 3개 영상, 평균 조회수 19.5K, 평균 참여율 1.7%입니다.",
+    "최고 실적 영상은 'IT뉴스 - 200배 빠른 Jev 열풍, OpenAI 해킹, Astra for Law, 구글도 드디어 해킹, Gemini 4 Pro 소문, RSI 등'이며 긴급성 훅과 뉴스 분석 포맷 조합이 강했습니다.",
+    "반복 노출된 툴은 Gemini 4회, ChatGPT 3회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
   ],
   "action_chips": [
-    "주제: 극비개발",
+    "주제: ChatGPT",
     "훅: 긴급성",
-    "포맷: 비교",
-    "기준 채널: 성공지식백과"
+    "포맷: 뉴스 분석",
+    "기준 채널: 조코딩 JoCoding"
   ],
   "title_suggestions": [
-    "극비개발 직접 실험 — 이게 진짜 되나?",
-    "극비개발 vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
-    "극비개발 써봤더니... (기대 vs 현실 솔직 후기)"
+    "ChatGPT vs Claude vs Gemini, 일반인 업무 실전 대결 결과",
+    "GPT 최신 버전 직접 실험 — 이전이랑 진짜 달라?",
+    "GPT 써봤더니... 기대랑 다른 점 솔직하게 다 말해봄"
   ],
   "recommendations": [
     {
-      "title": "극비개발 직접 실험 — 이게 진짜 되나?",
-      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
-      "angle": "큰 주제 하나를 대표 제목으로 세우고, 나머지 포인트는 보조 정보처럼 정리하는 압축형 포장이 좋습니다.",
-      "thumbnail_copy": "극비개발 지금 봐야 함",
-      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
-      "source_video_id": "gOXd2XKJN4A",
-      "source": "극비개발 출시! 미친 속도 비용 신개념 AI Jev 등장.. ㄷㄷ",
-      "my_channel_context": "내 7일 평균 192.3K회 · 지속률 32.2% / 경쟁사 대비 +2017%"
+      "title": "ChatGPT vs Claude vs Gemini, 일반인 업무 실전 대결 결과",
+      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
+      "angle": "'ChatGPT'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
+      "thumbnail_copy": "ChatGPT 지금 봐야 함",
+      "reason": "ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.",
+      "source_video_id": "hJj7Xrc5N6c",
+      "source": "IT뉴스 - 200배 빠른 Jev 열풍, OpenAI 해킹, Astra for Law, 구글도 드디어 해킹, Gemini 4 Pro 소문, RSI 등",
+      "my_channel_context": "내 7일 평균 191.8K회 · 지속률 32.1% / 경쟁사 대비 +2031%"
+    },
+    {
+      "title": "GPT 최신 버전 직접 실험 — 이전이랑 진짜 달라?",
+      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
+      "angle": "'ChatGPT'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
+      "thumbnail_copy": "ChatGPT 바로 해결",
+      "reason": "ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.",
+      "source_video_id": "sieAUnU1XBE",
+      "source": "How to switch from CLAUDE to CHATGPT",
+      "my_channel_context": "내 7일 평균 191.8K회 · 지속률 32.1% / 경쟁사 대비 +2031%"
+    },
+    {
+      "title": "GPT 써봤더니... 기대랑 다른 점 솔직하게 다 말해봄",
+      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
+      "angle": "'ChatGPT'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
+      "thumbnail_copy": "ChatGPT 바로 해결",
+      "reason": "ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.",
+      "source_video_id": "SQKBZuH5yB0",
+      "source": "만 원짜리 한 그릇에서 사장이 갖는 870원",
+      "my_channel_context": "내 7일 평균 191.8K회 · 지속률 32.1% / 경쟁사 대비 +2031%"
     }
   ],
   "topic_clusters": [
     {
-      "label": "극비개발",
-      "count": 1,
-      "avg_view_count": 26818,
-      "avg_engagement_rate": 0.011559400402714595,
-      "avg_like_count": 298,
-      "avg_comment_count": 12,
-      "source_titles": [
-        "극비개발 출시! 미친 속도 비용 신개념 AI Jev 등장.. ㄷㄷ"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/gOXd2XKJN4A/hqdefault.jpg",
-      "representative_video_id": "gOXd2XKJN4A",
-      "representative_title": "극비개발 출시! 미친 속도 비용 신개념 AI Jev 등장.. ㄷㄷ"
-    },
-    {
       "label": "ChatGPT",
-      "count": 1,
-      "avg_view_count": 9638,
-      "avg_engagement_rate": 0.08673998754928408,
-      "avg_like_count": 734,
-      "avg_comment_count": 102,
+      "count": 3,
+      "avg_view_count": 19492,
+      "avg_engagement_rate": 0.01721899819364087,
+      "avg_like_count": 346,
+      "avg_comment_count": 29,
       "source_titles": [
-        "Stop letting your AI be your Yes Man. Follow + Comment \"YES MAN\" for the guide"
+        "IT뉴스 - 200배 빠른 Jev 열풍, OpenAI 해킹, Astra for Law, 구글도 드디어 해킹, Gemini 4 Pro 소문, RSI 등",
+        "How to switch from CLAUDE to CHATGPT",
+        "만 원짜리 한 그릇에서 사장이 갖는 870원"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/xaPNJjGg3wI/hqdefault.jpg",
-      "representative_video_id": "xaPNJjGg3wI",
-      "representative_title": "Stop letting your AI be your Yes Man. Follow + Comment \"YES MAN\" for the guide"
-    },
-    {
-      "label": "에이전트",
-      "count": 1,
-      "avg_view_count": 6606,
-      "avg_engagement_rate": 0.037693006357856496,
-      "avg_like_count": 187,
-      "avg_comment_count": 62,
-      "source_titles": [
-        "Building a BETTER Canvas with AI"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/BZ2C84s7X8w/hqdefault.jpg",
-      "representative_video_id": "BZ2C84s7X8w",
-      "representative_title": "Building a BETTER Canvas with AI"
-    },
-    {
-      "label": "Claude",
-      "count": 1,
-      "avg_view_count": 1632,
-      "avg_engagement_rate": 0.07352941176470588,
-      "avg_like_count": 101,
-      "avg_comment_count": 19,
-      "source_titles": [
-        "Claude vs Grok Make GTA 6 From Scratch"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/lXT_vVC-HXM/hqdefault.jpg",
-      "representative_video_id": "lXT_vVC-HXM",
-      "representative_title": "Claude vs Grok Make GTA 6 From Scratch"
+      "thumbnail_url": "https://i.ytimg.com/vi/hJj7Xrc5N6c/hqdefault.jpg",
+      "representative_video_id": "hJj7Xrc5N6c",
+      "representative_title": "IT뉴스 - 200배 빠른 Jev 열풍, OpenAI 해킹, Astra for Law, 구글도 드디어 해킹, Gemini 4 Pro 소문, RSI 등"
     },
     {
       "label": "Gemini",
+      "count": 2,
+      "avg_view_count": 5368,
+      "avg_engagement_rate": 0.037796527138000816,
+      "avg_like_count": 184,
+      "avg_comment_count": 1,
+      "source_titles": [
+        "AI 모델이 커질 수록 진짜 비싸지는 이것",
+        "These are the best AI tools for every task TODAY"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/APE9Dr6h1WM/hqdefault.jpg",
+      "representative_video_id": "APE9Dr6h1WM",
+      "representative_title": "AI 모델이 커질 수록 진짜 비싸지는 이것"
+    },
+    {
+      "label": "반도체",
       "count": 1,
-      "avg_view_count": 740,
-      "avg_engagement_rate": 0.006756756756756757,
+      "avg_view_count": 1306,
+      "avg_engagement_rate": 0.0038284839203675345,
       "avg_like_count": 5,
       "avg_comment_count": 0,
       "source_titles": [
-        "GPT Image 2.5 vs. Gemini 2: which model nails a camouflaged spider in one shot?"
+        "GPU 옆 메모리를 왜 높이 쌓을까?"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/0geOeaTgXu0/hqdefault.jpg",
-      "representative_video_id": "0geOeaTgXu0",
-      "representative_title": "GPT Image 2.5 vs. Gemini 2: which model nails a camouflaged spider in one shot?"
+      "thumbnail_url": "https://i.ytimg.com/vi/O7mmChe66oM/hqdefault.jpg",
+      "representative_video_id": "O7mmChe66oM",
+      "representative_title": "GPU 옆 메모리를 왜 높이 쌓을까?"
+    },
+    {
+      "label": "AI인프라",
+      "count": 1,
+      "avg_view_count": 1097,
+      "avg_engagement_rate": 0.0018231540565177757,
+      "avg_like_count": 2,
+      "avg_comment_count": 0,
+      "source_titles": [
+        "수주 1040억 달러를 쌓고도 주가가 빠지는 회사"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/ONRmPJGQUw8/hqdefault.jpg",
+      "representative_video_id": "ONRmPJGQUw8",
+      "representative_title": "수주 1040억 달러를 쌓고도 주가가 빠지는 회사"
+    },
+    {
+      "label": "배경제거",
+      "count": 1,
+      "avg_view_count": 399,
+      "avg_engagement_rate": 0.015037593984962405,
+      "avg_like_count": 6,
+      "avg_comment_count": 0,
+      "source_titles": [
+        "One-click background removal just got way smarter with this AI."
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/D8qiNmxPSuc/hqdefault.jpg",
+      "representative_video_id": "D8qiNmxPSuc",
+      "representative_title": "One-click background removal just got way smarter with this AI."
     }
   ],
   "video_highlights": [
     {
-      "video_id": "gOXd2XKJN4A",
-      "channel_name": "성공지식백과",
-      "title": "극비개발 출시! 미친 속도 비용 신개념 AI Jev 등장.. ㄷㄷ",
-      "thumbnail_url": "https://i.ytimg.com/vi/gOXd2XKJN4A/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=gOXd2XKJN4A",
-      "published_at": "2026-09-19T09:57:53Z",
-      "view_count": 26818,
-      "like_count": 298,
-      "comment_count": 12,
-      "engagement_rate": 0.011559400402714595,
-      "topic_cluster": "극비개발",
-      "summary": "타입세이프가 공개한 Jev는 글 생성이 아닌 선택, 점수 매기기, 예/아니오 판단 등 의사결정에 특화된 저비용 고속 AI 모델입니다. 복잡한 계산은 코드가 수행하고…",
-      "comment_signal": "성공지식백과 Jev 카드뉴스: https://www.instagram.com/p/Dddvmp5Gw-p/?stkn=MWE1emRnemZ1b3kyaA== Jev 가이드 전문은…",
+      "video_id": "hJj7Xrc5N6c",
+      "channel_name": "조코딩 JoCoding",
+      "title": "IT뉴스 - 200배 빠른 Jev 열풍, OpenAI 해킹, Astra for Law, 구글도 드디어 해킹, Gemini 4 Pro 소문, RSI 등",
+      "thumbnail_url": "https://i.ytimg.com/vi/hJj7Xrc5N6c/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=hJj7Xrc5N6c",
+      "published_at": "2026-09-20T11:34:34Z",
+      "view_count": 40096,
+      "like_count": 315,
+      "comment_count": 8,
+      "engagement_rate": 0.008055666400638468,
+      "topic_cluster": "ChatGPT",
+      "summary": "AI 가속기를 활용한 Jev의 빠른 추론 성능과 트레이딩뷰 MCP 연동을 통한 분석 사례를 소개하며, AI 시장 내 RSI 등 최신 기술 동향을 다룬다.",
+      "comment_signal": "감사합니다. 늘 신속하고 디테일한 정보 전달과 공개 시연 항상 감사히 보고 있습니다!! ^^ 추석 명절 잘 보내세욤...",
       "hook_type": "긴급성"
     },
     {
-      "video_id": "xaPNJjGg3wI",
+      "video_id": "sieAUnU1XBE",
       "channel_name": "Dan Martell",
-      "title": "Stop letting your AI be your Yes Man. Follow + Comment \"YES MAN\" for the guide",
-      "thumbnail_url": "https://i.ytimg.com/vi/xaPNJjGg3wI/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=xaPNJjGg3wI",
-      "published_at": "2026-09-19T15:03:18Z",
-      "view_count": 9638,
-      "like_count": 734,
-      "comment_count": 102,
-      "engagement_rate": 0.08673998754928408,
+      "title": "How to switch from CLAUDE to CHATGPT",
+      "thumbnail_url": "https://i.ytimg.com/vi/sieAUnU1XBE/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=sieAUnU1XBE",
+      "published_at": "2026-09-20T15:02:51Z",
+      "view_count": 18371,
+      "like_count": 723,
+      "comment_count": 78,
+      "engagement_rate": 0.043601328180284143,
       "topic_cluster": "ChatGPT",
-      "summary": "AI가 무조건 동의만 하는 예스맨이 되지 않도록 방지하고, 불확실한 경우 솔직하게 답변하도록 유도하는 전용 프롬프트를 통해 더 정확한 결과를 얻을 수 있습니다.",
-      "comment_signal": "Dan always Delivers... ❤️❤️",
+      "summary": "Claude에서 ChatGPT로 AI 도구를 전환하는 구체적인 3단계 방법과 시스템 프롬프트를 통해 AI와의 상호작용 방식을 최적화하는 과정을 안내한다.",
+      "comment_signal": "IK but Just see we will see Claude with a better Model in few weeks. ANd the cycle continues.",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "BZ2C84s7X8w",
-      "channel_name": "tef",
-      "title": "Building a BETTER Canvas with AI",
-      "thumbnail_url": "https://i.ytimg.com/vi/BZ2C84s7X8w/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=BZ2C84s7X8w",
-      "published_at": "2026-09-19T14:00:30Z",
-      "view_count": 6606,
-      "like_count": 187,
-      "comment_count": 62,
-      "engagement_rate": 0.037693006357856496,
-      "topic_cluster": "에이전트",
-      "summary": "Abacus AI가 제작한 학생용 정리 도구는 기존 플랫폼인 캔버스보다 3배 더 효율적인 기능을 제공하며, 사용자의 집중력을 높여주는 우수한 대안으로 평가받습니다.",
-      "comment_signal": "The people who where here before 5 hours should unite",
-      "hook_type": "실험 데모"
+      "video_id": "APE9Dr6h1WM",
+      "channel_name": "안될공학 - IT 테크 신기술",
+      "title": "AI 모델이 커질 수록 진짜 비싸지는 이것",
+      "thumbnail_url": "https://i.ytimg.com/vi/APE9Dr6h1WM/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=APE9Dr6h1WM",
+      "published_at": "2026-09-20T05:00:30Z",
+      "view_count": 6058,
+      "like_count": 76,
+      "comment_count": 0,
+      "engagement_rate": 0.012545394519643446,
+      "topic_cluster": "Gemini",
+      "summary": "AI 모델이 에이전트 형태로 진화함에 따라 호출 빈도가 급증해 API 운영 비용이 크게 증가하는 현상과 Gemini 3.7 플래시의 가격 정책 및 성능 개선 내용을…",
+      "comment_signal": "댓글 반응은 아직 약한 편입니다.",
+      "hook_type": "솔직 검증"
     },
     {
-      "video_id": "lXT_vVC-HXM",
-      "channel_name": "Minimunch",
-      "title": "Claude vs Grok Make GTA 6 From Scratch",
-      "thumbnail_url": "https://i.ytimg.com/vi/lXT_vVC-HXM/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=lXT_vVC-HXM",
-      "published_at": "2026-09-19T23:36:36Z",
-      "view_count": 1632,
-      "like_count": 101,
-      "comment_count": 19,
-      "engagement_rate": 0.07352941176470588,
-      "topic_cluster": "Claude",
-      "summary": "Claude Opus 5와 Grok 4.6 모델을 활용하여 3시간 동안 GTA 6 게임 제작을 시도한 결과, 두 AI 모두 게임 개발 과정에서 서로 다른 수준의 구…",
-      "comment_signal": "Imagine what it can do in 5 years from now. 20 years from now it'll be generating full sized ga…",
-      "hook_type": "비교"
+      "video_id": "8gOWy6F0HPo",
+      "channel_name": "Dan Martell",
+      "title": "These are the best AI tools for every task TODAY",
+      "thumbnail_url": "https://i.ytimg.com/vi/8gOWy6F0HPo/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=8gOWy6F0HPo",
+      "published_at": "2026-09-20T22:01:45Z",
+      "view_count": 4679,
+      "like_count": 293,
+      "comment_count": 2,
+      "engagement_rate": 0.06304765975635819,
+      "topic_cluster": "Gemini",
+      "summary": "작업별 생산성을 높이기 위해 현재 가장 주목받고 효과적인 최신 AI 도구들을 소개한다.",
+      "comment_signal": "He just said notebook lm Is overrated 😂",
+      "hook_type": "문제 해결"
     },
     {
-      "video_id": "0geOeaTgXu0",
-      "channel_name": "Futurepedia",
-      "title": "GPT Image 2.5 vs. Gemini 2: which model nails a camouflaged spider in one shot?",
-      "thumbnail_url": "https://i.ytimg.com/vi/0geOeaTgXu0/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=0geOeaTgXu0",
-      "published_at": "2026-09-19T14:23:16Z",
-      "view_count": 740,
+      "video_id": "O7mmChe66oM",
+      "channel_name": "월텍남 - 월스트리트 테크남",
+      "title": "GPU 옆 메모리를 왜 높이 쌓을까?",
+      "thumbnail_url": "https://i.ytimg.com/vi/O7mmChe66oM/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=O7mmChe66oM",
+      "published_at": "2026-09-20T14:24:13Z",
+      "view_count": 1306,
       "like_count": 5,
       "comment_count": 0,
-      "engagement_rate": 0.006756756756756757,
-      "topic_cluster": "Gemini",
-      "summary": "환경에 숨은 거미를 생성하는 테스트에서 GPT Image 2.5가 높은 디테일과 질감 표현으로 Gemini 2보다 뛰어난 복잡한 장면 생성 능력을 입증했습니다.",
+      "engagement_rate": 0.0038284839203675345,
+      "topic_cluster": "반도체",
+      "summary": "HBM은 얇은 메모리 칩을 수직으로 쌓아 GPU와 물리적으로 가깝게 배치함으로써 데이터 전송 속도를 극대화하고 전력 효율을 높이는 구조적 이점을 가진다.",
       "comment_signal": "댓글 반응은 아직 약한 편입니다.",
-      "hook_type": "비교"
+      "hook_type": "문제 해결"
     }
   ]
 }
