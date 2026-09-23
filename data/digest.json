@@ -1,252 +1,250 @@
 {
-  "digest_date": "2026-09-22",
-  "generated_at": "2026-09-22T01:39:33+00:00",
-  "summary": "최근 24시간 영상 13개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'ChatGPT'입니다. 특히 '200배 빠른데 400배 싸다, AI 업계 지각 변동, LLM 아닌 새로운 AI 등장 Jev… 단어 생성이 아니라 확률이 바꾸는 AI 생산성'는 조회수 145.5K, 참여율 1.1%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "'ChatGPT' 주제가 2개 영상으로 가장 많이 다뤄졌습니다. ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.\n[내 채널] 7일 평균 140.8K회 · 지속률 31.7% / 경쟁사 평균 23.8K회 (격차 +491%)",
-  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 09/22\n\n📊 총 10개 | AI 핵심 8 · 인접 AI 2 · 일반 테크 보충 0\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 10 · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [조코딩 JoCoding] 93.3K뷰 · 참여율 1.0%\n   AI뉴스 - Jev 열풍, OpenAI 해킹, Astra for Law, 구글도 드디어 해킹, Gemini 4 Pro 소문, RSI 등\n   ↳ Jev 모델의 빠른 속도와 AI 에이전트들의 발전 등 최신 AI 기술 동향을 전하며, 개인의 1인 창업 역량이 중요해지는 AI 시대의 변화를 강조합니다.\n   https://youtu.be/vrIBLHcqPRs\n\n2. AI 핵심 · [조코딩 JoCoding] 27.0K뷰 · 참여율 0.5%\n   [LIVE] Mac Studio 2대 연결해서 돌려보기 with M5 Ultra, 512GB 통합 메모리\n   ↳ M5 Ultra 프로세서를 탑재한 맥 스튜디오 2대를 썬더볼트로 연결하여 구동한 결과, 넉넉한 통합 메모리를 바탕으로 고성능 인퍼런스 속도를 확보했음을 확인했습니다.\n   https://youtu.be/cR6rp110f50\n\n3. AI 핵심 · [AI Samson] 9.3K뷰 · 참여율 3.2%\n   The AI Video Workflow Nobody Is Talking About (Full Breakdown)\n   ↳ invideo Agent 2를 활용해 캐릭터 설정부터 영상 생성까지 전 과정을 자동화한 단편 영화 제작 워크플로우를 소개하며, AI 에이전트 간 협업의 효율성을 강조합니다.\n   https://youtu.be/9oCppy1gZpo\n\n4. AI 핵심 · [Matt Wolfe] 6.8K뷰 · 참여율 3.1%\n   This Robot Looks DEMONIC... On Purpose?\n   ↳ 위험한 작업 현장에 투입하기 위해 설계된 4족 보행 로봇 '쓰리 할브스'를 소개하며, 독특한 디자인의 뿔 내부에 장착된 카메라를 통한 원격 제어의 실용성을 설명합니다.\n   https://youtu.be/rcUTZysF9s4\n\n5. AI 핵심 · [AI 머니] 3.3K뷰 · 참여율 0.9%\n   GPT-6 아스트라 사용량 아끼는 13가지 방법, 6분 안에 알려드립니다\n   ↳ GPT-6 아스트라 사용량을 효율적으로 관리하기 위해 파일 수정 시 범위를 명확히 지정하거나 작업의 중간 확인 지점을 설정하는 등 13가지 실용적인 프롬프트 전략을 제안합니다.\n   https://youtu.be/6_yHZTHDb0w\n\n6. AI 핵심 · [Minimunch] 1.6K뷰 · 참여율 8.6%\n   GPT 6 Astra Makes Cuphead In Roblox Studio vs From Scratch\n   ↳ GPT-6 아스트라를 활용해 '컵헤드' 게임을 HTML 기반으로 직접 제작하는 방식과 로블록스 스튜디오 내에서 구현하는 과정을 비교 실험했습니다.\n   https://youtu.be/ON0XpbBtVH4\n\n7. AI 핵심 · [The AI Advantage] 838뷰 · 참여율 2.0%\n   The Chatbot Era is Ending\n   ↳ 단순 대화형 챗봇 시대가 저물고, 사용자의 목표를 지속적으로 수행하거나 복합적인 작업을 병렬로 처리하는 AI 에이전트 시대로 전환되고 있음을 분석합니다.\n   https://youtu.be/1DUUoi3QAtM\n\n8. AI 핵심 · [성공지식백과] 832뷰 · 참여율 1.8%\n   일론 머스크 그록 4.7 출시..ㄷㄷ 새로운 가성비 모델로 괜찮을까..\n   ↳ 새로 출시된 그록 4.7 모델의 코딩 및 추론 성능을 벤치마크로 분석한 결과, 3D 생성 분야는 미흡하나 저렴한 비용을 강점으로 일상 사무 및 코딩 작업에 적합한 가성비 모델임을 확인했습니다.\n   https://youtu.be/3WiJ5ejKYBo\n\n9. AI 인접 · [안될공학 - IT 테크 신기술] 145.5K뷰 · 참여율 1.1%\n   200배 빠른데 400배 싸다, AI 업계 지각 변동, LLM 아닌 새로운 AI 등장 Jev… 단어 생성이 아니라 확률이 바꾸는 AI 생산성\n   ↳ 문장 생성 대신 선택과 확률을 반환하여 처리 속도를 획기적으로 높인 Jev 모델을 소개하며, 비자기회귀 방식을 통해 소프트웨어 자동화의 새로운 가능성을 제시합니다.\n   https://youtu.be/72rJKQ2a6Ak\n\n10. AI 인접 · [Dan Martell] 18.2K뷰 · 참여율 5.4%\n   Are you an AI PRO or just an AI BRO?\n   ↳ AI를 단순히 소비하는 사람과 생산적으로 활용하는 전문가의 차이를 설명하며, 각 목적에 맞는 도구인 제미나이와 클로드의 올바른 활용법을 다룹니다.\n   https://youtu.be/narpLqAekbA\n\n📈 스마트대디 어제 실적\n조회수 87.4K (↓38% vs 7일 평균) | 구독 +261\n시청 지속률 31.9% | 평균 시청 3분 18초\n경쟁사 평균 23.8K회 대비 내 7일 평균 +491%\n\n💡 VS 각도: ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
-  "video_count": 13,
-  "total_recent_video_count": 23,
+  "digest_date": "2026-09-23",
+  "generated_at": "2026-09-23T01:29:10+00:00",
+  "summary": "최근 24시간 영상 10개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'Claude'입니다. 특히 '구글 진짜 칼 갈았네.. 제미나이 4 프로 유출 성능 ㄷㄷ'는 조회수 103.2K, 참여율 0.6%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "'Claude' 주제가 2개 영상으로 가장 많이 다뤄졌습니다. Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n[내 채널] 7일 평균 127.3K회 · 지속률 32.2% / 경쟁사 평균 21.2K회 (격차 +501%)",
+  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 09/23\n\n📊 총 10개 | AI 핵심 6 · 인접 AI 4 · 일반 테크 보충 0\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 10 · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [성공지식백과] 103.2K뷰 · 참여율 0.6%\n   구글 진짜 칼 갈았네.. 제미나이 4 프로 유출 성능 ㄷㄷ\n   ↳ Gemini 4 Pro로 추정되는 모델을 활용해 3D 변신 로봇과 웹 그래픽을 제작한 실험 결과입니다. 다만 정식 발표 이전의 유출설 단계이므로 벤치마크 점수나 무작위 배정되는 모델 성능은 참고용으로 보는 것이 좋…\n   https://youtu.be/W1wDDOYPNRM\n\n2. AI 핵심 · [Matt Wolfe] 11.6K뷰 · 참여율 6.1%\n   Opus 5.5 Is Crazy Good and GPT-6-Sol Launched Too\n   ↳ Claude Opus 5.5가 벤치마크 점수 58점으로 현재 가장 똑똑한 모델로 등극했습니다. 이전 최고 모델 대비 더 저렴한 비용으로 효율적인 작업 수행이 가능해졌습니다.\n   https://youtu.be/0t-eWrGFZyA\n\n3. AI 핵심 · [성공지식백과] 4.1K뷰 · 참여율 2.2%\n   오픈AI 가성비 모델 GPT-6 솔 루나 등장..ㄷㄷ 가격 반값에 페이블급 성능..\n   ↳ 가성비를 높인 GPT-6 솔과 루나 모델이 출시되었습니다. Higgsfield 플러그인을 활용해 마케팅 리서치부터 광고 이미지 제작까지 자동화하는 실전 과정을 테스트했습니다.\n   https://youtu.be/s5G3wR7Cuys\n\n4. AI 핵심 · [All About AI] 3.9K뷰 · 참여율 1.2%\n   I Gave GPT-6 & Claude $1,000 Each to Trade on Kalshi\n   ↳ GPT-6와 Claude Fable 5.1을 활용해 주식 거래 봇을 운영하는 실험입니다. 24시간 거래를 위해 Hostinger VPS를 설정하고 운영하는 과정과 실험 결과를 확인합니다.\n   https://youtu.be/Xd2oJ5Sog24\n\n5. AI 핵심 · [성공지식백과] 3.9K뷰 · 참여율 2.3%\n   페이블 반값으로 고성능뽑는 오퍼스 5.5.. 미친 벤치마크.. ㄷㄷ\n   ↳ Claude Opus 5.5가 정식 출시되어 주요 벤치마크에서 1위를 차지했습니다. 기존 페이블 대비 가격은 절반 이하이면서도 코딩 및 데이터 분석 성능이 향상된 점을 직접 테스트했습니다.\n   https://youtu.be/QDIqjw-btDA\n\n6. AI 핵심 · [Futurepedia] 690뷰 · 참여율 1.9%\n   How many attempts does it really take to nail a photorealistic Google Earth a…\n   ↳ 구글 어스 기반의 실사 애니메이션을 제작하는 과정을 다루며, 시행착오를 줄이기 위해 초기 프롬프트를 상세하게 작성하는 것의 중요성을 강조합니다.\n   https://youtu.be/gzLaOSggSIg\n\n7. AI 인접 · [안될공학 - IT 테크 신기술] 70.7K뷰 · 참여율 0.8%\n   Jev가 AI 틈새 기술? 구글이 바로 반응합니다… 빠른 응답에 돈을 내는 이유 | 세레브라스, Groq도 절대 안되는 기술이라 했죠\n   ↳ 토큰 생성이 아닌 확률적 판단값을 빠르게 반환하는 AI 모델 Jev의 작동 방식과 가치를 설명합니다. 빠른 응답 속도가 필요한 추론 환경에서 새로운 시장 가능성을 제시합니다.\n   https://youtu.be/qV5p14OSgXU\n\n8. AI 인접 · [Dan Martell] 10.8K뷰 · 참여율 4.0%\n   What ACTUALLY matters when you're using AI?\n   ↳ AI를 효과적으로 활용하는 방법과 기술적 숙련도가 AI 사용에 미치는 영향을 다룹니다.\n   https://youtu.be/LR18LzCEUq8\n\n9. AI 인접 · [Dan Martell] 2.1K뷰 · 참여율 8.0%\n   What would you do with $500? (How to invest)\n   ↳ 투자 실패를 경험으로 삼아 다시 도전하는 태도의 중요성을 강조하며, 500달러 투자 상황을 가정해 조언합니다.\n   https://youtu.be/IjOQUzOmSm4\n\n10. AI 인접 · [월텍남 - 월스트리트 테크남] 912뷰 · 참여율 0.3%\n   AI로 자른 자리에 다시 사람을 뽑는 회사들\n   ↳ AI 도입으로 인력을 감축했던 경영진들이 실무 역량 부재와 고객 응대 실패를 겪고 다시 직원을 재채용하는 현상을 분석합니다.\n   https://youtu.be/Wxhx-gtDoLs\n\n📈 스마트대디 어제 실적\n조회수 124.1K (↓3% vs 7일 평균) | 구독 +288\n시청 지속률 33.6% | 평균 시청 2분 55초\n경쟁사 평균 21.2K회 대비 내 7일 평균 +501%\n\n💡 VS 각도: Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+  "video_count": 10,
+  "total_recent_video_count": 16,
   "focus_scope": "ai_priority_then_tech_fill",
-  "average_view_count": 23835.0,
-  "average_engagement_rate": 0.030285783043878342,
-  "average_like_count": 323.0,
+  "average_view_count": 21187.0,
+  "average_engagement_rate": 0.02731870598350773,
+  "average_like_count": 246.0,
   "average_comment_count": 28.0,
-  "best_video_id": "72rJKQ2a6Ak",
-  "best_topic": "ChatGPT",
+  "best_video_id": "W1wDDOYPNRM",
+  "best_topic": "Claude",
   "summary_points": [
-    "가장 겹친 주제는 'ChatGPT'이며 2개 영상, 평균 조회수 10.7K, 평균 참여율 3.1%입니다.",
-    "최고 실적 영상은 '200배 빠른데 400배 싸다, AI 업계 지각 변동, LLM 아닌 새로운 AI 등장 Jev… 단어 생성이 아니라 확률이 바꾸는 AI 생산성'이며 시간 절약 훅과 워크플로우 튜토리얼 포맷 조합이 강했습니다.",
-    "반복 노출된 툴은 Claude 4회, ChatGPT 3회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
+    "가장 겹친 주제는 'Claude'이며 2개 영상, 평균 조회수 3.9K, 평균 참여율 1.7%입니다.",
+    "최고 실적 영상은 '구글 진짜 칼 갈았네.. 제미나이 4 프로 유출 성능 ㄷㄷ'이며 솔직 검증 훅과 비교 포맷 조합이 강했습니다.",
+    "반복 노출된 툴은 Claude 3회, ChatGPT 2회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
   ],
   "action_chips": [
-    "주제: ChatGPT",
-    "훅: 시간 절약",
-    "포맷: 워크플로우 튜토리얼",
-    "기준 채널: 안될공학 - IT 테크 신기술"
+    "주제: Claude",
+    "훅: 솔직 검증",
+    "포맷: 비교",
+    "기준 채널: 성공지식백과"
   ],
   "title_suggestions": [
-    "ChatGPT vs Claude vs Gemini, 일반인 업무 실전 대결 결과",
-    "GPT 최신 버전 직접 실험 — 이전이랑 진짜 달라?",
-    "GPT 써봤더니... 기대랑 다른 점 솔직하게 다 말해봄"
+    "Claude vs ChatGPT, 일반인이 직접 써보니 이게 달랐다",
+    "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
+    "AI 비서 대결: Claude가 진짜 강한 상황은 따로 있었다"
   ],
   "recommendations": [
     {
-      "title": "ChatGPT vs Claude vs Gemini, 일반인 업무 실전 대결 결과",
+      "title": "Claude vs ChatGPT, 일반인이 직접 써보니 이게 달랐다",
       "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'ChatGPT'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "ChatGPT 바로 해결",
-      "reason": "ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.",
-      "source_video_id": "narpLqAekbA",
-      "source": "Are you an AI PRO or just an AI BRO?",
-      "my_channel_context": "내 7일 평균 140.8K회 · 지속률 31.7% / 경쟁사 대비 +491%"
+      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
+      "thumbnail_copy": "Claude 바로 해결",
+      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
+      "source_video_id": "Xd2oJ5Sog24",
+      "source": "I Gave GPT-6 & Claude $1,000 Each to Trade on Kalshi",
+      "my_channel_context": "내 7일 평균 127.3K회 · 지속률 32.2% / 경쟁사 대비 +501%"
     },
     {
-      "title": "GPT 최신 버전 직접 실험 — 이전이랑 진짜 달라?",
+      "title": "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
       "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'ChatGPT'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "ChatGPT 바로 해결",
-      "reason": "ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.",
-      "source_video_id": "6_yHZTHDb0w",
-      "source": "GPT-6 아스트라 사용량 아끼는 13가지 방법, 6분 안에 알려드립니다",
-      "my_channel_context": "내 7일 평균 140.8K회 · 지속률 31.7% / 경쟁사 대비 +491%"
+      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
+      "thumbnail_copy": "Claude 바로 해결",
+      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
+      "source_video_id": "QDIqjw-btDA",
+      "source": "페이블 반값으로 고성능뽑는 오퍼스 5.5.. 미친 벤치마크.. ㄷㄷ",
+      "my_channel_context": "내 7일 평균 127.3K회 · 지속률 32.2% / 경쟁사 대비 +501%"
     }
   ],
   "topic_clusters": [
     {
-      "label": "ChatGPT",
-      "count": 2,
-      "avg_view_count": 10724,
-      "avg_engagement_rate": 0.03135061592599716,
-      "avg_like_count": 496,
-      "avg_comment_count": 10,
-      "source_titles": [
-        "Are you an AI PRO or just an AI BRO?",
-        "GPT-6 아스트라 사용량 아끼는 13가지 방법, 6분 안에 알려드립니다"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/narpLqAekbA/hqdefault.jpg",
-      "representative_video_id": "narpLqAekbA",
-      "representative_title": "Are you an AI PRO or just an AI BRO?"
-    },
-    {
       "label": "Claude",
       "count": 2,
-      "avg_view_count": 5285,
-      "avg_engagement_rate": 0.07106636056747803,
-      "avg_like_count": 200,
-      "avg_comment_count": 22,
+      "avg_view_count": 3887,
+      "avg_engagement_rate": 0.017154321510648888,
+      "avg_like_count": 56,
+      "avg_comment_count": 10,
       "source_titles": [
-        "The AI Video Workflow Nobody Is Talking About (Full Breakdown)",
-        "Yes, you can still use Claude Code to get rich"
+        "I Gave GPT-6 & Claude $1,000 Each to Trade on Kalshi",
+        "페이블 반값으로 고성능뽑는 오퍼스 5.5.. 미친 벤치마크.. ㄷㄷ"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/9oCppy1gZpo/hqdefault.jpg",
-      "representative_video_id": "9oCppy1gZpo",
-      "representative_title": "The AI Video Workflow Nobody Is Talking About (Full Breakdown)"
+      "thumbnail_url": "https://i.ytimg.com/vi/Xd2oJ5Sog24/hqdefault.jpg",
+      "representative_video_id": "Xd2oJ5Sog24",
+      "representative_title": "I Gave GPT-6 & Claude $1,000 Each to Trade on Kalshi"
     },
     {
-      "label": "코딩",
-      "count": 2,
-      "avg_view_count": 4194,
-      "avg_engagement_rate": 0.058585031337368705,
-      "avg_like_count": 144,
-      "avg_comment_count": 30,
-      "source_titles": [
-        "This Robot Looks DEMONIC... On Purpose?",
-        "GPT 6 Astra Makes Cuphead In Roblox Studio vs From Scratch"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/rcUTZysF9s4/hqdefault.jpg",
-      "representative_video_id": "rcUTZysF9s4",
-      "representative_title": "This Robot Looks DEMONIC... On Purpose?"
-    },
-    {
-      "label": "agents",
+      "label": "Gemini",
       "count": 1,
-      "avg_view_count": 145535,
-      "avg_engagement_rate": 0.011103858178445048,
-      "avg_like_count": 1477,
-      "avg_comment_count": 139,
+      "avg_view_count": 103190,
+      "avg_engagement_rate": 0.005969570694834771,
+      "avg_like_count": 496,
+      "avg_comment_count": 120,
       "source_titles": [
-        "200배 빠른데 400배 싸다, AI 업계 지각 변동, LLM 아닌 새로운 AI 등장 Jev… 단어 생성이 아니라 확률이 바꾸는 AI 생산성"
+        "구글 진짜 칼 갈았네.. 제미나이 4 프로 유출 성능 ㄷㄷ"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/72rJKQ2a6Ak/hqdefault.jpg",
-      "representative_video_id": "72rJKQ2a6Ak",
-      "representative_title": "200배 빠른데 400배 싸다, AI 업계 지각 변동, LLM 아닌 새로운 AI 등장 Jev… 단어 생성이 아니라 확률이 바꾸는 AI 생산성"
+      "thumbnail_url": "https://i.ytimg.com/vi/W1wDDOYPNRM/hqdefault.jpg",
+      "representative_video_id": "W1wDDOYPNRM",
+      "representative_title": "구글 진짜 칼 갈았네.. 제미나이 4 프로 유출 성능 ㄷㄷ"
     },
     {
       "label": "OpenAI",
       "count": 1,
-      "avg_view_count": 93330,
-      "avg_engagement_rate": 0.0103932283295832,
-      "avg_like_count": 879,
-      "avg_comment_count": 91,
+      "avg_view_count": 70709,
+      "avg_engagement_rate": 0.008117778500615198,
+      "avg_like_count": 526,
+      "avg_comment_count": 48,
       "source_titles": [
-        "AI뉴스 - Jev 열풍, OpenAI 해킹, Astra for Law, 구글도 드디어 해킹, Gemini 4 Pro 소문, RSI 등"
+        "Jev가 AI 틈새 기술? 구글이 바로 반응합니다… 빠른 응답에 돈을 내는 이유 | 세레브라스, Groq도 절대 안되는 기술이라 했죠"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/vrIBLHcqPRs/hqdefault.jpg",
-      "representative_video_id": "vrIBLHcqPRs",
-      "representative_title": "AI뉴스 - Jev 열풍, OpenAI 해킹, Astra for Law, 구글도 드디어 해킹, Gemini 4 Pro 소문, RSI 등"
+      "thumbnail_url": "https://i.ytimg.com/vi/qV5p14OSgXU/hqdefault.jpg",
+      "representative_video_id": "qV5p14OSgXU",
+      "representative_title": "Jev가 AI 틈새 기술? 구글이 바로 반응합니다… 빠른 응답에 돈을 내는 이유 | 세레브라스, Groq도 절대 안되는 기술이라 했죠"
     },
     {
-      "label": "MCP",
+      "label": "ChatGPT",
       "count": 1,
-      "avg_view_count": 26977,
-      "avg_engagement_rate": 0.00500426289061052,
-      "avg_like_count": 126,
-      "avg_comment_count": 9,
+      "avg_view_count": 11643,
+      "avg_engagement_rate": 0.06055140427724813,
+      "avg_like_count": 638,
+      "avg_comment_count": 67,
       "source_titles": [
-        "[LIVE] Mac Studio 2대 연결해서 돌려보기 with M5 Ultra, 512GB 통합 메모리"
+        "Opus 5.5 Is Crazy Good and GPT-6-Sol Launched Too"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/cR6rp110f50/hqdefault.jpg",
-      "representative_video_id": "cR6rp110f50",
-      "representative_title": "[LIVE] Mac Studio 2대 연결해서 돌려보기 with M5 Ultra, 512GB 통합 메모리"
+      "thumbnail_url": "https://i.ytimg.com/vi/0t-eWrGFZyA/hqdefault.jpg",
+      "representative_video_id": "0t-eWrGFZyA",
+      "representative_title": "Opus 5.5 Is Crazy Good and GPT-6-Sol Launched Too"
     },
     {
-      "label": "AI로",
+      "label": "코딩",
       "count": 1,
-      "avg_view_count": 1225,
-      "avg_engagement_rate": 0.004081632653061225,
-      "avg_like_count": 5,
+      "avg_view_count": 10772,
+      "avg_engagement_rate": 0.040289639806906793,
+      "avg_like_count": 426,
+      "avg_comment_count": 8,
+      "source_titles": [
+        "What ACTUALLY matters when you're using AI?"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/LR18LzCEUq8/hqdefault.jpg",
+      "representative_video_id": "LR18LzCEUq8",
+      "representative_title": "What ACTUALLY matters when you're using AI?"
+    },
+    {
+      "label": "GPT-5",
+      "count": 1,
+      "avg_view_count": 4121,
+      "avg_engagement_rate": 0.021839359378791556,
+      "avg_like_count": 80,
+      "avg_comment_count": 10,
+      "source_titles": [
+        "오픈AI 가성비 모델 GPT-6 솔 루나 등장..ㄷㄷ 가격 반값에 페이블급 성능.."
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/s5G3wR7Cuys/hqdefault.jpg",
+      "representative_video_id": "s5G3wR7Cuys",
+      "representative_title": "오픈AI 가성비 모델 GPT-6 솔 루나 등장..ㄷㄷ 가격 반값에 페이블급 성능.."
+    },
+    {
+      "label": "AI투자",
+      "count": 1,
+      "avg_view_count": 2063,
+      "avg_engagement_rate": 0.07998061076102762,
+      "avg_like_count": 160,
+      "avg_comment_count": 5,
+      "source_titles": [
+        "What would you do with $500? (How to invest)"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/IjOQUzOmSm4/hqdefault.jpg",
+      "representative_video_id": "IjOQUzOmSm4",
+      "representative_title": "What would you do with $500? (How to invest)"
+    },
+    {
+      "label": "채용",
+      "count": 1,
+      "avg_view_count": 912,
+      "avg_engagement_rate": 0.003289473684210526,
+      "avg_like_count": 3,
       "avg_comment_count": 0,
       "source_titles": [
-        "AI로 일을 빨리 끝낸 직원이 그 사실을 숨기는 이유"
+        "AI로 자른 자리에 다시 사람을 뽑는 회사들"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/8pwf_ws3sOI/hqdefault.jpg",
-      "representative_video_id": "8pwf_ws3sOI",
-      "representative_title": "AI로 일을 빨리 끝낸 직원이 그 사실을 숨기는 이유"
-    },
-    {
-      "label": "A",
-      "count": 1,
-      "avg_view_count": 838,
-      "avg_engagement_rate": 0.02028639618138425,
-      "avg_like_count": 15,
-      "avg_comment_count": 2,
-      "source_titles": [
-        "The Chatbot Era is Ending"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/1DUUoi3QAtM/hqdefault.jpg",
-      "representative_video_id": "1DUUoi3QAtM",
-      "representative_title": "The Chatbot Era is Ending"
+      "thumbnail_url": "https://i.ytimg.com/vi/Wxhx-gtDoLs/hqdefault.jpg",
+      "representative_video_id": "Wxhx-gtDoLs",
+      "representative_title": "AI로 자른 자리에 다시 사람을 뽑는 회사들"
     }
   ],
   "video_highlights": [
     {
-      "video_id": "72rJKQ2a6Ak",
+      "video_id": "W1wDDOYPNRM",
+      "channel_name": "성공지식백과",
+      "title": "구글 진짜 칼 갈았네.. 제미나이 4 프로 유출 성능 ㄷㄷ",
+      "thumbnail_url": "https://i.ytimg.com/vi/W1wDDOYPNRM/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=W1wDDOYPNRM",
+      "published_at": "2026-09-22T06:45:25Z",
+      "view_count": 103190,
+      "like_count": 496,
+      "comment_count": 120,
+      "engagement_rate": 0.005969570694834771,
+      "topic_cluster": "Gemini",
+      "summary": "Gemini 4 Pro로 추정되는 모델을 활용해 3D 변신 로봇과 웹 그래픽을 제작한 실험 결과입니다. 다만 정식 발표 이전의 유출설 단계이므로 벤치마크 점수나 무…",
+      "comment_signal": "제미나이는 항상 느끼지만.. 먼가 하나 모자란 양산형 느낌이죠.... 대신에 토큰은 많고..아 우리는 이런 기능이 돼!! 이정도 수준.",
+      "hook_type": "솔직 검증"
+    },
+    {
+      "video_id": "qV5p14OSgXU",
       "channel_name": "안될공학 - IT 테크 신기술",
-      "title": "200배 빠른데 400배 싸다, AI 업계 지각 변동, LLM 아닌 새로운 AI 등장 Jev… 단어 생성이 아니라 확률이 바꾸는 AI 생산성",
-      "thumbnail_url": "https://i.ytimg.com/vi/72rJKQ2a6Ak/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=72rJKQ2a6Ak",
-      "published_at": "2026-09-21T08:35:35Z",
-      "view_count": 145535,
-      "like_count": 1477,
-      "comment_count": 139,
-      "engagement_rate": 0.011103858178445048,
-      "topic_cluster": "agents",
-      "summary": "문장 생성 대신 선택과 확률을 반환하여 처리 속도를 획기적으로 높인 Jev 모델을 소개하며, 비자기회귀 방식을 통해 소프트웨어 자동화의 새로운 가능성을 제시합니다.",
-      "comment_signal": "나온지 얼마 됬다고 바로 다뤄주냐 ㄷㄷㄷ 멋지다",
+      "title": "Jev가 AI 틈새 기술? 구글이 바로 반응합니다… 빠른 응답에 돈을 내는 이유 | 세레브라스, Groq도 절대 안되는 기술이라 했죠",
+      "thumbnail_url": "https://i.ytimg.com/vi/qV5p14OSgXU/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=qV5p14OSgXU",
+      "published_at": "2026-09-22T07:11:05Z",
+      "view_count": 70709,
+      "like_count": 526,
+      "comment_count": 48,
+      "engagement_rate": 0.008117778500615198,
+      "topic_cluster": "OpenAI",
+      "summary": "토큰 생성이 아닌 확률적 판단값을 빠르게 반환하는 AI 모델 Jev의 작동 방식과 가치를 설명합니다. 빠른 응답 속도가 필요한 추론 환경에서 새로운 시장 가능성을…",
+      "comment_signal": "저도 제브 등장 소식 들었을 때..이거 멀티 에이전트 시스템에서 통신병 역할로 쓰면 전체 시스템 효율이 향상되지 않을까 싶어서..어떻게 붙이면 좋을지 고민중입니다ㅎㅎ 기존…",
       "hook_type": "시간 절약"
     },
     {
-      "video_id": "vrIBLHcqPRs",
-      "channel_name": "조코딩 JoCoding",
-      "title": "AI뉴스 - Jev 열풍, OpenAI 해킹, Astra for Law, 구글도 드디어 해킹, Gemini 4 Pro 소문, RSI 등",
-      "thumbnail_url": "https://i.ytimg.com/vi/vrIBLHcqPRs/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=vrIBLHcqPRs",
-      "published_at": "2026-09-21T12:30:05Z",
-      "view_count": 93330,
-      "like_count": 879,
-      "comment_count": 91,
-      "engagement_rate": 0.0103932283295832,
-      "topic_cluster": "OpenAI",
-      "summary": "Jev 모델의 빠른 속도와 AI 에이전트들의 발전 등 최신 AI 기술 동향을 전하며, 개인의 1인 창업 역량이 중요해지는 AI 시대의 변화를 강조합니다.",
-      "comment_signal": "Jev는 좀 다른거임 Gpt대체용이 아녀 영상은 보고 댓글 다셔",
-      "hook_type": "긴급성"
-    },
-    {
-      "video_id": "cR6rp110f50",
-      "channel_name": "조코딩 JoCoding",
-      "title": "[LIVE] Mac Studio 2대 연결해서 돌려보기 with M5 Ultra, 512GB 통합 메모리",
-      "thumbnail_url": "https://i.ytimg.com/vi/cR6rp110f50/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=cR6rp110f50",
-      "published_at": "2026-09-21T16:13:34Z",
-      "view_count": 26977,
-      "like_count": 126,
-      "comment_count": 9,
-      "engagement_rate": 0.00500426289061052,
-      "topic_cluster": "MCP",
-      "summary": "M5 Ultra 프로세서를 탑재한 맥 스튜디오 2대를 썬더볼트로 연결하여 구동한 결과, 넉넉한 통합 메모리를 바탕으로 고성능 인퍼런스 속도를 확보했음을 확인했습니다.",
-      "comment_signal": "이정도면 선방했네 생각보다 준수한데??!!",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "narpLqAekbA",
-      "channel_name": "Dan Martell",
-      "title": "Are you an AI PRO or just an AI BRO?",
-      "thumbnail_url": "https://i.ytimg.com/vi/narpLqAekbA/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=narpLqAekbA",
-      "published_at": "2026-09-21T15:03:38Z",
-      "view_count": 18159,
-      "like_count": 968,
-      "comment_count": 16,
-      "engagement_rate": 0.05418800594746407,
+      "video_id": "0t-eWrGFZyA",
+      "channel_name": "Matt Wolfe",
+      "title": "Opus 5.5 Is Crazy Good and GPT-6-Sol Launched Too",
+      "thumbnail_url": "https://i.ytimg.com/vi/0t-eWrGFZyA/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=0t-eWrGFZyA",
+      "published_at": "2026-09-22T22:30:04Z",
+      "view_count": 11643,
+      "like_count": 638,
+      "comment_count": 67,
+      "engagement_rate": 0.06055140427724813,
       "topic_cluster": "ChatGPT",
-      "summary": "AI를 단순히 소비하는 사람과 생산적으로 활용하는 전문가의 차이를 설명하며, 각 목적에 맞는 도구인 제미나이와 클로드의 올바른 활용법을 다룹니다.",
-      "comment_signal": "Dang bro I hope your arm heals quickly!",
+      "summary": "Claude Opus 5.5가 벤치마크 점수 58점으로 현재 가장 똑똑한 모델로 등극했습니다. 이전 최고 모델 대비 더 저렴한 비용으로 효율적인 작업 수행이 가능해…",
+      "comment_signal": "OpenAI hyped up tonights reveal for 2 weeks too, it was meant to come last week and if it had,…",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "9oCppy1gZpo",
-      "channel_name": "AI Samson",
-      "title": "The AI Video Workflow Nobody Is Talking About (Full Breakdown)",
-      "thumbnail_url": "https://i.ytimg.com/vi/9oCppy1gZpo/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=9oCppy1gZpo",
-      "published_at": "2026-09-21T12:15:30Z",
-      "view_count": 9259,
-      "like_count": 259,
-      "comment_count": 40,
-      "engagement_rate": 0.03229290420131763,
-      "topic_cluster": "Claude",
-      "summary": "invideo Agent 2를 활용해 캐릭터 설정부터 영상 생성까지 전 과정을 자동화한 단편 영화 제작 워크플로우를 소개하며, AI 에이전트 간 협업의 효율성을 강…",
-      "comment_signal": "I have almost finished a 30 minute episode of a 10 episode season. Planning in advance is how I…",
+      "video_id": "LR18LzCEUq8",
+      "channel_name": "Dan Martell",
+      "title": "What ACTUALLY matters when you're using AI?",
+      "thumbnail_url": "https://i.ytimg.com/vi/LR18LzCEUq8/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=LR18LzCEUq8",
+      "published_at": "2026-09-22T17:05:08Z",
+      "view_count": 10772,
+      "like_count": 426,
+      "comment_count": 8,
+      "engagement_rate": 0.040289639806906793,
+      "topic_cluster": "코딩",
+      "summary": "AI를 효과적으로 활용하는 방법과 기술적 숙련도가 AI 사용에 미치는 영향을 다룹니다.",
+      "comment_signal": "Broken hand from all that prompting",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "s5G3wR7Cuys",
+      "channel_name": "성공지식백과",
+      "title": "오픈AI 가성비 모델 GPT-6 솔 루나 등장..ㄷㄷ 가격 반값에 페이블급 성능..",
+      "thumbnail_url": "https://i.ytimg.com/vi/s5G3wR7Cuys/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=s5G3wR7Cuys",
+      "published_at": "2026-09-22T23:09:51Z",
+      "view_count": 4121,
+      "like_count": 80,
+      "comment_count": 10,
+      "engagement_rate": 0.021839359378791556,
+      "topic_cluster": "GPT-5",
+      "summary": "가성비를 높인 GPT-6 솔과 루나 모델이 출시되었습니다. Higgsfield 플러그인을 활용해 마케팅 리서치부터 광고 이미지 제작까지 자동화하는 실전 과정을 테스…",
+      "comment_signal": "현재 후기들 보면 gpt 6 sol은 업그레이드가 아니라 사실상 terra 택갈이라능 평이 많던데요?.... 실제 사용했을때 저도 그렇게 느끼고. 다른 유튜버들이 저거 나…",
       "hook_type": "문제 해결"
     }
   ]
