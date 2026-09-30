@@ -1,265 +1,267 @@
 {
-  "digest_date": "2026-09-29",
-  "generated_at": "2026-09-29T02:36:03+00:00",
-  "summary": "최근 24시간 영상 15개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'Claude'입니다. 특히 'AI뉴스 - Opus 5.5, OpenAI DevDay o, GPT-6 Sol, Muse & Meta Connect, Grok 4.7, Qwen-Image-2.1 등'는 조회수 48.7K, 참여율 0.8%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "'Claude' 주제가 3개 영상으로 가장 많이 다뤄졌습니다. Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n[내 채널] 7일 평균 68.2K회 · 지속률 31.3% / 경쟁사 평균 11.2K회 (격차 +512%)",
-  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 09/29\n\n📊 총 10개 | AI 핵심 10 · 인접 AI 0 · 일반 테크 보충 0\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 10 · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [조코딩 JoCoding] 48.7K뷰 · 참여율 0.8%\n   AI뉴스 - Opus 5.5, OpenAI DevDay o, GPT-6 Sol, Muse & Meta Connect, Grok 4.7, Q…\n   ↳ Opus 5.5, 메타의 뮤즈, 그록 4.7 등 최신 AI 모델과 로봇 기술의 발전 동향을 정리하고, 나무플러그를 활용한 개인 투자 리포트 자동화 구현 방법을 소개한다.\n   https://youtu.be/wRJSUbnRQFg\n\n2. AI 핵심 · [빌더 조쉬 Builder Josh] 18.9K뷰 · 참여율 1.0%\n   옵시디언 국내 최고 권위자가 녹음 1,400개와 노트 1만 개를 AI로 굴리는 방법 (커맨드스페이스 구요한님)\n   ↳ 옵시디언을 활용한 지식 관리 방법론을 다루며, LLM 위키와 AI 에이전트를 결합해 연구와 업무 효율을 극대화하는 볼트 운영 설계 노하우를 공유한다.\n   https://youtu.be/fc7Nt94kGrw\n\n3. AI 핵심 · [Futurepedia] 18.6K뷰 · 참여율 2.8%\n   9 Free AI Agent Skills You NEED to Install Now\n   ↳ 연구, 디자인, 영상 분석 등 작업 효율을 높이는 9가지 유용한 AI 에이전트 스킬을 소개하며, 이를 챗GPT와 클로드에서 설치하고 보안성을 검사하는 방법을 설명한다.\n   https://youtu.be/3fdb_giOrLo\n\n4. AI 핵심 · [조코딩 JoCoding] 7.5K뷰 · 참여율 0.4%\n   학력·나이·스펙 안 봅니다. 오직 AI 능력만 | AX 인재전쟁 본선 예고편 | OpenAI × 조코딩AX파트너스\n   ↳ OpenAI와 조코딩이 주최한 'AX 인재전쟁' 본선 예고편으로, 학력과 스펙을 배제하고 오직 AI 도구 활용 능력과 문제 해결 역량만을 기준으로 인재를 선발하는 과정을 보여준다.\n   https://youtu.be/YP4IFpmCQZ4\n\n5. AI 핵심 · [성공지식백과] 6.0K뷰 · 참여율 1.9%\n   다시 클로드 시대개막? 소넷 5.5 성능이 GPT 아스트라 보다 좋은듯..ㄷㄷ\n   ↳ 클로드 소넷 5.5의 성능과 가격 경쟁력을 벤치마크와 실사용 사례를 통해 분석하며, 가성비 측면에서 오퍼스 5.5 대비 우위를 점할 수 있는 활용 구간을 제시한다.\n   https://youtu.be/fj3EBZbqOQM\n\n6. AI 핵심 · [The AI Automators] 4.9K뷰 · 참여율 3.2%\n   I Tested Jev vs 12 Local Decision Models. Here's What I’d Use...\n   ↳ Jev 모델과 다양한 오픈소스 소형 모델들의 의사결정 성능을 비교 실험한 결과, Jev가 우수하지만 훨씬 가벼운 Winnow나 Decider 등의 모델도 실무에서 충분히 경쟁력 있음을 입증한다.\n   https://youtu.be/zBw5BMrlZLo\n\n7. AI 핵심 · [빌더 조쉬 Builder Josh] 1.6K뷰 · 참여율 0.7%\n   옵시디언 권위자는 왜 AI 자동화를 서두르지 않을까?\n   ↳ 지식 관리 도구인 옵시디언을 기반으로 나만의 지식 베이스를 구축하고, 복잡한 자동화보다 새로운 분야의 발산적 시도와 창의적 활용에 집중하는 것이 비즈니스에 더 가치 있다고 강조한다.\n   https://youtu.be/icAs8EvsjHU\n\n8. AI 핵심 · [빌더 조쉬 Builder Josh] 1.3K뷰 · 참여율 0.4%\n   처음 배운 날, 2주 뒤 강의를 잡았다｜옵시디언 권위자의 공부법\n   ↳ 옵시디언을 처음 접한 후 짧은 시간 안에 이를 깊게 연구하여 강의까지 이어지게 한 권위자의 학습법을 다루며, 도구 탐색 과정에서 겪은 경험을 공유한다.\n   https://youtu.be/BRVyxBtFSPA\n\n9. AI 핵심 · [Futurepedia] 442뷰 · 참여율 4.3%\n   Your AI designs look generic? Impeccable fixes that.\n   ↳ AI가 생성한 평범한 디자인을 Impeccable 도구의 24가지 명령어를 활용해 강렬한 레이아웃과 애니메이션을 추가하여 전문적인 수준으로 개선하는 방법을 시연한다.\n   https://youtu.be/4dbaUKz3c1Q\n\n10. AI 핵심 · [Matt Wolfe] 392뷰 · 참여율 1.3%\n   Jev - The New AI model that has people talking\n   ↳ 텍스트 생성이 아닌 즉각적인 의사결정(점수, 선택지 등)에 특화된 Jev 모델을 소개하며, 기존 LLM 대비 압도적으로 빠른 속도와 저렴한 비용을 핵심 장점으로 꼽는다.\n   https://youtu.be/hx42whM7NsY\n\n📈 스마트대디 어제 실적\n조회수 61.1K (↓10% vs 7일 평균) | 구독 +171\n시청 지속률 32.8% | 평균 시청 3분 56초\n경쟁사 평균 11.2K회 대비 내 7일 평균 +512%\n\n💡 VS 각도: Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
-  "video_count": 15,
-  "total_recent_video_count": 18,
+  "digest_date": "2026-09-30",
+  "generated_at": "2026-09-30T02:05:39+00:00",
+  "summary": "최근 24시간 영상 25개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'ChatGPT'입니다. 특히 '60만원 올랐는데 살만할까?! 맥미니 M6, M5 Pro, M4 직접 비교해보니 답 나왔습니다'는 조회수 102.3K, 참여율 0.8%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "'ChatGPT' 주제가 8개 영상으로 가장 많이 다뤄졌습니다. ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.\n[내 채널] 7일 평균 46.7K회 · 지속률 31.4% / 경쟁사 평균 20.6K회 (격차 +127%)",
+  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 09/30\n\n📊 총 10개 | AI 핵심 10 · 인접 AI 0 · 일반 테크 보충 0\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 10 · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [조코딩 JoCoding] 73.2K뷰 · 참여율 1.3%\n   Opus 야무지게 활용하는 꿀팁\n   ↳ 클로드 Opus 사용 시 AI가 충분히 똑똑하므로 깊이 생각하라는 식의 불필요한 문구는 제외하는 것이 좋으며, 추론 정도를 높일수록 토큰 소모가 많아진다는 점을 유의해야 합니다.\n   https://youtu.be/5QSzXaPiRtg\n\n2. AI 핵심 · [조코딩 JoCoding] 56.6K뷰 · 참여율 0.8%\n   출시하자마자 화제인 메타의 새로운 AI 에이전트\n   ↳ 메타가 새로 출시한 AI 에이전트 Muse에 대한 소개를 다루고 있습니다.\n   https://youtu.be/zuFReRRCHpI\n\n3. AI 핵심 · [Futurepedia] 53.4K뷰 · 참여율 1.5%\n   I Tested OpenAI's New Personal Assistant Agent: DOTS\n   ↳ 오픈AI의 새로운 상시 가동형 개인 비서 에이전트인 Dots를 테스트하며, 복잡한 작업을 위임하고 모션 그래픽이나 콘텐츠 제작 등 세부적인 프로젝트를 효율적으로 처리하는 성능을 확인했습니다.\n   https://youtu.be/V_1Vn2WfpEY\n\n4. AI 핵심 · [Jeff Su] 32.2K뷰 · 참여율 1.9%\n   Stop Organizing Files Yourself.\n   ↳ AI에 파일 관리 규칙을 제공하여 자동 분류 및 명명 시스템을 구축하는 방법을 설명하며, 드롭박스와 챗GPT를 연동해 영상 편집 워크플로우를 최적화하는 사례를 제시합니다.\n   https://youtu.be/peP_o66u-vM\n\n5. AI 핵심 · [조코딩 JoCoding] 27.3K뷰 · 참여율 0.6%\n   오픈AI가 곧 공개한다는 AI 에이전트와 500달러 요금제ㄷㄷ\n   ↳ 오픈AI가 챗GPT 모든 프로 티어에 에이전트를 도입하고, 셀레브라스 인프라를 기반으로 하는 월 500달러 상당의 프로맥스 요금제를 새롭게 출시할 예정임을 알렸습니다.\n   https://youtu.be/vRYP8Q1Yf4o\n\n6. AI 핵심 · [조코딩 JoCoding] 24.6K뷰 · 참여율 0.6%\n   [LIVE] OpenAI DevDay 2026 함께봐요!!\n   ↳ 오픈AI 데브데이 2026 라이브를 통해 AI 에이전트 Dots와 새로운 API 기능을 살펴보고, 소비자 시장에서 메타의 경쟁력이 주목된다는 평가를 전합니다.\n   https://youtu.be/KBlCLO7u-QY\n\n7. AI 핵심 · [조코딩 JoCoding] 21.9K뷰 · 참여율 1.6%\n   이제 사람 다 됐다는 제미나이 말하기 실력 근황 ㄷㄷ\n   ↳ 제미나이가 향상된 말하기 실력을 통해 대본의 지시에 따라 연기하거나 설명문을 기반으로 새로운 목소리를 생성하는 기능을 선보입니다.\n   https://youtu.be/QWLnCrDtyR0\n\n8. AI 핵심 · [Minimunch] 17.1K뷰 · 참여율 3.5%\n   I Tested Opus 5.5 in Unreal Engine\n   ↳ 클로드 Opus 5.5를 언리얼 엔진 환경에서 활용하여 고성능 게임 구동 및 그래픽 퍼포먼스를 테스트한 결과를 보여줍니다.\n   https://youtu.be/CL0ds5FIDC8\n\n9. AI 핵심 · [조코딩 JoCoding] 13.8K뷰 · 참여율 0.9%\n   Fable까지 압도하는 새로운 Opus의 등장 ㄷㄷ\n   ↳ 클로드 Opus가 3JS, 블렌더와 연동하여 인터랙티브한 요소나 도트 애니메이션을 제작하는 등 창의적인 작업에서 뛰어난 성능을 보여줍니다.\n   https://youtu.be/e1HtNprOOnE\n\n10. AI 핵심 · [The AI Advantage] 9.7K뷰 · 참여율 4.3%\n   ChatGPT Just Entered a New Era (How This Affects Normal People)\n   ↳ 챗GPT의 새로운 에이전트 기능인 Dots가 도입되면서 기술 파워 유저뿐만 아니라 일반인들도 24시간 실행되는 자동화 도구를 통해 생산성을 크게 높일 수 있는 새로운 시대가 열렸음을 강조합니다.\n   https://youtu.be/uapAA5hx5uI\n\n📈 스마트대디 어제 실적\n조회수 39.5K (↓15% vs 7일 평균) | 구독 +152\n시청 지속률 31.9% | 평균 시청 3분 40초\n경쟁사 평균 20.6K회 대비 내 7일 평균 +127%\n\n💡 VS 각도: ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+  "video_count": 25,
+  "total_recent_video_count": 31,
   "focus_scope": "ai_priority_then_tech_fill",
-  "average_view_count": 11153.0,
-  "average_engagement_rate": 0.02514388042816639,
-  "average_like_count": 218.0,
-  "average_comment_count": 18.0,
-  "best_video_id": "wRJSUbnRQFg",
-  "best_topic": "Claude",
+  "average_view_count": 20560.0,
+  "average_engagement_rate": 0.02101671110053722,
+  "average_like_count": 242.0,
+  "average_comment_count": 27.0,
+  "best_video_id": "UFNh8GFb9C4",
+  "best_topic": "ChatGPT",
   "summary_points": [
-    "가장 겹친 주제는 'Claude'이며 3개 영상, 평균 조회수 9.6K, 평균 참여율 2.5%입니다.",
-    "최고 실적 영상은 'AI뉴스 - Opus 5.5, OpenAI DevDay o, GPT-6 Sol, Muse & Meta Connect, Grok 4.7, Qwen-Image-2.1 등'이며 문제 해결 훅과 비교 포맷 조합이 강했습니다.",
-    "반복 노출된 툴은 Claude 5회, Arc 3회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
+    "가장 겹친 주제는 'ChatGPT'이며 8개 영상, 평균 조회수 7.4K, 평균 참여율 4.0%입니다.",
+    "최고 실적 영상은 '60만원 올랐는데 살만할까?! 맥미니 M6, M5 Pro, M4 직접 비교해보니 답 나왔습니다'이며 비교 훅과 비교 포맷 조합이 강했습니다.",
+    "반복 노출된 툴은 ChatGPT 9회, Claude 9회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
   ],
   "action_chips": [
-    "주제: Claude",
-    "훅: 문제 해결",
+    "주제: ChatGPT",
+    "훅: 비교",
     "포맷: 비교",
-    "기준 채널: 조코딩 JoCoding"
+    "기준 채널: 주연 ZUYONI"
   ],
   "title_suggestions": [
-    "Claude vs ChatGPT, 일반인이 직접 써보니 이게 달랐다",
-    "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
-    "AI 비서 대결: Claude가 진짜 강한 상황은 따로 있었다"
+    "ChatGPT vs Claude vs Gemini, 일반인 업무 실전 대결 결과",
+    "GPT 최신 버전 직접 실험 — 이전이랑 진짜 달라?",
+    "GPT 써봤더니... 기대랑 다른 점 솔직하게 다 말해봄"
   ],
   "recommendations": [
     {
-      "title": "Claude vs ChatGPT, 일반인이 직접 써보니 이게 달랐다",
+      "title": "ChatGPT vs Claude vs Gemini, 일반인 업무 실전 대결 결과",
       "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "Claude 핵심 3가지",
-      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
-      "source_video_id": "WMCwoEm076s",
-      "source": "6 AI features that are worth the money",
-      "my_channel_context": "내 7일 평균 68.2K회 · 지속률 31.3% / 경쟁사 대비 +512%"
+      "angle": "'ChatGPT'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
+      "thumbnail_copy": "ChatGPT 바로 해결",
+      "reason": "ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.",
+      "source_video_id": "peP_o66u-vM",
+      "source": "Stop Organizing Files Yourself.",
+      "my_channel_context": "내 7일 평균 46.7K회 · 지속률 31.4% / 경쟁사 대비 +127%"
     },
     {
-      "title": "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
+      "title": "GPT 최신 버전 직접 실험 — 이전이랑 진짜 달라?",
       "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "Claude 바로 해결",
-      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
-      "source_video_id": "fj3EBZbqOQM",
-      "source": "다시 클로드 시대개막? 소넷 5.5 성능이 GPT 아스트라 보다 좋은듯..ㄷㄷ",
-      "my_channel_context": "내 7일 평균 68.2K회 · 지속률 31.3% / 경쟁사 대비 +512%"
+      "angle": "'ChatGPT'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
+      "thumbnail_copy": "ChatGPT 바로 해결",
+      "reason": "ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.",
+      "source_video_id": "uapAA5hx5uI",
+      "source": "ChatGPT Just Entered a New Era (How This Affects Normal People)",
+      "my_channel_context": "내 7일 평균 46.7K회 · 지속률 31.4% / 경쟁사 대비 +127%"
     },
     {
-      "title": "AI 비서 대결: Claude가 진짜 강한 상황은 따로 있었다",
+      "title": "GPT 써봤더니... 기대랑 다른 점 솔직하게 다 말해봄",
       "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "Claude 바로 해결",
-      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
-      "source_video_id": "hx42whM7NsY",
-      "source": "Jev - The New AI model that has people talking",
-      "my_channel_context": "내 7일 평균 68.2K회 · 지속률 31.3% / 경쟁사 대비 +512%"
+      "angle": "'ChatGPT'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
+      "thumbnail_copy": "ChatGPT 바로 해결",
+      "reason": "ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.",
+      "source_video_id": "1v-UW59vw8c",
+      "source": "(오픈AI 데브데이) 한 달 500불 챗GPT 프로맥스 실화냐..ㄷㄷ",
+      "my_channel_context": "내 7일 평균 46.7K회 · 지속률 31.4% / 경쟁사 대비 +127%"
     }
   ],
   "topic_clusters": [
     {
-      "label": "Claude",
-      "count": 3,
-      "avg_view_count": 9629,
-      "avg_engagement_rate": 0.02537099688195596,
-      "avg_like_count": 345,
-      "avg_comment_count": 29,
+      "label": "ChatGPT",
+      "count": 8,
+      "avg_view_count": 7394,
+      "avg_engagement_rate": 0.03989321328699873,
+      "avg_like_count": 183,
+      "avg_comment_count": 27,
       "source_titles": [
-        "6 AI features that are worth the money",
-        "다시 클로드 시대개막? 소넷 5.5 성능이 GPT 아스트라 보다 좋은듯..ㄷㄷ",
-        "Jev - The New AI model that has people talking"
+        "Stop Organizing Files Yourself.",
+        "ChatGPT Just Entered a New Era (How This Affects Normal People)",
+        "(오픈AI 데브데이) 한 달 500불 챗GPT 프로맥스 실화냐..ㄷㄷ"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/WMCwoEm076s/hqdefault.jpg",
-      "representative_video_id": "WMCwoEm076s",
-      "representative_title": "6 AI features that are worth the money"
+      "thumbnail_url": "https://i.ytimg.com/vi/peP_o66u-vM/hqdefault.jpg",
+      "representative_video_id": "peP_o66u-vM",
+      "representative_title": "Stop Organizing Files Yourself."
     },
     {
       "label": "OpenAI",
-      "count": 2,
-      "avg_view_count": 28140,
-      "avg_engagement_rate": 0.005800909995132953,
-      "avg_like_count": 191,
-      "avg_comment_count": 18,
-      "source_titles": [
-        "AI뉴스 - Opus 5.5, OpenAI DevDay o, GPT-6 Sol, Muse & Meta Connect, Grok 4.7, Qwen-Image-2.1 등",
-        "학력·나이·스펙 안 봅니다. 오직 AI 능력만 | AX 인재전쟁 본선 예고편 | OpenAI × 조코딩AX파트너스"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/wRJSUbnRQFg/hqdefault.jpg",
-      "representative_video_id": "wRJSUbnRQFg",
-      "representative_title": "AI뉴스 - Opus 5.5, OpenAI DevDay o, GPT-6 Sol, Muse & Meta Connect, Grok 4.7, Qwen-Image-2.1 등"
-    },
-    {
-      "label": "ChatGPT",
-      "count": 2,
-      "avg_view_count": 9526,
-      "avg_engagement_rate": 0.03540971366371905,
-      "avg_like_count": 238,
+      "count": 4,
+      "avg_view_count": 29784,
+      "avg_engagement_rate": 0.009131783904412912,
+      "avg_like_count": 285,
       "avg_comment_count": 30,
       "source_titles": [
-        "9 Free AI Agent Skills You NEED to Install Now",
-        "Your AI designs look generic? Impeccable fixes that."
+        "I Tested OpenAI's New Personal Assistant Agent: DOTS",
+        "오픈AI가 곧 공개한다는 AI 에이전트와 500달러 요금제ㄷㄷ",
+        "[LIVE] OpenAI DevDay 2026 함께봐요!!"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/3fdb_giOrLo/hqdefault.jpg",
-      "representative_video_id": "3fdb_giOrLo",
-      "representative_title": "9 Free AI Agent Skills You NEED to Install Now"
+      "thumbnail_url": "https://i.ytimg.com/vi/V_1Vn2WfpEY/hqdefault.jpg",
+      "representative_video_id": "V_1Vn2WfpEY",
+      "representative_title": "I Tested OpenAI's New Personal Assistant Agent: DOTS"
     },
     {
-      "label": "자동화",
+      "label": "agents",
       "count": 2,
-      "avg_view_count": 3242,
-      "avg_engagement_rate": 0.04037044953169011,
-      "avg_like_count": 180,
-      "avg_comment_count": 5,
+      "avg_view_count": 36472,
+      "avg_engagement_rate": 0.009196237129140238,
+      "avg_like_count": 292,
+      "avg_comment_count": 20,
       "source_titles": [
-        "Do you know how many millionaires will be created because of AI?",
-        "옵시디언 권위자는 왜 AI 자동화를 서두르지 않을까?"
+        "출시하자마자 화제인 메타의 새로운 AI 에이전트",
+        "국채금리 역대급 상승에도... 신고점 간다는 월가의 '4가지' 이유"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/qjW0OIAuL24/hqdefault.jpg",
-      "representative_video_id": "qjW0OIAuL24",
-      "representative_title": "Do you know how many millionaires will be created because of AI?"
+      "thumbnail_url": "https://i.ytimg.com/vi/zuFReRRCHpI/hqdefault.jpg",
+      "representative_video_id": "zuFReRRCHpI",
+      "representative_title": "출시하자마자 화제인 메타의 새로운 AI 에이전트"
     },
     {
-      "label": "Gemini",
-      "count": 1,
-      "avg_view_count": 19898,
-      "avg_engagement_rate": 0.011609206955472911,
-      "avg_like_count": 184,
-      "avg_comment_count": 47,
+      "label": "Claude",
+      "count": 2,
+      "avg_view_count": 10184,
+      "avg_engagement_rate": 0.020759096545331954,
+      "avg_like_count": 258,
+      "avg_comment_count": 52,
       "source_titles": [
-        "추석 연휴 조용히 묻힌, 삼성 냉장고에 벌어진 일... 업데이트 후 명절 음식 녹기 시작했다 | 삼성 업데이트 사고로 본 스마트 가전의 약점"
+        "I Tested Opus 5.5 in Unreal Engine",
+        "누가 영상을 더 잘 만들까? 클로드 Opus 5.5 vs GPT 6 아스트라"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/8CCRqJjxI6Q/hqdefault.jpg",
-      "representative_video_id": "8CCRqJjxI6Q",
-      "representative_title": "추석 연휴 조용히 묻힌, 삼성 냉장고에 벌어진 일... 업데이트 후 명절 음식 녹기 시작했다 | 삼성 업데이트 사고로 본 스마트 가전의 약점"
-    },
-    {
-      "label": "MCP",
-      "count": 1,
-      "avg_view_count": 18855,
-      "avg_engagement_rate": 0.009758684699018827,
-      "avg_like_count": 167,
-      "avg_comment_count": 17,
-      "source_titles": [
-        "옵시디언 국내 최고 권위자가 녹음 1,400개와 노트 1만 개를 AI로 굴리는 방법 (커맨드스페이스 구요한님)"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/fc7Nt94kGrw/hqdefault.jpg",
-      "representative_video_id": "fc7Nt94kGrw",
-      "representative_title": "옵시디언 국내 최고 권위자가 녹음 1,400개와 노트 1만 개를 AI로 굴리는 방법 (커맨드스페이스 구요한님)"
-    },
-    {
-      "label": "AI도구활용",
-      "count": 1,
-      "avg_view_count": 7067,
-      "avg_engagement_rate": 0.06452525824253573,
-      "avg_like_count": 453,
-      "avg_comment_count": 3,
-      "source_titles": [
-        "Books you NEED to study (young entrepreneurs)"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/r9-5TypfgLY/hqdefault.jpg",
-      "representative_video_id": "r9-5TypfgLY",
-      "representative_title": "Books you NEED to study (young entrepreneurs)"
+      "thumbnail_url": "https://i.ytimg.com/vi/CL0ds5FIDC8/hqdefault.jpg",
+      "representative_video_id": "CL0ds5FIDC8",
+      "representative_title": "I Tested Opus 5.5 in Unreal Engine"
     },
     {
       "label": "Arc",
-      "count": 1,
-      "avg_view_count": 4878,
-      "avg_engagement_rate": 0.03198031980319803,
-      "avg_like_count": 147,
-      "avg_comment_count": 9,
+      "count": 2,
+      "avg_view_count": 1345,
+      "avg_engagement_rate": 0.016351438286922156,
+      "avg_like_count": 20,
+      "avg_comment_count": 6,
       "source_titles": [
-        "I Tested Jev vs 12 Local Decision Models. Here's What I’d Use..."
+        "Can AI Predict The Future? - Sikt Intelligence (my new startup)",
+        "3 Ways a Decision Model Makes Your RAG Agent Better"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/zBw5BMrlZLo/hqdefault.jpg",
-      "representative_video_id": "zBw5BMrlZLo",
-      "representative_title": "I Tested Jev vs 12 Local Decision Models. Here's What I’d Use..."
+      "thumbnail_url": "https://i.ytimg.com/vi/IwTjR3qv5LE/hqdefault.jpg",
+      "representative_video_id": "IwTjR3qv5LE",
+      "representative_title": "Can AI Predict The Future? - Sikt Intelligence (my new startup)"
+    },
+    {
+      "label": "60만원",
+      "count": 1,
+      "avg_view_count": 102318,
+      "avg_engagement_rate": 0.007506010672608925,
+      "avg_like_count": 640,
+      "avg_comment_count": 128,
+      "source_titles": [
+        "60만원 올랐는데 살만할까?! 맥미니 M6, M5 Pro, M4 직접 비교해보니 답 나왔습니다"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/UFNh8GFb9C4/hqdefault.jpg",
+      "representative_video_id": "UFNh8GFb9C4",
+      "representative_title": "60만원 올랐는데 살만할까?! 맥미니 M6, M5 Pro, M4 직접 비교해보니 답 나왔습니다"
+    },
+    {
+      "label": "Opus",
+      "count": 1,
+      "avg_view_count": 73177,
+      "avg_engagement_rate": 0.013378520573404211,
+      "avg_like_count": 948,
+      "avg_comment_count": 31,
+      "source_titles": [
+        "Opus 야무지게 활용하는 꿀팁"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/5QSzXaPiRtg/hqdefault.jpg",
+      "representative_video_id": "5QSzXaPiRtg",
+      "representative_title": "Opus 야무지게 활용하는 꿀팁"
+    },
+    {
+      "label": "엔비디아",
+      "count": 1,
+      "avg_view_count": 35163,
+      "avg_engagement_rate": 0.009726132582544152,
+      "avg_like_count": 318,
+      "avg_comment_count": 24,
+      "source_titles": [
+        "엔비디아 없이 AI 칩 가능한가? GPU·TPU·xPU 경쟁 속 진짜 셈법 분석"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/Ez4Su9C-uiQ/hqdefault.jpg",
+      "representative_video_id": "Ez4Su9C-uiQ",
+      "representative_title": "엔비디아 없이 AI 칩 가능한가? GPU·TPU·xPU 경쟁 속 진짜 셈법 분석"
     }
   ],
   "video_highlights": [
     {
-      "video_id": "wRJSUbnRQFg",
+      "video_id": "UFNh8GFb9C4",
+      "channel_name": "주연 ZUYONI",
+      "title": "60만원 올랐는데 살만할까?! 맥미니 M6, M5 Pro, M4 직접 비교해보니 답 나왔습니다",
+      "thumbnail_url": "https://i.ytimg.com/vi/UFNh8GFb9C4/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=UFNh8GFb9C4",
+      "published_at": "2026-09-29T10:00:04Z",
+      "view_count": 102318,
+      "like_count": 640,
+      "comment_count": 128,
+      "engagement_rate": 0.007506010672608925,
+      "topic_cluster": "60만원",
+      "summary": "로컬 LLM을 실제로 돌릴 때는 GPU 성능뿐 아니라 통합 메모리 용량 그리고 메모리 대역폭이 되게 중요해지거든요. 그래서 같은 모델을 M6와 M5프에서 직접 돌려…",
+      "comment_signal": "나혼자 M6 담고.. 나혼자 512담아보고.. 나혼자 렘도 넣었다가 뺐다가 보태보태해보고..나혼자서 울고불고🎶 벤치마크, 영상편집, LLM까지 싹 다 돌려봤습니다🙌 여러분…",
+      "hook_type": "비교"
+    },
+    {
+      "video_id": "5QSzXaPiRtg",
       "channel_name": "조코딩 JoCoding",
-      "title": "AI뉴스 - Opus 5.5, OpenAI DevDay o, GPT-6 Sol, Muse & Meta Connect, Grok 4.7, Qwen-Image-2.1 등",
-      "thumbnail_url": "https://i.ytimg.com/vi/wRJSUbnRQFg/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=wRJSUbnRQFg",
-      "published_at": "2026-09-28T13:00:18Z",
-      "view_count": 48736,
-      "like_count": 358,
-      "comment_count": 33,
-      "engagement_rate": 0.008022816808929745,
-      "topic_cluster": "OpenAI",
-      "summary": "Opus 5.5, 메타의 뮤즈, 그록 4.7 등 최신 AI 모델과 로봇 기술의 발전 동향을 정리하고, 나무플러그를 활용한 개인 투자 리포트 자동화 구현 방법을 소개…",
-      "comment_signal": "아니 형들 자제하기로 한거 아니였어?",
+      "title": "Opus 야무지게 활용하는 꿀팁",
+      "thumbnail_url": "https://i.ytimg.com/vi/5QSzXaPiRtg/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=5QSzXaPiRtg",
+      "published_at": "2026-09-29T09:00:35Z",
+      "view_count": 73177,
+      "like_count": 948,
+      "comment_count": 31,
+      "engagement_rate": 0.013378520573404211,
+      "topic_cluster": "Opus",
+      "summary": "클로드 Opus 사용 시 AI가 충분히 똑똑하므로 깊이 생각하라는 식의 불필요한 문구는 제외하는 것이 좋으며, 추론 정도를 높일수록 토큰 소모가 많아진다는 점을 유…",
+      "comment_signal": "effort 낮췄다가 쓸데없이 여러번 삽질한 경우(high로 놓으면 한방에 될 거)가 있어서 아직 좀 조심스럽기 함...",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "WMCwoEm076s",
-      "channel_name": "Dan Martell",
-      "title": "6 AI features that are worth the money",
-      "thumbnail_url": "https://i.ytimg.com/vi/WMCwoEm076s/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=WMCwoEm076s",
-      "published_at": "2026-09-28T11:02:17Z",
-      "view_count": 22476,
-      "like_count": 939,
-      "comment_count": 63,
-      "engagement_rate": 0.044580886278697274,
-      "topic_cluster": "Claude",
-      "summary": "비즈니스 효율을 높이고 운영 체제에 통합할 수 있는 6가지 가치 있는 AI 기능을 소개한다.",
-      "comment_signal": "Bro went back to Claude💀",
-      "hook_type": "수익"
-    },
-    {
-      "video_id": "8CCRqJjxI6Q",
-      "channel_name": "안될공학 - IT 테크 신기술",
-      "title": "추석 연휴 조용히 묻힌, 삼성 냉장고에 벌어진 일... 업데이트 후 명절 음식 녹기 시작했다 | 삼성 업데이트 사고로 본 스마트 가전의 약점",
-      "thumbnail_url": "https://i.ytimg.com/vi/8CCRqJjxI6Q/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=8CCRqJjxI6Q",
-      "published_at": "2026-09-28T11:09:09Z",
-      "view_count": 19898,
-      "like_count": 184,
-      "comment_count": 47,
-      "engagement_rate": 0.011609206955472911,
-      "topic_cluster": "Gemini",
-      "summary": "삼성 냉장고의 소프트웨어 업데이트 오류로 발생한 냉각 문제 사례를 통해, 스마트 가전 업데이트의 위험성과 실패 시 복구 체계 및 배포 방식의 중요성을 논한다.",
-      "comment_signal": "냉장 냉동 기능에 기본적인 페일세이프도 없다는 게 충격적이네요 인력이 없나...?",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "fc7Nt94kGrw",
-      "channel_name": "빌더 조쉬 Builder Josh",
-      "title": "옵시디언 국내 최고 권위자가 녹음 1,400개와 노트 1만 개를 AI로 굴리는 방법 (커맨드스페이스 구요한님)",
-      "thumbnail_url": "https://i.ytimg.com/vi/fc7Nt94kGrw/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=fc7Nt94kGrw",
-      "published_at": "2026-09-28T05:03:42Z",
-      "view_count": 18855,
-      "like_count": 167,
-      "comment_count": 17,
-      "engagement_rate": 0.009758684699018827,
-      "topic_cluster": "MCP",
-      "summary": "옵시디언을 활용한 지식 관리 방법론을 다루며, LLM 위키와 AI 에이전트를 결합해 연구와 업무 효율을 극대화하는 볼트 운영 설계 노하우를 공유한다.",
-      "comment_signal": "국내 최고 권위자…?",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "3fdb_giOrLo",
-      "channel_name": "Futurepedia",
-      "title": "9 Free AI Agent Skills You NEED to Install Now",
-      "thumbnail_url": "https://i.ytimg.com/vi/3fdb_giOrLo/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=3fdb_giOrLo",
-      "published_at": "2026-09-28T16:27:23Z",
-      "view_count": 18611,
-      "like_count": 459,
-      "comment_count": 59,
-      "engagement_rate": 0.027833001988071572,
-      "topic_cluster": "ChatGPT",
-      "summary": "연구, 디자인, 영상 분석 등 작업 효율을 높이는 9가지 유용한 AI 에이전트 스킬을 소개하며, 이를 챗GPT와 클로드에서 설치하고 보안성을 검사하는 방법을 설명한…",
-      "comment_signal": "*Claude Skills Guide:* https://clickhubspot.com/iix3",
+      "video_id": "zuFReRRCHpI",
+      "channel_name": "조코딩 JoCoding",
+      "title": "출시하자마자 화제인 메타의 새로운 AI 에이전트",
+      "thumbnail_url": "https://i.ytimg.com/vi/zuFReRRCHpI/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=zuFReRRCHpI",
+      "published_at": "2026-09-29T08:00:15Z",
+      "view_count": 56626,
+      "like_count": 434,
+      "comment_count": 21,
+      "engagement_rate": 0.00803517818669869,
+      "topic_cluster": "agents",
+      "summary": "메타가 새로 출시한 AI 에이전트 Muse에 대한 소개를 다루고 있습니다.",
+      "comment_signal": "커뮤니티의 중유성",
       "hook_type": "긴급성"
+    },
+    {
+      "video_id": "V_1Vn2WfpEY",
+      "channel_name": "Futurepedia",
+      "title": "I Tested OpenAI's New Personal Assistant Agent: DOTS",
+      "thumbnail_url": "https://i.ytimg.com/vi/V_1Vn2WfpEY/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=V_1Vn2WfpEY",
+      "published_at": "2026-09-29T18:31:54Z",
+      "view_count": 53413,
+      "like_count": 740,
+      "comment_count": 81,
+      "engagement_rate": 0.015370789882612847,
+      "topic_cluster": "OpenAI",
+      "summary": "오픈AI의 새로운 상시 가동형 개인 비서 에이전트인 Dots를 테스트하며, 복잡한 작업을 위임하고 모션 그래픽이나 콘텐츠 제작 등 세부적인 프로젝트를 효율적으로 처…",
+      "comment_signal": "It will be good if you can make an episode to compare: Muse, Grok Bot, Gemini Spark and Dots. T…",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "Ez4Su9C-uiQ",
+      "channel_name": "안될공학 - IT 테크 신기술",
+      "title": "엔비디아 없이 AI 칩 가능한가? GPU·TPU·xPU 경쟁 속 진짜 셈법 분석",
+      "thumbnail_url": "https://i.ytimg.com/vi/Ez4Su9C-uiQ/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=Ez4Su9C-uiQ",
+      "published_at": "2026-09-29T10:00:34Z",
+      "view_count": 35163,
+      "like_count": 318,
+      "comment_count": 24,
+      "engagement_rate": 0.009726132582544152,
+      "topic_cluster": "엔비디아",
+      "summary": "이번에는 그 가운데에 있는 GPU가 고객의 자체 XPU로 바뀌어도 그 주변에 엔비디아 기술을 남길 수 있는지를 보는 건데요. 물론 모든 회사가이 방법을 선택하는 건…",
+      "comment_signal": "갈수록 예뻐지시네 ㄷㄷ",
+      "hook_type": "솔직 검증"
     }
   ]
 }
