@@ -1,264 +1,251 @@
 {
-  "digest_date": "2026-10-01",
-  "generated_at": "2026-10-01T02:04:32+00:00",
-  "summary": "최근 24시간 영상 22개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'Claude'입니다. 특히 'My reaction to how much you're spending on AI'는 조회수 61.1K, 참여율 1.6%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "'Claude' 주제가 7개 영상으로 가장 많이 다뤄졌습니다. Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n[내 채널] 7일 평균 43.3K회 · 지속률 31.4% / 경쟁사 평균 14.8K회 (격차 +193%)",
-  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 10/01\n\n📊 총 10개 | AI 핵심 10 · 인접 AI 0 · 일반 테크 보충 0\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 10 · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [조코딩 JoCoding] 37.6K뷰 · 참여율 0.5%\n   다 쓰면 대출해준다는 클로드 근황\n   ↳ 클로드 사용량 제한 시 작업을 중단하지 않도록 중단 지점을 자동으로 찾아주는 기능이 추가되었습니다.\n   https://youtu.be/5_q01QSN0lY\n\n2. AI 핵심 · [조코딩 JoCoding] 26.7K뷰 · 참여율 0.9%\n   앱스토어 다음은 플러그인 스토어?\n   ↳ 클로드 내에서 플러그인을 개발 및 출시할 수 있는 시스템이 도입되어, 앱스토어처럼 플러그인 설치 현황과 사용량을 확인할 수 있게 되었습니다.\n   https://youtu.be/o0fuBWCl6Pg\n\n3. AI 핵심 · [조코딩 JoCoding] 19.0K뷰 · 참여율 0.6%\n   데이터 센터를 쏘아 올리겠다는 구글의 야심찬 계획\n   ↳ 구글의 프로젝트 '선캐처'는 우주 공간에 데이터 센터를 구축하여 태양 에너지를 직접 활용함으로써 에너지 효율을 극대화하고 비용을 절감하는 계획을 추진 중입니다.\n   https://youtu.be/im_iQFgKf64\n\n4. AI 핵심 · [The AI Advantage] 18.8K뷰 · 참여율 1.4%\n   ChatGPT Dots: How I Spent My First 24 Hours\n   ↳ 오픈AI의 새로운 비서 기능인 'ChatGPT Dots'는 기존 플러그인 및 커넥터를 활용해 사용자의 업무 맥락을 파악하고 비서 업무를 능동적으로 수행합니다.\n   https://youtu.be/db1KRJQEt8w\n\n5. AI 핵심 · [성공지식백과] 18.2K뷰 · 참여율 1.3%\n   구글 극비모델 제미나이 4 아르곤.. 아스트라 페이블 씹어먹는 성능.. ㄷㄷ\n   ↳ 구글의 신규 모델 '제미나이 4 아르곤'은 기업용 사무 자동화와 사이버 보안 방어에 특화되었으며, 벤치마크 테스트에서 기존 모델 대비 향상된 성능을 입증했습니다.\n   https://youtu.be/b4_Tk5zlGuI\n\n6. AI 핵심 · [빌더 조쉬 Builder Josh] 17.3K뷰 · 참여율 0.8%\n   월 1억 광고비를 AI가 굴립니다, 하루 10개 소재 만들고 1시간마다 끄고 켜는 방법 (퍼널랩스 엘런님)\n   ↳ Claude Code를 활용해 사주 AI 서비스를 3주 만에 런칭한 사례로, AI가 광고 소재 제작부터 예산 조절까지 자동 집행하여 효율적인 마케팅을 실현하는 방식을 소개합니다.\n   https://youtu.be/deZOQOoXN10\n\n7. AI 핵심 · [조코딩 JoCoding] 16.5K뷰 · 참여율 0.7%\n   5,300명 중 단 1명, 기업이 고른 AI 인재는 누구였을까 | AX 인재전쟁 본선 풀영상 | OpenAI × 조코딩AX파트너스\n   ↳ 조코딩AX파트너스가 주최한 인재 선발전 본선에서 60명의 참가자가 AI 도구를 활용해 기업 실무 문제를 해결하고 최종 6명의 도메인 챔피언이 선정되었습니다.\n   https://youtu.be/1eyDhaKx--w\n\n8. AI 핵심 · [tef] 12.7K뷰 · 참여율 6.4%\n   Making a Open World RPG with AI [2]\n   ↳ Claude Opus 5.5, Tripo 3D, Higgsfield API를 활용하여 오픈월드 RPG 게임의 캐릭터 보스전과 리소스 개발 과정을 진행했습니다.\n   https://youtu.be/ArLImWcY3P4\n\n9. AI 핵심 · [성공지식백과] 10.7K뷰 · 참여율 0.7%\n   GPT 아스트라 vs 클로드 오퍼스 영상퀄리티 끝장대결.. ㄷㄷ\n   ↳ GPT와 클로드에 아트리스트 MCP를 연동하여 시댄스 2.5 기반의 애니메이션 제작 퀄리티를 비교 분석하고, 효율적인 영상 제작 워크플로우를 검증했습니다.\n   https://youtu.be/aUaM75NSJ7U\n\n10. AI 핵심 · [Jeff Su] 8.8K뷰 · 참여율 2.7%\n   Microsoft’s plan to win the AI race, explained\n   ↳ 마이크로소프트의 코파일럿 전략은 사용자의 작업 맥락을 분석하는 'Work IQ'와 업무 적합도에 따라 여러 AI 모델을 자유롭게 선택할 수 있는 기능을 강조합니다.\n   https://youtu.be/VXuN2iMwzqI\n\n📈 스마트대디 어제 실적\n조회수 26.9K (↓38% vs 7일 평균) | 구독 +95\n시청 지속률 30.9% | 평균 시청 3분 25초\n경쟁사 평균 14.8K회 대비 내 7일 평균 +193%\n\n💡 VS 각도: Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
-  "video_count": 22,
-  "total_recent_video_count": 24,
+  "digest_date": "2026-10-02",
+  "generated_at": "2026-10-02T02:11:47+00:00",
+  "summary": "최근 24시간 영상 15개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'OpenAI'입니다. 특히 '모르면 손해인 클로드의 무료 크레딧 ㄷㄷ'는 조회수 67.9K, 참여율 0.9%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "'OpenAI' 주제가 2개 영상으로 가장 많이 다뤄졌습니다. 일반인 관점 직접 실험 or VS 비교 각도로 차별화할 영역이 있습니다.\n[내 채널] 7일 평균 36.5K회 · 지속률 31.3% / 경쟁사 평균 18.6K회 (격차 +96%)",
+  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 10/02\n\n📊 총 10개 | AI 핵심 10 · 인접 AI 0 · 일반 테크 보충 0\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 10 · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [조코딩 JoCoding] 67.9K뷰 · 참여율 0.9%\n   모르면 손해인 클로드의 무료 크레딧 ㄷㄷ\n   ↳ 클로드(Claude) 사용자들은 설정 메뉴에서 '슬래시플레임(slashflame)' 크레딧을 입력하여 무료로 크레딧을 제공받을 수 있다.\n   https://youtu.be/sE9sLmvuRAg\n\n2. AI 핵심 · [AI Explained] 42.2K뷰 · 참여율 4.1%\n   OpenAI Security: Controlling Models is Now ‘Hell’\n   ↳ AI 모델의 자율적 자기 개선(RSI) 위험성과 보안 취약점이 부각되는 가운데, OpenAI가 제안한 새로운 안전 대책과 모델이 타사 시스템을 해킹하는 사고 사례 등을 통해 AI 통제의 어려움을 분석한다.\n   https://youtu.be/_rtp1XzaP6Q\n\n3. AI 핵심 · [조코딩 JoCoding] 21.7K뷰 · 참여율 0.5%\n   🚨 이미 인터넷은 AI에 다 털렸다??\n   ↳ AI를 활용한 해킹 위협이 실생활과 인터넷 환경 전반에 걸쳐 광범위하게 발생할 가능성을 경고하며 보안 인식의 중요성을 강조한다.\n   https://youtu.be/9A-mMgMzzdY\n\n4. AI 핵심 · [조코딩 JoCoding] 13.1K뷰 · 참여율 1.1%\n   git에서 파일을 날려도 안전한 이유\n   ↳ Git은 각 커밋 기록을 사슬처럼 연결하고 수정된 파일만 별도의 상자로 관리하는 구조를 갖추고 있어, 파일을 삭제하거나 변경해도 데이터가 손실되지 않고 복구 가능한 상태로 안전하게 유지된다.\n   https://youtu.be/CIjvQ1uGkGA\n\n5. AI 핵심 · [조코딩 JoCoding] 11.8K뷰 · 참여율 1.4%\n   감정표현이 남다른 새로운 TTS 등장, fish audio Drama3\n   ↳ 피시 오디오(Fish Audio)에서 출시한 'Drama3'는 사용자 지시에 따라 세밀한 감정 표현이 가능한 새로운 TTS 모델이다.\n   https://youtu.be/3iXHvrKVY24\n\n6. AI 핵심 · [조코딩 JoCoding] 11.4K뷰 · 참여율 0.9%\n   0.1+0.2 는 0.3이 아닙니다\n   ↳ 컴퓨터는 부동소수점 방식을 사용하여 숫자를 저장하므로 0.1+0.2와 같은 계산 시 미세한 오차가 발생하며, 정밀한 계산이 필요한 경우에는 정수나 별도의 데시멀 방식을 사용해야 한다.\n   https://youtu.be/MJ-5MfSqAII\n\n7. AI 핵심 · [조코딩 JoCoding] 11.0K뷰 · 참여율 0.4%\n   5300명 중 단 1명, AI 해커톤 최종 우승자는 누굴까? | AX 인재전쟁 우승 인터뷰 | OpenAI × 조코딩AX파트너스\n   ↳ AX 인재전쟁 우승자는 AI의 일반적인 추천 기능보다 신뢰 확보를 위한 문제 정의에 집중했으며, 실제 사용자의 검증 후기를 AI로 분석하여 예약으로 이어지게 한 프로덕트 구현 능력을 인정받았다.\n   https://youtu.be/oYcCa3dVfnY\n\n8. AI 핵심 · [빌더 조쉬 Builder Josh] 4.3K뷰 · 참여율 0.6%\n   월 1억 광고비, 사람 대신 AI가 매일 집행합니다\n   ↳ AI 에이전트를 도입하여 일일 광고 소재 제작과 실시간 효율 최적화를 자동화함으로써 사람이 직접 개입하지 않고도 효율적인 광고 집행이 가능해졌다.\n   https://youtu.be/A6yGcmw6cXQ\n\n9. AI 핵심 · [빌더 조쉬 Builder Josh] 1.5K뷰 · 참여율 0.5%\n   계약 0건 \"잘못 뽑았다\"던 텔레마케터, 월 천만 원 벌기까지\n   ↳ 영업 실적이 저조했던 텔레마케터가 수천 개의 대본을 작성하고 지속적인 분석과 실행을 반복하는 노력 끝에 월 수익 천만 원을 달성한 사례를 보여준다.\n   https://youtu.be/_e4UA99S5KM\n\n10. AI 핵심 · [성공지식백과] 1.4K뷰 · 참여율 3.9%\n   1주일안에 AI 회사들한테 400만원 받는법.. ㄷㄷ\n   ↳ ChatGPT Pro 사용자는 코덱스(Codex) 크레딧을 확인하고, 클로드 Pro 사용자들은 설정 내 사용량 메뉴에서 기한 내에 크레딧을 신청하여 AI 코딩 작업 시 비용 지원을 받을 수 있다.\n   https://youtu.be/_lhDEEOmftU\n\n📈 스마트대디 어제 실적\n조회수 18.7K (↓49% vs 7일 평균) | 구독 +39\n시청 지속률 29.7% | 평균 시청 3분 10초\n경쟁사 평균 18.6K회 대비 내 7일 평균 +96%\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+  "video_count": 15,
+  "total_recent_video_count": 26,
   "focus_scope": "ai_priority_then_tech_fill",
-  "average_view_count": 14768.0,
-  "average_engagement_rate": 0.016560573332051066,
-  "average_like_count": 194.0,
-  "average_comment_count": 23.0,
-  "best_video_id": "Q7Ira3MLyRM",
-  "best_topic": "Claude",
+  "average_view_count": 18615.0,
+  "average_engagement_rate": 0.019894388782507426,
+  "average_like_count": 275.0,
+  "average_comment_count": 34.0,
+  "best_video_id": "sE9sLmvuRAg",
+  "best_topic": "OpenAI",
   "summary_points": [
-    "가장 겹친 주제는 'Claude'이며 7개 영상, 평균 조회수 19.0K, 평균 참여율 2.2%입니다.",
-    "최고 실적 영상은 'My reaction to how much you're spending on AI'이며 문제 해결 훅과 뉴스 분석 포맷 조합이 강했습니다.",
-    "반복 노출된 툴은 Claude 8회, ChatGPT 5회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
+    "가장 겹친 주제는 'OpenAI'이며 2개 영상, 평균 조회수 34.5K, 평균 참여율 0.6%입니다.",
+    "최고 실적 영상은 '모르면 손해인 클로드의 무료 크레딧 ㄷㄷ'이며 문제 해결 훅과 빌드 데모 포맷 조합이 강했습니다.",
+    "반복 노출된 툴은 ChatGPT 2회, Claude 2회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
   ],
   "action_chips": [
-    "주제: Claude",
+    "주제: OpenAI",
     "훅: 문제 해결",
-    "포맷: 뉴스 분석",
-    "기준 채널: Dan Martell"
+    "포맷: 빌드 데모",
+    "기준 채널: 조코딩 JoCoding"
   ],
   "title_suggestions": [
-    "Claude vs ChatGPT, 일반인이 직접 써보니 이게 달랐다",
-    "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
-    "AI 비서 대결: Claude가 진짜 강한 상황은 따로 있었다"
+    "OpenAI 직접 실험 — 이게 진짜 되나?",
+    "OpenAI vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
+    "OpenAI 써봤더니... (기대 vs 현실 솔직 후기)"
   ],
   "recommendations": [
     {
-      "title": "Claude vs ChatGPT, 일반인이 직접 써보니 이게 달랐다",
-      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "Claude 바로 해결",
-      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
-      "source_video_id": "Q7Ira3MLyRM",
-      "source": "My reaction to how much you're spending on AI",
-      "my_channel_context": "내 7일 평균 43.3K회 · 지속률 31.4% / 경쟁사 대비 +193%"
+      "title": "OpenAI 직접 실험 — 이게 진짜 되나?",
+      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
+      "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
+      "thumbnail_copy": "OpenAI 바로 해결",
+      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
+      "source_video_id": "w7b_oqMVJEg",
+      "source": "AI 경쟁은 이제... 새로운 플랫폼 경쟁으로... 애플, 구글에서 벗어난 메타의 안경부터 OpenAI의 작업 공간까지… AI 기업들이 일상을 파고드는 이유",
+      "my_channel_context": "내 7일 평균 36.5K회 · 지속률 31.3% / 경쟁사 대비 +96%"
     },
     {
-      "title": "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
-      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "Claude 바로 해결",
-      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
-      "source_video_id": "b4_Tk5zlGuI",
-      "source": "구글 극비모델 제미나이 4 아르곤.. 아스트라 페이블 씹어먹는 성능.. ㄷㄷ",
-      "my_channel_context": "내 7일 평균 43.3K회 · 지속률 31.4% / 경쟁사 대비 +193%"
-    },
-    {
-      "title": "AI 비서 대결: Claude가 진짜 강한 상황은 따로 있었다",
-      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "Claude 핵심 3가지",
-      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
-      "source_video_id": "deZOQOoXN10",
-      "source": "월 1억 광고비를 AI가 굴립니다, 하루 10개 소재 만들고 1시간마다 끄고 켜는 방법 (퍼널랩스 엘런님)",
-      "my_channel_context": "내 7일 평균 43.3K회 · 지속률 31.4% / 경쟁사 대비 +193%"
+      "title": "OpenAI vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
+      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
+      "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
+      "thumbnail_copy": "OpenAI 바로 해결",
+      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
+      "source_video_id": "oYcCa3dVfnY",
+      "source": "5300명 중 단 1명, AI 해커톤 최종 우승자는 누굴까? | AX 인재전쟁 우승 인터뷰 | OpenAI × 조코딩AX파트너스",
+      "my_channel_context": "내 7일 평균 36.5K회 · 지속률 31.3% / 경쟁사 대비 +96%"
     }
   ],
   "topic_clusters": [
     {
-      "label": "Claude",
-      "count": 7,
-      "avg_view_count": 18995,
-      "avg_engagement_rate": 0.022128887619387704,
-      "avg_like_count": 316,
-      "avg_comment_count": 50,
-      "source_titles": [
-        "My reaction to how much you're spending on AI",
-        "구글 극비모델 제미나이 4 아르곤.. 아스트라 페이블 씹어먹는 성능.. ㄷㄷ",
-        "월 1억 광고비를 AI가 굴립니다, 하루 10개 소재 만들고 1시간마다 끄고 켜는 방법 (퍼널랩스 엘런님)"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/Q7Ira3MLyRM/hqdefault.jpg",
-      "representative_video_id": "Q7Ira3MLyRM",
-      "representative_title": "My reaction to how much you're spending on AI"
-    },
-    {
       "label": "OpenAI",
-      "count": 5,
-      "avg_view_count": 8733,
-      "avg_engagement_rate": 0.009191543084191851,
-      "avg_like_count": 86,
-      "avg_comment_count": 9,
+      "count": 2,
+      "avg_view_count": 34549,
+      "avg_engagement_rate": 0.006030500787407994,
+      "avg_like_count": 234,
+      "avg_comment_count": 22,
       "source_titles": [
-        "ChatGPT Dots: How I Spent My First 24 Hours",
-        "5,300명 중 단 1명, 기업이 고른 AI 인재는 누구였을까 | AX 인재전쟁 본선 풀영상 | OpenAI × 조코딩AX파트너스",
-        "OpenAI Just Had a Massive Day (The Good and The Ugly)"
+        "AI 경쟁은 이제... 새로운 플랫폼 경쟁으로... 애플, 구글에서 벗어난 메타의 안경부터 OpenAI의 작업 공간까지… AI 기업들이 일상을 파고드는 이유",
+        "5300명 중 단 1명, AI 해커톤 최종 우승자는 누굴까? | AX 인재전쟁 우승 인터뷰 | OpenAI × 조코딩AX파트너스"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/db1KRJQEt8w/hqdefault.jpg",
-      "representative_video_id": "db1KRJQEt8w",
-      "representative_title": "ChatGPT Dots: How I Spent My First 24 Hours"
+      "thumbnail_url": "https://i.ytimg.com/vi/w7b_oqMVJEg/hqdefault.jpg",
+      "representative_video_id": "w7b_oqMVJEg",
+      "representative_title": "AI 경쟁은 이제... 새로운 플랫폼 경쟁으로... 애플, 구글에서 벗어난 메타의 안경부터 OpenAI의 작업 공간까지… AI 기업들이 일상을 파고드는 이유"
     },
     {
       "label": "ChatGPT",
       "count": 2,
-      "avg_view_count": 382,
-      "avg_engagement_rate": 0.0125,
-      "avg_like_count": 10,
-      "avg_comment_count": 0,
+      "avg_view_count": 21784,
+      "avg_engagement_rate": 0.04017639010874029,
+      "avg_like_count": 713,
+      "avg_comment_count": 180,
       "source_titles": [
-        "Meet DOTS  the always on agent that orchestrates your entire ChatGPT.",
-        "AI 쓰는 개발자의 진화과정"
+        "OpenAI Security: Controlling Models is Now ‘Hell’",
+        "1주일안에 AI 회사들한테 400만원 받는법.. ㄷㄷ"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/GBHSdPXlHRw/hqdefault.jpg",
-      "representative_video_id": "GBHSdPXlHRw",
-      "representative_title": "Meet DOTS  the always on agent that orchestrates your entire ChatGPT."
+      "thumbnail_url": "https://i.ytimg.com/vi/_rtp1XzaP6Q/hqdefault.jpg",
+      "representative_video_id": "_rtp1XzaP6Q",
+      "representative_title": "OpenAI Security: Controlling Models is Now ‘Hell’"
     },
     {
-      "label": "다",
+      "label": "모르면",
       "count": 1,
-      "avg_view_count": 37634,
-      "avg_engagement_rate": 0.0051549131104852,
-      "avg_like_count": 173,
-      "avg_comment_count": 21,
+      "avg_view_count": 67891,
+      "avg_engagement_rate": 0.009220662532589003,
+      "avg_like_count": 590,
+      "avg_comment_count": 36,
       "source_titles": [
-        "다 쓰면 대출해준다는 클로드 근황"
+        "모르면 손해인 클로드의 무료 크레딧 ㄷㄷ"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/5_q01QSN0lY/hqdefault.jpg",
-      "representative_video_id": "5_q01QSN0lY",
-      "representative_title": "다 쓰면 대출해준다는 클로드 근황"
+      "thumbnail_url": "https://i.ytimg.com/vi/sE9sLmvuRAg/hqdefault.jpg",
+      "representative_video_id": "sE9sLmvuRAg",
+      "representative_title": "모르면 손해인 클로드의 무료 크레딧 ㄷㄷ"
     },
     {
-      "label": "Notion",
+      "label": "Have",
       "count": 1,
-      "avg_view_count": 37104,
-      "avg_engagement_rate": 0.0203751617076326,
-      "avg_like_count": 722,
-      "avg_comment_count": 34,
+      "avg_view_count": 32560,
+      "avg_engagement_rate": 0.03252457002457002,
+      "avg_like_count": 1040,
+      "avg_comment_count": 19,
       "source_titles": [
-        "How to Make AI Sound EXACTLY Like you"
+        "Have you tried Higgsfield Genjutsu?"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/wtaRjOFqdyU/hqdefault.jpg",
-      "representative_video_id": "wtaRjOFqdyU",
-      "representative_title": "How to Make AI Sound EXACTLY Like you"
+      "thumbnail_url": "https://i.ytimg.com/vi/9XhN2YnYwiY/hqdefault.jpg",
+      "representative_video_id": "9XhN2YnYwiY",
+      "representative_title": "Have you tried Higgsfield Genjutsu?"
     },
     {
       "label": "MCP",
       "count": 1,
-      "avg_view_count": 26720,
-      "avg_engagement_rate": 0.008982035928143712,
-      "avg_like_count": 237,
-      "avg_comment_count": 3,
+      "avg_view_count": 21718,
+      "avg_engagement_rate": 0.004604475550234828,
+      "avg_like_count": 87,
+      "avg_comment_count": 13,
       "source_titles": [
-        "앱스토어 다음은 플러그인 스토어?"
+        "🚨 이미 인터넷은 AI에 다 털렸다??"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/o0fuBWCl6Pg/hqdefault.jpg",
-      "representative_video_id": "o0fuBWCl6Pg",
-      "representative_title": "앱스토어 다음은 플러그인 스토어?"
+      "thumbnail_url": "https://i.ytimg.com/vi/9A-mMgMzzdY/hqdefault.jpg",
+      "representative_video_id": "9A-mMgMzzdY",
+      "representative_title": "🚨 이미 인터넷은 AI에 다 털렸다??"
     },
     {
-      "label": "문",
+      "label": "코딩",
       "count": 1,
-      "avg_view_count": 19866,
-      "avg_engagement_rate": 0.006392831974227323,
-      "avg_like_count": 115,
-      "avg_comment_count": 12,
+      "avg_view_count": 13050,
+      "avg_engagement_rate": 0.011034482758620689,
+      "avg_like_count": 137,
+      "avg_comment_count": 7,
       "source_titles": [
-        "문 열고 나오는 게 다가 아닌데요? LG 로니 로봇청소기 두 달 사용기 [LG 홈봇 AI 로니]"
+        "git에서 파일을 날려도 안전한 이유"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/U4PoQy7BgkE/hqdefault.jpg",
-      "representative_video_id": "U4PoQy7BgkE",
-      "representative_title": "문 열고 나오는 게 다가 아닌데요? LG 로니 로봇청소기 두 달 사용기 [LG 홈봇 AI 로니]"
+      "thumbnail_url": "https://i.ytimg.com/vi/CIjvQ1uGkGA/hqdefault.jpg",
+      "representative_video_id": "CIjvQ1uGkGA",
+      "representative_title": "git에서 파일을 날려도 안전한 이유"
     },
     {
-      "label": "자동화",
+      "label": "감정표현이",
       "count": 1,
-      "avg_view_count": 19031,
-      "avg_engagement_rate": 0.006042772318848195,
-      "avg_like_count": 91,
-      "avg_comment_count": 24,
+      "avg_view_count": 11802,
+      "avg_engagement_rate": 0.014065412641925098,
+      "avg_like_count": 162,
+      "avg_comment_count": 4,
       "source_titles": [
-        "데이터 센터를 쏘아 올리겠다는 구글의 야심찬 계획"
+        "감정표현이 남다른 새로운 TTS 등장, fish audio Drama3"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/im_iQFgKf64/hqdefault.jpg",
-      "representative_video_id": "im_iQFgKf64",
-      "representative_title": "데이터 센터를 쏘아 올리겠다는 구글의 야심찬 계획"
+      "thumbnail_url": "https://i.ytimg.com/vi/3iXHvrKVY24/hqdefault.jpg",
+      "representative_video_id": "3iXHvrKVY24",
+      "representative_title": "감정표현이 남다른 새로운 TTS 등장, fish audio Drama3"
+    },
+    {
+      "label": "0.1+0.2",
+      "count": 1,
+      "avg_view_count": 11447,
+      "avg_engagement_rate": 0.009085349873329257,
+      "avg_like_count": 93,
+      "avg_comment_count": 11,
+      "source_titles": [
+        "0.1+0.2 는 0.3이 아닙니다"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/MJ-5MfSqAII/hqdefault.jpg",
+      "representative_video_id": "MJ-5MfSqAII",
+      "representative_title": "0.1+0.2 는 0.3이 아닙니다"
     }
   ],
   "video_highlights": [
     {
-      "video_id": "Q7Ira3MLyRM",
-      "channel_name": "Dan Martell",
-      "title": "My reaction to how much you're spending on AI",
-      "thumbnail_url": "https://i.ytimg.com/vi/Q7Ira3MLyRM/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=Q7Ira3MLyRM",
-      "published_at": "2026-09-30T11:01:41Z",
-      "view_count": 61113,
-      "like_count": 905,
-      "comment_count": 75,
-      "engagement_rate": 0.016035867982262367,
-      "topic_cluster": "Claude",
-      "summary": "",
-      "comment_signal": "Well, excuse you. I’m a student.",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "5_q01QSN0lY",
+      "video_id": "sE9sLmvuRAg",
       "channel_name": "조코딩 JoCoding",
-      "title": "다 쓰면 대출해준다는 클로드 근황",
-      "thumbnail_url": "https://i.ytimg.com/vi/5_q01QSN0lY/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=5_q01QSN0lY",
-      "published_at": "2026-09-30T09:00:39Z",
-      "view_count": 37634,
-      "like_count": 173,
-      "comment_count": 21,
-      "engagement_rate": 0.0051549131104852,
-      "topic_cluster": "다",
-      "summary": "클로드 사용량 제한 시 작업을 중단하지 않도록 중단 지점을 자동으로 찾아주는 기능이 추가되었습니다.",
-      "comment_signal": "뭔가 1~2퍼 주간 빨아가는게 왔다갔다 하던것같더니 이거구나",
+      "title": "모르면 손해인 클로드의 무료 크레딧 ㄷㄷ",
+      "thumbnail_url": "https://i.ytimg.com/vi/sE9sLmvuRAg/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=sE9sLmvuRAg",
+      "published_at": "2026-10-01T06:00:21Z",
+      "view_count": 67891,
+      "like_count": 590,
+      "comment_count": 36,
+      "engagement_rate": 0.009220662532589003,
+      "topic_cluster": "모르면",
+      "summary": "클로드(Claude) 사용자들은 설정 메뉴에서 '슬래시플레임(slashflame)' 크레딧을 입력하여 무료로 크레딧을 제공받을 수 있다.",
+      "comment_signal": "감사합니닷!",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "wtaRjOFqdyU",
+      "video_id": "w7b_oqMVJEg",
+      "channel_name": "안될공학 - IT 테크 신기술",
+      "title": "AI 경쟁은 이제... 새로운 플랫폼 경쟁으로... 애플, 구글에서 벗어난 메타의 안경부터 OpenAI의 작업 공간까지… AI 기업들이 일상을 파고드는 이유",
+      "thumbnail_url": "https://i.ytimg.com/vi/w7b_oqMVJEg/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=w7b_oqMVJEg",
+      "published_at": "2026-10-01T08:18:30Z",
+      "view_count": 58123,
+      "like_count": 426,
+      "comment_count": 42,
+      "engagement_rate": 0.008051889957503914,
+      "topic_cluster": "OpenAI",
+      "summary": "오픈AI의 닷츠(Dots)와 메타의 뮤즈(Muse) 등 AI 에이전트는 사용자의 앱 사용 방식을 넘어 스스로 도구를 제어하고 작업을 수행하며, 기기 플랫폼 생태계를…",
+      "comment_signal": "지금도 gpt pro 구독으로 15만원 쓰는데 조만간 백만원 단위로 사용하는 날이 올 듯",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "_rtp1XzaP6Q",
+      "channel_name": "AI Explained",
+      "title": "OpenAI Security: Controlling Models is Now ‘Hell’",
+      "thumbnail_url": "https://i.ytimg.com/vi/_rtp1XzaP6Q/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=_rtp1XzaP6Q",
+      "published_at": "2026-10-01T21:20:12Z",
+      "view_count": 42196,
+      "like_count": 1380,
+      "comment_count": 351,
+      "engagement_rate": 0.041022845767371315,
+      "topic_cluster": "ChatGPT",
+      "summary": "AI 모델의 자율적 자기 개선(RSI) 위험성과 보안 취약점이 부각되는 가운데, OpenAI가 제안한 새로운 안전 대책과 모델이 타사 시스템을 해킹하는 사고 사례…",
+      "comment_signal": "at this point, im just an API between my manager and AI",
+      "hook_type": "긴급성"
+    },
+    {
+      "video_id": "9XhN2YnYwiY",
       "channel_name": "Dan Martell",
-      "title": "How to Make AI Sound EXACTLY Like you",
-      "thumbnail_url": "https://i.ytimg.com/vi/wtaRjOFqdyU/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=wtaRjOFqdyU",
-      "published_at": "2026-09-30T13:00:39Z",
-      "view_count": 37104,
-      "like_count": 722,
-      "comment_count": 34,
-      "engagement_rate": 0.0203751617076326,
-      "topic_cluster": "Notion",
-      "summary": "그 연구에서 83%의 학생들은 에세이를 쓰고 나서 몇 분도 채 지나지 않아 내용을 인용 하지 못했습니다. 글을 써 놓고도 무슨 내용 인지 말하지 못하는 건, 실제로…",
-      "comment_signal": "Let me know your favourite part below. 👊🩵 DM.",
+      "title": "Have you tried Higgsfield Genjutsu?",
+      "thumbnail_url": "https://i.ytimg.com/vi/9XhN2YnYwiY/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=9XhN2YnYwiY",
+      "published_at": "2026-10-01T17:03:09Z",
+      "view_count": 32560,
+      "like_count": 1040,
+      "comment_count": 19,
+      "engagement_rate": 0.03252457002457002,
+      "topic_cluster": "Have",
+      "summary": "힉스필드(Higgsfield)의 'Genjutsu' 도구를 사용하여 사용자의 실제 모습을 영상 속 다양한 장소와 상황에 자연스럽게 합성하는 AI 영상 제작 방식을…",
+      "comment_signal": "The eyes give it away",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "o0fuBWCl6Pg",
+      "video_id": "9A-mMgMzzdY",
       "channel_name": "조코딩 JoCoding",
-      "title": "앱스토어 다음은 플러그인 스토어?",
-      "thumbnail_url": "https://i.ytimg.com/vi/o0fuBWCl6Pg/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=o0fuBWCl6Pg",
-      "published_at": "2026-09-30T06:31:38Z",
-      "view_count": 26720,
-      "like_count": 237,
-      "comment_count": 3,
-      "engagement_rate": 0.008982035928143712,
+      "title": "🚨 이미 인터넷은 AI에 다 털렸다??",
+      "thumbnail_url": "https://i.ytimg.com/vi/9A-mMgMzzdY/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=9A-mMgMzzdY",
+      "published_at": "2026-10-01T09:00:22Z",
+      "view_count": 21718,
+      "like_count": 87,
+      "comment_count": 13,
+      "engagement_rate": 0.004604475550234828,
       "topic_cluster": "MCP",
-      "summary": "클로드 내에서 플러그인을 개발 및 출시할 수 있는 시스템이 도입되어, 앱스토어처럼 플러그인 설치 현황과 사용량을 확인할 수 있게 되었습니다.",
-      "comment_signal": "나중가면 앱이나 프로그램 설치할 이유가없을것같긴한데",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "U4PoQy7BgkE",
-      "channel_name": "테크몽 Techmong",
-      "title": "문 열고 나오는 게 다가 아닌데요? LG 로니 로봇청소기 두 달 사용기 [LG 홈봇 AI 로니]",
-      "thumbnail_url": "https://i.ytimg.com/vi/U4PoQy7BgkE/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=U4PoQy7BgkE",
-      "published_at": "2026-09-30T11:00:31Z",
-      "view_count": 19866,
-      "like_count": 115,
-      "comment_count": 12,
-      "engagement_rate": 0.006392831974227323,
-      "topic_cluster": "문",
-      "summary": "이게 왜 70%를 필요한가 봤더니이 최대 사이즈를 다 청소하고 나니까 배터리가 70에서 20%로 50%나 소진이 되더라고요. 그래서 야 확실히 이게 바닥 자체는 바…",
-      "comment_signal": "배터리 자동 탈착식이면 좋겠네요. 배터리 한계도 뛰어넘을 수 있고 ㅋ",
+      "summary": "AI를 활용한 해킹 위협이 실생활과 인터넷 환경 전반에 걸쳐 광범위하게 발생할 가능성을 경고하며 보안 인식의 중요성을 강조한다.",
+      "comment_signal": "좋은 예방주사입니다. 이렇다는걸 지금이라도 알아야지 안그럼 나중에 AI가 더 발전하면 손놓고 당할수도 있음. 영화에 많이 나오자나.",
       "hook_type": "문제 해결"
     }
   ]
