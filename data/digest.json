@@ -1,262 +1,261 @@
 {
-  "digest_date": "2026-10-03",
-  "generated_at": "2026-10-03T01:55:27+00:00",
-  "summary": "최근 24시간 영상 19개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'OpenAI'입니다. 특히 'AI News: Dots, GPT-6.1 Sol, Sonnet 5.5, Gemini 4, and everything you need to know'는 조회수 60.9K, 참여율 2.5%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "'OpenAI' 주제가 3개 영상으로 가장 많이 다뤄졌습니다. 일반인 관점 직접 실험 or VS 비교 각도로 차별화할 영역이 있습니다.\n[내 채널] 7일 평균 25.5K회 · 지속률 30.6% / 경쟁사 평균 9.9K회 (격차 +157%)",
-  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 10/03\n\n📊 총 10개 | AI 핵심 10 · 인접 AI 0 · 일반 테크 보충 0\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 10 · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [Matt Wolfe] 60.9K뷰 · 참여율 2.5%\n   AI News: Dots, GPT-6.1 Sol, Sonnet 5.5, Gemini 4, and everything you need to…\n   ↳ 최신 AI 뉴스인 OpenAI의 Dots와 GPT-6.1 Sol, Anthropic의 Claude Sonnet 5.5, Gemini 4 Argon 등 주요 모델의 기능과 비용 효율성을 분석하고 비교한다.\n   https://youtu.be/dDgncbBAA0c\n\n2. AI 핵심 · [조코딩 JoCoding] 19.0K뷰 · 참여율 0.9%\n   🚨 AI응답 자체가 사기일 수 있다?? 신종 사기 수법 등장 ㄷㄷ\n   ↳ 가짜 고객센터 번호를 검색 엔진에 최적화하여 노출시킴으로써 AI가 이를 공식 번호로 잘못 인식해 답변하게 만드는 신종 피싱 사기 수법을 소개한다.\n   https://youtu.be/SL5SJMe48qA\n\n3. AI 핵심 · [조코딩 JoCoding] 13.9K뷰 · 참여율 0.9%\n   이미지도 미친 수준으로 찍어내는 중국 모델 근황\n   ↳ 중국에서 개발된 최신 이미지 생성 AI 모델을 소개하며, 투명도 조절 및 자연스러운 이미지 변형 기능이 매우 뛰어난 수준임을 보여준다.\n   https://youtu.be/q0eEt9h7_Eo\n\n4. AI 핵심 · [The AI Advantage] 13.4K뷰 · 참여율 2.3%\n   How ChatGPT Dots Can Change Your Life in 4 Minutes\n   ↳ ChatGPT의 'Dots' 인터페이스를 활용하여 상시 작동형 어시스턴트로 작업 예약을 자동화하고, 음성 명령을 통해 효율적인 일상 업무 처리를 돕는 방법을 설명한다.\n   https://youtu.be/E3xKmcHBOzY\n\n5. AI 핵심 · [조코딩 JoCoding] 12.3K뷰 · 참여율 0.8%\n   늦게 올리면 뺏긴다! AI로 숏폼 영상 한 번에 올리는 법\n   ↳ 숏폼 영상을 유튜브, 틱톡, 릴스 등 여러 플랫폼에 수동으로 올리는 번거로움을 줄이기 위해, 직접 코드를 작성하여 자동으로 일괄 업로드하는 효율적인 방법을 공유한다.\n   https://youtu.be/ZIbqvLf71ig\n\n6. AI 핵심 · [조코딩 JoCoding] 11.1K뷰 · 참여율 0.4%\n   로봇이 손흥민을 이길 수 있을까?\n   ↳ 휴머노이드 로봇을 축구 훈련시키기 위해 가상 환경에서 140년 동안 셀프 플레이 방식으로 학습시킨 사례를 다룬다.\n   https://youtu.be/4Y0ir6YcgeQ\n\n7. AI 핵심 · [Futurepedia] 9.8K뷰 · 참여율 1.8%\n   Gemini Skills Are Finally Here (Master in 9 Minutes)\n   ↳ Gemini의 'Skills' 기능을 활용하여 반복적인 작업을 자동화하고, 구글 생태계 도구와 연동하여 업무 처리 효율을 극대화하는 방법을 안내한다.\n   https://youtu.be/OiP0YBHLjqo\n\n8. AI 핵심 · [Adrian Twarog] 5.0K뷰 · 참여율 1.3%\n   I Tried Coding with Local AI Models for 7 Days\n   ↳ 로컬 AI 모델을 7일간 테스트한 결과, 하드웨어 사양에 따른 속도 차이와 문맥 처리 능력의 한계를 경험했으며, 로컬 모델은 대형 클라우드 모델의 보조 역할로 적합하다는 결론을 내린다.\n   https://youtu.be/XGuQLDIrTWw\n\n9. AI 핵심 · [조코딩 JoCoding] 4.1K뷰 · 참여율 1.1%\n   사다리타기는 공평한게 맞을까?\n   ↳ 사다리타기 게임에서 출발 위치에 따라 도착 지점이 결정되는 확률적 원리를 분석하여, 좌우 끝에 위치한 사람이 결과에 미치는 통계적 영향을 설명한다.\n   https://youtu.be/XFqq6VjRhFQ\n\n10. AI 핵심 · [All About AI] 2.5K뷰 · 참여율 2.5%\n   Opus 5.5 Is INSANE: Day Trader Tycoon (with real money)\n   ↳ Claude Opus 5.5를 사용하여 주식 거래 시뮬레이션 게임을 개발하고, 게임 내 AI 에이전트를 도입하여 시장 상황에 맞춰 자동으로 거래를 수행하게 하는 과정을 시연한다.\n   https://youtu.be/TD0VZSWmUoQ\n\n📈 스마트대디 어제 실적\n조회수 16.9K (↓34% vs 7일 평균) | 구독 +45\n시청 지속률 30.1% | 평균 시청 3분 07초\n경쟁사 평균 9.9K회 대비 내 7일 평균 +157%\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
-  "video_count": 19,
-  "total_recent_video_count": 22,
+  "digest_date": "2026-10-04",
+  "generated_at": "2026-10-04T02:34:01+00:00",
+  "summary": "최근 24시간 영상 10개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'ChatGPT'입니다. 특히 '이젠 진짜 컴퓨터보다 더 빠르다고요??? 아이폰 18 프로 성능 심층 분석편'는 조회수 463.0K, 참여율 0.6%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "'ChatGPT' 주제가 3개 영상으로 가장 많이 다뤄졌습니다. 오늘 수집 영상 10개는 주로 '뉴스 분석' 포맷이라, VS 비교·직접 실험 각도는 아직 비어 있습니다. ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.\n[내 채널] 7일 평균 19.9K회 · 지속률 30.2% / 경쟁사 평균 56.8K회 (격차 -65%)",
+  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 10/04\n\n📊 총 10개 | AI 핵심 5 · 인접 AI 5 · 일반 테크 보충 0\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 10 · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [성공지식백과] 24.9K뷰 · 참여율 1.4%\n   클로드코드 \"모드\"는 혁신입니다.. ㄷㄷ 미친 신기능 /mods\n   ↳ 클로드 코드(Claude Code)의 새로운 '모드' 기능을 활용해 작업 흐름을 사용자화하고 효율적인 UI 환경을 구축하는 방법을 소개합니다. 훅(Hook)을 결합하여 위험 명령 방지, 컨텍스트 비용 모니터링, 작…\n   https://youtu.be/KtquxqP2YnM\n\n2. AI 핵심 · [조코딩 JoCoding] 8.2K뷰 · 참여율 0.8%\n   개발자가 바나나를 만드는 방법\n   ↳ 자바스크립트 환경에서 데이터 유형에 따라 발생하는 연산 오류와 이를 해결하기 위해 개발자가 숫자로 형 변환을 수행하는 과정을 설명합니다.\n   https://youtu.be/0CVKKvRoInU\n\n3. AI 핵심 · [빌더 조쉬 Builder Josh] 1.5K뷰 · 참여율 0.5%\n   광고비 50만 원으로 시작해 6개월 만에 월 매출 1억 5천\n   ↳ 50만 원의 광고비를 활용해 페이스북 광고 전략을 세우고, 6개월 만에 월 매출 1억 5천만 원을 달성했던 초기 사업 성장 과정을 공유합니다.\n   https://youtu.be/w2C_nEdHwcw\n\n4. AI 핵심 · [빌더 조쉬 Builder Josh] 1.4K뷰 · 참여율 0.4%\n   \"AI야 돈 벌어와\"는 안 됩니다, 돈 버는 구조는 대표가 만듭니다\n   ↳ AI를 단순히 도구로 활용하는 것을 넘어, 대표가 직접 수익 창출 구조와 시스템을 설계하고 운영해야 실질적인 성과를 낼 수 있음을 강조합니다.\n   https://youtu.be/JgNaE5Kj_ZU\n\n5. AI 핵심 · [Futurepedia] 92뷰 · 참여율 1.1%\n   DOTS is your new schedule master.\n   ↳ DOTS는 반복 작업과 트리거를 통해 업무 일정을 자동화하고, 특정 조건 발생 시 요약이나 알림을 제공하는 스케줄 관리 도구입니다.\n   https://youtu.be/N352vaZPNso\n\n6. AI 인접 · [ITSub잇섭] 463.0K뷰 · 참여율 0.6%\n   이젠 진짜 컴퓨터보다 더 빠르다고요??? 아이폰 18 프로 성능 심층 분석편\n   ↳ 아이폰 18 프로의 성능과 방열 제어 능력을 분석한 결과, 강력한 성능을 보여주지만 전작 대비 배터리 효율과 발열 관리 면에서 경쟁 기기들과 뚜렷한 차이를 보입니다.\n   https://youtu.be/1Ca5zN_W4-k\n\n7. AI 인접 · [월텍남 - 월스트리트 테크남] 40.1K뷰 · 참여율 1.2%\n   \"일생 일대의 기회\"\n   ↳ AI 반도체 시장의 공급 부족 현상과 수급 문제를 분석하며, 기술의 복잡도가 증가함에 따라 지수 중심의 안정적인 투자가 트레이딩보다 유리할 수 있음을 제언합니다.\n   https://youtu.be/dpFJs-GoLsU\n\n8. AI 인접 · [Dan Martell] 18.7K뷰 · 참여율 3.6%\n   Should you train or fire these employees (from a +$100M CEO perspective)\n   ↳ 기업의 비전과 일치하지 않는 직원은 성과나 잠재력과 관계없이 조직을 떠나야 하며, 비전 공감 능력이 채용과 해고의 핵심 기준이 되어야 한다고 조언합니다.\n   https://youtu.be/Pz1JZUsHuzo\n\n9. AI 인접 · [안될공학 - IT 테크 신기술] 5.5K뷰 · 참여율 0.7%\n   정전 한 번에 수천억 손실? 반도체 공장 전력설비의 중요성\n   ↳ 반도체 공장의 정전으로 인한 막대한 피해를 방지하기 위해 전력 설비에 센서를 부착하고, AI 기반 데이터 분석으로 이상 징후를 사전에 탐지하는 관리 방식의 중요성을 다룹니다.\n   https://youtu.be/mqmrnxrCTq8\n\n10. AI 인접 · [Dan Martell] 4.6K뷰 · 참여율 9.5%\n   3 Skills You Need to Get Rich\n   ↳ 경제적 자립과 성공을 위해 필수적으로 습득해야 할 세 가지 핵심 기술에 대해 다룹니다.\n   https://youtu.be/8u7NbUT0XW4\n\n📈 스마트대디 어제 실적\n조회수 17.1K (↓14% vs 7일 평균) | 구독 +28\n시청 지속률 30.1% | 평균 시청 3분 07초\n경쟁사 평균 56.8K회 대비 내 7일 평균 -65%\n\n💡 VS 각도: ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+  "video_count": 10,
+  "total_recent_video_count": 12,
   "focus_scope": "ai_priority_then_tech_fill",
-  "average_view_count": 9935.0,
-  "average_engagement_rate": 0.022307324593163556,
-  "average_like_count": 175.0,
-  "average_comment_count": 13.0,
-  "best_video_id": "dDgncbBAA0c",
-  "best_topic": "OpenAI",
+  "average_view_count": 56804.0,
+  "average_engagement_rate": 0.01973776192837455,
+  "average_like_count": 398.0,
+  "average_comment_count": 91.0,
+  "best_video_id": "1Ca5zN_W4-k",
+  "best_topic": "ChatGPT",
   "summary_points": [
-    "가장 겹친 주제는 'OpenAI'이며 3개 영상, 평균 조회수 26.4K, 평균 참여율 2.0%입니다.",
-    "최고 실적 영상은 'AI News: Dots, GPT-6.1 Sol, Sonnet 5.5, Gemini 4, and everything you need to know'이며 긴급성 훅과 비교 포맷 조합이 강했습니다.",
-    "반복 노출된 툴은 Claude 4회, Gemini 4회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
+    "가장 겹친 주제는 'ChatGPT'이며 3개 영상, 평균 조회수 7.8K, 평균 참여율 4.7%입니다.",
+    "최고 실적 영상은 '이젠 진짜 컴퓨터보다 더 빠르다고요??? 아이폰 18 프로 성능 심층 분석편'이며 솔직 검증 훅과 사례 분석 포맷 조합이 강했습니다.",
+    "반복 노출된 툴은 ChatGPT 3회, Claude 1회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
   ],
   "action_chips": [
-    "주제: OpenAI",
-    "훅: 긴급성",
-    "포맷: 비교",
-    "기준 채널: Matt Wolfe"
+    "주제: ChatGPT",
+    "훅: 솔직 검증",
+    "포맷: 사례 분석",
+    "기준 채널: ITSub잇섭"
   ],
   "title_suggestions": [
-    "OpenAI 직접 실험 — 이게 진짜 되나?",
-    "OpenAI vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
-    "OpenAI 써봤더니... (기대 vs 현실 솔직 후기)"
+    "ChatGPT vs Claude vs Gemini, 일반인 업무 실전 대결 결과",
+    "GPT 최신 버전 직접 실험 — 이전이랑 진짜 달라?",
+    "GPT 써봤더니... 기대랑 다른 점 솔직하게 다 말해봄"
   ],
   "recommendations": [
     {
-      "title": "OpenAI 직접 실험 — 이게 진짜 되나?",
-      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
-      "angle": "큰 주제 하나를 대표 제목으로 세우고, 나머지 포인트는 보조 정보처럼 정리하는 압축형 포장이 좋습니다.",
-      "thumbnail_copy": "OpenAI 지금 봐야 함",
-      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
-      "source_video_id": "dDgncbBAA0c",
-      "source": "AI News: Dots, GPT-6.1 Sol, Sonnet 5.5, Gemini 4, and everything you need to know",
-      "my_channel_context": "내 7일 평균 25.5K회 · 지속률 30.6% / 경쟁사 대비 +157%"
+      "title": "ChatGPT vs Claude vs Gemini, 일반인 업무 실전 대결 결과",
+      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
+      "angle": "'ChatGPT'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
+      "thumbnail_copy": "ChatGPT 바로 해결",
+      "reason": "ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.",
+      "source_video_id": "Pz1JZUsHuzo",
+      "source": "Should you train or fire these employees (from a +$100M CEO perspective)",
+      "my_channel_context": "내 7일 평균 19.9K회 · 지속률 30.2% / 경쟁사 대비 -65%"
     },
     {
-      "title": "OpenAI vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
-      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
-      "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
-      "thumbnail_copy": "OpenAI 바로 해결",
-      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
-      "source_video_id": "E3xKmcHBOzY",
-      "source": "How ChatGPT Dots Can Change Your Life in 4 Minutes",
-      "my_channel_context": "내 7일 평균 25.5K회 · 지속률 30.6% / 경쟁사 대비 +157%"
+      "title": "GPT 최신 버전 직접 실험 — 이전이랑 진짜 달라?",
+      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
+      "angle": "'ChatGPT'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
+      "thumbnail_copy": "ChatGPT 바로 해결",
+      "reason": "ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.",
+      "source_video_id": "8u7NbUT0XW4",
+      "source": "3 Skills You Need to Get Rich",
+      "my_channel_context": "내 7일 평균 19.9K회 · 지속률 30.2% / 경쟁사 대비 -65%"
     },
     {
-      "title": "OpenAI 써봤더니... (기대 vs 현실 솔직 후기)",
-      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
-      "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
-      "thumbnail_copy": "OpenAI 바로 해결",
-      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
-      "source_video_id": "XGuQLDIrTWw",
-      "source": "I Tried Coding with Local AI Models for 7 Days",
-      "my_channel_context": "내 7일 평균 25.5K회 · 지속률 30.6% / 경쟁사 대비 +157%"
+      "title": "GPT 써봤더니... 기대랑 다른 점 솔직하게 다 말해봄",
+      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
+      "angle": "'ChatGPT'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
+      "thumbnail_copy": "ChatGPT 바로 해결",
+      "reason": "ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.",
+      "source_video_id": "N352vaZPNso",
+      "source": "DOTS is your new schedule master.",
+      "my_channel_context": "내 7일 평균 19.9K회 · 지속률 30.2% / 경쟁사 대비 -65%"
     }
   ],
   "topic_clusters": [
     {
-      "label": "OpenAI",
-      "count": 3,
-      "avg_view_count": 26423,
-      "avg_engagement_rate": 0.020403353429830753,
-      "avg_like_count": 579,
-      "avg_comment_count": 55,
-      "source_titles": [
-        "AI News: Dots, GPT-6.1 Sol, Sonnet 5.5, Gemini 4, and everything you need to know",
-        "How ChatGPT Dots Can Change Your Life in 4 Minutes",
-        "I Tried Coding with Local AI Models for 7 Days"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/dDgncbBAA0c/hqdefault.jpg",
-      "representative_video_id": "dDgncbBAA0c",
-      "representative_title": "AI News: Dots, GPT-6.1 Sol, Sonnet 5.5, Gemini 4, and everything you need to know"
-    },
-    {
       "label": "ChatGPT",
-      "count": 2,
-      "avg_view_count": 6046,
-      "avg_engagement_rate": 0.007531931527895202,
-      "avg_like_count": 26,
-      "avg_comment_count": 2,
+      "count": 3,
+      "avg_view_count": 7821,
+      "avg_engagement_rate": 0.047333548819226946,
+      "avg_like_count": 366,
+      "avg_comment_count": 7,
       "source_titles": [
-        "로봇이 손흥민을 이길 수 있을까?",
-        "Create INSANE Scenes In Blender + Opus 5.5 + Higgsfield"
+        "Should you train or fire these employees (from a +$100M CEO perspective)",
+        "3 Skills You Need to Get Rich",
+        "DOTS is your new schedule master."
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/4Y0ir6YcgeQ/hqdefault.jpg",
-      "representative_video_id": "4Y0ir6YcgeQ",
-      "representative_title": "로봇이 손흥민을 이길 수 있을까?"
+      "thumbnail_url": "https://i.ytimg.com/vi/Pz1JZUsHuzo/hqdefault.jpg",
+      "representative_video_id": "Pz1JZUsHuzo",
+      "representative_title": "Should you train or fire these employees (from a +$100M CEO perspective)"
     },
     {
-      "label": "AI응답",
+      "label": "이젠",
       "count": 1,
-      "avg_view_count": 19018,
-      "avg_engagement_rate": 0.00862340940161952,
-      "avg_like_count": 161,
-      "avg_comment_count": 3,
+      "avg_view_count": 463004,
+      "avg_engagement_rate": 0.006127376869314304,
+      "avg_like_count": 2029,
+      "avg_comment_count": 808,
       "source_titles": [
-        "🚨 AI응답 자체가 사기일 수 있다?? 신종 사기 수법 등장 ㄷㄷ"
+        "이젠 진짜 컴퓨터보다 더 빠르다고요??? 아이폰 18 프로 성능 심층 분석편"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/SL5SJMe48qA/hqdefault.jpg",
-      "representative_video_id": "SL5SJMe48qA",
-      "representative_title": "🚨 AI응답 자체가 사기일 수 있다?? 신종 사기 수법 등장 ㄷㄷ"
+      "thumbnail_url": "https://i.ytimg.com/vi/1Ca5zN_W4-k/hqdefault.jpg",
+      "representative_video_id": "1Ca5zN_W4-k",
+      "representative_title": "이젠 진짜 컴퓨터보다 더 빠르다고요??? 아이폰 18 프로 성능 심층 분석편"
+    },
+    {
+      "label": "일생",
+      "count": 1,
+      "avg_view_count": 40069,
+      "avg_engagement_rate": 0.011904464798223066,
+      "avg_like_count": 425,
+      "avg_comment_count": 52,
+      "source_titles": [
+        "\"일생 일대의 기회\""
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/dpFJs-GoLsU/hqdefault.jpg",
+      "representative_video_id": "dpFJs-GoLsU",
+      "representative_title": "\"일생 일대의 기회\""
+    },
+    {
+      "label": "Claude",
+      "count": 1,
+      "avg_view_count": 24894,
+      "avg_engagement_rate": 0.013657909536434483,
+      "avg_like_count": 323,
+      "avg_comment_count": 17,
+      "source_titles": [
+        "클로드코드 \"모드\"는 혁신입니다.. ㄷㄷ 미친 신기능 /mods"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/KtquxqP2YnM/hqdefault.jpg",
+      "representative_video_id": "KtquxqP2YnM",
+      "representative_title": "클로드코드 \"모드\"는 혁신입니다.. ㄷㄷ 미친 신기능 /mods"
+    },
+    {
+      "label": "개발자가",
+      "count": 1,
+      "avg_view_count": 8231,
+      "avg_engagement_rate": 0.007532499088810594,
+      "avg_like_count": 56,
+      "avg_comment_count": 6,
+      "source_titles": [
+        "개발자가 바나나를 만드는 방법"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/0CVKKvRoInU/hqdefault.jpg",
+      "representative_video_id": "0CVKKvRoInU",
+      "representative_title": "개발자가 바나나를 만드는 방법"
     },
     {
       "label": "자동화",
       "count": 1,
-      "avg_view_count": 17684,
-      "avg_engagement_rate": 0.011083465279348564,
-      "avg_like_count": 183,
-      "avg_comment_count": 13,
+      "avg_view_count": 5467,
+      "avg_engagement_rate": 0.006584964331443205,
+      "avg_like_count": 35,
+      "avg_comment_count": 1,
       "source_titles": [
-        "AI 시대, 전력도 데이터를 읽어야 한다 | ‘멈추지 않는 전력’을 완성하는 변압기·배전반 예지보전 기술"
+        "정전 한 번에 수천억 손실? 반도체 공장 전력설비의 중요성"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/A7D28b2bxT8/hqdefault.jpg",
-      "representative_video_id": "A7D28b2bxT8",
-      "representative_title": "AI 시대, 전력도 데이터를 읽어야 한다 | ‘멈추지 않는 전력’을 완성하는 변압기·배전반 예지보전 기술"
+      "thumbnail_url": "https://i.ytimg.com/vi/mqmrnxrCTq8/hqdefault.jpg",
+      "representative_video_id": "mqmrnxrCTq8",
+      "representative_title": "정전 한 번에 수천억 손실? 반도체 공장 전력설비의 중요성"
     },
     {
-      "label": "이미지도",
+      "label": "광고비",
       "count": 1,
-      "avg_view_count": 13856,
-      "avg_engagement_rate": 0.009454387990762125,
-      "avg_like_count": 125,
-      "avg_comment_count": 6,
+      "avg_view_count": 1532,
+      "avg_engagement_rate": 0.005221932114882507,
+      "avg_like_count": 6,
+      "avg_comment_count": 2,
       "source_titles": [
-        "이미지도 미친 수준으로 찍어내는 중국 모델 근황"
+        "광고비 50만 원으로 시작해 6개월 만에 월 매출 1억 5천"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/q0eEt9h7_Eo/hqdefault.jpg",
-      "representative_video_id": "q0eEt9h7_Eo",
-      "representative_title": "이미지도 미친 수준으로 찍어내는 중국 모델 근황"
+      "thumbnail_url": "https://i.ytimg.com/vi/w2C_nEdHwcw/hqdefault.jpg",
+      "representative_video_id": "w2C_nEdHwcw",
+      "representative_title": "광고비 50만 원으로 시작해 6개월 만에 월 매출 1억 5천"
     },
     {
-      "label": "늦게",
+      "label": "AI야",
       "count": 1,
-      "avg_view_count": 12289,
-      "avg_engagement_rate": 0.007893237854992269,
-      "avg_like_count": 94,
-      "avg_comment_count": 3,
+      "avg_view_count": 1380,
+      "avg_engagement_rate": 0.004347826086956522,
+      "avg_like_count": 6,
+      "avg_comment_count": 0,
       "source_titles": [
-        "늦게 올리면 뺏긴다! AI로 숏폼 영상 한 번에 올리는 법"
+        "\"AI야 돈 벌어와\"는 안 됩니다, 돈 버는 구조는 대표가 만듭니다"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/ZIbqvLf71ig/hqdefault.jpg",
-      "representative_video_id": "ZIbqvLf71ig",
-      "representative_title": "늦게 올리면 뺏긴다! AI로 숏폼 영상 한 번에 올리는 법"
-    },
-    {
-      "label": "마케팅",
-      "count": 1,
-      "avg_view_count": 9900,
-      "avg_engagement_rate": 0.03727272727272727,
-      "avg_like_count": 365,
-      "avg_comment_count": 4,
-      "source_titles": [
-        "How This Runner Aid Station Crafted The Perfect Offer"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/dQhnx2JG0OE/hqdefault.jpg",
-      "representative_video_id": "dQhnx2JG0OE",
-      "representative_title": "How This Runner Aid Station Crafted The Perfect Offer"
-    },
-    {
-      "label": "Gemini",
-      "count": 1,
-      "avg_view_count": 9764,
-      "avg_engagement_rate": 0.018332650553052027,
-      "avg_like_count": 167,
-      "avg_comment_count": 12,
-      "source_titles": [
-        "Gemini Skills Are Finally Here (Master in 9 Minutes)"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/OiP0YBHLjqo/hqdefault.jpg",
-      "representative_video_id": "OiP0YBHLjqo",
-      "representative_title": "Gemini Skills Are Finally Here (Master in 9 Minutes)"
+      "thumbnail_url": "https://i.ytimg.com/vi/JgNaE5Kj_ZU/hqdefault.jpg",
+      "representative_video_id": "JgNaE5Kj_ZU",
+      "representative_title": "\"AI야 돈 벌어와\"는 안 됩니다, 돈 버는 구조는 대표가 만듭니다"
     }
   ],
   "video_highlights": [
     {
-      "video_id": "dDgncbBAA0c",
-      "channel_name": "Matt Wolfe",
-      "title": "AI News: Dots, GPT-6.1 Sol, Sonnet 5.5, Gemini 4, and everything you need to know",
-      "thumbnail_url": "https://i.ytimg.com/vi/dDgncbBAA0c/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=dDgncbBAA0c",
-      "published_at": "2026-10-02T15:00:16Z",
-      "view_count": 60881,
-      "like_count": 1394,
-      "comment_count": 133,
-      "engagement_rate": 0.025081716791774115,
-      "topic_cluster": "OpenAI",
-      "summary": "최신 AI 뉴스인 OpenAI의 Dots와 GPT-6.1 Sol, Anthropic의 Claude Sonnet 5.5, Gemini 4 Argon 등 주요 모델의…",
-      "comment_signal": "There is so much AI news and so much constantly on my feed that I have to say to myself, don't…",
-      "hook_type": "긴급성"
+      "video_id": "1Ca5zN_W4-k",
+      "channel_name": "ITSub잇섭",
+      "title": "이젠 진짜 컴퓨터보다 더 빠르다고요??? 아이폰 18 프로 성능 심층 분석편",
+      "thumbnail_url": "https://i.ytimg.com/vi/1Ca5zN_W4-k/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=1Ca5zN_W4-k",
+      "published_at": "2026-10-03T11:00:39Z",
+      "view_count": 463004,
+      "like_count": 2029,
+      "comment_count": 808,
+      "engagement_rate": 0.006127376869314304,
+      "topic_cluster": "이젠",
+      "summary": "아이폰 18 프로의 성능과 방열 제어 능력을 분석한 결과, 강력한 성능을 보여주지만 전작 대비 배터리 효율과 발열 관리 면에서 경쟁 기기들과 뚜렷한 차이를 보입니다.",
+      "comment_signal": "13 미니 쓰다가 18 프로로 넘어왔는데 성능 체감이 엄청나네요. 특히 2나노공정 A20 칩의 속도가 인상적입니다. 덕분에 다음 주 정형외과 터널증후군 진료 예약도 빠르게…",
+      "hook_type": "솔직 검증"
     },
     {
-      "video_id": "SL5SJMe48qA",
-      "channel_name": "조코딩 JoCoding",
-      "title": "🚨 AI응답 자체가 사기일 수 있다?? 신종 사기 수법 등장 ㄷㄷ",
-      "thumbnail_url": "https://i.ytimg.com/vi/SL5SJMe48qA/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=SL5SJMe48qA",
-      "published_at": "2026-10-02T06:00:37Z",
-      "view_count": 19018,
-      "like_count": 161,
-      "comment_count": 3,
-      "engagement_rate": 0.00862340940161952,
-      "topic_cluster": "AI응답",
-      "summary": "가짜 고객센터 번호를 검색 엔진에 최적화하여 노출시킴으로써 AI가 이를 공식 번호로 잘못 인식해 답변하게 만드는 신종 피싱 사기 수법을 소개한다.",
-      "comment_signal": "SEO 만큼이나 지금 빨리 뛰어들 게 AI답변에 걸려들게 만들어서 모객을 해야되니까요…;",
+      "video_id": "dpFJs-GoLsU",
+      "channel_name": "월텍남 - 월스트리트 테크남",
+      "title": "\"일생 일대의 기회\"",
+      "thumbnail_url": "https://i.ytimg.com/vi/dpFJs-GoLsU/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=dpFJs-GoLsU",
+      "published_at": "2026-10-03T03:04:27Z",
+      "view_count": 40069,
+      "like_count": 425,
+      "comment_count": 52,
+      "engagement_rate": 0.011904464798223066,
+      "topic_cluster": "일생",
+      "summary": "AI 반도체 시장의 공급 부족 현상과 수급 문제를 분석하며, 기술의 복잡도가 증가함에 따라 지수 중심의 안정적인 투자가 트레이딩보다 유리할 수 있음을 제언합니다.",
+      "comment_signal": "흥민손 감사합니다.",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "A7D28b2bxT8",
-      "channel_name": "안될공학 - IT 테크 신기술",
-      "title": "AI 시대, 전력도 데이터를 읽어야 한다 | ‘멈추지 않는 전력’을 완성하는 변압기·배전반 예지보전 기술",
-      "thumbnail_url": "https://i.ytimg.com/vi/A7D28b2bxT8/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=A7D28b2bxT8",
-      "published_at": "2026-10-02T10:00:00Z",
-      "view_count": 17684,
-      "like_count": 183,
-      "comment_count": 13,
-      "engagement_rate": 0.011083465279348564,
-      "topic_cluster": "자동화",
-      "summary": "그런데 전력망에서 들어온 전기가 실제 GPU까지 가는 길을 따라가 보니까 그 사이에도 해야 할 일이 꽤 많았죠. 그래서 AI 시대 전력 인프라는 얼마나 많은 전기를…",
-      "comment_signal": "오늘도 감사합니다😀😀😀😀",
+      "video_id": "KtquxqP2YnM",
+      "channel_name": "성공지식백과",
+      "title": "클로드코드 \"모드\"는 혁신입니다.. ㄷㄷ 미친 신기능 /mods",
+      "thumbnail_url": "https://i.ytimg.com/vi/KtquxqP2YnM/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=KtquxqP2YnM",
+      "published_at": "2026-10-03T09:41:18Z",
+      "view_count": 24894,
+      "like_count": 323,
+      "comment_count": 17,
+      "engagement_rate": 0.013657909536434483,
+      "topic_cluster": "Claude",
+      "summary": "클로드 코드(Claude Code)의 새로운 '모드' 기능을 활용해 작업 흐름을 사용자화하고 효율적인 UI 환경을 구축하는 방법을 소개합니다. 훅(Hook)을 결합…",
+      "comment_signal": "영상에서 직접 만든 학습 노트와 Cache Watch를 보여드렸습니다. 코드가 왜 바뀌었는지 읽거나, 컨텍스트와 비용을 확인하는 기능도 내 작업 방식에 맞게 붙일 수 있어…",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "q0eEt9h7_Eo",
+      "video_id": "Pz1JZUsHuzo",
+      "channel_name": "Dan Martell",
+      "title": "Should you train or fire these employees (from a +$100M CEO perspective)",
+      "thumbnail_url": "https://i.ytimg.com/vi/Pz1JZUsHuzo/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=Pz1JZUsHuzo",
+      "published_at": "2026-10-03T11:01:54Z",
+      "view_count": 18732,
+      "like_count": 664,
+      "comment_count": 12,
+      "engagement_rate": 0.03608797779201366,
+      "topic_cluster": "ChatGPT",
+      "summary": "기업의 비전과 일치하지 않는 직원은 성과나 잠재력과 관계없이 조직을 떠나야 하며, 비전 공감 능력이 채용과 해고의 핵심 기준이 되어야 한다고 조언합니다.",
+      "comment_signal": "1st grade questions. Ask tougher questions: how do you retain talent, what would a random emplo…",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "0CVKKvRoInU",
       "channel_name": "조코딩 JoCoding",
-      "title": "이미지도 미친 수준으로 찍어내는 중국 모델 근황",
-      "thumbnail_url": "https://i.ytimg.com/vi/q0eEt9h7_Eo/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=q0eEt9h7_Eo",
-      "published_at": "2026-10-02T10:00:20Z",
-      "view_count": 13856,
-      "like_count": 125,
+      "title": "개발자가 바나나를 만드는 방법",
+      "thumbnail_url": "https://i.ytimg.com/vi/0CVKKvRoInU/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=0CVKKvRoInU",
+      "published_at": "2026-10-03T09:00:32Z",
+      "view_count": 8231,
+      "like_count": 56,
       "comment_count": 6,
-      "engagement_rate": 0.009454387990762125,
-      "topic_cluster": "이미지도",
-      "summary": "중국에서 개발된 최신 이미지 생성 AI 모델을 소개하며, 투명도 조절 및 자연스러운 이미지 변형 기능이 매우 뛰어난 수준임을 보여준다.",
-      "comment_signal": "양자버전 써봤는데 나노바나나 지피티 이미지랑 다르게 한글 편집은 그냥 불가능하고, 세밀한 제어는힘들지만 주변 환경을 유지한채로 변형하는건 거의 나노바나나 급으로 되긴함",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "E3xKmcHBOzY",
-      "channel_name": "The AI Advantage",
-      "title": "How ChatGPT Dots Can Change Your Life in 4 Minutes",
-      "thumbnail_url": "https://i.ytimg.com/vi/E3xKmcHBOzY/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=E3xKmcHBOzY",
-      "published_at": "2026-10-02T16:01:03Z",
-      "view_count": 13388,
-      "like_count": 283,
-      "comment_count": 24,
-      "engagement_rate": 0.022930982969823724,
-      "topic_cluster": "OpenAI",
-      "summary": "ChatGPT의 'Dots' 인터페이스를 활용하여 상시 작동형 어시스턴트로 작업 예약을 자동화하고, 음성 명령을 통해 효율적인 일상 업무 처리를 돕는 방법을 설명한…",
-      "comment_signal": "I would consider myself as a power user and the value is still not obvious to me despite watchi…",
+      "engagement_rate": 0.007532499088810594,
+      "topic_cluster": "개발자가",
+      "summary": "자바스크립트 환경에서 데이터 유형에 따라 발생하는 연산 오류와 이를 해결하기 위해 개발자가 숫자로 형 변환을 수행하는 과정을 설명합니다.",
+      "comment_signal": "뭔가 특별한 인사이트 같지만 ai앞에선 걍 불완전 코드식",
       "hook_type": "문제 해결"
     }
   ]
