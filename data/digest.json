@@ -1,262 +1,240 @@
 {
-  "digest_date": "2026-10-04",
-  "generated_at": "2026-10-04T02:34:01+00:00",
-  "summary": "최근 24시간 영상 10개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'ChatGPT'입니다. 특히 '이젠 진짜 컴퓨터보다 더 빠르다고요??? 아이폰 18 프로 성능 심층 분석편'는 조회수 463.0K, 참여율 0.6%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "'ChatGPT' 주제가 3개 영상으로 가장 많이 다뤄졌습니다. 오늘 수집 영상 10개는 주로 '뉴스 분석' 포맷이라, VS 비교·직접 실험 각도는 아직 비어 있습니다. ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.\n[내 채널] 7일 평균 19.9K회 · 지속률 30.2% / 경쟁사 평균 56.8K회 (격차 -65%)",
-  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 10/04\n\n📊 총 10개 | AI 핵심 5 · 인접 AI 5 · 일반 테크 보충 0\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 10 · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [성공지식백과] 24.9K뷰 · 참여율 1.4%\n   클로드코드 \"모드\"는 혁신입니다.. ㄷㄷ 미친 신기능 /mods\n   ↳ 클로드 코드(Claude Code)의 새로운 '모드' 기능을 활용해 작업 흐름을 사용자화하고 효율적인 UI 환경을 구축하는 방법을 소개합니다. 훅(Hook)을 결합하여 위험 명령 방지, 컨텍스트 비용 모니터링, 작…\n   https://youtu.be/KtquxqP2YnM\n\n2. AI 핵심 · [조코딩 JoCoding] 8.2K뷰 · 참여율 0.8%\n   개발자가 바나나를 만드는 방법\n   ↳ 자바스크립트 환경에서 데이터 유형에 따라 발생하는 연산 오류와 이를 해결하기 위해 개발자가 숫자로 형 변환을 수행하는 과정을 설명합니다.\n   https://youtu.be/0CVKKvRoInU\n\n3. AI 핵심 · [빌더 조쉬 Builder Josh] 1.5K뷰 · 참여율 0.5%\n   광고비 50만 원으로 시작해 6개월 만에 월 매출 1억 5천\n   ↳ 50만 원의 광고비를 활용해 페이스북 광고 전략을 세우고, 6개월 만에 월 매출 1억 5천만 원을 달성했던 초기 사업 성장 과정을 공유합니다.\n   https://youtu.be/w2C_nEdHwcw\n\n4. AI 핵심 · [빌더 조쉬 Builder Josh] 1.4K뷰 · 참여율 0.4%\n   \"AI야 돈 벌어와\"는 안 됩니다, 돈 버는 구조는 대표가 만듭니다\n   ↳ AI를 단순히 도구로 활용하는 것을 넘어, 대표가 직접 수익 창출 구조와 시스템을 설계하고 운영해야 실질적인 성과를 낼 수 있음을 강조합니다.\n   https://youtu.be/JgNaE5Kj_ZU\n\n5. AI 핵심 · [Futurepedia] 92뷰 · 참여율 1.1%\n   DOTS is your new schedule master.\n   ↳ DOTS는 반복 작업과 트리거를 통해 업무 일정을 자동화하고, 특정 조건 발생 시 요약이나 알림을 제공하는 스케줄 관리 도구입니다.\n   https://youtu.be/N352vaZPNso\n\n6. AI 인접 · [ITSub잇섭] 463.0K뷰 · 참여율 0.6%\n   이젠 진짜 컴퓨터보다 더 빠르다고요??? 아이폰 18 프로 성능 심층 분석편\n   ↳ 아이폰 18 프로의 성능과 방열 제어 능력을 분석한 결과, 강력한 성능을 보여주지만 전작 대비 배터리 효율과 발열 관리 면에서 경쟁 기기들과 뚜렷한 차이를 보입니다.\n   https://youtu.be/1Ca5zN_W4-k\n\n7. AI 인접 · [월텍남 - 월스트리트 테크남] 40.1K뷰 · 참여율 1.2%\n   \"일생 일대의 기회\"\n   ↳ AI 반도체 시장의 공급 부족 현상과 수급 문제를 분석하며, 기술의 복잡도가 증가함에 따라 지수 중심의 안정적인 투자가 트레이딩보다 유리할 수 있음을 제언합니다.\n   https://youtu.be/dpFJs-GoLsU\n\n8. AI 인접 · [Dan Martell] 18.7K뷰 · 참여율 3.6%\n   Should you train or fire these employees (from a +$100M CEO perspective)\n   ↳ 기업의 비전과 일치하지 않는 직원은 성과나 잠재력과 관계없이 조직을 떠나야 하며, 비전 공감 능력이 채용과 해고의 핵심 기준이 되어야 한다고 조언합니다.\n   https://youtu.be/Pz1JZUsHuzo\n\n9. AI 인접 · [안될공학 - IT 테크 신기술] 5.5K뷰 · 참여율 0.7%\n   정전 한 번에 수천억 손실? 반도체 공장 전력설비의 중요성\n   ↳ 반도체 공장의 정전으로 인한 막대한 피해를 방지하기 위해 전력 설비에 센서를 부착하고, AI 기반 데이터 분석으로 이상 징후를 사전에 탐지하는 관리 방식의 중요성을 다룹니다.\n   https://youtu.be/mqmrnxrCTq8\n\n10. AI 인접 · [Dan Martell] 4.6K뷰 · 참여율 9.5%\n   3 Skills You Need to Get Rich\n   ↳ 경제적 자립과 성공을 위해 필수적으로 습득해야 할 세 가지 핵심 기술에 대해 다룹니다.\n   https://youtu.be/8u7NbUT0XW4\n\n📈 스마트대디 어제 실적\n조회수 17.1K (↓14% vs 7일 평균) | 구독 +28\n시청 지속률 30.1% | 평균 시청 3분 07초\n경쟁사 평균 56.8K회 대비 내 7일 평균 -65%\n\n💡 VS 각도: ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
-  "video_count": 10,
-  "total_recent_video_count": 12,
+  "digest_date": "2026-10-05",
+  "generated_at": "2026-10-05T01:51:30+00:00",
+  "summary": "최근 24시간 영상 8개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'Gemini'입니다. 특히 'IT뉴스 - Gemini 4 Argon, DevDay, Tavus 영상 튜링테스트 통과, Eleven V4, ideogram 4.5, Kling 4.0 등'는 조회수 29.5K, 참여율 0.6%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "'Gemini' 주제가 1개 영상으로 가장 많이 다뤄졌습니다. 오늘 수집 영상 8개는 주로 '뉴스 분석' 포맷이라, VS 비교·직접 실험 각도는 아직 비어 있습니다. Gemini vs ChatGPT 일반인 기준 직접 실험 영상이 비어 있습니다. 구글 생태계 쓰는 사람이 체감하는 차이 검증.\n[내 채널] 7일 평균 16.5K회 · 지속률 29.9% / 경쟁사 평균 8.2K회 (격차 +103%)",
+  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 10/05\n\n📊 총 8개 | AI 핵심 5 · 인접 AI 3 · 일반 테크 보충 0\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 8 (최대 10) · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [조코딩 JoCoding] 29.5K뷰 · 참여율 0.6%\n   IT뉴스 - Gemini 4 Argon, DevDay, Tavus 영상 튜링테스트 통과, Eleven V4, ideogram 4.5, Kl…\n   ↳ Gemini 4 Argon, Eleven V4 등 최신 AI 모델 소식과 유튜브 내에 도입된 AI 기반의 인터랙티브 실험 기능들을 소개한다.\n   https://youtu.be/yBd2IW12zYc\n\n2. AI 핵심 · [성공지식백과] 2.7K뷰 · 참여율 2.5%\n   클로드 오퍼스 5.5의 미친 모션그래픽 방법 총정리.. ㄷㄷ\n   ↳ Claude Opus 5.5를 Higgsfield 플랫폼에 연결하여 전문가 수준의 모션 그래픽을 생성하는 과정을 다루며, 사용자가 브리프만 작성하면 AI 에이전트가 직접 기획부터 제작, 수정까지 수행하는 방법을 설…\n   https://youtu.be/NE306sbvopY\n\n3. AI 핵심 · [빌더 조쉬 Builder Josh] 2.1K뷰 · 참여율 0.2%\n   개발 경험 0명인 팀이 클로드 코드로 3주 만에 출시한 서비스\n   ↳ 개발 경험이 없는 팀이 클로드 코드를 활용해 단 3주 만에 서비스를 출시한 사례를 통해, 장기적인 연구보다는 빠른 실행과 시장 검증의 중요성을 강조한다.\n   https://youtu.be/Otgqj6w7h5E\n\n4. AI 핵심 · [빌더 조쉬 Builder Josh] 2.0K뷰 · 참여율 0.9%\n   운동 한 달 하고 챔피언 되는 사람 없듯, 사업도 똑같습니다\n   ↳ 사업을 운동처럼 기초 훈련이 필요한 과정으로 정의하며, 단기적인 결과에 좌절하기보다 꾸준한 훈련을 통해 실력을 쌓아가는 인내심이 성공의 핵심이라고 조언한다.\n   https://youtu.be/7O-wwR3v1ng\n\n5. AI 핵심 · [Futurepedia] 861뷰 · 참여율 2.2%\n   Pages is your new Notion in DOTS\n   ↳ AI 프로젝트 비서 도구인 DOTS의 기능을 설명하며, 채팅 맥락을 유지하면서 프로젝트별로 문서, 체크리스트, 하위 페이지를 생성하고 정리하는 방식을 소개한다.\n   https://youtu.be/mHPXee9Q0nU\n\n6. AI 인접 · [테크몽 Techmong] 17.0K뷰 · 참여율 0.4%\n   이제 외국어 안 배워도 될까?\n   ↳ 로키드 AI 글라스와 같은 웨어러블 기기를 이용해 상대방과 대화할 때 실시간으로 한글 자막을 시야에 띄우는 실시간 통역 기술과 그 활용성을 다룬다.\n   https://youtu.be/gtpXZwRlYYM\n\n7. AI 인접 · [Dan Martell] 9.9K뷰 · 참여율 6.3%\n   How do you build a successful company?\n   ↳ 성공적인 회사를 만들기 위해서는 초기부터 거창한 창업보다는 언제든 유연하게 수정하거나 버릴 수 있는 '프로젝트' 단위의 가벼운 접근 방식을 취할 것을 권장한다.\n   https://youtu.be/k7X24x06v4E\n\n8. AI 인접 · [Dan Martell] 1.2K뷰 · 참여율 6.8%\n   Should you start an AI automation business?\n   ↳ AI 자동화 사업의 가능성을 다루며, 사업주의 업무를 자동화해 주는 에이전시 모델을 통해 고정 수익을 창출하는 실질적인 비즈니스 전략을 설명한다.\n   https://youtu.be/H-R_FabFqaQ\n\n📈 스마트대디 어제 실적\n조회수 13.5K (↓18% vs 7일 평균) | 구독 +26\n시청 지속률 29.5% | 평균 시청 3분 01초\n경쟁사 평균 8.2K회 대비 내 7일 평균 +103%\n\n💡 VS 각도: Gemini vs ChatGPT 일반인 기준 직접 실험 영상이 비어 있습니다. 구글 생태계 쓰는 사람이 체감하는 차이 검증.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+  "video_count": 8,
+  "total_recent_video_count": 9,
   "focus_scope": "ai_priority_then_tech_fill",
-  "average_view_count": 56804.0,
-  "average_engagement_rate": 0.01973776192837455,
-  "average_like_count": 398.0,
-  "average_comment_count": 91.0,
-  "best_video_id": "1Ca5zN_W4-k",
-  "best_topic": "ChatGPT",
+  "average_view_count": 8156.0,
+  "average_engagement_rate": 0.024965790290339202,
+  "average_like_count": 132.0,
+  "average_comment_count": 3.0,
+  "best_video_id": "yBd2IW12zYc",
+  "best_topic": "Gemini",
   "summary_points": [
-    "가장 겹친 주제는 'ChatGPT'이며 3개 영상, 평균 조회수 7.8K, 평균 참여율 4.7%입니다.",
-    "최고 실적 영상은 '이젠 진짜 컴퓨터보다 더 빠르다고요??? 아이폰 18 프로 성능 심층 분석편'이며 솔직 검증 훅과 사례 분석 포맷 조합이 강했습니다.",
-    "반복 노출된 툴은 ChatGPT 3회, Claude 1회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
+    "가장 겹친 주제는 'Gemini'이며 1개 영상, 평균 조회수 29.5K, 평균 참여율 0.6%입니다.",
+    "최고 실적 영상은 'IT뉴스 - Gemini 4 Argon, DevDay, Tavus 영상 튜링테스트 통과, Eleven V4, ideogram 4.5, Kling 4.0 등'이며 성과 약속 훅과 뉴스 분석 포맷 조합이 강했습니다.",
+    "반복 노출된 툴은 Claude 1회, MCP 1회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
   ],
   "action_chips": [
-    "주제: ChatGPT",
-    "훅: 솔직 검증",
-    "포맷: 사례 분석",
-    "기준 채널: ITSub잇섭"
+    "주제: Gemini",
+    "훅: 성과 약속",
+    "포맷: 뉴스 분석",
+    "기준 채널: 조코딩 JoCoding"
   ],
   "title_suggestions": [
-    "ChatGPT vs Claude vs Gemini, 일반인 업무 실전 대결 결과",
-    "GPT 최신 버전 직접 실험 — 이전이랑 진짜 달라?",
-    "GPT 써봤더니... 기대랑 다른 점 솔직하게 다 말해봄"
+    "Gemini vs ChatGPT, 직장인이 1주일 써보니 이렇게 달랐다",
+    "구글 AI 직접 실험 결과 — 이게 진짜 되네? 안되네?",
+    "Gemini 써봤더니... 광고 말고 진짜 솔직 비교"
   ],
   "recommendations": [
     {
-      "title": "ChatGPT vs Claude vs Gemini, 일반인 업무 실전 대결 결과",
+      "title": "Gemini vs ChatGPT, 직장인이 1주일 써보니 이렇게 달랐다",
       "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'ChatGPT'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "ChatGPT 바로 해결",
-      "reason": "ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.",
-      "source_video_id": "Pz1JZUsHuzo",
-      "source": "Should you train or fire these employees (from a +$100M CEO perspective)",
-      "my_channel_context": "내 7일 평균 19.9K회 · 지속률 30.2% / 경쟁사 대비 -65%"
-    },
-    {
-      "title": "GPT 최신 버전 직접 실험 — 이전이랑 진짜 달라?",
-      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'ChatGPT'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "ChatGPT 바로 해결",
-      "reason": "ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.",
-      "source_video_id": "8u7NbUT0XW4",
-      "source": "3 Skills You Need to Get Rich",
-      "my_channel_context": "내 7일 평균 19.9K회 · 지속률 30.2% / 경쟁사 대비 -65%"
-    },
-    {
-      "title": "GPT 써봤더니... 기대랑 다른 점 솔직하게 다 말해봄",
-      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'ChatGPT'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "ChatGPT 바로 해결",
-      "reason": "ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.",
-      "source_video_id": "N352vaZPNso",
-      "source": "DOTS is your new schedule master.",
-      "my_channel_context": "내 7일 평균 19.9K회 · 지속률 30.2% / 경쟁사 대비 -65%"
+      "angle": "'Gemini'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
+      "thumbnail_copy": "Gemini 핵심 3가지",
+      "reason": "Gemini vs ChatGPT 일반인 기준 직접 실험 영상이 비어 있습니다. 구글 생태계 쓰는 사람이 체감하는 차이 검증.",
+      "source_video_id": "yBd2IW12zYc",
+      "source": "IT뉴스 - Gemini 4 Argon, DevDay, Tavus 영상 튜링테스트 통과, Eleven V4, ideogram 4.5, Kling 4.0 등",
+      "my_channel_context": "내 7일 평균 16.5K회 · 지속률 29.9% / 경쟁사 대비 +103%"
     }
   ],
   "topic_clusters": [
     {
-      "label": "ChatGPT",
-      "count": 3,
-      "avg_view_count": 7821,
-      "avg_engagement_rate": 0.047333548819226946,
-      "avg_like_count": 366,
+      "label": "Gemini",
+      "count": 1,
+      "avg_view_count": 29538,
+      "avg_engagement_rate": 0.006330828085855508,
+      "avg_like_count": 182,
+      "avg_comment_count": 5,
+      "source_titles": [
+        "IT뉴스 - Gemini 4 Argon, DevDay, Tavus 영상 튜링테스트 통과, Eleven V4, ideogram 4.5, Kling 4.0 등"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/yBd2IW12zYc/hqdefault.jpg",
+      "representative_video_id": "yBd2IW12zYc",
+      "representative_title": "IT뉴스 - Gemini 4 Argon, DevDay, Tavus 영상 튜링테스트 통과, Eleven V4, ideogram 4.5, Kling 4.0 등"
+    },
+    {
+      "label": "이제",
+      "count": 1,
+      "avg_view_count": 17015,
+      "avg_engagement_rate": 0.004466647076109316,
+      "avg_like_count": 73,
+      "avg_comment_count": 3,
+      "source_titles": [
+        "이제 외국어 안 배워도 될까?"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/gtpXZwRlYYM/hqdefault.jpg",
+      "representative_video_id": "gtpXZwRlYYM",
+      "representative_title": "이제 외국어 안 배워도 될까?"
+    },
+    {
+      "label": "창업",
+      "count": 1,
+      "avg_view_count": 9916,
+      "avg_engagement_rate": 0.06323114158935055,
+      "avg_like_count": 620,
       "avg_comment_count": 7,
       "source_titles": [
-        "Should you train or fire these employees (from a +$100M CEO perspective)",
-        "3 Skills You Need to Get Rich",
-        "DOTS is your new schedule master."
+        "How do you build a successful company?"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/Pz1JZUsHuzo/hqdefault.jpg",
-      "representative_video_id": "Pz1JZUsHuzo",
-      "representative_title": "Should you train or fire these employees (from a +$100M CEO perspective)"
-    },
-    {
-      "label": "이젠",
-      "count": 1,
-      "avg_view_count": 463004,
-      "avg_engagement_rate": 0.006127376869314304,
-      "avg_like_count": 2029,
-      "avg_comment_count": 808,
-      "source_titles": [
-        "이젠 진짜 컴퓨터보다 더 빠르다고요??? 아이폰 18 프로 성능 심층 분석편"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/1Ca5zN_W4-k/hqdefault.jpg",
-      "representative_video_id": "1Ca5zN_W4-k",
-      "representative_title": "이젠 진짜 컴퓨터보다 더 빠르다고요??? 아이폰 18 프로 성능 심층 분석편"
-    },
-    {
-      "label": "일생",
-      "count": 1,
-      "avg_view_count": 40069,
-      "avg_engagement_rate": 0.011904464798223066,
-      "avg_like_count": 425,
-      "avg_comment_count": 52,
-      "source_titles": [
-        "\"일생 일대의 기회\""
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/dpFJs-GoLsU/hqdefault.jpg",
-      "representative_video_id": "dpFJs-GoLsU",
-      "representative_title": "\"일생 일대의 기회\""
+      "thumbnail_url": "https://i.ytimg.com/vi/k7X24x06v4E/hqdefault.jpg",
+      "representative_video_id": "k7X24x06v4E",
+      "representative_title": "How do you build a successful company?"
     },
     {
       "label": "Claude",
       "count": 1,
-      "avg_view_count": 24894,
-      "avg_engagement_rate": 0.013657909536434483,
-      "avg_like_count": 323,
-      "avg_comment_count": 17,
+      "avg_view_count": 2692,
+      "avg_engagement_rate": 0.02451708766716196,
+      "avg_like_count": 62,
+      "avg_comment_count": 4,
       "source_titles": [
-        "클로드코드 \"모드\"는 혁신입니다.. ㄷㄷ 미친 신기능 /mods"
+        "클로드 오퍼스 5.5의 미친 모션그래픽 방법 총정리.. ㄷㄷ"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/KtquxqP2YnM/hqdefault.jpg",
-      "representative_video_id": "KtquxqP2YnM",
-      "representative_title": "클로드코드 \"모드\"는 혁신입니다.. ㄷㄷ 미친 신기능 /mods"
+      "thumbnail_url": "https://i.ytimg.com/vi/NE306sbvopY/hqdefault.jpg",
+      "representative_video_id": "NE306sbvopY",
+      "representative_title": "클로드 오퍼스 5.5의 미친 모션그래픽 방법 총정리.. ㄷㄷ"
     },
     {
-      "label": "개발자가",
+      "label": "개발",
       "count": 1,
-      "avg_view_count": 8231,
-      "avg_engagement_rate": 0.007532499088810594,
-      "avg_like_count": 56,
-      "avg_comment_count": 6,
+      "avg_view_count": 2074,
+      "avg_engagement_rate": 0.0024108003857280617,
+      "avg_like_count": 5,
+      "avg_comment_count": 0,
       "source_titles": [
-        "개발자가 바나나를 만드는 방법"
+        "개발 경험 0명인 팀이 클로드 코드로 3주 만에 출시한 서비스"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/0CVKKvRoInU/hqdefault.jpg",
-      "representative_video_id": "0CVKKvRoInU",
-      "representative_title": "개발자가 바나나를 만드는 방법"
+      "thumbnail_url": "https://i.ytimg.com/vi/Otgqj6w7h5E/hqdefault.jpg",
+      "representative_video_id": "Otgqj6w7h5E",
+      "representative_title": "개발 경험 0명인 팀이 클로드 코드로 3주 만에 출시한 서비스"
+    },
+    {
+      "label": "운동",
+      "count": 1,
+      "avg_view_count": 1956,
+      "avg_engagement_rate": 0.009202453987730062,
+      "avg_like_count": 18,
+      "avg_comment_count": 0,
+      "source_titles": [
+        "운동 한 달 하고 챔피언 되는 사람 없듯, 사업도 똑같습니다"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/7O-wwR3v1ng/hqdefault.jpg",
+      "representative_video_id": "7O-wwR3v1ng",
+      "representative_title": "운동 한 달 하고 챔피언 되는 사람 없듯, 사업도 똑같습니다"
     },
     {
       "label": "자동화",
       "count": 1,
-      "avg_view_count": 5467,
-      "avg_engagement_rate": 0.006584964331443205,
-      "avg_like_count": 35,
+      "avg_view_count": 1200,
+      "avg_engagement_rate": 0.0675,
+      "avg_like_count": 77,
+      "avg_comment_count": 4,
+      "source_titles": [
+        "Should you start an AI automation business?"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/H-R_FabFqaQ/hqdefault.jpg",
+      "representative_video_id": "H-R_FabFqaQ",
+      "representative_title": "Should you start an AI automation business?"
+    },
+    {
+      "label": "Notion",
+      "count": 1,
+      "avg_view_count": 861,
+      "avg_engagement_rate": 0.022067363530778164,
+      "avg_like_count": 18,
       "avg_comment_count": 1,
       "source_titles": [
-        "정전 한 번에 수천억 손실? 반도체 공장 전력설비의 중요성"
+        "Pages is your new Notion in DOTS"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/mqmrnxrCTq8/hqdefault.jpg",
-      "representative_video_id": "mqmrnxrCTq8",
-      "representative_title": "정전 한 번에 수천억 손실? 반도체 공장 전력설비의 중요성"
-    },
-    {
-      "label": "광고비",
-      "count": 1,
-      "avg_view_count": 1532,
-      "avg_engagement_rate": 0.005221932114882507,
-      "avg_like_count": 6,
-      "avg_comment_count": 2,
-      "source_titles": [
-        "광고비 50만 원으로 시작해 6개월 만에 월 매출 1억 5천"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/w2C_nEdHwcw/hqdefault.jpg",
-      "representative_video_id": "w2C_nEdHwcw",
-      "representative_title": "광고비 50만 원으로 시작해 6개월 만에 월 매출 1억 5천"
-    },
-    {
-      "label": "AI야",
-      "count": 1,
-      "avg_view_count": 1380,
-      "avg_engagement_rate": 0.004347826086956522,
-      "avg_like_count": 6,
-      "avg_comment_count": 0,
-      "source_titles": [
-        "\"AI야 돈 벌어와\"는 안 됩니다, 돈 버는 구조는 대표가 만듭니다"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/JgNaE5Kj_ZU/hqdefault.jpg",
-      "representative_video_id": "JgNaE5Kj_ZU",
-      "representative_title": "\"AI야 돈 벌어와\"는 안 됩니다, 돈 버는 구조는 대표가 만듭니다"
+      "thumbnail_url": "https://i.ytimg.com/vi/mHPXee9Q0nU/hqdefault.jpg",
+      "representative_video_id": "mHPXee9Q0nU",
+      "representative_title": "Pages is your new Notion in DOTS"
     }
   ],
   "video_highlights": [
     {
-      "video_id": "1Ca5zN_W4-k",
-      "channel_name": "ITSub잇섭",
-      "title": "이젠 진짜 컴퓨터보다 더 빠르다고요??? 아이폰 18 프로 성능 심층 분석편",
-      "thumbnail_url": "https://i.ytimg.com/vi/1Ca5zN_W4-k/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=1Ca5zN_W4-k",
-      "published_at": "2026-10-03T11:00:39Z",
-      "view_count": 463004,
-      "like_count": 2029,
-      "comment_count": 808,
-      "engagement_rate": 0.006127376869314304,
-      "topic_cluster": "이젠",
-      "summary": "아이폰 18 프로의 성능과 방열 제어 능력을 분석한 결과, 강력한 성능을 보여주지만 전작 대비 배터리 효율과 발열 관리 면에서 경쟁 기기들과 뚜렷한 차이를 보입니다.",
-      "comment_signal": "13 미니 쓰다가 18 프로로 넘어왔는데 성능 체감이 엄청나네요. 특히 2나노공정 A20 칩의 속도가 인상적입니다. 덕분에 다음 주 정형외과 터널증후군 진료 예약도 빠르게…",
-      "hook_type": "솔직 검증"
-    },
-    {
-      "video_id": "dpFJs-GoLsU",
-      "channel_name": "월텍남 - 월스트리트 테크남",
-      "title": "\"일생 일대의 기회\"",
-      "thumbnail_url": "https://i.ytimg.com/vi/dpFJs-GoLsU/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=dpFJs-GoLsU",
-      "published_at": "2026-10-03T03:04:27Z",
-      "view_count": 40069,
-      "like_count": 425,
-      "comment_count": 52,
-      "engagement_rate": 0.011904464798223066,
-      "topic_cluster": "일생",
-      "summary": "AI 반도체 시장의 공급 부족 현상과 수급 문제를 분석하며, 기술의 복잡도가 증가함에 따라 지수 중심의 안정적인 투자가 트레이딩보다 유리할 수 있음을 제언합니다.",
-      "comment_signal": "흥민손 감사합니다.",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "KtquxqP2YnM",
-      "channel_name": "성공지식백과",
-      "title": "클로드코드 \"모드\"는 혁신입니다.. ㄷㄷ 미친 신기능 /mods",
-      "thumbnail_url": "https://i.ytimg.com/vi/KtquxqP2YnM/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=KtquxqP2YnM",
-      "published_at": "2026-10-03T09:41:18Z",
-      "view_count": 24894,
-      "like_count": 323,
-      "comment_count": 17,
-      "engagement_rate": 0.013657909536434483,
-      "topic_cluster": "Claude",
-      "summary": "클로드 코드(Claude Code)의 새로운 '모드' 기능을 활용해 작업 흐름을 사용자화하고 효율적인 UI 환경을 구축하는 방법을 소개합니다. 훅(Hook)을 결합…",
-      "comment_signal": "영상에서 직접 만든 학습 노트와 Cache Watch를 보여드렸습니다. 코드가 왜 바뀌었는지 읽거나, 컨텍스트와 비용을 확인하는 기능도 내 작업 방식에 맞게 붙일 수 있어…",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "Pz1JZUsHuzo",
-      "channel_name": "Dan Martell",
-      "title": "Should you train or fire these employees (from a +$100M CEO perspective)",
-      "thumbnail_url": "https://i.ytimg.com/vi/Pz1JZUsHuzo/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=Pz1JZUsHuzo",
-      "published_at": "2026-10-03T11:01:54Z",
-      "view_count": 18732,
-      "like_count": 664,
-      "comment_count": 12,
-      "engagement_rate": 0.03608797779201366,
-      "topic_cluster": "ChatGPT",
-      "summary": "기업의 비전과 일치하지 않는 직원은 성과나 잠재력과 관계없이 조직을 떠나야 하며, 비전 공감 능력이 채용과 해고의 핵심 기준이 되어야 한다고 조언합니다.",
-      "comment_signal": "1st grade questions. Ask tougher questions: how do you retain talent, what would a random emplo…",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "0CVKKvRoInU",
+      "video_id": "yBd2IW12zYc",
       "channel_name": "조코딩 JoCoding",
-      "title": "개발자가 바나나를 만드는 방법",
-      "thumbnail_url": "https://i.ytimg.com/vi/0CVKKvRoInU/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=0CVKKvRoInU",
-      "published_at": "2026-10-03T09:00:32Z",
-      "view_count": 8231,
-      "like_count": 56,
-      "comment_count": 6,
-      "engagement_rate": 0.007532499088810594,
-      "topic_cluster": "개발자가",
-      "summary": "자바스크립트 환경에서 데이터 유형에 따라 발생하는 연산 오류와 이를 해결하기 위해 개발자가 숫자로 형 변환을 수행하는 과정을 설명합니다.",
-      "comment_signal": "뭔가 특별한 인사이트 같지만 ai앞에선 걍 불완전 코드식",
+      "title": "IT뉴스 - Gemini 4 Argon, DevDay, Tavus 영상 튜링테스트 통과, Eleven V4, ideogram 4.5, Kling 4.0 등",
+      "thumbnail_url": "https://i.ytimg.com/vi/yBd2IW12zYc/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=yBd2IW12zYc",
+      "published_at": "2026-10-04T11:25:37Z",
+      "view_count": 29538,
+      "like_count": 182,
+      "comment_count": 5,
+      "engagement_rate": 0.006330828085855508,
+      "topic_cluster": "Gemini",
+      "summary": "Gemini 4 Argon, Eleven V4 등 최신 AI 모델 소식과 유튜브 내에 도입된 AI 기반의 인터랙티브 실험 기능들을 소개한다.",
+      "comment_signal": "항상 감사합니다",
+      "hook_type": "성과 약속"
+    },
+    {
+      "video_id": "gtpXZwRlYYM",
+      "channel_name": "테크몽 Techmong",
+      "title": "이제 외국어 안 배워도 될까?",
+      "thumbnail_url": "https://i.ytimg.com/vi/gtpXZwRlYYM/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=gtpXZwRlYYM",
+      "published_at": "2026-10-04T09:00:29Z",
+      "view_count": 17015,
+      "like_count": 73,
+      "comment_count": 3,
+      "engagement_rate": 0.004466647076109316,
+      "topic_cluster": "이제",
+      "summary": "로키드 AI 글라스와 같은 웨어러블 기기를 이용해 상대방과 대화할 때 실시간으로 한글 자막을 시야에 띄우는 실시간 통역 기술과 그 활용성을 다룬다.",
+      "comment_signal": "어차피 소통할려면 폰 꺼내서 번역 어플 보여줘야됨.. 자막없는 av볼때 말고는 짜다리 쓸모없음.. ㅋㅋ",
       "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "k7X24x06v4E",
+      "channel_name": "Dan Martell",
+      "title": "How do you build a successful company?",
+      "thumbnail_url": "https://i.ytimg.com/vi/k7X24x06v4E/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=k7X24x06v4E",
+      "published_at": "2026-10-04T17:02:44Z",
+      "view_count": 9916,
+      "like_count": 620,
+      "comment_count": 7,
+      "engagement_rate": 0.06323114158935055,
+      "topic_cluster": "창업",
+      "summary": "성공적인 회사를 만들기 위해서는 초기부터 거창한 창업보다는 언제든 유연하게 수정하거나 버릴 수 있는 '프로젝트' 단위의 가벼운 접근 방식을 취할 것을 권장한다.",
+      "comment_signal": "Why the blue t-shirt all the time ?",
+      "hook_type": "실험 데모"
+    },
+    {
+      "video_id": "NE306sbvopY",
+      "channel_name": "성공지식백과",
+      "title": "클로드 오퍼스 5.5의 미친 모션그래픽 방법 총정리.. ㄷㄷ",
+      "thumbnail_url": "https://i.ytimg.com/vi/NE306sbvopY/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=NE306sbvopY",
+      "published_at": "2026-10-04T20:12:24Z",
+      "view_count": 2692,
+      "like_count": 62,
+      "comment_count": 4,
+      "engagement_rate": 0.02451708766716196,
+      "topic_cluster": "Claude",
+      "summary": "Claude Opus 5.5를 Higgsfield 플랫폼에 연결하여 전문가 수준의 모션 그래픽을 생성하는 과정을 다루며, 사용자가 브리프만 작성하면 AI 에이전트가…",
+      "comment_signal": "Mac 에서는 모션인가 하는 걸로 되나요 애프터 이펙트 말고요",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "Otgqj6w7h5E",
+      "channel_name": "빌더 조쉬 Builder Josh",
+      "title": "개발 경험 0명인 팀이 클로드 코드로 3주 만에 출시한 서비스",
+      "thumbnail_url": "https://i.ytimg.com/vi/Otgqj6w7h5E/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=Otgqj6w7h5E",
+      "published_at": "2026-10-04T09:00:27Z",
+      "view_count": 2074,
+      "like_count": 5,
+      "comment_count": 0,
+      "engagement_rate": 0.0024108003857280617,
+      "topic_cluster": "개발",
+      "summary": "개발 경험이 없는 팀이 클로드 코드를 활용해 단 3주 만에 서비스를 출시한 사례를 통해, 장기적인 연구보다는 빠른 실행과 시장 검증의 중요성을 강조한다.",
+      "comment_signal": "댓글 반응은 아직 약한 편입니다.",
+      "hook_type": "긴급성"
     }
   ]
 }
