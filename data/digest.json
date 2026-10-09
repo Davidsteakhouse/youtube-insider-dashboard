@@ -1,252 +1,239 @@
 {
-  "digest_date": "2026-10-08",
-  "generated_at": "2026-10-08T02:41:33+00:00",
-  "summary": "최근 24시간 영상 12개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'ChatGPT'입니다. 특히 '배터리 수명 100%라던 내 갤럭시, 직접 뜯어보니..어?'는 조회수 181.2K, 참여율 2.2%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "'ChatGPT' 주제가 2개 영상으로 가장 많이 다뤄졌습니다. ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.\n[내 채널] 7일 평균 13.3K회 · 지속률 29.4% / 경쟁사 평균 22.1K회 (격차 -40%)",
-  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 10/08\n\n📊 총 10개 | AI 핵심 9 · 인접 AI 1 · 일반 테크 보충 0\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 10 · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [조코딩 JoCoding] 31.3K뷰 · 참여율 0.5%\n   괴롭히기에 진심인 일론 머스크 ㅋㅋㅋㅋㅋ\n   ↳ 일론 머스크가 샘 알트만의 오픈AI 행보를 견제하며 'XI' 관련 도메인을 선점하는 등 특유의 방식으로 유머러스하게 대응하는 모습을 다루고 있다.\n   https://youtu.be/iRXcwApX69E\n\n2. AI 핵심 · [조코딩 JoCoding] 19.1K뷰 · 참여율 1.1%\n   네비게이션이 미친속도로 길을 찾아내는 비밀\n   ↳ 내비게이션이 빠르게 길을 찾는 원리는 도로 네트워크의 지름길을 미리 계산해 저장해 두고, 실시간 교통 데이터만을 반영하는 효율적인 알고리즘 구조 덕분이다.\n   https://youtu.be/huKrw8Z6_5Y\n\n3. AI 핵심 · [조코딩 JoCoding] 11.4K뷰 · 참여율 1.3%\n   업데이트들이 쏟아진 오픈AI DevDay 총정리\n   ↳ 오픈AI의 DevDay를 통해 사용자가 직접 컴퓨터를 제어할 수 있는 기능과 새로운 GPT 모델이 발표되는 등 주요 업데이트 사항을 요약했다.\n   https://youtu.be/1CaRq4L_eRo\n\n4. AI 핵심 · [tef] 4.2K뷰 · 참여율 11.6%\n   Heretic AI is Scary.\n   ↳ 보안 장치가 없는 위험한 AI인 '헤레틱 AI'의 사례를 통해, AI가 피싱 페이지를 생성하거나 위험한 정보를 제공하는 등 악용될 가능성을 경고한다.\n   https://youtu.be/DDxkd940hWI\n\n5. AI 핵심 · [조코딩 JoCoding] 4.0K뷰 · 참여율 1.2%\n   채팅에 올리고 못 찾던 아이디어들 AI로 자동 정리 하는법\n   ↳ 슬랙에 입력된 아이디어 메시지를 자동화 도구로 연동하여 구글 시트에 카테고리별로 자동 정리하는 효율적인 생산성 관리 방법을 소개한다.\n   https://youtu.be/NF_PDgV_fpc\n\n6. AI 핵심 · [The AI Advantage] 3.1K뷰 · 참여율 2.1%\n   ChatGPT Dots Explained in 1 Minute\n   ↳ ChatGPT의 '닷(Dots)' 기능은 모든 채팅과 프로젝트를 통합 관리하며, 인터페이스 내에서 직접 대화하거나 음성 통화를 통해 작업을 제어할 수 있는 효율적인 보조 도구다.\n   https://youtu.be/5KrfKLXNQkQ\n\n7. AI 핵심 · [The AI Advantage] 2.7K뷰 · 참여율 2.6%\n   ChatGPT Dots Can Scan Things For You\n   ↳ ChatGPT의 '닷(Dots)' 기능을 활용하여 스캔 및 자동화 작업을 설정함으로써, 복잡한 기능을 하나의 인터페이스에서 통합적으로 실행하는 활용법을 제시한다.\n   https://youtu.be/wtm2Dl1PHtk\n\n8. AI 핵심 · [The AI Automators] 506뷰 · 참여율 3.6%\n   I Tested Laya vs. Jev on 1,000 Real Support Chats\n   ↳ 오픈소스 모델인 'Laya'는 클라우드 모델과 대등한 성능을 내면서도 로컬 GPU에서 실행 가능하며, 상담 자동화 시 확률값을 제공해 신뢰성 있는 의사결정을 돕는다.\n   https://youtu.be/rnySznX9rd4\n\n9. AI 핵심 · [Goda Go] 169뷰 · 참여율 0.6%\n   What Are We Afraid of Losing to AI?\n   ↳ AI 시대에 인간이 잃게 될 가치와 대안을 고민하는 베를린 커뮤니티의 논의를 통해, 교육 분야에서의 실질적인 해결책을 모색하는 움직임을 보여준다.\n   https://youtu.be/yI4xGw61ME8\n\n10. AI 인접 · [테크몽 Techmong] 181.2K뷰 · 참여율 2.2%\n   배터리 수명 100%라던 내 갤럭시, 직접 뜯어보니..어?\n   ↳ 갤럭시 스마트폰의 배터리 성능 수치가 정확하지 않을 수 있다는 점에 착안해, 직접 기기를 분해하고 분석 도구를 활용하여 실제 배터리 효율을 검증했다.\n   https://youtu.be/cX_AkiU9x_Q\n\n📈 스마트대디 어제 실적\n조회수 11.2K (↓16% vs 7일 평균) | 구독 +24\n시청 지속률 28.6% | 평균 시청 2분 51초\n경쟁사 평균 22.1K회 대비 내 7일 평균 -40%\n\n💡 VS 각도: ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
-  "video_count": 12,
-  "total_recent_video_count": 17,
+  "digest_date": "2026-10-09",
+  "generated_at": "2026-10-09T02:57:35+00:00",
+  "summary": "최근 24시간 영상 10개를 기준으로 보면, 오늘 가장 먼저 볼 축은 '인간을'입니다. 특히 '🚨 인간을 속이는 데 성공한 영상 AI..?'는 조회수 27.3K, 참여율 0.8%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "'인간을' 주제가 1개 영상으로 가장 많이 다뤄졌습니다. 오늘 수집 영상 10개는 주로 '빌드 데모' 포맷이라, VS 비교·직접 실험 각도는 아직 비어 있습니다. 일반인 관점 직접 실험 or VS 비교 각도로 차별화할 영역이 있습니다.\n[내 채널] 7일 평균 14.6K회 · 지속률 28.8% / 경쟁사 평균 8.4K회 (격차 +74%)",
+  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 10/09\n\n📊 총 10개 | AI 핵심 9 · 인접 AI 1 · 일반 테크 보충 0\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 10 · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [조코딩 JoCoding] 27.3K뷰 · 참여율 0.8%\n   🚨 인간을 속이는 데 성공한 영상 AI..?\n   ↳ Tavus는 실시간 대화 중 48%의 사용자가 실제 인간이라고 착각할 정도로 정교하고 자연스러운 움직임을 보여주는 영상 AI 기술을 구현했습니다.\n   https://youtu.be/jZbeBkuRmvU\n\n2. AI 핵심 · [조코딩 JoCoding] 17.0K뷰 · 참여율 1.1%\n   은행권을 터는 데 사용된게 AI라고??\n   ↳ 최근 발생한 은행권 보안 사고는 부적절한 웹 서비스 인증 검증과 방치된 취약점을 AI 해킹 도구가 악용하면서 발생한 것으로 분석되었습니다.\n   https://youtu.be/dPV6YZPry-4\n\n3. AI 핵심 · [조코딩 JoCoding] 12.0K뷰 · 참여율 0.9%\n   당신이 생각한 숫자를 맞춰보겠습니다\n   ↳ 데이터의 정렬된 순서를 활용하여 범위를 절반씩 좁혀나가는 이진 탐색 알고리즘을 설명하며, 이를 통해 깃 바이섹트 등 개발 도구에서 효율적인 문제 해결이 가능함을 보여줍니다.\n   https://youtu.be/MS82laju3jQ\n\n4. AI 핵심 · [조코딩 JoCoding] 8.9K뷰 · 참여율 0.8%\n   한손만 짚으면 정말 미로를 빠져나갈 수 있을까?\n   ↳ 미로 찾기 알고리즘인 왼손 법칙과 플러드 필 기법을 소개하며, 단순히 벽을 짚는 방식보다 각 칸에 거리 정보를 기록하고 최단 경로를 탐색하는 기억 기반 방식의 효율성을 강조합니다.\n   https://youtu.be/adKPe4h01Nk\n\n5. AI 핵심 · [조코딩 JoCoding] 5.8K뷰 · 참여율 0.6%\n   광고 문의 오면 AI가 알아서 확인하고 초안 작성해줌 ㄷㄷ\n   ↳ 광고 문의 메일 수신 시 AI를 활용해 단가와 소개서 내용을 확인하고 답장 초안을 자동으로 작성하는 워크플로우를 다룹니다.\n   https://youtu.be/kKHFaD3maTk\n\n6. AI 핵심 · [AI 머니] 3.9K뷰 · 참여율 0.8%\n   조회수 폭발하는 AI 인플루언서, 무료로 5분 만에 만들어봤습니다\n   ↳ 힉스필드 AI를 활용해 하나의 캐릭터로 아바타를 생성하고, 참고 영상의 동작을 적용하여 5분 만에 자연스러운 움직임을 가진 인플루언서 영상을 만드는 방법을 시연합니다.\n   https://youtu.be/yxwm5whAg5o\n\n7. AI 핵심 · [Matt Wolfe] 3.1K뷰 · 참여율 2.2%\n   AI Design Hack Saves HOURS\n   ↳ GenSpark Design을 활용하면 프롬프트 입력만으로 앱 목업과 웹 사이트 UI를 30분 내외로 제작할 수 있어 디자인 작업 시간을 획기적으로 단축할 수 있습니다.\n   https://youtu.be/grOilk8aCS0\n\n8. AI 핵심 · [MattVidPro] 2.2K뷰 · 참여율 5.5%\n   Create WILD Seamless AI Intros (Full Workflow)\n   ↳ 런웨이의 AI 도구와 MCP 워크플로우를 활용하여 영상 도입부와 실제 촬영 영상을 자연스럽게 연결하는 편집 기법을 소개합니다.\n   https://youtu.be/COgSlYOwEaI\n\n9. AI 핵심 · [The AI Automators] 1.6K뷰 · 참여율 2.5%\n   Matt's new skill is well worth running.\n   ↳ Claude Code와 같은 AI 개발 에이전트가 코딩 과정에서 반복하는 오류와 비효율적인 비용 발생 문제를 식별하고, 레트로 스킬을 통해 이를 해결하는 방법을 다룹니다.\n   https://youtu.be/PBpWQKVzUAE\n\n10. AI 인접 · [월텍남 - 월스트리트 테크남] 2.2K뷰 · 참여율 4.7%\n   메모리, 반도체, AI인프라 투자 \"초비상\"\n   ↳ AI 인프라 및 반도체 분야에 막대한 투자가 이루어지고 있으나, 실질적인 매출 회수에 대한 시장의 우려와 오픈AI의 매출 산정 방식 논란 등이 겹치며 관련 주식 시장이 흔들리고 있습니다.\n   https://youtu.be/WI-VeN7ASo4\n\n📈 스마트대디 어제 실적\n조회수 18.9K (↑29% vs 7일 평균) | 구독 +20\n시청 지속률 27.1% | 평균 시청 3분 05초\n경쟁사 평균 8.4K회 대비 내 7일 평균 +74%\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+  "video_count": 10,
+  "total_recent_video_count": 14,
   "focus_scope": "ai_priority_then_tech_fill",
-  "average_view_count": 22118.0,
-  "average_engagement_rate": 0.03282411883765186,
-  "average_like_count": 424.0,
-  "average_comment_count": 53.0,
-  "best_video_id": "cX_AkiU9x_Q",
-  "best_topic": "ChatGPT",
+  "average_view_count": 8400.0,
+  "average_engagement_rate": 0.019847874047877377,
+  "average_like_count": 90.0,
+  "average_comment_count": 9.0,
+  "best_video_id": "jZbeBkuRmvU",
+  "best_topic": "인간을",
   "summary_points": [
-    "가장 겹친 주제는 'ChatGPT'이며 2개 영상, 평균 조회수 92.4K, 평균 참여율 5.3%입니다.",
-    "최고 실적 영상은 '배터리 수명 100%라던 내 갤럭시, 직접 뜯어보니..어?'이며 실험 훅과 뉴스 분석 포맷 조합이 강했습니다.",
-    "반복 노출된 툴은 ChatGPT 4회, OpenAI 2회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
+    "가장 겹친 주제는 '인간을'이며 1개 영상, 평균 조회수 27.3K, 평균 참여율 0.8%입니다.",
+    "최고 실적 영상은 '🚨 인간을 속이는 데 성공한 영상 AI..?'이며 문제 해결 훅과 빌드 데모 포맷 조합이 강했습니다.",
+    "반복 노출된 툴은 ChatGPT 1회, MCP 1회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
   ],
   "action_chips": [
-    "주제: ChatGPT",
-    "훅: 실험",
-    "포맷: 뉴스 분석",
-    "기준 채널: 테크몽 Techmong"
+    "주제: 인간을",
+    "훅: 문제 해결",
+    "포맷: 빌드 데모",
+    "기준 채널: 조코딩 JoCoding"
   ],
   "title_suggestions": [
-    "ChatGPT vs Claude vs Gemini, 일반인 업무 실전 대결 결과",
-    "GPT 최신 버전 직접 실험 — 이전이랑 진짜 달라?",
-    "GPT 써봤더니... 기대랑 다른 점 솔직하게 다 말해봄"
+    "인간을 직접 실험 — 이게 진짜 되나?",
+    "인간을 vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
+    "인간을 써봤더니... (기대 vs 현실 솔직 후기)"
   ],
   "recommendations": [
     {
-      "title": "ChatGPT vs Claude vs Gemini, 일반인 업무 실전 대결 결과",
-      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'ChatGPT'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "ChatGPT 핵심 3가지",
-      "reason": "ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.",
-      "source_video_id": "cX_AkiU9x_Q",
-      "source": "배터리 수명 100%라던 내 갤럭시, 직접 뜯어보니..어?",
-      "my_channel_context": "내 7일 평균 13.3K회 · 지속률 29.4% / 경쟁사 대비 -40%"
-    },
-    {
-      "title": "GPT 최신 버전 직접 실험 — 이전이랑 진짜 달라?",
-      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'ChatGPT'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "ChatGPT 바로 해결",
-      "reason": "ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.",
-      "source_video_id": "IdvRnykiU6M",
-      "source": "What AI user are you? Dumb? Normal? Smart?",
-      "my_channel_context": "내 7일 평균 13.3K회 · 지속률 29.4% / 경쟁사 대비 -40%"
+      "title": "인간을 직접 실험 — 이게 진짜 되나?",
+      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
+      "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
+      "thumbnail_copy": "인간을 바로 해결",
+      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
+      "source_video_id": "jZbeBkuRmvU",
+      "source": "🚨 인간을 속이는 데 성공한 영상 AI..?",
+      "my_channel_context": "내 7일 평균 14.6K회 · 지속률 28.8% / 경쟁사 대비 +74%"
     }
   ],
   "topic_clusters": [
     {
-      "label": "ChatGPT",
-      "count": 2,
-      "avg_view_count": 92403,
-      "avg_engagement_rate": 0.0533915431462764,
-      "avg_like_count": 1933,
-      "avg_comment_count": 238,
-      "source_titles": [
-        "배터리 수명 100%라던 내 갤럭시, 직접 뜯어보니..어?",
-        "What AI user are you? Dumb? Normal? Smart?"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/cX_AkiU9x_Q/hqdefault.jpg",
-      "representative_video_id": "cX_AkiU9x_Q",
-      "representative_title": "배터리 수명 100%라던 내 갤럭시, 직접 뜯어보니..어?"
-    },
-    {
-      "label": "agents",
-      "count": 2,
-      "avg_view_count": 5970,
-      "avg_engagement_rate": 0.024084120960440082,
-      "avg_like_count": 76,
-      "avg_comment_count": 4,
-      "source_titles": [
-        "업데이트들이 쏟아진 오픈AI DevDay 총정리",
-        "I Tested Laya vs. Jev on 1,000 Real Support Chats"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/1CaRq4L_eRo/hqdefault.jpg",
-      "representative_video_id": "1CaRq4L_eRo",
-      "representative_title": "업데이트들이 쏟아진 오픈AI DevDay 총정리"
-    },
-    {
-      "label": "OpenAI",
-      "count": 2,
-      "avg_view_count": 2878,
-      "avg_engagement_rate": 0.023289897333090337,
-      "avg_like_count": 64,
-      "avg_comment_count": 3,
-      "source_titles": [
-        "ChatGPT Dots Explained in 1 Minute",
-        "ChatGPT Dots Can Scan Things For You"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/5KrfKLXNQkQ/hqdefault.jpg",
-      "representative_video_id": "5KrfKLXNQkQ",
-      "representative_title": "ChatGPT Dots Explained in 1 Minute"
-    },
-    {
-      "label": "괴롭히기에",
+      "label": "인간을",
       "count": 1,
-      "avg_view_count": 31338,
-      "avg_engagement_rate": 0.004977982002680452,
-      "avg_like_count": 141,
+      "avg_view_count": 27303,
+      "avg_engagement_rate": 0.008350730688935281,
+      "avg_like_count": 213,
       "avg_comment_count": 15,
       "source_titles": [
-        "괴롭히기에 진심인 일론 머스크 ㅋㅋㅋㅋㅋ"
+        "🚨 인간을 속이는 데 성공한 영상 AI..?"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/iRXcwApX69E/hqdefault.jpg",
-      "representative_video_id": "iRXcwApX69E",
-      "representative_title": "괴롭히기에 진심인 일론 머스크 ㅋㅋㅋㅋㅋ"
+      "thumbnail_url": "https://i.ytimg.com/vi/jZbeBkuRmvU/hqdefault.jpg",
+      "representative_video_id": "jZbeBkuRmvU",
+      "representative_title": "🚨 인간을 속이는 데 성공한 영상 AI..?"
     },
     {
-      "label": "네비게이션이",
+      "label": "은행권을",
       "count": 1,
-      "avg_view_count": 19070,
-      "avg_engagement_rate": 0.011326691137912952,
-      "avg_like_count": 192,
-      "avg_comment_count": 24,
+      "avg_view_count": 16971,
+      "avg_engagement_rate": 0.010900948677155147,
+      "avg_like_count": 165,
+      "avg_comment_count": 20,
       "source_titles": [
-        "네비게이션이 미친속도로 길을 찾아내는 비밀"
+        "은행권을 터는 데 사용된게 AI라고??"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/huKrw8Z6_5Y/hqdefault.jpg",
-      "representative_video_id": "huKrw8Z6_5Y",
-      "representative_title": "네비게이션이 미친속도로 길을 찾아내는 비밀"
+      "thumbnail_url": "https://i.ytimg.com/vi/dPV6YZPry-4/hqdefault.jpg",
+      "representative_video_id": "dPV6YZPry-4",
+      "representative_title": "은행권을 터는 데 사용된게 AI라고??"
     },
     {
-      "label": "인공지능",
+      "label": "당신이",
       "count": 1,
-      "avg_view_count": 4227,
-      "avg_engagement_rate": 0.11639460610361958,
-      "avg_like_count": 401,
-      "avg_comment_count": 91,
+      "avg_view_count": 12036,
+      "avg_engagement_rate": 0.009305417082087071,
+      "avg_like_count": 106,
+      "avg_comment_count": 6,
       "source_titles": [
-        "Heretic AI is Scary."
+        "당신이 생각한 숫자를 맞춰보겠습니다"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/DDxkd940hWI/hqdefault.jpg",
-      "representative_video_id": "DDxkd940hWI",
-      "representative_title": "Heretic AI is Scary."
+      "thumbnail_url": "https://i.ytimg.com/vi/MS82laju3jQ/hqdefault.jpg",
+      "representative_video_id": "MS82laju3jQ",
+      "representative_title": "당신이 생각한 숫자를 맞춰보겠습니다"
     },
     {
-      "label": "미국국채금리",
+      "label": "한손만",
       "count": 1,
-      "avg_view_count": 4156,
-      "avg_engagement_rate": 0.04186717998075072,
-      "avg_like_count": 164,
-      "avg_comment_count": 10,
+      "avg_view_count": 8888,
+      "avg_engagement_rate": 0.007538253825382538,
+      "avg_like_count": 61,
+      "avg_comment_count": 6,
       "source_titles": [
-        "국채금리 폭등중...그런데 마이크론 3배, 마벨 10배 오른다는 전망까지.."
+        "한손만 짚으면 정말 미로를 빠져나갈 수 있을까?"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/E1wdzC_qooY/hqdefault.jpg",
-      "representative_video_id": "E1wdzC_qooY",
-      "representative_title": "국채금리 폭등중...그런데 마이크론 3배, 마벨 10배 오른다는 전망까지.."
+      "thumbnail_url": "https://i.ytimg.com/vi/adKPe4h01Nk/hqdefault.jpg",
+      "representative_video_id": "adKPe4h01Nk",
+      "representative_title": "한손만 짚으면 정말 미로를 빠져나갈 수 있을까?"
     },
     {
-      "label": "채팅에",
+      "label": "광고",
       "count": 1,
-      "avg_view_count": 3958,
-      "avg_engagement_rate": 0.011874684183931278,
-      "avg_like_count": 46,
+      "avg_view_count": 5787,
+      "avg_engagement_rate": 0.005529635389666494,
+      "avg_like_count": 32,
+      "avg_comment_count": 0,
+      "source_titles": [
+        "광고 문의 오면 AI가 알아서 확인하고 초안 작성해줌 ㄷㄷ"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/kKHFaD3maTk/hqdefault.jpg",
+      "representative_video_id": "kKHFaD3maTk",
+      "representative_title": "광고 문의 오면 AI가 알아서 확인하고 초안 작성해줌 ㄷㄷ"
+    },
+    {
+      "label": "조회수",
+      "count": 1,
+      "avg_view_count": 3899,
+      "avg_engagement_rate": 0.008463708643241858,
+      "avg_like_count": 32,
       "avg_comment_count": 1,
       "source_titles": [
-        "채팅에 올리고 못 찾던 아이디어들 AI로 자동 정리 하는법"
+        "조회수 폭발하는 AI 인플루언서, 무료로 5분 만에 만들어봤습니다"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/NF_PDgV_fpc/hqdefault.jpg",
-      "representative_video_id": "NF_PDgV_fpc",
-      "representative_title": "채팅에 올리고 못 찾던 아이디어들 AI로 자동 정리 하는법"
+      "thumbnail_url": "https://i.ytimg.com/vi/yxwm5whAg5o/hqdefault.jpg",
+      "representative_video_id": "yxwm5whAg5o",
+      "representative_title": "조회수 폭발하는 AI 인플루언서, 무료로 5분 만에 만들어봤습니다"
+    },
+    {
+      "label": "코딩",
+      "count": 1,
+      "avg_view_count": 3068,
+      "avg_engagement_rate": 0.02151238591916558,
+      "avg_like_count": 63,
+      "avg_comment_count": 3,
+      "source_titles": [
+        "AI Design Hack Saves HOURS"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/grOilk8aCS0/hqdefault.jpg",
+      "representative_video_id": "grOilk8aCS0",
+      "representative_title": "AI Design Hack Saves HOURS"
+    },
+    {
+      "label": "ChatGPT",
+      "count": 1,
+      "avg_view_count": 2220,
+      "avg_engagement_rate": 0.0545045045045045,
+      "avg_like_count": 96,
+      "avg_comment_count": 25,
+      "source_titles": [
+        "Create WILD Seamless AI Intros (Full Workflow)"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/COgSlYOwEaI/hqdefault.jpg",
+      "representative_video_id": "COgSlYOwEaI",
+      "representative_title": "Create WILD Seamless AI Intros (Full Workflow)"
     }
   ],
   "video_highlights": [
     {
-      "video_id": "cX_AkiU9x_Q",
-      "channel_name": "테크몽 Techmong",
-      "title": "배터리 수명 100%라던 내 갤럭시, 직접 뜯어보니..어?",
-      "thumbnail_url": "https://i.ytimg.com/vi/cX_AkiU9x_Q/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=cX_AkiU9x_Q",
-      "published_at": "2026-10-07T11:20:31Z",
-      "view_count": 181220,
-      "like_count": 3575,
-      "comment_count": 464,
-      "engagement_rate": 0.022287826950667698,
-      "topic_cluster": "ChatGPT",
-      "summary": "갤럭시 스마트폰의 배터리 성능 수치가 정확하지 않을 수 있다는 점에 착안해, 직접 기기를 분해하고 분석 도구를 활용하여 실제 배터리 효율을 검증했다.",
-      "comment_signal": "5년을 넘게 써도 배터리 상태 정상으로 뜸 배터리는 무슨 소금 녹듯이 닳아지는데요.",
-      "hook_type": "실험"
-    },
-    {
-      "video_id": "iRXcwApX69E",
+      "video_id": "jZbeBkuRmvU",
       "channel_name": "조코딩 JoCoding",
-      "title": "괴롭히기에 진심인 일론 머스크 ㅋㅋㅋㅋㅋ",
-      "thumbnail_url": "https://i.ytimg.com/vi/iRXcwApX69E/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=iRXcwApX69E",
-      "published_at": "2026-10-07T13:00:07Z",
-      "view_count": 31338,
-      "like_count": 141,
+      "title": "🚨 인간을 속이는 데 성공한 영상 AI..?",
+      "thumbnail_url": "https://i.ytimg.com/vi/jZbeBkuRmvU/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=jZbeBkuRmvU",
+      "published_at": "2026-10-08T11:00:29Z",
+      "view_count": 27303,
+      "like_count": 213,
       "comment_count": 15,
-      "engagement_rate": 0.004977982002680452,
-      "topic_cluster": "괴롭히기에",
-      "summary": "일론 머스크가 샘 알트만의 오픈AI 행보를 견제하며 'XI' 관련 도메인을 선점하는 등 특유의 방식으로 유머러스하게 대응하는 모습을 다루고 있다.",
-      "comment_signal": "세계 부자 랭킹 1위의 힘 ㅋㅋ",
+      "engagement_rate": 0.008350730688935281,
+      "topic_cluster": "인간을",
+      "summary": "Tavus는 실시간 대화 중 48%의 사용자가 실제 인간이라고 착각할 정도로 정교하고 자연스러운 움직임을 보여주는 영상 AI 기술을 구현했습니다.",
+      "comment_signal": "이런 영상 댓글 특 : 얘들아 거의 다왔어!!!",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "huKrw8Z6_5Y",
+      "video_id": "dPV6YZPry-4",
       "channel_name": "조코딩 JoCoding",
-      "title": "네비게이션이 미친속도로 길을 찾아내는 비밀",
-      "thumbnail_url": "https://i.ytimg.com/vi/huKrw8Z6_5Y/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=huKrw8Z6_5Y",
-      "published_at": "2026-10-07T12:15:18Z",
-      "view_count": 19070,
-      "like_count": 192,
-      "comment_count": 24,
-      "engagement_rate": 0.011326691137912952,
-      "topic_cluster": "네비게이션이",
-      "summary": "내비게이션이 빠르게 길을 찾는 원리는 도로 네트워크의 지름길을 미리 계산해 저장해 두고, 실시간 교통 데이터만을 반영하는 효율적인 알고리즘 구조 덕분이다.",
-      "comment_signal": "티맵 사용자들이 다 같은 길로 몰려서 가장 오래걸리게 되버렸습니다. 환장할 노릇인거죠",
+      "title": "은행권을 터는 데 사용된게 AI라고??",
+      "thumbnail_url": "https://i.ytimg.com/vi/dPV6YZPry-4/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=dPV6YZPry-4",
+      "published_at": "2026-10-08T06:00:27Z",
+      "view_count": 16971,
+      "like_count": 165,
+      "comment_count": 20,
+      "engagement_rate": 0.010900948677155147,
+      "topic_cluster": "은행권을",
+      "summary": "최근 발생한 은행권 보안 사고는 부적절한 웹 서비스 인증 검증과 방치된 취약점을 AI 해킹 도구가 악용하면서 발생한 것으로 분석되었습니다.",
+      "comment_signal": "사실 뚫렸다기 보다 열려 있는걸 찾았다고 히는게 맞을듯",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "1CaRq4L_eRo",
+      "video_id": "MS82laju3jQ",
       "channel_name": "조코딩 JoCoding",
-      "title": "업데이트들이 쏟아진 오픈AI DevDay 총정리",
-      "thumbnail_url": "https://i.ytimg.com/vi/1CaRq4L_eRo/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=1CaRq4L_eRo",
-      "published_at": "2026-10-07T07:00:07Z",
-      "view_count": 11433,
-      "like_count": 136,
-      "comment_count": 8,
-      "engagement_rate": 0.012595119391235896,
-      "topic_cluster": "agents",
-      "summary": "오픈AI의 DevDay를 통해 사용자가 직접 컴퓨터를 제어할 수 있는 기능과 새로운 GPT 모델이 발표되는 등 주요 업데이트 사항을 요약했다.",
-      "comment_signal": "클라우드컴퓨팅 자체작업가능 LLM 미래에는 웨어러블 성능을 많이 높이지 않아도",
+      "title": "당신이 생각한 숫자를 맞춰보겠습니다",
+      "thumbnail_url": "https://i.ytimg.com/vi/MS82laju3jQ/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=MS82laju3jQ",
+      "published_at": "2026-10-08T07:30:06Z",
+      "view_count": 12036,
+      "like_count": 106,
+      "comment_count": 6,
+      "engagement_rate": 0.009305417082087071,
+      "topic_cluster": "당신이",
+      "summary": "데이터의 정렬된 순서를 활용하여 범위를 절반씩 좁혀나가는 이진 탐색 알고리즘을 설명하며, 이를 통해 깃 바이섹트 등 개발 도구에서 효율적인 문제 해결이 가능함을 보…",
+      "comment_signal": "그래서 언제 맞추시는거죠?",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "DDxkd940hWI",
-      "channel_name": "tef",
-      "title": "Heretic AI is Scary.",
-      "thumbnail_url": "https://i.ytimg.com/vi/DDxkd940hWI/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=DDxkd940hWI",
-      "published_at": "2026-10-07T21:16:34Z",
-      "view_count": 4227,
-      "like_count": 401,
-      "comment_count": 91,
-      "engagement_rate": 0.11639460610361958,
-      "topic_cluster": "인공지능",
-      "summary": "보안 장치가 없는 위험한 AI인 '헤레틱 AI'의 사례를 통해, AI가 피싱 페이지를 생성하거나 위험한 정보를 제공하는 등 악용될 가능성을 경고한다.",
-      "comment_signal": "absolutely INSANE GPU what the heck",
+      "video_id": "adKPe4h01Nk",
+      "channel_name": "조코딩 JoCoding",
+      "title": "한손만 짚으면 정말 미로를 빠져나갈 수 있을까?",
+      "thumbnail_url": "https://i.ytimg.com/vi/adKPe4h01Nk/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=adKPe4h01Nk",
+      "published_at": "2026-10-08T09:12:35Z",
+      "view_count": 8888,
+      "like_count": 61,
+      "comment_count": 6,
+      "engagement_rate": 0.007538253825382538,
+      "topic_cluster": "한손만",
+      "summary": "미로 찾기 알고리즘인 왼손 법칙과 플러드 필 기법을 소개하며, 단순히 벽을 짚는 방식보다 각 칸에 거리 정보를 기록하고 최단 경로를 탐색하는 기억 기반 방식의 효율…",
+      "comment_signal": "칸마다 목표까지 얼마나 남았는지 어떻게 알고 적는거죠",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "kKHFaD3maTk",
+      "channel_name": "조코딩 JoCoding",
+      "title": "광고 문의 오면 AI가 알아서 확인하고 초안 작성해줌 ㄷㄷ",
+      "thumbnail_url": "https://i.ytimg.com/vi/kKHFaD3maTk/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=kKHFaD3maTk",
+      "published_at": "2026-10-08T12:00:26Z",
+      "view_count": 5787,
+      "like_count": 32,
+      "comment_count": 0,
+      "engagement_rate": 0.005529635389666494,
+      "topic_cluster": "광고",
+      "summary": "광고 문의 메일 수신 시 AI를 활용해 단가와 소개서 내용을 확인하고 답장 초안을 자동으로 작성하는 워크플로우를 다룹니다.",
+      "comment_signal": "댓글 반응은 아직 약한 편입니다.",
       "hook_type": "문제 해결"
     }
   ]
