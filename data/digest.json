@@ -1,239 +1,266 @@
 {
-  "digest_date": "2026-10-09",
-  "generated_at": "2026-10-09T02:57:35+00:00",
-  "summary": "최근 24시간 영상 10개를 기준으로 보면, 오늘 가장 먼저 볼 축은 '인간을'입니다. 특히 '🚨 인간을 속이는 데 성공한 영상 AI..?'는 조회수 27.3K, 참여율 0.8%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "'인간을' 주제가 1개 영상으로 가장 많이 다뤄졌습니다. 오늘 수집 영상 10개는 주로 '빌드 데모' 포맷이라, VS 비교·직접 실험 각도는 아직 비어 있습니다. 일반인 관점 직접 실험 or VS 비교 각도로 차별화할 영역이 있습니다.\n[내 채널] 7일 평균 14.6K회 · 지속률 28.8% / 경쟁사 평균 8.4K회 (격차 +74%)",
-  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 10/09\n\n📊 총 10개 | AI 핵심 9 · 인접 AI 1 · 일반 테크 보충 0\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 10 · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [조코딩 JoCoding] 27.3K뷰 · 참여율 0.8%\n   🚨 인간을 속이는 데 성공한 영상 AI..?\n   ↳ Tavus는 실시간 대화 중 48%의 사용자가 실제 인간이라고 착각할 정도로 정교하고 자연스러운 움직임을 보여주는 영상 AI 기술을 구현했습니다.\n   https://youtu.be/jZbeBkuRmvU\n\n2. AI 핵심 · [조코딩 JoCoding] 17.0K뷰 · 참여율 1.1%\n   은행권을 터는 데 사용된게 AI라고??\n   ↳ 최근 발생한 은행권 보안 사고는 부적절한 웹 서비스 인증 검증과 방치된 취약점을 AI 해킹 도구가 악용하면서 발생한 것으로 분석되었습니다.\n   https://youtu.be/dPV6YZPry-4\n\n3. AI 핵심 · [조코딩 JoCoding] 12.0K뷰 · 참여율 0.9%\n   당신이 생각한 숫자를 맞춰보겠습니다\n   ↳ 데이터의 정렬된 순서를 활용하여 범위를 절반씩 좁혀나가는 이진 탐색 알고리즘을 설명하며, 이를 통해 깃 바이섹트 등 개발 도구에서 효율적인 문제 해결이 가능함을 보여줍니다.\n   https://youtu.be/MS82laju3jQ\n\n4. AI 핵심 · [조코딩 JoCoding] 8.9K뷰 · 참여율 0.8%\n   한손만 짚으면 정말 미로를 빠져나갈 수 있을까?\n   ↳ 미로 찾기 알고리즘인 왼손 법칙과 플러드 필 기법을 소개하며, 단순히 벽을 짚는 방식보다 각 칸에 거리 정보를 기록하고 최단 경로를 탐색하는 기억 기반 방식의 효율성을 강조합니다.\n   https://youtu.be/adKPe4h01Nk\n\n5. AI 핵심 · [조코딩 JoCoding] 5.8K뷰 · 참여율 0.6%\n   광고 문의 오면 AI가 알아서 확인하고 초안 작성해줌 ㄷㄷ\n   ↳ 광고 문의 메일 수신 시 AI를 활용해 단가와 소개서 내용을 확인하고 답장 초안을 자동으로 작성하는 워크플로우를 다룹니다.\n   https://youtu.be/kKHFaD3maTk\n\n6. AI 핵심 · [AI 머니] 3.9K뷰 · 참여율 0.8%\n   조회수 폭발하는 AI 인플루언서, 무료로 5분 만에 만들어봤습니다\n   ↳ 힉스필드 AI를 활용해 하나의 캐릭터로 아바타를 생성하고, 참고 영상의 동작을 적용하여 5분 만에 자연스러운 움직임을 가진 인플루언서 영상을 만드는 방법을 시연합니다.\n   https://youtu.be/yxwm5whAg5o\n\n7. AI 핵심 · [Matt Wolfe] 3.1K뷰 · 참여율 2.2%\n   AI Design Hack Saves HOURS\n   ↳ GenSpark Design을 활용하면 프롬프트 입력만으로 앱 목업과 웹 사이트 UI를 30분 내외로 제작할 수 있어 디자인 작업 시간을 획기적으로 단축할 수 있습니다.\n   https://youtu.be/grOilk8aCS0\n\n8. AI 핵심 · [MattVidPro] 2.2K뷰 · 참여율 5.5%\n   Create WILD Seamless AI Intros (Full Workflow)\n   ↳ 런웨이의 AI 도구와 MCP 워크플로우를 활용하여 영상 도입부와 실제 촬영 영상을 자연스럽게 연결하는 편집 기법을 소개합니다.\n   https://youtu.be/COgSlYOwEaI\n\n9. AI 핵심 · [The AI Automators] 1.6K뷰 · 참여율 2.5%\n   Matt's new skill is well worth running.\n   ↳ Claude Code와 같은 AI 개발 에이전트가 코딩 과정에서 반복하는 오류와 비효율적인 비용 발생 문제를 식별하고, 레트로 스킬을 통해 이를 해결하는 방법을 다룹니다.\n   https://youtu.be/PBpWQKVzUAE\n\n10. AI 인접 · [월텍남 - 월스트리트 테크남] 2.2K뷰 · 참여율 4.7%\n   메모리, 반도체, AI인프라 투자 \"초비상\"\n   ↳ AI 인프라 및 반도체 분야에 막대한 투자가 이루어지고 있으나, 실질적인 매출 회수에 대한 시장의 우려와 오픈AI의 매출 산정 방식 논란 등이 겹치며 관련 주식 시장이 흔들리고 있습니다.\n   https://youtu.be/WI-VeN7ASo4\n\n📈 스마트대디 어제 실적\n조회수 18.9K (↑29% vs 7일 평균) | 구독 +20\n시청 지속률 27.1% | 평균 시청 3분 05초\n경쟁사 평균 8.4K회 대비 내 7일 평균 +74%\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
-  "video_count": 10,
-  "total_recent_video_count": 14,
+  "digest_date": "2026-10-10",
+  "generated_at": "2026-10-10T02:18:50+00:00",
+  "summary": "최근 24시간 영상 19개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'Claude'입니다. 특히 '누구나 AI 하드웨어를 만들 수 있는 세상 ㄷㄷ'는 조회수 54.4K, 참여율 0.9%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "'Claude' 주제가 4개 영상으로 가장 많이 다뤄졌습니다. Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n[내 채널] 7일 평균 14.8K회 · 지속률 28.3% / 경쟁사 평균 10.8K회 (격차 +37%)",
+  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 10/10\n\n📊 총 10개 | AI 핵심 10 · 인접 AI 0 · 일반 테크 보충 0\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 10 · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [조코딩 JoCoding] 54.4K뷰 · 참여율 0.9%\n   누구나 AI 하드웨어를 만들 수 있는 세상 ㄷㄷ\n   ↳ 메타가 발표한 오픈 소스 펌웨어 및 SDK를 사용하여 누구나 하드웨어를 뮤즈(Muse) 조작 도구로 변환할 수 있으며, 이를 통해 기존 가전 기기를 AI 음성 명령으로 제어하는 사례를 보여줍니다.\n   https://youtu.be/JVi7pFYyYvw\n\n2. AI 핵심 · [Matt Wolfe] 50.8K뷰 · 참여율 2.6%\n   AI News: Haiku-5.5, Visual ChatGPT, Grok's New Trick, and more!\n   ↳ 클로드 하이쿠 5.5 등 최신 AI 모델 업데이트와 함께 Grok 봇이 X의 실시간 데이터를 검색 및 모니터링할 수 있도록 개선되었으며, 향후 다양한 모델을 통합 지원할 예정입니다.\n   https://youtu.be/NUizyuGj-kE\n\n3. AI 핵심 · [Minimunch] 27.0K뷰 · 참여율 1.3%\n   Claude Makes Mario 64 In Unreal Engine vs From Scratch\n   ↳ 클로드 오퍼스 5.5 모델을 활용하여 슈퍼 마리오 64 게임을 HTML/JavaScript 기반으로 구현하고, 언리얼 엔진 5.8 및 블렌더와의 연동을 통해 복잡한 게임 레벨을 생성했습니다.\n   https://youtu.be/nXm2yaoooko\n\n4. AI 핵심 · [The AI Advantage] 20.7K뷰 · 참여율 1.7%\n   ChatGPT & Claude Keep Getting Better… Here's What Actually Matters!\n   ↳ ChatGPT 미팅 플러그인, 문서 스캔 기능 및 클로드의 구글 워크스페이스 연동 등 최근 AI 서비스의 생산성 관련 업데이트와 이를 워크플로우에 활용하는 효율적인 방법을 소개합니다.\n   https://youtu.be/yWL93gjFNd8\n\n5. AI 핵심 · [Futurepedia] 7.9K뷰 · 참여율 1.7%\n   The Ultimate Image Generator Showdown\n   ↳ 나노 바나나 2.1을 포함한 주요 이미지 생성 모델들을 마케팅 자료, 텍스트 처리, 사진 실사화 등 다양한 용도로 비교 분석한 결과, 각 사용 사례에 최적화된 모델을 선정했습니다.\n   https://youtu.be/QLv4WCKVqd0\n\n6. AI 핵심 · [조코딩 JoCoding] 7.0K뷰 · 참여율 1.0%\n   AI가 못 받은 돈 받아줌 ㄷㄷ\n   ↳ 툴로브(Toolove) AI와 같은 도구를 통해 사용자의 계좌와 이메일, 스케줄을 연동하여 미수금 발생 시 자동으로 분석하고 관리하는 금융 자동화 사례를 제시합니다.\n   https://youtu.be/7WP8rRcHwYU\n\n7. AI 핵심 · [The AI Automators] 4.6K뷰 · 참여율 2.4%\n   EmbeddingGemma 2 is incredible\n   ↳ 임베딩 제마 2(EmbeddingGemma 2)를 활용하여 사진, 음성 메모, 보고서 데이터를 오프라인 환경에서 텍스트로 통합 검색할 수 있는 안드로이드 앱 개발 과정을 설명합니다.\n   https://youtu.be/J-f54pOnDXU\n\n8. AI 핵심 · [The AI Advantage] 2.6K뷰 · 참여율 2.3%\n   ChatGPT Can Now Scan Documents\n   ↳ ChatGPT 모바일 앱에 카메라를 이용한 직접적인 문서 스캔 기능이 추가되어, 이를 통해 문서를 디지털화하고 분석하는 방법을 보여줍니다.\n   https://youtu.be/eeI_FSN35XE\n\n9. AI 핵심 · [The AI Advantage] 1.7K뷰 · 참여율 1.5%\n   Claude for Google Workspace\n   ↳ 구글 워크스페이스용 클로드 확장 프로그램을 설치하여 구글 문서와 직접 연동하고, AI가 문서를 학습한 상태에서 업무를 보조받는 환경 구축 방법을 안내합니다.\n   https://youtu.be/rAKVvImQcEQ\n\n10. AI 핵심 · [The AI Advantage] 1.2K뷰 · 참여율 1.9%\n   GPT 6 & UI Update\n   ↳ GPT-6의 새로운 지능형 UI 기능을 활용하여 설계 분석이나 여행 계획 수립 시 구성 요소를 시각적으로 세밀하게 검토하는 개선된 사용자 경험을 소개합니다.\n   https://youtu.be/MCgavq9YpP0\n\n📈 스마트대디 어제 실적\n조회수 14.5K (↓2% vs 7일 평균) | 구독 +29\n시청 지속률 28.3% | 평균 시청 3분 11초\n경쟁사 평균 10.8K회 대비 내 7일 평균 +37%\n\n💡 VS 각도: Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+  "video_count": 19,
+  "total_recent_video_count": 24,
   "focus_scope": "ai_priority_then_tech_fill",
-  "average_view_count": 8400.0,
-  "average_engagement_rate": 0.019847874047877377,
-  "average_like_count": 90.0,
-  "average_comment_count": 9.0,
-  "best_video_id": "jZbeBkuRmvU",
-  "best_topic": "인간을",
+  "average_view_count": 10845.0,
+  "average_engagement_rate": 0.027211511435811457,
+  "average_like_count": 178.0,
+  "average_comment_count": 18.0,
+  "best_video_id": "JVi7pFYyYvw",
+  "best_topic": "Claude",
   "summary_points": [
-    "가장 겹친 주제는 '인간을'이며 1개 영상, 평균 조회수 27.3K, 평균 참여율 0.8%입니다.",
-    "최고 실적 영상은 '🚨 인간을 속이는 데 성공한 영상 AI..?'이며 문제 해결 훅과 빌드 데모 포맷 조합이 강했습니다.",
-    "반복 노출된 툴은 ChatGPT 1회, MCP 1회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
+    "가장 겹친 주제는 'Claude'이며 4개 영상, 평균 조회수 7.7K, 평균 참여율 2.9%입니다.",
+    "최고 실적 영상은 '누구나 AI 하드웨어를 만들 수 있는 세상 ㄷㄷ'이며 문제 해결 훅과 빌드 데모 포맷 조합이 강했습니다.",
+    "반복 노출된 툴은 Claude 6회, ChatGPT 5회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
   ],
   "action_chips": [
-    "주제: 인간을",
+    "주제: Claude",
     "훅: 문제 해결",
     "포맷: 빌드 데모",
     "기준 채널: 조코딩 JoCoding"
   ],
   "title_suggestions": [
-    "인간을 직접 실험 — 이게 진짜 되나?",
-    "인간을 vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
-    "인간을 써봤더니... (기대 vs 현실 솔직 후기)"
+    "Claude vs ChatGPT, 일반인이 직접 써보니 이게 달랐다",
+    "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
+    "AI 비서 대결: Claude가 진짜 강한 상황은 따로 있었다"
   ],
   "recommendations": [
     {
-      "title": "인간을 직접 실험 — 이게 진짜 되나?",
-      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
-      "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
-      "thumbnail_copy": "인간을 바로 해결",
-      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
-      "source_video_id": "jZbeBkuRmvU",
-      "source": "🚨 인간을 속이는 데 성공한 영상 AI..?",
-      "my_channel_context": "내 7일 평균 14.6K회 · 지속률 28.8% / 경쟁사 대비 +74%"
+      "title": "Claude vs ChatGPT, 일반인이 직접 써보니 이게 달랐다",
+      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
+      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
+      "thumbnail_copy": "Claude 뭐가 다를까?",
+      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
+      "source_video_id": "nXm2yaoooko",
+      "source": "Claude Makes Mario 64 In Unreal Engine vs From Scratch",
+      "my_channel_context": "내 7일 평균 14.8K회 · 지속률 28.3% / 경쟁사 대비 +37%"
+    },
+    {
+      "title": "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
+      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
+      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
+      "thumbnail_copy": "Claude 바로 해결",
+      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
+      "source_video_id": "rAKVvImQcEQ",
+      "source": "Claude for Google Workspace",
+      "my_channel_context": "내 7일 평균 14.8K회 · 지속률 28.3% / 경쟁사 대비 +37%"
+    },
+    {
+      "title": "AI 비서 대결: Claude가 진짜 강한 상황은 따로 있었다",
+      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
+      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
+      "thumbnail_copy": "Claude 바로 해결",
+      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
+      "source_video_id": "nexQA1qdExw",
+      "source": "I Built a Tornado Mod for Red Dead 2 with Claude (free)",
+      "my_channel_context": "내 7일 평균 14.8K회 · 지속률 28.3% / 경쟁사 대비 +37%"
     }
   ],
   "topic_clusters": [
     {
-      "label": "인간을",
-      "count": 1,
-      "avg_view_count": 27303,
-      "avg_engagement_rate": 0.008350730688935281,
-      "avg_like_count": 213,
-      "avg_comment_count": 15,
+      "label": "Claude",
+      "count": 4,
+      "avg_view_count": 7720,
+      "avg_engagement_rate": 0.029234838143923757,
+      "avg_like_count": 100,
+      "avg_comment_count": 19,
       "source_titles": [
-        "🚨 인간을 속이는 데 성공한 영상 AI..?"
+        "Claude Makes Mario 64 In Unreal Engine vs From Scratch",
+        "Claude for Google Workspace",
+        "I Built a Tornado Mod for Red Dead 2 with Claude (free)"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/jZbeBkuRmvU/hqdefault.jpg",
-      "representative_video_id": "jZbeBkuRmvU",
-      "representative_title": "🚨 인간을 속이는 데 성공한 영상 AI..?"
+      "thumbnail_url": "https://i.ytimg.com/vi/nXm2yaoooko/hqdefault.jpg",
+      "representative_video_id": "nXm2yaoooko",
+      "representative_title": "Claude Makes Mario 64 In Unreal Engine vs From Scratch"
     },
     {
-      "label": "은행권을",
-      "count": 1,
-      "avg_view_count": 16971,
-      "avg_engagement_rate": 0.010900948677155147,
-      "avg_like_count": 165,
-      "avg_comment_count": 20,
+      "label": "agents",
+      "count": 3,
+      "avg_view_count": 23896,
+      "avg_engagement_rate": 0.009386292659227163,
+      "avg_like_count": 225,
+      "avg_comment_count": 4,
       "source_titles": [
-        "은행권을 터는 데 사용된게 AI라고??"
+        "누구나 AI 하드웨어를 만들 수 있는 세상 ㄷㄷ",
+        "마누스 2.0과 Cue  등장... 패치의 반도체 게임부터 홍보 영상까지 | AI 직원들이 서로 일을 넘긴다… 광고 메일 정리부터 여행 일정 점검",
+        "Manus 2.0으로 만든 반도체 쇼티지 게임!! ㅋㅋㅋ 원하는 영상 넣으면 스타일도 만들어준다!"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/dPV6YZPry-4/hqdefault.jpg",
-      "representative_video_id": "dPV6YZPry-4",
-      "representative_title": "은행권을 터는 데 사용된게 AI라고??"
-    },
-    {
-      "label": "당신이",
-      "count": 1,
-      "avg_view_count": 12036,
-      "avg_engagement_rate": 0.009305417082087071,
-      "avg_like_count": 106,
-      "avg_comment_count": 6,
-      "source_titles": [
-        "당신이 생각한 숫자를 맞춰보겠습니다"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/MS82laju3jQ/hqdefault.jpg",
-      "representative_video_id": "MS82laju3jQ",
-      "representative_title": "당신이 생각한 숫자를 맞춰보겠습니다"
-    },
-    {
-      "label": "한손만",
-      "count": 1,
-      "avg_view_count": 8888,
-      "avg_engagement_rate": 0.007538253825382538,
-      "avg_like_count": 61,
-      "avg_comment_count": 6,
-      "source_titles": [
-        "한손만 짚으면 정말 미로를 빠져나갈 수 있을까?"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/adKPe4h01Nk/hqdefault.jpg",
-      "representative_video_id": "adKPe4h01Nk",
-      "representative_title": "한손만 짚으면 정말 미로를 빠져나갈 수 있을까?"
-    },
-    {
-      "label": "광고",
-      "count": 1,
-      "avg_view_count": 5787,
-      "avg_engagement_rate": 0.005529635389666494,
-      "avg_like_count": 32,
-      "avg_comment_count": 0,
-      "source_titles": [
-        "광고 문의 오면 AI가 알아서 확인하고 초안 작성해줌 ㄷㄷ"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/kKHFaD3maTk/hqdefault.jpg",
-      "representative_video_id": "kKHFaD3maTk",
-      "representative_title": "광고 문의 오면 AI가 알아서 확인하고 초안 작성해줌 ㄷㄷ"
-    },
-    {
-      "label": "조회수",
-      "count": 1,
-      "avg_view_count": 3899,
-      "avg_engagement_rate": 0.008463708643241858,
-      "avg_like_count": 32,
-      "avg_comment_count": 1,
-      "source_titles": [
-        "조회수 폭발하는 AI 인플루언서, 무료로 5분 만에 만들어봤습니다"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/yxwm5whAg5o/hqdefault.jpg",
-      "representative_video_id": "yxwm5whAg5o",
-      "representative_title": "조회수 폭발하는 AI 인플루언서, 무료로 5분 만에 만들어봤습니다"
-    },
-    {
-      "label": "코딩",
-      "count": 1,
-      "avg_view_count": 3068,
-      "avg_engagement_rate": 0.02151238591916558,
-      "avg_like_count": 63,
-      "avg_comment_count": 3,
-      "source_titles": [
-        "AI Design Hack Saves HOURS"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/grOilk8aCS0/hqdefault.jpg",
-      "representative_video_id": "grOilk8aCS0",
-      "representative_title": "AI Design Hack Saves HOURS"
+      "thumbnail_url": "https://i.ytimg.com/vi/JVi7pFYyYvw/hqdefault.jpg",
+      "representative_video_id": "JVi7pFYyYvw",
+      "representative_title": "누구나 AI 하드웨어를 만들 수 있는 세상 ㄷㄷ"
     },
     {
       "label": "ChatGPT",
+      "count": 3,
+      "avg_view_count": 3913,
+      "avg_engagement_rate": 0.01972055167829781,
+      "avg_like_count": 67,
+      "avg_comment_count": 5,
+      "source_titles": [
+        "The Ultimate Image Generator Showdown",
+        "ChatGPT Can Now Scan Documents",
+        "GPT 6 & UI Update"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/QLv4WCKVqd0/hqdefault.jpg",
+      "representative_video_id": "QLv4WCKVqd0",
+      "representative_title": "The Ultimate Image Generator Showdown"
+    },
+    {
+      "label": "OpenAI",
+      "count": 2,
+      "avg_view_count": 35742,
+      "avg_engagement_rate": 0.02149462115724887,
+      "avg_like_count": 746,
+      "avg_comment_count": 96,
+      "source_titles": [
+        "AI News: Haiku-5.5, Visual ChatGPT, Grok's New Trick, and more!",
+        "ChatGPT & Claude Keep Getting Better… Here's What Actually Matters!"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/NUizyuGj-kE/hqdefault.jpg",
+      "representative_video_id": "NUizyuGj-kE",
+      "representative_title": "AI News: Haiku-5.5, Visual ChatGPT, Grok's New Trick, and more!"
+    },
+    {
+      "label": "AI가",
       "count": 1,
-      "avg_view_count": 2220,
-      "avg_engagement_rate": 0.0545045045045045,
-      "avg_like_count": 96,
+      "avg_view_count": 7025,
+      "avg_engagement_rate": 0.010106761565836299,
+      "avg_like_count": 71,
+      "avg_comment_count": 0,
+      "source_titles": [
+        "AI가 못 받은 돈 받아줌 ㄷㄷ"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/7WP8rRcHwYU/hqdefault.jpg",
+      "representative_video_id": "7WP8rRcHwYU",
+      "representative_title": "AI가 못 받은 돈 받아줌 ㄷㄷ"
+    },
+    {
+      "label": "Arc",
+      "count": 1,
+      "avg_view_count": 4559,
+      "avg_engagement_rate": 0.023908751919280543,
+      "avg_like_count": 102,
+      "avg_comment_count": 7,
+      "source_titles": [
+        "EmbeddingGemma 2 is incredible"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/J-f54pOnDXU/hqdefault.jpg",
+      "representative_video_id": "J-f54pOnDXU",
+      "representative_title": "EmbeddingGemma 2 is incredible"
+    },
+    {
+      "label": "How",
+      "count": 1,
+      "avg_view_count": 3278,
+      "avg_engagement_rate": 0.07291031116534472,
+      "avg_like_count": 214,
       "avg_comment_count": 25,
       "source_titles": [
-        "Create WILD Seamless AI Intros (Full Workflow)"
+        "How do you actually get a good answer from your AI"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/COgSlYOwEaI/hqdefault.jpg",
-      "representative_video_id": "COgSlYOwEaI",
-      "representative_title": "Create WILD Seamless AI Intros (Full Workflow)"
+      "thumbnail_url": "https://i.ytimg.com/vi/88e-ExRyLWA/hqdefault.jpg",
+      "representative_video_id": "88e-ExRyLWA",
+      "representative_title": "How do you actually get a good answer from your AI"
+    },
+    {
+      "label": "AI인프라",
+      "count": 1,
+      "avg_view_count": 2194,
+      "avg_engagement_rate": 0.061075660893345485,
+      "avg_like_count": 122,
+      "avg_comment_count": 12,
+      "source_titles": [
+        "광통신 부품 29년까지 매진.. AI인프라 투자.. 닷컴 버블과 유사?"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/s6pztmbr0Xw/hqdefault.jpg",
+      "representative_video_id": "s6pztmbr0Xw",
+      "representative_title": "광통신 부품 29년까지 매진.. AI인프라 투자.. 닷컴 버블과 유사?"
     }
   ],
   "video_highlights": [
     {
-      "video_id": "jZbeBkuRmvU",
+      "video_id": "JVi7pFYyYvw",
       "channel_name": "조코딩 JoCoding",
-      "title": "🚨 인간을 속이는 데 성공한 영상 AI..?",
-      "thumbnail_url": "https://i.ytimg.com/vi/jZbeBkuRmvU/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=jZbeBkuRmvU",
-      "published_at": "2026-10-08T11:00:29Z",
-      "view_count": 27303,
-      "like_count": 213,
-      "comment_count": 15,
-      "engagement_rate": 0.008350730688935281,
-      "topic_cluster": "인간을",
-      "summary": "Tavus는 실시간 대화 중 48%의 사용자가 실제 인간이라고 착각할 정도로 정교하고 자연스러운 움직임을 보여주는 영상 AI 기술을 구현했습니다.",
-      "comment_signal": "이런 영상 댓글 특 : 얘들아 거의 다왔어!!!",
+      "title": "누구나 AI 하드웨어를 만들 수 있는 세상 ㄷㄷ",
+      "thumbnail_url": "https://i.ytimg.com/vi/JVi7pFYyYvw/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=JVi7pFYyYvw",
+      "published_at": "2026-10-09T09:00:23Z",
+      "view_count": 54398,
+      "like_count": 503,
+      "comment_count": 5,
+      "engagement_rate": 0.009338578624214125,
+      "topic_cluster": "agents",
+      "summary": "메타가 발표한 오픈 소스 펌웨어 및 SDK를 사용하여 누구나 하드웨어를 뮤즈(Muse) 조작 도구로 변환할 수 있으며, 이를 통해 기존 가전 기기를 AI 음성 명령…",
+      "comment_signal": "대 타~",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "dPV6YZPry-4",
-      "channel_name": "조코딩 JoCoding",
-      "title": "은행권을 터는 데 사용된게 AI라고??",
-      "thumbnail_url": "https://i.ytimg.com/vi/dPV6YZPry-4/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=dPV6YZPry-4",
-      "published_at": "2026-10-08T06:00:27Z",
-      "view_count": 16971,
-      "like_count": 165,
-      "comment_count": 20,
-      "engagement_rate": 0.010900948677155147,
-      "topic_cluster": "은행권을",
-      "summary": "최근 발생한 은행권 보안 사고는 부적절한 웹 서비스 인증 검증과 방치된 취약점을 AI 해킹 도구가 악용하면서 발생한 것으로 분석되었습니다.",
-      "comment_signal": "사실 뚫렸다기 보다 열려 있는걸 찾았다고 히는게 맞을듯",
+      "video_id": "NUizyuGj-kE",
+      "channel_name": "Matt Wolfe",
+      "title": "AI News: Haiku-5.5, Visual ChatGPT, Grok's New Trick, and more!",
+      "thumbnail_url": "https://i.ytimg.com/vi/NUizyuGj-kE/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=NUizyuGj-kE",
+      "published_at": "2026-10-09T15:00:01Z",
+      "view_count": 50758,
+      "like_count": 1172,
+      "comment_count": 170,
+      "engagement_rate": 0.026439182000866857,
+      "topic_cluster": "OpenAI",
+      "summary": "클로드 하이쿠 5.5 등 최신 AI 모델 업데이트와 함께 Grok 봇이 X의 실시간 데이터를 검색 및 모니터링할 수 있도록 개선되었으며, 향후 다양한 모델을 통합…",
+      "comment_signal": "No AI intro? Plot Twist: Maybe Matt in this full video is AI",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "MS82laju3jQ",
-      "channel_name": "조코딩 JoCoding",
-      "title": "당신이 생각한 숫자를 맞춰보겠습니다",
-      "thumbnail_url": "https://i.ytimg.com/vi/MS82laju3jQ/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=MS82laju3jQ",
-      "published_at": "2026-10-08T07:30:06Z",
-      "view_count": 12036,
-      "like_count": 106,
-      "comment_count": 6,
-      "engagement_rate": 0.009305417082087071,
-      "topic_cluster": "당신이",
-      "summary": "데이터의 정렬된 순서를 활용하여 범위를 절반씩 좁혀나가는 이진 탐색 알고리즘을 설명하며, 이를 통해 깃 바이섹트 등 개발 도구에서 효율적인 문제 해결이 가능함을 보…",
-      "comment_signal": "그래서 언제 맞추시는거죠?",
+      "video_id": "nXm2yaoooko",
+      "channel_name": "Minimunch",
+      "title": "Claude Makes Mario 64 In Unreal Engine vs From Scratch",
+      "thumbnail_url": "https://i.ytimg.com/vi/nXm2yaoooko/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=nXm2yaoooko",
+      "published_at": "2026-10-09T15:45:36Z",
+      "view_count": 27045,
+      "like_count": 308,
+      "comment_count": 46,
+      "engagement_rate": 0.013089295618413755,
+      "topic_cluster": "Claude",
+      "summary": "클로드 오퍼스 5.5 모델을 활용하여 슈퍼 마리오 64 게임을 HTML/JavaScript 기반으로 구현하고, 언리얼 엔진 5.8 및 블렌더와의 연동을 통해 복잡한…",
+      "comment_signal": "imagine remaking mario 64 and never having played it and not having a real frame of reference o…",
+      "hook_type": "비교"
+    },
+    {
+      "video_id": "yWL93gjFNd8",
+      "channel_name": "The AI Advantage",
+      "title": "ChatGPT & Claude Keep Getting Better… Here's What Actually Matters!",
+      "thumbnail_url": "https://i.ytimg.com/vi/yWL93gjFNd8/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=yWL93gjFNd8",
+      "published_at": "2026-10-09T12:30:49Z",
+      "view_count": 20725,
+      "like_count": 320,
+      "comment_count": 23,
+      "engagement_rate": 0.01655006031363088,
+      "topic_cluster": "OpenAI",
+      "summary": "ChatGPT 미팅 플러그인, 문서 스캔 기능 및 클로드의 구글 워크스페이스 연동 등 최근 AI 서비스의 생산성 관련 업데이트와 이를 워크플로우에 활용하는 효율적인…",
+      "comment_signal": "U can use ur Claude subscription in grok to save. Also Open Ai wont be supported",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "adKPe4h01Nk",
-      "channel_name": "조코딩 JoCoding",
-      "title": "한손만 짚으면 정말 미로를 빠져나갈 수 있을까?",
-      "thumbnail_url": "https://i.ytimg.com/vi/adKPe4h01Nk/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=adKPe4h01Nk",
-      "published_at": "2026-10-08T09:12:35Z",
-      "view_count": 8888,
-      "like_count": 61,
-      "comment_count": 6,
-      "engagement_rate": 0.007538253825382538,
-      "topic_cluster": "한손만",
-      "summary": "미로 찾기 알고리즘인 왼손 법칙과 플러드 필 기법을 소개하며, 단순히 벽을 짚는 방식보다 각 칸에 거리 정보를 기록하고 최단 경로를 탐색하는 기억 기반 방식의 효율…",
-      "comment_signal": "칸마다 목표까지 얼마나 남았는지 어떻게 알고 적는거죠",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "kKHFaD3maTk",
-      "channel_name": "조코딩 JoCoding",
-      "title": "광고 문의 오면 AI가 알아서 확인하고 초안 작성해줌 ㄷㄷ",
-      "thumbnail_url": "https://i.ytimg.com/vi/kKHFaD3maTk/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=kKHFaD3maTk",
-      "published_at": "2026-10-08T12:00:26Z",
-      "view_count": 5787,
-      "like_count": 32,
-      "comment_count": 0,
-      "engagement_rate": 0.005529635389666494,
-      "topic_cluster": "광고",
-      "summary": "광고 문의 메일 수신 시 AI를 활용해 단가와 소개서 내용을 확인하고 답장 초안을 자동으로 작성하는 워크플로우를 다룹니다.",
-      "comment_signal": "댓글 반응은 아직 약한 편입니다.",
+      "video_id": "bRb-DEsgPBQ",
+      "channel_name": "안될공학 - IT 테크 신기술",
+      "title": "마누스 2.0과 Cue  등장... 패치의 반도체 게임부터 홍보 영상까지 | AI 직원들이 서로 일을 넘긴다… 광고 메일 정리부터 여행 일정 점검",
+      "thumbnail_url": "https://i.ytimg.com/vi/bRb-DEsgPBQ/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=bRb-DEsgPBQ",
+      "published_at": "2026-10-09T04:00:06Z",
+      "view_count": 14517,
+      "like_count": 150,
+      "comment_count": 8,
+      "engagement_rate": 0.010883791416959427,
+      "topic_cluster": "agents",
+      "summary": "마누스 2.0으로 게임 제작 및 영상 트레일러를 생성하고, Cue 에이전트 팀을 통해 업무 메일 정리 및 여행 일정을 자동으로 관리하여 사람이 처리할 업무를 최소화…",
+      "comment_signal": "크레딧 살인마 마누스를 광고하시네 ㄷㄷ",
       "hook_type": "문제 해결"
     }
   ]
