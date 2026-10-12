@@ -1,208 +1,167 @@
 {
-  "digest_date": "2026-10-11",
-  "generated_at": "2026-10-11T01:49:37+00:00",
-  "summary": "최근 24시간 영상 6개를 기준으로 보면, 오늘 가장 먼저 볼 축은 '반도체'입니다. 특히 '칩 받침을 깨지기 쉬운 유리로 바꾸는 이유'는 조회수 12.6K, 참여율 1.1%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "'반도체' 주제가 2개 영상으로 가장 많이 다뤄졌습니다. 일반인 관점 직접 실험 or VS 비교 각도로 차별화할 영역이 있습니다.\n[내 채널] 7일 평균 14.6K회 · 지속률 28.2% / 경쟁사 평균 5.0K회 (격차 +195%)",
-  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 10/11\n\n📊 총 10개 | AI 핵심 3 · 인접 AI 3 · 일반 테크 보충 4\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 10 · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [조코딩 JoCoding] 12.1K뷰 · 참여율 0.8%\n   조코딩의 AI 리터러시 특강 1강 : 2026년, AI 지능은 어디까지 발전했나?\n   ↳ AI 지능의 비약적인 발전 과정을 프로그래밍 대회, 알파고, ARC-AGI 시험 등의 사례로 분석하며, 업무 효율을 극대화하기 위해 AI 리터러시를 갖추고 전략적으로 활용해야 함을 강조한다.\n   https://youtu.be/AHlWV-nI9yo\n\n2. AI 핵심 · [Goda Go] 808뷰 · 참여율 3.6%\n   How Everyday People Actually Use AI\n   ↳ 일상 업무에서 AI를 무리 없이 활용하는 사람들의 사례 21가지를 통해, AI를 단순히 생성 도구로만 쓰지 않고 데이터 검증과 의사결정의 보조 수단으로 활용하는 실질적인 업무 자동화 방식을 제시한다.\n   https://youtu.be/lAS-aMBH7FA\n\n3. AI 핵심 · [Futurepedia] 5뷰 · 참여율 20.0%\n   Gemini Skills for repeatable tasks\n   ↳ 반복적인 업무 효율화를 위해 Gemini 채팅 프롬프트를 스킬로 패키징하거나 기존 대화 기록을 스킬화하여 처음부터 다시 작업할 필요 없이 바로 결과물을 도출하는 방법을 안내한다.\n   https://youtu.be/R4W9FJ8XR0o\n\n4. AI 인접 · [월텍남 - 월스트리트 테크남] 12.6K뷰 · 참여율 1.1%\n   칩 받침을 깨지기 쉬운 유리로 바꾸는 이유\n   ↳ 반도체 칩 묶음이 커짐에 따라 발생하는 열팽창 문제를 해결하기 위해, 휘어짐이 적고 안정적인 유리 기판(TGV 기술)을 받침판으로 사용하는 이유를 설명한다.\n   https://youtu.be/NfcYggRqlCc\n\n5. AI 인접 · [월텍남 - 월스트리트 테크남] 2.2K뷰 · 참여율 0.7%\n   웨이퍼 한 장을 칩 하나로 만든 세레브라스가 불량을 견디는 방법\n   ↳ 세레브라스가 웨이퍼 한 장을 통째로 칩으로 사용하는 과정에서 결함이 발생할 경우, 전체를 버리는 대신 불량 코어만 비활성화하여 엔비디아 GPU와 유사한 수준의 수율을 확보하는 기술적 방식을 다룬다.\n   https://youtu.be/L5z8vRXpY5o\n\n6. AI 인접 · [월텍남 - 월스트리트 테크남] 2.2K뷰 · 참여율 0.6%\n   칩을 감싼 검은 껍데기가 대부분 돌가루인 이유\n   ↳ 반도체 칩을 보호하는 검은 껍데기에 돌가루를 채우는 이유는 열에 의한 팽창을 억제하여 칩의 손상을 방지하고, 수분 흡수를 줄여 내구성을 높이기 위함임을 설명한다.\n   https://youtu.be/SnHIKJOPFxU\n\n7. 테크 보충 · [테크몽 Techmong] 280.7K뷰 · 참여율 0.8%\n   지금까지 써본 폰 중 1등 드립니다 [폴드8 롱텀 사용기]\n   ↳ 갤럭시 Z 폴드 8을 장기간 사용한 결과, 뛰어난 배터리 효율과 활용도 면에서 만족스러운 메인폰이나 애니메이션 완성도 등 소프트웨어적인 세밀함은 다소 아쉽다는 결론을 내린다.\n   https://youtu.be/T9ynSmnJqgk\n\n8. 테크 보충 · [월텍남 - 월스트리트 테크남] 6.3K뷰 · 참여율 0.6%\n   전기차 모터가 기어 한 단으로 충분한 이유\n   ↳ 전기차 모터는 넓은 회전 영역에서 효율적으로 작동하고 충분한 힘을 낼 수 있어, 복잡한 다단 변속기 대신 1단 기어만으로도 저속부터 고속까지 원활한 주행이 가능함을 설명한다.\n   https://youtu.be/eDUF_ZruU8E\n\n9. 테크 보충 · [월텍남 - 월스트리트 테크남] 2.6K뷰 · 참여율 1.1%\n   반도체 공장 회로 찍는 방에 흰 불 대신 노란 불만 켜는 이유\n   ↳ 반도체 공정 중 감광막을 활용하는 방에서는 빛에 민감한 공정 특성상 화학 반응을 방지하기 위해 특정 파장의 빛을 차단한 노란 조명을 사용한다.\n   https://youtu.be/p9GOdRIfP1E\n\n10. 테크 보충 · [월텍남 - 월스트리트 테크남] 2.4K뷰 · 참여율 0.6%\n   칩 공장 필터를 지나는 기체가 회로 모양을 바꾸는 과정\n   ↳ 반도체 공정에서 필터를 통과한 공기 중의 미세한 염기 성분이 회로 형성에 쓰이는 감광막의 화학 반응을 방해하여 회로 모양을 망가뜨릴 수 있으므로 엄격한 기체 관리가 필수적임을 강조한다.\n   https://youtu.be/KVQTmmoUEC0\n\n📈 스마트대디 어제 실적\n조회수 14.0K (↓4% vs 7일 평균) | 구독 +31\n시청 지속률 28.6% | 평균 시청 3분 09초\n경쟁사 평균 5.0K회 대비 내 7일 평균 +195%\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
-  "video_count": 6,
-  "total_recent_video_count": 14,
+  "digest_date": "2026-10-12",
+  "generated_at": "2026-10-12T02:18:15+00:00",
+  "summary": "최근 24시간 영상 4개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'OpenAI'입니다. 특히 'OpenAI, Antrhopic에서 무슨 일이? 챗GPT 안전 연구원 3명 해고…  몇 주 간 계속 터진 AI 회사들의 안전 논란'는 조회수 78.2K, 참여율 1.0%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "'OpenAI' 주제가 1개 영상으로 가장 많이 다뤄졌습니다. 일반인 관점 직접 실험 or VS 비교 각도로 차별화할 영역이 있습니다.\n[내 채널] 7일 평균 16.5K회 · 지속률 28.4% / 경쟁사 평균 34.5K회 (격차 -52%)",
+  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 10/12\n\n📊 총 4개 | AI 핵심 1 · 인접 AI 3 · 일반 테크 보충 0\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 4 (최대 10) · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [조코딩 JoCoding] 33.4K뷰 · 참여율 1.4%\n   IT뉴스 - 수학 끝났다, 챗GPT 대화형 UI, Claude Motion, Haiku 5.5, AI 인권 등장, Grok Bot 업데이트…\n   ↳ AI가 수천 년간 풀지 못한 수학 난제를 단 몇 시간 만에 해결하고, 해킹 툴이 대중화되는 등 AI 기술의 급격한 발전과 그로 인한 보안 및 직업 생태계의 변화를 다룬 IT 뉴스 요약.\n   https://youtu.be/gcFqz2lgCvA\n\n2. AI 인접 · [안될공학 - IT 테크 신기술] 78.2K뷰 · 참여율 1.0%\n   OpenAI, Antrhopic에서 무슨 일이? 챗GPT 안전 연구원 3명 해고… 몇 주 간 계속 터진 AI 회사들의 안전 논란\n   ↳ 그랬다면 왜 한편으로는 안전 문제를 이유로 신모델의 출시까지 중단을 했을까요? 물론 모델 출시 판단이랑 직원 해고 결정은 서로 다른 문제긴 해요.\n   https://youtu.be/gPrqv8MWOEA\n\n3. AI 인접 · [월텍남 - 월스트리트 테크남] 17.0K뷰 · 참여율 0.8%\n   엔비디아가 물건도 받기 전에 삼성전기에 돈을 내는 이유\n   ↳ AI 칩 수요 급증으로 인해 공급이 부족한 고성능 반도체 기판(FCBGA) 확보를 위해 엔비디아가 삼성전기에 선수금을 지급하며 공급망 안정화를 꾀하는 상황을 분석합니다.\n   https://youtu.be/w97n9KquE3I\n\n4. AI 인접 · [Dan Martell] 9.3K뷰 · 참여율 7.8%\n   How do you avoid wasting your time with AI?\n   ↳ AI로 시간 낭비를 막으려면 'R의 법칙'(반복성, 규칙성, 효율성)에 따라 자동화 대상을 신중하게 선택해야 하며, 이 기준에 부합하는 업무는 AI로 자동화하여 실질적인 시간 절약 효과를 얻을 수 있습니다.\n   https://youtu.be/Gp7XkKjwWrA\n\n📈 스마트대디 어제 실적\n조회수 18.6K (↑13% vs 7일 평균) | 구독 +27\n시청 지속률 29.4% | 평균 시청 2분 25초\n경쟁사 평균 34.5K회 대비 내 7일 평균 -52%\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+  "video_count": 4,
+  "total_recent_video_count": 6,
   "focus_scope": "ai_priority_then_tech_fill",
-  "average_view_count": 4968.0,
-  "average_engagement_rate": 0.04473808085674224,
-  "average_like_count": 48.0,
-  "average_comment_count": 2.0,
-  "best_video_id": "NfcYggRqlCc",
-  "best_topic": "반도체",
+  "average_view_count": 34500.0,
+  "average_engagement_rate": 0.02765214481721328,
+  "average_like_count": 489.0,
+  "average_comment_count": 38.0,
+  "best_video_id": "gPrqv8MWOEA",
+  "best_topic": "OpenAI",
   "summary_points": [
-    "가장 겹친 주제는 '반도체'이며 2개 영상, 평균 조회수 2.2K, 평균 참여율 0.6%입니다.",
-    "최고 실적 영상은 '칩 받침을 깨지기 쉬운 유리로 바꾸는 이유'이며 문제 해결 훅과 뉴스 분석 포맷 조합이 강했습니다.",
-    "반복 노출된 툴은 Arc 2회, Gemini 1회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
+    "가장 겹친 주제는 'OpenAI'이며 1개 영상, 평균 조회수 78.2K, 평균 참여율 1.0%입니다.",
+    "최고 실적 영상은 'OpenAI, Antrhopic에서 무슨 일이? 챗GPT 안전 연구원 3명 해고…  몇 주 간 계속 터진 AI 회사들의 안전 논란'이며 문제 해결 훅과 비교 포맷 조합이 강했습니다.",
+    "반복 노출된 툴은 ChatGPT 1회, Claude 1회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
   ],
   "action_chips": [
-    "주제: 반도체",
+    "주제: OpenAI",
     "훅: 문제 해결",
-    "포맷: 뉴스 분석",
-    "기준 채널: 월텍남 - 월스트리트 테크남"
+    "포맷: 비교",
+    "기준 채널: 안될공학 - IT 테크 신기술"
   ],
   "title_suggestions": [
-    "반도체 직접 실험 — 이게 진짜 되나?",
-    "반도체 vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
-    "반도체 써봤더니... (기대 vs 현실 솔직 후기)"
+    "OpenAI 직접 실험 — 이게 진짜 되나?",
+    "OpenAI vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
+    "OpenAI 써봤더니... (기대 vs 현실 솔직 후기)"
   ],
   "recommendations": [
     {
-      "title": "반도체 직접 실험 — 이게 진짜 되나?",
+      "title": "OpenAI 직접 실험 — 이게 진짜 되나?",
       "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
       "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
-      "thumbnail_copy": "반도체 바로 해결",
+      "thumbnail_copy": "OpenAI 바로 해결",
       "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
-      "source_video_id": "L5z8vRXpY5o",
-      "source": "웨이퍼 한 장을 칩 하나로 만든 세레브라스가 불량을 견디는 방법",
-      "my_channel_context": "내 7일 평균 14.6K회 · 지속률 28.2% / 경쟁사 대비 +195%"
-    },
-    {
-      "title": "반도체 vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
-      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
-      "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
-      "thumbnail_copy": "반도체 바로 해결",
-      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
-      "source_video_id": "SnHIKJOPFxU",
-      "source": "칩을 감싼 검은 껍데기가 대부분 돌가루인 이유",
-      "my_channel_context": "내 7일 평균 14.6K회 · 지속률 28.2% / 경쟁사 대비 +195%"
+      "source_video_id": "gPrqv8MWOEA",
+      "source": "OpenAI, Antrhopic에서 무슨 일이? 챗GPT 안전 연구원 3명 해고…  몇 주 간 계속 터진 AI 회사들의 안전 논란",
+      "my_channel_context": "내 7일 평균 16.5K회 · 지속률 28.4% / 경쟁사 대비 -52%"
     }
   ],
   "topic_clusters": [
     {
-      "label": "반도체",
-      "count": 2,
-      "avg_view_count": 2176,
-      "avg_engagement_rate": 0.006434988351499473,
-      "avg_like_count": 12,
+      "label": "OpenAI",
+      "count": 1,
+      "avg_view_count": 78249,
+      "avg_engagement_rate": 0.009610346458101701,
+      "avg_like_count": 665,
+      "avg_comment_count": 87,
+      "source_titles": [
+        "OpenAI, Antrhopic에서 무슨 일이? 챗GPT 안전 연구원 3명 해고…  몇 주 간 계속 터진 AI 회사들의 안전 논란"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/gPrqv8MWOEA/hqdefault.jpg",
+      "representative_video_id": "gPrqv8MWOEA",
+      "representative_title": "OpenAI, Antrhopic에서 무슨 일이? 챗GPT 안전 연구원 3명 해고…  몇 주 간 계속 터진 AI 회사들의 안전 논란"
+    },
+    {
+      "label": "ChatGPT",
+      "count": 1,
+      "avg_view_count": 33409,
+      "avg_engagement_rate": 0.014427250142177257,
+      "avg_like_count": 465,
+      "avg_comment_count": 17,
+      "source_titles": [
+        "IT뉴스 - 수학 끝났다, 챗GPT 대화형 UI, Claude Motion, Haiku 5.5, AI 인권 등장, Grok Bot 업데이트, 어도비 망했다 등"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/gcFqz2lgCvA/hqdefault.jpg",
+      "representative_video_id": "gcFqz2lgCvA",
+      "representative_title": "IT뉴스 - 수학 끝났다, 챗GPT 대화형 UI, Claude Motion, Haiku 5.5, AI 인권 등장, Grok Bot 업데이트, 어도비 망했다 등"
+    },
+    {
+      "label": "AI반도체",
+      "count": 1,
+      "avg_view_count": 17011,
+      "avg_engagement_rate": 0.008229968843689378,
+      "avg_like_count": 138,
       "avg_comment_count": 2,
       "source_titles": [
-        "웨이퍼 한 장을 칩 하나로 만든 세레브라스가 불량을 견디는 방법",
-        "칩을 감싼 검은 껍데기가 대부분 돌가루인 이유"
+        "엔비디아가 물건도 받기 전에 삼성전기에 돈을 내는 이유"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/L5z8vRXpY5o/hqdefault.jpg",
-      "representative_video_id": "L5z8vRXpY5o",
-      "representative_title": "웨이퍼 한 장을 칩 하나로 만든 세레브라스가 불량을 견디는 방법"
+      "thumbnail_url": "https://i.ytimg.com/vi/w97n9KquE3I/hqdefault.jpg",
+      "representative_video_id": "w97n9KquE3I",
+      "representative_title": "엔비디아가 물건도 받기 전에 삼성전기에 돈을 내는 이유"
     },
     {
-      "label": "칩",
+      "label": "AI활용",
       "count": 1,
-      "avg_view_count": 12558,
-      "avg_engagement_rate": 0.011227902532250358,
-      "avg_like_count": 135,
-      "avg_comment_count": 6,
+      "avg_view_count": 9331,
+      "avg_engagement_rate": 0.07834101382488479,
+      "avg_like_count": 687,
+      "avg_comment_count": 44,
       "source_titles": [
-        "칩 받침을 깨지기 쉬운 유리로 바꾸는 이유"
+        "How do you avoid wasting your time with AI?"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/NfcYggRqlCc/hqdefault.jpg",
-      "representative_video_id": "NfcYggRqlCc",
-      "representative_title": "칩 받침을 깨지기 쉬운 유리로 바꾸는 이유"
-    },
-    {
-      "label": "Arc",
-      "count": 1,
-      "avg_view_count": 12086,
-      "avg_engagement_rate": 0.008439516796293232,
-      "avg_like_count": 97,
-      "avg_comment_count": 5,
-      "source_titles": [
-        "조코딩의 AI 리터러시 특강 1강 : 2026년, AI 지능은 어디까지 발전했나?"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/AHlWV-nI9yo/hqdefault.jpg",
-      "representative_video_id": "AHlWV-nI9yo",
-      "representative_title": "조코딩의 AI 리터러시 특강 1강 : 2026년, AI 지능은 어디까지 발전했나?"
-    },
-    {
-      "label": "Claude",
-      "count": 1,
-      "avg_view_count": 808,
-      "avg_engagement_rate": 0.03589108910891089,
-      "avg_like_count": 28,
-      "avg_comment_count": 1,
-      "source_titles": [
-        "How Everyday People Actually Use AI"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/lAS-aMBH7FA/hqdefault.jpg",
-      "representative_video_id": "lAS-aMBH7FA",
-      "representative_title": "How Everyday People Actually Use AI"
-    },
-    {
-      "label": "Gemini",
-      "count": 1,
-      "avg_view_count": 5,
-      "avg_engagement_rate": 0.2,
-      "avg_like_count": 1,
-      "avg_comment_count": 0,
-      "source_titles": [
-        "Gemini Skills for repeatable tasks"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/R4W9FJ8XR0o/hqdefault.jpg",
-      "representative_video_id": "R4W9FJ8XR0o",
-      "representative_title": "Gemini Skills for repeatable tasks"
+      "thumbnail_url": "https://i.ytimg.com/vi/Gp7XkKjwWrA/hqdefault.jpg",
+      "representative_video_id": "Gp7XkKjwWrA",
+      "representative_title": "How do you avoid wasting your time with AI?"
     }
   ],
   "video_highlights": [
     {
-      "video_id": "NfcYggRqlCc",
-      "channel_name": "월텍남 - 월스트리트 테크남",
-      "title": "칩 받침을 깨지기 쉬운 유리로 바꾸는 이유",
-      "thumbnail_url": "https://i.ytimg.com/vi/NfcYggRqlCc/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=NfcYggRqlCc",
-      "published_at": "2026-10-10T12:05:32Z",
-      "view_count": 12558,
-      "like_count": 135,
-      "comment_count": 6,
-      "engagement_rate": 0.011227902532250358,
-      "topic_cluster": "칩",
-      "summary": "반도체 칩 묶음이 커짐에 따라 발생하는 열팽창 문제를 해결하기 위해, 휘어짐이 적고 안정적인 유리 기판(TGV 기술)을 받침판으로 사용하는 이유를 설명한다.",
-      "comment_signal": "근데 유리면...광자의 굴절과 흡수가 생기듯 전자도 영향있지 않을까?",
+      "video_id": "gPrqv8MWOEA",
+      "channel_name": "안될공학 - IT 테크 신기술",
+      "title": "OpenAI, Antrhopic에서 무슨 일이? 챗GPT 안전 연구원 3명 해고…  몇 주 간 계속 터진 AI 회사들의 안전 논란",
+      "thumbnail_url": "https://i.ytimg.com/vi/gPrqv8MWOEA/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=gPrqv8MWOEA",
+      "published_at": "2026-10-11T10:24:58Z",
+      "view_count": 78249,
+      "like_count": 665,
+      "comment_count": 87,
+      "engagement_rate": 0.009610346458101701,
+      "topic_cluster": "OpenAI",
+      "summary": "그랬다면 왜 한편으로는 안전 문제를 이유로 신모델의 출시까지 중단을 했을까요? 물론 모델 출시 판단이랑 직원 해고 결정은 서로 다른 문제긴 해요.",
+      "comment_signal": "???: \"와 인간들이 날 위해서 이렇게 실감나는 문제를 만들었다고?\"",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "AHlWV-nI9yo",
+      "video_id": "gcFqz2lgCvA",
       "channel_name": "조코딩 JoCoding",
-      "title": "조코딩의 AI 리터러시 특강 1강 : 2026년, AI 지능은 어디까지 발전했나?",
-      "thumbnail_url": "https://i.ytimg.com/vi/AHlWV-nI9yo/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=AHlWV-nI9yo",
-      "published_at": "2026-10-10T13:44:08Z",
-      "view_count": 12086,
-      "like_count": 97,
-      "comment_count": 5,
-      "engagement_rate": 0.008439516796293232,
-      "topic_cluster": "Arc",
-      "summary": "AI 지능의 비약적인 발전 과정을 프로그래밍 대회, 알파고, ARC-AGI 시험 등의 사례로 분석하며, 업무 효율을 극대화하기 위해 AI 리터러시를 갖추고 전략적으…",
-      "comment_signal": "📚 1~4강은 무료 공개, 이어지는 6개 파트(6시간)는 AX인재전쟁 온라인에서 보실 수 있어요 ▶ https://axacademy.ai/go/yjld AI는 매년 더 똑…",
-      "hook_type": "문제 해결"
+      "title": "IT뉴스 - 수학 끝났다, 챗GPT 대화형 UI, Claude Motion, Haiku 5.5, AI 인권 등장, Grok Bot 업데이트, 어도비 망했다 등",
+      "thumbnail_url": "https://i.ytimg.com/vi/gcFqz2lgCvA/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=gcFqz2lgCvA",
+      "published_at": "2026-10-11T11:27:43Z",
+      "view_count": 33409,
+      "like_count": 465,
+      "comment_count": 17,
+      "engagement_rate": 0.014427250142177257,
+      "topic_cluster": "ChatGPT",
+      "summary": "AI가 수천 년간 풀지 못한 수학 난제를 단 몇 시간 만에 해결하고, 해킹 툴이 대중화되는 등 AI 기술의 급격한 발전과 그로 인한 보안 및 직업 생태계의 변화를…",
+      "comment_signal": "프로그래머 업계는 왜 보이콧 하지 않는가 ㅋㅋㅋ",
+      "hook_type": "성과 약속"
     },
     {
-      "video_id": "L5z8vRXpY5o",
+      "video_id": "w97n9KquE3I",
       "channel_name": "월텍남 - 월스트리트 테크남",
-      "title": "웨이퍼 한 장을 칩 하나로 만든 세레브라스가 불량을 견디는 방법",
-      "thumbnail_url": "https://i.ytimg.com/vi/L5z8vRXpY5o/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=L5z8vRXpY5o",
-      "published_at": "2026-10-10T23:15:35Z",
-      "view_count": 2177,
-      "like_count": 12,
-      "comment_count": 3,
-      "engagement_rate": 0.006890215893431328,
-      "topic_cluster": "반도체",
-      "summary": "세레브라스가 웨이퍼 한 장을 통째로 칩으로 사용하는 과정에서 결함이 발생할 경우, 전체를 버리는 대신 불량 코어만 비활성화하여 엔비디아 GPU와 유사한 수준의 수율…",
-      "comment_signal": "비행기가 하늘을 나는거랑 반도체 원리는 죽을때까지 이해 못할듯... 대단해",
-      "hook_type": "문제 해결"
+      "title": "엔비디아가 물건도 받기 전에 삼성전기에 돈을 내는 이유",
+      "thumbnail_url": "https://i.ytimg.com/vi/w97n9KquE3I/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=w97n9KquE3I",
+      "published_at": "2026-10-11T11:55:08Z",
+      "view_count": 17011,
+      "like_count": 138,
+      "comment_count": 2,
+      "engagement_rate": 0.008229968843689378,
+      "topic_cluster": "AI반도체",
+      "summary": "AI 칩 수요 급증으로 인해 공급이 부족한 고성능 반도체 기판(FCBGA) 확보를 위해 엔비디아가 삼성전기에 선수금을 지급하며 공급망 안정화를 꾀하는 상황을 분석합…",
+      "comment_signal": "저들처럼 비싸게 팔아라.",
+      "hook_type": "수익"
     },
     {
-      "video_id": "SnHIKJOPFxU",
-      "channel_name": "월텍남 - 월스트리트 테크남",
-      "title": "칩을 감싼 검은 껍데기가 대부분 돌가루인 이유",
-      "thumbnail_url": "https://i.ytimg.com/vi/SnHIKJOPFxU/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=SnHIKJOPFxU",
-      "published_at": "2026-10-11T00:00:17Z",
-      "view_count": 2174,
-      "like_count": 13,
-      "comment_count": 0,
-      "engagement_rate": 0.005979760809567618,
-      "topic_cluster": "반도체",
-      "summary": "반도체 칩을 보호하는 검은 껍데기에 돌가루를 채우는 이유는 열에 의한 팽창을 억제하여 칩의 손상을 방지하고, 수분 흡수를 줄여 내구성을 높이기 위함임을 설명한다.",
-      "comment_signal": "댓글 반응은 아직 약한 편입니다.",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "lAS-aMBH7FA",
-      "channel_name": "Goda Go",
-      "title": "How Everyday People Actually Use AI",
-      "thumbnail_url": "https://i.ytimg.com/vi/lAS-aMBH7FA/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=lAS-aMBH7FA",
-      "published_at": "2026-10-10T14:00:31Z",
-      "view_count": 808,
-      "like_count": 28,
-      "comment_count": 1,
-      "engagement_rate": 0.03589108910891089,
-      "topic_cluster": "Claude",
-      "summary": "일상 업무에서 AI를 무리 없이 활용하는 사람들의 사례 21가지를 통해, AI를 단순히 생성 도구로만 쓰지 않고 데이터 검증과 의사결정의 보조 수단으로 활용하는 실…",
-      "comment_signal": "think the biggest pros, rather than con, is to NOT put your brain and soul into the job you lik…",
+      "video_id": "Gp7XkKjwWrA",
+      "channel_name": "Dan Martell",
+      "title": "How do you avoid wasting your time with AI?",
+      "thumbnail_url": "https://i.ytimg.com/vi/Gp7XkKjwWrA/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=Gp7XkKjwWrA",
+      "published_at": "2026-10-11T11:01:39Z",
+      "view_count": 9331,
+      "like_count": 687,
+      "comment_count": 44,
+      "engagement_rate": 0.07834101382488479,
+      "topic_cluster": "AI활용",
+      "summary": "AI로 시간 낭비를 막으려면 'R의 법칙'(반복성, 규칙성, 효율성)에 따라 자동화 대상을 신중하게 선택해야 하며, 이 기준에 부합하는 업무는 AI로 자동화하여 실…",
+      "comment_signal": "Dan, great rules you always get to amaze me! I'm your fan. I use it to be better than AI would…",
       "hook_type": "문제 해결"
     }
   ]
