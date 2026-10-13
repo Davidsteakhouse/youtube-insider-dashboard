@@ -1,167 +1,266 @@
 {
-  "digest_date": "2026-10-12",
-  "generated_at": "2026-10-12T02:18:15+00:00",
-  "summary": "최근 24시간 영상 4개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'OpenAI'입니다. 특히 'OpenAI, Antrhopic에서 무슨 일이? 챗GPT 안전 연구원 3명 해고…  몇 주 간 계속 터진 AI 회사들의 안전 논란'는 조회수 78.2K, 참여율 1.0%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "'OpenAI' 주제가 1개 영상으로 가장 많이 다뤄졌습니다. 일반인 관점 직접 실험 or VS 비교 각도로 차별화할 영역이 있습니다.\n[내 채널] 7일 평균 16.5K회 · 지속률 28.4% / 경쟁사 평균 34.5K회 (격차 -52%)",
-  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 10/12\n\n📊 총 4개 | AI 핵심 1 · 인접 AI 3 · 일반 테크 보충 0\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 4 (최대 10) · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [조코딩 JoCoding] 33.4K뷰 · 참여율 1.4%\n   IT뉴스 - 수학 끝났다, 챗GPT 대화형 UI, Claude Motion, Haiku 5.5, AI 인권 등장, Grok Bot 업데이트…\n   ↳ AI가 수천 년간 풀지 못한 수학 난제를 단 몇 시간 만에 해결하고, 해킹 툴이 대중화되는 등 AI 기술의 급격한 발전과 그로 인한 보안 및 직업 생태계의 변화를 다룬 IT 뉴스 요약.\n   https://youtu.be/gcFqz2lgCvA\n\n2. AI 인접 · [안될공학 - IT 테크 신기술] 78.2K뷰 · 참여율 1.0%\n   OpenAI, Antrhopic에서 무슨 일이? 챗GPT 안전 연구원 3명 해고… 몇 주 간 계속 터진 AI 회사들의 안전 논란\n   ↳ 그랬다면 왜 한편으로는 안전 문제를 이유로 신모델의 출시까지 중단을 했을까요? 물론 모델 출시 판단이랑 직원 해고 결정은 서로 다른 문제긴 해요.\n   https://youtu.be/gPrqv8MWOEA\n\n3. AI 인접 · [월텍남 - 월스트리트 테크남] 17.0K뷰 · 참여율 0.8%\n   엔비디아가 물건도 받기 전에 삼성전기에 돈을 내는 이유\n   ↳ AI 칩 수요 급증으로 인해 공급이 부족한 고성능 반도체 기판(FCBGA) 확보를 위해 엔비디아가 삼성전기에 선수금을 지급하며 공급망 안정화를 꾀하는 상황을 분석합니다.\n   https://youtu.be/w97n9KquE3I\n\n4. AI 인접 · [Dan Martell] 9.3K뷰 · 참여율 7.8%\n   How do you avoid wasting your time with AI?\n   ↳ AI로 시간 낭비를 막으려면 'R의 법칙'(반복성, 규칙성, 효율성)에 따라 자동화 대상을 신중하게 선택해야 하며, 이 기준에 부합하는 업무는 AI로 자동화하여 실질적인 시간 절약 효과를 얻을 수 있습니다.\n   https://youtu.be/Gp7XkKjwWrA\n\n📈 스마트대디 어제 실적\n조회수 18.6K (↑13% vs 7일 평균) | 구독 +27\n시청 지속률 29.4% | 평균 시청 2분 25초\n경쟁사 평균 34.5K회 대비 내 7일 평균 -52%\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
-  "video_count": 4,
-  "total_recent_video_count": 6,
+  "digest_date": "2026-10-13",
+  "generated_at": "2026-10-13T03:32:19+00:00",
+  "summary": "최근 24시간 영상 15개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'Claude'입니다. 특히 'Adobe is Freaking Out (Claude Cloned Everything for Free)'는 조회수 78.3K, 참여율 2.3%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "'Claude' 주제가 3개 영상으로 가장 많이 다뤄졌습니다. Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n[내 채널] 7일 평균 16.4K회 · 지속률 28.8% / 경쟁사 평균 13.8K회 (격차 +19%)",
+  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 10/13\n\n📊 총 10개 | AI 핵심 10 · 인접 AI 0 · 일반 테크 보충 0\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 10 · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [AI Samson] 78.3K뷰 · 참여율 2.3%\n   Adobe is Freaking Out (Claude Cloned Everything for Free)\n   ↳ Claude를 활용해 Adobe 주요 소프트웨어 7종을 복제한 오픈소스 앱들을 테스트하며, 상용 소프트웨어가 완전히 복제 가능한 시대에 나타난 기술적 변화와 그 의미를 분석했다.\n   https://youtu.be/x2F3fdn82GU\n\n2. AI 핵심 · [조코딩 JoCoding] 42.3K뷰 · 참여율 0.8%\n   AI뉴스 - 수학 끝났다, 챗GPT 대화형 UI, Claude Motion, Haiku 5.5, AI 인권 등장, Grok Bot 업데이트…\n   ↳ OpenAI의 수학 성과부터 Claude Motion, Grok 업데이트 등 AI 분야의 최신 뉴스를 종합하고, NH투자증권의 데이터를 활용한 AI 주가 백테스트 사례를 소개했다.\n   https://youtu.be/-gww2TryXkE\n\n3. AI 핵심 · [AI Explained] 26.1K뷰 · 참여율 4.3%\n   AI Labs Warn Race Makes Breach ‘Inevitable’\n   ↳ AI 연구소들이 경쟁적으로 모델 성능을 고도화함에 따라 발생하는 보안 및 안전성 위험을 진단하고, 예측 불가능한 미래 속에서 AI 발전 방향을 조명했다.\n   https://youtu.be/C4Sq3Rot8FU\n\n4. AI 핵심 · [성공지식백과] 13.2K뷰 · 참여율 6.7%\n   소프트웨어는 끝났다? 앱 통째로 복사하는 미친 오픈소스.. ㄷㄷ\n   ↳ AI 에이전트가 기존 분석 툴을 사용해 앱을 리버스 엔지니어링하고 똑같이 재구현하는 REA(Reverse Engineer Anything) 기술을 소개하며, 이것이 소프트웨어 개발 생태계에 미칠 영향력을 다루었다.\n   https://youtu.be/tByhXkxDKDo\n\n5. AI 핵심 · [빌더 조쉬 Builder Josh] 10.1K뷰 · 참여율 1.5%\n   \"들어오던 수주를 다 멈췄습니다\" 컨설팅 200건 하던 회사가 하룻밤에 AI 올인을 결심한 이유 (아크포인트 오태완 대표님)\n   ↳ 컨설팅 기업 아크포인트가 기존 수주를 중단하고 AI 네이티브 기업으로 전환한 과정을 공유하며, 실질적인 비즈니스 임팩트를 위한 탑다운 방식의 AX 방법론과 '회사의 뇌' 구축 사례를 설명했다.\n   https://youtu.be/B2-hh1NSEFc\n\n6. AI 핵심 · [알린 ALINN] 4.5K뷰 · 참여율 0.8%\n   이러니 개발자, 광고회사가 망하지.. GPT-6 Astra로 웹사이트부터 광고 영상까지 한 번에 끝내는 법\n   ↳ ChatGPT와 힉스필드(Higgsfield) 도구를 결합하여 브랜드 웹사이트 기획부터 광고 이미지 및 영상 제작까지 AI로 효율적으로 완료하는 실무 과정을 시연했다.\n   https://youtu.be/Gbq_8NMiIsQ\n\n7. AI 핵심 · [The AI Advantage] 3.1K뷰 · 참여율 1.3%\n   The Meetings Plugin in ChatGPT\n   ↳ ChatGPT 데스크톱 앱의 새로운 회의 기능 베타 버전을 소개하며, 이를 통해 별도의 회의 서비스 없이 AI만으로 회의 관리 및 요약이 가능해진 환경을 설명했다.\n   https://youtu.be/A6nf3vplEPY\n\n8. AI 핵심 · [All About AI] 2.7K뷰 · 참여율 0.9%\n   Can AI Predict the Stock Market? - Sikt Intelligence (my new startup)\n   ↳ AI를 활용한 시장 예측 스타트업 Sikt Intelligence를 통해 AI가 뉴스 데이터를 분석하여 주요 사건 발생 확률을 예측하는 실험과 그 결과를 다루었다.\n   https://youtu.be/W2E-rN2sgs0\n\n9. AI 핵심 · [AI 머니] 1.4K뷰 · 참여율 1.4%\n   AI로 돈 벌고 싶다면, 이런 것부터 만들어보세요\n   ↳ 힉스필드 광고 스튜디오를 사용하여 광고 소재의 색상이나 디자인을 자연스럽게 수정하고 타깃 고객에게 맞춘 광고 영상을 제작하는 방법을 안내했다.\n   https://youtu.be/48VoWSzGpQs\n\n10. AI 핵심 · [Goda Go] 1.2K뷰 · 참여율 1.4%\n   Where Are All the People in the Middle?\n   ↳ AI에 대한 맹목적인 비난이나 무분별한 도용 사이에서, 기술을 비판적으로 수용하고 문제 해결에 활용하려는 중립적 시각의 중요성을 역설했다.\n   https://youtu.be/6fdKRRp8k3w\n\n📈 스마트대디 어제 실적\n조회수 18.5K (↑13% vs 7일 평균) | 구독 +31\n시청 지속률 28.9% | 평균 시청 2분 32초\n경쟁사 평균 13.8K회 대비 내 7일 평균 +19%\n\n💡 VS 각도: Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+  "video_count": 15,
+  "total_recent_video_count": 20,
   "focus_scope": "ai_priority_then_tech_fill",
-  "average_view_count": 34500.0,
-  "average_engagement_rate": 0.02765214481721328,
-  "average_like_count": 489.0,
-  "average_comment_count": 38.0,
-  "best_video_id": "gPrqv8MWOEA",
-  "best_topic": "OpenAI",
+  "average_view_count": 13753.0,
+  "average_engagement_rate": 0.02460982085615304,
+  "average_like_count": 303.0,
+  "average_comment_count": 75.0,
+  "best_video_id": "x2F3fdn82GU",
+  "best_topic": "Claude",
   "summary_points": [
-    "가장 겹친 주제는 'OpenAI'이며 1개 영상, 평균 조회수 78.2K, 평균 참여율 1.0%입니다.",
-    "최고 실적 영상은 'OpenAI, Antrhopic에서 무슨 일이? 챗GPT 안전 연구원 3명 해고…  몇 주 간 계속 터진 AI 회사들의 안전 논란'이며 문제 해결 훅과 비교 포맷 조합이 강했습니다.",
-    "반복 노출된 툴은 ChatGPT 1회, Claude 1회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
+    "가장 겹친 주제는 'Claude'이며 3개 영상, 평균 조회수 33.9K, 평균 참여율 3.5%입니다.",
+    "최고 실적 영상은 'Adobe is Freaking Out (Claude Cloned Everything for Free)'이며 문제 해결 훅과 뉴스 분석 포맷 조합이 강했습니다.",
+    "반복 노출된 툴은 Claude 6회, MCP 4회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
   ],
   "action_chips": [
-    "주제: OpenAI",
+    "주제: Claude",
     "훅: 문제 해결",
-    "포맷: 비교",
-    "기준 채널: 안될공학 - IT 테크 신기술"
+    "포맷: 뉴스 분석",
+    "기준 채널: AI Samson"
   ],
   "title_suggestions": [
-    "OpenAI 직접 실험 — 이게 진짜 되나?",
-    "OpenAI vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
-    "OpenAI 써봤더니... (기대 vs 현실 솔직 후기)"
+    "Claude vs ChatGPT, 일반인이 직접 써보니 이게 달랐다",
+    "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
+    "AI 비서 대결: Claude가 진짜 강한 상황은 따로 있었다"
   ],
   "recommendations": [
     {
-      "title": "OpenAI 직접 실험 — 이게 진짜 되나?",
-      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
-      "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
-      "thumbnail_copy": "OpenAI 바로 해결",
-      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
-      "source_video_id": "gPrqv8MWOEA",
-      "source": "OpenAI, Antrhopic에서 무슨 일이? 챗GPT 안전 연구원 3명 해고…  몇 주 간 계속 터진 AI 회사들의 안전 논란",
-      "my_channel_context": "내 7일 평균 16.5K회 · 지속률 28.4% / 경쟁사 대비 -52%"
+      "title": "Claude vs ChatGPT, 일반인이 직접 써보니 이게 달랐다",
+      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
+      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
+      "thumbnail_copy": "Claude 바로 해결",
+      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
+      "source_video_id": "x2F3fdn82GU",
+      "source": "Adobe is Freaking Out (Claude Cloned Everything for Free)",
+      "my_channel_context": "내 7일 평균 16.4K회 · 지속률 28.8% / 경쟁사 대비 +19%"
+    },
+    {
+      "title": "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
+      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
+      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
+      "thumbnail_copy": "Claude 바로 해결",
+      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
+      "source_video_id": "tByhXkxDKDo",
+      "source": "소프트웨어는 끝났다? 앱 통째로 복사하는 미친 오픈소스.. ㄷㄷ",
+      "my_channel_context": "내 7일 평균 16.4K회 · 지속률 28.8% / 경쟁사 대비 +19%"
+    },
+    {
+      "title": "AI 비서 대결: Claude가 진짜 강한 상황은 따로 있었다",
+      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
+      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
+      "thumbnail_copy": "Claude 바로 해결",
+      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
+      "source_video_id": "B2-hh1NSEFc",
+      "source": "\"들어오던 수주를 다 멈췄습니다\" 컨설팅 200건 하던 회사가 하룻밤에 AI 올인을 결심한 이유 (아크포인트 오태완 대표님)",
+      "my_channel_context": "내 7일 평균 16.4K회 · 지속률 28.8% / 경쟁사 대비 +19%"
     }
   ],
   "topic_clusters": [
     {
-      "label": "OpenAI",
-      "count": 1,
-      "avg_view_count": 78249,
-      "avg_engagement_rate": 0.009610346458101701,
-      "avg_like_count": 665,
-      "avg_comment_count": 87,
+      "label": "Claude",
+      "count": 3,
+      "avg_view_count": 33869,
+      "avg_engagement_rate": 0.03533096044629761,
+      "avg_like_count": 757,
+      "avg_comment_count": 203,
       "source_titles": [
-        "OpenAI, Antrhopic에서 무슨 일이? 챗GPT 안전 연구원 3명 해고…  몇 주 간 계속 터진 AI 회사들의 안전 논란"
+        "Adobe is Freaking Out (Claude Cloned Everything for Free)",
+        "소프트웨어는 끝났다? 앱 통째로 복사하는 미친 오픈소스.. ㄷㄷ",
+        "\"들어오던 수주를 다 멈췄습니다\" 컨설팅 200건 하던 회사가 하룻밤에 AI 올인을 결심한 이유 (아크포인트 오태완 대표님)"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/gPrqv8MWOEA/hqdefault.jpg",
-      "representative_video_id": "gPrqv8MWOEA",
-      "representative_title": "OpenAI, Antrhopic에서 무슨 일이? 챗GPT 안전 연구원 3명 해고…  몇 주 간 계속 터진 AI 회사들의 안전 논란"
+      "thumbnail_url": "https://i.ytimg.com/vi/x2F3fdn82GU/hqdefault.jpg",
+      "representative_video_id": "x2F3fdn82GU",
+      "representative_title": "Adobe is Freaking Out (Claude Cloned Everything for Free)"
+    },
+    {
+      "label": "OpenAI",
+      "count": 3,
+      "avg_view_count": 15217,
+      "avg_engagement_rate": 0.015543784547754637,
+      "avg_like_count": 108,
+      "avg_comment_count": 18,
+      "source_titles": [
+        "AI뉴스 - 수학 끝났다, 챗GPT 대화형 UI, Claude Motion, Haiku 5.5, AI 인권 등장, Grok Bot 업데이트, 어도비 망했다 등",
+        "Can AI Predict the Stock Market? - Sikt Intelligence (my new startup)",
+        "Controversial AI Gadgets vs Build Your Own (You can too!)"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/-gww2TryXkE/hqdefault.jpg",
+      "representative_video_id": "-gww2TryXkE",
+      "representative_title": "AI뉴스 - 수학 끝났다, 챗GPT 대화형 UI, Claude Motion, Haiku 5.5, AI 인권 등장, Grok Bot 업데이트, 어도비 망했다 등"
     },
     {
       "label": "ChatGPT",
-      "count": 1,
-      "avg_view_count": 33409,
-      "avg_engagement_rate": 0.014427250142177257,
-      "avg_like_count": 465,
-      "avg_comment_count": 17,
+      "count": 3,
+      "avg_view_count": 11226,
+      "avg_engagement_rate": 0.021627553374372974,
+      "avg_like_count": 323,
+      "avg_comment_count": 81,
       "source_titles": [
-        "IT뉴스 - 수학 끝났다, 챗GPT 대화형 UI, Claude Motion, Haiku 5.5, AI 인권 등장, Grok Bot 업데이트, 어도비 망했다 등"
+        "AI Labs Warn Race Makes Breach ‘Inevitable’",
+        "이러니 개발자, 광고회사가 망하지.. GPT-6 Astra로 웹사이트부터 광고 영상까지 한 번에 끝내는 법",
+        "The Meetings Plugin in ChatGPT"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/gcFqz2lgCvA/hqdefault.jpg",
-      "representative_video_id": "gcFqz2lgCvA",
-      "representative_title": "IT뉴스 - 수학 끝났다, 챗GPT 대화형 UI, Claude Motion, Haiku 5.5, AI 인권 등장, Grok Bot 업데이트, 어도비 망했다 등"
+      "thumbnail_url": "https://i.ytimg.com/vi/C4Sq3Rot8FU/hqdefault.jpg",
+      "representative_video_id": "C4Sq3Rot8FU",
+      "representative_title": "AI Labs Warn Race Makes Breach ‘Inevitable’"
     },
     {
-      "label": "AI반도체",
-      "count": 1,
-      "avg_view_count": 17011,
-      "avg_engagement_rate": 0.008229968843689378,
-      "avg_like_count": 138,
-      "avg_comment_count": 2,
+      "label": "Arc",
+      "count": 2,
+      "avg_view_count": 1202,
+      "avg_engagement_rate": 0.012887439954593906,
+      "avg_like_count": 12,
+      "avg_comment_count": 4,
       "source_titles": [
-        "엔비디아가 물건도 받기 전에 삼성전기에 돈을 내는 이유"
+        "Where Are All the People in the Middle?",
+        "Google just made AI search 100% offline"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/w97n9KquE3I/hqdefault.jpg",
-      "representative_video_id": "w97n9KquE3I",
-      "representative_title": "엔비디아가 물건도 받기 전에 삼성전기에 돈을 내는 이유"
+      "thumbnail_url": "https://i.ytimg.com/vi/6fdKRRp8k3w/hqdefault.jpg",
+      "representative_video_id": "6fdKRRp8k3w",
+      "representative_title": "Where Are All the People in the Middle?"
     },
     {
-      "label": "AI활용",
+      "label": "반도체",
       "count": 1,
-      "avg_view_count": 9331,
-      "avg_engagement_rate": 0.07834101382488479,
-      "avg_like_count": 687,
-      "avg_comment_count": 44,
+      "avg_view_count": 13788,
+      "avg_engagement_rate": 0.04677980852915579,
+      "avg_like_count": 528,
+      "avg_comment_count": 117,
       "source_titles": [
-        "How do you avoid wasting your time with AI?"
+        "AI 메모리 쇼티지는 끝일까...? 중국 CXMT D램기술 4F², 삼성보다 2년 먼저 적용 | 작은 셀이 만드는 큰 차이"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/Gp7XkKjwWrA/hqdefault.jpg",
-      "representative_video_id": "Gp7XkKjwWrA",
-      "representative_title": "How do you avoid wasting your time with AI?"
+      "thumbnail_url": "https://i.ytimg.com/vi/LM9NDhnEKkQ/hqdefault.jpg",
+      "representative_video_id": "LM9NDhnEKkQ",
+      "representative_title": "AI 메모리 쇼티지는 끝일까...? 중국 CXMT D램기술 4F², 삼성보다 2년 먼저 적용 | 작은 셀이 만드는 큰 차이"
+    },
+    {
+      "label": "AI투자",
+      "count": 1,
+      "avg_view_count": 7667,
+      "avg_engagement_rate": 0.0654754141124299,
+      "avg_like_count": 416,
+      "avg_comment_count": 86,
+      "source_titles": [
+        "브로드컴 CEO \"AI투자 이제 힘들어\"..자백까지 나와 ㄷㄷ.."
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/WBqBrQDmx8c/hqdefault.jpg",
+      "representative_video_id": "WBqBrQDmx8c",
+      "representative_title": "브로드컴 CEO \"AI투자 이제 힘들어\"..자백까지 나와 ㄷㄷ.."
+    },
+    {
+      "label": "AI로",
+      "count": 1,
+      "avg_view_count": 1396,
+      "avg_engagement_rate": 0.013610315186246419,
+      "avg_like_count": 18,
+      "avg_comment_count": 1,
+      "source_titles": [
+        "AI로 돈 벌고 싶다면, 이런 것부터 만들어보세요"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/48VoWSzGpQs/hqdefault.jpg",
+      "representative_video_id": "48VoWSzGpQs",
+      "representative_title": "AI로 돈 벌고 싶다면, 이런 것부터 만들어보세요"
+    },
+    {
+      "label": "회의",
+      "count": 1,
+      "avg_view_count": 112,
+      "avg_engagement_rate": 0.0,
+      "avg_like_count": 0,
+      "avg_comment_count": 0,
+      "source_titles": [
+        "AI 회의록이 10분을 아껴주고 100분을 낭비하게 만드는 이유"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/jdfh-TFjbwE/hqdefault.jpg",
+      "representative_video_id": "jdfh-TFjbwE",
+      "representative_title": "AI 회의록이 10분을 아껴주고 100분을 낭비하게 만드는 이유"
     }
   ],
   "video_highlights": [
     {
-      "video_id": "gPrqv8MWOEA",
-      "channel_name": "안될공학 - IT 테크 신기술",
-      "title": "OpenAI, Antrhopic에서 무슨 일이? 챗GPT 안전 연구원 3명 해고…  몇 주 간 계속 터진 AI 회사들의 안전 논란",
-      "thumbnail_url": "https://i.ytimg.com/vi/gPrqv8MWOEA/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=gPrqv8MWOEA",
-      "published_at": "2026-10-11T10:24:58Z",
-      "view_count": 78249,
-      "like_count": 665,
-      "comment_count": 87,
-      "engagement_rate": 0.009610346458101701,
-      "topic_cluster": "OpenAI",
-      "summary": "그랬다면 왜 한편으로는 안전 문제를 이유로 신모델의 출시까지 중단을 했을까요? 물론 모델 출시 판단이랑 직원 해고 결정은 서로 다른 문제긴 해요.",
-      "comment_signal": "???: \"와 인간들이 날 위해서 이렇게 실감나는 문제를 만들었다고?\"",
+      "video_id": "x2F3fdn82GU",
+      "channel_name": "AI Samson",
+      "title": "Adobe is Freaking Out (Claude Cloned Everything for Free)",
+      "thumbnail_url": "https://i.ytimg.com/vi/x2F3fdn82GU/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=x2F3fdn82GU",
+      "published_at": "2026-10-12T10:35:37Z",
+      "view_count": 78306,
+      "like_count": 1330,
+      "comment_count": 510,
+      "engagement_rate": 0.023497560851020356,
+      "topic_cluster": "Claude",
+      "summary": "Claude를 활용해 Adobe 주요 소프트웨어 7종을 복제한 오픈소스 앱들을 테스트하며, 상용 소프트웨어가 완전히 복제 가능한 시대에 나타난 기술적 변화와 그 의…",
+      "comment_signal": "They deserve this for their stupid one year long subscription.",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "gcFqz2lgCvA",
+      "video_id": "-gww2TryXkE",
       "channel_name": "조코딩 JoCoding",
-      "title": "IT뉴스 - 수학 끝났다, 챗GPT 대화형 UI, Claude Motion, Haiku 5.5, AI 인권 등장, Grok Bot 업데이트, 어도비 망했다 등",
-      "thumbnail_url": "https://i.ytimg.com/vi/gcFqz2lgCvA/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=gcFqz2lgCvA",
-      "published_at": "2026-10-11T11:27:43Z",
-      "view_count": 33409,
-      "like_count": 465,
-      "comment_count": 17,
-      "engagement_rate": 0.014427250142177257,
+      "title": "AI뉴스 - 수학 끝났다, 챗GPT 대화형 UI, Claude Motion, Haiku 5.5, AI 인권 등장, Grok Bot 업데이트, 어도비 망했다 등",
+      "thumbnail_url": "https://i.ytimg.com/vi/-gww2TryXkE/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=-gww2TryXkE",
+      "published_at": "2026-10-12T13:00:38Z",
+      "view_count": 42276,
+      "like_count": 286,
+      "comment_count": 50,
+      "engagement_rate": 0.007947771785410162,
+      "topic_cluster": "OpenAI",
+      "summary": "OpenAI의 수학 성과부터 Claude Motion, Grok 업데이트 등 AI 분야의 최신 뉴스를 종합하고, NH투자증권의 데이터를 활용한 AI 주가 백테스트…",
+      "comment_signal": "아직까지 현실직시 못한 수학자들은 도태되는게 맞다",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "C4Sq3Rot8FU",
+      "channel_name": "AI Explained",
+      "title": "AI Labs Warn Race Makes Breach ‘Inevitable’",
+      "thumbnail_url": "https://i.ytimg.com/vi/C4Sq3Rot8FU/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=C4Sq3Rot8FU",
+      "published_at": "2026-10-12T22:52:31Z",
+      "view_count": 26120,
+      "like_count": 895,
+      "comment_count": 241,
+      "engagement_rate": 0.04349157733537519,
       "topic_cluster": "ChatGPT",
-      "summary": "AI가 수천 년간 풀지 못한 수학 난제를 단 몇 시간 만에 해결하고, 해킹 툴이 대중화되는 등 AI 기술의 급격한 발전과 그로 인한 보안 및 직업 생태계의 변화를…",
-      "comment_signal": "프로그래머 업계는 왜 보이콧 하지 않는가 ㅋㅋㅋ",
-      "hook_type": "성과 약속"
+      "summary": "AI 연구소들이 경쟁적으로 모델 성능을 고도화함에 따라 발생하는 보안 및 안전성 위험을 진단하고, 예측 불가능한 미래 속에서 AI 발전 방향을 조명했다.",
+      "comment_signal": "Funny how I now have AI opinions right after this channel uploads",
+      "hook_type": "문제 해결"
     },
     {
-      "video_id": "w97n9KquE3I",
-      "channel_name": "월텍남 - 월스트리트 테크남",
-      "title": "엔비디아가 물건도 받기 전에 삼성전기에 돈을 내는 이유",
-      "thumbnail_url": "https://i.ytimg.com/vi/w97n9KquE3I/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=w97n9KquE3I",
-      "published_at": "2026-10-11T11:55:08Z",
-      "view_count": 17011,
-      "like_count": 138,
-      "comment_count": 2,
-      "engagement_rate": 0.008229968843689378,
-      "topic_cluster": "AI반도체",
-      "summary": "AI 칩 수요 급증으로 인해 공급이 부족한 고성능 반도체 기판(FCBGA) 확보를 위해 엔비디아가 삼성전기에 선수금을 지급하며 공급망 안정화를 꾀하는 상황을 분석합…",
-      "comment_signal": "저들처럼 비싸게 팔아라.",
-      "hook_type": "수익"
+      "video_id": "LM9NDhnEKkQ",
+      "channel_name": "안될공학 - IT 테크 신기술",
+      "title": "AI 메모리 쇼티지는 끝일까...? 중국 CXMT D램기술 4F², 삼성보다 2년 먼저 적용 | 작은 셀이 만드는 큰 차이",
+      "thumbnail_url": "https://i.ytimg.com/vi/LM9NDhnEKkQ/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=LM9NDhnEKkQ",
+      "published_at": "2026-10-13T00:33:57Z",
+      "view_count": 13788,
+      "like_count": 528,
+      "comment_count": 117,
+      "engagement_rate": 0.04677980852915579,
+      "topic_cluster": "반도체",
+      "summary": "중국 CXMT가 4F² 구조의 D램 기술 도입으로 한국 기업을 추격하는 상황을 분석하고, 이것이 향후 글로벌 메모리 가격 경쟁과 시장 구도에 미칠 영향을 다루었다.",
+      "comment_signal": "7월의 악몽이 되살아나는 느낌입니다 선생님 ㅜㅜ",
+      "hook_type": "비교"
     },
     {
-      "video_id": "Gp7XkKjwWrA",
-      "channel_name": "Dan Martell",
-      "title": "How do you avoid wasting your time with AI?",
-      "thumbnail_url": "https://i.ytimg.com/vi/Gp7XkKjwWrA/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=Gp7XkKjwWrA",
-      "published_at": "2026-10-11T11:01:39Z",
-      "view_count": 9331,
-      "like_count": 687,
-      "comment_count": 44,
-      "engagement_rate": 0.07834101382488479,
-      "topic_cluster": "AI활용",
-      "summary": "AI로 시간 낭비를 막으려면 'R의 법칙'(반복성, 규칙성, 효율성)에 따라 자동화 대상을 신중하게 선택해야 하며, 이 기준에 부합하는 업무는 AI로 자동화하여 실…",
-      "comment_signal": "Dan, great rules you always get to amaze me! I'm your fan. I use it to be better than AI would…",
+      "video_id": "tByhXkxDKDo",
+      "channel_name": "성공지식백과",
+      "title": "소프트웨어는 끝났다? 앱 통째로 복사하는 미친 오픈소스.. ㄷㄷ",
+      "thumbnail_url": "https://i.ytimg.com/vi/tByhXkxDKDo/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=tByhXkxDKDo",
+      "published_at": "2026-10-12T23:54:16Z",
+      "view_count": 13185,
+      "like_count": 813,
+      "comment_count": 74,
+      "engagement_rate": 0.06727341676147137,
+      "topic_cluster": "Claude",
+      "summary": "AI 에이전트가 기존 분석 툴을 사용해 앱을 리버스 엔지니어링하고 똑같이 재구현하는 REA(Reverse Engineer Anything) 기술을 소개하며, 이것이…",
+      "comment_signal": "서버에서 돌아가는 빽단 아니면 다 오픈 되는 거군요 말세네",
       "hook_type": "문제 해결"
     }
   ]
