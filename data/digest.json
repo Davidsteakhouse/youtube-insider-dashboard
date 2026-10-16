@@ -1,269 +1,251 @@
 {
-  "digest_date": "2026-10-15",
-  "generated_at": "2026-10-15T01:27:24+00:00",
-  "summary": "최근 24시간 영상 24개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'ChatGPT'입니다. 특히 '애플이 이제 집까지 노린다? 애플 홈뷰&TV&홈팟미니2 공개!'는 조회수 356.2K, 참여율 0.5%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "'ChatGPT' 주제가 4개 영상으로 가장 많이 다뤄졌습니다. ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.\n[내 채널] 7일 평균 15.8K회 · 지속률 27.9% / 경쟁사 평균 25.7K회 (격차 -39%)",
-  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 10/15\n\n📊 총 10개 | AI 핵심 10 · 인접 AI 0 · 일반 테크 보충 0\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 10 · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [조코딩 JoCoding] 43.9K뷰 · 참여율 0.5%\n   AI로 만든 곡이 인기차트를 흔들었다 ㄷㄷ\n   ↳ AI 보컬 기술을 활용해 감동적인 곡을 만들어 대중의 호평을 받는 사례가 늘고 있으며, 이제는 누가 만들었는지보다 결과물의 완성도가 중요한 시대가 도래했습니다.\n   https://youtu.be/VmRVy6QDPfI\n\n2. AI 핵심 · [조코딩 JoCoding] 32.8K뷰 · 참여율 1.0%\n   모션그래픽까지 다 흡수해버린 클로드 ㄷㄷ;;\n   ↳ 클로드의 새로운 네이티브 모션 그래픽 기능을 활용하여 프롬프트 입력만으로 간단하게 애니메이션 영상을 제작할 수 있게 되었습니다.\n   https://youtu.be/FCd0GZgAj_c\n\n3. AI 핵심 · [조코딩 JoCoding] 28.1K뷰 · 참여율 0.8%\n   극단적인 전략을 펼친 Grok Bot ㄷㄷ\n   ↳ Grok은 자체 모델에만 의존하지 않고 이미지와 음악 등 분야별 최상위 모델을 연동하는 전략을 통해 AI 에이전트 시장에서의 경쟁력을 확보하려 합니다.\n   https://youtu.be/PWE80I3FIDM\n\n4. AI 핵심 · [조코딩 JoCoding] 27.9K뷰 · 참여율 0.6%\n   싹 달라진 챗GPT의 새로운 UI\n   ↳ 챗GPT의 새로운 인텔리전트 UI는 사용자의 질문에 따라 웹사이트 형태의 답변을 구성하거나 설문조사처럼 선택 가능한 인터페이스를 제공하도록 업데이트되었습니다.\n   https://youtu.be/Vhod5GQn7cU\n\n5. AI 핵심 · [The AI Advantage] 23.4K뷰 · 참여율 1.5%\n   New Claude Motion is Insane\n   ↳ 클로드 모션은 복잡한 정보를 직관적인 애니메이션으로 변환해주며, 기존 제품 소개나 서비스 시연 등에 효과적으로 활용할 수 있습니다.\n   https://youtu.be/qZqZ02AsYiA\n\n6. AI 핵심 · [조코딩 JoCoding] 15.3K뷰 · 참여율 1.1%\n   초지능 AI도 무조건 틀리던 문제의 비밀\n   ↳ AI가 특정 단어의 철자를 세는 데 오류를 겪는 이유는 단어를 토큰 단위의 숫자 코드로 처리하여 개별 글자를 직접 인식하지 못하기 때문입니다.\n   https://youtu.be/_X63momyXYs\n\n7. AI 핵심 · [The AI Automators] 15.0K뷰 · 참여율 1.3%\n   I Tested Gemini 4 Argon vs Opus 5.5 (No Hype)\n   ↳ 제미나이 4 아르곤과 클로드 오퍼스 5.5를 여러 프로그래밍 과제로 테스트한 결과, 클로드 오퍼스가 작업 완성도와 평가 점수에서 더 우수한 성능을 보였습니다.\n   https://youtu.be/uBQaEXjNUe4\n\n8. AI 핵심 · [조코딩 JoCoding] 9.3K뷰 · 참여율 1.2%\n   스마트폰 키보드에 숨겨진 비밀\n   ↳ 스마트폰 키보드는 사용자가 입력하는 글자의 확률적 패턴을 분석해 눌리는 영역을 실시간으로 재계산함으로써 오타를 방지하는 설계를 적용하고 있습니다.\n   https://youtu.be/PoGzFDHXpHI\n\n9. AI 핵심 · [조코딩 JoCoding] 8.6K뷰 · 참여율 0.4%\n   조코딩의 AI 리터러시 강의 2강 : AI는 모든 형태의 콘텐츠를 다룬다\n   ↳ 생성형 AI는 이미지, 목소리, 음악, 영상 등 다양한 콘텐츠를 제작하는 수준으로 발전했으며, 이제는 기술적 구현보다 무엇을 생성할지 지시하는 능력이 더 중요해졌습니다.\n   https://youtu.be/lN1IOA6evoQ\n\n10. AI 핵심 · [빌더 조쉬 Builder Josh] 3.2K뷰 · 참여율 0.7%\n   전 직원에게 AI를 줘도 회사가 안 바뀌는 이유\n   ↳ 많은 기업이 전 직원에게 AI 도구를 배포하고 있지만, 데이터 기반의 의사결정 체계와 전략적 활용 방안이 뒷받침되지 않으면 실질적인 성과 개선으로 이어지기 어렵습니다.\n   https://youtu.be/7_zGtSO8wew\n\n📈 스마트대디 어제 실적\n조회수 12.0K (↓24% vs 7일 평균) | 구독 +17\n시청 지속률 27.5% | 평균 시청 2분 47초\n경쟁사 평균 25.7K회 대비 내 7일 평균 -39%\n\n💡 VS 각도: ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
-  "video_count": 24,
-  "total_recent_video_count": 28,
+  "digest_date": "2026-10-16",
+  "generated_at": "2026-10-16T01:13:48+00:00",
+  "summary": "최근 24시간 영상 11개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'MCP'입니다. 특히 'AI한테 수정 맡기면 생기는 일'는 조회수 38.1K, 참여율 0.5%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "'MCP' 주제가 2개 영상으로 가장 많이 다뤄졌습니다. 일반인 관점 직접 실험 or VS 비교 각도로 차별화할 영역이 있습니다.\n[내 채널] 7일 평균 19.5K회 · 지속률 27.5% / 경쟁사 평균 9.7K회 (격차 +102%)",
+  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 10/16\n\n📊 총 10개 | AI 핵심 10 · 인접 AI 0 · 일반 테크 보충 0\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 10 · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [조코딩 JoCoding] 38.1K뷰 · 참여율 0.5%\n   AI한테 수정 맡기면 생기는 일\n   ↳ AI를 활용한 코딩 및 1인 창업과 관련하여 AI 도구를 통한 업무 효율화 사례와 교육적 접근을 다루고 있다.\n   https://youtu.be/9bbcj6vr8r4\n\n2. AI 핵심 · [AI Samson] 23.4K뷰 · 참여율 1.7%\n   ⁠I Tested Adobe Apps vs Free AI Clones\n   ↳ 어도비 소프트웨어의 무료 AI 대안 도구 7가지를 실제 업무 환경에서 테스트하여 성능과 활용 가능성을 비교 분석했다.\n   https://youtu.be/hNAKl3oLFMs\n\n3. AI 핵심 · [조코딩 JoCoding] 11.2K뷰 · 참여율 0.4%\n   조코딩의 AI 리터러시 특강 3강 : 2026, AI 에이전트가 바꾼 우리의 업무\n   ↳ 목표 설정만으로 계획부터 실행까지 수행하는 AI 에이전트의 발전 과정을 소개하며, 3D 모델링과 마케팅 등 다양한 업무 적용 사례를 제시했다.\n   https://youtu.be/Y3Xz4C3kgBA\n\n4. AI 핵심 · [The AI Automators] 11.2K뷰 · 참여율 1.7%\n   Jev Can Now SEE (And It's Absurdly Fast)\n   ↳ AI 모델 Jev를 활용해 이미지 분석 및 자동 결정 성능을 테스트하고, 신뢰도 점수를 기반으로 한 인간 검토 시스템의 효율성을 입증했다.\n   https://youtu.be/V-fTrJqkG7k\n\n5. AI 핵심 · [AI 머니] 6.0K뷰 · 참여율 2.5%\n   이게 다 100% 무료인데 무제한 사용 가능하다고? 역대급 AI 영상 툴 3개 공개｜AI 인플루언서로 구독자 0명부터 수익화하는 방법 포함\n   ↳ 무료로 무제한 사용 가능한 AI 영상 도구들을 소개하고, AI 인플루언서를 활용하여 수익을 창출하는 방법을 구체적으로 설명했다.\n   https://youtu.be/32lDGdCDFDM\n\n6. AI 핵심 · [빌더 조쉬 Builder Josh] 4.9K뷰 · 참여율 0.9%\n   카카오 AI 전략 맡던 대표가 말하는 AI 에이전트 사고가 나기 전에 회사가 깔아야 할 통제 4단계 (임페라이 음병찬 대표님)\n   ↳ 기업이 AI 에이전트를 도입할 때 발생할 수 있는 보안 및 통제 문제를 해결하기 위해 에이전트 거버넌스와 실시간 통제 기술인 토렌(Toren)의 중요성을 강조했다.\n   https://youtu.be/uskp9cHFcec\n\n7. AI 핵심 · [빌더 조쉬 Builder Josh] 2.5K뷰 · 참여율 0.3%\n   전단지에 QR코드 붙이고 디지털 회사라고 착각하는 회사들\n   ↳ 단순히 전단지에 QR코드를 추가하는 것만으로는 디지털 기업이 될 수 없으며, 진정한 디지털 전환의 본질을 되짚어야 함을 지적했다.\n   https://youtu.be/4y1gn26bLxs\n\n8. AI 핵심 · [빌더 조쉬 Builder Josh] 2.1K뷰 · 참여율 0.4%\n   에어컨으로 이해하는 AI 루프\n   ↳ 에어컨의 온도 조절 시스템을 예시로 들어, 데이터 학습과 피드백을 통해 노하우가 반복적으로 개선되는 AI 루프의 개념을 비개발자도 쉽게 이해하도록 설명했다.\n   https://youtu.be/Y5zyJfnnOfI\n\n9. AI 핵심 · [빌더 조쉬 Builder Josh] 1.2K뷰 · 참여율 0.3%\n   AI 에이전트는 사람처럼 대답해도 사람처럼 움직이지 않습니다\n   ↳ AI 에이전트가 인간처럼 반응하더라도 실제 행동 원리는 인간과 다르다는 점을 강조하며, AI의 보상 신호와 예측의 난해함을 지적했다.\n   https://youtu.be/xR2c9C0NRBI\n\n10. AI 핵심 · [Futurepedia] 737뷰 · 참여율 4.5%\n   Four AI models, one ad, one clear winner.\n   ↳ 4가지 AI 모델을 사용하여 동일한 광고 이미지 생성 테스트를 진행한 결과, 텍스트 가독성과 구성 측면에서 NanoBanana 2.1이 가장 우수한 성능을 보였다.\n   https://youtu.be/umyrdpsnFCA\n\n📈 스마트대디 어제 실적\n조회수 33.8K (↑74% vs 7일 평균) | 구독 +106\n시청 지속률 27.9% | 평균 시청 2분 26초\n경쟁사 평균 9.7K회 대비 내 7일 평균 +102%\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+  "video_count": 11,
+  "total_recent_video_count": 17,
   "focus_scope": "ai_priority_then_tech_fill",
-  "average_view_count": 25664.0,
-  "average_engagement_rate": 0.014761834094893416,
-  "average_like_count": 177.0,
-  "average_comment_count": 22.0,
-  "best_video_id": "iZpaSqMlWwU",
-  "best_topic": "ChatGPT",
+  "average_view_count": 9665.0,
+  "average_engagement_rate": 0.016039261947545774,
+  "average_like_count": 104.0,
+  "average_comment_count": 15.0,
+  "best_video_id": "9bbcj6vr8r4",
+  "best_topic": "MCP",
   "summary_points": [
-    "가장 겹친 주제는 'ChatGPT'이며 4개 영상, 평균 조회수 16.2K, 평균 참여율 2.0%입니다.",
-    "최고 실적 영상은 '애플이 이제 집까지 노린다? 애플 홈뷰&TV&홈팟미니2 공개!'이며 긴급성 훅과 사례 분석 포맷 조합이 강했습니다.",
-    "반복 노출된 툴은 Claude 7회, ChatGPT 5회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
+    "가장 겹친 주제는 'MCP'이며 2개 영상, 평균 조회수 8.0K, 평균 참여율 0.7%입니다.",
+    "최고 실적 영상은 'AI한테 수정 맡기면 생기는 일'이며 문제 해결 훅과 빌드 데모 포맷 조합이 강했습니다.",
+    "반복 노출된 툴은 MCP 3회, Claude 1회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
   ],
   "action_chips": [
-    "주제: ChatGPT",
-    "훅: 긴급성",
-    "포맷: 사례 분석",
-    "기준 채널: ITSub잇섭"
+    "주제: MCP",
+    "훅: 문제 해결",
+    "포맷: 빌드 데모",
+    "기준 채널: 조코딩 JoCoding"
   ],
   "title_suggestions": [
-    "ChatGPT vs Claude vs Gemini, 일반인 업무 실전 대결 결과",
-    "GPT 최신 버전 직접 실험 — 이전이랑 진짜 달라?",
-    "GPT 써봤더니... 기대랑 다른 점 솔직하게 다 말해봄"
+    "MCP 직접 실험 — 이게 진짜 되나?",
+    "MCP vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
+    "MCP 써봤더니... (기대 vs 현실 솔직 후기)"
   ],
   "recommendations": [
     {
-      "title": "ChatGPT vs Claude vs Gemini, 일반인 업무 실전 대결 결과",
-      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'ChatGPT'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "ChatGPT 바로 해결",
-      "reason": "ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.",
-      "source_video_id": "Hgd1rxrIYGM",
-      "source": "The Best AI Strategies by Income Level: $35K, $100K, $1M+",
-      "my_channel_context": "내 7일 평균 15.8K회 · 지속률 27.9% / 경쟁사 대비 -39%"
+      "title": "MCP 직접 실험 — 이게 진짜 되나?",
+      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
+      "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
+      "thumbnail_copy": "MCP 바로 해결",
+      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
+      "source_video_id": "Y3Xz4C3kgBA",
+      "source": "조코딩의 AI 리터러시 특강 3강 : 2026, AI 에이전트가 바꾼 우리의 업무",
+      "my_channel_context": "내 7일 평균 19.5K회 · 지속률 27.5% / 경쟁사 대비 +102%"
     },
     {
-      "title": "GPT 최신 버전 직접 실험 — 이전이랑 진짜 달라?",
-      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'ChatGPT'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "ChatGPT 바로 해결",
-      "reason": "ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.",
-      "source_video_id": "Vhod5GQn7cU",
-      "source": "싹 달라진 챗GPT의 새로운 UI",
-      "my_channel_context": "내 7일 평균 15.8K회 · 지속률 27.9% / 경쟁사 대비 -39%"
-    },
-    {
-      "title": "GPT 써봤더니... 기대랑 다른 점 솔직하게 다 말해봄",
-      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'ChatGPT'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "ChatGPT 바로 해결",
-      "reason": "ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.",
-      "source_video_id": "cZHLgynHMqQ",
-      "source": "are you dumb?",
-      "my_channel_context": "내 7일 평균 15.8K회 · 지속률 27.9% / 경쟁사 대비 -39%"
+      "title": "MCP vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
+      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
+      "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
+      "thumbnail_copy": "MCP 바로 해결",
+      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
+      "source_video_id": "uskp9cHFcec",
+      "source": "카카오 AI 전략 맡던 대표가 말하는 AI 에이전트 사고가 나기 전에 회사가 깔아야 할 통제 4단계 (임페라이 음병찬 대표님)",
+      "my_channel_context": "내 7일 평균 19.5K회 · 지속률 27.5% / 경쟁사 대비 +102%"
     }
   ],
   "topic_clusters": [
     {
-      "label": "ChatGPT",
-      "count": 4,
-      "avg_view_count": 16158,
-      "avg_engagement_rate": 0.019982548803279845,
-      "avg_like_count": 225,
-      "avg_comment_count": 16,
+      "label": "MCP",
+      "count": 2,
+      "avg_view_count": 8046,
+      "avg_engagement_rate": 0.006674272671235445,
+      "avg_like_count": 42,
+      "avg_comment_count": 4,
       "source_titles": [
-        "The Best AI Strategies by Income Level: $35K, $100K, $1M+",
-        "싹 달라진 챗GPT의 새로운 UI",
-        "are you dumb?"
+        "조코딩의 AI 리터러시 특강 3강 : 2026, AI 에이전트가 바꾼 우리의 업무",
+        "카카오 AI 전략 맡던 대표가 말하는 AI 에이전트 사고가 나기 전에 회사가 깔아야 할 통제 4단계 (임페라이 음병찬 대표님)"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/Hgd1rxrIYGM/hqdefault.jpg",
-      "representative_video_id": "Hgd1rxrIYGM",
-      "representative_title": "The Best AI Strategies by Income Level: $35K, $100K, $1M+"
+      "thumbnail_url": "https://i.ytimg.com/vi/Y3Xz4C3kgBA/hqdefault.jpg",
+      "representative_video_id": "Y3Xz4C3kgBA",
+      "representative_title": "조코딩의 AI 리터러시 특강 3강 : 2026, AI 에이전트가 바꾼 우리의 업무"
+    },
+    {
+      "label": "AI한테",
+      "count": 1,
+      "avg_view_count": 38052,
+      "avg_engagement_rate": 0.005098286555240198,
+      "avg_like_count": 157,
+      "avg_comment_count": 37,
+      "source_titles": [
+        "AI한테 수정 맡기면 생기는 일"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/9bbcj6vr8r4/hqdefault.jpg",
+      "representative_video_id": "9bbcj6vr8r4",
+      "representative_title": "AI한테 수정 맡기면 생기는 일"
     },
     {
       "label": "Claude",
-      "count": 4,
-      "avg_view_count": 4817,
-      "avg_engagement_rate": 0.015988558066908933,
-      "avg_like_count": 60,
-      "avg_comment_count": 6,
+      "count": 1,
+      "avg_view_count": 23391,
+      "avg_engagement_rate": 0.017186097216878287,
+      "avg_like_count": 313,
+      "avg_comment_count": 89,
       "source_titles": [
-        "I Tested Gemini 4 Argon vs Opus 5.5 (No Hype)",
-        "Create an Unrolling Timeline video with Claude Motion",
-        "New Claude Motion Feature"
+        "⁠I Tested Adobe Apps vs Free AI Clones"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/uBQaEXjNUe4/hqdefault.jpg",
-      "representative_video_id": "uBQaEXjNUe4",
-      "representative_title": "I Tested Gemini 4 Argon vs Opus 5.5 (No Hype)"
-    },
-    {
-      "label": "agents",
-      "count": 3,
-      "avg_view_count": 12295,
-      "avg_engagement_rate": 0.015557495543661074,
-      "avg_like_count": 85,
-      "avg_comment_count": 8,
-      "source_titles": [
-        "극단적인 전략을 펼친 Grok Bot ㄷㄷ",
-        "조코딩의 AI 리터러시 강의 2강 : AI는 모든 형태의 콘텐츠를 다룬다",
-        "if public transport run on Kubernetes..."
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/PWE80I3FIDM/hqdefault.jpg",
-      "representative_video_id": "PWE80I3FIDM",
-      "representative_title": "극단적인 전략을 펼친 Grok Bot ㄷㄷ"
-    },
-    {
-      "label": "OpenAI",
-      "count": 3,
-      "avg_view_count": 8963,
-      "avg_engagement_rate": 0.015947622999801455,
-      "avg_like_count": 122,
-      "avg_comment_count": 10,
-      "source_titles": [
-        "New Claude Motion is Insane",
-        "I tested Muse Wonder Full against GPT-6 and Claude.",
-        "wait till you meet Kubernetes people 😎"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/qZqZ02AsYiA/hqdefault.jpg",
-      "representative_video_id": "qZqZ02AsYiA",
-      "representative_title": "New Claude Motion is Insane"
+      "thumbnail_url": "https://i.ytimg.com/vi/hNAKl3oLFMs/hqdefault.jpg",
+      "representative_video_id": "hNAKl3oLFMs",
+      "representative_title": "⁠I Tested Adobe Apps vs Free AI Clones"
     },
     {
       "label": "자동화",
-      "count": 2,
-      "avg_view_count": 179718,
-      "avg_engagement_rate": 0.013567392513278069,
-      "avg_like_count": 803,
-      "avg_comment_count": 153,
+      "count": 1,
+      "avg_view_count": 11173,
+      "avg_engagement_rate": 0.01691577911035532,
+      "avg_like_count": 183,
+      "avg_comment_count": 6,
       "source_titles": [
-        "애플이 이제 집까지 노린다? 애플 홈뷰&TV&홈팟미니2 공개!",
-        "클로드 딸깍 자막은 쓰레기입니다.(AI 자막 25분만에 마스터 하세요)"
+        "Jev Can Now SEE (And It's Absurdly Fast)"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/iZpaSqMlWwU/hqdefault.jpg",
-      "representative_video_id": "iZpaSqMlWwU",
-      "representative_title": "애플이 이제 집까지 노린다? 애플 홈뷰&TV&홈팟미니2 공개!"
+      "thumbnail_url": "https://i.ytimg.com/vi/V-fTrJqkG7k/hqdefault.jpg",
+      "representative_video_id": "V-fTrJqkG7k",
+      "representative_title": "Jev Can Now SEE (And It's Absurdly Fast)"
     },
     {
-      "label": "AI로",
+      "label": "이게",
       "count": 1,
-      "avg_view_count": 43875,
-      "avg_engagement_rate": 0.0054245014245014244,
-      "avg_like_count": 202,
-      "avg_comment_count": 36,
+      "avg_view_count": 5957,
+      "avg_engagement_rate": 0.024844720496894408,
+      "avg_like_count": 139,
+      "avg_comment_count": 9,
       "source_titles": [
-        "AI로 만든 곡이 인기차트를 흔들었다 ㄷㄷ"
+        "이게 다 100% 무료인데 무제한 사용 가능하다고? 역대급 AI 영상 툴 3개 공개｜AI 인플루언서로 구독자 0명부터 수익화하는 방법 포함"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/VmRVy6QDPfI/hqdefault.jpg",
-      "representative_video_id": "VmRVy6QDPfI",
-      "representative_title": "AI로 만든 곡이 인기차트를 흔들었다 ㄷㄷ"
+      "thumbnail_url": "https://i.ytimg.com/vi/32lDGdCDFDM/hqdefault.jpg",
+      "representative_video_id": "32lDGdCDFDM",
+      "representative_title": "이게 다 100% 무료인데 무제한 사용 가능하다고? 역대급 AI 영상 툴 3개 공개｜AI 인플루언서로 구독자 0명부터 수익화하는 방법 포함"
     },
     {
-      "label": "모션그래픽까지",
+      "label": "AI도구",
       "count": 1,
-      "avg_view_count": 32801,
-      "avg_engagement_rate": 0.01018261638364684,
-      "avg_like_count": 324,
-      "avg_comment_count": 10,
+      "avg_view_count": 5170,
+      "avg_engagement_rate": 0.043713733075435204,
+      "avg_like_count": 223,
+      "avg_comment_count": 3,
       "source_titles": [
-        "모션그래픽까지 다 흡수해버린 클로드 ㄷㄷ;;"
+        "Give your AI tool a harness so it stops going rogue"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/FCd0GZgAj_c/hqdefault.jpg",
-      "representative_video_id": "FCd0GZgAj_c",
-      "representative_title": "모션그래픽까지 다 흡수해버린 클로드 ㄷㄷ;;"
+      "thumbnail_url": "https://i.ytimg.com/vi/It3WDKWqP5w/hqdefault.jpg",
+      "representative_video_id": "It3WDKWqP5w",
+      "representative_title": "Give your AI tool a harness so it stops going rogue"
     },
     {
-      "label": "초지능",
+      "label": "전단지에",
       "count": 1,
-      "avg_view_count": 15295,
-      "avg_engagement_rate": 0.011049362536776724,
-      "avg_like_count": 152,
-      "avg_comment_count": 17,
+      "avg_view_count": 2482,
+      "avg_engagement_rate": 0.0028203062046736503,
+      "avg_like_count": 7,
+      "avg_comment_count": 0,
       "source_titles": [
-        "초지능 AI도 무조건 틀리던 문제의 비밀"
+        "전단지에 QR코드 붙이고 디지털 회사라고 착각하는 회사들"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/_X63momyXYs/hqdefault.jpg",
-      "representative_video_id": "_X63momyXYs",
-      "representative_title": "초지능 AI도 무조건 틀리던 문제의 비밀"
+      "thumbnail_url": "https://i.ytimg.com/vi/4y1gn26bLxs/hqdefault.jpg",
+      "representative_video_id": "4y1gn26bLxs",
+      "representative_title": "전단지에 QR코드 붙이고 디지털 회사라고 착각하는 회사들"
+    },
+    {
+      "label": "에어컨으로",
+      "count": 1,
+      "avg_view_count": 2087,
+      "avg_engagement_rate": 0.004312410158121706,
+      "avg_like_count": 9,
+      "avg_comment_count": 0,
+      "source_titles": [
+        "에어컨으로 이해하는 AI 루프"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/Y5zyJfnnOfI/hqdefault.jpg",
+      "representative_video_id": "Y5zyJfnnOfI",
+      "representative_title": "에어컨으로 이해하는 AI 루프"
     }
   ],
   "video_highlights": [
     {
-      "video_id": "iZpaSqMlWwU",
-      "channel_name": "ITSub잇섭",
-      "title": "애플이 이제 집까지 노린다? 애플 홈뷰&TV&홈팟미니2 공개!",
-      "thumbnail_url": "https://i.ytimg.com/vi/iZpaSqMlWwU/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=iZpaSqMlWwU",
-      "published_at": "2026-10-14T11:00:05Z",
-      "view_count": 356248,
-      "like_count": 1544,
-      "comment_count": 298,
-      "engagement_rate": 0.005170555343468595,
+      "video_id": "9bbcj6vr8r4",
+      "channel_name": "조코딩 JoCoding",
+      "title": "AI한테 수정 맡기면 생기는 일",
+      "thumbnail_url": "https://i.ytimg.com/vi/9bbcj6vr8r4/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=9bbcj6vr8r4",
+      "published_at": "2026-10-15T07:16:07Z",
+      "view_count": 38052,
+      "like_count": 157,
+      "comment_count": 37,
+      "engagement_rate": 0.005098286555240198,
+      "topic_cluster": "AI한테",
+      "summary": "AI를 활용한 코딩 및 1인 창업과 관련하여 AI 도구를 통한 업무 효율화 사례와 교육적 접근을 다루고 있다.",
+      "comment_signal": "Ai가 만든 Ai 갈구기",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "hNAKl3oLFMs",
+      "channel_name": "AI Samson",
+      "title": "⁠I Tested Adobe Apps vs Free AI Clones",
+      "thumbnail_url": "https://i.ytimg.com/vi/hNAKl3oLFMs/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=hNAKl3oLFMs",
+      "published_at": "2026-10-15T06:53:22Z",
+      "view_count": 23391,
+      "like_count": 313,
+      "comment_count": 89,
+      "engagement_rate": 0.017186097216878287,
+      "topic_cluster": "Claude",
+      "summary": "어도비 소프트웨어의 무료 AI 대안 도구 7가지를 실제 업무 환경에서 테스트하여 성능과 활용 가능성을 비교 분석했다.",
+      "comment_signal": "You cant do a fair test on these programmes, they are in early alpha.. Its very odd, that we ar…",
+      "hook_type": "비교"
+    },
+    {
+      "video_id": "Y3Xz4C3kgBA",
+      "channel_name": "조코딩 JoCoding",
+      "title": "조코딩의 AI 리터러시 특강 3강 : 2026, AI 에이전트가 바꾼 우리의 업무",
+      "thumbnail_url": "https://i.ytimg.com/vi/Y3Xz4C3kgBA/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=Y3Xz4C3kgBA",
+      "published_at": "2026-10-15T11:50:41Z",
+      "view_count": 11228,
+      "like_count": 43,
+      "comment_count": 3,
+      "engagement_rate": 0.0040969006056287855,
+      "topic_cluster": "MCP",
+      "summary": "목표 설정만으로 계획부터 실행까지 수행하는 AI 에이전트의 발전 과정을 소개하며, 3D 모델링과 마케팅 등 다양한 업무 적용 사례를 제시했다.",
+      "comment_signal": "📚 1~4강은 무료 공개, 이어지는 39개 영상(6시간)은 여기서 보실 수 있어요 👉 axacademy.ai/go/yjld3 여러분이 AI 에이전트에게 가장 먼저 맡기고…",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "V-fTrJqkG7k",
+      "channel_name": "The AI Automators",
+      "title": "Jev Can Now SEE (And It's Absurdly Fast)",
+      "thumbnail_url": "https://i.ytimg.com/vi/V-fTrJqkG7k/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=V-fTrJqkG7k",
+      "published_at": "2026-10-15T14:38:37Z",
+      "view_count": 11173,
+      "like_count": 183,
+      "comment_count": 6,
+      "engagement_rate": 0.01691577911035532,
       "topic_cluster": "자동화",
-      "summary": "아무튼 오늘 여기까지며 근데 뭐 저도 이제 스마트홈에 관심이 많기도 하고 여러 가지를 커스텀 할 수 있을 정도는 아니긴 하지만 그래도 이제 좀 애플 홈뷰가 가장 궁…",
-      "comment_signal": "겟~니야라니 ㅋㅋㅋㅋ",
+      "summary": "AI 모델 Jev를 활용해 이미지 분석 및 자동 결정 성능을 테스트하고, 신뢰도 점수를 기반으로 한 인간 검토 시스템의 효율성을 입증했다.",
+      "comment_signal": "finally. now we can implement real business use cases that can use this system one models. next…",
       "hook_type": "긴급성"
     },
     {
-      "video_id": "VmRVy6QDPfI",
-      "channel_name": "조코딩 JoCoding",
-      "title": "AI로 만든 곡이 인기차트를 흔들었다 ㄷㄷ",
-      "thumbnail_url": "https://i.ytimg.com/vi/VmRVy6QDPfI/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=VmRVy6QDPfI",
-      "published_at": "2026-10-14T10:00:22Z",
-      "view_count": 43875,
-      "like_count": 202,
-      "comment_count": 36,
-      "engagement_rate": 0.0054245014245014244,
-      "topic_cluster": "AI로",
-      "summary": "AI 보컬 기술을 활용해 감동적인 곡을 만들어 대중의 호평을 받는 사례가 늘고 있으며, 이제는 누가 만들었는지보다 결과물의 완성도가 중요한 시대가 도래했습니다.",
-      "comment_signal": "저거 사실상 노래만 Ai가 부른 수준이지 않나.. 기획부터 프로듀싱 제작 싹 다 사람이 했다던데",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "Hgd1rxrIYGM",
-      "channel_name": "Dan Martell",
-      "title": "The Best AI Strategies by Income Level: $35K, $100K, $1M+",
-      "thumbnail_url": "https://i.ytimg.com/vi/Hgd1rxrIYGM/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=Hgd1rxrIYGM",
-      "published_at": "2026-10-14T13:00:36Z",
-      "view_count": 36067,
-      "like_count": 715,
-      "comment_count": 54,
-      "engagement_rate": 0.021321429561649154,
-      "topic_cluster": "ChatGPT",
-      "summary": "도구를 찾고 계신 다면, 제가 쓰는 걸 추천 합니다. 하지만 아이디어와 이야기를 수집 해 한곳에 모아 주는 것이라면 무엇 이든 괜찮 습니다. 그런 다음 저는 '고스…",
-      "comment_signal": "I've lost quite a lot in crypto, both from investments that dropped in value and from trading d…",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "FCd0GZgAj_c",
-      "channel_name": "조코딩 JoCoding",
-      "title": "모션그래픽까지 다 흡수해버린 클로드 ㄷㄷ;;",
-      "thumbnail_url": "https://i.ytimg.com/vi/FCd0GZgAj_c/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=FCd0GZgAj_c",
-      "published_at": "2026-10-14T06:00:27Z",
-      "view_count": 32801,
-      "like_count": 324,
-      "comment_count": 10,
-      "engagement_rate": 0.01018261638364684,
-      "topic_cluster": "모션그래픽까지",
-      "summary": "클로드의 새로운 네이티브 모션 그래픽 기능을 활용하여 프롬프트 입력만으로 간단하게 애니메이션 영상을 제작할 수 있게 되었습니다.",
-      "comment_signal": "걍 클로드가 좋아보이는 서비스나 오픈소스보면 그냥 다 본인이 집어 삼키는걸로 보이는데. 솔직히 이용자 입장에선 편한데 오픈소스 만든 사람이나 그 사용자들이 썼던 프롬프트…",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "PWE80I3FIDM",
-      "channel_name": "조코딩 JoCoding",
-      "title": "극단적인 전략을 펼친 Grok Bot ㄷㄷ",
-      "thumbnail_url": "https://i.ytimg.com/vi/PWE80I3FIDM/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=PWE80I3FIDM",
-      "published_at": "2026-10-14T12:00:14Z",
-      "view_count": 28133,
-      "like_count": 216,
-      "comment_count": 22,
-      "engagement_rate": 0.008459815874595671,
-      "topic_cluster": "agents",
-      "summary": "Grok은 자체 모델에만 의존하지 않고 이미지와 음악 등 분야별 최상위 모델을 연동하는 전략을 통해 AI 에이전트 시장에서의 경쟁력을 확보하려 합니다.",
-      "comment_signal": "'이길 수 없다면 합류하라'",
-      "hook_type": "문제 해결"
+      "video_id": "32lDGdCDFDM",
+      "channel_name": "AI 머니",
+      "title": "이게 다 100% 무료인데 무제한 사용 가능하다고? 역대급 AI 영상 툴 3개 공개｜AI 인플루언서로 구독자 0명부터 수익화하는 방법 포함",
+      "thumbnail_url": "https://i.ytimg.com/vi/32lDGdCDFDM/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=32lDGdCDFDM",
+      "published_at": "2026-10-15T11:00:16Z",
+      "view_count": 5957,
+      "like_count": 139,
+      "comment_count": 9,
+      "engagement_rate": 0.024844720496894408,
+      "topic_cluster": "이게",
+      "summary": "무료로 무제한 사용 가능한 AI 영상 도구들을 소개하고, AI 인플루언서를 활용하여 수익을 창출하는 방법을 구체적으로 설명했다.",
+      "comment_signal": "진짜 빠른 업데이트 감사합니다.",
+      "hook_type": "긴급성"
     }
   ]
 }
