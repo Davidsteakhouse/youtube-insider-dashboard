@@ -1,240 +1,249 @@
 {
-  "digest_date": "2026-10-19",
-  "generated_at": "2026-10-19T01:07:38+00:00",
-  "summary": "최근 24시간 영상 8개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'Gemini'입니다. 특히 'IT뉴스 - 딥시크 미쳤다, Gemini 4, Muse Wonder, Spark Open, 오픈AI 스파이, GPT-Live-1.1, Fish Audio Drama 3, 테슬라 등'는 조회수 41.4K, 참여율 0.7%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "'Gemini' 주제가 1개 영상으로 가장 많이 다뤄졌습니다. 오늘 수집 영상 8개는 주로 '워크플로우 튜토리얼' 포맷이라, VS 비교·직접 실험 각도는 아직 비어 있습니다. Gemini vs ChatGPT 일반인 기준 직접 실험 영상이 비어 있습니다. 구글 생태계 쓰는 사람이 체감하는 차이 검증.\n[내 채널] 7일 평균 106.1K회 · 지속률 26.6% / 경쟁사 평균 11.3K회 (격차 +840%)",
-  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 10/19\n\n📊 총 10개 | AI 핵심 8 · 인접 AI 0 · 일반 테크 보충 2\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 10 · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [조코딩 JoCoding] 41.4K뷰 · 참여율 0.7%\n   IT뉴스 - 딥시크 미쳤다, Gemini 4, Muse Wonder, Spark Open, 오픈AI 스파이, GPT-Live-1.1, Fi…\n   ↳ 최근 딥시크의 부상과 Gemini 4 등 AI 업계의 주요 소식을 전하며, 오픈AI 사무실에서 발생한 도청 스파이 사건과 같은 기술 업계의 이슈를 다루고 있다.\n   https://youtu.be/xUrRNBz4j1I\n\n2. AI 핵심 · [tef] 28.0K뷰 · 참여율 2.5%\n   I Tried Going Viral as an AI Influencer lol\n   ↳ Higgsfield의 AI Influencer Studio와 Genjutsu 도구를 활용해 가상의 인플루언서 캐릭터를 구축하고, 실제 SNS에서 바이럴 성과를 얻을 수 있는지 테스트하는 과정을 보여준다.\n   https://youtu.be/VC8xXxEjSRE\n\n3. AI 핵심 · [조코딩 JoCoding] 8.4K뷰 · 참여율 1.3%\n   코드를 몰라도 프로그램 복제가 가능하다..?\n   ↳ AI를 활용한 프로그램 리버스 엔지니어링의 원리를 설명하며, 코드를 직접 보지 않고도 동작과 설명서만을 분석해 프로그램을 재구현하는 방식의 가능성을 다룬다.\n   https://youtu.be/StlLe-BDFoc\n\n4. AI 핵심 · [조코딩 JoCoding] 5.6K뷰 · 참여율 1.2%\n   배터리 1%가 유독 오래가는 이유\n   ↳ 스마트폰 배터리 잔량이 특정 구간에서 오래 유지되는 이유를 전압 측정의 평탄 구간 특성과 소프트웨어적인 잔량 보정 알고리즘을 통해 설명한다.\n   https://youtu.be/UmC_NkTTdp4\n\n5. AI 핵심 · [성공지식백과] 3.3K뷰 · 참여율 2.2%\n   해외에서 돈 쓸어 담고 있다는 AI 인플루언서.. ㄷㄷ\n   ↳ Higgsfield AI 플랫폼을 사용하여 독특한 외형의 AI 인플루언서를 생성하고, 이를 트렌드 영상 및 제품 마케팅에 적용하여 수익화하는 구체적인 실무 단계를 제시한다.\n   https://youtu.be/ahSD9gekgHg\n\n6. AI 핵심 · [빌더 조쉬 Builder Josh] 1.3K뷰 · 참여율 0.4%\n   요즘 기업들이 AI에 묻는 건 \"우리 회사는 괜찮냐\"입니다\n   ↳ 기업들이 AI 도입 시 단순 기술 구현을 넘어, AI 활용 실패 사례를 바탕으로 데이터 거버넌스와 리스크 관리 체계를 구축하는 데 집중하고 있음을 강조한다.\n   https://youtu.be/2J72PcTO6gs\n\n7. AI 핵심 · [빌더 조쉬 Builder Josh] 1.2K뷰 · 참여율 0.3%\n   규칙을 지킨 AI 에이전트가 일을 잘한 건 아닙니다\n   ↳ AI 에이전트가 설정된 규칙을 잘 준수하는 것과 비즈니스 성과를 내는 것은 별개임을 지적하며, 고객 경험과 기업 수익을 고려한 전략적 판단의 중요성을 논한다.\n   https://youtu.be/-RorM9u0-tc\n\n8. AI 핵심 · [성공지식백과] 1.1K뷰 · 참여율 3.1%\n   AI 인플루언서로 돈버는 방법 알려줘\n   ↳ Higgsfield AI의 모션 트랜스퍼 기능을 이용해 AI 인플루언서가 직접 제품을 시연하는 영상을 제작하는 법을 설명하고, 프롬프트 최적화를 통해 마케팅 콘텐츠를 만드는 과정을 다룬다.\n   https://youtu.be/q6RhlDegPSQ\n\n9. 테크 보충 · [안될공학 - IT 테크 신기술] 45.2K뷰 · 참여율 0.9%\n   닌텐도 독점작 젤다가 PS5에서 돌아간다? PS5에서 돌아간 젤다로 보는 기술과 게임 시장의 변화 | 소니·애플·스팀이 같은 변화를 다르게…\n   ↳ 비공식 개발 사례를 통해 하드웨어 간 게임 호환 기술인 에뮬레이터의 원리를 설명하고, 소니·애플 등 플랫폼 기업들이 게임 포팅 기술에 투자하는 전략적 배경을 분석한다.\n   https://youtu.be/K-nAWPCBRUw\n\n10. 테크 보충 · [월텍남 - 월스트리트 테크남] 11.3K뷰 · 참여율 0.4%\n   칩의 다음 회로층을 만들기 전에 표면을 다시 가는 이유\n   ↳ 반도체 공정에서 화학 기계적 평탄화(CMP) 기술이 필요한 이유를 설명하며, 다층 회로 형성 시 층간 높이 차이를 제거하여 정밀도를 높이는 공정 과정을 다룬다.\n   https://youtu.be/VTo8j31ZSBs\n\n📈 스마트대디 어제 실적\n조회수 215.9K (↑103% vs 7일 평균) | 구독 +441\n시청 지속률 25.9% | 평균 시청 2분 20초\n경쟁사 평균 11.3K회 대비 내 7일 평균 +840%\n\n💡 VS 각도: Gemini vs ChatGPT 일반인 기준 직접 실험 영상이 비어 있습니다. 구글 생태계 쓰는 사람이 체감하는 차이 검증.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
-  "video_count": 8,
-  "total_recent_video_count": 14,
+  "digest_date": "2026-10-20",
+  "generated_at": "2026-10-20T01:45:17+00:00",
+  "summary": "최근 24시간 영상 10개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'agents'입니다. 특히 'AI뉴스 - 딥시크 미쳤다, Gemini 4, Muse Wonder, Spark Open, 오픈AI 스파이, GPT-Live-1.1, Fish Audio Drama 3, 테슬라 등'는 조회수 56.2K, 참여율 0.7%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "'agents' 주제가 3개 영상으로 가장 많이 다뤄졌습니다. 일반인 관점 직접 실험 or VS 비교 각도로 차별화할 영역이 있습니다.\n[내 채널] 7일 평균 130.6K회 · 지속률 25.6% / 경쟁사 평균 14.6K회 (격차 +794%)",
+  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 10/20\n\n📊 총 10개 | AI 핵심 9 · 인접 AI 1 · 일반 테크 보충 0\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 10 · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [조코딩 JoCoding] 56.2K뷰 · 참여율 0.7%\n   AI뉴스 - 딥시크 미쳤다, Gemini 4, Muse Wonder, Spark Open, 오픈AI 스파이, GPT-Live-1.1, Fi…\n   ↳ DeepSeek V4.1 Flash 출시와 테슬라 로드스터 공개 등 최신 AI 기술 동향과 업계 소식을 다루며, 1인 창업과 AI 인재의 중요성을 강조한다.\n   https://youtu.be/ZATGYwehDm0\n\n2. AI 핵심 · [Futurepedia] 35.9K뷰 · 참여율 2.4%\n   Claude Makes a New Kind of Video - Full Tutorial\n   ↳ Claude를 사용하여 코드로 정교한 모션 그래픽과 설명 영상을 제작하는 방법을 안내하며, 스타일 데이터베이스를 활용한 효율적인 작업 과정을 소개한다.\n   https://youtu.be/Ge1B-Ok1Pfk\n\n3. AI 핵심 · [빌더 조쉬 Builder Josh] 14.3K뷰 · 참여율 3.2%\n   깃허브에서 제일 핫한 클로드 스킬 TOP 5\n   ↳ 개발 효율을 높여주는 'Superpowers' 등 깃허브에서 가장 인기 있는 Claude 활용 스킬 5가지를 선정하여 추천한다.\n   https://youtu.be/sTv0qk1ERnA\n\n4. AI 핵심 · [Matt Wolfe] 8.9K뷰 · 참여율 2.1%\n   3 New Claude Prompts You Need To Try\n   ↳ Claude의 새로운 기능인 애니메이션 영상 제작 모션, 실시간 대시보드 변환, 그리고 고성능 하이쿠 5.5 모델을 활용한 생산성 향상 방법을 설명한다.\n   https://youtu.be/aIrrq3CLSKM\n\n5. AI 핵심 · [AI Samson] 8.4K뷰 · 참여율 3.0%\n   Kling 4.0 Is Finally Here! Full Test vs Seedance 2.5\n   ↳ Kling 4.0과 SeeDrones 2.5를 모션 제어, 일관성, 물리적 구현 등 다방면에서 비교 실험한 결과, Kling 4.0이 비용 효율성에서 우위를 보였다.\n   https://youtu.be/h9ryZx49_J0\n\n6. AI 핵심 · [조코딩 JoCoding] 7.8K뷰 · 참여율 0.6%\n   조코딩의 AI 리터러시 특강 4강 : AI 시대, 우리는 무엇을 준비해야 할까?\n   ↳ AI 도입 기업이 늘어나는 환경에서 할루시네이션 방지 등 위험 요소를 관리하고, 업무 효율을 극대화하기 위한 올바른 AI 활용 리터러시를 교육한다.\n   https://youtu.be/R1klN8XsPG4\n\n7. AI 핵심 · [빌더 조쉬 Builder Josh] 7.5K뷰 · 참여율 1.1%\n   클로드 코드가 100% 편집한 영상\n   ↳ Claude 코드를 활용하여 영상 편집부터 자막, 설명 도식 삽입까지 전체 편집 과정을 자동화한 사례를 테스트하고 향후 채널 운영 방향을 공유한다.\n   https://youtu.be/7duJ4R03Wqs\n\n8. AI 핵심 · [빌더 조쉬 Builder Josh] 1.1K뷰 · 참여율 0.8%\n   AI가 준 가장 큰 가치는 실험 비용을 0으로 만든 것입니다\n   ↳ AI와 에이전트의 핵심 가치는 개발 비용 절감을 넘어, 실험 비용을 제로에 가깝게 만들어 다양한 시행착오를 가능하게 하는 데 있다고 설명한다.\n   https://youtu.be/oabcMTVBYW8\n\n9. AI 핵심 · [빌더 조쉬 Builder Josh] 984뷰 · 참여율 0.3%\n   같은 AI를 써도 성과 차이는 얼마나 맡기느냐에서 납니다\n   ↳ AI 성과는 단순히 도구의 성능에 좌우되는 것이 아니라, 조직 내 거버넌스 관리와 인간이 AI를 얼마나 전략적으로 위임하고 작동시키는지에 달려 있다.\n   https://youtu.be/wwdSislFDK4\n\n10. AI 인접 · [월텍남 - 월스트리트 테크남] 4.9K뷰 · 참여율 3.7%\n   오늘 나스닥 폭등이 뭔가 수상한 이유\n   ↳ 데이터 센터 채권 약세와 GPU 계약 문제로 인해 AI 인프라 관련 주식들이 일시적 상승 후 하락세를 보이는 시장 상황을 분석한다.\n   https://youtu.be/bNW-0fe_jvQ\n\n📈 스마트대디 어제 실적\n조회수 133.7K (↑2% vs 7일 평균) | 구독 +333\n시청 지속률 24.0% | 평균 시청 2분 08초\n경쟁사 평균 14.6K회 대비 내 7일 평균 +794%\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+  "video_count": 10,
+  "total_recent_video_count": 18,
   "focus_scope": "ai_priority_then_tech_fill",
-  "average_view_count": 11292.0,
-  "average_engagement_rate": 0.01462088658502749,
-  "average_like_count": 145.0,
-  "average_comment_count": 14.0,
-  "best_video_id": "xUrRNBz4j1I",
-  "best_topic": "Gemini",
+  "average_view_count": 14598.0,
+  "average_engagement_rate": 0.018009026182526238,
+  "average_like_count": 217.0,
+  "average_comment_count": 29.0,
+  "best_video_id": "ZATGYwehDm0",
+  "best_topic": "agents",
   "summary_points": [
-    "가장 겹친 주제는 'Gemini'이며 1개 영상, 평균 조회수 41.4K, 평균 참여율 0.7%입니다.",
-    "최고 실적 영상은 'IT뉴스 - 딥시크 미쳤다, Gemini 4, Muse Wonder, Spark Open, 오픈AI 스파이, GPT-Live-1.1, Fish Audio Drama 3, 테슬라 등'이며 문제 해결 훅과 뉴스 분석 포맷 조합이 강했습니다.",
-    "반복 노출된 툴은 ChatGPT 1회, Gemini 1회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
+    "가장 겹친 주제는 'agents'이며 3개 영상, 평균 조회수 3.3K, 평균 참여율 0.6%입니다.",
+    "최고 실적 영상은 'AI뉴스 - 딥시크 미쳤다, Gemini 4, Muse Wonder, Spark Open, 오픈AI 스파이, GPT-Live-1.1, Fish Audio Drama 3, 테슬라 등'이며 문제 해결 훅과 비교 포맷 조합이 강했습니다.",
+    "반복 노출된 툴은 Claude 3회, MCP 2회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
   ],
   "action_chips": [
-    "주제: Gemini",
+    "주제: agents",
     "훅: 문제 해결",
-    "포맷: 뉴스 분석",
+    "포맷: 비교",
     "기준 채널: 조코딩 JoCoding"
   ],
   "title_suggestions": [
-    "Gemini vs ChatGPT, 직장인이 1주일 써보니 이렇게 달랐다",
-    "구글 AI 직접 실험 결과 — 이게 진짜 되네? 안되네?",
-    "Gemini 써봤더니... 광고 말고 진짜 솔직 비교"
+    "agents 직접 실험 — 이게 진짜 되나?",
+    "agents vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
+    "agents 써봤더니... (기대 vs 현실 솔직 후기)"
   ],
   "recommendations": [
     {
-      "title": "Gemini vs ChatGPT, 직장인이 1주일 써보니 이렇게 달랐다",
-      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'Gemini'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "Gemini 바로 해결",
-      "reason": "Gemini vs ChatGPT 일반인 기준 직접 실험 영상이 비어 있습니다. 구글 생태계 쓰는 사람이 체감하는 차이 검증.",
-      "source_video_id": "xUrRNBz4j1I",
-      "source": "IT뉴스 - 딥시크 미쳤다, Gemini 4, Muse Wonder, Spark Open, 오픈AI 스파이, GPT-Live-1.1, Fish Audio Drama 3, 테슬라 등",
-      "my_channel_context": "내 7일 평균 106.1K회 · 지속률 26.6% / 경쟁사 대비 +840%"
+      "title": "agents 직접 실험 — 이게 진짜 되나?",
+      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
+      "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
+      "thumbnail_copy": "agents 바로 해결",
+      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
+      "source_video_id": "R1klN8XsPG4",
+      "source": "조코딩의 AI 리터러시 특강 4강 : AI 시대, 우리는 무엇을 준비해야 할까?",
+      "my_channel_context": "내 7일 평균 130.6K회 · 지속률 25.6% / 경쟁사 대비 +794%"
+    },
+    {
+      "title": "agents vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
+      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
+      "angle": "큰 주제 하나를 대표 제목으로 세우고, 나머지 포인트는 보조 정보처럼 정리하는 압축형 포장이 좋습니다.",
+      "thumbnail_copy": "agents 핵심 3가지",
+      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
+      "source_video_id": "oabcMTVBYW8",
+      "source": "AI가 준 가장 큰 가치는 실험 비용을 0으로 만든 것입니다",
+      "my_channel_context": "내 7일 평균 130.6K회 · 지속률 25.6% / 경쟁사 대비 +794%"
+    },
+    {
+      "title": "agents 써봤더니... (기대 vs 현실 솔직 후기)",
+      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
+      "angle": "큰 주제 하나를 대표 제목으로 세우고, 나머지 포인트는 보조 정보처럼 정리하는 압축형 포장이 좋습니다.",
+      "thumbnail_copy": "agents 뭐가 다를까?",
+      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
+      "source_video_id": "wwdSislFDK4",
+      "source": "같은 AI를 써도 성과 차이는 얼마나 맡기느냐에서 납니다",
+      "my_channel_context": "내 7일 평균 130.6K회 · 지속률 25.6% / 경쟁사 대비 +794%"
     }
   ],
   "topic_clusters": [
     {
-      "label": "Gemini",
-      "count": 1,
-      "avg_view_count": 41361,
-      "avg_engagement_rate": 0.006890549067962573,
-      "avg_like_count": 275,
-      "avg_comment_count": 10,
+      "label": "agents",
+      "count": 3,
+      "avg_view_count": 3268,
+      "avg_engagement_rate": 0.005860539732588067,
+      "avg_like_count": 18,
+      "avg_comment_count": 1,
       "source_titles": [
-        "IT뉴스 - 딥시크 미쳤다, Gemini 4, Muse Wonder, Spark Open, 오픈AI 스파이, GPT-Live-1.1, Fish Audio Drama 3, 테슬라 등"
+        "조코딩의 AI 리터러시 특강 4강 : AI 시대, 우리는 무엇을 준비해야 할까?",
+        "AI가 준 가장 큰 가치는 실험 비용을 0으로 만든 것입니다",
+        "같은 AI를 써도 성과 차이는 얼마나 맡기느냐에서 납니다"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/xUrRNBz4j1I/hqdefault.jpg",
-      "representative_video_id": "xUrRNBz4j1I",
-      "representative_title": "IT뉴스 - 딥시크 미쳤다, Gemini 4, Muse Wonder, Spark Open, 오픈AI 스파이, GPT-Live-1.1, Fish Audio Drama 3, 테슬라 등"
+      "thumbnail_url": "https://i.ytimg.com/vi/R1klN8XsPG4/hqdefault.jpg",
+      "representative_video_id": "R1klN8XsPG4",
+      "representative_title": "조코딩의 AI 리터러시 특강 4강 : AI 시대, 우리는 무엇을 준비해야 할까?"
+    },
+    {
+      "label": "Claude",
+      "count": 2,
+      "avg_view_count": 22417,
+      "avg_engagement_rate": 0.022533929228006212,
+      "avg_like_count": 500,
+      "avg_comment_count": 24,
+      "source_titles": [
+        "Claude Makes a New Kind of Video - Full Tutorial",
+        "3 New Claude Prompts You Need To Try"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/Ge1B-Ok1Pfk/hqdefault.jpg",
+      "representative_video_id": "Ge1B-Ok1Pfk",
+      "representative_title": "Claude Makes a New Kind of Video - Full Tutorial"
+    },
+    {
+      "label": "OpenAI",
+      "count": 1,
+      "avg_view_count": 56212,
+      "avg_engagement_rate": 0.00652885504874404,
+      "avg_like_count": 325,
+      "avg_comment_count": 42,
+      "source_titles": [
+        "AI뉴스 - 딥시크 미쳤다, Gemini 4, Muse Wonder, Spark Open, 오픈AI 스파이, GPT-Live-1.1, Fish Audio Drama 3, 테슬라 등"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/ZATGYwehDm0/hqdefault.jpg",
+      "representative_video_id": "ZATGYwehDm0",
+      "representative_title": "AI뉴스 - 딥시크 미쳤다, Gemini 4, Muse Wonder, Spark Open, 오픈AI 스파이, GPT-Live-1.1, Fish Audio Drama 3, 테슬라 등"
+    },
+    {
+      "label": "Notion",
+      "count": 1,
+      "avg_view_count": 14295,
+      "avg_engagement_rate": 0.03224903812521861,
+      "avg_like_count": 338,
+      "avg_comment_count": 123,
+      "source_titles": [
+        "깃허브에서 제일 핫한 클로드 스킬 TOP 5"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/sTv0qk1ERnA/hqdefault.jpg",
+      "representative_video_id": "sTv0qk1ERnA",
+      "representative_title": "깃허브에서 제일 핫한 클로드 스킬 TOP 5"
+    },
+    {
+      "label": "MCP",
+      "count": 1,
+      "avg_view_count": 8430,
+      "avg_engagement_rate": 0.03036773428232503,
+      "avg_like_count": 229,
+      "avg_comment_count": 27,
+      "source_titles": [
+        "Kling 4.0 Is Finally Here! Full Test vs Seedance 2.5"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/h9ryZx49_J0/hqdefault.jpg",
+      "representative_video_id": "h9ryZx49_J0",
+      "representative_title": "Kling 4.0 Is Finally Here! Full Test vs Seedance 2.5"
     },
     {
       "label": "자동화",
       "count": 1,
-      "avg_view_count": 28024,
-      "avg_engagement_rate": 0.024800171281758494,
-      "avg_like_count": 603,
-      "avg_comment_count": 92,
+      "avg_view_count": 7545,
+      "avg_engagement_rate": 0.01126573889993373,
+      "avg_like_count": 67,
+      "avg_comment_count": 18,
       "source_titles": [
-        "I Tried Going Viral as an AI Influencer lol"
+        "클로드 코드가 100% 편집한 영상"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/VC8xXxEjSRE/hqdefault.jpg",
-      "representative_video_id": "VC8xXxEjSRE",
-      "representative_title": "I Tried Going Viral as an AI Influencer lol"
+      "thumbnail_url": "https://i.ytimg.com/vi/7duJ4R03Wqs/hqdefault.jpg",
+      "representative_video_id": "7duJ4R03Wqs",
+      "representative_title": "클로드 코드가 100% 편집한 영상"
     },
     {
-      "label": "리버스엔지니어링",
+      "label": "주식",
       "count": 1,
-      "avg_view_count": 8436,
-      "avg_engagement_rate": 0.0129208155523945,
-      "avg_like_count": 108,
-      "avg_comment_count": 1,
+      "avg_view_count": 4861,
+      "avg_engagement_rate": 0.03702941781526435,
+      "avg_like_count": 156,
+      "avg_comment_count": 24,
       "source_titles": [
-        "코드를 몰라도 프로그램 복제가 가능하다..?"
+        "오늘 나스닥 폭등이 뭔가 수상한 이유"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/StlLe-BDFoc/hqdefault.jpg",
-      "representative_video_id": "StlLe-BDFoc",
-      "representative_title": "코드를 몰라도 프로그램 복제가 가능하다..?"
-    },
-    {
-      "label": "배터리",
-      "count": 1,
-      "avg_view_count": 5582,
-      "avg_engagement_rate": 0.012182013615191688,
-      "avg_like_count": 63,
-      "avg_comment_count": 5,
-      "source_titles": [
-        "배터리 1%가 유독 오래가는 이유"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/UmC_NkTTdp4/hqdefault.jpg",
-      "representative_video_id": "UmC_NkTTdp4",
-      "representative_title": "배터리 1%가 유독 오래가는 이유"
-    },
-    {
-      "label": "인플루언서",
-      "count": 1,
-      "avg_view_count": 3293,
-      "avg_engagement_rate": 0.02247191011235955,
-      "avg_like_count": 73,
-      "avg_comment_count": 1,
-      "source_titles": [
-        "해외에서 돈 쓸어 담고 있다는 AI 인플루언서.. ㄷㄷ"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/ahSD9gekgHg/hqdefault.jpg",
-      "representative_video_id": "ahSD9gekgHg",
-      "representative_title": "해외에서 돈 쓸어 담고 있다는 AI 인플루언서.. ㄷㄷ"
-    },
-    {
-      "label": "agents",
-      "count": 1,
-      "avg_view_count": 1304,
-      "avg_engagement_rate": 0.003834355828220859,
-      "avg_like_count": 5,
-      "avg_comment_count": 0,
-      "source_titles": [
-        "요즘 기업들이 AI에 묻는 건 \"우리 회사는 괜찮냐\"입니다"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/2J72PcTO6gs/hqdefault.jpg",
-      "representative_video_id": "2J72PcTO6gs",
-      "representative_title": "요즘 기업들이 AI에 묻는 건 \"우리 회사는 괜찮냐\"입니다"
-    },
-    {
-      "label": "AI에이전트",
-      "count": 1,
-      "avg_view_count": 1193,
-      "avg_engagement_rate": 0.003352891869237217,
-      "avg_like_count": 4,
-      "avg_comment_count": 0,
-      "source_titles": [
-        "규칙을 지킨 AI 에이전트가 일을 잘한 건 아닙니다"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/-RorM9u0-tc/hqdefault.jpg",
-      "representative_video_id": "-RorM9u0-tc",
-      "representative_title": "규칙을 지킨 AI 에이전트가 일을 잘한 건 아닙니다"
-    },
-    {
-      "label": "ChatGPT",
-      "count": 1,
-      "avg_view_count": 1147,
-      "avg_engagement_rate": 0.03051438535309503,
-      "avg_like_count": 32,
-      "avg_comment_count": 3,
-      "source_titles": [
-        "AI 인플루언서로 돈버는 방법 알려줘"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/q6RhlDegPSQ/hqdefault.jpg",
-      "representative_video_id": "q6RhlDegPSQ",
-      "representative_title": "AI 인플루언서로 돈버는 방법 알려줘"
+      "thumbnail_url": "https://i.ytimg.com/vi/bNW-0fe_jvQ/hqdefault.jpg",
+      "representative_video_id": "bNW-0fe_jvQ",
+      "representative_title": "오늘 나스닥 폭등이 뭔가 수상한 이유"
     }
   ],
   "video_highlights": [
     {
-      "video_id": "xUrRNBz4j1I",
+      "video_id": "ZATGYwehDm0",
       "channel_name": "조코딩 JoCoding",
-      "title": "IT뉴스 - 딥시크 미쳤다, Gemini 4, Muse Wonder, Spark Open, 오픈AI 스파이, GPT-Live-1.1, Fish Audio Drama 3, 테슬라 등",
-      "thumbnail_url": "https://i.ytimg.com/vi/xUrRNBz4j1I/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=xUrRNBz4j1I",
-      "published_at": "2026-10-18T11:39:33Z",
-      "view_count": 41361,
-      "like_count": 275,
-      "comment_count": 10,
-      "engagement_rate": 0.006890549067962573,
-      "topic_cluster": "Gemini",
-      "summary": "최근 딥시크의 부상과 Gemini 4 등 AI 업계의 주요 소식을 전하며, 오픈AI 사무실에서 발생한 도청 스파이 사건과 같은 기술 업계의 이슈를 다루고 있다.",
-      "comment_signal": "Google AI Pro요금제 기준으로 아르곤 높음 한번 쓸때마다 33%닳는건 좀 ㅜㅜ",
+      "title": "AI뉴스 - 딥시크 미쳤다, Gemini 4, Muse Wonder, Spark Open, 오픈AI 스파이, GPT-Live-1.1, Fish Audio Drama 3, 테슬라 등",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZATGYwehDm0/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=ZATGYwehDm0",
+      "published_at": "2026-10-19T13:00:03Z",
+      "view_count": 56212,
+      "like_count": 325,
+      "comment_count": 42,
+      "engagement_rate": 0.00652885504874404,
+      "topic_cluster": "OpenAI",
+      "summary": "DeepSeek V4.1 Flash 출시와 테슬라 로드스터 공개 등 최신 AI 기술 동향과 업계 소식을 다루며, 1인 창업과 AI 인재의 중요성을 강조한다.",
+      "comment_signal": "늘 잘보고 있습니다 한국AI유튜버 1황 조코딩 ㅎㅇㅌ",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "VC8xXxEjSRE",
-      "channel_name": "tef",
-      "title": "I Tried Going Viral as an AI Influencer lol",
-      "thumbnail_url": "https://i.ytimg.com/vi/VC8xXxEjSRE/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=VC8xXxEjSRE",
-      "published_at": "2026-10-18T16:11:54Z",
-      "view_count": 28024,
-      "like_count": 603,
-      "comment_count": 92,
-      "engagement_rate": 0.024800171281758494,
-      "topic_cluster": "자동화",
-      "summary": "Higgsfield의 AI Influencer Studio와 Genjutsu 도구를 활용해 가상의 인플루언서 캐릭터를 구축하고, 실제 SNS에서 바이럴 성과를 얻을…",
-      "comment_signal": "liking your own vid is crazy work btw",
+      "video_id": "Ge1B-Ok1Pfk",
+      "channel_name": "Futurepedia",
+      "title": "Claude Makes a New Kind of Video - Full Tutorial",
+      "thumbnail_url": "https://i.ytimg.com/vi/Ge1B-Ok1Pfk/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=Ge1B-Ok1Pfk",
+      "published_at": "2026-10-19T15:24:55Z",
+      "view_count": 35908,
+      "like_count": 819,
+      "comment_count": 43,
+      "engagement_rate": 0.024005792581040436,
+      "topic_cluster": "Claude",
+      "summary": "Claude를 사용하여 코드로 정교한 모션 그래픽과 설명 영상을 제작하는 방법을 안내하며, 스타일 데이터베이스를 활용한 효율적인 작업 과정을 소개한다.",
+      "comment_signal": "Try the skills in Promptkura and vercel. They are great",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "StlLe-BDFoc",
-      "channel_name": "조코딩 JoCoding",
-      "title": "코드를 몰라도 프로그램 복제가 가능하다..?",
-      "thumbnail_url": "https://i.ytimg.com/vi/StlLe-BDFoc/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=StlLe-BDFoc",
-      "published_at": "2026-10-18T07:30:08Z",
-      "view_count": 8436,
-      "like_count": 108,
-      "comment_count": 1,
-      "engagement_rate": 0.0129208155523945,
-      "topic_cluster": "리버스엔지니어링",
-      "summary": "AI를 활용한 프로그램 리버스 엔지니어링의 원리를 설명하며, 코드를 직접 보지 않고도 동작과 설명서만을 분석해 프로그램을 재구현하는 방식의 가능성을 다룬다.",
-      "comment_signal": "초기 댓글 반응은 붙었지만 아직 대화가 확장되지는 않았습니다.",
+      "video_id": "sTv0qk1ERnA",
+      "channel_name": "빌더 조쉬 Builder Josh",
+      "title": "깃허브에서 제일 핫한 클로드 스킬 TOP 5",
+      "thumbnail_url": "https://i.ytimg.com/vi/sTv0qk1ERnA/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=sTv0qk1ERnA",
+      "published_at": "2026-10-19T09:17:05Z",
+      "view_count": 14295,
+      "like_count": 338,
+      "comment_count": 123,
+      "engagement_rate": 0.03224903812521861,
+      "topic_cluster": "Notion",
+      "summary": "개발 효율을 높여주는 'Superpowers' 등 깃허브에서 가장 인기 있는 Claude 활용 스킬 5가지를 선정하여 추천한다.",
+      "comment_signal": "스킬~감사합니다",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "UmC_NkTTdp4",
-      "channel_name": "조코딩 JoCoding",
-      "title": "배터리 1%가 유독 오래가는 이유",
-      "thumbnail_url": "https://i.ytimg.com/vi/UmC_NkTTdp4/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=UmC_NkTTdp4",
-      "published_at": "2026-10-18T06:00:35Z",
-      "view_count": 5582,
-      "like_count": 63,
-      "comment_count": 5,
-      "engagement_rate": 0.012182013615191688,
-      "topic_cluster": "배터리",
-      "summary": "스마트폰 배터리 잔량이 특정 구간에서 오래 유지되는 이유를 전압 측정의 평탄 구간 특성과 소프트웨어적인 잔량 보정 알고리즘을 통해 설명한다.",
-      "comment_signal": "완전 방전 직후에 약간의 전압 상승이 있는데 그것 때문에 배터리가 1% 구간에서 더 오래 버티는 것처럼 보일 수 있죠.",
+      "video_id": "aIrrq3CLSKM",
+      "channel_name": "Matt Wolfe",
+      "title": "3 New Claude Prompts You Need To Try",
+      "thumbnail_url": "https://i.ytimg.com/vi/aIrrq3CLSKM/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=aIrrq3CLSKM",
+      "published_at": "2026-10-19T12:43:39Z",
+      "view_count": 8926,
+      "like_count": 182,
+      "comment_count": 6,
+      "engagement_rate": 0.021062065874971992,
+      "topic_cluster": "Claude",
+      "summary": "Claude의 새로운 기능인 애니메이션 영상 제작 모션, 실시간 대시보드 변환, 그리고 고성능 하이쿠 5.5 모델을 활용한 생산성 향상 방법을 설명한다.",
+      "comment_signal": "Hell yeah! And step 4 - go to jail for leaking private/corporate information! HELL YEAH BROTHER!",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "ahSD9gekgHg",
-      "channel_name": "성공지식백과",
-      "title": "해외에서 돈 쓸어 담고 있다는 AI 인플루언서.. ㄷㄷ",
-      "thumbnail_url": "https://i.ytimg.com/vi/ahSD9gekgHg/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=ahSD9gekgHg",
-      "published_at": "2026-10-18T19:10:57Z",
-      "view_count": 3293,
-      "like_count": 73,
-      "comment_count": 1,
-      "engagement_rate": 0.02247191011235955,
-      "topic_cluster": "인플루언서",
-      "summary": "Higgsfield AI 플랫폼을 사용하여 독특한 외형의 AI 인플루언서를 생성하고, 이를 트렌드 영상 및 제품 마케팅에 적용하여 수익화하는 구체적인 실무 단계를…",
-      "comment_signal": "🎬 내 AI 인플루언서 만들기: https://higgsfield.ai/s/higgsfield-ai-influencer-2-0-yt-success-wiki-SmiOzh 해…",
-      "hook_type": "수익"
+      "video_id": "h9ryZx49_J0",
+      "channel_name": "AI Samson",
+      "title": "Kling 4.0 Is Finally Here! Full Test vs Seedance 2.5",
+      "thumbnail_url": "https://i.ytimg.com/vi/h9ryZx49_J0/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=h9ryZx49_J0",
+      "published_at": "2026-10-19T18:46:50Z",
+      "view_count": 8430,
+      "like_count": 229,
+      "comment_count": 27,
+      "engagement_rate": 0.03036773428232503,
+      "topic_cluster": "MCP",
+      "summary": "Kling 4.0과 SeeDrones 2.5를 모션 제어, 일관성, 물리적 구현 등 다방면에서 비교 실험한 결과, Kling 4.0이 비용 효율성에서 우위를 보였다.",
+      "comment_signal": "What do you think of Kling 4?",
+      "hook_type": "비교"
     }
   ]
 }
