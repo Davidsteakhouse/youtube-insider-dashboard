@@ -1,249 +1,262 @@
 {
-  "digest_date": "2026-10-20",
-  "generated_at": "2026-10-20T01:45:17+00:00",
-  "summary": "최근 24시간 영상 10개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'agents'입니다. 특히 'AI뉴스 - 딥시크 미쳤다, Gemini 4, Muse Wonder, Spark Open, 오픈AI 스파이, GPT-Live-1.1, Fish Audio Drama 3, 테슬라 등'는 조회수 56.2K, 참여율 0.7%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "'agents' 주제가 3개 영상으로 가장 많이 다뤄졌습니다. 일반인 관점 직접 실험 or VS 비교 각도로 차별화할 영역이 있습니다.\n[내 채널] 7일 평균 130.6K회 · 지속률 25.6% / 경쟁사 평균 14.6K회 (격차 +794%)",
-  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 10/20\n\n📊 총 10개 | AI 핵심 9 · 인접 AI 1 · 일반 테크 보충 0\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 10 · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [조코딩 JoCoding] 56.2K뷰 · 참여율 0.7%\n   AI뉴스 - 딥시크 미쳤다, Gemini 4, Muse Wonder, Spark Open, 오픈AI 스파이, GPT-Live-1.1, Fi…\n   ↳ DeepSeek V4.1 Flash 출시와 테슬라 로드스터 공개 등 최신 AI 기술 동향과 업계 소식을 다루며, 1인 창업과 AI 인재의 중요성을 강조한다.\n   https://youtu.be/ZATGYwehDm0\n\n2. AI 핵심 · [Futurepedia] 35.9K뷰 · 참여율 2.4%\n   Claude Makes a New Kind of Video - Full Tutorial\n   ↳ Claude를 사용하여 코드로 정교한 모션 그래픽과 설명 영상을 제작하는 방법을 안내하며, 스타일 데이터베이스를 활용한 효율적인 작업 과정을 소개한다.\n   https://youtu.be/Ge1B-Ok1Pfk\n\n3. AI 핵심 · [빌더 조쉬 Builder Josh] 14.3K뷰 · 참여율 3.2%\n   깃허브에서 제일 핫한 클로드 스킬 TOP 5\n   ↳ 개발 효율을 높여주는 'Superpowers' 등 깃허브에서 가장 인기 있는 Claude 활용 스킬 5가지를 선정하여 추천한다.\n   https://youtu.be/sTv0qk1ERnA\n\n4. AI 핵심 · [Matt Wolfe] 8.9K뷰 · 참여율 2.1%\n   3 New Claude Prompts You Need To Try\n   ↳ Claude의 새로운 기능인 애니메이션 영상 제작 모션, 실시간 대시보드 변환, 그리고 고성능 하이쿠 5.5 모델을 활용한 생산성 향상 방법을 설명한다.\n   https://youtu.be/aIrrq3CLSKM\n\n5. AI 핵심 · [AI Samson] 8.4K뷰 · 참여율 3.0%\n   Kling 4.0 Is Finally Here! Full Test vs Seedance 2.5\n   ↳ Kling 4.0과 SeeDrones 2.5를 모션 제어, 일관성, 물리적 구현 등 다방면에서 비교 실험한 결과, Kling 4.0이 비용 효율성에서 우위를 보였다.\n   https://youtu.be/h9ryZx49_J0\n\n6. AI 핵심 · [조코딩 JoCoding] 7.8K뷰 · 참여율 0.6%\n   조코딩의 AI 리터러시 특강 4강 : AI 시대, 우리는 무엇을 준비해야 할까?\n   ↳ AI 도입 기업이 늘어나는 환경에서 할루시네이션 방지 등 위험 요소를 관리하고, 업무 효율을 극대화하기 위한 올바른 AI 활용 리터러시를 교육한다.\n   https://youtu.be/R1klN8XsPG4\n\n7. AI 핵심 · [빌더 조쉬 Builder Josh] 7.5K뷰 · 참여율 1.1%\n   클로드 코드가 100% 편집한 영상\n   ↳ Claude 코드를 활용하여 영상 편집부터 자막, 설명 도식 삽입까지 전체 편집 과정을 자동화한 사례를 테스트하고 향후 채널 운영 방향을 공유한다.\n   https://youtu.be/7duJ4R03Wqs\n\n8. AI 핵심 · [빌더 조쉬 Builder Josh] 1.1K뷰 · 참여율 0.8%\n   AI가 준 가장 큰 가치는 실험 비용을 0으로 만든 것입니다\n   ↳ AI와 에이전트의 핵심 가치는 개발 비용 절감을 넘어, 실험 비용을 제로에 가깝게 만들어 다양한 시행착오를 가능하게 하는 데 있다고 설명한다.\n   https://youtu.be/oabcMTVBYW8\n\n9. AI 핵심 · [빌더 조쉬 Builder Josh] 984뷰 · 참여율 0.3%\n   같은 AI를 써도 성과 차이는 얼마나 맡기느냐에서 납니다\n   ↳ AI 성과는 단순히 도구의 성능에 좌우되는 것이 아니라, 조직 내 거버넌스 관리와 인간이 AI를 얼마나 전략적으로 위임하고 작동시키는지에 달려 있다.\n   https://youtu.be/wwdSislFDK4\n\n10. AI 인접 · [월텍남 - 월스트리트 테크남] 4.9K뷰 · 참여율 3.7%\n   오늘 나스닥 폭등이 뭔가 수상한 이유\n   ↳ 데이터 센터 채권 약세와 GPU 계약 문제로 인해 AI 인프라 관련 주식들이 일시적 상승 후 하락세를 보이는 시장 상황을 분석한다.\n   https://youtu.be/bNW-0fe_jvQ\n\n📈 스마트대디 어제 실적\n조회수 133.7K (↑2% vs 7일 평균) | 구독 +333\n시청 지속률 24.0% | 평균 시청 2분 08초\n경쟁사 평균 14.6K회 대비 내 7일 평균 +794%\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
-  "video_count": 10,
-  "total_recent_video_count": 18,
+  "digest_date": "2026-10-21",
+  "generated_at": "2026-10-21T01:31:06+00:00",
+  "summary": "최근 24시간 영상 18개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'Claude'입니다. 특히 '앤트로픽이 잘 쓰던 깃을 버린 이유'는 조회수 51.8K, 참여율 0.9%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "'Claude' 주제가 3개 영상으로 가장 많이 다뤄졌습니다. Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n[내 채널] 7일 평균 141.4K회 · 지속률 24.8% / 경쟁사 평균 10.7K회 (격차 +1224%)",
+  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 10/21\n\n📊 총 10개 | AI 핵심 10 · 인접 AI 0 · 일반 테크 보충 0\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 10 · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [조코딩 JoCoding] 51.8K뷰 · 참여율 0.9%\n   앤트로픽이 잘 쓰던 깃을 버린 이유\n   ↳ 앤트로픽은 AI 코딩으로 병합 횟수가 10배 이상 급증하자 기존 깃 대신 독자 시스템인 '사이언'을 개발했습니다. 이를 통해 기존 깃 미러 인프라 대비 CPU와 메모리 요구량을 100분의 1 수준으로 대폭 축소하는…\n   https://youtu.be/TSHtmp4gEHY\n\n2. AI 핵심 · [조코딩 JoCoding] 32.9K뷰 · 참여율 1.4%\n   일레븐랩스 다 따라잡아버린 오픈소스 등장\n   ↳ 일레븐랩스를 따라잡은 오픈소스 TTS 기술의 등장을 배경으로, 누구나 아이디어만 있으면 원하는 결과물을 만들어낼 수 있는 환경을 설명합니다.\n   https://youtu.be/FFfEr4vaIrQ\n\n3. AI 핵심 · [조코딩 JoCoding] 26.3K뷰 · 참여율 0.4%\n   스파이 때문에 다 털릴뻔한 오픈 AI ㄷㄷ\n   ↳ 오픈AI 내부에서 TV USB 단자에 화장실 티슈 등으로 가린 녹음기가 발각되는 보안 침해 사건이 발생했습니다. 도청 시도가 포착된 후 FBI가 피의자를 체포하여 법원 출석을 앞두고 있습니다.\n   https://youtu.be/_zKWNoPpF-o\n\n4. AI 핵심 · [조코딩 JoCoding] 12.6K뷰 · 참여율 0.7%\n   구글 CEO와 미혼&비혼\n   ↳ 구글 CEO와 함께 '미혼&비혼' 콘셉트로 챌린지 댄스를 선보입니다.\n   https://youtu.be/ynGSpJwmoD4\n\n5. AI 핵심 · [조코딩 JoCoding] 11.3K뷰 · 참여율 0.8%\n   👀 진짜 큰거 왔다는 테슬라 발표회 ㄷㄷㄷ\n   ↳ 테슬라 발표회에서 주변 공기를 스스로 모아 압축 탱크를 채운 뒤 내뿜는 신기술 구조에 대해 다룹니다.\n   https://youtu.be/aYeMREPo-1I\n\n6. AI 핵심 · [조코딩 JoCoding] 10.1K뷰 · 참여율 1.0%\n   '로봇이 아닙니다' 를 증명하는 방법\n   ↳ AI가 글자나 사진 문제를 100% 풀어내면서 현대의 3세대 캡차는 체크박스 없이 사용자의 행동 점수와 쿠키 기록을 바탕으로 로봇 여부를 판정합니다.\n   https://youtu.be/CYS2LJWiQCQ\n\n7. AI 핵심 · [Matt Wolfe] 8.6K뷰 · 참여율 4.2%\n   My favorite new image editing tool\n   ↳ 업로드한 이미지에서 변경하고 싶은 영역을 직접 선택한 뒤 텍스트 프롬프트를 입력해 손쉽게 요소를 수정할 수 있는 새로운 이미지 편집 도구를 소개합니다.\n   https://youtu.be/VVBszkWK0Io\n\n8. AI 핵심 · [빌더 조쉬 Builder Josh] 8.5K뷰 · 참여율 1.2%\n   \"온톨로지를 말로 풀어서 쓰면 됩니다\" 딥러닝 10년 CTO가 만든 방법 (제네시스랩 유대훈 CTO님)\n   ↳ 제네시스랩 유대훈 CTO가 복잡한 W3C 표준 대신 업무 관계를 일상적인 말과 마크다운 글로 정의하면 LLM이 컴파일해 에이전트와 MCP 도구로 연결해 주는 '슬립박스' 온톨로지 구조를 설명합니다.\n   https://youtu.be/b6phhtUi0hs\n\n9. AI 핵심 · [조코딩 JoCoding] 7.3K뷰 · 참여율 1.4%\n   큐브 공식은 사실 더 느리다??\n   ↳ 컴퓨터 알고리즘이 큐브의 맞춘 면적이 아닌 남은 거리를 기준으로 최단 경로를 탐색하는 원리와 로봇이 2단계로 나누어 빠르게 푸는 메커니즘을 설명합니다.\n   https://youtu.be/dqZQf-AQk6s\n\n10. AI 핵심 · [알린 ALINN] 6.5K뷰 · 참여율 2.5%\n   24시간 나 대신 일해주는 ChatGPT가 나왔다고?\n   ↳ 오픈AI의 자율형 AI 에이전트 '다츠(Dots)'는 자체 환경에서 작업을 수행해 출근 전 일정 브리핑부터 발표자료 제작까지 사람 비서처럼 지시된 업무를 처음부터 끝까지 처리합니다.\n   https://youtu.be/0MP9EyypP8E\n\n📈 스마트대디 어제 실적\n조회수 88.1K (↓38% vs 7일 평균) | 구독 +172\n시청 지속률 24.5% | 평균 시청 2분 11초\n경쟁사 평균 10.7K회 대비 내 7일 평균 +1224%\n\n💡 VS 각도: Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+  "video_count": 18,
+  "total_recent_video_count": 23,
   "focus_scope": "ai_priority_then_tech_fill",
-  "average_view_count": 14598.0,
-  "average_engagement_rate": 0.018009026182526238,
-  "average_like_count": 217.0,
-  "average_comment_count": 29.0,
-  "best_video_id": "ZATGYwehDm0",
-  "best_topic": "agents",
+  "average_view_count": 10683.0,
+  "average_engagement_rate": 0.13022228493162,
+  "average_like_count": 134.0,
+  "average_comment_count": 11.0,
+  "best_video_id": "TSHtmp4gEHY",
+  "best_topic": "Claude",
   "summary_points": [
-    "가장 겹친 주제는 'agents'이며 3개 영상, 평균 조회수 3.3K, 평균 참여율 0.6%입니다.",
-    "최고 실적 영상은 'AI뉴스 - 딥시크 미쳤다, Gemini 4, Muse Wonder, Spark Open, 오픈AI 스파이, GPT-Live-1.1, Fish Audio Drama 3, 테슬라 등'이며 문제 해결 훅과 비교 포맷 조합이 강했습니다.",
-    "반복 노출된 툴은 Claude 3회, MCP 2회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
+    "가장 겹친 주제는 'Claude'이며 3개 영상, 평균 조회수 4.0K, 평균 참여율 1.9%입니다.",
+    "최고 실적 영상은 '앤트로픽이 잘 쓰던 깃을 버린 이유'이며 문제 해결 훅과 빌드 데모 포맷 조합이 강했습니다.",
+    "반복 노출된 툴은 Claude 3회, MCP 1회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
   ],
   "action_chips": [
-    "주제: agents",
+    "주제: Claude",
     "훅: 문제 해결",
-    "포맷: 비교",
+    "포맷: 빌드 데모",
     "기준 채널: 조코딩 JoCoding"
   ],
   "title_suggestions": [
-    "agents 직접 실험 — 이게 진짜 되나?",
-    "agents vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
-    "agents 써봤더니... (기대 vs 현실 솔직 후기)"
+    "Claude vs ChatGPT, 일반인이 직접 써보니 이게 달랐다",
+    "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
+    "AI 비서 대결: Claude가 진짜 강한 상황은 따로 있었다"
   ],
   "recommendations": [
     {
-      "title": "agents 직접 실험 — 이게 진짜 되나?",
-      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
-      "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
-      "thumbnail_copy": "agents 바로 해결",
-      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
-      "source_video_id": "R1klN8XsPG4",
-      "source": "조코딩의 AI 리터러시 특강 4강 : AI 시대, 우리는 무엇을 준비해야 할까?",
-      "my_channel_context": "내 7일 평균 130.6K회 · 지속률 25.6% / 경쟁사 대비 +794%"
+      "title": "Claude vs ChatGPT, 일반인이 직접 써보니 이게 달랐다",
+      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
+      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
+      "thumbnail_copy": "Claude 바로 해결",
+      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
+      "source_video_id": "b6phhtUi0hs",
+      "source": "\"온톨로지를 말로 풀어서 쓰면 됩니다\" 딥러닝 10년 CTO가 만든 방법 (제네시스랩 유대훈 CTO님)",
+      "my_channel_context": "내 7일 평균 141.4K회 · 지속률 24.8% / 경쟁사 대비 +1224%"
     },
     {
-      "title": "agents vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
-      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
-      "angle": "큰 주제 하나를 대표 제목으로 세우고, 나머지 포인트는 보조 정보처럼 정리하는 압축형 포장이 좋습니다.",
-      "thumbnail_copy": "agents 핵심 3가지",
-      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
-      "source_video_id": "oabcMTVBYW8",
-      "source": "AI가 준 가장 큰 가치는 실험 비용을 0으로 만든 것입니다",
-      "my_channel_context": "내 7일 평균 130.6K회 · 지속률 25.6% / 경쟁사 대비 +794%"
+      "title": "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
+      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
+      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
+      "thumbnail_copy": "Claude 바로 해결",
+      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
+      "source_video_id": "PO907Bv_CIQ",
+      "source": "2026년 쉽게 시작하는 AI 영상 편집 부업｜클로드 오퍼스 5.5 × 힉스필드",
+      "my_channel_context": "내 7일 평균 141.4K회 · 지속률 24.8% / 경쟁사 대비 +1224%"
     },
     {
-      "title": "agents 써봤더니... (기대 vs 현실 솔직 후기)",
-      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
-      "angle": "큰 주제 하나를 대표 제목으로 세우고, 나머지 포인트는 보조 정보처럼 정리하는 압축형 포장이 좋습니다.",
-      "thumbnail_copy": "agents 뭐가 다를까?",
-      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
-      "source_video_id": "wwdSislFDK4",
-      "source": "같은 AI를 써도 성과 차이는 얼마나 맡기느냐에서 납니다",
-      "my_channel_context": "내 7일 평균 130.6K회 · 지속률 25.6% / 경쟁사 대비 +794%"
+      "title": "AI 비서 대결: Claude가 진짜 강한 상황은 따로 있었다",
+      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
+      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
+      "thumbnail_copy": "Claude 핵심 3가지",
+      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
+      "source_video_id": "2gVfS19Hudk",
+      "source": "Claude just made motion graphics with zero video generator",
+      "my_channel_context": "내 7일 평균 141.4K회 · 지속률 24.8% / 경쟁사 대비 +1224%"
     }
   ],
   "topic_clusters": [
     {
-      "label": "agents",
+      "label": "Claude",
       "count": 3,
-      "avg_view_count": 3268,
-      "avg_engagement_rate": 0.005860539732588067,
-      "avg_like_count": 18,
+      "avg_view_count": 3968,
+      "avg_engagement_rate": 0.01853933768376418,
+      "avg_like_count": 51,
+      "avg_comment_count": 5,
+      "source_titles": [
+        "\"온톨로지를 말로 풀어서 쓰면 됩니다\" 딥러닝 10년 CTO가 만든 방법 (제네시스랩 유대훈 CTO님)",
+        "2026년 쉽게 시작하는 AI 영상 편집 부업｜클로드 오퍼스 5.5 × 힉스필드",
+        "Claude just made motion graphics with zero video generator"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/b6phhtUi0hs/hqdefault.jpg",
+      "representative_video_id": "b6phhtUi0hs",
+      "representative_title": "\"온톨로지를 말로 풀어서 쓰면 됩니다\" 딥러닝 10년 CTO가 만든 방법 (제네시스랩 유대훈 CTO님)"
+    },
+    {
+      "label": "앤트로픽이",
+      "count": 1,
+      "avg_view_count": 51806,
+      "avg_engagement_rate": 0.009207427711075937,
+      "avg_like_count": 449,
+      "avg_comment_count": 28,
+      "source_titles": [
+        "앤트로픽이 잘 쓰던 깃을 버린 이유"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/TSHtmp4gEHY/hqdefault.jpg",
+      "representative_video_id": "TSHtmp4gEHY",
+      "representative_title": "앤트로픽이 잘 쓰던 깃을 버린 이유"
+    },
+    {
+      "label": "일레븐랩스",
+      "count": 1,
+      "avg_view_count": 32948,
+      "avg_engagement_rate": 0.013931042855408523,
+      "avg_like_count": 457,
+      "avg_comment_count": 2,
+      "source_titles": [
+        "일레븐랩스 다 따라잡아버린 오픈소스 등장"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/FFfEr4vaIrQ/hqdefault.jpg",
+      "representative_video_id": "FFfEr4vaIrQ",
+      "representative_title": "일레븐랩스 다 따라잡아버린 오픈소스 등장"
+    },
+    {
+      "label": "스파이",
+      "count": 1,
+      "avg_view_count": 26253,
+      "avg_engagement_rate": 0.00403763379423304,
+      "avg_like_count": 105,
       "avg_comment_count": 1,
       "source_titles": [
-        "조코딩의 AI 리터러시 특강 4강 : AI 시대, 우리는 무엇을 준비해야 할까?",
-        "AI가 준 가장 큰 가치는 실험 비용을 0으로 만든 것입니다",
-        "같은 AI를 써도 성과 차이는 얼마나 맡기느냐에서 납니다"
+        "스파이 때문에 다 털릴뻔한 오픈 AI ㄷㄷ"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/R1klN8XsPG4/hqdefault.jpg",
-      "representative_video_id": "R1klN8XsPG4",
-      "representative_title": "조코딩의 AI 리터러시 특강 4강 : AI 시대, 우리는 무엇을 준비해야 할까?"
+      "thumbnail_url": "https://i.ytimg.com/vi/_zKWNoPpF-o/hqdefault.jpg",
+      "representative_video_id": "_zKWNoPpF-o",
+      "representative_title": "스파이 때문에 다 털릴뻔한 오픈 AI ㄷㄷ"
     },
     {
-      "label": "Claude",
-      "count": 2,
-      "avg_view_count": 22417,
-      "avg_engagement_rate": 0.022533929228006212,
-      "avg_like_count": 500,
-      "avg_comment_count": 24,
-      "source_titles": [
-        "Claude Makes a New Kind of Video - Full Tutorial",
-        "3 New Claude Prompts You Need To Try"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/Ge1B-Ok1Pfk/hqdefault.jpg",
-      "representative_video_id": "Ge1B-Ok1Pfk",
-      "representative_title": "Claude Makes a New Kind of Video - Full Tutorial"
-    },
-    {
-      "label": "OpenAI",
+      "label": "구글",
       "count": 1,
-      "avg_view_count": 56212,
-      "avg_engagement_rate": 0.00652885504874404,
-      "avg_like_count": 325,
-      "avg_comment_count": 42,
-      "source_titles": [
-        "AI뉴스 - 딥시크 미쳤다, Gemini 4, Muse Wonder, Spark Open, 오픈AI 스파이, GPT-Live-1.1, Fish Audio Drama 3, 테슬라 등"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/ZATGYwehDm0/hqdefault.jpg",
-      "representative_video_id": "ZATGYwehDm0",
-      "representative_title": "AI뉴스 - 딥시크 미쳤다, Gemini 4, Muse Wonder, Spark Open, 오픈AI 스파이, GPT-Live-1.1, Fish Audio Drama 3, 테슬라 등"
-    },
-    {
-      "label": "Notion",
-      "count": 1,
-      "avg_view_count": 14295,
-      "avg_engagement_rate": 0.03224903812521861,
-      "avg_like_count": 338,
-      "avg_comment_count": 123,
-      "source_titles": [
-        "깃허브에서 제일 핫한 클로드 스킬 TOP 5"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/sTv0qk1ERnA/hqdefault.jpg",
-      "representative_video_id": "sTv0qk1ERnA",
-      "representative_title": "깃허브에서 제일 핫한 클로드 스킬 TOP 5"
-    },
-    {
-      "label": "MCP",
-      "count": 1,
-      "avg_view_count": 8430,
-      "avg_engagement_rate": 0.03036773428232503,
-      "avg_like_count": 229,
-      "avg_comment_count": 27,
-      "source_titles": [
-        "Kling 4.0 Is Finally Here! Full Test vs Seedance 2.5"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/h9ryZx49_J0/hqdefault.jpg",
-      "representative_video_id": "h9ryZx49_J0",
-      "representative_title": "Kling 4.0 Is Finally Here! Full Test vs Seedance 2.5"
-    },
-    {
-      "label": "자동화",
-      "count": 1,
-      "avg_view_count": 7545,
-      "avg_engagement_rate": 0.01126573889993373,
+      "avg_view_count": 12568,
+      "avg_engagement_rate": 0.00668364099299809,
       "avg_like_count": 67,
-      "avg_comment_count": 18,
+      "avg_comment_count": 17,
       "source_titles": [
-        "클로드 코드가 100% 편집한 영상"
+        "구글 CEO와 미혼&비혼"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/7duJ4R03Wqs/hqdefault.jpg",
-      "representative_video_id": "7duJ4R03Wqs",
-      "representative_title": "클로드 코드가 100% 편집한 영상"
+      "thumbnail_url": "https://i.ytimg.com/vi/ynGSpJwmoD4/hqdefault.jpg",
+      "representative_video_id": "ynGSpJwmoD4",
+      "representative_title": "구글 CEO와 미혼&비혼"
     },
     {
-      "label": "주식",
+      "label": "진짜",
       "count": 1,
-      "avg_view_count": 4861,
-      "avg_engagement_rate": 0.03702941781526435,
-      "avg_like_count": 156,
-      "avg_comment_count": 24,
+      "avg_view_count": 11316,
+      "avg_engagement_rate": 0.007953340402969246,
+      "avg_like_count": 86,
+      "avg_comment_count": 4,
       "source_titles": [
-        "오늘 나스닥 폭등이 뭔가 수상한 이유"
+        "👀 진짜 큰거 왔다는 테슬라 발표회 ㄷㄷㄷ"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/bNW-0fe_jvQ/hqdefault.jpg",
-      "representative_video_id": "bNW-0fe_jvQ",
-      "representative_title": "오늘 나스닥 폭등이 뭔가 수상한 이유"
+      "thumbnail_url": "https://i.ytimg.com/vi/aYeMREPo-1I/hqdefault.jpg",
+      "representative_video_id": "aYeMREPo-1I",
+      "representative_title": "👀 진짜 큰거 왔다는 테슬라 발표회 ㄷㄷㄷ"
+    },
+    {
+      "label": "캡챠",
+      "count": 1,
+      "avg_view_count": 10060,
+      "avg_engagement_rate": 0.009940357852882704,
+      "avg_like_count": 88,
+      "avg_comment_count": 12,
+      "source_titles": [
+        "'로봇이 아닙니다' 를 증명하는 방법"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/CYS2LJWiQCQ/hqdefault.jpg",
+      "representative_video_id": "CYS2LJWiQCQ",
+      "representative_title": "'로봇이 아닙니다' 를 증명하는 방법"
+    },
+    {
+      "label": "Gemini",
+      "count": 1,
+      "avg_view_count": 8601,
+      "avg_engagement_rate": 0.04197186373677479,
+      "avg_like_count": 342,
+      "avg_comment_count": 19,
+      "source_titles": [
+        "My favorite new image editing tool"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/VVBszkWK0Io/hqdefault.jpg",
+      "representative_video_id": "VVBszkWK0Io",
+      "representative_title": "My favorite new image editing tool"
     }
   ],
   "video_highlights": [
     {
-      "video_id": "ZATGYwehDm0",
+      "video_id": "TSHtmp4gEHY",
       "channel_name": "조코딩 JoCoding",
-      "title": "AI뉴스 - 딥시크 미쳤다, Gemini 4, Muse Wonder, Spark Open, 오픈AI 스파이, GPT-Live-1.1, Fish Audio Drama 3, 테슬라 등",
-      "thumbnail_url": "https://i.ytimg.com/vi/ZATGYwehDm0/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=ZATGYwehDm0",
-      "published_at": "2026-10-19T13:00:03Z",
-      "view_count": 56212,
-      "like_count": 325,
-      "comment_count": 42,
-      "engagement_rate": 0.00652885504874404,
-      "topic_cluster": "OpenAI",
-      "summary": "DeepSeek V4.1 Flash 출시와 테슬라 로드스터 공개 등 최신 AI 기술 동향과 업계 소식을 다루며, 1인 창업과 AI 인재의 중요성을 강조한다.",
-      "comment_signal": "늘 잘보고 있습니다 한국AI유튜버 1황 조코딩 ㅎㅇㅌ",
+      "title": "앤트로픽이 잘 쓰던 깃을 버린 이유",
+      "thumbnail_url": "https://i.ytimg.com/vi/TSHtmp4gEHY/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=TSHtmp4gEHY",
+      "published_at": "2026-10-20T11:00:33Z",
+      "view_count": 51806,
+      "like_count": 449,
+      "comment_count": 28,
+      "engagement_rate": 0.009207427711075937,
+      "topic_cluster": "앤트로픽이",
+      "summary": "앤트로픽은 AI 코딩으로 병합 횟수가 10배 이상 급증하자 기존 깃 대신 독자 시스템인 '사이언'을 개발했습니다. 이를 통해 기존 깃 미러 인프라 대비 CPU와 메…",
+      "comment_signal": "싸이언이라고? 엘지전자 주식 가즈아 ㅋㅋㅋㅋ",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "Ge1B-Ok1Pfk",
-      "channel_name": "Futurepedia",
-      "title": "Claude Makes a New Kind of Video - Full Tutorial",
-      "thumbnail_url": "https://i.ytimg.com/vi/Ge1B-Ok1Pfk/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=Ge1B-Ok1Pfk",
-      "published_at": "2026-10-19T15:24:55Z",
-      "view_count": 35908,
-      "like_count": 819,
-      "comment_count": 43,
-      "engagement_rate": 0.024005792581040436,
-      "topic_cluster": "Claude",
-      "summary": "Claude를 사용하여 코드로 정교한 모션 그래픽과 설명 영상을 제작하는 방법을 안내하며, 스타일 데이터베이스를 활용한 효율적인 작업 과정을 소개한다.",
-      "comment_signal": "Try the skills in Promptkura and vercel. They are great",
+      "video_id": "FFfEr4vaIrQ",
+      "channel_name": "조코딩 JoCoding",
+      "title": "일레븐랩스 다 따라잡아버린 오픈소스 등장",
+      "thumbnail_url": "https://i.ytimg.com/vi/FFfEr4vaIrQ/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=FFfEr4vaIrQ",
+      "published_at": "2026-10-20T10:00:13Z",
+      "view_count": 32948,
+      "like_count": 457,
+      "comment_count": 2,
+      "engagement_rate": 0.013931042855408523,
+      "topic_cluster": "일레븐랩스",
+      "summary": "일레븐랩스를 따라잡은 오픈소스 TTS 기술의 등장을 배경으로, 누구나 아이디어만 있으면 원하는 결과물을 만들어낼 수 있는 환경을 설명합니다.",
+      "comment_signal": "😮😅",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "sTv0qk1ERnA",
-      "channel_name": "빌더 조쉬 Builder Josh",
-      "title": "깃허브에서 제일 핫한 클로드 스킬 TOP 5",
-      "thumbnail_url": "https://i.ytimg.com/vi/sTv0qk1ERnA/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=sTv0qk1ERnA",
-      "published_at": "2026-10-19T09:17:05Z",
-      "view_count": 14295,
-      "like_count": 338,
-      "comment_count": 123,
-      "engagement_rate": 0.03224903812521861,
-      "topic_cluster": "Notion",
-      "summary": "개발 효율을 높여주는 'Superpowers' 등 깃허브에서 가장 인기 있는 Claude 활용 스킬 5가지를 선정하여 추천한다.",
-      "comment_signal": "스킬~감사합니다",
+      "video_id": "_zKWNoPpF-o",
+      "channel_name": "조코딩 JoCoding",
+      "title": "스파이 때문에 다 털릴뻔한 오픈 AI ㄷㄷ",
+      "thumbnail_url": "https://i.ytimg.com/vi/_zKWNoPpF-o/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=_zKWNoPpF-o",
+      "published_at": "2026-10-20T09:00:33Z",
+      "view_count": 26253,
+      "like_count": 105,
+      "comment_count": 1,
+      "engagement_rate": 0.00403763379423304,
+      "topic_cluster": "스파이",
+      "summary": "오픈AI 내부에서 TV USB 단자에 화장실 티슈 등으로 가린 녹음기가 발각되는 보안 침해 사건이 발생했습니다. 도청 시도가 포착된 후 FBI가 피의자를 체포하여…",
+      "comment_signal": "초기 댓글 반응은 붙었지만 아직 대화가 확장되지는 않았습니다.",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "aIrrq3CLSKM",
-      "channel_name": "Matt Wolfe",
-      "title": "3 New Claude Prompts You Need To Try",
-      "thumbnail_url": "https://i.ytimg.com/vi/aIrrq3CLSKM/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=aIrrq3CLSKM",
-      "published_at": "2026-10-19T12:43:39Z",
-      "view_count": 8926,
-      "like_count": 182,
-      "comment_count": 6,
-      "engagement_rate": 0.021062065874971992,
-      "topic_cluster": "Claude",
-      "summary": "Claude의 새로운 기능인 애니메이션 영상 제작 모션, 실시간 대시보드 변환, 그리고 고성능 하이쿠 5.5 모델을 활용한 생산성 향상 방법을 설명한다.",
-      "comment_signal": "Hell yeah! And step 4 - go to jail for leaking private/corporate information! HELL YEAH BROTHER!",
+      "video_id": "ynGSpJwmoD4",
+      "channel_name": "조코딩 JoCoding",
+      "title": "구글 CEO와 미혼&비혼",
+      "thumbnail_url": "https://i.ytimg.com/vi/ynGSpJwmoD4/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=ynGSpJwmoD4",
+      "published_at": "2026-10-20T08:00:10Z",
+      "view_count": 12568,
+      "like_count": 67,
+      "comment_count": 17,
+      "engagement_rate": 0.00668364099299809,
+      "topic_cluster": "구글",
+      "summary": "구글 CEO와 함께 '미혼&비혼' 콘셉트로 챌린지 댄스를 선보입니다.",
+      "comment_signal": "너무 충격적이야.....",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "h9ryZx49_J0",
-      "channel_name": "AI Samson",
-      "title": "Kling 4.0 Is Finally Here! Full Test vs Seedance 2.5",
-      "thumbnail_url": "https://i.ytimg.com/vi/h9ryZx49_J0/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=h9ryZx49_J0",
-      "published_at": "2026-10-19T18:46:50Z",
-      "view_count": 8430,
-      "like_count": 229,
-      "comment_count": 27,
-      "engagement_rate": 0.03036773428232503,
-      "topic_cluster": "MCP",
-      "summary": "Kling 4.0과 SeeDrones 2.5를 모션 제어, 일관성, 물리적 구현 등 다방면에서 비교 실험한 결과, Kling 4.0이 비용 효율성에서 우위를 보였다.",
-      "comment_signal": "What do you think of Kling 4?",
-      "hook_type": "비교"
+      "video_id": "aYeMREPo-1I",
+      "channel_name": "조코딩 JoCoding",
+      "title": "👀 진짜 큰거 왔다는 테슬라 발표회 ㄷㄷㄷ",
+      "thumbnail_url": "https://i.ytimg.com/vi/aYeMREPo-1I/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=aYeMREPo-1I",
+      "published_at": "2026-10-20T08:00:16Z",
+      "view_count": 11316,
+      "like_count": 86,
+      "comment_count": 4,
+      "engagement_rate": 0.007953340402969246,
+      "topic_cluster": "진짜",
+      "summary": "테슬라 발표회에서 주변 공기를 스스로 모아 압축 탱크를 채운 뒤 내뿜는 신기술 구조에 대해 다룹니다.",
+      "comment_signal": "이거 수학자가 조작 영상 아닌지 검토해봤는데 테슬라가 오히려 개쩌는 기술력이라 인정. 좀 장난스러운 영상이 많긴한데 테슬라의 로드스터는 오히려 기술력이 과소평가된 수준이라…",
+      "hook_type": "긴급성"
     }
   ]
 }
