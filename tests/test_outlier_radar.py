@@ -4,6 +4,7 @@ import sys
 import unittest
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
+from unittest.mock import patch
 
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
@@ -176,6 +177,31 @@ class ClusterTests(unittest.TestCase):
             radar.dedupe_keys(leaders[0]),
             ["ai안드로이드tv광고", "cluster:claude-tv-adblock", "signal:github x/free-my-tv"],
         )
+
+
+class GeminiRetryTests(unittest.TestCase):
+    def test_retries_overload_then_falls_back(self) -> None:
+        ok = {"candidates": [{"content": {"parts": [{"text": "[{\"id\": \"a\"}]"}]}}]}
+        calls = []
+
+        def fake_http(url, **kwargs):
+            calls.append(url.rsplit("/", 1)[-1])
+            if len(calls) <= 3:
+                raise RuntimeError("HTTP 503 overloaded")
+            return ok
+
+        with patch.dict(radar.os.environ, {"GEMINI_API_KEY": "k", "GEMINI_MODEL": "lite"}), patch.object(
+            radar, "http_json", side_effect=fake_http
+        ), patch.object(radar.time, "sleep"):
+            self.assertEqual(radar.gemini_json("p", []), [{"id": "a"}])
+        self.assertEqual(calls, ["lite:generateContent"] * 3 + [f"{radar.GEMINI_FALLBACK_MODEL}:generateContent"])
+
+    def test_does_not_retry_bad_request(self) -> None:
+        with patch.dict(radar.os.environ, {"GEMINI_API_KEY": "k", "GEMINI_MODEL": "lite"}), patch.object(
+            radar, "http_json", side_effect=RuntimeError("HTTP 400 bad")
+        ) as http_mock, patch.object(radar.time, "sleep"):
+            self.assertIsNone(radar.gemini_json("p", []))
+        self.assertEqual(http_mock.call_count, 2)  # 모델당 한 번씩만
 
 
 class RotationTests(unittest.TestCase):

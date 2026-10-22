@@ -23,6 +23,7 @@ import math
 import os
 import re
 import sys
+import time
 import urllib.error
 import urllib.parse
 import urllib.request
@@ -45,6 +46,7 @@ KST = timezone(timedelta(hours=9))
 YOUTUBE_API_BASE = "https://www.googleapis.com/youtube/v3"
 GEMINI_ENDPOINT_TEMPLATE = "https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
 DEFAULT_GEMINI_MODEL = "gemini-2.5-flash-lite"
+GEMINI_FALLBACK_MODEL = "gemini-2.5-flash"
 TELEGRAM_LIMIT = 4000
 SHORTS_MAX_SECONDS = 180  # 기존 파이프라인(analytics_fetcher)과 같은 쇼츠 기준
 SEARCH_COST = 100
@@ -469,20 +471,27 @@ def gemini_json(system_prompt: str, user_payload: Any) -> Any | None:
     api_key = os.getenv("GEMINI_API_KEY")
     if not api_key:
         return None
-    model = os.getenv("GEMINI_MODEL") or DEFAULT_GEMINI_MODEL
     payload = {
         "systemInstruction": {"parts": [{"text": system_prompt}]},
         "generationConfig": {"responseMimeType": "application/json", "temperature": 0.3},
         "contents": [{"role": "user", "parts": [{"text": json.dumps(user_payload, ensure_ascii=False)}]}],
     }
-    try:
-        response = http_json(GEMINI_ENDPOINT_TEMPLATE.format(model=model), params={"key": api_key}, payload=payload, timeout=60)
-        text = response["candidates"][0]["content"]["parts"][0]["text"].strip()
-        text = re.sub(r"^```(?:json)?|```$", "", text).strip()
-        return json.loads(text)
-    except Exception as exc:  # 적합도는 보조 정보라 실패해도 레이더는 계속 돈다
-        log(f"[gemini] 실패: {redact(str(exc))[:200]}")
-        return None
+    # 503(과부하)·429는 잠깐 뒤 다시 하면 대개 풀린다. 그래도 안 되면 예비 모델로 한 번 더.
+    models = unique([os.getenv("GEMINI_MODEL") or DEFAULT_GEMINI_MODEL, GEMINI_FALLBACK_MODEL])
+    for model in models:
+        for attempt in range(3):
+            try:
+                response = http_json(GEMINI_ENDPOINT_TEMPLATE.format(model=model), params={"key": api_key}, payload=payload, timeout=60)
+                text = response["candidates"][0]["content"]["parts"][0]["text"].strip()
+                text = re.sub(r"^```(?:json)?|```$", "", text).strip()
+                return json.loads(text)
+            except Exception as exc:  # 적합도는 보조 정보라 끝내 실패해도 레이더는 계속 돈다
+                retryable = bool(re.search(r"HTTP (429|5\d\d)", str(exc)))
+                log(f"[gemini] {model} {attempt + 1}회차 실패: {redact(str(exc))[:160]}")
+                if not retryable:
+                    break
+                time.sleep(5 * (attempt + 1))
+    return None
 
 
 def enrich_fit(candidates: list[dict[str, Any]], profile: str) -> bool:
