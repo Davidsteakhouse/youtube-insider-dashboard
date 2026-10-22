@@ -1,0 +1,57 @@
+name: Outlier Radar
+
+on:
+  workflow_dispatch:
+  schedule:
+    # KST 06:40 · 14:40 · 20:40 · 02:40 — 매일 아침 브리프(23:07 UTC 시작)와 커밋 시간이 겹치지 않게 둔다
+    - cron: "40 21,5,11,17 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: outlier-radar
+  cancel-in-progress: false
+
+jobs:
+  radar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      GEMINI_MODEL: gemini-2.5-flash-lite
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Run unit tests
+        run: python -m unittest tests.test_outlier_radar
+
+      - name: Run outlier radar
+        run: python scripts/outlier_radar.py
+
+      - name: Commit radar state
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/radar_state.json data/radar_latest.json
+          if git diff --cached --quiet; then
+            echo "No radar changes to commit."
+            exit 0
+          fi
+          git commit -m "chore: outlier radar update"
+          for attempt in 1 2 3; do
+            git pull --rebase origin main && git push && exit 0
+            sleep 15
+          done
+          exit 1

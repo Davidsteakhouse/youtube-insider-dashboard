@@ -181,3 +181,16 @@ C:\Users\DanKim\anaconda3\python.exe .\scripts\run_pipeline.py --no-sync-watchli
 - `업데이트 실행`, `Notion 다시 가져오기`는 여전히 로컬 API 모드에서만 동작
 - SQLite는 로컬 전용이고, GitHub Actions에서는 JSON export를 읽어 매 실행마다 다시 복원
 - `PUBLIC_DASHBOARD_URL`을 넣으면 텔레그램 브리프 하단에 모바일 대시보드 링크가 같이 붙음
+
+## 아웃라이어 레이더 (선점 감지)
+
+vidIQ Outliers 방식으로 막 터지는 영상을 찾아 텔레그램으로 "🚨 선점 기회"를 보냅니다.
+
+- 실행: `.github/workflows/outlier-radar.yml`, 하루 4번 (KST 06:40 · 14:40 · 20:40 · 02:40). 06:40 실행이 하루 요약을 보냅니다.
+- 주 기준(둘 중 하나): 채널 평소 조회수(최근 롱폼 중앙값) 대비 5배 이상, 또는 구독자 대비 3배 이상
+- 바닥: 24시간 기준 최소 조회수 영어 3만 · 한국어 1만 (24시간 전에는 지난 시간만큼 나눠 적용)
+- 범위: 감시 채널 + 검색어 순환(고정 + 주간 페르소나) + GitHub·HN 급상승 항목에서 뽑은 검색어
+- 걸린 영상은 Gemini로 내 채널 적합도를 매기고, 한국어 검색으로 국내 공백(🟢·🟡·🔴)을 판정합니다. 🟢·🟡이고 적합도 3 이상일 때만 알림을 보냅니다.
+- 실행마다 조회수를 기록해 최근 증가량(가속·유지·둔화)을 순위에 씁니다.
+- 기준값과 검색어: `radar_config.json`. 상태: `data/radar_state.json`, 최신 결과: `data/radar_latest.json`
+- 로컬 시험(발송 없음): `python scripts/outlier_radar.py --dry-run`, 검색어 하나만 시험: `python scripts/outlier_radar.py --query "vibe coded adobe" --window-hours 400`
