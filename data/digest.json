@@ -1,261 +1,262 @@
 {
-  "digest_date": "2026-10-22",
-  "generated_at": "2026-10-22T01:30:13+00:00",
-  "summary": "최근 24시간 영상 23개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'Claude'입니다. 특히 '카메라도 없는데.. 이 AI 안경을 매일 쓰는 이유 [이븐 리얼리티 G2 롱텀 사용기]'는 조회수 101.0K, 참여율 1.3%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "'Claude' 주제가 5개 영상으로 가장 많이 다뤄졌습니다. Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n[내 채널] 7일 평균 124.0K회 · 지속률 24.7% / 경쟁사 평균 19.0K회 (격차 +554%)",
-  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 10/22\n\n📊 총 10개 | AI 핵심 10 · 인접 AI 0 · 일반 테크 보충 0\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 10 · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [조코딩 JoCoding] 51.7K뷰 · 참여율 0.8%\n   GPT를 고장내는 가장 단순한 방법\n   ↳ AI가 학습된 데이터 내의 공격 문장을 명령어로 인식해 발생하는 오류 현상을 통해, AI에게 읽는 글과 명령이 동일한 데이터로 취급되는 원리를 설명한다.\n   https://youtu.be/HaI6tK-kQM4\n\n2. AI 핵심 · [Matt Wolfe] 44.2K뷰 · 참여율 3.1%\n   AI Breakthroughs Everyone Missed\n   ↳ 카메라 움직임에 따른 장면 재구성 도구, 게임 전용 모델 등 주목받지 못했던 독창적인 AI 연구 프로젝트와 도구들을 소개한다.\n   https://youtu.be/umGZrkyTRtw\n\n3. AI 핵심 · [조코딩 JoCoding] 27.1K뷰 · 참여율 0.8%\n   AI 에이전트, 한국에선 쇼핑 못한다?\n   ↳ 네이버, 카카오, 쿠팡 등 국내 주요 플랫폼이 AI 에이전트의 쇼핑 서비스 접근을 원천 차단함에 따라 국내에서 AI 기반 쇼핑 기능 사용이 제한되고 있는 현상을 다룬다.\n   https://youtu.be/WIMzDIZvlCQ\n\n4. AI 핵심 · [빌더 조쉬 Builder Josh] 14.4K뷰 · 참여율 3.5%\n   다들 클로드 잘못 쓰고 있었다, 카파시 방식 (LLM 카운슬)\n   ↳ 안드레이 카파시가 제안한 LLM 카운슬 방식을 클로드에 적용하여, 여러 AI가 서로 의견을 제시하고 평가하게 함으로써 편향 없는 최적의 답변을 도출하는 방법을 설명한다.\n   https://youtu.be/wS9rrwRImTg\n\n5. AI 핵심 · [조코딩 JoCoding] 13.3K뷰 · 참여율 0.8%\n   AI반대하던 사람들을 한순간에 유혹해버린 국산 팬픽 ㄷㄷ\n   ↳ 고품질의 국산 AI 영상 콘텐츠가 대중에게 공개되면서 AI 기술에 부정적이었던 시선이 긍정적으로 변화하는 흐름을 보여준다.\n   https://youtu.be/HPuTslyKyTY\n\n6. AI 핵심 · [조코딩 JoCoding] 12.2K뷰 · 참여율 1.4%\n   머리카락까지 살려서 영상 배경 제거하는 AI 등장 ㄷㄷ\n   ↳ AI를 활용하여 복잡한 머리카락이나 연기 같은 디테일한 요소까지 정교하게 배경을 제거하고 누끼를 따는 영상 편집 기술을 소개한다.\n   https://youtu.be/6XWQQSC8-kU\n\n7. AI 핵심 · [성공지식백과] 10.6K뷰 · 참여율 1.0%\n   AI 회사들이 14억 무료 혜택과 상금을 풀었습니다.. ㄷㄷ\n   ↳ AI 경연대회인 '크로마 어워즈 시즌 2'를 통해 다양한 AI 도구의 무료 크레딧과 할인 혜택을 받는 방법 및 경연대회 참여 가이드를 안내한다.\n   https://youtu.be/5P-OSBWZz54\n\n8. AI 핵심 · [조코딩 JoCoding] 9.1K뷰 · 참여율 0.8%\n   양지로 올라온 어둠의 메카퍼리단...어흐;\n   ↳ 인간 동반 로봇 '휴고'를 소개하며, 자연스러운 표정과 움직임으로 상호작용하는 로봇 기술의 발전상을 다룬다.\n   https://youtu.be/afVBPCvREVg\n\n9. AI 핵심 · [조코딩 JoCoding] 8.0K뷰 · 참여율 0.5%\n   로봇 양반 갈 때도 아주 예술로 가는구만\n   ↳ 영화 터미네이터의 장면을 차용하여 로봇이 점프하고 이동하는 역동적이고 예술적인 연출 사례를 소개한다.\n   https://youtu.be/i-pMloLKvjk\n\n10. AI 핵심 · [조코딩 JoCoding] 3.8K뷰 · 참여율 1.6%\n   애플페이는 어떻게 카드 정보를 지킬까?\n   ↳ 애플페이가 고유의 보안 기술을 통해 결제 시 실제 카드 정보를 안전하게 보호하고 처리하는 원리를 설명한다.\n   https://youtu.be/b1qh9DJRKek\n\n📈 스마트대디 어제 실적\n조회수 61.5K (↓50% vs 7일 평균) | 구독 +142\n시청 지속률 24.5% | 평균 시청 2분 14초\n경쟁사 평균 19.0K회 대비 내 7일 평균 +554%\n\n💡 VS 각도: Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
-  "video_count": 23,
-  "total_recent_video_count": 35,
+  "digest_date": "2026-10-23",
+  "generated_at": "2026-10-23T01:27:41+00:00",
+  "summary": "최근 24시간 영상 12개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'agents'입니다. 특히 'Personal Body Guard Robot - What could go wrong?'는 조회수 100.6K, 참여율 2.2%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "'agents' 주제가 4개 영상으로 가장 많이 다뤄졌습니다. 일반인 관점 직접 실험 or VS 비교 각도로 차별화할 영역이 있습니다.\n[내 채널] 7일 평균 84.0K회 · 지속률 23.8% / 경쟁사 평균 26.6K회 (격차 +216%)",
+  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 10/23\n\n📊 총 10개 | AI 핵심 10 · 인접 AI 0 · 일반 테크 보충 0\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 10 · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [Matt Wolfe] 100.6K뷰 · 참여율 2.2%\n   Personal Body Guard Robot - What could go wrong?\n   ↳ 개인 방어를 목적으로 개발된 로봇이 실시간으로 위험을 감지하고 대응하는 기술을 시연하며 미래 기술의 가능성을 보여준다.\n   https://youtu.be/dyrNQV0F3Zs\n\n2. AI 핵심 · [조코딩 JoCoding] 94.8K뷰 · 참여율 0.7%\n   지금 AI 쓰는 사람이 대단한 이유\n   ↳ AI 에이전트 활용 능력이 단순한 구독을 넘어 생산성과 업무 효율에서 큰 격차를 만들어내고 있다.\n   https://youtu.be/usdH6FJ-p3k\n\n3. AI 핵심 · [조코딩 JoCoding] 35.3K뷰 · 참여율 1.1%\n   🚨 전세계가 난리난 PHP 보안사고\n   ↳ PHP 서버의 메모리 처리 방식에서 기인한 14년 된 보안 취약점이 발견되어 대규모 피해를 야기했으므로 최신 버전 업데이트가 필수적이다.\n   https://youtu.be/6BNrU-nXJSA\n\n4. AI 핵심 · [조코딩 JoCoding] 22.5K뷰 · 참여율 0.8%\n   구글이 단백질에 몰래 새겨 넣은 것\n   ↳ 구글이 인공 단백질 생성 시 생물학적 기능을 저해하지 않는 수준에서 식별 가능한 특정 패턴을 삽입하는 기술을 적용하고 있다.\n   https://youtu.be/cBtB1Qr4vVA\n\n5. AI 핵심 · [조코딩 JoCoding] 18.5K뷰 · 참여율 1.2%\n   깃 없이도 코드 관리가 가능한 이유\n   ↳ 방대한 코드 관리를 위해 파일 내용을 기반으로 지문을 생성하여 서버 간 정합성을 유지하고 캐시 적중률을 최적화하는 새로운 서버 시스템 방식을 설명한다.\n   https://youtu.be/b270jMdTTsY\n\n6. AI 핵심 · [조코딩 JoCoding] 12.2K뷰 · 참여율 1.3%\n   신입이 취업 못 하는 진짜 이유는 따로 있다??\n   ↳ 취업난은 일자리 자체의 문제보다 교육 시스템의 지연이 원인이며, AI 에이전트와 도구를 능숙하게 다루는 실무 역량이 채용의 핵심 요소가 되었다.\n   https://youtu.be/JqWXVw8hB0w\n\n7. AI 핵심 · [빌더 조쉬 Builder Josh] 10.6K뷰 · 참여율 7.5%\n   클로드가 모션그래픽 업계를 집어삼키는 중 (한글 프롬프트 100개 무료)\n   ↳ 클로드(Claude)를 활용해 전문가 수준의 모션 그래픽을 생성할 수 있는 한글 프롬프트 100개 세트를 통해 브랜드별 맞춤 영상 제작 효율을 높이는 방법을 제시한다.\n   https://youtu.be/0ZwwAOh7pgs\n\n8. AI 핵심 · [성공지식백과] 5.2K뷰 · 참여율 0.9%\n   AI 영상계 미친 신모델 클링 4.0이 등장했습니다.. ㄷㄷ\n   ↳ 최대 30초 길이의 영상 생성을 지원하는 클링 4.0을 활용하여 첫·중간·끝 프레임과 레퍼런스 이미지를 통해 자연스러운 영상을 제작하는 과정을 시연한다.\n   https://youtu.be/NNkQP6pWAx4\n\n9. AI 핵심 · [Futurepedia] 1.4K뷰 · 참여율 1.7%\n   Claude video style database for free\n   ↳ 클로드를 이용해 86가지의 다양한 영상 스타일 데이터베이스와 사운드 효과 라이브러리를 직접 구축하여 무료로 활용할 수 있는 방법을 공유한다.\n   https://youtu.be/xr024WjmJUY\n\n10. AI 핵심 · [빌더 조쉬 Builder Josh] 1.1K뷰 · 참여율 0.8%\n   목차가 200개를 넘으면 LLM 위키가 흔들립니다\n   ↳ LLM을 활용한 대규모 위키 시스템에서 목차 관리 시 데이터베이스를 병행 사용해야 데이터 정합성과 트랜잭션 효율성을 확보할 수 있다.\n   https://youtu.be/XlJ8DGNvtKI\n\n📈 스마트대디 어제 실적\n조회수 53.1K (↓37% vs 7일 평균) | 구독 +113\n시청 지속률 22.4% | 평균 시청 1분 58초\n경쟁사 평균 26.6K회 대비 내 7일 평균 +216%\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+  "video_count": 12,
+  "total_recent_video_count": 19,
   "focus_scope": "ai_priority_then_tech_fill",
-  "average_view_count": 18955.0,
-  "average_engagement_rate": 0.10641841650913034,
-  "average_like_count": 266.0,
-  "average_comment_count": 42.0,
-  "best_video_id": "7lk2xZLmxSU",
-  "best_topic": "Claude",
+  "average_view_count": 26576.0,
+  "average_engagement_rate": 0.022799593730268426,
+  "average_like_count": 315.0,
+  "average_comment_count": 106.0,
+  "best_video_id": "dyrNQV0F3Zs",
+  "best_topic": "agents",
   "summary_points": [
-    "가장 겹친 주제는 'Claude'이며 5개 영상, 평균 조회수 4.3K, 평균 참여율 3.8%입니다.",
-    "최고 실적 영상은 '카메라도 없는데.. 이 AI 안경을 매일 쓰는 이유 [이븐 리얼리티 G2 롱텀 사용기]'이며 문제 해결 훅과 사례 분석 포맷 조합이 강했습니다.",
-    "반복 노출된 툴은 Claude 7회, MCP 3회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
+    "가장 겹친 주제는 'agents'이며 4개 영상, 평균 조회수 34.8K, 평균 참여율 1.0%입니다.",
+    "최고 실적 영상은 'Personal Body Guard Robot - What could go wrong?'이며 문제 해결 훅과 사례 분석 포맷 조합이 강했습니다.",
+    "반복 노출된 툴은 Claude 2회, Notion 1회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
   ],
   "action_chips": [
-    "주제: Claude",
+    "주제: agents",
     "훅: 문제 해결",
     "포맷: 사례 분석",
-    "기준 채널: 테크몽 Techmong"
+    "기준 채널: Matt Wolfe"
   ],
   "title_suggestions": [
-    "Claude vs ChatGPT, 일반인이 직접 써보니 이게 달랐다",
-    "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
-    "AI 비서 대결: Claude가 진짜 강한 상황은 따로 있었다"
+    "agents 직접 실험 — 이게 진짜 되나?",
+    "agents vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
+    "agents 써봤더니... (기대 vs 현실 솔직 후기)"
   ],
   "recommendations": [
     {
-      "title": "Claude vs ChatGPT, 일반인이 직접 써보니 이게 달랐다",
-      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "Claude 바로 해결",
-      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
-      "source_video_id": "wS9rrwRImTg",
-      "source": "다들 클로드 잘못 쓰고 있었다, 카파시 방식 (LLM 카운슬)",
-      "my_channel_context": "내 7일 평균 124.0K회 · 지속률 24.7% / 경쟁사 대비 +554%"
+      "title": "agents 직접 실험 — 이게 진짜 되나?",
+      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
+      "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
+      "thumbnail_copy": "agents 바로 해결",
+      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
+      "source_video_id": "usdH6FJ-p3k",
+      "source": "지금 AI 쓰는 사람이 대단한 이유",
+      "my_channel_context": "내 7일 평균 84.0K회 · 지속률 23.8% / 경쟁사 대비 +216%"
     },
     {
-      "title": "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
-      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "Claude 바로 해결",
-      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
-      "source_video_id": "KZRUdQYU4dI",
-      "source": "Claude video generator turns your single prompt into a stylized movie",
-      "my_channel_context": "내 7일 평균 124.0K회 · 지속률 24.7% / 경쟁사 대비 +554%"
+      "title": "agents vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
+      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
+      "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
+      "thumbnail_copy": "agents 바로 해결",
+      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
+      "source_video_id": "b270jMdTTsY",
+      "source": "깃 없이도 코드 관리가 가능한 이유",
+      "my_channel_context": "내 7일 평균 84.0K회 · 지속률 23.8% / 경쟁사 대비 +216%"
     },
     {
-      "title": "AI 비서 대결: Claude가 진짜 강한 상황은 따로 있었다",
-      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "Claude 핵심 3가지",
-      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
-      "source_video_id": "B0HN9kLxf7A",
-      "source": "Claude Skill Turns AI Video gens into real playable Games",
-      "my_channel_context": "내 7일 평균 124.0K회 · 지속률 24.7% / 경쟁사 대비 +554%"
+      "title": "agents 써봤더니... (기대 vs 현실 솔직 후기)",
+      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
+      "angle": "큰 주제 하나를 대표 제목으로 세우고, 나머지 포인트는 보조 정보처럼 정리하는 압축형 포장이 좋습니다.",
+      "thumbnail_copy": "agents 핵심 3가지",
+      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
+      "source_video_id": "NMvg6LqFsMM",
+      "source": "35억명 인구가 쓰는 AI 비서... 얼마나 더 커질까?",
+      "my_channel_context": "내 7일 평균 84.0K회 · 지속률 23.8% / 경쟁사 대비 +216%"
     }
   ],
   "topic_clusters": [
     {
+      "label": "agents",
+      "count": 4,
+      "avg_view_count": 34786,
+      "avg_engagement_rate": 0.01005772619099867,
+      "avg_like_count": 258,
+      "avg_comment_count": 36,
+      "source_titles": [
+        "지금 AI 쓰는 사람이 대단한 이유",
+        "깃 없이도 코드 관리가 가능한 이유",
+        "35억명 인구가 쓰는 AI 비서... 얼마나 더 커질까?"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/usdH6FJ-p3k/hqdefault.jpg",
+      "representative_video_id": "usdH6FJ-p3k",
+      "representative_title": "지금 AI 쓰는 사람이 대단한 이유"
+    },
+    {
       "label": "Claude",
-      "count": 5,
-      "avg_view_count": 4345,
-      "avg_engagement_rate": 0.0384356635406467,
-      "avg_like_count": 101,
-      "avg_comment_count": 54,
+      "count": 2,
+      "avg_view_count": 3299,
+      "avg_engagement_rate": 0.013064814588945381,
+      "avg_like_count": 34,
+      "avg_comment_count": 2,
       "source_titles": [
-        "다들 클로드 잘못 쓰고 있었다, 카파시 방식 (LLM 카운슬)",
-        "Claude video generator turns your single prompt into a stylized movie",
-        "Claude Skill Turns AI Video gens into real playable Games"
+        "AI 영상계 미친 신모델 클링 4.0이 등장했습니다.. ㄷㄷ",
+        "Claude video style database for free"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/wS9rrwRImTg/hqdefault.jpg",
-      "representative_video_id": "wS9rrwRImTg",
-      "representative_title": "다들 클로드 잘못 쓰고 있었다, 카파시 방식 (LLM 카운슬)"
+      "thumbnail_url": "https://i.ytimg.com/vi/NNkQP6pWAx4/hqdefault.jpg",
+      "representative_video_id": "NNkQP6pWAx4",
+      "representative_title": "AI 영상계 미친 신모델 클링 4.0이 등장했습니다.. ㄷㄷ"
     },
     {
-      "label": "카메라도",
+      "label": "monetization",
       "count": 1,
-      "avg_view_count": 101021,
-      "avg_engagement_rate": 0.013056691183021352,
-      "avg_like_count": 1100,
-      "avg_comment_count": 219,
+      "avg_view_count": 100607,
+      "avg_engagement_rate": 0.021777808701183815,
+      "avg_like_count": 1762,
+      "avg_comment_count": 429,
       "source_titles": [
-        "카메라도 없는데.. 이 AI 안경을 매일 쓰는 이유 [이븐 리얼리티 G2 롱텀 사용기]"
+        "Personal Body Guard Robot - What could go wrong?"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/7lk2xZLmxSU/hqdefault.jpg",
-      "representative_video_id": "7lk2xZLmxSU",
-      "representative_title": "카메라도 없는데.. 이 AI 안경을 매일 쓰는 이유 [이븐 리얼리티 G2 롱텀 사용기]"
+      "thumbnail_url": "https://i.ytimg.com/vi/dyrNQV0F3Zs/hqdefault.jpg",
+      "representative_video_id": "dyrNQV0F3Zs",
+      "representative_title": "Personal Body Guard Robot - What could go wrong?"
     },
     {
-      "label": "아이폰",
+      "label": "전세계가",
       "count": 1,
-      "avg_view_count": 90153,
-      "avg_engagement_rate": 0.016904595520947724,
-      "avg_like_count": 1320,
-      "avg_comment_count": 204,
+      "avg_view_count": 35299,
+      "avg_engagement_rate": 0.010850165727074422,
+      "avg_like_count": 357,
+      "avg_comment_count": 26,
       "source_titles": [
-        "아이폰 18프로 쓰다 듀오 카메라 써봤는데 ㅋㅋㅋ"
+        "🚨 전세계가 난리난 PHP 보안사고"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/AJZIx1gQ9DA/hqdefault.jpg",
-      "representative_video_id": "AJZIx1gQ9DA",
-      "representative_title": "아이폰 18프로 쓰다 듀오 카메라 써봤는데 ㅋㅋㅋ"
+      "thumbnail_url": "https://i.ytimg.com/vi/6BNrU-nXJSA/hqdefault.jpg",
+      "representative_video_id": "6BNrU-nXJSA",
+      "representative_title": "🚨 전세계가 난리난 PHP 보안사고"
     },
     {
-      "label": "GPT를",
+      "label": "구글이",
       "count": 1,
-      "avg_view_count": 51657,
-      "avg_engagement_rate": 0.008111194997773777,
-      "avg_like_count": 397,
-      "avg_comment_count": 22,
+      "avg_view_count": 22506,
+      "avg_engagement_rate": 0.0075535412778814535,
+      "avg_like_count": 157,
+      "avg_comment_count": 13,
       "source_titles": [
-        "GPT를 고장내는 가장 단순한 방법"
+        "구글이 단백질에 몰래 새겨 넣은 것"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/HaI6tK-kQM4/hqdefault.jpg",
-      "representative_video_id": "HaI6tK-kQM4",
-      "representative_title": "GPT를 고장내는 가장 단순한 방법"
+      "thumbnail_url": "https://i.ytimg.com/vi/cBtB1Qr4vVA/hqdefault.jpg",
+      "representative_video_id": "cBtB1Qr4vVA",
+      "representative_title": "구글이 단백질에 몰래 새겨 넣은 것"
     },
     {
-      "label": "OpenAI",
+      "label": "Notion",
       "count": 1,
-      "avg_view_count": 44216,
-      "avg_engagement_rate": 0.030803329111633797,
-      "avg_like_count": 1267,
-      "avg_comment_count": 95,
+      "avg_view_count": 10640,
+      "avg_engagement_rate": 0.07490601503759399,
+      "avg_like_count": 197,
+      "avg_comment_count": 600,
       "source_titles": [
-        "AI Breakthroughs Everyone Missed"
+        "클로드가 모션그래픽 업계를 집어삼키는 중 (한글 프롬프트 100개 무료)"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/umGZrkyTRtw/hqdefault.jpg",
-      "representative_video_id": "umGZrkyTRtw",
-      "representative_title": "AI Breakthroughs Everyone Missed"
+      "thumbnail_url": "https://i.ytimg.com/vi/0ZwwAOh7pgs/hqdefault.jpg",
+      "representative_video_id": "0ZwwAOh7pgs",
+      "representative_title": "클로드가 모션그래픽 업계를 집어삼키는 중 (한글 프롬프트 100개 무료)"
     },
     {
-      "label": "MCP",
+      "label": "AI투자",
       "count": 1,
-      "avg_view_count": 27085,
-      "avg_engagement_rate": 0.008491785120915635,
-      "avg_like_count": 181,
-      "avg_comment_count": 49,
+      "avg_view_count": 2994,
+      "avg_engagement_rate": 0.0841683366733467,
+      "avg_like_count": 200,
+      "avg_comment_count": 52,
       "source_titles": [
-        "AI 에이전트, 한국에선 쇼핑 못한다?"
+        "폭락? 수십번도 더 겪은 일입니다. 다 지나갑니다."
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/WIMzDIZvlCQ/hqdefault.jpg",
-      "representative_video_id": "WIMzDIZvlCQ",
-      "representative_title": "AI 에이전트, 한국에선 쇼핑 못한다?"
+      "thumbnail_url": "https://i.ytimg.com/vi/tFy2Ik-bIYU/hqdefault.jpg",
+      "representative_video_id": "tFy2Ik-bIYU",
+      "representative_title": "폭락? 수십번도 더 겪은 일입니다. 다 지나갑니다."
     },
     {
-      "label": "ChatGPT",
+      "label": "목차가",
       "count": 1,
-      "avg_view_count": 19868,
-      "avg_engagement_rate": 0.02073686329776525,
-      "avg_like_count": 387,
-      "avg_comment_count": 25,
+      "avg_view_count": 1128,
+      "avg_engagement_rate": 0.007978723404255319,
+      "avg_like_count": 9,
+      "avg_comment_count": 0,
       "source_titles": [
-        "Copy This Strategy to 10X Your Business"
+        "목차가 200개를 넘으면 LLM 위키가 흔들립니다"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/9Cf416w4JJI/hqdefault.jpg",
-      "representative_video_id": "9Cf416w4JJI",
-      "representative_title": "Copy This Strategy to 10X Your Business"
-    },
-    {
-      "label": "AI반대하던",
-      "count": 1,
-      "avg_view_count": 13291,
-      "avg_engagement_rate": 0.008426754946956588,
-      "avg_like_count": 102,
-      "avg_comment_count": 10,
-      "source_titles": [
-        "AI반대하던 사람들을 한순간에 유혹해버린 국산 팬픽 ㄷㄷ"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/HPuTslyKyTY/hqdefault.jpg",
-      "representative_video_id": "HPuTslyKyTY",
-      "representative_title": "AI반대하던 사람들을 한순간에 유혹해버린 국산 팬픽 ㄷㄷ"
+      "thumbnail_url": "https://i.ytimg.com/vi/XlJ8DGNvtKI/hqdefault.jpg",
+      "representative_video_id": "XlJ8DGNvtKI",
+      "representative_title": "목차가 200개를 넘으면 LLM 위키가 흔들립니다"
     }
   ],
   "video_highlights": [
     {
-      "video_id": "7lk2xZLmxSU",
-      "channel_name": "테크몽 Techmong",
-      "title": "카메라도 없는데.. 이 AI 안경을 매일 쓰는 이유 [이븐 리얼리티 G2 롱텀 사용기]",
-      "thumbnail_url": "https://i.ytimg.com/vi/7lk2xZLmxSU/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=7lk2xZLmxSU",
-      "published_at": "2026-10-21T11:00:02Z",
-      "view_count": 101021,
-      "like_count": 1100,
-      "comment_count": 219,
-      "engagement_rate": 0.013056691183021352,
-      "topic_cluster": "카메라도",
-      "summary": "근데 지금은요.이 이븐 리얼리티가 한국 정발이 되었고요. 그래서 제가 최근에 그 대화 지원 기능도 막 써 보고 얘를 좀 실용을 해 보다 보니까 제가 이거를 무조건…",
-      "comment_signal": "이븐 리얼리티 사려고 굳게 마음 먹었다가 가격보고 바로 손 내려놨습니다 ㅋㅋㅋ 이븐 리얼리티의 최대의 적은 가격입니다 ㅋㅋㅋ",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "AJZIx1gQ9DA",
-      "channel_name": "주연 ZUYONI",
-      "title": "아이폰 18프로 쓰다 듀오 카메라 써봤는데 ㅋㅋㅋ",
-      "thumbnail_url": "https://i.ytimg.com/vi/AJZIx1gQ9DA/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=AJZIx1gQ9DA",
-      "published_at": "2026-10-21T15:51:30Z",
-      "view_count": 90153,
-      "like_count": 1320,
-      "comment_count": 204,
-      "engagement_rate": 0.016904595520947724,
-      "topic_cluster": "아이폰",
-      "summary": "아이폰 듀오 언박싱에서 써 보고 있는데 솔직히 카메라 두 개잖아요. 프로 쓰다가 쓰면은 아쉬울 줄 알았거든요. 일단 요런 버튼이 있어 가지고 이거 눌러주면 듀리뷰…",
-      "comment_signal": "야근이 이렇게 해롭다....",
-      "hook_type": "실험"
-    },
-    {
-      "video_id": "HaI6tK-kQM4",
-      "channel_name": "조코딩 JoCoding",
-      "title": "GPT를 고장내는 가장 단순한 방법",
-      "thumbnail_url": "https://i.ytimg.com/vi/HaI6tK-kQM4/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=HaI6tK-kQM4",
-      "published_at": "2026-10-21T10:00:14Z",
-      "view_count": 51657,
-      "like_count": 397,
-      "comment_count": 22,
-      "engagement_rate": 0.008111194997773777,
-      "topic_cluster": "GPT를",
-      "summary": "AI가 학습된 데이터 내의 공격 문장을 명령어로 인식해 발생하는 오류 현상을 통해, AI에게 읽는 글과 명령이 동일한 데이터로 취급되는 원리를 설명한다.",
-      "comment_signal": "같은 말 반복해서 빡친거네",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "umGZrkyTRtw",
+      "video_id": "dyrNQV0F3Zs",
       "channel_name": "Matt Wolfe",
-      "title": "AI Breakthroughs Everyone Missed",
-      "thumbnail_url": "https://i.ytimg.com/vi/umGZrkyTRtw/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=umGZrkyTRtw",
-      "published_at": "2026-10-21T17:45:26Z",
-      "view_count": 44216,
-      "like_count": 1267,
-      "comment_count": 95,
-      "engagement_rate": 0.030803329111633797,
-      "topic_cluster": "OpenAI",
-      "summary": "카메라 움직임에 따른 장면 재구성 도구, 게임 전용 모델 등 주목받지 못했던 독창적인 AI 연구 프로젝트와 도구들을 소개한다.",
-      "comment_signal": "I definitely appreciate this more under the radar, non LLM video every so often 🎉",
+      "title": "Personal Body Guard Robot - What could go wrong?",
+      "thumbnail_url": "https://i.ytimg.com/vi/dyrNQV0F3Zs/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=dyrNQV0F3Zs",
+      "published_at": "2026-10-22T03:06:41Z",
+      "view_count": 100607,
+      "like_count": 1762,
+      "comment_count": 429,
+      "engagement_rate": 0.021777808701183815,
+      "topic_cluster": "monetization",
+      "summary": "개인 방어를 목적으로 개발된 로봇이 실시간으로 위험을 감지하고 대응하는 기술을 시연하며 미래 기술의 가능성을 보여준다.",
+      "comment_signal": "That child got hit by the robot harder that the car would have hit him 😂",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "WIMzDIZvlCQ",
+      "video_id": "usdH6FJ-p3k",
       "channel_name": "조코딩 JoCoding",
-      "title": "AI 에이전트, 한국에선 쇼핑 못한다?",
-      "thumbnail_url": "https://i.ytimg.com/vi/WIMzDIZvlCQ/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=WIMzDIZvlCQ",
-      "published_at": "2026-10-21T13:30:19Z",
-      "view_count": 27085,
-      "like_count": 181,
-      "comment_count": 49,
-      "engagement_rate": 0.008491785120915635,
-      "topic_cluster": "MCP",
-      "summary": "네이버, 카카오, 쿠팡 등 국내 주요 플랫폼이 AI 에이전트의 쇼핑 서비스 접근을 원천 차단함에 따라 국내에서 AI 기반 쇼핑 기능 사용이 제한되고 있는 현상을 다…",
-      "comment_signal": "아 ㅋㅋㅋㅋㅋㅋ 다시 말하면 ai호환 쇼핑플랫폼 개발은 컨셉만 잘 잡으면 블루오션이란거네 ㅋㅋㅋㅋㅋ",
+      "title": "지금 AI 쓰는 사람이 대단한 이유",
+      "thumbnail_url": "https://i.ytimg.com/vi/usdH6FJ-p3k/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=usdH6FJ-p3k",
+      "published_at": "2026-10-22T10:00:31Z",
+      "view_count": 94839,
+      "like_count": 572,
+      "comment_count": 117,
+      "engagement_rate": 0.007264943746770843,
+      "topic_cluster": "agents",
+      "summary": "AI 에이전트 활용 능력이 단순한 구독을 넘어 생산성과 업무 효율에서 큰 격차를 만들어내고 있다.",
+      "comment_signal": "아직도 핵심을 찔렸어 드립이 계속 돌아다니는거보면 대다수 무료가 많을거임",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "6BNrU-nXJSA",
+      "channel_name": "조코딩 JoCoding",
+      "title": "🚨 전세계가 난리난 PHP 보안사고",
+      "thumbnail_url": "https://i.ytimg.com/vi/6BNrU-nXJSA/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=6BNrU-nXJSA",
+      "published_at": "2026-10-22T07:30:06Z",
+      "view_count": 35299,
+      "like_count": 357,
+      "comment_count": 26,
+      "engagement_rate": 0.010850165727074422,
+      "topic_cluster": "전세계가",
+      "summary": "PHP 서버의 메모리 처리 방식에서 기인한 14년 된 보안 취약점이 발견되어 대규모 피해를 야기했으므로 최신 버전 업데이트가 필수적이다.",
+      "comment_signal": "그렇군. 완벽히 이해했어.",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "cBtB1Qr4vVA",
+      "channel_name": "조코딩 JoCoding",
+      "title": "구글이 단백질에 몰래 새겨 넣은 것",
+      "thumbnail_url": "https://i.ytimg.com/vi/cBtB1Qr4vVA/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=cBtB1Qr4vVA",
+      "published_at": "2026-10-22T09:00:00Z",
+      "view_count": 22506,
+      "like_count": 157,
+      "comment_count": 13,
+      "engagement_rate": 0.0075535412778814535,
+      "topic_cluster": "구글이",
+      "summary": "구글이 인공 단백질 생성 시 생물학적 기능을 저해하지 않는 수준에서 식별 가능한 특정 패턴을 삽입하는 기술을 적용하고 있다.",
+      "comment_signal": "??? : 아버지가 구글이시군요.",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "b270jMdTTsY",
+      "channel_name": "조코딩 JoCoding",
+      "title": "깃 없이도 코드 관리가 가능한 이유",
+      "thumbnail_url": "https://i.ytimg.com/vi/b270jMdTTsY/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=b270jMdTTsY",
+      "published_at": "2026-10-22T11:00:04Z",
+      "view_count": 18498,
+      "like_count": 202,
+      "comment_count": 12,
+      "engagement_rate": 0.011568818250621688,
+      "topic_cluster": "agents",
+      "summary": "방대한 코드 관리를 위해 파일 내용을 기반으로 지문을 생성하여 서버 간 정합성을 유지하고 캐시 적중률을 최적화하는 새로운 서버 시스템 방식을 설명한다.",
+      "comment_signal": "앤트로픽이 깃을 버렸다는 것까지는 완벽히 이해했습니다.",
       "hook_type": "문제 해결"
     }
   ]
