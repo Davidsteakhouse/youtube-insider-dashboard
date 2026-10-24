@@ -1,263 +1,267 @@
 {
-  "digest_date": "2026-10-23",
-  "generated_at": "2026-10-23T01:27:41+00:00",
-  "summary": "최근 24시간 영상 12개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'agents'입니다. 특히 'Personal Body Guard Robot - What could go wrong?'는 조회수 100.6K, 참여율 2.2%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "'agents' 주제가 4개 영상으로 가장 많이 다뤄졌습니다. 일반인 관점 직접 실험 or VS 비교 각도로 차별화할 영역이 있습니다.\n[내 채널] 7일 평균 84.0K회 · 지속률 23.8% / 경쟁사 평균 26.6K회 (격차 +216%)",
-  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 10/23\n\n📊 총 10개 | AI 핵심 10 · 인접 AI 0 · 일반 테크 보충 0\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 10 · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [Matt Wolfe] 100.6K뷰 · 참여율 2.2%\n   Personal Body Guard Robot - What could go wrong?\n   ↳ 개인 방어를 목적으로 개발된 로봇이 실시간으로 위험을 감지하고 대응하는 기술을 시연하며 미래 기술의 가능성을 보여준다.\n   https://youtu.be/dyrNQV0F3Zs\n\n2. AI 핵심 · [조코딩 JoCoding] 94.8K뷰 · 참여율 0.7%\n   지금 AI 쓰는 사람이 대단한 이유\n   ↳ AI 에이전트 활용 능력이 단순한 구독을 넘어 생산성과 업무 효율에서 큰 격차를 만들어내고 있다.\n   https://youtu.be/usdH6FJ-p3k\n\n3. AI 핵심 · [조코딩 JoCoding] 35.3K뷰 · 참여율 1.1%\n   🚨 전세계가 난리난 PHP 보안사고\n   ↳ PHP 서버의 메모리 처리 방식에서 기인한 14년 된 보안 취약점이 발견되어 대규모 피해를 야기했으므로 최신 버전 업데이트가 필수적이다.\n   https://youtu.be/6BNrU-nXJSA\n\n4. AI 핵심 · [조코딩 JoCoding] 22.5K뷰 · 참여율 0.8%\n   구글이 단백질에 몰래 새겨 넣은 것\n   ↳ 구글이 인공 단백질 생성 시 생물학적 기능을 저해하지 않는 수준에서 식별 가능한 특정 패턴을 삽입하는 기술을 적용하고 있다.\n   https://youtu.be/cBtB1Qr4vVA\n\n5. AI 핵심 · [조코딩 JoCoding] 18.5K뷰 · 참여율 1.2%\n   깃 없이도 코드 관리가 가능한 이유\n   ↳ 방대한 코드 관리를 위해 파일 내용을 기반으로 지문을 생성하여 서버 간 정합성을 유지하고 캐시 적중률을 최적화하는 새로운 서버 시스템 방식을 설명한다.\n   https://youtu.be/b270jMdTTsY\n\n6. AI 핵심 · [조코딩 JoCoding] 12.2K뷰 · 참여율 1.3%\n   신입이 취업 못 하는 진짜 이유는 따로 있다??\n   ↳ 취업난은 일자리 자체의 문제보다 교육 시스템의 지연이 원인이며, AI 에이전트와 도구를 능숙하게 다루는 실무 역량이 채용의 핵심 요소가 되었다.\n   https://youtu.be/JqWXVw8hB0w\n\n7. AI 핵심 · [빌더 조쉬 Builder Josh] 10.6K뷰 · 참여율 7.5%\n   클로드가 모션그래픽 업계를 집어삼키는 중 (한글 프롬프트 100개 무료)\n   ↳ 클로드(Claude)를 활용해 전문가 수준의 모션 그래픽을 생성할 수 있는 한글 프롬프트 100개 세트를 통해 브랜드별 맞춤 영상 제작 효율을 높이는 방법을 제시한다.\n   https://youtu.be/0ZwwAOh7pgs\n\n8. AI 핵심 · [성공지식백과] 5.2K뷰 · 참여율 0.9%\n   AI 영상계 미친 신모델 클링 4.0이 등장했습니다.. ㄷㄷ\n   ↳ 최대 30초 길이의 영상 생성을 지원하는 클링 4.0을 활용하여 첫·중간·끝 프레임과 레퍼런스 이미지를 통해 자연스러운 영상을 제작하는 과정을 시연한다.\n   https://youtu.be/NNkQP6pWAx4\n\n9. AI 핵심 · [Futurepedia] 1.4K뷰 · 참여율 1.7%\n   Claude video style database for free\n   ↳ 클로드를 이용해 86가지의 다양한 영상 스타일 데이터베이스와 사운드 효과 라이브러리를 직접 구축하여 무료로 활용할 수 있는 방법을 공유한다.\n   https://youtu.be/xr024WjmJUY\n\n10. AI 핵심 · [빌더 조쉬 Builder Josh] 1.1K뷰 · 참여율 0.8%\n   목차가 200개를 넘으면 LLM 위키가 흔들립니다\n   ↳ LLM을 활용한 대규모 위키 시스템에서 목차 관리 시 데이터베이스를 병행 사용해야 데이터 정합성과 트랜잭션 효율성을 확보할 수 있다.\n   https://youtu.be/XlJ8DGNvtKI\n\n📈 스마트대디 어제 실적\n조회수 53.1K (↓37% vs 7일 평균) | 구독 +113\n시청 지속률 22.4% | 평균 시청 1분 58초\n경쟁사 평균 26.6K회 대비 내 7일 평균 +216%\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
-  "video_count": 12,
-  "total_recent_video_count": 19,
+  "digest_date": "2026-10-24",
+  "generated_at": "2026-10-24T01:32:20+00:00",
+  "summary": "최근 24시간 영상 21개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'Claude'입니다. 특히 'TS말포이 몰입을 10000% 더 해주는 뮤비 | Say You Hate Me'는 조회수 223.4K, 참여율 2.2%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "'Claude' 주제가 5개 영상으로 가장 많이 다뤄졌습니다. Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n[내 채널] 7일 평균 68.0K회 · 지속률 24.0% / 경쟁사 평균 26.8K회 (격차 +154%)",
+  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 10/24\n\n📊 총 10개 | AI 핵심 10 · 인접 AI 0 · 일반 테크 보충 0\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 10 · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [Fantasoner(판타소너)] 223.4K뷰 · 참여율 2.2%\n   TS말포이 몰입을 10000% 더 해주는 뮤비 | Say You Hate Me\n   ↳ AI를 활용해 해리포터의 말포이를 주인공으로 재해석한 팬 메이드 뮤직비디오로, 애절하고 강렬한 서사를 영상으로 구현했다.\n   https://youtu.be/kxlbn5ydE28\n\n2. AI 핵심 · [조코딩 JoCoding] 77.7K뷰 · 참여율 0.8%\n   스타트업을 또 잡아먹어버린 오픈AI\n   ↳ 오픈AI가 챗GPT 내에서 팀 미팅 녹음, 변사, 요약 기능을 지원하며 스타트업들이 제공하던 기존 서비스를 내재화했다.\n   https://youtu.be/wp-hrUFdMiU\n\n3. AI 핵심 · [조코딩 JoCoding] 69.6K뷰 · 참여율 0.7%\n   클로드가 현재 개이득인 이유\n   ↳ 최근 AI 모델의 성능과 효율성 변화에 따라 작업 목적에 따라 챗GPT보다 클로드를 구독하는 것이 더 경제적이고 효율적일 수 있다.\n   https://youtu.be/kPkB0_RphBs\n\n4. AI 핵심 · [tef] 50.5K뷰 · 참여율 2.1%\n   Building a Viral Roblox Game with AI [FULL PROCESS]\n   ↳ AI 도구인 ForgeGUI를 활용해 로블록스 게임 'Untitled Bandit Beater'를 기획부터 개발, 디자인, 테스트까지 전 과정을 자동화하여 출시했다.\n   https://youtu.be/OfObWnrucRY\n\n5. AI 핵심 · [Matt Wolfe] 41.5K뷰 · 참여율 2.8%\n   AI News: 24 Things You Need To Know This Week\n   ↳ 클로드 듀엣 출시, 사이버 보안 위협 증가 등 최신 AI 뉴스 24가지를 요약하며 보안 이슈와 새로운 AI 모델의 동향을 전했다.\n   https://youtu.be/TVRCcMlvR10\n\n6. AI 핵심 · [조코딩 JoCoding] 25.7K뷰 · 참여율 1.3%\n   512MB로 도시 하나를 통째로 돌린 방법\n   ↳ 512MB 메모리의 환경에서도 GTA 5와 같은 대규모 도시를 구동할 수 있었던 이유는 화면에 보이는 영역만 실시간으로 렌더링하고 나머지는 생략하는 데이터 최적화 기법 덕분이다.\n   https://youtu.be/Mm5gAi3YDFY\n\n7. AI 핵심 · [조코딩 JoCoding] 18.3K뷰 · 참여율 0.5%\n   [LIVE] 어떤 AI가 가장 투자를 잘할까? | 6개 AI 모의 투자 라이브 실험\n   ↳ 6개 AI 모델을 활용해 모의 투자 프로그램을 구현하고, NH투자증권 데이터를 연동하여 2주간 각 모델의 실전 투자 실력을 검증하는 라이브 실험을 진행한다.\n   https://youtu.be/FiGKu8pdkW0\n\n8. AI 핵심 · [조코딩 JoCoding] 14.0K뷰 · 참여율 1.3%\n   'ㅎㅏㄴㄱㅡㄹ.txt'의 정체\n   ↳ 맥과 윈도우 환경에서 파일 이름의 유니코드 처리 방식 차이로 인해 한글 파일이 깨져 보이는 현상의 원인과 해결책을 설명한다.\n   https://youtu.be/pdiiGVBF0ks\n\n9. AI 핵심 · [빌더 조쉬 Builder Josh] 12.5K뷰 · 참여율 3.7%\n   블렌더 한 번도 안 열고 클로드로 만든 3D 애니메이션 (프롬프트 무료)\n   ↳ 블렌더 프로그램을 직접 실행하지 않고 클로드에게 파이썬 코드를 생성하도록 지시하여 3D 애니메이션을 완성하는 방법을 소개했다.\n   https://youtu.be/CvrwaGk6jxc\n\n10. AI 핵심 · [The AI Advantage] 9.0K뷰 · 참여율 2.0%\n   My AI Agent Picks: What I’d Use and Why\n   ↳ 뮤즈, 그록 봇, 닷츠 등 다양한 AI 에이전트의 특성을 비교하고, 업무 효율을 극대화하기 위해 이를 어떻게 적절히 조합해 사용할지 제안한다.\n   https://youtu.be/Bd8-geZPwI4\n\n📈 스마트대디 어제 실적\n조회수 70.0K (↑3% vs 7일 평균) | 구독 +259\n시청 지속률 24.6% | 평균 시청 2분 20초\n경쟁사 평균 26.8K회 대비 내 7일 평균 +154%\n\n💡 VS 각도: Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+  "video_count": 21,
+  "total_recent_video_count": 30,
   "focus_scope": "ai_priority_then_tech_fill",
-  "average_view_count": 26576.0,
-  "average_engagement_rate": 0.022799593730268426,
-  "average_like_count": 315.0,
-  "average_comment_count": 106.0,
-  "best_video_id": "dyrNQV0F3Zs",
-  "best_topic": "agents",
+  "average_view_count": 26798.0,
+  "average_engagement_rate": 0.02415415936866521,
+  "average_like_count": 416.0,
+  "average_comment_count": 60.0,
+  "best_video_id": "kxlbn5ydE28",
+  "best_topic": "Claude",
   "summary_points": [
-    "가장 겹친 주제는 'agents'이며 4개 영상, 평균 조회수 34.8K, 평균 참여율 1.0%입니다.",
-    "최고 실적 영상은 'Personal Body Guard Robot - What could go wrong?'이며 문제 해결 훅과 사례 분석 포맷 조합이 강했습니다.",
-    "반복 노출된 툴은 Claude 2회, Notion 1회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
+    "가장 겹친 주제는 'Claude'이며 5개 영상, 평균 조회수 14.4K, 평균 참여율 2.3%입니다.",
+    "최고 실적 영상은 'TS말포이 몰입을 10000% 더 해주는 뮤비 | Say You Hate Me'이며 문제 해결 훅과 뉴스 분석 포맷 조합이 강했습니다.",
+    "반복 노출된 툴은 Claude 8회, ChatGPT 4회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
   ],
   "action_chips": [
-    "주제: agents",
+    "주제: Claude",
     "훅: 문제 해결",
-    "포맷: 사례 분석",
-    "기준 채널: Matt Wolfe"
+    "포맷: 뉴스 분석",
+    "기준 채널: Fantasoner(판타소너)"
   ],
   "title_suggestions": [
-    "agents 직접 실험 — 이게 진짜 되나?",
-    "agents vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
-    "agents 써봤더니... (기대 vs 현실 솔직 후기)"
+    "Claude vs ChatGPT, 일반인이 직접 써보니 이게 달랐다",
+    "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
+    "AI 비서 대결: Claude가 진짜 강한 상황은 따로 있었다"
   ],
   "recommendations": [
     {
-      "title": "agents 직접 실험 — 이게 진짜 되나?",
-      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
-      "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
-      "thumbnail_copy": "agents 바로 해결",
-      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
-      "source_video_id": "usdH6FJ-p3k",
-      "source": "지금 AI 쓰는 사람이 대단한 이유",
-      "my_channel_context": "내 7일 평균 84.0K회 · 지속률 23.8% / 경쟁사 대비 +216%"
+      "title": "Claude vs ChatGPT, 일반인이 직접 써보니 이게 달랐다",
+      "hook": "첫 15초에 '이번 업데이트에서 진짜 써볼 만한 것만 추려준다'는 약속을 분명하게 주는 구조",
+      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
+      "thumbnail_copy": "Claude 핵심 3가지",
+      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
+      "source_video_id": "OfObWnrucRY",
+      "source": "Building a Viral Roblox Game with AI [FULL PROCESS]",
+      "my_channel_context": "내 7일 평균 68.0K회 · 지속률 24.0% / 경쟁사 대비 +154%"
     },
     {
-      "title": "agents vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
-      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
-      "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
-      "thumbnail_copy": "agents 바로 해결",
-      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
-      "source_video_id": "b270jMdTTsY",
-      "source": "깃 없이도 코드 관리가 가능한 이유",
-      "my_channel_context": "내 7일 평균 84.0K회 · 지속률 23.8% / 경쟁사 대비 +216%"
+      "title": "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
+      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
+      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
+      "thumbnail_copy": "Claude 핵심 3가지",
+      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
+      "source_video_id": "FiGKu8pdkW0",
+      "source": "[LIVE] 어떤 AI가 가장 투자를 잘할까? | 6개 AI 모의 투자 라이브 실험",
+      "my_channel_context": "내 7일 평균 68.0K회 · 지속률 24.0% / 경쟁사 대비 +154%"
     },
     {
-      "title": "agents 써봤더니... (기대 vs 현실 솔직 후기)",
-      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
-      "angle": "큰 주제 하나를 대표 제목으로 세우고, 나머지 포인트는 보조 정보처럼 정리하는 압축형 포장이 좋습니다.",
-      "thumbnail_copy": "agents 핵심 3가지",
-      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
-      "source_video_id": "NMvg6LqFsMM",
-      "source": "35억명 인구가 쓰는 AI 비서... 얼마나 더 커질까?",
-      "my_channel_context": "내 7일 평균 84.0K회 · 지속률 23.8% / 경쟁사 대비 +216%"
+      "title": "AI 비서 대결: Claude가 진짜 강한 상황은 따로 있었다",
+      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
+      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
+      "thumbnail_copy": "Claude 바로 해결",
+      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
+      "source_video_id": "at1DSU0dZkE",
+      "source": "The Best AI Tool for Research?",
+      "my_channel_context": "내 7일 평균 68.0K회 · 지속률 24.0% / 경쟁사 대비 +154%"
     }
   ],
   "topic_clusters": [
     {
-      "label": "agents",
-      "count": 4,
-      "avg_view_count": 34786,
-      "avg_engagement_rate": 0.01005772619099867,
-      "avg_like_count": 258,
-      "avg_comment_count": 36,
-      "source_titles": [
-        "지금 AI 쓰는 사람이 대단한 이유",
-        "깃 없이도 코드 관리가 가능한 이유",
-        "35억명 인구가 쓰는 AI 비서... 얼마나 더 커질까?"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/usdH6FJ-p3k/hqdefault.jpg",
-      "representative_video_id": "usdH6FJ-p3k",
-      "representative_title": "지금 AI 쓰는 사람이 대단한 이유"
-    },
-    {
       "label": "Claude",
-      "count": 2,
-      "avg_view_count": 3299,
-      "avg_engagement_rate": 0.013064814588945381,
-      "avg_like_count": 34,
-      "avg_comment_count": 2,
-      "source_titles": [
-        "AI 영상계 미친 신모델 클링 4.0이 등장했습니다.. ㄷㄷ",
-        "Claude video style database for free"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/NNkQP6pWAx4/hqdefault.jpg",
-      "representative_video_id": "NNkQP6pWAx4",
-      "representative_title": "AI 영상계 미친 신모델 클링 4.0이 등장했습니다.. ㄷㄷ"
-    },
-    {
-      "label": "monetization",
-      "count": 1,
-      "avg_view_count": 100607,
-      "avg_engagement_rate": 0.021777808701183815,
-      "avg_like_count": 1762,
-      "avg_comment_count": 429,
-      "source_titles": [
-        "Personal Body Guard Robot - What could go wrong?"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/dyrNQV0F3Zs/hqdefault.jpg",
-      "representative_video_id": "dyrNQV0F3Zs",
-      "representative_title": "Personal Body Guard Robot - What could go wrong?"
-    },
-    {
-      "label": "전세계가",
-      "count": 1,
-      "avg_view_count": 35299,
-      "avg_engagement_rate": 0.010850165727074422,
-      "avg_like_count": 357,
+      "count": 5,
+      "avg_view_count": 14426,
+      "avg_engagement_rate": 0.022594024737073382,
+      "avg_like_count": 222,
       "avg_comment_count": 26,
       "source_titles": [
-        "🚨 전세계가 난리난 PHP 보안사고"
+        "Building a Viral Roblox Game with AI [FULL PROCESS]",
+        "[LIVE] 어떤 AI가 가장 투자를 잘할까? | 6개 AI 모의 투자 라이브 실험",
+        "The Best AI Tool for Research?"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/6BNrU-nXJSA/hqdefault.jpg",
-      "representative_video_id": "6BNrU-nXJSA",
-      "representative_title": "🚨 전세계가 난리난 PHP 보안사고"
+      "thumbnail_url": "https://i.ytimg.com/vi/OfObWnrucRY/hqdefault.jpg",
+      "representative_video_id": "OfObWnrucRY",
+      "representative_title": "Building a Viral Roblox Game with AI [FULL PROCESS]"
     },
     {
-      "label": "구글이",
-      "count": 1,
-      "avg_view_count": 22506,
-      "avg_engagement_rate": 0.0075535412778814535,
-      "avg_like_count": 157,
-      "avg_comment_count": 13,
+      "label": "agents",
+      "count": 4,
+      "avg_view_count": 19656,
+      "avg_engagement_rate": 0.013975012284943612,
+      "avg_like_count": 114,
+      "avg_comment_count": 23,
       "source_titles": [
-        "구글이 단백질에 몰래 새겨 넣은 것"
+        "클로드가 현재 개이득인 이유",
+        "내가 자는 동안에도 일하는 AI 직원, 직접 만들어봤습니다.",
+        "This Is What Everyone Uses AI Agents For"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/cBtB1Qr4vVA/hqdefault.jpg",
-      "representative_video_id": "cBtB1Qr4vVA",
-      "representative_title": "구글이 단백질에 몰래 새겨 넣은 것"
+      "thumbnail_url": "https://i.ytimg.com/vi/kPkB0_RphBs/hqdefault.jpg",
+      "representative_video_id": "kPkB0_RphBs",
+      "representative_title": "클로드가 현재 개이득인 이유"
+    },
+    {
+      "label": "ChatGPT",
+      "count": 2,
+      "avg_view_count": 21106,
+      "avg_engagement_rate": 0.024870722256425403,
+      "avg_like_count": 534,
+      "avg_comment_count": 57,
+      "source_titles": [
+        "AI News: 24 Things You Need To Know This Week",
+        "MASTER 97% of Grok Bot in 19 Min - How To Use Grok Bot (For Beginners)"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/TVRCcMlvR10/hqdefault.jpg",
+      "representative_video_id": "TVRCcMlvR10",
+      "representative_title": "AI News: 24 Things You Need To Know This Week"
     },
     {
       "label": "Notion",
-      "count": 1,
-      "avg_view_count": 10640,
-      "avg_engagement_rate": 0.07490601503759399,
-      "avg_like_count": 197,
-      "avg_comment_count": 600,
+      "count": 2,
+      "avg_view_count": 6674,
+      "avg_engagement_rate": 0.02918191146855862,
+      "avg_like_count": 86,
+      "avg_comment_count": 156,
       "source_titles": [
-        "클로드가 모션그래픽 업계를 집어삼키는 중 (한글 프롬프트 100개 무료)"
+        "블렌더 한 번도 안 열고 클로드로 만든 3D 애니메이션 (프롬프트 무료)",
+        "클로드 하나로 인터넷에 퍼진 내 개인정보 지우기 (프롬프트 4개 무료)"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/0ZwwAOh7pgs/hqdefault.jpg",
-      "representative_video_id": "0ZwwAOh7pgs",
-      "representative_title": "클로드가 모션그래픽 업계를 집어삼키는 중 (한글 프롬프트 100개 무료)"
+      "thumbnail_url": "https://i.ytimg.com/vi/CvrwaGk6jxc/hqdefault.jpg",
+      "representative_video_id": "CvrwaGk6jxc",
+      "representative_title": "블렌더 한 번도 안 열고 클로드로 만든 3D 애니메이션 (프롬프트 무료)"
     },
     {
-      "label": "AI투자",
-      "count": 1,
-      "avg_view_count": 2994,
-      "avg_engagement_rate": 0.0841683366733467,
-      "avg_like_count": 200,
-      "avg_comment_count": 52,
+      "label": "OpenAI",
+      "count": 2,
+      "avg_view_count": 4920,
+      "avg_engagement_rate": 0.023477609534961294,
+      "avg_like_count": 90,
+      "avg_comment_count": 13,
       "source_titles": [
-        "폭락? 수십번도 더 겪은 일입니다. 다 지나갑니다."
+        "My AI Agent Picks: What I’d Use and Why",
+        "These ChatGPT Prompts Are Game-Changers!"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/tFy2Ik-bIYU/hqdefault.jpg",
-      "representative_video_id": "tFy2Ik-bIYU",
-      "representative_title": "폭락? 수십번도 더 겪은 일입니다. 다 지나갑니다."
+      "thumbnail_url": "https://i.ytimg.com/vi/Bd8-geZPwI4/hqdefault.jpg",
+      "representative_video_id": "Bd8-geZPwI4",
+      "representative_title": "My AI Agent Picks: What I’d Use and Why"
     },
     {
-      "label": "목차가",
+      "label": "TS말포이",
       "count": 1,
-      "avg_view_count": 1128,
-      "avg_engagement_rate": 0.007978723404255319,
-      "avg_like_count": 9,
-      "avg_comment_count": 0,
+      "avg_view_count": 223406,
+      "avg_engagement_rate": 0.021664592714609278,
+      "avg_like_count": 4393,
+      "avg_comment_count": 447,
       "source_titles": [
-        "목차가 200개를 넘으면 LLM 위키가 흔들립니다"
+        "TS말포이 몰입을 10000% 더 해주는 뮤비 | Say You Hate Me"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/XlJ8DGNvtKI/hqdefault.jpg",
-      "representative_video_id": "XlJ8DGNvtKI",
-      "representative_title": "목차가 200개를 넘으면 LLM 위키가 흔들립니다"
+      "thumbnail_url": "https://i.ytimg.com/vi/kxlbn5ydE28/hqdefault.jpg",
+      "representative_video_id": "kxlbn5ydE28",
+      "representative_title": "TS말포이 몰입을 10000% 더 해주는 뮤비 | Say You Hate Me"
+    },
+    {
+      "label": "스타트업을",
+      "count": 1,
+      "avg_view_count": 77719,
+      "avg_engagement_rate": 0.008093259048623888,
+      "avg_like_count": 588,
+      "avg_comment_count": 41,
+      "source_titles": [
+        "스타트업을 또 잡아먹어버린 오픈AI"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/wp-hrUFdMiU/hqdefault.jpg",
+      "representative_video_id": "wp-hrUFdMiU",
+      "representative_title": "스타트업을 또 잡아먹어버린 오픈AI"
+    },
+    {
+      "label": "512MB로",
+      "count": 1,
+      "avg_view_count": 25678,
+      "avg_engagement_rate": 0.013396681984578239,
+      "avg_like_count": 320,
+      "avg_comment_count": 24,
+      "source_titles": [
+        "512MB로 도시 하나를 통째로 돌린 방법"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/Mm5gAi3YDFY/hqdefault.jpg",
+      "representative_video_id": "Mm5gAi3YDFY",
+      "representative_title": "512MB로 도시 하나를 통째로 돌린 방법"
     }
   ],
   "video_highlights": [
     {
-      "video_id": "dyrNQV0F3Zs",
+      "video_id": "kxlbn5ydE28",
+      "channel_name": "Fantasoner(판타소너)",
+      "title": "TS말포이 몰입을 10000% 더 해주는 뮤비 | Say You Hate Me",
+      "thumbnail_url": "https://i.ytimg.com/vi/kxlbn5ydE28/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=kxlbn5ydE28",
+      "published_at": "2026-10-23T03:08:38Z",
+      "view_count": 223406,
+      "like_count": 4393,
+      "comment_count": 447,
+      "engagement_rate": 0.021664592714609278,
+      "topic_cluster": "TS말포이",
+      "summary": "AI를 활용해 해리포터의 말포이를 주인공으로 재해석한 팬 메이드 뮤직비디오로, 애절하고 강렬한 서사를 영상으로 구현했다.",
+      "comment_signal": "\"마법부가 검열한 진실된 역사\"",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "wp-hrUFdMiU",
+      "channel_name": "조코딩 JoCoding",
+      "title": "스타트업을 또 잡아먹어버린 오픈AI",
+      "thumbnail_url": "https://i.ytimg.com/vi/wp-hrUFdMiU/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=wp-hrUFdMiU",
+      "published_at": "2026-10-23T09:00:16Z",
+      "view_count": 77719,
+      "like_count": 588,
+      "comment_count": 41,
+      "engagement_rate": 0.008093259048623888,
+      "topic_cluster": "스타트업을",
+      "summary": "오픈AI가 챗GPT 내에서 팀 미팅 녹음, 변사, 요약 기능을 지원하며 스타트업들이 제공하던 기존 서비스를 내재화했다.",
+      "comment_signal": "대형애들이 기능하나 낼때마다 스타트업 다 쓸려나감. 초반에 잠깐 들어봤던 ai들 기억도 안남",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "kPkB0_RphBs",
+      "channel_name": "조코딩 JoCoding",
+      "title": "클로드가 현재 개이득인 이유",
+      "thumbnail_url": "https://i.ytimg.com/vi/kPkB0_RphBs/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=kPkB0_RphBs",
+      "published_at": "2026-10-23T06:00:05Z",
+      "view_count": 69621,
+      "like_count": 367,
+      "comment_count": 86,
+      "engagement_rate": 0.006506657474038006,
+      "topic_cluster": "agents",
+      "summary": "최근 AI 모델의 성능과 효율성 변화에 따라 작업 목적에 따라 챗GPT보다 클로드를 구독하는 것이 더 경제적이고 효율적일 수 있다.",
+      "comment_signal": "근데 이런 식으로 은근슬쩍 서로 번갈아가면서 가격 올리는 게 아닌가 싶음. 한쪽에서 올리면 반대쪽이 혜자인것처럼 보이다가 다시 반대쪽이 또 올리면 한쪽이 혜자인것처럼 보이고",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "OfObWnrucRY",
+      "channel_name": "tef",
+      "title": "Building a Viral Roblox Game with AI [FULL PROCESS]",
+      "thumbnail_url": "https://i.ytimg.com/vi/OfObWnrucRY/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=OfObWnrucRY",
+      "published_at": "2026-10-23T05:08:59Z",
+      "view_count": 50505,
+      "like_count": 923,
+      "comment_count": 127,
+      "engagement_rate": 0.02079002079002079,
+      "topic_cluster": "Claude",
+      "summary": "AI 도구인 ForgeGUI를 활용해 로블록스 게임 'Untitled Bandit Beater'를 기획부터 개발, 디자인, 테스트까지 전 과정을 자동화하여 출시했다.",
+      "comment_signal": "now i see why most games in roblox today are AI slop",
+      "hook_type": "실험"
+    },
+    {
+      "video_id": "TVRCcMlvR10",
       "channel_name": "Matt Wolfe",
-      "title": "Personal Body Guard Robot - What could go wrong?",
-      "thumbnail_url": "https://i.ytimg.com/vi/dyrNQV0F3Zs/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=dyrNQV0F3Zs",
-      "published_at": "2026-10-22T03:06:41Z",
-      "view_count": 100607,
-      "like_count": 1762,
-      "comment_count": 429,
-      "engagement_rate": 0.021777808701183815,
-      "topic_cluster": "monetization",
-      "summary": "개인 방어를 목적으로 개발된 로봇이 실시간으로 위험을 감지하고 대응하는 기술을 시연하며 미래 기술의 가능성을 보여준다.",
-      "comment_signal": "That child got hit by the robot harder that the car would have hit him 😂",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "usdH6FJ-p3k",
-      "channel_name": "조코딩 JoCoding",
-      "title": "지금 AI 쓰는 사람이 대단한 이유",
-      "thumbnail_url": "https://i.ytimg.com/vi/usdH6FJ-p3k/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=usdH6FJ-p3k",
-      "published_at": "2026-10-22T10:00:31Z",
-      "view_count": 94839,
-      "like_count": 572,
-      "comment_count": 117,
-      "engagement_rate": 0.007264943746770843,
-      "topic_cluster": "agents",
-      "summary": "AI 에이전트 활용 능력이 단순한 구독을 넘어 생산성과 업무 효율에서 큰 격차를 만들어내고 있다.",
-      "comment_signal": "아직도 핵심을 찔렸어 드립이 계속 돌아다니는거보면 대다수 무료가 많을거임",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "6BNrU-nXJSA",
-      "channel_name": "조코딩 JoCoding",
-      "title": "🚨 전세계가 난리난 PHP 보안사고",
-      "thumbnail_url": "https://i.ytimg.com/vi/6BNrU-nXJSA/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=6BNrU-nXJSA",
-      "published_at": "2026-10-22T07:30:06Z",
-      "view_count": 35299,
-      "like_count": 357,
-      "comment_count": 26,
-      "engagement_rate": 0.010850165727074422,
-      "topic_cluster": "전세계가",
-      "summary": "PHP 서버의 메모리 처리 방식에서 기인한 14년 된 보안 취약점이 발견되어 대규모 피해를 야기했으므로 최신 버전 업데이트가 필수적이다.",
-      "comment_signal": "그렇군. 완벽히 이해했어.",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "cBtB1Qr4vVA",
-      "channel_name": "조코딩 JoCoding",
-      "title": "구글이 단백질에 몰래 새겨 넣은 것",
-      "thumbnail_url": "https://i.ytimg.com/vi/cBtB1Qr4vVA/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=cBtB1Qr4vVA",
-      "published_at": "2026-10-22T09:00:00Z",
-      "view_count": 22506,
-      "like_count": 157,
-      "comment_count": 13,
-      "engagement_rate": 0.0075535412778814535,
-      "topic_cluster": "구글이",
-      "summary": "구글이 인공 단백질 생성 시 생물학적 기능을 저해하지 않는 수준에서 식별 가능한 특정 패턴을 삽입하는 기술을 적용하고 있다.",
-      "comment_signal": "??? : 아버지가 구글이시군요.",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "b270jMdTTsY",
-      "channel_name": "조코딩 JoCoding",
-      "title": "깃 없이도 코드 관리가 가능한 이유",
-      "thumbnail_url": "https://i.ytimg.com/vi/b270jMdTTsY/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=b270jMdTTsY",
-      "published_at": "2026-10-22T11:00:04Z",
-      "view_count": 18498,
-      "like_count": 202,
-      "comment_count": 12,
-      "engagement_rate": 0.011568818250621688,
-      "topic_cluster": "agents",
-      "summary": "방대한 코드 관리를 위해 파일 내용을 기반으로 지문을 생성하여 서버 간 정합성을 유지하고 캐시 적중률을 최적화하는 새로운 서버 시스템 방식을 설명한다.",
-      "comment_signal": "앤트로픽이 깃을 버렸다는 것까지는 완벽히 이해했습니다.",
-      "hook_type": "문제 해결"
+      "title": "AI News: 24 Things You Need To Know This Week",
+      "thumbnail_url": "https://i.ytimg.com/vi/TVRCcMlvR10/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=TVRCcMlvR10",
+      "published_at": "2026-10-23T17:40:19Z",
+      "view_count": 41473,
+      "like_count": 1054,
+      "comment_count": 111,
+      "engagement_rate": 0.028090564945868396,
+      "topic_cluster": "ChatGPT",
+      "summary": "클로드 듀엣 출시, 사이버 보안 위협 증가 등 최신 AI 뉴스 24가지를 요약하며 보안 이슈와 새로운 AI 모델의 동향을 전했다.",
+      "comment_signal": "That was one of the coolest intros yet! Very nice transitions to the seat and then to you speak…",
+      "hook_type": "긴급성"
     }
   ]
 }
