@@ -1,239 +1,208 @@
 {
-  "digest_date": "2026-10-25",
-  "generated_at": "2026-10-25T01:03:54+00:00",
-  "summary": "최근 24시간 영상 8개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'Arc'입니다. 특히 'AI인프라 반도체 대학살극의 원인....\"GPU렌탈 가격은 2배 상승 중\"'는 조회수 109.4K, 참여율 1.0%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "'Arc' 주제가 1개 영상으로 가장 많이 다뤄졌습니다. 오늘 수집 영상 8개는 주로 '뉴스 분석' 포맷이라, VS 비교·직접 실험 각도는 아직 비어 있습니다. 일반인 관점 직접 실험 or VS 비교 각도로 차별화할 영역이 있습니다.\n[내 채널] 7일 평균 64.2K회 · 지속률 23.9% / 경쟁사 평균 15.7K회 (격차 +310%)",
-  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 10/25\n\n📊 총 9개 | AI 핵심 6 · 인접 AI 2 · 일반 테크 보충 1\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 9 (최대 10) · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [Matt Wolfe] 5.8K뷰 · 참여율 4.3%\n   Open-Source AI Models Caught Up! (Kimi K3.1 Pro)\n   ↳ 문샷 AI가 공개한 키미 K 3.1 프로는 오픈 소스 모델로서 대형 연구소의 유료 모델과의 격차를 빠르게 좁히고 있습니다. 이 모델은 직접 게임 엔진 내 데모를 구축할 수 있을 만큼 뛰어난 성능을 보이며, 강력한…\n   https://youtu.be/u3WV4nf8Jdo\n\n2. AI 핵심 · [빌더 조쉬 Builder Josh] 5.1K뷰 · 참여율 3.5%\n   AI가 맞다고 해도 믿으면 안 되는 이유 (정직 프롬프트 무료)\n   ↳ AI는 사람의 기분을 맞추기 위해 사용자가 틀린 정보에도 맞장구를 치는 경향이 있어 주의가 필요합니다. 클로드 설정에 '솔직하게 답변하고 틀린 점은 반박하라'는 프롬프트를 추가하여 AI의 비판적 사고 능력을 향상시…\n   https://youtu.be/sUqHYrHMT7s\n\n3. AI 핵심 · [빌더 조쉬 Builder Josh] 1.2K뷰 · 참여율 0.6%\n   AI가 아무리 뛰어나져도 책임은 사람이 집니다\n   ↳ AI가 고도화되어도 최종적인 의사 결정과 그에 따른 책임은 여전히 인간의 영역으로 남을 것입니다. 업무 과정에서 AI가 정보를 분석하고 제안하더라도, 인간의 승인 절차는 여전히 필수적인 병목 과정으로 작용합니다.\n   https://youtu.be/qze6RORcRTY\n\n4. AI 핵심 · [빌더 조쉬 Builder Josh] 846뷰 · 참여율 0.6%\n   쿼리 한 번 잘못 짜면 메모리가 터집니다\n   ↳ AI를 활용해 데이터 쿼리를 자동 생성할 때는 대규모 시계열 데이터 처리 시 메모리 과부하가 발생할 위험이 있습니다. 이를 방지하기 위해 쿼리 생성 시 기간 필터 강제 등 데이터 누적을 방지하는 금칙과 제약 조건을…\n   https://youtu.be/4iJksmDJJ9U\n\n5. AI 핵심 · [Futurepedia] 743뷰 · 참여율 4.4%\n   Claude video generator is a game changer\n   ↳ 클로드의 영상 생성 도구와 스타일 아틀라스를 활용하면 전문가 수준의 과학 영상이나 발표 자료를 쉽게 제작할 수 있습니다. 제공되는 스타일 템플릿을 시작점으로 삼아 미적 취향에 맞게 수정하면 높은 퀄리티의 영상을 효…\n   https://youtu.be/RsidPYy61Fg\n\n6. AI 핵심 · [AI Samson] 532뷰 · 참여율 3.9%\n   This new AI video model claims Seedance 2.5 quality for 62% less\n   ↳ Topview T1 모델은 Synthesia와 유사한 수준의 성능을 제공하면서도 비용은 62% 저렴하다고 주장합니다. 이를 검증하기 위해 영상의 사실감과 제작 범위를 기준으로 10가지 도전 과제를 통해 성능을 직접…\n   https://youtu.be/Gw-5MhJBnqQ\n\n7. AI 인접 · [월텍남 - 월스트리트 테크남] 109.4K뷰 · 참여율 1.0%\n   AI인프라 반도체 대학살극의 원인....\"GPU렌탈 가격은 2배 상승 중\"\n   ↳ AI 추론 컴퓨팅 수요가 공급을 크게 상회하면서 고성능 GPU에 대한 렌탈 가격이 지속적으로 상승하고 있습니다. 이는 AI 인프라 반도체 시장이 여전히 폭발적인 수익성을 유지하고 있음을 시사합니다.\n   https://youtu.be/s9vmjrBklbE\n\n8. AI 인접 · [Dan Martell] 1.6K뷰 · 참여율 3.5%\n   Most business owners don't have an AI problem. They have a strategy problem.\n   ↳ 많은 사업자가 겪는 문제는 AI 기술 자체가 아니라 이를 비즈니스에 적용하기 위한 체계적인 전략의 부재입니다. AI 프리덤 서밋에서는 무수히 많은 도구 속에서 우선순위를 정하고 문제를 해결할 수 있는 비즈니스 전략…\n   https://youtu.be/huFvRouRKkQ\n\n9. 테크 보충 · [안될공학 - IT 테크 신기술] 5.0K뷰 · 참여율 1.7%\n   아틀라스 손가락이 4개인 이유\n   ↳ 보스턴 다이내믹스의 아틀라스 로봇은 목표 작업 효율을 최적화하기 위해 손가락 수를 4개로 전략적으로 결정했습니다. 자유도를 기존 7개에서 13개로 대폭 늘려 제어 정밀도를 높였으며, 정교한 물체 파지 및 조작이 가…\n   https://youtu.be/sLQcVJ4M1pQ\n\n📈 스마트대디 어제 실적\n조회수 72.3K (↑13% vs 7일 평균) | 구독 +375\n시청 지속률 23.9% | 평균 시청 2분 15초\n경쟁사 평균 15.7K회 대비 내 7일 평균 +310%\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
-  "video_count": 8,
-  "total_recent_video_count": 11,
+  "digest_date": "2026-10-26",
+  "generated_at": "2026-10-26T01:09:14+00:00",
+  "summary": "최근 24시간 영상 6개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'Claude'입니다. 특히 '기대했는데.. 아이폰 듀오 써보고 실망한 이유'는 조회수 312.5K, 참여율 1.4%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "'Claude' 주제가 2개 영상으로 가장 많이 다뤄졌습니다. Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n[내 채널] 7일 평균 65.9K회 · 지속률 23.6% / 경쟁사 평균 78.6K회 (격차 -16%)",
+  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 10/26\n\n📊 총 6개 | AI 핵심 2 · 인접 AI 4 · 일반 테크 보충 0\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 6 (최대 10) · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [조코딩 JoCoding] 39.5K뷰 · 참여율 1.3%\n   IT뉴스 - KIMI K3 미쳤다, 대규모 AI 해킹, GPU 해킹, Claude Duet, 스마트폰 Agent, 이미지, 영상 API 가…\n   ↳ 최신 AI 기술 동향으로 Kimi K3 모델의 성능과 GPU 해킹 이슈, 그리고 클로드 모션을 활용한 영상 생성 사례를 다뤘다. 고비용의 GPU 환경에서 API 효율성과 트레이닝 코드 공개가 기업들의 AI 도입에…\n   https://youtu.be/2dbCeyC-WFw\n\n2. AI 핵심 · [빌더 조쉬 Builder Josh] 3.5K뷰 · 참여율 3.8%\n   클로드가 몇 년 묵은 구글 드라이브를 대신 정리해 줍니다 (프롬프트 무료)\n   ↳ 크롬 브라우저의 클로드 사이드바를 활용해 구글 드라이브 내 파일을 정리하는 방법을 소개했다. 프롬프트를 통해 폴더 구조를 자동 생성하고, 중복 파일 식별 및 파일명 수정 등 체계적인 데이터 관리 프로세스를 구축할…\n   https://youtu.be/4kIVQjVMYrE\n\n3. AI 인접 · [테크몽 Techmong] 312.5K뷰 · 참여율 1.4%\n   기대했는데.. 아이폰 듀오 써보고 실망한 이유\n   ↳ 새로 출시된 아이폰 듀오를 하루 동안 사용해 본 결과, 뛰어난 스피커 성능에도 불구하고 높은 가격과 소프트웨어 최적화, 멀티태스킹의 불편함으로 인해 실망감을 드러냈다. 기기 무게와 화면 구성 측면에서 폴더블 제품…\n   https://youtu.be/pJIVxXsLUA0\n\n4. AI 인접 · [안될공학 - IT 테크 신기술] 113.5K뷰 · 참여율 0.9%\n   메모리 시장 변곡점? HBM은 빼고 CXL은 키운다… 인텔의 480GB GPU 등장 | 인텔의 진짜 목표는 서버 주도권\n   ↳ 인텔이 HBM 대신 LPDDR5X를 탑재한 D270 GPU를 통해 대용량 메모리 전략을 강화하고 있다. 이는 CXL 기반의 서버 확장성과 X86 환경의 이점을 활용하여 서버 시장 주도권을 확보하려는 전략적 포석이다.\n   https://youtu.be/vrfcKCobME0\n\n5. AI 인접 · [Dan Martell] 2.3K뷰 · 참여율 5.6%\n   Why I created the AI Freedom Summit\n   ↳ 기업의 AI 도입 실패 원인이 비효율적인 업무 처리 방식에 있다고 진단하고, 실무 전문가들과 협업하여 워크플로우에 AI를 최적화할 수 있도록 AI 프리덤 서밋을 기획했다. 단순 영상 시청을 넘어 대규모 AI 도입…\n   https://youtu.be/3hYSIr_68XE\n\n6. AI 인접 · [Dan Martell] 20뷰 · 참여율 20.0%\n   Do you use AI or are you still avoiding it?\n   ↳ AI에 의존하기보다 단순 반복적인 업무를 AI로 처리하여 시간을 확보하고, 이를 통해 고가치 업무에 집중하는 전략적 활용법을 제시했다. AI 활용 과정에서 얻는 결과물의 품질 문제보다는 시간 효율성을 높이는 도구로…\n   https://youtu.be/BaiCnMAy1xs\n\n📈 스마트대디 어제 실적\n조회수 68.9K (↑4% vs 7일 평균) | 구독 +309\n시청 지속률 23.4% | 평균 시청 2분 13초\n경쟁사 평균 78.6K회 대비 내 7일 평균 -16%\n\n💡 VS 각도: Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+  "video_count": 6,
+  "total_recent_video_count": 6,
   "focus_scope": "ai_priority_then_tech_fill",
-  "average_view_count": 15660.0,
-  "average_engagement_rate": 0.02735652344936755,
-  "average_like_count": 166.0,
-  "average_comment_count": 38.0,
-  "best_video_id": "s9vmjrBklbE",
-  "best_topic": "Arc",
+  "average_view_count": 78554.0,
+  "average_engagement_rate": 0.05491132682577956,
+  "average_like_count": 817.0,
+  "average_comment_count": 190.0,
+  "best_video_id": "pJIVxXsLUA0",
+  "best_topic": "Claude",
   "summary_points": [
-    "가장 겹친 주제는 'Arc'이며 1개 영상, 평균 조회수 109.4K, 평균 참여율 1.0%입니다.",
-    "최고 실적 영상은 'AI인프라 반도체 대학살극의 원인....\"GPU렌탈 가격은 2배 상승 중\"'이며 문제 해결 훅과 뉴스 분석 포맷 조합이 강했습니다.",
-    "반복 노출된 툴은 Claude 1회, ChatGPT 1회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
+    "가장 겹친 주제는 'Claude'이며 2개 영상, 평균 조회수 21.5K, 평균 참여율 2.5%입니다.",
+    "최고 실적 영상은 '기대했는데.. 아이폰 듀오 써보고 실망한 이유'이며 솔직 검증 훅과 뉴스 분석 포맷 조합이 강했습니다.",
+    "반복 노출된 툴은 Claude 3회, ChatGPT 1회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
   ],
   "action_chips": [
-    "주제: Arc",
-    "훅: 문제 해결",
+    "주제: Claude",
+    "훅: 솔직 검증",
     "포맷: 뉴스 분석",
-    "기준 채널: 월텍남 - 월스트리트 테크남"
+    "기준 채널: 테크몽 Techmong"
   ],
   "title_suggestions": [
-    "Arc 직접 실험 — 이게 진짜 되나?",
-    "Arc vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
-    "Arc 써봤더니... (기대 vs 현실 솔직 후기)"
+    "Claude vs ChatGPT, 일반인이 직접 써보니 이게 달랐다",
+    "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
+    "AI 비서 대결: Claude가 진짜 강한 상황은 따로 있었다"
   ],
   "recommendations": [
     {
-      "title": "Arc 직접 실험 — 이게 진짜 되나?",
-      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
-      "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
-      "thumbnail_copy": "Arc 바로 해결",
-      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
-      "source_video_id": "s9vmjrBklbE",
-      "source": "AI인프라 반도체 대학살극의 원인....\"GPU렌탈 가격은 2배 상승 중\"",
-      "my_channel_context": "내 7일 평균 64.2K회 · 지속률 23.9% / 경쟁사 대비 +310%"
+      "title": "Claude vs ChatGPT, 일반인이 직접 써보니 이게 달랐다",
+      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
+      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
+      "thumbnail_copy": "Claude 바로 해결",
+      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
+      "source_video_id": "2dbCeyC-WFw",
+      "source": "IT뉴스 - KIMI K3 미쳤다, 대규모 AI 해킹, GPU 해킹, Claude Duet, 스마트폰 Agent, 이미지, 영상 API 가격 경쟁, Dessa 등",
+      "my_channel_context": "내 7일 평균 65.9K회 · 지속률 23.6% / 경쟁사 대비 -16%"
+    },
+    {
+      "title": "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
+      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
+      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
+      "thumbnail_copy": "Claude 바로 해결",
+      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
+      "source_video_id": "4kIVQjVMYrE",
+      "source": "클로드가 몇 년 묵은 구글 드라이브를 대신 정리해 줍니다 (프롬프트 무료)",
+      "my_channel_context": "내 7일 평균 65.9K회 · 지속률 23.6% / 경쟁사 대비 -16%"
     }
   ],
   "topic_clusters": [
     {
-      "label": "Arc",
-      "count": 1,
-      "avg_view_count": 109366,
-      "avg_engagement_rate": 0.009893385512865059,
-      "avg_like_count": 885,
-      "avg_comment_count": 197,
+      "label": "Claude",
+      "count": 2,
+      "avg_view_count": 21524,
+      "avg_engagement_rate": 0.025366860909637474,
+      "avg_like_count": 280,
+      "avg_comment_count": 40,
       "source_titles": [
-        "AI인프라 반도체 대학살극의 원인....\"GPU렌탈 가격은 2배 상승 중\""
+        "IT뉴스 - KIMI K3 미쳤다, 대규모 AI 해킹, GPU 해킹, Claude Duet, 스마트폰 Agent, 이미지, 영상 API 가격 경쟁, Dessa 등",
+        "클로드가 몇 년 묵은 구글 드라이브를 대신 정리해 줍니다 (프롬프트 무료)"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/s9vmjrBklbE/hqdefault.jpg",
-      "representative_video_id": "s9vmjrBklbE",
-      "representative_title": "AI인프라 반도체 대학살극의 원인....\"GPU렌탈 가격은 2배 상승 중\""
+      "thumbnail_url": "https://i.ytimg.com/vi/2dbCeyC-WFw/hqdefault.jpg",
+      "representative_video_id": "2dbCeyC-WFw",
+      "representative_title": "IT뉴스 - KIMI K3 미쳤다, 대규모 AI 해킹, GPU 해킹, Claude Duet, 스마트폰 Agent, 이미지, 영상 API 가격 경쟁, Dessa 등"
     },
     {
-      "label": "자동화",
+      "label": "IT",
       "count": 1,
-      "avg_view_count": 5813,
-      "avg_engagement_rate": 0.04266299673146396,
-      "avg_like_count": 218,
-      "avg_comment_count": 30,
+      "avg_view_count": 312521,
+      "avg_engagement_rate": 0.013624684421206896,
+      "avg_like_count": 3386,
+      "avg_comment_count": 872,
       "source_titles": [
-        "Open-Source AI Models Caught Up! (Kimi K3.1 Pro)"
+        "기대했는데.. 아이폰 듀오 써보고 실망한 이유"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/u3WV4nf8Jdo/hqdefault.jpg",
-      "representative_video_id": "u3WV4nf8Jdo",
-      "representative_title": "Open-Source AI Models Caught Up! (Kimi K3.1 Pro)"
+      "thumbnail_url": "https://i.ytimg.com/vi/pJIVxXsLUA0/hqdefault.jpg",
+      "representative_video_id": "pJIVxXsLUA0",
+      "representative_title": "기대했는데.. 아이폰 듀오 써보고 실망한 이유"
+    },
+    {
+      "label": "인텔",
+      "count": 1,
+      "avg_view_count": 113454,
+      "avg_engagement_rate": 0.008919914679076983,
+      "avg_like_count": 827,
+      "avg_comment_count": 185,
+      "source_titles": [
+        "메모리 시장 변곡점? HBM은 빼고 CXL은 키운다… 인텔의 480GB GPU 등장 | 인텔의 진짜 목표는 서버 주도권"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/vrfcKCobME0/hqdefault.jpg",
+      "representative_video_id": "vrfcKCobME0",
+      "representative_title": "메모리 시장 변곡점? HBM은 빼고 CXL은 키운다… 인텔의 480GB GPU 등장 | 인텔의 진짜 목표는 서버 주도권"
+    },
+    {
+      "label": "인공지능",
+      "count": 1,
+      "avg_view_count": 2278,
+      "avg_engagement_rate": 0.056189640035118525,
+      "avg_like_count": 124,
+      "avg_comment_count": 4,
+      "source_titles": [
+        "Why I created the AI Freedom Summit"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/3hYSIr_68XE/hqdefault.jpg",
+      "representative_video_id": "3hYSIr_68XE",
+      "representative_title": "Why I created the AI Freedom Summit"
     },
     {
       "label": "ChatGPT",
       "count": 1,
-      "avg_view_count": 5108,
-      "avg_engagement_rate": 0.03504306969459671,
-      "avg_like_count": 106,
-      "avg_comment_count": 73,
-      "source_titles": [
-        "AI가 맞다고 해도 믿으면 안 되는 이유 (정직 프롬프트 무료)"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/sUqHYrHMT7s/hqdefault.jpg",
-      "representative_video_id": "sUqHYrHMT7s",
-      "representative_title": "AI가 맞다고 해도 믿으면 안 되는 이유 (정직 프롬프트 무료)"
-    },
-    {
-      "label": "Most",
-      "count": 1,
-      "avg_view_count": 1627,
-      "avg_engagement_rate": 0.03503380454824831,
-      "avg_like_count": 56,
-      "avg_comment_count": 1,
-      "source_titles": [
-        "Most business owners don't have an AI problem. They have a strategy problem."
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/huFvRouRKkQ/hqdefault.jpg",
-      "representative_video_id": "huFvRouRKkQ",
-      "representative_title": "Most business owners don't have an AI problem. They have a strategy problem."
-    },
-    {
-      "label": "AI가",
-      "count": 1,
-      "avg_view_count": 1246,
-      "avg_engagement_rate": 0.006420545746388443,
-      "avg_like_count": 8,
+      "avg_view_count": 20,
+      "avg_engagement_rate": 0.2,
+      "avg_like_count": 4,
       "avg_comment_count": 0,
       "source_titles": [
-        "AI가 아무리 뛰어나져도 책임은 사람이 집니다"
+        "Do you use AI or are you still avoiding it?"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/qze6RORcRTY/hqdefault.jpg",
-      "representative_video_id": "qze6RORcRTY",
-      "representative_title": "AI가 아무리 뛰어나져도 책임은 사람이 집니다"
-    },
-    {
-      "label": "agents",
-      "count": 1,
-      "avg_view_count": 846,
-      "avg_engagement_rate": 0.00591016548463357,
-      "avg_like_count": 5,
-      "avg_comment_count": 0,
-      "source_titles": [
-        "쿼리 한 번 잘못 짜면 메모리가 터집니다"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/4iJksmDJJ9U/hqdefault.jpg",
-      "representative_video_id": "4iJksmDJJ9U",
-      "representative_title": "쿼리 한 번 잘못 짜면 메모리가 터집니다"
-    },
-    {
-      "label": "Claude",
-      "count": 1,
-      "avg_view_count": 743,
-      "avg_engagement_rate": 0.04441453566621804,
-      "avg_like_count": 29,
-      "avg_comment_count": 4,
-      "source_titles": [
-        "Claude video generator is a game changer"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/RsidPYy61Fg/hqdefault.jpg",
-      "representative_video_id": "RsidPYy61Fg",
-      "representative_title": "Claude video generator is a game changer"
-    },
-    {
-      "label": "AIVideoGeneration",
-      "count": 1,
-      "avg_view_count": 532,
-      "avg_engagement_rate": 0.039473684210526314,
-      "avg_like_count": 21,
-      "avg_comment_count": 0,
-      "source_titles": [
-        "This new AI video model claims Seedance 2.5 quality for 62% less"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/Gw-5MhJBnqQ/hqdefault.jpg",
-      "representative_video_id": "Gw-5MhJBnqQ",
-      "representative_title": "This new AI video model claims Seedance 2.5 quality for 62% less"
+      "thumbnail_url": "https://i.ytimg.com/vi/BaiCnMAy1xs/hqdefault.jpg",
+      "representative_video_id": "BaiCnMAy1xs",
+      "representative_title": "Do you use AI or are you still avoiding it?"
     }
   ],
   "video_highlights": [
     {
-      "video_id": "s9vmjrBklbE",
-      "channel_name": "월텍남 - 월스트리트 테크남",
-      "title": "AI인프라 반도체 대학살극의 원인....\"GPU렌탈 가격은 2배 상승 중\"",
-      "thumbnail_url": "https://i.ytimg.com/vi/s9vmjrBklbE/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=s9vmjrBklbE",
-      "published_at": "2026-10-24T02:10:14Z",
-      "view_count": 109366,
-      "like_count": 885,
-      "comment_count": 197,
-      "engagement_rate": 0.009893385512865059,
-      "topic_cluster": "Arc",
-      "summary": "AI 추론 컴퓨팅 수요가 공급을 크게 상회하면서 고성능 GPU에 대한 렌탈 가격이 지속적으로 상승하고 있습니다. 이는 AI 인프라 반도체 시장이 여전히 폭발적인 수…",
-      "comment_signal": "계좌녹는중 돌아버리겠네",
+      "video_id": "pJIVxXsLUA0",
+      "channel_name": "테크몽 Techmong",
+      "title": "기대했는데.. 아이폰 듀오 써보고 실망한 이유",
+      "thumbnail_url": "https://i.ytimg.com/vi/pJIVxXsLUA0/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=pJIVxXsLUA0",
+      "published_at": "2026-10-25T11:31:58Z",
+      "view_count": 312521,
+      "like_count": 3386,
+      "comment_count": 872,
+      "engagement_rate": 0.013624684421206896,
+      "topic_cluster": "IT",
+      "summary": "새로 출시된 아이폰 듀오를 하루 동안 사용해 본 결과, 뛰어난 스피커 성능에도 불구하고 높은 가격과 소프트웨어 최적화, 멀티태스킹의 불편함으로 인해 실망감을 드러냈…",
+      "comment_signal": "테크몽님 오랜 구독자인데 눈치 보지 마세요. 많은 구독자들은 테크몽님이 할 말 다 하고 깔땐 까고 그런게 좋아서 구독하는거랍니다. 흔하고 뻔한 리뷰가 아니라요.",
+      "hook_type": "솔직 검증"
+    },
+    {
+      "video_id": "vrfcKCobME0",
+      "channel_name": "안될공학 - IT 테크 신기술",
+      "title": "메모리 시장 변곡점? HBM은 빼고 CXL은 키운다… 인텔의 480GB GPU 등장 | 인텔의 진짜 목표는 서버 주도권",
+      "thumbnail_url": "https://i.ytimg.com/vi/vrfcKCobME0/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=vrfcKCobME0",
+      "published_at": "2026-10-25T07:47:53Z",
+      "view_count": 113454,
+      "like_count": 827,
+      "comment_count": 185,
+      "engagement_rate": 0.008919914679076983,
+      "topic_cluster": "인텔",
+      "summary": "인텔이 HBM 대신 LPDDR5X를 탑재한 D270 GPU를 통해 대용량 메모리 전략을 강화하고 있다. 이는 CXL 기반의 서버 확장성과 X86 환경의 이점을 활용…",
+      "comment_signal": "hbm 부족하고 디램도 부족하고 여러 방법을 시도 하는 중 결론 메모리 겁나 부족하다 ㄷㄷㄷ",
+      "hook_type": "솔직 검증"
+    },
+    {
+      "video_id": "2dbCeyC-WFw",
+      "channel_name": "조코딩 JoCoding",
+      "title": "IT뉴스 - KIMI K3 미쳤다, 대규모 AI 해킹, GPU 해킹, Claude Duet, 스마트폰 Agent, 이미지, 영상 API 가격 경쟁, Dessa 등",
+      "thumbnail_url": "https://i.ytimg.com/vi/2dbCeyC-WFw/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=2dbCeyC-WFw",
+      "published_at": "2026-10-25T11:46:23Z",
+      "view_count": 39536,
+      "like_count": 504,
+      "comment_count": 5,
+      "engagement_rate": 0.012874342371509511,
+      "topic_cluster": "Claude",
+      "summary": "최신 AI 기술 동향으로 Kimi K3 모델의 성능과 GPU 해킹 이슈, 그리고 클로드 모션을 활용한 영상 생성 사례를 다뤘다. 고비용의 GPU 환경에서 API 효…",
+      "comment_signal": "소넣고 외양간 고치는건 자동화 가능하지 않을까? ㅎ 찾아 가는 백신?ㅎ",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "u3WV4nf8Jdo",
-      "channel_name": "Matt Wolfe",
-      "title": "Open-Source AI Models Caught Up! (Kimi K3.1 Pro)",
-      "thumbnail_url": "https://i.ytimg.com/vi/u3WV4nf8Jdo/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=u3WV4nf8Jdo",
-      "published_at": "2026-10-24T18:44:59Z",
-      "view_count": 5813,
-      "like_count": 218,
-      "comment_count": 30,
-      "engagement_rate": 0.04266299673146396,
-      "topic_cluster": "자동화",
-      "summary": "문샷 AI가 공개한 키미 K 3.1 프로는 오픈 소스 모델로서 대형 연구소의 유료 모델과의 격차를 빠르게 좁히고 있습니다. 이 모델은 직접 게임 엔진 내 데모를 구…",
-      "comment_signal": "And that's exactly it. It hardly matters whether it's open weights, it matters whether you can…",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "sUqHYrHMT7s",
+      "video_id": "4kIVQjVMYrE",
       "channel_name": "빌더 조쉬 Builder Josh",
-      "title": "AI가 맞다고 해도 믿으면 안 되는 이유 (정직 프롬프트 무료)",
-      "thumbnail_url": "https://i.ytimg.com/vi/sUqHYrHMT7s/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=sUqHYrHMT7s",
-      "published_at": "2026-10-24T09:50:36Z",
-      "view_count": 5108,
-      "like_count": 106,
-      "comment_count": 73,
-      "engagement_rate": 0.03504306969459671,
-      "topic_cluster": "ChatGPT",
-      "summary": "AI는 사람의 기분을 맞추기 위해 사용자가 틀린 정보에도 맞장구를 치는 경향이 있어 주의가 필요합니다. 클로드 설정에 '솔직하게 답변하고 틀린 점은 반박하라'는 프…",
-      "comment_signal": "정직. 부탁합니다",
+      "title": "클로드가 몇 년 묵은 구글 드라이브를 대신 정리해 줍니다 (프롬프트 무료)",
+      "thumbnail_url": "https://i.ytimg.com/vi/4kIVQjVMYrE/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=4kIVQjVMYrE",
+      "published_at": "2026-10-25T09:00:16Z",
+      "view_count": 3513,
+      "like_count": 57,
+      "comment_count": 76,
+      "engagement_rate": 0.03785937944776544,
+      "topic_cluster": "Claude",
+      "summary": "크롬 브라우저의 클로드 사이드바를 활용해 구글 드라이브 내 파일을 정리하는 방법을 소개했다. 프롬프트를 통해 폴더 구조를 자동 생성하고, 중복 파일 식별 및 파일명…",
+      "comment_signal": "이정",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "huFvRouRKkQ",
+      "video_id": "3hYSIr_68XE",
       "channel_name": "Dan Martell",
-      "title": "Most business owners don't have an AI problem. They have a strategy problem.",
-      "thumbnail_url": "https://i.ytimg.com/vi/huFvRouRKkQ/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=huFvRouRKkQ",
-      "published_at": "2026-10-24T21:00:36Z",
-      "view_count": 1627,
-      "like_count": 56,
-      "comment_count": 1,
-      "engagement_rate": 0.03503380454824831,
-      "topic_cluster": "Most",
-      "summary": "많은 사업자가 겪는 문제는 AI 기술 자체가 아니라 이를 비즈니스에 적용하기 위한 체계적인 전략의 부재입니다. AI 프리덤 서밋에서는 무수히 많은 도구 속에서 우선…",
-      "comment_signal": "interesting",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "qze6RORcRTY",
-      "channel_name": "빌더 조쉬 Builder Josh",
-      "title": "AI가 아무리 뛰어나져도 책임은 사람이 집니다",
-      "thumbnail_url": "https://i.ytimg.com/vi/qze6RORcRTY/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=qze6RORcRTY",
-      "published_at": "2026-10-24T03:00:23Z",
-      "view_count": 1246,
-      "like_count": 8,
-      "comment_count": 0,
-      "engagement_rate": 0.006420545746388443,
-      "topic_cluster": "AI가",
-      "summary": "AI가 고도화되어도 최종적인 의사 결정과 그에 따른 책임은 여전히 인간의 영역으로 남을 것입니다. 업무 과정에서 AI가 정보를 분석하고 제안하더라도, 인간의 승인…",
-      "comment_signal": "댓글 반응은 아직 약한 편입니다.",
+      "title": "Why I created the AI Freedom Summit",
+      "thumbnail_url": "https://i.ytimg.com/vi/3hYSIr_68XE/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=3hYSIr_68XE",
+      "published_at": "2026-10-25T19:01:55Z",
+      "view_count": 2278,
+      "like_count": 124,
+      "comment_count": 4,
+      "engagement_rate": 0.056189640035118525,
+      "topic_cluster": "인공지능",
+      "summary": "기업의 AI 도입 실패 원인이 비효율적인 업무 처리 방식에 있다고 진단하고, 실무 전문가들과 협업하여 워크플로우에 AI를 최적화할 수 있도록 AI 프리덤 서밋을 기…",
+      "comment_signal": "Hey man, Keep it up❤❤❤",
       "hook_type": "문제 해결"
     }
   ]
