@@ -1,209 +1,251 @@
 {
-  "digest_date": "2026-10-26",
-  "generated_at": "2026-10-26T01:09:14+00:00",
-  "summary": "최근 24시간 영상 6개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'Claude'입니다. 특히 '기대했는데.. 아이폰 듀오 써보고 실망한 이유'는 조회수 312.5K, 참여율 1.4%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "'Claude' 주제가 2개 영상으로 가장 많이 다뤄졌습니다. Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n[내 채널] 7일 평균 65.9K회 · 지속률 23.6% / 경쟁사 평균 78.6K회 (격차 -16%)",
-  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 10/26\n\n📊 총 6개 | AI 핵심 2 · 인접 AI 4 · 일반 테크 보충 0\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 6 (최대 10) · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [조코딩 JoCoding] 39.5K뷰 · 참여율 1.3%\n   IT뉴스 - KIMI K3 미쳤다, 대규모 AI 해킹, GPU 해킹, Claude Duet, 스마트폰 Agent, 이미지, 영상 API 가…\n   ↳ 최신 AI 기술 동향으로 Kimi K3 모델의 성능과 GPU 해킹 이슈, 그리고 클로드 모션을 활용한 영상 생성 사례를 다뤘다. 고비용의 GPU 환경에서 API 효율성과 트레이닝 코드 공개가 기업들의 AI 도입에…\n   https://youtu.be/2dbCeyC-WFw\n\n2. AI 핵심 · [빌더 조쉬 Builder Josh] 3.5K뷰 · 참여율 3.8%\n   클로드가 몇 년 묵은 구글 드라이브를 대신 정리해 줍니다 (프롬프트 무료)\n   ↳ 크롬 브라우저의 클로드 사이드바를 활용해 구글 드라이브 내 파일을 정리하는 방법을 소개했다. 프롬프트를 통해 폴더 구조를 자동 생성하고, 중복 파일 식별 및 파일명 수정 등 체계적인 데이터 관리 프로세스를 구축할…\n   https://youtu.be/4kIVQjVMYrE\n\n3. AI 인접 · [테크몽 Techmong] 312.5K뷰 · 참여율 1.4%\n   기대했는데.. 아이폰 듀오 써보고 실망한 이유\n   ↳ 새로 출시된 아이폰 듀오를 하루 동안 사용해 본 결과, 뛰어난 스피커 성능에도 불구하고 높은 가격과 소프트웨어 최적화, 멀티태스킹의 불편함으로 인해 실망감을 드러냈다. 기기 무게와 화면 구성 측면에서 폴더블 제품…\n   https://youtu.be/pJIVxXsLUA0\n\n4. AI 인접 · [안될공학 - IT 테크 신기술] 113.5K뷰 · 참여율 0.9%\n   메모리 시장 변곡점? HBM은 빼고 CXL은 키운다… 인텔의 480GB GPU 등장 | 인텔의 진짜 목표는 서버 주도권\n   ↳ 인텔이 HBM 대신 LPDDR5X를 탑재한 D270 GPU를 통해 대용량 메모리 전략을 강화하고 있다. 이는 CXL 기반의 서버 확장성과 X86 환경의 이점을 활용하여 서버 시장 주도권을 확보하려는 전략적 포석이다.\n   https://youtu.be/vrfcKCobME0\n\n5. AI 인접 · [Dan Martell] 2.3K뷰 · 참여율 5.6%\n   Why I created the AI Freedom Summit\n   ↳ 기업의 AI 도입 실패 원인이 비효율적인 업무 처리 방식에 있다고 진단하고, 실무 전문가들과 협업하여 워크플로우에 AI를 최적화할 수 있도록 AI 프리덤 서밋을 기획했다. 단순 영상 시청을 넘어 대규모 AI 도입…\n   https://youtu.be/3hYSIr_68XE\n\n6. AI 인접 · [Dan Martell] 20뷰 · 참여율 20.0%\n   Do you use AI or are you still avoiding it?\n   ↳ AI에 의존하기보다 단순 반복적인 업무를 AI로 처리하여 시간을 확보하고, 이를 통해 고가치 업무에 집중하는 전략적 활용법을 제시했다. AI 활용 과정에서 얻는 결과물의 품질 문제보다는 시간 효율성을 높이는 도구로…\n   https://youtu.be/BaiCnMAy1xs\n\n📈 스마트대디 어제 실적\n조회수 68.9K (↑4% vs 7일 평균) | 구독 +309\n시청 지속률 23.4% | 평균 시청 2분 13초\n경쟁사 평균 78.6K회 대비 내 7일 평균 -16%\n\n💡 VS 각도: Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
-  "video_count": 6,
-  "total_recent_video_count": 6,
+  "digest_date": "2026-10-27",
+  "generated_at": "2026-10-27T02:02:52+00:00",
+  "summary": "최근 24시간 영상 14개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'agents'입니다. 특히 '정부가 전국민에게 AI 사용료 4만원을 준다고?'는 조회수 52.3K, 참여율 1.5%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "'agents' 주제가 2개 영상으로 가장 많이 다뤄졌습니다. 일반인 관점 직접 실험 or VS 비교 각도로 차별화할 영역이 있습니다.\n[내 채널] 7일 평균 70.4K회 · 지속률 23.7% / 경쟁사 평균 15.2K회 (격차 +364%)",
+  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 10/27\n\n📊 총 10개 | AI 핵심 10 · 인접 AI 0 · 일반 테크 보충 0\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 10 · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [조코딩 JoCoding] 52.3K뷰 · 참여율 1.5%\n   정부가 전국민에게 AI 사용료 4만원을 준다고?\n   ↳ 정부가 전국민 4만 원 준다고 해서 제가 직접 받아봤습니다. 모두의 AI 실험실에 가입하고 기본 교육까지 마치니까 여기 4만 포인트가 들어와 있죠.이 이 포인트로 원하는 웹사이트를 만들 수 있고 프로젝트는 개수 제…\n   https://youtu.be/xSxnii4W-Pc\n\n2. AI 핵심 · [조코딩 JoCoding] 36.2K뷰 · 참여율 0.7%\n   AI뉴스 - KIMI 미쳤다, 대규모 AI 해킹, GPU 해킹, Claude Duet, 스마트폰 Agent, 이미지, 영상 API 가격 경…\n   ↳ 그래서 이런 300만 조회수가 나오고 하루에 2만 명이 방문하는 이런 서비스를 직접 만들고 싶다 하시는 분들 조코딩의 바이브 코딩 1인 창업을 보시면 이분처럼 아 강의를 열심히 들으면서 했더니 요렇게 300만씩 나…\n   https://youtu.be/cvpNLI-O9PY\n\n3. AI 핵심 · [조코딩 JoCoding] 24.7K뷰 · 참여율 0.5%\n   화상회의가 귀찮아서 AI 시킨 개발자의 최후\n   ↳ 다른 개발자들 업무도 혼자 맡아 주세요. 클로드가 다하면 이제 개발자님은 필요 없겠네요. 그럼 이번 달까지만 나오시는 걸로 할게요.\n   https://youtu.be/Z0y6tlhLZAI\n\n4. AI 핵심 · [조코딩 JoCoding] 18.9K뷰 · 참여율 1.2%\n   앱 만들기는 쉬워졌다, 이제 돈 버는 방법 | Google AdMob | Global App Summit 2026\n   ↳ [웃음] 또 이제이 방송에서 나가도 되는지 모르겠지만 그 업데이트 내용을 좀 미리 들어봤을 때 네. 그래서 그런 스킬 같은 걸 이제 그 에이전트에 꽂기만 하면은 알아서 이런 최적화도 해 줄 수 있지 않을까 싶은데.\n   https://youtu.be/c7eoynzRGME\n\n5. AI 핵심 · [Matt Wolfe] 14.8K뷰 · 참여율 5.1%\n   ANOTHER Flying Car? (Not Tesla / Not AI)\n   ↳ AI가 아닌 실제 기술로 개발된 '알레프(Alef)' 비행 자동차가 테슬라 로드스터와 경쟁 구도를 형성하며 30만 달러에 사전 주문을 받고 있으며, 실제 도심 주행 및 수직 이착륙 시험 비행에 성공했다.\n   https://youtu.be/gC18kqOcCEI\n\n6. AI 핵심 · [Matt Wolfe] 14.0K뷰 · 참여율 2.9%\n   The Robot Butler Will Clean Up After You\n   ↳ 자막을 확보하지 못해 제목·댓글·메타데이터 기준으로 분석했습니다.\n   https://youtu.be/B8YFkYY20OY\n\n7. AI 핵심 · [빌더 조쉬 Builder Josh] 12.7K뷰 · 참여율 6.9%\n   클로드 쓰는 직장인이면 무조건 깔아야 할 스킬 100개 (전부 무료)\n   ↳ 클로드 쓰는 직장인이면 무조건 깔아야 할 스킬 100개. 비터브에 올라온 스킬 1497개를 제가 전부 뒤져서 진짜 쓸 만한 것만 남겼어요. 클로드랑 나눈 대화를 노션 문서로 바로 정리하고 말로 설명하면 피그마의 화…\n   https://youtu.be/vYXf_8qyPS0\n\n8. AI 핵심 · [MattVidPro] 1.8K뷰 · 참여율 4.5%\n   GPT-6.1 Terra vs Claude 5.5: Same Prompt, Not Even Close\n   ↳ GPT-6.1 Terra와 Claude Opus 5.5에 동일한 3D 모델 생성 프롬프트를 부여하여, 결과물의 퀄리티, 가격, 성능을 비교 분석합니다.\n   https://youtu.be/6Il7tudXo1E\n\n9. AI 핵심 · [동테크] 1.7K뷰 · 참여율 1.4%\n   자막 자동화는 클로드 코드가 필수입니다\n   ↳ 그래서 실제로 20분 영상을 넣었더니 클로드가 그냥 일반 자막은 441줄, 그리고 손글씨 자막은 17 줄, 강조는 15개. 뭐 이런 식으로 다 나눠서 체크를 해 줬고요. 이걸 코드가 바로 구현할 수 있게 코드도 다…\n   https://youtu.be/gp349OzICy8\n\n10. AI 핵심 · [빌더 조쉬 Builder Josh] 556뷰 · 참여율 6.1%\n   클로드 마케팅 스킬 52개만 깔면 마케팅 팀이 통째로 생깁니다 (한글 가이드 무료)\n   ↳ Claude AI에 52가지 마케팅 스킬을 설치하면 카피라이팅, SEO, 광고 등 마케팅 팀의 업무를 자동화하여 생산성을 극대화할 수 있으며, 무료 한글 가이드도 제공한다.\n   https://youtu.be/1z-owuX4TGU\n\n📈 스마트대디 어제 실적\n조회수 70.3K (↓0% vs 7일 평균) | 구독 +266\n시청 지속률 22.7% | 평균 시청 2분 05초\n경쟁사 평균 15.2K회 대비 내 7일 평균 +364%\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+  "video_count": 14,
+  "total_recent_video_count": 19,
   "focus_scope": "ai_priority_then_tech_fill",
-  "average_view_count": 78554.0,
-  "average_engagement_rate": 0.05491132682577956,
-  "average_like_count": 817.0,
-  "average_comment_count": 190.0,
-  "best_video_id": "pJIVxXsLUA0",
-  "best_topic": "Claude",
+  "average_view_count": 15176.0,
+  "average_engagement_rate": 0.03107946038636897,
+  "average_like_count": 233.0,
+  "average_comment_count": 74.0,
+  "best_video_id": "xSxnii4W-Pc",
+  "best_topic": "agents",
   "summary_points": [
-    "가장 겹친 주제는 'Claude'이며 2개 영상, 평균 조회수 21.5K, 평균 참여율 2.5%입니다.",
-    "최고 실적 영상은 '기대했는데.. 아이폰 듀오 써보고 실망한 이유'이며 솔직 검증 훅과 뉴스 분석 포맷 조합이 강했습니다.",
-    "반복 노출된 툴은 Claude 3회, ChatGPT 1회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
+    "가장 겹친 주제는 'agents'이며 2개 영상, 평균 조회수 21.8K, 평균 참여율 0.9%입니다.",
+    "최고 실적 영상은 '정부가 전국민에게 AI 사용료 4만원을 준다고?'이며 수익 훅과 빌드 데모 포맷 조합이 강했습니다.",
+    "반복 노출된 툴은 Claude 3회, Notion 2회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
   ],
   "action_chips": [
-    "주제: Claude",
-    "훅: 솔직 검증",
-    "포맷: 뉴스 분석",
-    "기준 채널: 테크몽 Techmong"
+    "주제: agents",
+    "훅: 수익",
+    "포맷: 빌드 데모",
+    "기준 채널: 조코딩 JoCoding"
   ],
   "title_suggestions": [
-    "Claude vs ChatGPT, 일반인이 직접 써보니 이게 달랐다",
-    "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
-    "AI 비서 대결: Claude가 진짜 강한 상황은 따로 있었다"
+    "agents 직접 실험 — 이게 진짜 되나?",
+    "agents vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
+    "agents 써봤더니... (기대 vs 현실 솔직 후기)"
   ],
   "recommendations": [
     {
-      "title": "Claude vs ChatGPT, 일반인이 직접 써보니 이게 달랐다",
-      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "Claude 바로 해결",
-      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
-      "source_video_id": "2dbCeyC-WFw",
-      "source": "IT뉴스 - KIMI K3 미쳤다, 대규모 AI 해킹, GPU 해킹, Claude Duet, 스마트폰 Agent, 이미지, 영상 API 가격 경쟁, Dessa 등",
-      "my_channel_context": "내 7일 평균 65.9K회 · 지속률 23.6% / 경쟁사 대비 -16%"
+      "title": "agents 직접 실험 — 이게 진짜 되나?",
+      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
+      "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
+      "thumbnail_copy": "agents 바로 해결",
+      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
+      "source_video_id": "Z0y6tlhLZAI",
+      "source": "화상회의가 귀찮아서 AI 시킨 개발자의 최후",
+      "my_channel_context": "내 7일 평균 70.4K회 · 지속률 23.7% / 경쟁사 대비 +364%"
     },
     {
-      "title": "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
-      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "Claude 바로 해결",
-      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
-      "source_video_id": "4kIVQjVMYrE",
-      "source": "클로드가 몇 년 묵은 구글 드라이브를 대신 정리해 줍니다 (프롬프트 무료)",
-      "my_channel_context": "내 7일 평균 65.9K회 · 지속률 23.6% / 경쟁사 대비 -16%"
+      "title": "agents vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
+      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
+      "angle": "큰 주제 하나를 대표 제목으로 세우고, 나머지 포인트는 보조 정보처럼 정리하는 압축형 포장이 좋습니다.",
+      "thumbnail_copy": "agents 핵심 3가지",
+      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
+      "source_video_id": "c7eoynzRGME",
+      "source": "앱 만들기는 쉬워졌다, 이제 돈 버는 방법 | Google AdMob | Global App Summit 2026",
+      "my_channel_context": "내 7일 평균 70.4K회 · 지속률 23.7% / 경쟁사 대비 +364%"
     }
   ],
   "topic_clusters": [
     {
-      "label": "Claude",
+      "label": "agents",
       "count": 2,
-      "avg_view_count": 21524,
-      "avg_engagement_rate": 0.025366860909637474,
-      "avg_like_count": 280,
-      "avg_comment_count": 40,
+      "avg_view_count": 21792,
+      "avg_engagement_rate": 0.00885968127993963,
+      "avg_like_count": 168,
+      "avg_comment_count": 14,
       "source_titles": [
-        "IT뉴스 - KIMI K3 미쳤다, 대규모 AI 해킹, GPU 해킹, Claude Duet, 스마트폰 Agent, 이미지, 영상 API 가격 경쟁, Dessa 등",
-        "클로드가 몇 년 묵은 구글 드라이브를 대신 정리해 줍니다 (프롬프트 무료)"
+        "화상회의가 귀찮아서 AI 시킨 개발자의 최후",
+        "앱 만들기는 쉬워졌다, 이제 돈 버는 방법 | Google AdMob | Global App Summit 2026"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/2dbCeyC-WFw/hqdefault.jpg",
-      "representative_video_id": "2dbCeyC-WFw",
-      "representative_title": "IT뉴스 - KIMI K3 미쳤다, 대규모 AI 해킹, GPU 해킹, Claude Duet, 스마트폰 Agent, 이미지, 영상 API 가격 경쟁, Dessa 등"
+      "thumbnail_url": "https://i.ytimg.com/vi/Z0y6tlhLZAI/hqdefault.jpg",
+      "representative_video_id": "Z0y6tlhLZAI",
+      "representative_title": "화상회의가 귀찮아서 AI 시킨 개발자의 최후"
     },
     {
-      "label": "IT",
+      "label": "정부가",
       "count": 1,
-      "avg_view_count": 312521,
-      "avg_engagement_rate": 0.013624684421206896,
-      "avg_like_count": 3386,
-      "avg_comment_count": 872,
+      "avg_view_count": 52268,
+      "avg_engagement_rate": 0.01513354251167062,
+      "avg_like_count": 591,
+      "avg_comment_count": 200,
       "source_titles": [
-        "기대했는데.. 아이폰 듀오 써보고 실망한 이유"
+        "정부가 전국민에게 AI 사용료 4만원을 준다고?"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/pJIVxXsLUA0/hqdefault.jpg",
-      "representative_video_id": "pJIVxXsLUA0",
-      "representative_title": "기대했는데.. 아이폰 듀오 써보고 실망한 이유"
+      "thumbnail_url": "https://i.ytimg.com/vi/xSxnii4W-Pc/hqdefault.jpg",
+      "representative_video_id": "xSxnii4W-Pc",
+      "representative_title": "정부가 전국민에게 AI 사용료 4만원을 준다고?"
     },
     {
-      "label": "인텔",
+      "label": "OpenAI",
       "count": 1,
-      "avg_view_count": 113454,
-      "avg_engagement_rate": 0.008919914679076983,
-      "avg_like_count": 827,
-      "avg_comment_count": 185,
+      "avg_view_count": 36160,
+      "avg_engagement_rate": 0.007466814159292036,
+      "avg_like_count": 229,
+      "avg_comment_count": 41,
       "source_titles": [
-        "메모리 시장 변곡점? HBM은 빼고 CXL은 키운다… 인텔의 480GB GPU 등장 | 인텔의 진짜 목표는 서버 주도권"
+        "AI뉴스 - KIMI 미쳤다, 대규모 AI 해킹, GPU 해킹, Claude Duet, 스마트폰 Agent, 이미지, 영상 API 가격 경쟁, Dessa 등"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/vrfcKCobME0/hqdefault.jpg",
-      "representative_video_id": "vrfcKCobME0",
-      "representative_title": "메모리 시장 변곡점? HBM은 빼고 CXL은 키운다… 인텔의 480GB GPU 등장 | 인텔의 진짜 목표는 서버 주도권"
+      "thumbnail_url": "https://i.ytimg.com/vi/cvpNLI-O9PY/hqdefault.jpg",
+      "representative_video_id": "cvpNLI-O9PY",
+      "representative_title": "AI뉴스 - KIMI 미쳤다, 대규모 AI 해킹, GPU 해킹, Claude Duet, 스마트폰 Agent, 이미지, 영상 API 가격 경쟁, Dessa 등"
+    },
+    {
+      "label": "인프라",
+      "count": 1,
+      "avg_view_count": 27689,
+      "avg_engagement_rate": 0.015529632706128787,
+      "avg_like_count": 364,
+      "avg_comment_count": 66,
+      "source_titles": [
+        "아이렌 코어위브 네비우스 괜찮을까?"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/I8NtHosXdNE/hqdefault.jpg",
+      "representative_video_id": "I8NtHosXdNE",
+      "representative_title": "아이렌 코어위브 네비우스 괜찮을까?"
+    },
+    {
+      "label": "수익화",
+      "count": 1,
+      "avg_view_count": 14804,
+      "avg_engagement_rate": 0.050999729802756015,
+      "avg_like_count": 698,
+      "avg_comment_count": 57,
+      "source_titles": [
+        "ANOTHER Flying Car? (Not Tesla / Not AI)"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/gC18kqOcCEI/hqdefault.jpg",
+      "representative_video_id": "gC18kqOcCEI",
+      "representative_title": "ANOTHER Flying Car? (Not Tesla / Not AI)"
+    },
+    {
+      "label": "monetization",
+      "count": 1,
+      "avg_view_count": 14014,
+      "avg_engagement_rate": 0.028971028971028972,
+      "avg_like_count": 362,
+      "avg_comment_count": 44,
+      "source_titles": [
+        "The Robot Butler Will Clean Up After You"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/B8YFkYY20OY/hqdefault.jpg",
+      "representative_video_id": "B8YFkYY20OY",
+      "representative_title": "The Robot Butler Will Clean Up After You"
+    },
+    {
+      "label": "Notion",
+      "count": 1,
+      "avg_view_count": 12680,
+      "avg_engagement_rate": 0.06876971608832808,
+      "avg_like_count": 322,
+      "avg_comment_count": 550,
+      "source_titles": [
+        "클로드 쓰는 직장인이면 무조건 깔아야 할 스킬 100개 (전부 무료)"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/vYXf_8qyPS0/hqdefault.jpg",
+      "representative_video_id": "vYXf_8qyPS0",
+      "representative_title": "클로드 쓰는 직장인이면 무조건 깔아야 할 스킬 100개 (전부 무료)"
     },
     {
       "label": "인공지능",
       "count": 1,
-      "avg_view_count": 2278,
-      "avg_engagement_rate": 0.056189640035118525,
-      "avg_like_count": 124,
+      "avg_view_count": 3521,
+      "avg_engagement_rate": 0.031241124680488497,
+      "avg_like_count": 106,
       "avg_comment_count": 4,
       "source_titles": [
-        "Why I created the AI Freedom Summit"
+        "Asking CEOs at #AIFS what they want AI to take off their plate?"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/3hYSIr_68XE/hqdefault.jpg",
-      "representative_video_id": "3hYSIr_68XE",
-      "representative_title": "Why I created the AI Freedom Summit"
-    },
-    {
-      "label": "ChatGPT",
-      "count": 1,
-      "avg_view_count": 20,
-      "avg_engagement_rate": 0.2,
-      "avg_like_count": 4,
-      "avg_comment_count": 0,
-      "source_titles": [
-        "Do you use AI or are you still avoiding it?"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/BaiCnMAy1xs/hqdefault.jpg",
-      "representative_video_id": "BaiCnMAy1xs",
-      "representative_title": "Do you use AI or are you still avoiding it?"
+      "thumbnail_url": "https://i.ytimg.com/vi/r7KQQ-gLVQs/hqdefault.jpg",
+      "representative_video_id": "r7KQQ-gLVQs",
+      "representative_title": "Asking CEOs at #AIFS what they want AI to take off their plate?"
     }
   ],
   "video_highlights": [
     {
-      "video_id": "pJIVxXsLUA0",
-      "channel_name": "테크몽 Techmong",
-      "title": "기대했는데.. 아이폰 듀오 써보고 실망한 이유",
-      "thumbnail_url": "https://i.ytimg.com/vi/pJIVxXsLUA0/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=pJIVxXsLUA0",
-      "published_at": "2026-10-25T11:31:58Z",
-      "view_count": 312521,
-      "like_count": 3386,
-      "comment_count": 872,
-      "engagement_rate": 0.013624684421206896,
-      "topic_cluster": "IT",
-      "summary": "새로 출시된 아이폰 듀오를 하루 동안 사용해 본 결과, 뛰어난 스피커 성능에도 불구하고 높은 가격과 소프트웨어 최적화, 멀티태스킹의 불편함으로 인해 실망감을 드러냈…",
-      "comment_signal": "테크몽님 오랜 구독자인데 눈치 보지 마세요. 많은 구독자들은 테크몽님이 할 말 다 하고 깔땐 까고 그런게 좋아서 구독하는거랍니다. 흔하고 뻔한 리뷰가 아니라요.",
-      "hook_type": "솔직 검증"
-    },
-    {
-      "video_id": "vrfcKCobME0",
-      "channel_name": "안될공학 - IT 테크 신기술",
-      "title": "메모리 시장 변곡점? HBM은 빼고 CXL은 키운다… 인텔의 480GB GPU 등장 | 인텔의 진짜 목표는 서버 주도권",
-      "thumbnail_url": "https://i.ytimg.com/vi/vrfcKCobME0/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=vrfcKCobME0",
-      "published_at": "2026-10-25T07:47:53Z",
-      "view_count": 113454,
-      "like_count": 827,
-      "comment_count": 185,
-      "engagement_rate": 0.008919914679076983,
-      "topic_cluster": "인텔",
-      "summary": "인텔이 HBM 대신 LPDDR5X를 탑재한 D270 GPU를 통해 대용량 메모리 전략을 강화하고 있다. 이는 CXL 기반의 서버 확장성과 X86 환경의 이점을 활용…",
-      "comment_signal": "hbm 부족하고 디램도 부족하고 여러 방법을 시도 하는 중 결론 메모리 겁나 부족하다 ㄷㄷㄷ",
-      "hook_type": "솔직 검증"
-    },
-    {
-      "video_id": "2dbCeyC-WFw",
+      "video_id": "xSxnii4W-Pc",
       "channel_name": "조코딩 JoCoding",
-      "title": "IT뉴스 - KIMI K3 미쳤다, 대규모 AI 해킹, GPU 해킹, Claude Duet, 스마트폰 Agent, 이미지, 영상 API 가격 경쟁, Dessa 등",
-      "thumbnail_url": "https://i.ytimg.com/vi/2dbCeyC-WFw/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=2dbCeyC-WFw",
-      "published_at": "2026-10-25T11:46:23Z",
-      "view_count": 39536,
-      "like_count": 504,
-      "comment_count": 5,
-      "engagement_rate": 0.012874342371509511,
-      "topic_cluster": "Claude",
-      "summary": "최신 AI 기술 동향으로 Kimi K3 모델의 성능과 GPU 해킹 이슈, 그리고 클로드 모션을 활용한 영상 생성 사례를 다뤘다. 고비용의 GPU 환경에서 API 효…",
-      "comment_signal": "소넣고 외양간 고치는건 자동화 가능하지 않을까? ㅎ 찾아 가는 백신?ㅎ",
+      "title": "정부가 전국민에게 AI 사용료 4만원을 준다고?",
+      "thumbnail_url": "https://i.ytimg.com/vi/xSxnii4W-Pc/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=xSxnii4W-Pc",
+      "published_at": "2026-10-26T02:46:10Z",
+      "view_count": 52268,
+      "like_count": 591,
+      "comment_count": 200,
+      "engagement_rate": 0.01513354251167062,
+      "topic_cluster": "정부가",
+      "summary": "정부가 전국민 4만 원 준다고 해서 제가 직접 받아봤습니다. 모두의 AI 실험실에 가입하고 기본 교육까지 마치니까 여기 4만 포인트가 들어와 있죠.이 이 포인트로…",
+      "comment_signal": "코덱스야 모두의 AI 실험실에서 4만원 포인트 받고 정부 입맛에 맞는 앱 만들어줘. @chrome",
+      "hook_type": "수익"
+    },
+    {
+      "video_id": "cvpNLI-O9PY",
+      "channel_name": "조코딩 JoCoding",
+      "title": "AI뉴스 - KIMI 미쳤다, 대규모 AI 해킹, GPU 해킹, Claude Duet, 스마트폰 Agent, 이미지, 영상 API 가격 경쟁, Dessa 등",
+      "thumbnail_url": "https://i.ytimg.com/vi/cvpNLI-O9PY/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=cvpNLI-O9PY",
+      "published_at": "2026-10-26T13:30:07Z",
+      "view_count": 36160,
+      "like_count": 229,
+      "comment_count": 41,
+      "engagement_rate": 0.007466814159292036,
+      "topic_cluster": "OpenAI",
+      "summary": "그래서 이런 300만 조회수가 나오고 하루에 2만 명이 방문하는 이런 서비스를 직접 만들고 싶다 하시는 분들 조코딩의 바이브 코딩 1인 창업을 보시면 이분처럼 아…",
+      "comment_signal": "이번에 공개한 api도 클로드 오오푸스꺼에 꽂아버린거 아닌가...",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "4kIVQjVMYrE",
-      "channel_name": "빌더 조쉬 Builder Josh",
-      "title": "클로드가 몇 년 묵은 구글 드라이브를 대신 정리해 줍니다 (프롬프트 무료)",
-      "thumbnail_url": "https://i.ytimg.com/vi/4kIVQjVMYrE/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=4kIVQjVMYrE",
-      "published_at": "2026-10-25T09:00:16Z",
-      "view_count": 3513,
-      "like_count": 57,
-      "comment_count": 76,
-      "engagement_rate": 0.03785937944776544,
-      "topic_cluster": "Claude",
-      "summary": "크롬 브라우저의 클로드 사이드바를 활용해 구글 드라이브 내 파일을 정리하는 방법을 소개했다. 프롬프트를 통해 폴더 구조를 자동 생성하고, 중복 파일 식별 및 파일명…",
-      "comment_signal": "이정",
+      "video_id": "I8NtHosXdNE",
+      "channel_name": "월텍남 - 월스트리트 테크남",
+      "title": "아이렌 코어위브 네비우스 괜찮을까?",
+      "thumbnail_url": "https://i.ytimg.com/vi/I8NtHosXdNE/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=I8NtHosXdNE",
+      "published_at": "2026-10-26T08:45:34Z",
+      "view_count": 27689,
+      "like_count": 364,
+      "comment_count": 66,
+      "engagement_rate": 0.015529632706128787,
+      "topic_cluster": "인프라",
+      "summary": "일론 머스크의 AI 데이터센터 시장 경고와 함께 코어위브, 네비우스 등 네오클라우드의 현재 상황 및 미래 전망을 분석하며 AI 인프라 투자에 대한 인사이트를 제공합…",
+      "comment_signal": "일론: 나 혼자 다 해먹을거니까 나가떨어져",
+      "hook_type": "강한 주장"
+    },
+    {
+      "video_id": "Z0y6tlhLZAI",
+      "channel_name": "조코딩 JoCoding",
+      "title": "화상회의가 귀찮아서 AI 시킨 개발자의 최후",
+      "thumbnail_url": "https://i.ytimg.com/vi/Z0y6tlhLZAI/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=Z0y6tlhLZAI",
+      "published_at": "2026-10-26T06:25:35Z",
+      "view_count": 24700,
+      "like_count": 111,
+      "comment_count": 18,
+      "engagement_rate": 0.005222672064777328,
+      "topic_cluster": "agents",
+      "summary": "다른 개발자들 업무도 혼자 맡아 주세요. 클로드가 다하면 이제 개발자님은 필요 없겠네요. 그럼 이번 달까지만 나오시는 걸로 할게요.",
+      "comment_signal": "이젠 연기도 안해버리는 조코딩 클라스",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "3hYSIr_68XE",
-      "channel_name": "Dan Martell",
-      "title": "Why I created the AI Freedom Summit",
-      "thumbnail_url": "https://i.ytimg.com/vi/3hYSIr_68XE/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=3hYSIr_68XE",
-      "published_at": "2026-10-25T19:01:55Z",
-      "view_count": 2278,
-      "like_count": 124,
-      "comment_count": 4,
-      "engagement_rate": 0.056189640035118525,
-      "topic_cluster": "인공지능",
-      "summary": "기업의 AI 도입 실패 원인이 비효율적인 업무 처리 방식에 있다고 진단하고, 실무 전문가들과 협업하여 워크플로우에 AI를 최적화할 수 있도록 AI 프리덤 서밋을 기…",
-      "comment_signal": "Hey man, Keep it up❤❤❤",
-      "hook_type": "문제 해결"
+      "video_id": "c7eoynzRGME",
+      "channel_name": "조코딩 JoCoding",
+      "title": "앱 만들기는 쉬워졌다, 이제 돈 버는 방법 | Google AdMob | Global App Summit 2026",
+      "thumbnail_url": "https://i.ytimg.com/vi/c7eoynzRGME/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=c7eoynzRGME",
+      "published_at": "2026-10-26T09:30:31Z",
+      "view_count": 18885,
+      "like_count": 226,
+      "comment_count": 10,
+      "engagement_rate": 0.012496690495101933,
+      "topic_cluster": "agents",
+      "summary": "[웃음] 또 이제이 방송에서 나가도 되는지 모르겠지만 그 업데이트 내용을 좀 미리 들어봤을 때 네. 그래서 그런 스킬 같은 걸 이제 그 에이전트에 꽂기만 하면은 알…",
+      "comment_signal": "Google AdMob의 새로운 광고·수익화 자료를 확인해 보세요! https://forms.gle/mFaTyxASboq32BHE6 바이브 코딩으로 앱을 만들었다면, 이제…",
+      "hook_type": "수익"
     }
   ]
 }
