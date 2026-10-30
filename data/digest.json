@@ -1,263 +1,262 @@
 {
-  "digest_date": "2026-10-29",
-  "generated_at": "2026-10-29T02:20:37+00:00",
-  "summary": "최근 24시간 영상 24개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'Claude'입니다. 특히 'AI 에이전트 차단을 뚫어내는 미친 방법 ㄷㄷ'는 조회수 73.9K, 참여율 0.6%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "'Claude' 주제가 4개 영상으로 가장 많이 다뤄졌습니다. Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n[내 채널] 7일 평균 60.1K회 · 지속률 23.2% / 경쟁사 평균 19.2K회 (격차 +213%)",
-  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 10/29\n\n📊 총 10개 | AI 핵심 10 · 인접 AI 0 · 일반 테크 보충 0\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 10 · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [조코딩 JoCoding] 73.9K뷰 · 참여율 0.6%\n   AI 에이전트 차단을 뚫어내는 미친 방법 ㄷㄷ\n   ↳ AI 에이전트의 차단을 우회하여 스마트폰 등에서 활용하는 기술적인 방법을 다룹니다.\n   https://youtu.be/UD_ntFyGIeE\n\n2. AI 핵심 · [Fantasoner(판타소너)] 50.8K뷰 · 참여율 2.8%\n   말포이가 여주인 세계선 1화(Teaser) TS말포이\n   ↳ AI 도구를 활용해 제작한 TS말포이 주인공 컨셉의 드라마 영상입니다.\n   https://youtu.be/pBompYoxw1A\n\n3. AI 핵심 · [조코딩 JoCoding] 50.8K뷰 · 참여율 1.0%\n   트위터 창업자가 만든 사람같은 AI ㄷㄷ\n   ↳ 트위터 창업자가 개발에 참여하여 사람과 매우 유사한 대화가 가능한 AI 기술을 소개합니다.\n   https://youtu.be/GYA284v43jQ\n\n4. AI 핵심 · [조코딩 JoCoding] 36.7K뷰 · 참여율 0.6%\n   삼성 TV에 숨겨진 비밀을 찾아낸 개발자??\n   ↳ 삼성 스마트 TV 내부에 숨겨진 기능이나 취약점을 개발자 관점에서 분석하고 찾아낸 사례를 다룹니다.\n   https://youtu.be/TaGhrIuda8w\n\n5. AI 핵심 · [Matt Wolfe] 20.9K뷰 · 참여율 2.7%\n   His AI Made 20 Reels Before Breakfast\n   ↳ Claude Code를 활용한 영상 편집 자동화, AI 전문가 패널 의사결정 시스템, AI SNS 운영 워크플로우 등 실제 업무 생산성을 높이는 3가지 AI 활용법을 공유합니다.\n   https://youtu.be/AtjFk9f44HE\n\n6. AI 핵심 · [조코딩 JoCoding] 19.7K뷰 · 참여율 1.8%\n   컴퓨터는 절대 문서를 다 읽지 않습니다\n   ↳ AI가 문서의 모든 내용을 읽지 않고도 효율적으로 정보를 처리하는 검색 알고리즘과 컴퓨터의 데이터 처리 방식을 설명합니다.\n   https://youtu.be/rC6CqzvFQy8\n\n7. AI 핵심 · [조코딩 JoCoding] 13.9K뷰 · 참여율 1.2%\n   압축파일 하나로 컴퓨터를 끝장내는 방법 ㄷㄷ\n   ↳ 특수한 압축 파일을 이용해 시스템에 영향을 줄 수 있는 컴퓨터 보안 이슈와 관련 기법을 다룹니다.\n   https://youtu.be/1ZI4kPtfZE4\n\n8. AI 핵심 · [조코딩 JoCoding] 13.5K뷰 · 참여율 0.9%\n   PDF파일이 운영체제가 되는 마법\n   ↳ PDF 파일 형식 내에서 리눅스 운영체제를 구동하는 오픈소스 프로젝트 'LinuxPDF'를 소개합니다.\n   https://youtu.be/rgXdSNkZti0\n\n9. AI 핵심 · [조코딩 JoCoding] 12.8K뷰 · 참여율 0.7%\n   AI에게 업무메일 초안 맡겼더니\n   ↳ AI를 활용하여 업무용 이메일 초안을 작성할 때의 경험과 효율성을 공유합니다.\n   https://youtu.be/3-BDFmTwa0A\n\n10. AI 핵심 · [조코딩 JoCoding] 12.5K뷰 · 참여율 1.9%\n   전국민 4만원 받고, AI로 앱 만들 수 있는 기회!\n   ↳ 정부 지원 프로그램을 통해 AI 실험실에 참여하고 앱을 개발하며 보조금을 받을 수 있는 기회를 안내합니다.\n   https://youtu.be/u3XQmura6r0\n\n📈 스마트대디 어제 실적\n조회수 45.4K (↓24% vs 7일 평균) | 구독 +224\n시청 지속률 23.5% | 평균 시청 2분 15초\n경쟁사 평균 19.2K회 대비 내 7일 평균 +213%\n\n💡 VS 각도: Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
-  "video_count": 24,
-  "total_recent_video_count": 29,
+  "digest_date": "2026-10-30",
+  "generated_at": "2026-10-30T02:34:20+00:00",
+  "summary": "최근 24시간 영상 17개를 기준으로 보면, 오늘 가장 먼저 볼 축은 '코딩'입니다. 특히 '아직도 그거 쓰냐?'는 조회수 96.8K, 참여율 0.6%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "'코딩' 주제가 3개 영상으로 가장 많이 다뤄졌습니다. 일반인 관점 직접 실험 or VS 비교 각도로 차별화할 영역이 있습니다.\n[내 채널] 7일 평균 52.9K회 · 지속률 23.6% / 경쟁사 평균 21.5K회 (격차 +146%)",
+  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 10/30\n\n📊 총 10개 | AI 핵심 10 · 인접 AI 0 · 일반 테크 보충 0\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 10 · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [조코딩 JoCoding] 96.8K뷰 · 참여율 0.6%\n   아직도 그거 쓰냐?\n   ↳ 1인 창업과 바이브 코딩을 주제로 한 테크 영상으로, 개발 효율을 높이는 최신 코딩 방식과 전략을 다룹니다.\n   https://youtu.be/bFadYpjA0y8\n\n2. AI 핵심 · [조코딩 JoCoding] 74.7K뷰 · 참여율 1.4%\n   미친 출혈경쟁을 시작한 영상AI ㄷㄷ\n   ↳ 영상 생성 AI 시장의 치열한 기술 경쟁과 각 모델이 제공하는 최신 기능 및 활용 꿀팁을 소개합니다.\n   https://youtu.be/0HlAQqAV3Zs\n\n3. AI 핵심 · [조코딩 JoCoding] 50.8K뷰 · 참여율 0.5%\n   수상할 정도로 무술이 뛰어난 유니트리 로봇\n   ↳ 유니트리 휴머노이드 로봇의 고도화된 움직임과 무술 시연을 통해 로봇 공학의 발전 수준을 살펴봅니다.\n   https://youtu.be/QovrqJx1goM\n\n4. AI 핵심 · [AI Samson] 20.7K뷰 · 참여율 4.7%\n   The NEW Way To Get Perfect AI Character Consistency\n   ↳ 360도 영상 참조 방식을 활용해 AI 캐릭터의 일관성을 유지하며 다양한 장면을 생성하는 프롬프트 및 모델 사용법을 단계별로 설명합니다.\n   https://youtu.be/v-r-SWMiRo4\n\n5. AI 핵심 · [조코딩 JoCoding] 12.4K뷰 · 참여율 1.1%\n   숨어도 숨어도 총에 맞는 이유\n   ↳ 발로란트 게임 내에서 발생하는 렉 보상 현상을 분석하며, 네트워크 지연이 실제 플레이 상황에 미치는 영향을 다룹니다.\n   https://youtu.be/JpwuLJK0Lu4\n\n6. AI 핵심 · [Fantasoner(판타소너)] 12.1K뷰 · 참여율 1.6%\n   네이버 평점 9.9점《극야》1화 (프롤로그 편)\n   ↳ 네이버웹툰 '극야'를 원작으로 AI 기술을 사용하여 제작한 실사 영화 트레일러 영상을 소개합니다.\n   https://youtu.be/ZneGhy1k0z8\n\n7. AI 핵심 · [조코딩 JoCoding] 9.8K뷰 · 참여율 0.8%\n   GPT와의 대화를 보호하는 신기능 ㄷㄷ\n   ↳ GPT와의 대화 기록을 안전하게 보호할 수 있는 신규 보안 기능인 'Locked Chat'을 소개합니다.\n   https://youtu.be/2SYNXdTjRKs\n\n8. AI 핵심 · [The AI Advantage] 7.5K뷰 · 참여율 3.0%\n   How to Build a Free Version of any Paid App\n   ↳ ChatGPT를 활용해 유료 앱의 기능을 역설계하고, 이를 바탕으로 나만의 맞춤형 무료 앱을 구축하는 구체적인 과정을 설명합니다.\n   https://youtu.be/dc3pgMqhRzI\n\n9. AI 핵심 · [Matt Wolfe] 3.7K뷰 · 참여율 3.2%\n   3 Critical Tasks AI Can Automate For You\n   ↳ 사업 효율을 극대화하기 위해 AI 에이전트를 사용하여 이메일 배송 확인, 예약 알림, 고객 설정 등 반복적인 업무를 자동화하는 방법을 제시합니다.\n   https://youtu.be/evXFML_Rnc0\n\n10. AI 핵심 · [성공지식백과] 3.0K뷰 · 참여율 1.5%\n   4천만 달러짜리 게임 아이디어를 AI로.. ㄷㄷ GPT 6.1 테라 vs 클로드 하이쿠 5.5\n   ↳ 아트리스트 MCP를 연동해 GPT와 클로드 모델로 좀비 게임 시나리오를 만들고, 두 모델의 기획 방식과 가성비 및 결과물을 비교 분석합니다.\n   https://youtu.be/ofw9CIbQvwY\n\n📈 스마트대디 어제 실적\n조회수 39.6K (↓25% vs 7일 평균) | 구독 +243\n시청 지속률 25.0% | 평균 시청 2분 27초\n경쟁사 평균 21.5K회 대비 내 7일 평균 +146%\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+  "video_count": 17,
+  "total_recent_video_count": 24,
   "focus_scope": "ai_priority_then_tech_fill",
-  "average_view_count": 19207.0,
-  "average_engagement_rate": 0.01985746846339315,
-  "average_like_count": 281.0,
-  "average_comment_count": 32.0,
-  "best_video_id": "UD_ntFyGIeE",
-  "best_topic": "Claude",
+  "average_view_count": 21515.0,
+  "average_engagement_rate": 0.021658899723695463,
+  "average_like_count": 272.0,
+  "average_comment_count": 28.0,
+  "best_video_id": "bFadYpjA0y8",
+  "best_topic": "코딩",
   "summary_points": [
-    "가장 겹친 주제는 'Claude'이며 4개 영상, 평균 조회수 7.9K, 평균 참여율 4.1%입니다.",
-    "최고 실적 영상은 'AI 에이전트 차단을 뚫어내는 미친 방법 ㄷㄷ'이며 문제 해결 훅과 워크플로우 튜토리얼 포맷 조합이 강했습니다.",
-    "반복 노출된 툴은 Claude 4회, Notion 2회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
+    "가장 겹친 주제는 '코딩'이며 3개 영상, 평균 조회수 837, 평균 참여율 0.9%입니다.",
+    "최고 실적 영상은 '아직도 그거 쓰냐?'이며 문제 해결 훅과 빌드 데모 포맷 조합이 강했습니다.",
+    "반복 노출된 툴은 ChatGPT 2회, Claude 2회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
   ],
   "action_chips": [
-    "주제: Claude",
+    "주제: 코딩",
     "훅: 문제 해결",
-    "포맷: 워크플로우 튜토리얼",
+    "포맷: 빌드 데모",
     "기준 채널: 조코딩 JoCoding"
   ],
   "title_suggestions": [
-    "Claude vs ChatGPT, 일반인이 직접 써보니 이게 달랐다",
-    "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
-    "AI 비서 대결: Claude가 진짜 강한 상황은 따로 있었다"
+    "코딩 직접 실험 — 이게 진짜 되나?",
+    "코딩 vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
+    "코딩 써봤더니... (기대 vs 현실 솔직 후기)"
   ],
   "recommendations": [
     {
-      "title": "Claude vs ChatGPT, 일반인이 직접 써보니 이게 달랐다",
-      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "Claude 핵심 3가지",
-      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
-      "source_video_id": "AtjFk9f44HE",
-      "source": "His AI Made 20 Reels Before Breakfast",
-      "my_channel_context": "내 7일 평균 60.1K회 · 지속률 23.2% / 경쟁사 대비 +213%"
+      "title": "코딩 직접 실험 — 이게 진짜 되나?",
+      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
+      "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
+      "thumbnail_copy": "코딩 바로 해결",
+      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
+      "source_video_id": "93JxG8dZv84",
+      "source": "Can AI Predict the US Midterms?",
+      "my_channel_context": "내 7일 평균 52.9K회 · 지속률 23.6% / 경쟁사 대비 +146%"
     },
     {
-      "title": "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
-      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "Claude 바로 해결",
-      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
-      "source_video_id": "P3W20JtTQbw",
-      "source": "클로드 코드로 영화 스타일 59가지를 코드만으로 만듭니다 (무료, 한글 목록)",
-      "my_channel_context": "내 7일 평균 60.1K회 · 지속률 23.2% / 경쟁사 대비 +213%"
+      "title": "코딩 vs 다른 AI, 일반인 관점으로 직접 비교해봤다",
+      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
+      "angle": "큰 주제 하나를 대표 제목으로 세우고, 나머지 포인트는 보조 정보처럼 정리하는 압축형 포장이 좋습니다.",
+      "thumbnail_copy": "코딩 핵심 3가지",
+      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
+      "source_video_id": "qjMZcC6LzAg",
+      "source": "Google's Genie 4 builds a playable world from one prompt",
+      "my_channel_context": "내 7일 평균 52.9K회 · 지속률 23.6% / 경쟁사 대비 +146%"
     },
     {
-      "title": "AI 비서 대결: Claude가 진짜 강한 상황은 따로 있었다",
-      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "Claude 바로 해결",
-      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
-      "source_video_id": "UsFA_vw-jSI",
-      "source": "와이콤비네이터 대표가 매일 쓰는 클로드 코드 세팅, 깔면 개발팀이 통째로 생깁니다 (★13.8만, 무료)",
-      "my_channel_context": "내 7일 평균 60.1K회 · 지속률 23.2% / 경쟁사 대비 +213%"
+      "title": "코딩 써봤더니... (기대 vs 현실 솔직 후기)",
+      "hook": "지금 봐야 하는 이유를 먼저 박고, 세부 설명은 뒤로 미루는 압축형 훅",
+      "angle": "제목 첫 문장에서 문제를 못 박고, 본문 초반에 바로 해결 결과를 보여주는 식으로 압축하는 편이 유리합니다.",
+      "thumbnail_copy": "코딩 바로 해결",
+      "reason": "기능 소개를 넘어 실제 작업 흐름에서 어디에 꽂을지, 어떤 사람이 가장 먼저 써봐야 하는지까지 좁힌 콘텐츠 영역이 비어 있습니다.",
+      "source_video_id": "WutfuAvvXkA",
+      "source": "Same lines, two AI models. Which performance is better?",
+      "my_channel_context": "내 7일 평균 52.9K회 · 지속률 23.6% / 경쟁사 대비 +146%"
     }
   ],
   "topic_clusters": [
     {
-      "label": "Claude",
-      "count": 4,
-      "avg_view_count": 7922,
-      "avg_engagement_rate": 0.04065957860335817,
-      "avg_like_count": 196,
-      "avg_comment_count": 67,
+      "label": "코딩",
+      "count": 3,
+      "avg_view_count": 837,
+      "avg_engagement_rate": 0.009083109782879557,
+      "avg_like_count": 8,
+      "avg_comment_count": 1,
       "source_titles": [
-        "His AI Made 20 Reels Before Breakfast",
-        "클로드 코드로 영화 스타일 59가지를 코드만으로 만듭니다 (무료, 한글 목록)",
-        "와이콤비네이터 대표가 매일 쓰는 클로드 코드 세팅, 깔면 개발팀이 통째로 생깁니다 (★13.8만, 무료)"
+        "Can AI Predict the US Midterms?",
+        "Google's Genie 4 builds a playable world from one prompt",
+        "Same lines, two AI models. Which performance is better?"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/AtjFk9f44HE/hqdefault.jpg",
-      "representative_video_id": "AtjFk9f44HE",
-      "representative_title": "His AI Made 20 Reels Before Breakfast"
+      "thumbnail_url": "https://i.ytimg.com/vi/93JxG8dZv84/hqdefault.jpg",
+      "representative_video_id": "93JxG8dZv84",
+      "representative_title": "Can AI Predict the US Midterms?"
+    },
+    {
+      "label": "ChatGPT",
+      "count": 2,
+      "avg_view_count": 5224,
+      "avg_engagement_rate": 0.022192431703528033,
+      "avg_like_count": 119,
+      "avg_comment_count": 14,
+      "source_titles": [
+        "How to Build a Free Version of any Paid App",
+        "4천만 달러짜리 게임 아이디어를 AI로.. ㄷㄷ GPT 6.1 테라 vs 클로드 하이쿠 5.5"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/dc3pgMqhRzI/hqdefault.jpg",
+      "representative_video_id": "dc3pgMqhRzI",
+      "representative_title": "How to Build a Free Version of any Paid App"
+    },
+    {
+      "label": "아직도",
+      "count": 1,
+      "avg_view_count": 96789,
+      "avg_engagement_rate": 0.005806444947256403,
+      "avg_like_count": 497,
+      "avg_comment_count": 65,
+      "source_titles": [
+        "아직도 그거 쓰냐?"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/bFadYpjA0y8/hqdefault.jpg",
+      "representative_video_id": "bFadYpjA0y8",
+      "representative_title": "아직도 그거 쓰냐?"
+    },
+    {
+      "label": "Claude",
+      "count": 1,
+      "avg_view_count": 74699,
+      "avg_engagement_rate": 0.014096574251328665,
+      "avg_like_count": 1026,
+      "avg_comment_count": 27,
+      "source_titles": [
+        "미친 출혈경쟁을 시작한 영상AI ㄷㄷ"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/0HlAQqAV3Zs/hqdefault.jpg",
+      "representative_video_id": "0HlAQqAV3Zs",
+      "representative_title": "미친 출혈경쟁을 시작한 영상AI ㄷㄷ"
     },
     {
       "label": "Gemini",
-      "count": 2,
-      "avg_view_count": 9244,
-      "avg_engagement_rate": 0.02205317434171824,
-      "avg_like_count": 168,
-      "avg_comment_count": 32,
-      "source_titles": [
-        "Google Genie 4 is Here! (This is Insane)",
-        "압도적 1등 싹쓸이 제미나이 4 카본?! 역시 가만히 있을 구글이 아니었습니다.. ㄷㄷ"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/tSE4N1MIZIM/hqdefault.jpg",
-      "representative_video_id": "tSE4N1MIZIM",
-      "representative_title": "Google Genie 4 is Here! (This is Insane)"
-    },
-    {
-      "label": "코딩",
-      "count": 2,
-      "avg_view_count": 514,
-      "avg_engagement_rate": 0.008926694340587089,
-      "avg_like_count": 5,
-      "avg_comment_count": 0,
-      "source_titles": [
-        "Futurepedia 2.0 is live!",
-        "Same prompt, two AI models. Which dance looks real?"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/isalixh-V0c/hqdefault.jpg",
-      "representative_video_id": "isalixh-V0c",
-      "representative_title": "Futurepedia 2.0 is live!"
-    },
-    {
-      "label": "agents",
       "count": 1,
-      "avg_view_count": 73854,
-      "avg_engagement_rate": 0.006363907168196712,
-      "avg_like_count": 439,
-      "avg_comment_count": 31,
+      "avg_view_count": 57717,
+      "avg_engagement_rate": 0.011591039035292895,
+      "avg_like_count": 596,
+      "avg_comment_count": 73,
       "source_titles": [
-        "AI 에이전트 차단을 뚫어내는 미친 방법 ㄷㄷ"
+        "구글이 또 큰 거 하나 꺼내네요... AI가 만든 세계, 이제 소리와 행동까지? Genie 4의 가능성과 빈틈"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/UD_ntFyGIeE/hqdefault.jpg",
-      "representative_video_id": "UD_ntFyGIeE",
-      "representative_title": "AI 에이전트 차단을 뚫어내는 미친 방법 ㄷㄷ"
+      "thumbnail_url": "https://i.ytimg.com/vi/qZ-rS86SxVU/hqdefault.jpg",
+      "representative_video_id": "qZ-rS86SxVU",
+      "representative_title": "구글이 또 큰 거 하나 꺼내네요... AI가 만든 세계, 이제 소리와 행동까지? Genie 4의 가능성과 빈틈"
     },
     {
-      "label": "Arc",
+      "label": "수상할",
       "count": 1,
-      "avg_view_count": 64775,
-      "avg_engagement_rate": 0.02451563103049016,
-      "avg_like_count": 1510,
-      "avg_comment_count": 78,
+      "avg_view_count": 50828,
+      "avg_engagement_rate": 0.004761155268749508,
+      "avg_like_count": 173,
+      "avg_comment_count": 69,
       "source_titles": [
-        "How to Build an AI Agent for Every Part of Your Life"
+        "수상할 정도로 무술이 뛰어난 유니트리 로봇"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/SJywU4UQryQ/hqdefault.jpg",
-      "representative_video_id": "SJywU4UQryQ",
-      "representative_title": "How to Build an AI Agent for Every Part of Your Life"
+      "thumbnail_url": "https://i.ytimg.com/vi/QovrqJx1goM/hqdefault.jpg",
+      "representative_video_id": "QovrqJx1goM",
+      "representative_title": "수상할 정도로 무술이 뛰어난 유니트리 로봇"
     },
     {
-      "label": "말포이가",
+      "label": "monetization",
       "count": 1,
-      "avg_view_count": 50841,
-      "avg_engagement_rate": 0.027733522157313978,
-      "avg_like_count": 1238,
-      "avg_comment_count": 172,
+      "avg_view_count": 20712,
+      "avg_engagement_rate": 0.04692931633835458,
+      "avg_like_count": 903,
+      "avg_comment_count": 69,
       "source_titles": [
-        "말포이가 여주인 세계선 1화(Teaser) TS말포이"
+        "The NEW Way To Get Perfect AI Character Consistency"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/pBompYoxw1A/hqdefault.jpg",
-      "representative_video_id": "pBompYoxw1A",
-      "representative_title": "말포이가 여주인 세계선 1화(Teaser) TS말포이"
+      "thumbnail_url": "https://i.ytimg.com/vi/v-r-SWMiRo4/hqdefault.jpg",
+      "representative_video_id": "v-r-SWMiRo4",
+      "representative_title": "The NEW Way To Get Perfect AI Character Consistency"
     },
     {
-      "label": "트위터",
+      "label": "숨어도",
       "count": 1,
-      "avg_view_count": 50771,
-      "avg_engagement_rate": 0.00996631935553761,
-      "avg_like_count": 479,
-      "avg_comment_count": 27,
+      "avg_view_count": 12407,
+      "avg_engagement_rate": 0.01136455226888047,
+      "avg_like_count": 129,
+      "avg_comment_count": 12,
       "source_titles": [
-        "트위터 창업자가 만든 사람같은 AI ㄷㄷ"
+        "숨어도 숨어도 총에 맞는 이유"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/GYA284v43jQ/hqdefault.jpg",
-      "representative_video_id": "GYA284v43jQ",
-      "representative_title": "트위터 창업자가 만든 사람같은 AI ㄷㄷ"
-    },
-    {
-      "label": "삼성",
-      "count": 1,
-      "avg_view_count": 36720,
-      "avg_engagement_rate": 0.0060185185185185185,
-      "avg_like_count": 208,
-      "avg_comment_count": 13,
-      "source_titles": [
-        "삼성 TV에 숨겨진 비밀을 찾아낸 개발자??"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/TaGhrIuda8w/hqdefault.jpg",
-      "representative_video_id": "TaGhrIuda8w",
-      "representative_title": "삼성 TV에 숨겨진 비밀을 찾아낸 개발자??"
+      "thumbnail_url": "https://i.ytimg.com/vi/JpwuLJK0Lu4/hqdefault.jpg",
+      "representative_video_id": "JpwuLJK0Lu4",
+      "representative_title": "숨어도 숨어도 총에 맞는 이유"
     }
   ],
   "video_highlights": [
     {
-      "video_id": "UD_ntFyGIeE",
+      "video_id": "bFadYpjA0y8",
       "channel_name": "조코딩 JoCoding",
-      "title": "AI 에이전트 차단을 뚫어내는 미친 방법 ㄷㄷ",
-      "thumbnail_url": "https://i.ytimg.com/vi/UD_ntFyGIeE/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=UD_ntFyGIeE",
-      "published_at": "2026-10-28T11:00:33Z",
-      "view_count": 73854,
-      "like_count": 439,
-      "comment_count": 31,
-      "engagement_rate": 0.006363907168196712,
-      "topic_cluster": "agents",
-      "summary": "AI 에이전트의 차단을 우회하여 스마트폰 등에서 활용하는 기술적인 방법을 다룹니다.",
-      "comment_signal": "피지컬 AI ?",
+      "title": "아직도 그거 쓰냐?",
+      "thumbnail_url": "https://i.ytimg.com/vi/bFadYpjA0y8/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=bFadYpjA0y8",
+      "published_at": "2026-10-29T08:00:18Z",
+      "view_count": 96789,
+      "like_count": 497,
+      "comment_count": 65,
+      "engagement_rate": 0.005806444947256403,
+      "topic_cluster": "아직도",
+      "summary": "1인 창업과 바이브 코딩을 주제로 한 테크 영상으로, 개발 효율을 높이는 최신 코딩 방식과 전략을 다룹니다.",
+      "comment_signal": "ㅋㅋㅋㅋㅋㅋㅋ ㄹㅇ ai 업계 어지럽다",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "SJywU4UQryQ",
-      "channel_name": "Dan Martell",
-      "title": "How to Build an AI Agent for Every Part of Your Life",
-      "thumbnail_url": "https://i.ytimg.com/vi/SJywU4UQryQ/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=SJywU4UQryQ",
-      "published_at": "2026-10-28T13:00:28Z",
-      "view_count": 64775,
-      "like_count": 1510,
-      "comment_count": 78,
-      "engagement_rate": 0.02451563103049016,
-      "topic_cluster": "Arc",
-      "summary": "자막을 확보하지 못해 제목·댓글·메타데이터 기준으로 분석했습니다.",
-      "comment_signal": "Maybe a cyber security bot that the rest have to check in with first?",
-      "hook_type": "실험"
-    },
-    {
-      "video_id": "pBompYoxw1A",
-      "channel_name": "Fantasoner(판타소너)",
-      "title": "말포이가 여주인 세계선 1화(Teaser) TS말포이",
-      "thumbnail_url": "https://i.ytimg.com/vi/pBompYoxw1A/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=pBompYoxw1A",
-      "published_at": "2026-10-28T16:51:33Z",
-      "view_count": 50841,
-      "like_count": 1238,
-      "comment_count": 172,
-      "engagement_rate": 0.027733522157313978,
-      "topic_cluster": "말포이가",
-      "summary": "AI 도구를 활용해 제작한 TS말포이 주인공 컨셉의 드라마 영상입니다.",
-      "comment_signal": "The age of AI video is divided into two eras: pre-Malfoid and post-Malfoid",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "GYA284v43jQ",
+      "video_id": "0HlAQqAV3Zs",
       "channel_name": "조코딩 JoCoding",
-      "title": "트위터 창업자가 만든 사람같은 AI ㄷㄷ",
-      "thumbnail_url": "https://i.ytimg.com/vi/GYA284v43jQ/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=GYA284v43jQ",
-      "published_at": "2026-10-28T07:30:03Z",
-      "view_count": 50771,
-      "like_count": 479,
+      "title": "미친 출혈경쟁을 시작한 영상AI ㄷㄷ",
+      "thumbnail_url": "https://i.ytimg.com/vi/0HlAQqAV3Zs/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=0HlAQqAV3Zs",
+      "published_at": "2026-10-29T11:00:12Z",
+      "view_count": 74699,
+      "like_count": 1026,
       "comment_count": 27,
-      "engagement_rate": 0.00996631935553761,
-      "topic_cluster": "트위터",
-      "summary": "트위터 창업자가 개발에 참여하여 사람과 매우 유사한 대화가 가능한 AI 기술을 소개합니다.",
-      "comment_signal": "보이스 피싱 일자리 주는중 ㅋ",
+      "engagement_rate": 0.014096574251328665,
+      "topic_cluster": "Claude",
+      "summary": "영상 생성 AI 시장의 치열한 기술 경쟁과 각 모델이 제공하는 최신 기능 및 활용 꿀팁을 소개합니다.",
+      "comment_signal": "치킨 게임 시작",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "TaGhrIuda8w",
+      "video_id": "qZ-rS86SxVU",
+      "channel_name": "안될공학 - IT 테크 신기술",
+      "title": "구글이 또 큰 거 하나 꺼내네요... AI가 만든 세계, 이제 소리와 행동까지? Genie 4의 가능성과 빈틈",
+      "thumbnail_url": "https://i.ytimg.com/vi/qZ-rS86SxVU/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=qZ-rS86SxVU",
+      "published_at": "2026-10-29T06:54:45Z",
+      "view_count": 57717,
+      "like_count": 596,
+      "comment_count": 73,
+      "engagement_rate": 0.011591039035292895,
+      "topic_cluster": "Gemini",
+      "summary": "구글의 Genie 4를 통해 구현된 상호작용 가능한 세계의 가능성과 물리적 정확도, 일관성 측면의 현재 기술적 한계를 분석합니다.",
+      "comment_signal": "조금 있으면 vr도 되겠네..",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "QovrqJx1goM",
       "channel_name": "조코딩 JoCoding",
-      "title": "삼성 TV에 숨겨진 비밀을 찾아낸 개발자??",
-      "thumbnail_url": "https://i.ytimg.com/vi/TaGhrIuda8w/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=TaGhrIuda8w",
-      "published_at": "2026-10-28T09:00:09Z",
-      "view_count": 36720,
-      "like_count": 208,
-      "comment_count": 13,
-      "engagement_rate": 0.0060185185185185185,
-      "topic_cluster": "삼성",
-      "summary": "삼성 스마트 TV 내부에 숨겨진 기능이나 취약점을 개발자 관점에서 분석하고 찾아낸 사례를 다룹니다.",
-      "comment_signal": "늘 한결같은 기업.. 글로벌 위상을 드높이네요.",
+      "title": "수상할 정도로 무술이 뛰어난 유니트리 로봇",
+      "thumbnail_url": "https://i.ytimg.com/vi/QovrqJx1goM/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=QovrqJx1goM",
+      "published_at": "2026-10-29T09:00:04Z",
+      "view_count": 50828,
+      "like_count": 173,
+      "comment_count": 69,
+      "engagement_rate": 0.004761155268749508,
+      "topic_cluster": "수상할",
+      "summary": "유니트리 휴머노이드 로봇의 고도화된 움직임과 무술 시연을 통해 로봇 공학의 발전 수준을 살펴봅니다.",
+      "comment_signal": "사람 구하고 대신 차에 치인다는데 그전에 밀어서 죽인것 같은데",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "v-r-SWMiRo4",
+      "channel_name": "AI Samson",
+      "title": "The NEW Way To Get Perfect AI Character Consistency",
+      "thumbnail_url": "https://i.ytimg.com/vi/v-r-SWMiRo4/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=v-r-SWMiRo4",
+      "published_at": "2026-10-29T19:44:24Z",
+      "view_count": 20712,
+      "like_count": 903,
+      "comment_count": 69,
+      "engagement_rate": 0.04692931633835458,
+      "topic_cluster": "monetization",
+      "summary": "360도 영상 참조 방식을 활용해 AI 캐릭터의 일관성을 유지하며 다양한 장면을 생성하는 프롬프트 및 모델 사용법을 단계별로 설명합니다.",
+      "comment_signal": "You’re probably the first to do this in the ai space. I’m sure such videos will start going vir…",
       "hook_type": "문제 해결"
     }
   ]
