@@ -1,7 +1,7 @@
 {
   "quota": {
-    "day": "2026-10-30",
-    "used": 4534
+    "day": "2026-10-31",
+    "used": 1477
   },
   "channels": {
     "UCwvXnrOCRlhokHlJwohf2OA": {
@@ -9,18 +9,18 @@
       "subs": 67100,
       "uploads": "UUwvXnrOCRlhokHlJwohf2OA",
       "meta_at": "2026-10-29T21:58:43Z",
-      "baseline": 15846.0,
+      "baseline": 15857.0,
       "baseline_n": 15,
-      "baseline_at": "2026-10-30T21:41:11Z"
+      "baseline_at": "2026-10-31T11:11:36Z"
     },
     "UCNJ1Ymd5yFuUPtn21xtRbbw": {
       "title": "AI Explained",
       "subs": 457000,
       "uploads": "UUNJ1Ymd5yFuUPtn21xtRbbw",
       "meta_at": "2026-10-29T21:58:43Z",
-      "baseline": 122329.0,
+      "baseline": 122333.0,
       "baseline_n": 15,
-      "baseline_at": "2026-10-30T21:41:11Z"
+      "baseline_at": "2026-10-31T11:11:36Z"
     },
     "UCxj3eVTAv9KLdrowXcuCFDQ": {
       "title": "빌더 조쉬 Builder Josh",
@@ -29,52 +29,52 @@
       "meta_at": "2026-10-29T11:43:47Z",
       "baseline": null,
       "baseline_n": 0,
-      "baseline_at": "2026-10-30T21:41:11Z"
+      "baseline_at": "2026-10-31T11:11:36Z"
     },
     "UCiTGSmGgJtKTcjEvDk_zRhw": {
       "title": "귀곰",
       "subs": 1160000,
       "uploads": "UUiTGSmGgJtKTcjEvDk_zRhw",
       "meta_at": "2026-10-30T11:35:40Z",
-      "baseline": 558905.0,
+      "baseline": 561955.0,
       "baseline_n": 15,
-      "baseline_at": "2026-10-30T21:41:11Z"
+      "baseline_at": "2026-10-31T11:11:36Z"
     },
     "UC3nKTPXh9DE0Md3HvCPB7sw": {
       "title": "tef",
       "subs": 148000,
       "uploads": "UU3nKTPXh9DE0Md3HvCPB7sw",
       "meta_at": "2026-10-25T15:02:34Z",
-      "baseline": 141558.0,
+      "baseline": 141719.0,
       "baseline_n": 15,
-      "baseline_at": "2026-10-30T21:41:11Z"
+      "baseline_at": "2026-10-31T11:11:36Z"
     },
     "UCFX6adXoyQKxft933NB3rmA": {
       "title": "테크몽 Techmong",
-      "subs": 942000,
+      "subs": 944000,
       "uploads": "UUFX6adXoyQKxft933NB3rmA",
-      "meta_at": "2026-10-25T15:02:34Z",
-      "baseline": 307372.0,
+      "meta_at": "2026-10-31T11:11:36Z",
+      "baseline": 307667.0,
       "baseline_n": 15,
-      "baseline_at": "2026-10-30T21:41:11Z"
+      "baseline_at": "2026-10-31T11:11:36Z"
     },
     "UCdUcjkyZtf-1WJyPPiETF1g": {
       "title": "ITSub잇섭",
       "subs": 2840000,
       "uploads": "UUdUcjkyZtf-1WJyPPiETF1g",
       "meta_at": "2026-10-28T17:21:16Z",
-      "baseline": 1099907.0,
+      "baseline": 1101182.0,
       "baseline_n": 15,
-      "baseline_at": "2026-10-30T21:41:11Z"
+      "baseline_at": "2026-10-31T11:11:36Z"
     },
     "UCB11SAf7WSN4GrCquKoOHrw": {
       "title": "주연 ZUYONI",
       "subs": 838000,
       "uploads": "UUB11SAf7WSN4GrCquKoOHrw",
       "meta_at": "2026-10-27T16:50:13Z",
-      "baseline": 496851.0,
+      "baseline": 497739.0,
       "baseline_n": 15,
-      "baseline_at": "2026-10-30T21:41:11Z"
+      "baseline_at": "2026-10-31T11:11:36Z"
     },
     "UCA-mWX9CvCTVFWRMb9bKc9w": {
       "title": "Dan Martell",
@@ -83,70 +83,70 @@
       "meta_at": "2026-10-28T17:21:16Z",
       "baseline": null,
       "baseline_n": 0,
-      "baseline_at": "2026-10-30T21:41:11Z"
+      "baseline_at": "2026-10-31T11:11:36Z"
     },
     "UCQNE2JmbasNYbjGAcuBiRRg": {
       "title": "조코딩 JoCoding",
       "subs": 752000,
       "uploads": "UUQNE2JmbasNYbjGAcuBiRRg",
       "meta_at": "2026-10-28T17:21:16Z",
-      "baseline": 49202.0,
+      "baseline": 49363.0,
       "baseline_n": 3,
-      "baseline_at": "2026-10-30T21:41:11Z"
+      "baseline_at": "2026-10-31T11:11:36Z"
     },
     "UCr-BsqUguoNpv3kxjsjorgA": {
       "title": "AI 머니",
       "subs": 142000,
       "uploads": "UUr-BsqUguoNpv3kxjsjorgA",
       "meta_at": "2026-10-30T17:09:12Z",
-      "baseline": 13696.0,
+      "baseline": 13705.0,
       "baseline_n": 15,
-      "baseline_at": "2026-10-30T21:41:11Z"
+      "baseline_at": "2026-10-31T11:11:36Z"
     },
     "UC_RovKmk0OCbuZjA8f08opw": {
       "title": "Futurepedia",
       "subs": 764000,
       "uploads": "UU_RovKmk0OCbuZjA8f08opw",
       "meta_at": "2026-10-29T21:58:43Z",
-      "baseline": 117199.0,
+      "baseline": 118130.0,
       "baseline_n": 5,
-      "baseline_at": "2026-10-30T21:41:11Z"
+      "baseline_at": "2026-10-31T11:11:36Z"
     },
     "UCR9j1jqqB5Rse69wjUnbYwA": {
       "title": "All About AI",
       "subs": 227000,
       "uploads": "UUR9j1jqqB5Rse69wjUnbYwA",
       "meta_at": "2026-10-29T21:58:43Z",
-      "baseline": 9887.0,
+      "baseline": 9890.0,
       "baseline_n": 15,
-      "baseline_at": "2026-10-30T21:41:11Z"
+      "baseline_at": "2026-10-31T11:11:36Z"
     },
     "UC-SyuGFlZXpGdR7WszgYBhw": {
       "title": "성공지식백과",
       "subs": 116000,
       "uploads": "UU-SyuGFlZXpGdR7WszgYBhw",
       "meta_at": "2026-10-30T17:09:12Z",
-      "baseline": 19227.0,
+      "baseline": 19245.0,
       "baseline_n": 15,
-      "baseline_at": "2026-10-30T21:41:11Z"
+      "baseline_at": "2026-10-31T11:11:36Z"
     },
     "UCWV2Uy79TOpB1bk8hnq1nGw": {
       "title": "월텍남 - 월스트리트 테크남",
       "subs": 227000,
       "uploads": "UUWV2Uy79TOpB1bk8hnq1nGw",
       "meta_at": "2026-10-28T17:21:16Z",
-      "baseline": 36857.0,
+      "baseline": 36863.0,
       "baseline_n": 9,
-      "baseline_at": "2026-10-30T21:41:11Z"
+      "baseline_at": "2026-10-31T11:11:36Z"
     },
     "UCf9yTGvaf5HL8CCPxIanENg": {
       "title": "알린 ALINN",
       "subs": 184000,
       "uploads": "UUf9yTGvaf5HL8CCPxIanENg",
       "meta_at": "2026-10-25T15:02:34Z",
-      "baseline": 18656.0,
+      "baseline": 18715.5,
       "baseline_n": 14,
-      "baseline_at": "2026-10-30T21:41:11Z"
+      "baseline_at": "2026-10-31T11:11:36Z"
     },
     "UCn2RJFAA1ndipnVJsYAwWOw": {
       "title": "AI Andy",
@@ -155,70 +155,70 @@
       "meta_at": "2026-10-25T15:02:34Z",
       "baseline": 3805.0,
       "baseline_n": 15,
-      "baseline_at": "2026-10-30T21:41:11Z"
+      "baseline_at": "2026-10-31T11:11:36Z"
     },
     "UC5Wz4fFacYuON6IKbhSa7Zw": {
       "title": "MattVidPro",
       "subs": 305000,
       "uploads": "UU5Wz4fFacYuON6IKbhSa7Zw",
       "meta_at": "2026-10-27T10:55:26Z",
-      "baseline": 24714.0,
+      "baseline": 24720.0,
       "baseline_n": 15,
-      "baseline_at": "2026-10-30T21:41:11Z"
+      "baseline_at": "2026-10-31T11:11:36Z"
     },
     "UCW5E41hoHySJfijC6dkfhGg": {
       "title": "Fantasoner(판타소너)",
       "subs": 383000,
       "uploads": "UUW5E41hoHySJfijC6dkfhGg",
       "meta_at": "2026-10-29T21:58:43Z",
-      "baseline": 289917.0,
+      "baseline": 290235.0,
       "baseline_n": 15,
-      "baseline_at": "2026-10-30T21:41:11Z"
+      "baseline_at": "2026-10-31T11:11:36Z"
     },
     "UCHhYXsLBEVVnbvsq57n1MTQ": {
       "title": "The AI Advantage",
       "subs": 492000,
       "uploads": "UUHhYXsLBEVVnbvsq57n1MTQ",
       "meta_at": "2026-10-30T11:35:40Z",
-      "baseline": 51547.0,
+      "baseline": 51561.0,
       "baseline_n": 9,
-      "baseline_at": "2026-10-30T21:41:11Z"
+      "baseline_at": "2026-10-31T11:11:36Z"
     },
     "UCabERhdn6eNbGYcO2g98k_w": {
       "title": "Minimunch",
       "subs": 119000,
       "uploads": "UUabERhdn6eNbGYcO2g98k_w",
       "meta_at": "2026-10-29T21:58:43Z",
-      "baseline": 123615.0,
+      "baseline": 123712.0,
       "baseline_n": 15,
-      "baseline_at": "2026-10-30T21:41:11Z"
+      "baseline_at": "2026-10-31T11:11:36Z"
     },
     "UCvM5YYWwfLwpcQgbRr68JLQ": {
       "title": "Adrian Twarog",
       "subs": 418000,
       "uploads": "UUvM5YYWwfLwpcQgbRr68JLQ",
       "meta_at": "2026-10-29T21:58:43Z",
-      "baseline": 21144.0,
+      "baseline": 21153.0,
       "baseline_n": 15,
-      "baseline_at": "2026-10-30T21:41:11Z"
+      "baseline_at": "2026-10-31T11:11:36Z"
     },
     "UCwAnu01qlnVg1Ai2AbtTMaA": {
       "title": "Jeff Su",
       "subs": 1940000,
       "uploads": "UUwAnu01qlnVg1Ai2AbtTMaA",
       "meta_at": "2026-10-27T16:50:13Z",
-      "baseline": 266021.0,
+      "baseline": 266476.0,
       "baseline_n": 15,
-      "baseline_at": "2026-10-30T21:41:11Z"
+      "baseline_at": "2026-10-31T11:11:36Z"
     },
     "UChpleBmo18P08aKCIgti38g": {
       "title": "Matt Wolfe",
       "subs": 1020000,
       "uploads": "UUhpleBmo18P08aKCIgti38g",
       "meta_at": "2026-10-28T21:53:21Z",
-      "baseline": 163653.0,
+      "baseline": 164895.0,
       "baseline_n": 7,
-      "baseline_at": "2026-10-30T21:41:11Z"
+      "baseline_at": "2026-10-31T11:11:36Z"
     },
     "UCrWUuwQOvfBYi0JQzigbr_g": {
       "title": "Goda Go",
@@ -227,34 +227,34 @@
       "meta_at": "2026-10-29T11:43:47Z",
       "baseline": 2861.0,
       "baseline_n": 15,
-      "baseline_at": "2026-10-30T21:41:11Z"
+      "baseline_at": "2026-10-31T11:11:36Z"
     },
     "UCeN2YeJcBCRJoXgzF_OU3qw": {
       "title": "안될공학 - IT 테크 신기술",
       "subs": 446000,
       "uploads": "UUeN2YeJcBCRJoXgzF_OU3qw",
       "meta_at": "2026-10-28T17:21:16Z",
-      "baseline": 126990.0,
-      "baseline_n": 13,
-      "baseline_at": "2026-10-30T21:41:11Z"
+      "baseline": 118556.5,
+      "baseline_n": 14,
+      "baseline_at": "2026-10-31T11:11:36Z"
     },
     "UCED3hlYdD0SlCff7jJ8tF3Q": {
       "title": "AI Samson",
       "subs": 278000,
       "uploads": "UUED3hlYdD0SlCff7jJ8tF3Q",
       "meta_at": "2026-10-28T21:53:21Z",
-      "baseline": 44076.0,
+      "baseline": 44938.0,
       "baseline_n": 15,
-      "baseline_at": "2026-10-30T21:41:11Z"
+      "baseline_at": "2026-10-31T11:11:36Z"
     },
     "UCNkdLSKIRtTtoRNjvkLO1aQ": {
       "title": "동테크",
       "subs": 42500,
       "uploads": "UUNkdLSKIRtTtoRNjvkLO1aQ",
       "meta_at": "2026-10-29T21:58:43Z",
-      "baseline": 11047.0,
+      "baseline": 11138.0,
       "baseline_n": 15,
-      "baseline_at": "2026-10-30T21:41:11Z"
+      "baseline_at": "2026-10-31T11:11:36Z"
     },
     "UCWNdNma5sbMELOhpu6qD8Sg": {
       "title": "Emowe",
@@ -1410,12 +1410,12 @@
     },
     "UC3rrwiD_qrYp2B8hgU3YBGQ": {
       "title": "옆자리 연구원",
-      "subs": 460,
+      "subs": 1390,
       "uploads": "UU3rrwiD_qrYp2B8hgU3YBGQ",
-      "meta_at": "2026-10-22T20:46:28Z",
-      "baseline": 6411.5,
+      "meta_at": "2026-10-31T11:11:36Z",
+      "baseline": 7464.0,
       "baseline_n": 4,
-      "baseline_at": "2026-10-22T20:46:28Z"
+      "baseline_at": "2026-10-31T11:11:36Z"
     },
     "UCB_XRxFuLM--mHapaDn3yqA": {
       "title": "남다른 AI",
@@ -1941,12 +1941,12 @@
     },
     "UCRpOIr-NJpK9S483ge20Pgw": {
       "title": "코드깎는노인",
-      "subs": 56000,
+      "subs": 56700,
       "uploads": "UURpOIr-NJpK9S483ge20Pgw",
-      "meta_at": "2026-10-27T10:55:26Z",
-      "baseline": 10747.0,
+      "meta_at": "2026-10-31T11:11:36Z",
+      "baseline": 11267.0,
       "baseline_n": 15,
-      "baseline_at": "2026-10-27T10:55:26Z"
+      "baseline_at": "2026-10-31T11:11:36Z"
     },
     "UCl9MhemFp_ZnxLEhbKT2y4w": {
       "title": "Crypto Jazzi ",
@@ -3966,12 +3966,12 @@
     },
     "UCxZ2AlaT0hOmxzZVbF_j_Sw": {
       "title": "코드팩토리",
-      "subs": 81900,
+      "subs": 82200,
       "uploads": "UUxZ2AlaT0hOmxzZVbF_j_Sw",
-      "meta_at": "2026-10-26T17:38:12Z",
-      "baseline": 38189.0,
+      "meta_at": "2026-10-31T11:11:36Z",
+      "baseline": 38931.0,
       "baseline_n": 15,
-      "baseline_at": "2026-10-26T17:38:12Z"
+      "baseline_at": "2026-10-31T11:11:36Z"
     },
     "UCqjlms7qGL3wXQ7d5keGGAQ": {
       "title": "황산갈매기",
@@ -3993,12 +3993,12 @@
     },
     "UC4RdmV-k6SLtjUmu_JPbkmw": {
       "title": "문외인 Layperson",
-      "subs": 5230,
+      "subs": 5690,
       "uploads": "UU4RdmV-k6SLtjUmu_JPbkmw",
-      "meta_at": "2026-10-26T17:38:12Z",
-      "baseline": 48395.0,
-      "baseline_n": 5,
-      "baseline_at": "2026-10-26T17:38:12Z"
+      "meta_at": "2026-10-31T11:11:36Z",
+      "baseline": 70057.0,
+      "baseline_n": 3,
+      "baseline_at": "2026-10-31T11:11:36Z"
     },
     "UCIALMKvObZNtJ6AmdCLP7Lg": {
       "title": "Bloomberg Television",
@@ -4983,12 +4983,12 @@
     },
     "UCCw1Ng1uXaemhIMYRyla7Vw": {
       "title": "온라인 사업 전략, 온크트리",
-      "subs": 91800,
+      "subs": 92200,
       "uploads": "UUCw1Ng1uXaemhIMYRyla7Vw",
-      "meta_at": "2026-10-28T00:43:04Z",
+      "meta_at": "2026-10-31T11:11:36Z",
       "baseline": null,
       "baseline_n": 0,
-      "baseline_at": "2026-10-28T00:43:04Z"
+      "baseline_at": "2026-10-31T11:11:36Z"
     },
     "UCmWgoMokR8Z9GKDjz28lJYw": {
       "title": "호두의 AI 분석실",
@@ -6591,6 +6591,87 @@
       "baseline": 20900.0,
       "baseline_n": 15,
       "baseline_at": "2026-10-30T21:41:11Z"
+    },
+    "UCctL30i8tVgSS9A37Q532eg": {
+      "title": "Income stream surfers",
+      "subs": 151000,
+      "uploads": "UUctL30i8tVgSS9A37Q532eg",
+      "meta_at": "2026-10-31T11:11:36Z",
+      "baseline": 7653.0,
+      "baseline_n": 15,
+      "baseline_at": "2026-10-31T11:11:36Z"
+    },
+    "UCsuz5y2DPNbXlv30DiwPlAQ": {
+      "title": "Manila AI OFM",
+      "subs": 5860,
+      "uploads": "UUsuz5y2DPNbXlv30DiwPlAQ",
+      "meta_at": "2026-10-31T11:11:36Z",
+      "baseline": 8075.0,
+      "baseline_n": 10,
+      "baseline_at": "2026-10-31T11:11:36Z"
+    },
+    "UCONUFWDbb9Y338NVLGQid3Q": {
+      "title": "라이프해커,자청",
+      "subs": 452000,
+      "uploads": "UUONUFWDbb9Y338NVLGQid3Q",
+      "meta_at": "2026-10-31T11:11:36Z",
+      "baseline": 80779.0,
+      "baseline_n": 4,
+      "baseline_at": "2026-10-31T11:11:36Z"
+    },
+    "UCiuh2rVpl8I_wZQASC6wxbg": {
+      "title": "Codesistency",
+      "subs": 160000,
+      "uploads": "UUiuh2rVpl8I_wZQASC6wxbg",
+      "meta_at": "2026-10-31T11:11:36Z",
+      "baseline": 54213.0,
+      "baseline_n": 15,
+      "baseline_at": "2026-10-31T11:11:36Z"
+    },
+    "UCPV1C6gfU-uzaR3MlGcfkgw": {
+      "title": "One Story a Day",
+      "subs": 13700,
+      "uploads": "UUPV1C6gfU-uzaR3MlGcfkgw",
+      "meta_at": "2026-10-31T11:11:36Z",
+      "baseline": null,
+      "baseline_n": 0,
+      "baseline_at": "2026-10-31T11:11:36Z"
+    },
+    "UCxZRFtsXhBlEsz9kSvNWaAQ": {
+      "title": "샘 호트만 : AI 엔지니어의 시선",
+      "subs": 13900,
+      "uploads": "UUxZRFtsXhBlEsz9kSvNWaAQ",
+      "meta_at": "2026-10-31T11:11:36Z",
+      "baseline": 4196.0,
+      "baseline_n": 15,
+      "baseline_at": "2026-10-31T11:11:36Z"
+    },
+    "UCn-Q7NHWqJvnoJh_phYBa0Q": {
+      "title": "단테",
+      "subs": 4050,
+      "uploads": "UUn-Q7NHWqJvnoJh_phYBa0Q",
+      "meta_at": "2026-10-31T11:11:36Z",
+      "baseline": 1400.5,
+      "baseline_n": 6,
+      "baseline_at": "2026-10-31T11:11:36Z"
+    },
+    "UC4PwAtNhPsuBYdavDJb4F0g": {
+      "title": "편집자P",
+      "subs": 27000,
+      "uploads": "UU4PwAtNhPsuBYdavDJb4F0g",
+      "meta_at": "2026-10-31T11:11:36Z",
+      "baseline": 2694.0,
+      "baseline_n": 4,
+      "baseline_at": "2026-10-31T11:11:36Z"
+    },
+    "UCKdKdx5-eLZUmAgsdvxkKiA": {
+      "title": "양실장의 바이브코딩대학",
+      "subs": 46300,
+      "uploads": "UUKdKdx5-eLZUmAgsdvxkKiA",
+      "meta_at": "2026-10-31T11:11:36Z",
+      "baseline": 19573.0,
+      "baseline_n": 15,
+      "baseline_at": "2026-10-31T11:11:36Z"
     }
   },
   "github": {
@@ -6631,16 +6712,16 @@
       "at": "2026-10-22T20:46:28Z"
     },
     "simbasjungles/free-my-tv": {
-      "stars": 5472,
-      "at": "2026-10-30T21:41:11Z"
+      "stars": 5518,
+      "at": "2026-10-31T11:11:36Z"
     },
     "liseami/CCBaga": {
       "stars": 2970,
       "at": "2026-10-24T23:40:11Z"
     },
     "pengchujin/aerial-tv": {
-      "stars": 8034,
-      "at": "2026-10-30T21:41:11Z"
+      "stars": 8205,
+      "at": "2026-10-31T11:11:36Z"
     },
     "SubmitGame/awesome-decomp-games": {
       "stars": 2263,
@@ -6651,8 +6732,8 @@
       "at": "2026-10-27T21:28:02Z"
     },
     "xiaoyang111222/cn-math-taxonomy": {
-      "stars": 5483,
-      "at": "2026-10-30T21:41:11Z"
+      "stars": 5575,
+      "at": "2026-10-31T11:11:36Z"
     },
     "deeplethe/solid-glass": {
       "stars": 2222,
@@ -6699,20 +6780,20 @@
       "at": "2026-10-22T20:46:28Z"
     },
     "JoasASantos/REA-Prompts": {
-      "stars": 3285,
-      "at": "2026-10-30T21:41:11Z"
+      "stars": 3323,
+      "at": "2026-10-31T11:11:36Z"
     },
     "OpenMOSS/MOSS-Image": {
       "stars": 2228,
       "at": "2026-10-29T21:58:43Z"
     },
     "alchaincyf/huashu-motion": {
-      "stars": 1923,
-      "at": "2026-10-30T21:41:11Z"
+      "stars": 1928,
+      "at": "2026-10-31T11:11:36Z"
     },
     "ikow/php2shell-poc": {
-      "stars": 1911,
-      "at": "2026-10-30T21:41:11Z"
+      "stars": 1913,
+      "at": "2026-10-31T11:11:36Z"
     },
     "seedds/nxnative": {
       "stars": 5919,
@@ -6735,36 +6816,36 @@
       "at": "2026-10-30T21:41:11Z"
     },
     "EthanArbuckle/fairplay-decrypt": {
-      "stars": 2283,
-      "at": "2026-10-30T21:41:11Z"
+      "stars": 2290,
+      "at": "2026-10-31T11:11:36Z"
     },
     "humblemuzzu/dumbtv": {
-      "stars": 1789,
-      "at": "2026-10-30T21:41:11Z"
+      "stars": 1803,
+      "at": "2026-10-31T11:11:36Z"
     },
     "Ansub/tv-detox": {
-      "stars": 1892,
-      "at": "2026-10-30T21:41:11Z"
+      "stars": 1932,
+      "at": "2026-10-31T11:11:36Z"
     },
     "Zagitta/gpu-unlock": {
-      "stars": 13460,
-      "at": "2026-10-30T21:41:11Z"
+      "stars": 13606,
+      "at": "2026-10-31T11:11:36Z"
     },
     "xevrion/hatchzip": {
-      "stars": 2351,
-      "at": "2026-10-30T21:41:11Z"
+      "stars": 2366,
+      "at": "2026-10-31T11:11:36Z"
     },
     "wesbos/3d-model-anything": {
-      "stars": 2473,
-      "at": "2026-10-30T21:41:11Z"
+      "stars": 2510,
+      "at": "2026-10-31T11:11:36Z"
     },
     "yeqv111/mccarbon": {
       "stars": 1955,
       "at": "2026-10-25T23:31:05Z"
     },
     "JustAResearcher/gpu-unlock-ada": {
-      "stars": 4579,
-      "at": "2026-10-30T21:41:11Z"
+      "stars": 4601,
+      "at": "2026-10-31T11:11:36Z"
     },
     "kingcharleslzy-ai/dsh-purge": {
       "stars": 3383,
@@ -6775,8 +6856,8 @@
       "at": "2026-10-29T21:58:43Z"
     },
     "Jakeschincariol/day-trader-skill": {
-      "stars": 3580,
-      "at": "2026-10-30T21:41:11Z"
+      "stars": 3786,
+      "at": "2026-10-31T11:11:36Z"
     },
     "Revivedx/SavageWindRecomp": {
       "stars": 2302,
@@ -6787,60 +6868,76 @@
       "at": "2026-10-26T11:30:48Z"
     },
     "rddmwmddr/android-ad-cleaner": {
-      "stars": 5040,
-      "at": "2026-10-30T21:41:11Z"
+      "stars": 5249,
+      "at": "2026-10-31T11:11:36Z"
     },
     "designfuchen/word-atlas": {
-      "stars": 3353,
-      "at": "2026-10-30T21:41:11Z"
+      "stars": 3469,
+      "at": "2026-10-31T11:11:36Z"
     },
     "t3dotgg/tstack": {
-      "stars": 2457,
-      "at": "2026-10-30T21:41:11Z"
+      "stars": 2495,
+      "at": "2026-10-31T11:11:36Z"
     },
     "oosexgang/hackios-xnu-kernel": {
       "stars": 1889,
       "at": "2026-10-28T17:21:16Z"
     },
     "unclebob/ub-mode": {
-      "stars": 5352,
-      "at": "2026-10-30T21:41:11Z"
+      "stars": 5511,
+      "at": "2026-10-31T11:11:36Z"
     },
     "interplains/Zero-Breach-Toolkit": {
-      "stars": 3843,
-      "at": "2026-10-30T21:41:11Z"
+      "stars": 3932,
+      "at": "2026-10-31T11:11:36Z"
     },
     "oosexgang/hakios-xnu-kernel": {
-      "stars": 1979,
-      "at": "2026-10-30T21:41:11Z"
+      "stars": 2009,
+      "at": "2026-10-31T11:11:36Z"
     },
     "anhao/ai-pose-gallery-zh": {
-      "stars": 3924,
-      "at": "2026-10-30T21:41:11Z"
+      "stars": 4362,
+      "at": "2026-10-31T11:11:36Z"
     },
     "LNPANDY/NX2Apple": {
-      "stars": 2257,
-      "at": "2026-10-30T21:41:11Z"
+      "stars": 2418,
+      "at": "2026-10-31T11:11:36Z"
     },
     "indexable-inc/blaze": {
-      "stars": 1770,
-      "at": "2026-10-30T21:41:11Z"
+      "stars": 1802,
+      "at": "2026-10-31T11:11:36Z"
     },
     "lyramakesmusic/neuron-explorer": {
-      "stars": 1744,
-      "at": "2026-10-30T21:41:11Z"
+      "stars": 1760,
+      "at": "2026-10-31T11:11:36Z"
     },
     "ccch1mneyyy/dsh-Go": {
-      "stars": 2387,
-      "at": "2026-10-30T21:41:11Z"
+      "stars": 3154,
+      "at": "2026-10-31T11:11:36Z"
     },
     "enesozturk/dimensional-drawing": {
       "stars": 1634,
       "at": "2026-10-30T21:41:11Z"
     },
     "CopilotKit/OpenDuet": {
-      "stars": 1640,
-      "at": "2026-10-30T21:41:11Z"
+      "stars": 1693,
+      "at": "2026-10-31T11:11:36Z"
+    },
+    "heydamir/unslop": {
+      "stars": 2226,
+      "at": "2026-10-31T11:11:36Z"
+    },
+    "wangzan101/Mika": {
+      "stars": 2088,
+      "at": "2026-10-31T11:11:36Z"
+    },
+    "valentderah/totk-pc-recomp": {
+      "stars": 2047,
+      "at": "2026-10-31T11:11:36Z"
+    },
+    "l0ng-ai/openidea": {
+      "stars": 1750,
+      "at": "2026-10-31T11:11:36Z"
     }
   },
   "upstream_searched": {
@@ -6892,7 +6989,10 @@
     "mistral large 4 weights": "2026-10-30T17:09:12Z",
     "ai bubble bailout big tech": "2026-10-30T17:09:12Z",
     "geforce ai unlock": "2026-10-30T21:41:11Z",
-    "claude vs code backdoor": "2026-10-30T21:41:11Z"
+    "claude vs code backdoor": "2026-10-30T21:41:11Z",
+    "deepseek harness go": "2026-10-31T11:11:36Z",
+    "claude ai ui design": "2026-10-31T11:11:36Z",
+    "mika ai agent android": "2026-10-31T11:11:36Z"
   },
   "persona": {
     "at": "2026-10-29T21:58:43Z",
@@ -6939,84 +7039,8 @@
       }
     ]
   },
-  "query_cursor": 14,
+  "query_cursor": 22,
   "snapshots": {
-    "IhugJl28KnQ": {
-      "published_at": "2026-10-27T05:00:00Z",
-      "points": [
-        [
-          "2026-10-28T17:21:16Z",
-          38166
-        ],
-        [
-          "2026-10-28T21:53:21Z",
-          38704
-        ],
-        [
-          "2026-10-29T11:43:47Z",
-          40134
-        ],
-        [
-          "2026-10-29T21:58:43Z",
-          40608
-        ]
-      ]
-    },
-    "6Il7tudXo1E": {
-      "published_at": "2026-10-26T23:19:12Z",
-      "points": [
-        [
-          "2026-10-28T17:21:16Z",
-          15328
-        ],
-        [
-          "2026-10-28T21:53:21Z",
-          15738
-        ],
-        [
-          "2026-10-29T11:43:47Z",
-          16532
-        ],
-        [
-          "2026-10-29T21:58:43Z",
-          16979
-        ]
-      ]
-    },
-    "G59xZDwm-sc": {
-      "published_at": "2026-10-26T23:00:14Z",
-      "points": [
-        [
-          "2026-10-27T10:55:26Z",
-          9105
-        ],
-        [
-          "2026-10-28T17:21:16Z",
-          22920
-        ]
-      ]
-    },
-    "gUem3y969uE": {
-      "published_at": "2026-10-27T11:00:31Z",
-      "points": [
-        [
-          "2026-10-28T17:21:16Z",
-          866801
-        ],
-        [
-          "2026-10-28T21:53:21Z",
-          895547
-        ],
-        [
-          "2026-10-29T11:43:47Z",
-          987096
-        ],
-        [
-          "2026-10-29T21:58:43Z",
-          1048613
-        ]
-      ]
-    },
     "ofzHbyxkpVg": {
       "published_at": "2026-10-27T13:02:29Z",
       "points": [
@@ -7038,27 +7062,6 @@
         ]
       ]
     },
-    "O-tMSUfyBdk": {
-      "published_at": "2026-10-27T10:00:15Z",
-      "points": [
-        [
-          "2026-10-28T17:21:16Z",
-          772405
-        ],
-        [
-          "2026-10-28T21:53:21Z",
-          785216
-        ],
-        [
-          "2026-10-29T11:43:47Z",
-          900053
-        ],
-        [
-          "2026-10-29T21:58:43Z",
-          973532
-        ]
-      ]
-    },
     "B5OV1jjXAXo": {
       "published_at": "2026-10-27T14:17:29Z",
       "points": [
@@ -7077,27 +7080,6 @@
         [
           "2026-10-30T11:35:40Z",
           7483
-        ]
-      ]
-    },
-    "Qe0u8HBhu0Y": {
-      "published_at": "2026-10-27T09:16:23Z",
-      "points": [
-        [
-          "2026-10-28T17:21:16Z",
-          35225
-        ],
-        [
-          "2026-10-28T21:53:21Z",
-          35642
-        ],
-        [
-          "2026-10-29T11:43:47Z",
-          36505
-        ],
-        [
-          "2026-10-29T21:58:43Z",
-          37059
         ]
       ]
     },
@@ -7127,32 +7109,6 @@
         ]
       ]
     },
-    "SyUjFWgqDNo": {
-      "published_at": "2026-10-27T06:15:05Z",
-      "points": [
-        [
-          "2026-10-27T16:50:13Z",
-          92347
-        ],
-        [
-          "2026-10-28T21:53:21Z",
-          150222
-        ]
-      ]
-    },
-    "l8JleC6D14Q": {
-      "published_at": "2026-10-27T00:55:53Z",
-      "points": [
-        [
-          "2026-10-27T16:50:13Z",
-          44010
-        ],
-        [
-          "2026-10-28T21:53:21Z",
-          65471
-        ]
-      ]
-    },
     "u_J77nEB15M": {
       "published_at": "2026-10-27T11:38:24Z",
       "points": [
@@ -7174,77 +7130,12 @@
         ]
       ]
     },
-    "8DNiL_Mm6Rw": {
-      "published_at": "2026-10-27T08:29:56Z",
-      "points": [
-        [
-          "2026-10-27T21:28:02Z",
-          74137
-        ],
-        [
-          "2026-10-29T11:43:47Z",
-          136442
-        ]
-      ]
-    },
-    "3gNad1oh2-8": {
-      "published_at": "2026-10-27T08:01:05Z",
-      "points": [
-        [
-          "2026-10-27T21:28:02Z",
-          39608
-        ],
-        [
-          "2026-10-29T11:43:47Z",
-          103520
-        ]
-      ]
-    },
-    "7ITgrZrWuQY": {
-      "published_at": "2026-10-27T07:54:17Z",
-      "points": [
-        [
-          "2026-10-27T21:28:02Z",
-          13217
-        ],
-        [
-          "2026-10-29T11:43:47Z",
-          36443
-        ]
-      ]
-    },
-    "HVgoX4EjLm0": {
-      "published_at": "2026-10-27T03:30:31Z",
-      "points": [
-        [
-          "2026-10-27T21:28:02Z",
-          18442
-        ],
-        [
-          "2026-10-29T11:43:47Z",
-          28352
-        ]
-      ]
-    },
     "CB2tQUsrj8g": {
       "published_at": "2026-10-27T12:20:21Z",
       "points": [
         [
           "2026-10-27T21:28:02Z",
           9158
-        ]
-      ]
-    },
-    "vP4a7I3h9UQ": {
-      "published_at": "2026-10-27T07:30:17Z",
-      "points": [
-        [
-          "2026-10-27T21:28:02Z",
-          17329
-        ],
-        [
-          "2026-10-29T11:43:47Z",
-          40958
         ]
       ]
     },
@@ -7283,37 +7174,6 @@
         ]
       ]
     },
-    "P1ewLc17CnI": {
-      "published_at": "2026-10-27T05:08:14Z",
-      "points": [
-        [
-          "2026-10-27T21:28:02Z",
-          10849
-        ]
-      ]
-    },
-    "81WlurpMK5o": {
-      "published_at": "2026-10-26T22:48:31Z",
-      "points": [
-        [
-          "2026-10-27T21:28:02Z",
-          29565
-        ],
-        [
-          "2026-10-29T11:43:47Z",
-          36669
-        ]
-      ]
-    },
-    "Uw-SRQbI8HU": {
-      "published_at": "2026-10-27T04:16:34Z",
-      "points": [
-        [
-          "2026-10-27T21:28:02Z",
-          11562
-        ]
-      ]
-    },
     "hg69QGlFWoQ": {
       "published_at": "2026-10-27T14:37:12Z",
       "points": [
@@ -7324,27 +7184,6 @@
         [
           "2026-10-29T11:43:47Z",
           23720
-        ]
-      ]
-    },
-    "sD-jl4OCOEc": {
-      "published_at": "2026-10-26T23:30:35Z",
-      "points": [
-        [
-          "2026-10-27T21:28:02Z",
-          12998
-        ],
-        [
-          "2026-10-28T00:43:04Z",
-          14205
-        ],
-        [
-          "2026-10-29T11:43:47Z",
-          26488
-        ],
-        [
-          "2026-10-29T21:58:43Z",
-          29593
         ]
       ]
     },
@@ -7366,36 +7205,6 @@
         [
           "2026-10-30T11:35:40Z",
           51773
-        ]
-      ]
-    },
-    "ZMXD_7_CAfg": {
-      "published_at": "2026-10-27T06:42:52Z",
-      "points": [
-        [
-          "2026-10-28T00:43:04Z",
-          4280
-        ],
-        [
-          "2026-10-29T11:43:47Z",
-          7121
-        ]
-      ]
-    },
-    "VGzHQbD0n2s": {
-      "published_at": "2026-10-27T06:39:33Z",
-      "points": [
-        [
-          "2026-10-28T00:43:04Z",
-          15171
-        ],
-        [
-          "2026-10-29T11:43:47Z",
-          31118
-        ],
-        [
-          "2026-10-29T21:58:43Z",
-          33848
         ]
       ]
     },
@@ -7426,32 +7235,6 @@
         [
           "2026-10-29T21:58:43Z",
           6489
-        ]
-      ]
-    },
-    "17PS9yKDH-g": {
-      "published_at": "2026-10-26T22:35:58Z",
-      "points": [
-        [
-          "2026-10-28T00:43:04Z",
-          42945
-        ],
-        [
-          "2026-10-29T21:58:43Z",
-          154672
-        ]
-      ]
-    },
-    "JlvwcAi4EGM": {
-      "published_at": "2026-10-27T09:15:15Z",
-      "points": [
-        [
-          "2026-10-28T00:43:04Z",
-          5729
-        ],
-        [
-          "2026-10-29T21:58:43Z",
-          8792
         ]
       ]
     },
@@ -7518,27 +7301,6 @@
         ]
       ]
     },
-    "i_HCjXiGy04": {
-      "published_at": "2026-10-27T01:23:00Z",
-      "points": [
-        [
-          "2026-10-28T11:35:57Z",
-          99204
-        ],
-        [
-          "2026-10-28T21:53:21Z",
-          104686
-        ],
-        [
-          "2026-10-29T11:43:47Z",
-          108031
-        ],
-        [
-          "2026-10-29T21:58:43Z",
-          110095
-        ]
-      ]
-    },
     "pnT4YYhdZb8": {
       "published_at": "2026-10-27T14:23:29Z",
       "points": [
@@ -7557,28 +7319,6 @@
         [
           "2026-10-30T11:35:40Z",
           32617
-        ]
-      ]
-    },
-    "1eUmzqGlgdk": {
-      "published_at": "2026-10-27T09:39:17Z",
-      "points": [
-        [
-          "2026-10-28T11:35:57Z",
-          34828
-        ],
-        [
-          "2026-10-28T17:21:16Z",
-          40234
-        ]
-      ]
-    },
-    "y7Lfnfe4pBY": {
-      "published_at": "2026-10-27T11:00:06Z",
-      "points": [
-        [
-          "2026-10-28T11:35:57Z",
-          7702
         ]
       ]
     },
@@ -7617,19 +7357,6 @@
         ]
       ]
     },
-    "gjNRsAYP_fw": {
-      "published_at": "2026-10-27T09:00:05Z",
-      "points": [
-        [
-          "2026-10-28T11:35:57Z",
-          6418
-        ],
-        [
-          "2026-10-29T21:58:43Z",
-          9038
-        ]
-      ]
-    },
     "kTozDiQvEbE": {
       "published_at": "2026-10-28T03:00:12Z",
       "points": [
@@ -7648,84 +7375,12 @@
         ]
       ]
     },
-    "do8aLhbfMpk": {
-      "published_at": "2026-10-27T09:00:10Z",
-      "points": [
-        [
-          "2026-10-28T11:35:57Z",
-          73709
-        ]
-      ]
-    },
-    "_am-hKbVGLE": {
-      "published_at": "2026-10-27T04:50:35Z",
-      "points": [
-        [
-          "2026-10-28T11:35:57Z",
-          53689
-        ]
-      ]
-    },
-    "vVFEw59SgDM": {
-      "published_at": "2026-10-27T07:20:52Z",
-      "points": [
-        [
-          "2026-10-28T11:35:57Z",
-          37143
-        ]
-      ]
-    },
-    "DpLVS9fNDnA": {
-      "published_at": "2026-10-27T06:37:41Z",
-      "points": [
-        [
-          "2026-10-28T11:35:57Z",
-          56880
-        ]
-      ]
-    },
-    "1HAnL8iINrc": {
-      "published_at": "2026-10-27T08:00:21Z",
-      "points": [
-        [
-          "2026-10-28T11:35:57Z",
-          47323
-        ]
-      ]
-    },
     "7IlCe6FpMvo": {
       "published_at": "2026-10-28T07:07:54Z",
       "points": [
         [
           "2026-10-28T11:35:57Z",
           25190
-        ]
-      ]
-    },
-    "DNVmAdHSq-k": {
-      "published_at": "2026-10-27T09:36:43Z",
-      "points": [
-        [
-          "2026-10-28T11:35:57Z",
-          25892
-        ]
-      ]
-    },
-    "GY0yyLzdy1w": {
-      "published_at": "2026-10-27T06:00:04Z",
-      "points": [
-        [
-          "2026-10-28T11:35:57Z",
-          37289
-        ]
-      ]
-    },
-    "YcrL006vkzo": {
-      "published_at": "2026-10-27T08:16:23Z",
-      "points": [
-        [
-          "2026-10-28T11:35:57Z",
-          23869
         ]
       ]
     },
@@ -7742,73 +7397,6 @@
         ]
       ]
     },
-    "oPzBZdFN4Z0": {
-      "published_at": "2026-10-27T10:08:56Z",
-      "points": [
-        [
-          "2026-10-28T11:35:57Z",
-          12513
-        ]
-      ]
-    },
-    "64gBa-_cU1U": {
-      "published_at": "2026-10-27T11:03:22Z",
-      "points": [
-        [
-          "2026-10-28T11:35:57Z",
-          9566
-        ]
-      ]
-    },
-    "0p8C4yH-a-o": {
-      "published_at": "2026-10-27T02:30:13Z",
-      "points": [
-        [
-          "2026-10-28T11:35:57Z",
-          8290
-        ]
-      ]
-    },
-    "LWm4V0_2i8k": {
-      "published_at": "2026-10-27T09:38:39Z",
-      "points": [
-        [
-          "2026-10-28T11:35:57Z",
-          10671
-        ]
-      ]
-    },
-    "AV_3FJTfWmo": {
-      "published_at": "2026-10-27T00:56:42Z",
-      "points": [
-        [
-          "2026-10-28T11:35:57Z",
-          6335
-        ]
-      ]
-    },
-    "PqwUndzfLEs": {
-      "published_at": "2026-10-27T11:05:11Z",
-      "points": [
-        [
-          "2026-10-28T11:35:57Z",
-          1032251
-        ],
-        [
-          "2026-10-28T17:21:16Z",
-          1217062
-        ]
-      ]
-    },
-    "bQeDIkMOd5U": {
-      "published_at": "2026-10-27T02:01:13Z",
-      "points": [
-        [
-          "2026-10-28T11:35:57Z",
-          36953
-        ]
-      ]
-    },
     "IRL2Ah0aUAw": {
       "published_at": "2026-10-27T17:00:16Z",
       "points": [
@@ -7822,10 +7410,6 @@
       "published_at": "2026-10-28T13:00:28Z",
       "points": [
         [
-          "2026-10-29T21:58:43Z",
-          128061
-        ],
-        [
           "2026-10-30T11:35:40Z",
           151932
         ],
@@ -7836,16 +7420,16 @@
         [
           "2026-10-30T21:41:11Z",
           174082
+        ],
+        [
+          "2026-10-31T11:11:36Z",
+          191934
         ]
       ]
     },
     "-qPgj8AGJiI": {
       "published_at": "2026-10-28T12:40:51Z",
       "points": [
-        [
-          "2026-10-29T21:58:43Z",
-          38645
-        ],
         [
           "2026-10-30T11:35:40Z",
           40868
@@ -7857,6 +7441,10 @@
         [
           "2026-10-30T21:41:11Z",
           41707
+        ],
+        [
+          "2026-10-31T11:11:36Z",
+          43391
         ]
       ]
     },
@@ -7879,27 +7467,6 @@
         [
           "2026-10-30T11:35:40Z",
           31614
-        ]
-      ]
-    },
-    "zXHJ-IJ59AM": {
-      "published_at": "2026-10-26T22:06:43Z",
-      "points": [
-        [
-          "2026-10-28T17:21:16Z",
-          23211
-        ],
-        [
-          "2026-10-28T21:53:21Z",
-          26482
-        ],
-        [
-          "2026-10-29T11:43:47Z",
-          34858
-        ],
-        [
-          "2026-10-29T21:58:43Z",
-          40629
         ]
       ]
     },
@@ -8014,15 +7581,6 @@
         ]
       ]
     },
-    "0e8P_WsYIJw": {
-      "published_at": "2026-10-27T10:06:48Z",
-      "points": [
-        [
-          "2026-10-28T17:21:16Z",
-          19650
-        ]
-      ]
-    },
     "z5IhFXMPmNM": {
       "published_at": "2026-10-28T04:49:08Z",
       "points": [
@@ -8051,15 +7609,6 @@
         [
           "2026-10-28T17:21:16Z",
           29626
-        ]
-      ]
-    },
-    "mJkC8C3W7pY": {
-      "published_at": "2026-10-27T07:29:32Z",
-      "points": [
-        [
-          "2026-10-28T17:21:16Z",
-          12136
         ]
       ]
     },
@@ -8102,23 +7651,6 @@
         ]
       ]
     },
-    "y38Nq0BVITQ": {
-      "published_at": "2026-10-26T21:57:04Z",
-      "points": [
-        [
-          "2026-10-28T17:21:16Z",
-          24645
-        ],
-        [
-          "2026-10-28T21:53:21Z",
-          25879
-        ],
-        [
-          "2026-10-29T11:43:47Z",
-          27240
-        ]
-      ]
-    },
     "yATBEBRhxM8": {
       "published_at": "2026-10-27T17:49:51Z",
       "points": [
@@ -8136,10 +7668,6 @@
       "published_at": "2026-10-28T19:25:38Z",
       "points": [
         [
-          "2026-10-29T21:58:43Z",
-          51941
-        ],
-        [
           "2026-10-30T11:35:40Z",
           61240
         ],
@@ -8150,16 +7678,16 @@
         [
           "2026-10-30T21:41:11Z",
           66563
+        ],
+        [
+          "2026-10-31T11:11:36Z",
+          69619
         ]
       ]
     },
     "tSE4N1MIZIM": {
       "published_at": "2026-10-28T16:20:28Z",
       "points": [
-        [
-          "2026-10-29T21:58:43Z",
-          18347
-        ],
         [
           "2026-10-30T11:35:40Z",
           19646
@@ -8171,6 +7699,10 @@
         [
           "2026-10-30T21:41:11Z",
           20794
+        ],
+        [
+          "2026-10-31T11:11:36Z",
+          21587
         ]
       ]
     },
@@ -8212,26 +7744,9 @@
         ]
       ]
     },
-    "ZRV0LJ5eOjo": {
-      "published_at": "2026-10-27T08:22:37Z",
-      "points": [
-        [
-          "2026-10-28T21:53:21Z",
-          26553
-        ],
-        [
-          "2026-10-29T11:43:47Z",
-          29155
-        ]
-      ]
-    },
     "NO2I3ueVQrk": {
       "published_at": "2026-10-28T19:43:03Z",
       "points": [
-        [
-          "2026-10-29T21:58:43Z",
-          52851
-        ],
         [
           "2026-10-30T11:35:40Z",
           57707
@@ -8243,6 +7758,10 @@
         [
           "2026-10-30T21:41:11Z",
           60842
+        ],
+        [
+          "2026-10-31T11:11:36Z",
+          63400
         ]
       ]
     },
@@ -8291,15 +7810,6 @@
         [
           "2026-10-28T21:53:21Z",
           22169
-        ]
-      ]
-    },
-    "M3xqxsxKW_E": {
-      "published_at": "2026-10-27T01:30:05Z",
-      "points": [
-        [
-          "2026-10-28T21:53:21Z",
-          15507
         ]
       ]
     },
@@ -8407,15 +7917,10 @@
         [
           "2026-10-30T21:41:11Z",
           231777
-        ]
-      ]
-    },
-    "epipkVXKDGU": {
-      "published_at": "2026-10-27T11:00:14Z",
-      "points": [
+        ],
         [
-          "2026-10-28T21:53:21Z",
-          135379
+          "2026-10-31T11:11:36Z",
+          233460
         ]
       ]
     },
@@ -8538,10 +8043,6 @@
       "published_at": "2026-10-29T06:54:45Z",
       "points": [
         [
-          "2026-10-29T21:58:43Z",
-          53090
-        ],
-        [
           "2026-10-30T11:35:40Z",
           65794
         ],
@@ -8552,16 +8053,16 @@
         [
           "2026-10-30T21:41:11Z",
           69859
+        ],
+        [
+          "2026-10-31T11:11:36Z",
+          73197
         ]
       ]
     },
     "hFKSIAZC5No": {
       "published_at": "2026-10-28T22:37:45Z",
       "points": [
-        [
-          "2026-10-29T21:58:43Z",
-          57906
-        ],
         [
           "2026-10-30T11:35:40Z",
           61444
@@ -8573,16 +8074,16 @@
         [
           "2026-10-30T21:41:11Z",
           62174
+        ],
+        [
+          "2026-10-31T11:11:36Z",
+          62761
         ]
       ]
     },
     "w-7FkzY8CbY": {
       "published_at": "2026-10-29T00:46:46Z",
       "points": [
-        [
-          "2026-10-29T21:58:43Z",
-          27148
-        ],
         [
           "2026-10-30T11:35:40Z",
           31922
@@ -8594,16 +8095,16 @@
         [
           "2026-10-30T21:41:11Z",
           49759
+        ],
+        [
+          "2026-10-31T11:11:36Z",
+          50977
         ]
       ]
     },
     "BOpwC9f8lp8": {
       "published_at": "2026-10-28T23:28:10Z",
       "points": [
-        [
-          "2026-10-29T21:58:43Z",
-          27024
-        ],
         [
           "2026-10-30T11:35:40Z",
           29366
@@ -8615,16 +8116,16 @@
         [
           "2026-10-30T21:41:11Z",
           30952
+        ],
+        [
+          "2026-10-31T11:11:36Z",
+          34484
         ]
       ]
     },
     "l6zlxbQsgXA": {
       "published_at": "2026-10-28T21:11:28Z",
       "points": [
-        [
-          "2026-10-29T21:58:43Z",
-          791
-        ],
         [
           "2026-10-30T11:35:40Z",
           1084
@@ -8636,6 +8137,10 @@
         [
           "2026-10-30T21:41:11Z",
           1206
+        ],
+        [
+          "2026-10-31T11:11:36Z",
+          1270
         ]
       ]
     },
@@ -8743,15 +8248,6 @@
         ]
       ]
     },
-    "w0y6bT6Rlng": {
-      "published_at": "2026-10-27T04:57:34Z",
-      "points": [
-        [
-          "2026-10-29T11:43:47Z",
-          16466
-        ]
-      ]
-    },
     "AJHsGX2Era0": {
       "published_at": "2026-10-28T13:19:44Z",
       "points": [
@@ -8765,21 +8261,16 @@
         ]
       ]
     },
-    "eGrMExNMang": {
-      "published_at": "2026-10-27T07:10:44Z",
-      "points": [
-        [
-          "2026-10-29T11:43:47Z",
-          15473
-        ]
-      ]
-    },
     "-njihTqKu00": {
       "published_at": "2026-10-28T16:30:29Z",
       "points": [
         [
           "2026-10-29T11:43:47Z",
           12402
+        ],
+        [
+          "2026-10-31T11:11:36Z",
+          42774
         ]
       ]
     },
@@ -8796,10 +8287,6 @@
       "published_at": "2026-10-29T03:41:02Z",
       "points": [
         [
-          "2026-10-29T21:58:43Z",
-          36051
-        ],
-        [
           "2026-10-30T11:35:40Z",
           56295
         ],
@@ -8810,6 +8297,10 @@
         [
           "2026-10-30T21:41:11Z",
           63108
+        ],
+        [
+          "2026-10-31T11:11:36Z",
+          69152
         ]
       ]
     },
@@ -8819,19 +8310,6 @@
         [
           "2026-10-29T11:43:47Z",
           11857
-        ]
-      ]
-    },
-    "S3XvH3v8bY0": {
-      "published_at": "2026-10-27T10:00:18Z",
-      "points": [
-        [
-          "2026-10-29T11:43:47Z",
-          8794
-        ],
-        [
-          "2026-10-29T21:58:43Z",
-          10473
         ]
       ]
     },
@@ -8859,6 +8337,10 @@
         [
           "2026-10-29T11:43:47Z",
           3153
+        ],
+        [
+          "2026-10-31T11:11:36Z",
+          9745
         ]
       ]
     },
@@ -8872,6 +8354,10 @@
         [
           "2026-10-29T21:58:43Z",
           52854
+        ],
+        [
+          "2026-10-31T11:11:36Z",
+          52869
         ]
       ]
     },
@@ -8890,19 +8376,10 @@
         [
           "2026-10-29T11:43:47Z",
           5446
-        ]
-      ]
-    },
-    "-pV7U7AOQkQ": {
-      "published_at": "2026-10-27T07:25:08Z",
-      "points": [
-        [
-          "2026-10-29T11:43:47Z",
-          7828
         ],
         [
-          "2026-10-29T21:58:43Z",
-          10414
+          "2026-10-31T11:11:36Z",
+          11393
         ]
       ]
     },
@@ -8919,10 +8396,6 @@
       "published_at": "2026-10-29T11:00:34Z",
       "points": [
         [
-          "2026-10-29T21:58:43Z",
-          310937
-        ],
-        [
           "2026-10-30T11:35:40Z",
           436410
         ],
@@ -8933,16 +8406,16 @@
         [
           "2026-10-30T21:41:11Z",
           482329
+        ],
+        [
+          "2026-10-31T11:11:36Z",
+          517496
         ]
       ]
     },
     "ZneGhy1k0z8": {
       "published_at": "2026-10-29T11:59:53Z",
       "points": [
-        [
-          "2026-10-29T21:58:43Z",
-          10139
-        ],
         [
           "2026-10-30T11:35:40Z",
           24461
@@ -8954,16 +8427,16 @@
         [
           "2026-10-30T21:41:11Z",
           30377
+        ],
+        [
+          "2026-10-31T11:11:36Z",
+          33631
         ]
       ]
     },
     "v-r-SWMiRo4": {
       "published_at": "2026-10-29T19:44:24Z",
       "points": [
-        [
-          "2026-10-29T21:58:43Z",
-          2446
-        ],
         [
           "2026-10-30T11:35:40Z",
           44704
@@ -8975,16 +8448,16 @@
         [
           "2026-10-30T21:41:11Z",
           68474
+        ],
+        [
+          "2026-10-31T11:11:36Z",
+          89550
         ]
       ]
     },
     "93JxG8dZv84": {
       "published_at": "2026-10-29T14:42:45Z",
       "points": [
-        [
-          "2026-10-29T21:58:43Z",
-          960
-        ],
         [
           "2026-10-30T11:35:40Z",
           1378
@@ -8996,6 +8469,10 @@
         [
           "2026-10-30T21:41:11Z",
           1578
+        ],
+        [
+          "2026-10-31T11:11:36Z",
+          1786
         ]
       ]
     },
@@ -9026,15 +8503,6 @@
         [
           "2026-10-30T17:09:12Z",
           16361
-        ]
-      ]
-    },
-    "KDe2QsoXaWw": {
-      "published_at": "2026-10-27T09:23:38Z",
-      "points": [
-        [
-          "2026-10-29T21:58:43Z",
-          20892
         ]
       ]
     },
@@ -9071,15 +8539,6 @@
         [
           "2026-10-29T21:58:43Z",
           9926
-        ]
-      ]
-    },
-    "0me1yQSI4uM": {
-      "published_at": "2026-10-27T07:00:14Z",
-      "points": [
-        [
-          "2026-10-29T21:58:43Z",
-          6826
         ]
       ]
     },
@@ -9184,10 +8643,6 @@
       "published_at": "2026-10-29T09:00:12Z",
       "points": [
         [
-          "2026-10-29T21:58:43Z",
-          60915
-        ],
-        [
           "2026-10-30T11:35:40Z",
           74630
         ],
@@ -9198,6 +8653,10 @@
         [
           "2026-10-30T21:41:11Z",
           87455
+        ],
+        [
+          "2026-10-31T11:11:36Z",
+          92374
         ]
       ]
     },
@@ -9241,15 +8700,6 @@
         ]
       ]
     },
-    "DCyhnukQSGc": {
-      "published_at": "2026-10-27T01:48:06Z",
-      "points": [
-        [
-          "2026-10-29T21:58:43Z",
-          5274
-        ]
-      ]
-    },
     "wdOioNE1mik": {
       "published_at": "2026-10-30T08:00:07Z",
       "points": [
@@ -9264,6 +8714,10 @@
         [
           "2026-10-30T21:41:11Z",
           380825
+        ],
+        [
+          "2026-10-31T11:11:36Z",
+          551944
         ]
       ]
     },
@@ -9281,6 +8735,10 @@
         [
           "2026-10-30T21:41:11Z",
           18482
+        ],
+        [
+          "2026-10-31T11:11:36Z",
+          21764
         ]
       ]
     },
@@ -9298,6 +8756,10 @@
         [
           "2026-10-30T21:41:11Z",
           76944
+        ],
+        [
+          "2026-10-31T11:11:36Z",
+          87469
         ]
       ]
     },
@@ -9315,6 +8777,10 @@
         [
           "2026-10-30T21:41:11Z",
           4767
+        ],
+        [
+          "2026-10-31T11:11:36Z",
+          8458
         ]
       ]
     },
@@ -9332,6 +8798,10 @@
         [
           "2026-10-30T21:41:11Z",
           9150
+        ],
+        [
+          "2026-10-31T11:11:36Z",
+          10038
         ]
       ]
     },
@@ -9393,6 +8863,10 @@
         [
           "2026-10-30T21:41:11Z",
           197784
+        ],
+        [
+          "2026-10-31T11:11:36Z",
+          216767
         ]
       ]
     },
@@ -9522,6 +8996,10 @@
         [
           "2026-10-30T11:35:40Z",
           7263
+        ],
+        [
+          "2026-10-31T11:11:36Z",
+          13515
         ]
       ]
     },
@@ -9539,6 +9017,10 @@
         [
           "2026-10-30T21:41:11Z",
           125027
+        ],
+        [
+          "2026-10-31T11:11:36Z",
+          134705
         ]
       ]
     },
@@ -9597,6 +9079,10 @@
         [
           "2026-10-30T21:41:11Z",
           20112
+        ],
+        [
+          "2026-10-31T11:11:36Z",
+          28706
         ]
       ]
     },
@@ -9610,6 +9096,10 @@
         [
           "2026-10-30T21:41:11Z",
           962
+        ],
+        [
+          "2026-10-31T11:11:36Z",
+          1443
         ]
       ]
     },
@@ -9623,6 +9113,10 @@
         [
           "2026-10-30T21:41:11Z",
           111765
+        ],
+        [
+          "2026-10-31T11:11:36Z",
+          138974
         ]
       ]
     },
@@ -9730,6 +9224,10 @@
         [
           "2026-10-30T17:09:12Z",
           8972
+        ],
+        [
+          "2026-10-31T11:11:36Z",
+          23104
         ]
       ]
     },
@@ -9783,6 +9281,10 @@
         [
           "2026-10-30T21:41:11Z",
           71198
+        ],
+        [
+          "2026-10-31T11:11:36Z",
+          82794
         ]
       ]
     },
@@ -9854,6 +9356,10 @@
         [
           "2026-10-30T21:41:11Z",
           20319
+        ],
+        [
+          "2026-10-31T11:11:36Z",
+          25808
         ]
       ]
     },
@@ -9876,6 +9382,10 @@
         [
           "2026-10-30T21:41:11Z",
           19179
+        ],
+        [
+          "2026-10-31T11:11:36Z",
+          26241
         ]
       ]
     },
@@ -9974,6 +9484,10 @@
         [
           "2026-10-30T21:41:11Z",
           1269
+        ],
+        [
+          "2026-10-31T11:11:36Z",
+          12990
         ]
       ]
     },
@@ -9983,6 +9497,10 @@
         [
           "2026-10-30T21:41:11Z",
           17144
+        ],
+        [
+          "2026-10-31T11:11:36Z",
+          24499
         ]
       ]
     },
@@ -10001,6 +9519,10 @@
         [
           "2026-10-30T21:41:11Z",
           62527
+        ],
+        [
+          "2026-10-31T11:11:36Z",
+          67559
         ]
       ]
     },
@@ -10010,6 +9532,10 @@
         [
           "2026-10-30T21:41:11Z",
           29323
+        ],
+        [
+          "2026-10-31T11:11:36Z",
+          37197
         ]
       ]
     },
@@ -10109,6 +9635,10 @@
         [
           "2026-10-30T21:41:11Z",
           66959
+        ],
+        [
+          "2026-10-31T11:11:36Z",
+          67483
         ]
       ]
     },
@@ -10172,6 +9702,10 @@
         [
           "2026-10-30T21:41:11Z",
           74041
+        ],
+        [
+          "2026-10-31T11:11:36Z",
+          105148
         ]
       ]
     },
@@ -10271,6 +9805,10 @@
         [
           "2026-10-30T21:41:11Z",
           75016
+        ],
+        [
+          "2026-10-31T11:11:36Z",
+          75108
         ]
       ]
     },
@@ -10343,6 +9881,10 @@
         [
           "2026-10-30T21:41:11Z",
           70232
+        ],
+        [
+          "2026-10-31T11:11:36Z",
+          106643
         ]
       ]
     },
@@ -10388,6 +9930,10 @@
         [
           "2026-10-30T21:41:11Z",
           82327
+        ],
+        [
+          "2026-10-31T11:11:36Z",
+          95097
         ]
       ]
     },
@@ -10424,6 +9970,10 @@
         [
           "2026-10-30T21:41:11Z",
           24225
+        ],
+        [
+          "2026-10-31T11:11:36Z",
+          29861
         ]
       ]
     },
@@ -10471,6 +10021,213 @@
           6596
         ]
       ]
+    },
+    "eDiQNFa-zYg": {
+      "published_at": "2026-10-30T21:15:04Z",
+      "points": [
+        [
+          "2026-10-31T11:11:36Z",
+          47801
+        ]
+      ]
+    },
+    "6B__FK1EN8k": {
+      "published_at": "2026-10-31T09:00:15Z",
+      "points": [
+        [
+          "2026-10-31T11:11:36Z",
+          26589
+        ]
+      ]
+    },
+    "vRlBBX_2ru4": {
+      "published_at": "2026-10-31T01:25:55Z",
+      "points": [
+        [
+          "2026-10-31T11:11:36Z",
+          83062
+        ]
+      ]
+    },
+    "gNv7MXP6KVs": {
+      "published_at": "2026-10-30T23:46:03Z",
+      "points": [
+        [
+          "2026-10-31T11:11:36Z",
+          50067
+        ]
+      ]
+    },
+    "us2vE0lHiwk": {
+      "published_at": "2026-10-31T04:00:30Z",
+      "points": [
+        [
+          "2026-10-31T11:11:36Z",
+          44
+        ]
+      ]
+    },
+    "-QCBtAfPHo0": {
+      "published_at": "2026-10-30T13:33:44Z",
+      "points": [
+        [
+          "2026-10-31T11:11:36Z",
+          18152
+        ]
+      ]
+    },
+    "kvXb9GriTy0": {
+      "published_at": "2026-10-28T13:37:09Z",
+      "points": [
+        [
+          "2026-10-31T11:11:36Z",
+          17700
+        ]
+      ]
+    },
+    "DByAR5Su1Yw": {
+      "published_at": "2026-10-30T00:45:46Z",
+      "points": [
+        [
+          "2026-10-31T11:11:36Z",
+          237643
+        ]
+      ]
+    },
+    "L2fNv4lrcE8": {
+      "published_at": "2026-10-28T14:54:56Z",
+      "points": [
+        [
+          "2026-10-31T11:11:36Z",
+          43491
+        ]
+      ]
+    },
+    "gPzRfym3ayw": {
+      "published_at": "2026-10-29T10:30:10Z",
+      "points": [
+        [
+          "2026-10-31T11:11:36Z",
+          40878
+        ]
+      ]
+    },
+    "1AlbTXb8oPc": {
+      "published_at": "2026-10-29T12:18:42Z",
+      "points": [
+        [
+          "2026-10-31T11:11:36Z",
+          38192
+        ]
+      ]
+    },
+    "bZJa_I8EnUc": {
+      "published_at": "2026-10-29T10:00:23Z",
+      "points": [
+        [
+          "2026-10-31T11:11:36Z",
+          12426
+        ]
+      ]
+    },
+    "zO68MQmfvcA": {
+      "published_at": "2026-10-31T03:33:55Z",
+      "points": [
+        [
+          "2026-10-31T11:11:36Z",
+          8167
+        ]
+      ]
+    },
+    "917ob2DgJ7U": {
+      "published_at": "2026-10-28T15:00:41Z",
+      "points": [
+        [
+          "2026-10-31T11:11:36Z",
+          6810
+        ]
+      ]
+    },
+    "lPo36U3q3h0": {
+      "published_at": "2026-10-30T18:39:44Z",
+      "points": [
+        [
+          "2026-10-31T11:11:36Z",
+          59700
+        ]
+      ]
+    },
+    "r7iS0Gw3Jq4": {
+      "published_at": "2026-10-29T08:28:45Z",
+      "points": [
+        [
+          "2026-10-31T11:11:36Z",
+          8422
+        ]
+      ]
+    },
+    "Bpg9N3ZK-78": {
+      "published_at": "2026-10-29T13:42:31Z",
+      "points": [
+        [
+          "2026-10-31T11:11:36Z",
+          6610
+        ]
+      ]
+    },
+    "Hbkan02wEQ4": {
+      "published_at": "2026-10-31T01:22:39Z",
+      "points": [
+        [
+          "2026-10-31T11:11:36Z",
+          5434
+        ]
+      ]
+    },
+    "U7FiLzI-w30": {
+      "published_at": "2026-10-29T18:49:40Z",
+      "points": [
+        [
+          "2026-10-31T11:11:36Z",
+          40284
+        ]
+      ]
+    },
+    "X5u30IjVwhg": {
+      "published_at": "2026-10-30T01:37:26Z",
+      "points": [
+        [
+          "2026-10-31T11:11:36Z",
+          6603
+        ]
+      ]
+    },
+    "0Ny8REJ8zNA": {
+      "published_at": "2026-10-30T13:00:23Z",
+      "points": [
+        [
+          "2026-10-31T11:11:36Z",
+          4718
+        ]
+      ]
+    },
+    "QZ72CnQDFAs": {
+      "published_at": "2026-10-29T09:30:20Z",
+      "points": [
+        [
+          "2026-10-31T11:11:36Z",
+          8878
+        ]
+      ]
+    },
+    "l6K7nsek0So": {
+      "published_at": "2026-10-29T11:43:34Z",
+      "points": [
+        [
+          "2026-10-31T11:11:36Z",
+          7687
+        ]
+      ]
     }
   },
   "alerted": {
@@ -10511,7 +10268,8 @@
     "mz6n4udbfwc": "2026-10-30T17:09:12Z",
     "W00pt5bfe6c": "2026-10-30T17:09:12Z",
     "exkQTYOm47c": "2026-10-30T17:09:12Z",
-    "FEjSF3ixrNA": "2026-10-30T21:41:11Z"
+    "FEjSF3ixrNA": "2026-10-30T21:41:11Z",
+    "JYJDIRKkoOc": "2026-10-31T11:11:36Z"
   },
   "alerted_topics": {
     "ai스마트tv광고제거": "2026-10-22T13:08:40Z",
@@ -10579,12 +10337,14 @@
     "claudecode무료": "2026-10-30T17:09:12Z",
     "cluster:claude-code-free-tier": "2026-10-30T17:09:12Z",
     "ai사망사건": "2026-10-30T21:41:11Z",
-    "cluster:ai-causes-death": "2026-10-30T21:41:11Z"
+    "cluster:ai-causes-death": "2026-10-30T21:41:11Z",
+    "챗gpt클로드대결": "2026-10-31T11:11:36Z",
+    "cluster:chatgpt-vs-claude-game": "2026-10-31T11:11:36Z"
   },
   "last_summary_date": "2026-10-31",
   "daily": {
     "date": "2026-10-31",
-    "alerts": 3
+    "alerts": 4
   },
   "pool": [
     {
@@ -10593,24 +10353,28 @@
       "channel_id": "UCOSmcOobzdttyGK5nOhcGyw",
       "channel_title": "draftsheet",
       "published_at": "2026-10-29T10:39:04Z",
-      "views": 17144,
+      "views": 24499,
       "duration_s": 1053,
       "channel_subs": 98,
       "channel_baseline": 304,
-      "age_hours": 35.0,
-      "vph": 489,
-      "multiplier": 56.39,
-      "sub_ratio": 174.94,
+      "age_hours": 48.5,
+      "vph": 505,
+      "recent_hours": 13.5,
+      "recent_gain": 7355,
+      "recent_vph": 545,
+      "trend": "가속",
+      "multiplier": 80.59,
+      "sub_ratio": 249.99,
       "lang": "en",
       "passes": false,
-      "score": 15.97,
+      "score": 17.04,
       "sources": [
         "상류 'GeForce AI unlock'"
       ],
       "signals": [
         "GitHub Zagitta/gpu-unlock ★1.3만 (+270/일)"
       ],
-      "seen_at": "2026-10-30T21:41:11Z"
+      "seen_at": "2026-10-31T11:11:36Z"
     },
     {
       "video_id": "XFk9c6xsQFE",
@@ -10641,6 +10405,33 @@
       "seen_at": "2026-10-30T11:35:40Z"
     },
     {
+      "video_id": "2bAhftNiyG8",
+      "title": "Seedance 2.5 Free Unlimited AI Video Generator Tutorial",
+      "channel_id": "UC2W4eGqCpFuKwKnAX9eLlpA",
+      "channel_title": "Mogli Ai",
+      "published_at": "2026-10-29T10:17:44Z",
+      "views": 29861,
+      "duration_s": 430,
+      "channel_subs": 572,
+      "channel_baseline": 658,
+      "age_hours": 48.9,
+      "vph": 611,
+      "recent_hours": 13.5,
+      "recent_gain": 5636,
+      "recent_vph": 417,
+      "trend": "유지",
+      "multiplier": 45.38,
+      "sub_ratio": 52.2,
+      "lang": "en",
+      "passes": false,
+      "score": 13.86,
+      "sources": [
+        "검색 'AI video generator'"
+      ],
+      "signals": [],
+      "seen_at": "2026-10-31T11:11:36Z"
+    },
+    {
       "video_id": "lWGSM2io5Cs",
       "title": "Alibaba’s New Qwen 4 \"Kerria\" Just Dropped — Tested vs DeepSeek V4.1 Max (+ New 1.7B King)",
       "channel_id": "UCN2SMLxIy64HRhsQs7sBl5g",
@@ -10659,29 +10450,6 @@
       "score": 13.75,
       "sources": [
         "검색 'new AI model'"
-      ],
-      "signals": [],
-      "seen_at": "2026-10-30T21:41:11Z"
-    },
-    {
-      "video_id": "2bAhftNiyG8",
-      "title": "Seedance 2.5 Free Unlimited AI Video Generator Tutorial",
-      "channel_id": "UC2W4eGqCpFuKwKnAX9eLlpA",
-      "channel_title": "Mogli Ai",
-      "published_at": "2026-10-29T10:17:44Z",
-      "views": 24225,
-      "duration_s": 430,
-      "channel_subs": 572,
-      "channel_baseline": 658,
-      "age_hours": 35.4,
-      "vph": 684,
-      "multiplier": 36.82,
-      "sub_ratio": 42.35,
-      "lang": "en",
-      "passes": false,
-      "score": 13.48,
-      "sources": [
-        "검색 'AI video generator'"
       ],
       "signals": [],
       "seen_at": "2026-10-30T21:41:11Z"
@@ -10775,185 +10543,115 @@
       "channel_id": "UCLZgkGwoapv1hQ0T2eQ7vHw",
       "channel_title": "Joe Reframe",
       "published_at": "2026-10-29T12:23:09Z",
-      "views": 62527,
+      "views": 67559,
       "duration_s": 490,
       "channel_subs": 4750,
       "channel_baseline": 13502,
-      "age_hours": 33.3,
-      "vph": 1878,
-      "multiplier": 4.63,
-      "sub_ratio": 13.16,
+      "age_hours": 46.8,
+      "vph": 1443,
+      "recent_hours": 13.5,
+      "recent_gain": 5032,
+      "recent_vph": 373,
+      "trend": "둔화",
+      "multiplier": 5.0,
+      "sub_ratio": 14.22,
       "lang": "en",
       "passes": true,
-      "score": 9.31,
+      "score": 8.82,
       "sources": [
         "검색 'AI just killed'"
       ],
       "signals": [],
-      "cluster": "ai-causes-death",
-      "topic_ko": "AI 상담 후 사망 사건",
-      "ko_query": "AI 사망 사건",
-      "ko_terms": [
-        "AI",
-        "ChatGPT",
-        "사망"
-      ],
-      "fit": 5,
-      "format": "AI 대체 실험",
-      "series": "AI가 의료 상담을 했을 때 벌어지는 일",
-      "title_ko": "AI가 환자를 죽게 만든 충격적인 사건",
-      "why": "AI의 위험성을 다루는 'AI가 OO를 죽였다' 포맷에 완벽하게 부합하며, 시청자의 경각심과 흥미를 유발합니다.",
-      "korea": {
-        "verdict": "green",
-        "query": "AI 사망 사건",
-        "terms": [
-          "AI",
-          "ChatGPT",
-          "사망"
-        ],
-        "longform": 0,
-        "shorts": 5,
-        "top_views": 0,
-        "top_title": "",
-        "top_channel": ""
-      },
-      "seen_at": "2026-10-30T21:41:11Z"
+      "seen_at": "2026-10-31T11:11:36Z"
     },
     {
-      "video_id": "-pV7U7AOQkQ",
-      "title": "젠지·DK 8강 직행과 한화생명 충격패! 대이변 속 누적 1위가 뒤집혔다 | AI 3사 롤드컵 3R 채점 (클로드·챗GPT·제미나이)",
-      "channel_id": "UCbVY2HqP-TPjZR5tpl5Vgvg",
-      "channel_title": "롤고리즘",
-      "published_at": "2026-10-27T07:25:08Z",
-      "views": 10414,
-      "duration_s": 258,
-      "channel_subs": 201,
-      "channel_baseline": 5640,
-      "age_hours": 62.6,
-      "vph": 166,
-      "recent_hours": 10.2,
-      "recent_gain": 2586,
-      "recent_vph": 252,
-      "trend": "가속",
-      "multiplier": 1.85,
-      "sub_ratio": 51.81,
-      "lang": "ko",
-      "passes": true,
-      "score": 9.01,
-      "sources": [
-        "검색 'AI 대결'"
-      ],
-      "signals": [],
-      "cluster": "ai-esports-prediction",
-      "topic_ko": "AI 롤드컵 승패 예측",
-      "ko_query": "AI 롤드컵 예측",
-      "ko_terms": [
-        "클로드",
-        "챗GPT",
-        "제미나이",
-        "롤드컵"
-      ],
-      "fit": 3,
-      "format": "대결",
-      "series": "AI가 예측한 다음 경기 결과는?",
-      "title_ko": "AI 3사, 롤드컵 승패 예측 대결",
-      "why": "AI 모델 대결 포맷에 맞지만, e스포츠 종목이 시청자층에 따라 호불호 갈릴 수 있음",
-      "korea": {
-        "verdict": "red",
-        "query": "AI 롤드컵 예측",
-        "terms": [
-          "클로드",
-          "챗GPT",
-          "제미나이",
-          "롤드컵"
-        ],
-        "longform": 7,
-        "shorts": 8,
-        "top_views": 27950,
-        "top_title": "“T1·한화생명 둘 다 이긴다면서요?” AI 3사가 예측한 스위스 4R, 8강 확률의 함정 | 롤드컵 4라운드 AI 3대장 예측",
-        "top_channel": "롤고리즘"
-      },
-      "seen_at": "2026-10-29T21:58:43Z"
-    },
-    {
-      "video_id": "hnCoQ5wB-GU",
-      "title": "I tested 4 AI agents on 9 real tasks. Here’s who won.",
-      "channel_id": "UCRYY7IEbkHLH_ScJCu9eWDQ",
-      "channel_title": "How I AI",
-      "published_at": "2026-10-28T12:00:34Z",
-      "views": 231777,
-      "duration_s": 2110,
-      "channel_subs": 126000,
-      "channel_baseline": 17949,
-      "age_hours": 57.7,
-      "vph": 4019,
-      "recent_hours": 47.8,
-      "recent_gain": 218956,
-      "recent_vph": 4581,
-      "trend": "가속",
-      "multiplier": 12.91,
-      "sub_ratio": 1.84,
+      "video_id": "L2fNv4lrcE8",
+      "title": "AI OFM FULL COURSE #5 — PHONE FARM AUTOMATION With GLM 5.3",
+      "channel_id": "UCsuz5y2DPNbXlv30DiwPlAQ",
+      "channel_title": "Manila AI OFM",
+      "published_at": "2026-10-28T14:54:56Z",
+      "views": 43491,
+      "duration_s": 703,
+      "channel_subs": 5860,
+      "channel_baseline": 8075,
+      "age_hours": 68.3,
+      "vph": 637,
+      "multiplier": 5.39,
+      "sub_ratio": 7.42,
       "lang": "en",
       "passes": true,
-      "score": 8.86,
+      "score": 8.31,
       "sources": [
-        "검색 'I tested AI'",
-        "검색 'AI agent'"
+        "검색 'AI automation'"
       ],
       "signals": [],
-      "cluster": "ai-agent-comparison",
-      "topic_ko": "AI 에이전트 4종 비교 실험",
-      "ko_query": "AI 에이전트 비교",
+      "cluster": "ai-phone-farm",
+      "topic_ko": "AI 전화 농장 자동화",
+      "ko_query": "AI 전화 농장",
       "ko_terms": [
-        "AI",
-        "Grok Bot",
-        "Claude Duet",
-        "Muse"
+        "GLM 5.3",
+        "OpenCode"
       ],
-      "fit": 5,
-      "format": "대결",
-      "series": "AI 에이전트 4종, 이번엔 OO 업무 비교",
-      "title_ko": "AI 에이전트 4종, 실제 업무 대결 결과는?",
-      "why": "AI 모델 대결 포맷에 딱 맞으며, 다양한 AI 에이전트를 직접 비교하는 것은 직장인 시청자들에게 실질적인 정보를 제공합니다.",
-      "korea": {
-        "verdict": "red",
-        "query": "AI 에이전트 비교",
-        "terms": [
-          "AI",
-          "Grok Bot",
-          "Claude Duet",
-          "Muse"
-        ],
-        "longform": 19,
-        "shorts": 6,
-        "top_views": 51894,
-        "top_title": "크롬으로도 되는데 AI 브라우저가 필요한 이유? aside·ego lite·컴퓨터 유즈 완벽 비교 정리",
-        "top_channel": "민둥이 | 쉽게 배우는 AI"
-      },
-      "seen_at": "2026-10-30T21:41:11Z"
+      "fit": 2,
+      "format": "기타",
+      "series": "",
+      "title_ko": "AI로 전화 농장 자동화 실험",
+      "why": "직장인 공감대와는 거리가 멀고, 채널 포맷과 맞지 않음",
+      "seen_at": "2026-10-31T11:11:36Z"
     },
     {
-      "video_id": "DCyhnukQSGc",
-      "title": "사주 부업, 비싼 강의에 뭘 배우길래? 무료 프로그램 공개",
-      "channel_id": "UCsKXUF9aM6CkXnAdOvNNOUA",
-      "channel_title": "바코드랩",
-      "published_at": "2026-10-27T01:48:06Z",
-      "views": 5274,
-      "duration_s": 552,
-      "channel_subs": 585,
-      "channel_baseline": 428,
-      "age_hours": 68.2,
-      "vph": 77,
-      "multiplier": 12.31,
-      "sub_ratio": 9.02,
-      "lang": "ko",
-      "passes": false,
-      "score": 8.84,
+      "video_id": "JYJDIRKkoOc",
+      "title": "ChatGPT vs Claude in Street Fighter II (Best of 5)",
+      "channel_id": "UCZtFzIkfnp2W_6CcXQs_cYg",
+      "channel_title": "Bots vs Retro",
+      "published_at": "2026-10-29T17:51:07Z",
+      "views": 37197,
+      "duration_s": 548,
+      "channel_subs": 1460,
+      "channel_baseline": 22698,
+      "age_hours": 41.3,
+      "vph": 900,
+      "recent_hours": 13.5,
+      "recent_gain": 7874,
+      "recent_vph": 583,
+      "trend": "유지",
+      "multiplier": 1.64,
+      "sub_ratio": 25.48,
+      "lang": "en",
+      "passes": true,
+      "score": 8.21,
       "sources": [
-        "검색 'AI 부업'"
+        "검색 'ChatGPT vs Claude'"
       ],
       "signals": [],
-      "seen_at": "2026-10-29T21:58:43Z"
+      "cluster": "chatgpt-vs-claude-game",
+      "topic_ko": "챗GPT vs 클로드 게임 대결",
+      "ko_query": "챗GPT 클로드 대결",
+      "ko_terms": [
+        "ChatGPT",
+        "Claude",
+        "Street Fighter II"
+      ],
+      "fit": 4,
+      "format": "대결",
+      "series": "다음은 어떤 게임에서 대결할까?",
+      "title_ko": "챗GPT vs 클로드, 스트리트 파이터 대결",
+      "why": "AI 모델 대결 포맷에 잘 맞고 시청자 흥미 유발 가능",
+      "korea": {
+        "verdict": "green",
+        "query": "챗GPT 클로드 대결",
+        "terms": [
+          "ChatGPT",
+          "Claude",
+          "Street Fighter II"
+        ],
+        "longform": 1,
+        "shorts": 3,
+        "top_views": 6144,
+        "top_title": "AI 딱 하나만 남긴다면, ChatGPT vs 클로드 vs 제미나이 회사 일 6판 대결",
+        "top_channel": "윤자동"
+      },
+      "seen_at": "2026-10-31T11:11:36Z"
     },
     {
       "video_id": "GMnPY8VFWNg",
@@ -10961,26 +10659,26 @@
       "channel_id": "UCOzOcpGK6w8RM4bGnEI2e5g",
       "channel_title": "민둥이 | 쉽게 배우는 AI",
       "published_at": "2026-10-29T03:41:02Z",
-      "views": 63108,
+      "views": 69152,
       "duration_s": 286,
       "channel_subs": 7570,
       "channel_baseline": 15816,
-      "age_hours": 42.0,
-      "vph": 1502,
-      "recent_hours": 4.5,
-      "recent_gain": 2498,
-      "recent_vph": 551,
+      "age_hours": 55.5,
+      "vph": 1246,
+      "recent_hours": 13.5,
+      "recent_gain": 6044,
+      "recent_vph": 447,
       "trend": "둔화",
-      "multiplier": 3.99,
-      "sub_ratio": 8.34,
+      "multiplier": 4.37,
+      "sub_ratio": 9.14,
       "lang": "ko",
       "passes": true,
-      "score": 7.96,
+      "score": 8.12,
       "sources": [
         "검색 '클로드 코드'"
       ],
       "signals": [],
-      "seen_at": "2026-10-30T21:41:11Z"
+      "seen_at": "2026-10-31T11:11:36Z"
     },
     {
       "video_id": "yMnFHFf43Qg",
@@ -11037,55 +10735,79 @@
       "seen_at": "2026-10-30T21:41:11Z"
     },
     {
-      "video_id": "JYJDIRKkoOc",
-      "title": "ChatGPT vs Claude in Street Fighter II (Best of 5)",
-      "channel_id": "UCZtFzIkfnp2W_6CcXQs_cYg",
-      "channel_title": "Bots vs Retro",
-      "published_at": "2026-10-29T17:51:07Z",
-      "views": 29323,
-      "duration_s": 548,
-      "channel_subs": 1460,
-      "channel_baseline": 22698,
-      "age_hours": 27.8,
-      "vph": 1053,
-      "multiplier": 1.29,
-      "sub_ratio": 20.08,
-      "lang": "en",
-      "passes": false,
-      "score": 7.79,
-      "sources": [
-        "검색 'ChatGPT vs Claude'"
-      ],
-      "signals": [],
-      "seen_at": "2026-10-30T21:41:11Z"
-    },
-    {
-      "video_id": "S2I9iLpJAY4",
-      "title": "AI 부업 아이디어, 구글 출신이 코드 한 줄 안 짜고 만든 첫 앱이 한 달 5,300만 원",
-      "channel_id": "UCLbgiRyNR6lEb8fNROWRBQQ",
-      "channel_title": "AI Biz PT",
-      "published_at": "2026-10-29T09:00:12Z",
-      "views": 87455,
-      "duration_s": 508,
-      "channel_subs": 5810,
-      "channel_baseline": 58837,
-      "age_hours": 36.7,
-      "vph": 2384,
-      "recent_hours": 4.5,
-      "recent_gain": 3119,
-      "recent_vph": 688,
+      "video_id": "mz6n4udbfwc",
+      "title": "[홍장원의 불앤베어] AI 흔들리자 돈이 이동한다...다음 주도주 바뀌나. 드러켄밀러 계획, 머스크가 화답했다.",
+      "channel_id": "UCPTy0BNqiv-0SdAvFgrXvXg",
+      "channel_title": "매경 라이브",
+      "published_at": "2026-10-29T22:32:45Z",
+      "views": 216767,
+      "duration_s": 597,
+      "channel_subs": 327000,
+      "channel_baseline": 15996,
+      "age_hours": 36.6,
+      "vph": 5915,
+      "recent_hours": 13.5,
+      "recent_gain": 18983,
+      "recent_vph": 1405,
       "trend": "둔화",
-      "multiplier": 1.49,
-      "sub_ratio": 15.05,
+      "multiplier": 13.55,
+      "sub_ratio": 0.66,
       "lang": "ko",
       "passes": true,
-      "score": 7.41,
+      "score": 7.64,
       "sources": [
-        "검색 'AI 부업 아이디어'",
-        "검색 'AI 부업'"
+        "검색 'AI 주식 투자'"
       ],
       "signals": [],
-      "seen_at": "2026-10-30T21:41:11Z"
+      "seen_at": "2026-10-31T11:11:36Z"
+    },
+    {
+      "video_id": "bZJa_I8EnUc",
+      "title": "온톨로지, 꼭 써야 할까? 클로드 코드로 직접 재 봤습니다 (작은 과제 vs 회사 데이터)",
+      "channel_id": "UCn-Q7NHWqJvnoJh_phYBa0Q",
+      "channel_title": "단테",
+      "published_at": "2026-10-29T10:00:23Z",
+      "views": 12426,
+      "duration_s": 2347,
+      "channel_subs": 4050,
+      "channel_baseline": 1400,
+      "age_hours": 49.2,
+      "vph": 253,
+      "multiplier": 8.87,
+      "sub_ratio": 3.07,
+      "lang": "ko",
+      "passes": true,
+      "score": 7.58,
+      "sources": [
+        "검색 '클로드 코드'"
+      ],
+      "signals": [],
+      "cluster": "claude-ontology-experiment",
+      "topic_ko": "클로드 온톨로지 실험",
+      "ko_query": "클로드 온톨로지",
+      "ko_terms": [
+        "클로드",
+        "온톨로지"
+      ],
+      "fit": 4,
+      "format": "직접 해보기",
+      "series": "다른 AI 모델로 온톨로지 실험",
+      "title_ko": "클로드로 온톨로지 직접 써보기",
+      "why": "직접 해보기 실험 포맷에 잘 맞고, 직장인에게 유용한 정보 제공",
+      "korea": {
+        "verdict": "yellow",
+        "query": "클로드 온톨로지",
+        "terms": [
+          "클로드",
+          "온톨로지"
+        ],
+        "longform": 1,
+        "shorts": 0,
+        "top_views": 12426,
+        "top_title": "온톨로지, 꼭 써야 할까? 클로드 코드로 직접 재 봤습니다 (작은 과제 vs 회사 데이터)",
+        "top_channel": "단테"
+      },
+      "seen_at": "2026-10-31T11:11:36Z"
     },
     {
       "video_id": "P3TCZ2xrvbo",
@@ -11127,31 +10849,143 @@
       "seen_at": "2026-10-30T21:41:11Z"
     },
     {
-      "video_id": "mz6n4udbfwc",
-      "title": "[홍장원의 불앤베어] AI 흔들리자 돈이 이동한다...다음 주도주 바뀌나. 드러켄밀러 계획, 머스크가 화답했다.",
-      "channel_id": "UCPTy0BNqiv-0SdAvFgrXvXg",
-      "channel_title": "매경 라이브",
-      "published_at": "2026-10-29T22:32:45Z",
-      "views": 197784,
-      "duration_s": 597,
-      "channel_subs": 327000,
-      "channel_baseline": 15996,
-      "age_hours": 23.1,
-      "vph": 8547,
-      "recent_hours": 4.5,
-      "recent_gain": 4359,
-      "recent_vph": 962,
+      "video_id": "hnCoQ5wB-GU",
+      "title": "I tested 4 AI agents on 9 real tasks. Here’s who won.",
+      "channel_id": "UCRYY7IEbkHLH_ScJCu9eWDQ",
+      "channel_title": "How I AI",
+      "published_at": "2026-10-28T12:00:34Z",
+      "views": 233460,
+      "duration_s": 2110,
+      "channel_subs": 126000,
+      "channel_baseline": 17949,
+      "age_hours": 71.2,
+      "vph": 3280,
+      "recent_hours": 13.5,
+      "recent_gain": 1683,
+      "recent_vph": 125,
       "trend": "둔화",
-      "multiplier": 12.36,
-      "sub_ratio": 0.6,
+      "multiplier": 13.01,
+      "sub_ratio": 1.85,
+      "lang": "en",
+      "passes": true,
+      "score": 7.31,
+      "sources": [
+        "검색 'I tested AI'",
+        "검색 'AI agent'"
+      ],
+      "signals": [],
+      "cluster": "ai-agent-benchmark",
+      "topic_ko": "AI 에이전트 9가지 작업 비교",
+      "ko_query": "AI 에이전트 비교",
+      "ko_terms": [
+        "Grok Bot",
+        "Dot",
+        "Muse",
+        "Claude Duet"
+      ],
+      "fit": 4,
+      "format": "대결",
+      "series": "다른 AI 에이전트 9가지 작업 비교",
+      "title_ko": "AI 에이전트 9가지 작업 대결",
+      "why": "AI 모델 대결 포맷에 잘 맞고, 실제 업무 활용 가능성 제시",
+      "korea": {
+        "verdict": "yellow",
+        "query": "AI 에이전트 비교",
+        "terms": [
+          "Grok Bot",
+          "Dot",
+          "Muse",
+          "Claude Duet"
+        ],
+        "longform": 3,
+        "shorts": 2,
+        "top_views": 38072,
+        "top_title": "클로드 오퍼스보다 9배 싼 에이전트 끝판왕 GPT-6.1 테라 출시.. ㄷㄷ",
+        "top_channel": "성공지식백과"
+      },
+      "seen_at": "2026-10-31T11:11:36Z"
+    },
+    {
+      "video_id": "S2I9iLpJAY4",
+      "title": "AI 부업 아이디어, 구글 출신이 코드 한 줄 안 짜고 만든 첫 앱이 한 달 5,300만 원",
+      "channel_id": "UCLbgiRyNR6lEb8fNROWRBQQ",
+      "channel_title": "AI Biz PT",
+      "published_at": "2026-10-29T09:00:12Z",
+      "views": 92374,
+      "duration_s": 508,
+      "channel_subs": 5810,
+      "channel_baseline": 58837,
+      "age_hours": 50.2,
+      "vph": 1840,
+      "recent_hours": 13.5,
+      "recent_gain": 4919,
+      "recent_vph": 364,
+      "trend": "둔화",
+      "multiplier": 1.57,
+      "sub_ratio": 15.9,
       "lang": "ko",
       "passes": true,
       "score": 7.29,
       "sources": [
-        "검색 'AI 주식 투자'"
+        "검색 'AI 부업 아이디어'",
+        "검색 'AI 부업'"
       ],
       "signals": [],
-      "seen_at": "2026-10-30T21:41:11Z"
+      "seen_at": "2026-10-31T11:11:36Z"
+    },
+    {
+      "video_id": "tpbXZyRxWNY",
+      "title": "I Spent 100 Hours Making a Game With Claude (this is cooked)",
+      "channel_id": "UCzIsviqoJc-VcWqF5Pp8iLw",
+      "channel_title": "Brendan Jowett",
+      "published_at": "2026-10-29T11:06:20Z",
+      "views": 106643,
+      "duration_s": 1343,
+      "channel_subs": 64000,
+      "channel_baseline": 24921,
+      "age_hours": 48.1,
+      "vph": 2218,
+      "recent_hours": 13.5,
+      "recent_gain": 36411,
+      "recent_vph": 2696,
+      "trend": "가속",
+      "multiplier": 4.28,
+      "sub_ratio": 1.67,
+      "lang": "en",
+      "passes": false,
+      "score": 6.94,
+      "sources": [
+        "검색 'AI made a game'"
+      ],
+      "signals": [],
+      "seen_at": "2026-10-31T11:11:36Z"
+    },
+    {
+      "video_id": "exkQTYOm47c",
+      "title": "Claude Code for Free With 7 Billion Tokens a Month",
+      "channel_id": "UCOXRjenlq9PmlTqd_JhAbMQ",
+      "channel_title": "Eric Tech",
+      "published_at": "2026-10-28T15:14:40Z",
+      "views": 82794,
+      "duration_s": 921,
+      "channel_subs": 90700,
+      "channel_baseline": 12011,
+      "age_hours": 67.9,
+      "vph": 1218,
+      "recent_hours": 13.5,
+      "recent_gain": 11596,
+      "recent_vph": 859,
+      "trend": "유지",
+      "multiplier": 6.89,
+      "sub_ratio": 0.91,
+      "lang": "en",
+      "passes": true,
+      "score": 6.66,
+      "sources": [
+        "검색 'Claude Code'"
+      ],
+      "signals": [],
+      "seen_at": "2026-10-31T11:11:36Z"
     },
     {
       "video_id": "W00pt5bfe6c",
@@ -11159,26 +10993,26 @@
       "channel_id": "UCWYs4KqAdayj6oTAYVKDplg",
       "channel_title": "Real Estate Ninja",
       "published_at": "2026-10-29T16:00:28Z",
-      "views": 125027,
+      "views": 134705,
       "duration_s": 335,
       "channel_subs": 106000,
       "channel_baseline": 22192,
-      "age_hours": 29.7,
-      "vph": 4213,
-      "recent_hours": 4.5,
-      "recent_gain": 9406,
-      "recent_vph": 2075,
-      "trend": "유지",
-      "multiplier": 5.63,
-      "sub_ratio": 1.18,
+      "age_hours": 43.2,
+      "vph": 3119,
+      "recent_hours": 13.5,
+      "recent_gain": 9678,
+      "recent_vph": 717,
+      "trend": "둔화",
+      "multiplier": 6.07,
+      "sub_ratio": 1.27,
       "lang": "en",
       "passes": true,
-      "score": 6.94,
+      "score": 6.64,
       "sources": [
         "검색 'AI personal finance'"
       ],
       "signals": [],
-      "seen_at": "2026-10-30T21:41:11Z"
+      "seen_at": "2026-10-31T11:11:36Z"
     },
     {
       "video_id": "Q91gJ1-PGTY",
@@ -11203,33 +11037,6 @@
       "score": 6.62,
       "sources": [
         "검색 'AI vs human'"
-      ],
-      "signals": [],
-      "seen_at": "2026-10-30T21:41:11Z"
-    },
-    {
-      "video_id": "exkQTYOm47c",
-      "title": "Claude Code for Free With 7 Billion Tokens a Month",
-      "channel_id": "UCOXRjenlq9PmlTqd_JhAbMQ",
-      "channel_title": "Eric Tech",
-      "published_at": "2026-10-28T15:14:40Z",
-      "views": 71198,
-      "duration_s": 921,
-      "channel_subs": 90700,
-      "channel_baseline": 12011,
-      "age_hours": 54.4,
-      "vph": 1308,
-      "recent_hours": 4.5,
-      "recent_gain": 6525,
-      "recent_vph": 1439,
-      "trend": "가속",
-      "multiplier": 5.93,
-      "sub_ratio": 0.78,
-      "lang": "en",
-      "passes": true,
-      "score": 6.56,
-      "sources": [
-        "검색 'Claude Code'"
       ],
       "signals": [],
       "seen_at": "2026-10-30T21:41:11Z"
@@ -11262,121 +11069,70 @@
       "seen_at": "2026-10-30T11:35:40Z"
     },
     {
-      "video_id": "zXHJ-IJ59AM",
-      "title": "Mi homelab con IA local: vale la pena?",
-      "channel_id": "UCeo1MU4H-KuPpmUaWiyICIA",
-      "channel_title": "Erik Taveras",
-      "published_at": "2026-10-26T22:06:43Z",
-      "views": 40629,
-      "duration_s": 497,
-      "channel_subs": 20500,
-      "channel_baseline": 9510,
-      "age_hours": 71.9,
-      "vph": 565,
-      "recent_hours": 10.2,
-      "recent_gain": 5771,
-      "recent_vph": 563,
+      "video_id": "3MJ6OHhOxHs",
+      "title": "Anthropic ha Lanzado Claude 2.0 (Aprende TODO en 15 Minutos)",
+      "channel_id": "UCwsP4_k3gYhRWz-1kTetgew",
+      "channel_title": "Martín Toledo | IA & Automatización ",
+      "published_at": "2026-10-29T20:00:14Z",
+      "views": 26241,
+      "duration_s": 958,
+      "channel_subs": 10400,
+      "channel_baseline": 8971,
+      "age_hours": 39.2,
+      "vph": 670,
+      "recent_hours": 13.5,
+      "recent_gain": 7062,
+      "recent_vph": 523,
       "trend": "유지",
-      "multiplier": 4.27,
-      "sub_ratio": 1.98,
+      "multiplier": 2.93,
+      "sub_ratio": 2.52,
       "lang": "en",
       "passes": false,
-      "score": 6.42,
+      "score": 6.08,
       "sources": [
-        "검색 'AI home automation'"
+        "검색 'Claude Code'"
       ],
       "signals": [],
-      "seen_at": "2026-10-29T21:58:43Z"
+      "seen_at": "2026-10-31T11:11:36Z"
     },
     {
-      "video_id": "S3XvH3v8bY0",
-      "title": "편집 없이, 비용 없이 — 클로드 코드만 써도 조회수 350만 애니메이션 만들 수 있다/ 불혹청년",
-      "channel_id": "UCbI_MeHQI_p34SGdGuzr2Kw",
-      "channel_title": "불혹청년",
-      "published_at": "2026-10-27T10:00:18Z",
-      "views": 10473,
-      "duration_s": 1059,
-      "channel_subs": 9390,
-      "channel_baseline": 1436,
-      "age_hours": 60.0,
-      "vph": 175,
-      "recent_hours": 10.2,
-      "recent_gain": 1679,
-      "recent_vph": 164,
-      "trend": "유지",
-      "multiplier": 7.29,
-      "sub_ratio": 1.12,
-      "lang": "ko",
+      "video_id": "7swKPkUIiII",
+      "title": "Learn Coding in 2027: Perfect ROADMAP for Beginners",
+      "channel_id": "UCQHLxxBFrbfdrk1jF0moTpw",
+      "channel_title": "Love Babbar",
+      "published_at": "2026-10-28T13:31:22Z",
+      "views": 138974,
+      "duration_s": 970,
+      "channel_subs": 663000,
+      "channel_baseline": 24926,
+      "age_hours": 69.7,
+      "vph": 1995,
+      "recent_hours": 13.5,
+      "recent_gain": 27209,
+      "recent_vph": 2014,
+      "trend": "가속",
+      "multiplier": 5.58,
+      "sub_ratio": 0.21,
+      "lang": "en",
       "passes": true,
-      "score": 6.16,
+      "score": 6.06,
       "sources": [
-        "검색 '클로드 코드'"
+        "검색 'vibe coded'"
       ],
       "signals": [],
-      "cluster": "ai-animation-code",
-      "topic_ko": "AI 코드로 애니메이션 만들기",
-      "ko_query": "AI 코드 애니메이션",
+      "cluster": "ai-vs-programmer",
+      "topic_ko": "AI 시대 프로그래머 전망",
+      "ko_query": "AI 프로그래머 전망",
       "ko_terms": [
-        "클로드 코드"
+        "AI",
+        "프로그래머"
       ],
-      "fit": 5,
-      "format": "직접 해보기",
-      "series": "AI 코드로 만든 다른 콘텐츠는?",
-      "title_ko": "AI 코드로 조회수 350만 애니 만들기",
-      "why": "'AI가 OO를 죽였다'류 사건 포장 포맷에 맞고, 시청자들이 흥미를 느낄 만한 결과물을 보여줌",
-      "seen_at": "2026-10-29T21:58:43Z"
-    },
-    {
-      "video_id": "NO2I3ueVQrk",
-      "title": "Gemini 4 Carbon | First Impressions",
-      "channel_id": "UCKHVXTuahhhZFhhu_SfTyWA",
-      "channel_title": "Arena  ",
-      "published_at": "2026-10-28T19:43:03Z",
-      "views": 60842,
-      "duration_s": 2826,
-      "channel_subs": 36000,
-      "channel_baseline": 13904,
-      "age_hours": 50.0,
-      "vph": 1218,
-      "recent_hours": 4.5,
-      "recent_gain": 1377,
-      "recent_vph": 304,
-      "trend": "둔화",
-      "multiplier": 4.38,
-      "sub_ratio": 1.69,
-      "lang": "en",
-      "passes": false,
-      "score": 6.04,
-      "sources": [
-        "상류 'Google Gemini 4 Carbon'"
-      ],
-      "signals": [
-        "HN 953점 · Gemini 4 Carbon"
-      ],
-      "seen_at": "2026-10-30T21:41:11Z"
-    },
-    {
-      "video_id": "KDe2QsoXaWw",
-      "title": "AI를 진짜 잘 쓰는 사람들의 7가지 특징",
-      "channel_id": "UCqqsSVy4vF57pV4i76tJDCw",
-      "channel_title": "달비의 작업실 | AI 자동화",
-      "published_at": "2026-10-27T09:23:38Z",
-      "views": 20892,
-      "duration_s": 975,
-      "channel_subs": 10600,
-      "channel_baseline": 5630,
-      "age_hours": 60.6,
-      "vph": 345,
-      "multiplier": 3.71,
-      "sub_ratio": 1.97,
-      "lang": "ko",
-      "passes": false,
-      "score": 6.0,
-      "sources": [
-        "검색 'AI 자동화'"
-      ],
-      "signals": [],
-      "seen_at": "2026-10-29T21:58:43Z"
+      "fit": 3,
+      "format": "뉴스 해설",
+      "series": "AI 시대, 다른 직업 전망",
+      "title_ko": "AI가 프로그래머를 대체할까?",
+      "why": "직장인 관심 주제이나, 채널의 실험/대결 포맷과는 다소 거리가 있음",
+      "seen_at": "2026-10-31T11:11:36Z"
     },
     {
       "video_id": "u_J77nEB15M",
@@ -11418,81 +11174,33 @@
       "seen_at": "2026-10-30T11:35:40Z"
     },
     {
-      "video_id": "O-tMSUfyBdk",
-      "title": "크랙 이슈 터진 아이폰 듀오, 실사용은 어땠는지 자세히 풀어봤습니다",
-      "channel_id": "UCB11SAf7WSN4GrCquKoOHrw",
-      "channel_title": "주연 ZUYONI",
-      "published_at": "2026-10-27T10:00:15Z",
-      "views": 973532,
-      "duration_s": 1256,
-      "channel_subs": 838000,
-      "channel_baseline": 495279,
-      "age_hours": 60.0,
-      "vph": 16232,
-      "recent_hours": 10.2,
-      "recent_gain": 73479,
-      "recent_vph": 7169,
-      "trend": "유지",
-      "multiplier": 1.97,
-      "sub_ratio": 1.16,
-      "lang": "ko",
-      "passes": false,
-      "score": 5.94,
-      "sources": [
-        "감시 채널"
-      ],
-      "signals": [],
-      "seen_at": "2026-10-29T21:58:43Z"
-    },
-    {
-      "video_id": "tpbXZyRxWNY",
-      "title": "I Spent 100 Hours Making a Game With Claude (this is cooked)",
-      "channel_id": "UCzIsviqoJc-VcWqF5Pp8iLw",
-      "channel_title": "Brendan Jowett",
-      "published_at": "2026-10-29T11:06:20Z",
-      "views": 70232,
-      "duration_s": 1343,
-      "channel_subs": 64000,
-      "channel_baseline": 24921,
-      "age_hours": 34.6,
-      "vph": 2031,
-      "multiplier": 2.82,
-      "sub_ratio": 1.1,
+      "video_id": "NO2I3ueVQrk",
+      "title": "Gemini 4 Carbon | First Impressions",
+      "channel_id": "UCKHVXTuahhhZFhhu_SfTyWA",
+      "channel_title": "Arena  ",
+      "published_at": "2026-10-28T19:43:03Z",
+      "views": 63400,
+      "duration_s": 2826,
+      "channel_subs": 36000,
+      "channel_baseline": 13904,
+      "age_hours": 63.5,
+      "vph": 999,
+      "recent_hours": 13.5,
+      "recent_gain": 2558,
+      "recent_vph": 189,
+      "trend": "둔화",
+      "multiplier": 4.56,
+      "sub_ratio": 1.76,
       "lang": "en",
       "passes": false,
-      "score": 5.87,
+      "score": 5.93,
       "sources": [
-        "검색 'AI made a game'"
+        "상류 'Google Gemini 4 Carbon'"
       ],
-      "signals": [],
-      "seen_at": "2026-10-30T21:41:11Z"
-    },
-    {
-      "video_id": "7swKPkUIiII",
-      "title": "Learn Coding in 2027: Perfect ROADMAP for Beginners",
-      "channel_id": "UCQHLxxBFrbfdrk1jF0moTpw",
-      "channel_title": "Love Babbar",
-      "published_at": "2026-10-28T13:31:22Z",
-      "views": 111765,
-      "duration_s": 970,
-      "channel_subs": 663000,
-      "channel_baseline": 24926,
-      "age_hours": 56.2,
-      "vph": 1990,
-      "recent_hours": 4.5,
-      "recent_gain": 13211,
-      "recent_vph": 2914,
-      "trend": "가속",
-      "multiplier": 4.48,
-      "sub_ratio": 0.17,
-      "lang": "en",
-      "passes": false,
-      "score": 5.85,
-      "sources": [
-        "검색 'vibe coded'"
+      "signals": [
+        "HN 953점 · Gemini 4 Carbon"
       ],
-      "signals": [],
-      "seen_at": "2026-10-30T21:41:11Z"
+      "seen_at": "2026-10-31T11:11:36Z"
     },
     {
       "video_id": "otbVNv3kMX0",
@@ -11518,45 +11226,31 @@
       "seen_at": "2026-10-30T21:41:11Z"
     },
     {
-      "video_id": "sD-jl4OCOEc",
-      "title": "당신의 AI 브라우저는? 어사이드·ego lite·클로드 인 크롬 브라우저 한 번에 비교 총 정리! 채팅에서부터 헤르메스까지 딱 정해드립니다!",
-      "channel_id": "UC_U-0eI82KHzxBRIlpBfJcQ",
-      "channel_title": "쫑대표의 딸깍일기",
-      "published_at": "2026-10-26T23:30:35Z",
-      "views": 29593,
-      "duration_s": 1337,
-      "channel_subs": 3370,
-      "channel_baseline": null,
+      "video_id": "XSPBwKSa7kY",
+      "title": "BEST Claude Code Side Hustle Nobody is Talking About",
+      "channel_id": "UCH4FF2BYPBaPOhnGI3TYpAw",
+      "channel_title": "Geekbot AI",
+      "published_at": "2026-10-28T12:43:55Z",
+      "views": 25808,
+      "duration_s": 934,
+      "channel_subs": 42900,
+      "channel_baseline": 4663,
       "age_hours": 70.5,
-      "vph": 420,
-      "recent_hours": 10.2,
-      "recent_gain": 3105,
-      "recent_vph": 303,
-      "trend": "유지",
-      "multiplier": null,
-      "sub_ratio": 8.78,
-      "lang": "ko",
-      "passes": true,
-      "score": 5.77,
+      "vph": 366,
+      "recent_hours": 13.5,
+      "recent_gain": 5489,
+      "recent_vph": 406,
+      "trend": "가속",
+      "multiplier": 5.53,
+      "sub_ratio": 0.6,
+      "lang": "en",
+      "passes": false,
+      "score": 5.76,
       "sources": [
-        "검색 'AI 자동화'",
-        "검색 '클로드 코드'"
+        "검색 'Claude Code'"
       ],
       "signals": [],
-      "cluster": "ai-browser-tools",
-      "topic_ko": "AI 브라우저 툴 비교",
-      "ko_query": "AI 브라우저 비교",
-      "ko_terms": [
-        "어사이드",
-        "ego lite",
-        "클로드 인 크롬"
-      ],
-      "fit": 4,
-      "format": "대결",
-      "series": "AI 브라우저 툴, 다음은 무엇을 비교할까?",
-      "title_ko": "AI 브라우저 툴 3종 비교",
-      "why": "AI 툴 비교 포맷에 맞고, 직장인들이 업무 효율을 높이는 데 관심 가질 만한 소재",
-      "seen_at": "2026-10-29T21:58:43Z"
+      "seen_at": "2026-10-31T11:11:36Z"
     },
     {
       "video_id": "MRO1iaEv-LE",
@@ -11585,6 +11279,75 @@
       ],
       "signals": [],
       "seen_at": "2026-10-30T21:41:11Z"
+    },
+    {
+      "video_id": "vRlBBX_2ru4",
+      "title": "-30% 대폭락.. 실제 범인은 따로 있었습니다..ㄷㄷ",
+      "channel_id": "UCWV2Uy79TOpB1bk8hnq1nGw",
+      "channel_title": "월텍남 - 월스트리트 테크남",
+      "published_at": "2026-10-31T01:25:55Z",
+      "views": 83062,
+      "duration_s": 1103,
+      "channel_subs": 227000,
+      "channel_baseline": 36863,
+      "age_hours": 9.8,
+      "vph": 8509,
+      "multiplier": 2.25,
+      "sub_ratio": 0.37,
+      "lang": "ko",
+      "passes": false,
+      "score": 5.55,
+      "sources": [
+        "감시 채널"
+      ],
+      "signals": [],
+      "seen_at": "2026-10-31T11:11:36Z"
+    },
+    {
+      "video_id": "gNv7MXP6KVs",
+      "title": "웹개발은 끝났다? 웹사이트 통째로 복사하는 미친 오픈소스.. ㄷㄷ",
+      "channel_id": "UC-SyuGFlZXpGdR7WszgYBhw",
+      "channel_title": "성공지식백과",
+      "published_at": "2026-10-30T23:46:03Z",
+      "views": 50067,
+      "duration_s": 929,
+      "channel_subs": 116000,
+      "channel_baseline": 19245,
+      "age_hours": 11.4,
+      "vph": 4382,
+      "multiplier": 2.6,
+      "sub_ratio": 0.43,
+      "lang": "ko",
+      "passes": false,
+      "score": 5.54,
+      "sources": [
+        "감시 채널"
+      ],
+      "signals": [],
+      "seen_at": "2026-10-31T11:11:36Z"
+    },
+    {
+      "video_id": "QZ72CnQDFAs",
+      "title": "AI 비서 3파전, 클로드 듀엣·챗GPT 닷츠·메타 뮤즈 비교 믿고 맡겨도 될까?",
+      "channel_id": "UC3rrwiD_qrYp2B8hgU3YBGQ",
+      "channel_title": "옆자리 연구원",
+      "published_at": "2026-10-29T09:30:20Z",
+      "views": 8878,
+      "duration_s": 905,
+      "channel_subs": 1390,
+      "channel_baseline": 7464,
+      "age_hours": 49.7,
+      "vph": 179,
+      "multiplier": 1.19,
+      "sub_ratio": 6.39,
+      "lang": "ko",
+      "passes": false,
+      "score": 5.39,
+      "sources": [
+        "검색 '챗GPT 클로드'"
+      ],
+      "signals": [],
+      "seen_at": "2026-10-31T11:11:36Z"
     },
     {
       "video_id": "E3rdsslag1E",
@@ -11689,104 +11452,27 @@
       "seen_at": "2026-10-30T11:35:40Z"
     },
     {
-      "video_id": "3MJ6OHhOxHs",
-      "title": "Anthropic ha Lanzado Claude 2.0 (Aprende TODO en 15 Minutos)",
-      "channel_id": "UCwsP4_k3gYhRWz-1kTetgew",
-      "channel_title": "Martín Toledo | IA & Automatización ",
-      "published_at": "2026-10-29T20:00:14Z",
-      "views": 19179,
-      "duration_s": 958,
-      "channel_subs": 10400,
-      "channel_baseline": 8971,
-      "age_hours": 25.7,
-      "vph": 747,
-      "recent_hours": 4.5,
-      "recent_gain": 1883,
-      "recent_vph": 415,
-      "trend": "유지",
-      "multiplier": 2.14,
-      "sub_ratio": 1.84,
-      "lang": "en",
+      "video_id": "U7FiLzI-w30",
+      "title": "AI플루토와 대결 스타크래프트 LIVE 박태민 세팅박 (261029)",
+      "channel_id": "UCAskb2E2ql4WRxERnANDdJw",
+      "channel_title": "박태민 세팅박",
+      "published_at": "2026-10-29T18:49:40Z",
+      "views": 40284,
+      "duration_s": 9555,
+      "channel_subs": 15000,
+      "channel_baseline": 30903,
+      "age_hours": 40.4,
+      "vph": 998,
+      "multiplier": 1.3,
+      "sub_ratio": 2.69,
+      "lang": "ko",
       "passes": false,
-      "score": 5.22,
+      "score": 5.26,
       "sources": [
-        "검색 'Claude Code'"
+        "검색 'AI 대결'"
       ],
       "signals": [],
-      "seen_at": "2026-10-30T21:41:11Z"
-    },
-    {
-      "video_id": "DIOfM1EIF-Q",
-      "title": "Tokenizing Wall Street & The AI Agent Revolution: Robby Yung | Animoca Brands",
-      "channel_id": "UCi7Q306_2Y3mlLSSZyyQlug",
-      "channel_title": "FUMO: Future of Money Podcast",
-      "published_at": "2026-10-29T12:00:08Z",
-      "views": 75016,
-      "duration_s": 2806,
-      "channel_subs": 32200,
-      "channel_baseline": 110535,
-      "age_hours": 33.7,
-      "vph": 2227,
-      "multiplier": 0.68,
-      "sub_ratio": 2.33,
-      "lang": "en",
-      "passes": false,
-      "score": 5.08,
-      "sources": [
-        "검색 'AI agent'"
-      ],
-      "signals": [],
-      "seen_at": "2026-10-30T21:41:11Z"
-    },
-    {
-      "video_id": "XSPBwKSa7kY",
-      "title": "BEST Claude Code Side Hustle Nobody is Talking About",
-      "channel_id": "UCH4FF2BYPBaPOhnGI3TYpAw",
-      "channel_title": "Geekbot AI",
-      "published_at": "2026-10-28T12:43:55Z",
-      "views": 20319,
-      "duration_s": 934,
-      "channel_subs": 42900,
-      "channel_baseline": 4663,
-      "age_hours": 57.0,
-      "vph": 357,
-      "recent_hours": 4.5,
-      "recent_gain": 926,
-      "recent_vph": 204,
-      "trend": "유지",
-      "multiplier": 4.36,
-      "sub_ratio": 0.47,
-      "lang": "en",
-      "passes": false,
-      "score": 4.99,
-      "sources": [
-        "검색 'Claude Code'"
-      ],
-      "signals": [],
-      "seen_at": "2026-10-30T21:41:11Z"
-    },
-    {
-      "video_id": "uMChkqLC4Mc",
-      "title": "We Paid for Zuck's 'Superintelligent' AI (So You Don't Have To)",
-      "channel_id": "UCGwns8iFnP0WbTK9e0PUxIg",
-      "channel_title": "Easy Riders",
-      "published_at": "2026-10-28T13:00:39Z",
-      "views": 66959,
-      "duration_s": 1345,
-      "channel_subs": 27900,
-      "channel_baseline": 74110,
-      "age_hours": 56.7,
-      "vph": 1181,
-      "multiplier": 0.9,
-      "sub_ratio": 2.4,
-      "lang": "en",
-      "passes": false,
-      "score": 4.84,
-      "sources": [
-        "검색 'I tested AI'"
-      ],
-      "signals": [],
-      "seen_at": "2026-10-30T21:41:11Z"
+      "seen_at": "2026-10-31T11:11:36Z"
     },
     {
       "video_id": "yNI84SU9x4I",
@@ -11794,22 +11480,49 @@
       "channel_id": "UCbY9xX3_jW5c2fjlZVBI4cg",
       "channel_title": "TheAIGRID",
       "published_at": "2026-10-29T19:36:52Z",
-      "views": 74041,
+      "views": 105148,
       "duration_s": 1801,
       "channel_subs": 402000,
       "channel_baseline": 36048,
-      "age_hours": 26.1,
-      "vph": 2840,
-      "multiplier": 2.05,
-      "sub_ratio": 0.18,
+      "age_hours": 39.6,
+      "vph": 2657,
+      "recent_hours": 13.5,
+      "recent_gain": 31107,
+      "recent_vph": 2303,
+      "trend": "유지",
+      "multiplier": 2.92,
+      "sub_ratio": 0.26,
       "lang": "en",
       "passes": false,
-      "score": 4.74,
+      "score": 5.24,
       "sources": [
         "검색 'new AI model'"
       ],
       "signals": [],
-      "seen_at": "2026-10-30T21:41:11Z"
+      "seen_at": "2026-10-31T11:11:36Z"
+    },
+    {
+      "video_id": "DByAR5Su1Yw",
+      "title": "I Told Claude to \"Make it better\" 100 Times (It Went Too Far)",
+      "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
+      "channel_title": "Nate Herk | AI Automation",
+      "published_at": "2026-10-30T00:45:46Z",
+      "views": 237643,
+      "duration_s": 831,
+      "channel_subs": 1100000,
+      "channel_baseline": 126812,
+      "age_hours": 34.4,
+      "vph": 6902,
+      "multiplier": 1.87,
+      "sub_ratio": 0.22,
+      "lang": "en",
+      "passes": false,
+      "score": 5.03,
+      "sources": [
+        "검색 'AI automation'"
+      ],
+      "signals": [],
+      "seen_at": "2026-10-31T11:11:36Z"
     },
     {
       "video_id": "VIm73gaY_hM",
@@ -11841,25 +11554,75 @@
         "GitHub Zagitta/gpu-unlock ★1.3만 (+677/일)"
       ],
       "seen_at": "2026-10-30T11:35:40Z"
+    },
+    {
+      "video_id": "wdOioNE1mik",
+      "title": "딴 말 안 할게. 이 세제 꼭 사라!",
+      "channel_id": "UCiTGSmGgJtKTcjEvDk_zRhw",
+      "channel_title": "귀곰",
+      "published_at": "2026-10-30T08:00:07Z",
+      "views": 551944,
+      "duration_s": 908,
+      "channel_subs": 1160000,
+      "channel_baseline": 561955,
+      "age_hours": 27.2,
+      "vph": 20298,
+      "recent_hours": 13.5,
+      "recent_gain": 171119,
+      "recent_vph": 12669,
+      "trend": "유지",
+      "multiplier": 0.98,
+      "sub_ratio": 0.48,
+      "lang": "ko",
+      "passes": false,
+      "score": 4.66,
+      "sources": [
+        "감시 채널"
+      ],
+      "signals": [],
+      "seen_at": "2026-10-31T11:11:36Z"
+    },
+    {
+      "video_id": "zO68MQmfvcA",
+      "title": "Claude 2.0 완전 정복! 왕초보를 위한 클로드 코드 데스크탑 새 기능 13가지 (15분 정리)",
+      "channel_id": "UCxZRFtsXhBlEsz9kSvNWaAQ",
+      "channel_title": "샘 호트만 : AI 엔지니어의 시선",
+      "published_at": "2026-10-31T03:33:55Z",
+      "views": 8167,
+      "duration_s": 905,
+      "channel_subs": 13900,
+      "channel_baseline": 4196,
+      "age_hours": 7.6,
+      "vph": 1071,
+      "multiplier": 1.95,
+      "sub_ratio": 0.59,
+      "lang": "ko",
+      "passes": false,
+      "score": 4.66,
+      "sources": [
+        "검색 '클로드 코드'"
+      ],
+      "signals": [],
+      "seen_at": "2026-10-31T11:11:36Z"
     }
   ],
   "last_run": {
-    "at": "2026-10-30T21:41:11Z",
-    "quota_used": 1538,
+    "at": "2026-10-31T11:11:36Z",
+    "quota_used": 1477,
     "queries": [
-      "GeForce AI unlock",
-      "Android ad cleaner AI",
-      "Claude VS Code backdoor",
-      "AI just killed",
-      "ChatGPT vs Claude",
-      "AI vs human",
-      "I tested AI",
-      "new AI model",
-      "AI agent",
-      "AI made a game",
-      "AI video generator"
+      "DeepSeek Harness Go",
+      "Claude AI UI design",
+      "Mika AI agent Android",
+      "one prompt",
+      "AI automation",
+      "클로드 코드",
+      "바이브 코딩",
+      "AI로 만들었다",
+      "AI 대결",
+      "챗GPT 클로드",
+      "AI 무료 대체"
     ],
-    "candidates": 114,
+    "candidates": 69,
     "passing": 12,
     "alerts": 1,
     "errors": []
