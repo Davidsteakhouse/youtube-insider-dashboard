@@ -1,6 +1,6 @@
 window.__DASHBOARD_DATA__ = {
   "watchlist": {
-    "generated_at": "2026-10-31T02:17:34+00:00",
+    "generated_at": "2026-11-01T02:09:04+00:00",
     "source": "sqlite_export",
     "channels": [
       {
@@ -12,13 +12,13 @@ window.__DASHBOARD_DATA__ = {
         "language": "English",
         "is_active": true,
         "subscriber_count": 3140000,
-        "channel_view_count": 421497763,
-        "video_count": 3829,
+        "channel_view_count": 421804026,
+        "video_count": 3831,
         "description": "My #1 passion is teaching.\n\n#2 is building AI businesses.\n\nI’ve built and exited 3x tech companies.\n\nInvested in 100+ others.\n\nSpend 98.2% of my time building AI startups at Martell Ventures (AI Venture Studio)\n\nWrote a WSJ best selling book https://www.BuyBackYourTime.com\n\nPlay life full out (wake surfing, snowboarding, mountain biking) at the highest level…\n\n… and I love people and travelling the world with my family training and speaking on the biggest stages.\n\nOh, and did all that after ending up in jail and rehab at 17 years old.\n\nIt’s been a journey to say the least. \n",
         "country": "CA",
         "published_at": "2011-10-08T05:11:03Z",
         "thumbnail_url": "https://yt3.ggpht.com/0EEjg1FatDs8_2tFmzmGEP6dRlQygfqN6uCV17iwl-AymS0OSdWrtDeKq8ZIMZeTWRJO_cTT=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-10-31T02:13:49+00:00",
+        "last_synced_at": "2026-11-01T02:05:30+00:00",
         "source": "manual",
         "notes": "Added by Codex on 2026-07-03 for daily monitoring."
       },
@@ -31,13 +31,13 @@ window.__DASHBOARD_DATA__ = {
         "language": "미지정",
         "is_active": true,
         "subscriber_count": 2840000,
-        "channel_view_count": 1538795236,
-        "video_count": 1623,
+        "channel_view_count": 1539317745,
+        "video_count": 1624,
         "description": "궁금한 것은 절대 못참는 테크 크리에이터 잇섭(ITSub)입니다. \n테크에 관련된, 관심있는 것은 무엇이든 리뷰합니다\n\n#전자기기\n#IT이슈\n#자동차\n#테크\n",
         "country": "KR",
         "published_at": "2016-08-07T10:23:41Z",
         "thumbnail_url": "https://yt3.ggpht.com/ytc/AIdro_kutxZhVtnH4nWcW7ebuDER5TfHwPZJaqGyBVGjVC52A0A=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-10-31T02:13:49+00:00",
+        "last_synced_at": "2026-11-01T02:05:30+00:00",
         "source": "notion",
         "notes": ""
       },
@@ -50,13 +50,13 @@ window.__DASHBOARD_DATA__ = {
         "language": "미지정",
         "is_active": true,
         "subscriber_count": 1940000,
-        "channel_view_count": 107255795,
+        "channel_view_count": 107322556,
         "video_count": 318,
         "description": "🌟 This is the channel I wish I could have subscribed when I first entered the workforce\n\nI'm Jeff, a full time Product Marketer. In my spare time I like to tinker with tools and create systems that help me get things done faster - or as one of my friends puts it: \"Get better at being lazy\" 😏\n\nI make videos on practical career and productivity tips without all the \"fluff\"\n\nSo if you're a college student, working professional, or super ambitious high schooler, make sure to subscribe to my channel 💡\n",
         "country": "US",
         "published_at": "2013-01-27T23:01:24Z",
         "thumbnail_url": "https://yt3.ggpht.com/fHDMaIjQYS0XTz17AL-iIxdfyrGJfLliAJTQmJE931P1OareLsLIvFeJDcDtI3QpkD9HLnvI7Gw=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-10-31T02:13:49+00:00",
+        "last_synced_at": "2026-11-01T02:05:30+00:00",
         "source": "notion",
         "notes": ""
       },
@@ -69,13 +69,13 @@ window.__DASHBOARD_DATA__ = {
         "language": "미지정",
         "is_active": true,
         "subscriber_count": 1160000,
-        "channel_view_count": 259191640,
+        "channel_view_count": 259916303,
         "video_count": 427,
         "description": "경험을 리뷰합니다\n귀찮은곰의 하이퍼리얼리즘 리뷰생활\n\ncompanyssul@gmail.com",
         "country": "KR",
         "published_at": "2020-03-01T07:13:43.531335Z",
         "thumbnail_url": "https://yt3.ggpht.com/ytc/AIdro_kWXdgewHuD89YlbSIkvQaFrnGLalhXjXL3pI4kkOq6BQ=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-10-31T02:13:49+00:00",
+        "last_synced_at": "2026-11-01T02:05:30+00:00",
         "source": "notion",
         "notes": ""
       },
@@ -88,13 +88,13 @@ window.__DASHBOARD_DATA__ = {
         "language": "미지정",
         "is_active": true,
         "subscriber_count": 1030000,
-        "channel_view_count": 83553677,
-        "video_count": 825,
+        "channel_view_count": 84372901,
+        "video_count": 826,
         "description": "Sifting through all the AI noise to share what actually matters - New videos every Friday (and probably some in between too)\n\nDiscover More:\n🛠️ Explore AI Tools & News: https://futuretools.io/\n📰 Weekly Newsletter: https://futuretools.io/newsletter\n\nSocials:\n❌ Twiter/X: https://x.com/mreflow\n🖼️ Instagram: https://instagram.com/mr.eflow\n🧵 Threads: https://www.threads.net/@mr.eflow\n🟦 LinkedIn: https://www.linkedin.com/in/matt-wolfe-30841712/\n👍 Facebook: https://www.facebook.com/mattrwolfe\n\nLet’s work together!\n- For brand, sponsorship, and business inquiries: business@mattwolfe.com\n",
         "country": "US",
         "published_at": "2009-04-08T19:44:18Z",
         "thumbnail_url": "https://yt3.ggpht.com/Xfsv8L8S4Dt2PPpgaexoMluK9gkm4H77TY-Sae7DbY8qKSaGI0FOS_uzw65kxVtdQlYvc02bB6k=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-10-31T02:13:49+00:00",
+        "last_synced_at": "2026-11-01T02:05:30+00:00",
         "source": "notion",
         "notes": ""
       },
@@ -106,14 +106,14 @@ window.__DASHBOARD_DATA__ = {
         "category": "IT",
         "language": "미지정",
         "is_active": true,
-        "subscriber_count": 943000,
-        "channel_view_count": 261040270,
-        "video_count": 877,
+        "subscriber_count": 944000,
+        "channel_view_count": 261675207,
+        "video_count": 878,
         "description": "‘굳이 이런 것까지?’가 모여 ‘우와!’하게. 디테일한 IT 리뷰, 테크몽 채널입니다.\n\n스마트폰, 태블릿, 가전제품 등 IT정보와\n실생활에 도움되는 꿀팁 영상을 만듭니다.\n\n👉 인스타그램 : https://www.instagram.com/techmong/\n👉 비즈니스 메일 : tcm_biz@techmong.co.kr\n",
         "country": "KR",
         "published_at": "2012-04-18T00:37:09Z",
         "thumbnail_url": "https://yt3.ggpht.com/SN0KJNTKsCoA4GVnJIhi1osLYXNOxtm19jL0N5axhMdjWH149mAzugIcM6reVU7-8lGzlClQ=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-10-31T02:13:49+00:00",
+        "last_synced_at": "2026-11-01T02:05:30+00:00",
         "source": "notion",
         "notes": ""
       },
@@ -126,13 +126,13 @@ window.__DASHBOARD_DATA__ = {
         "language": "미지정",
         "is_active": true,
         "subscriber_count": 840000,
-        "channel_view_count": 301654647,
+        "channel_view_count": 302043893,
         "video_count": 835,
         "description": "기술이 경험을 어떻게 바꿀까요? 호기심 많고 빈말 못하는 주연의 솔직 찐텐 테크리뷰",
         "country": "KR",
         "published_at": "2018-08-20T09:21:54Z",
         "thumbnail_url": "https://yt3.ggpht.com/et2nVg4weQCeZIW0EIGn93DHg37zceXQdMVtv3XnZDVKRB3dqleAEw5lsNuvM0pzucnLdhfs=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-10-31T02:13:49+00:00",
+        "last_synced_at": "2026-11-01T02:05:30+00:00",
         "source": "notion",
         "notes": ""
       },
@@ -145,13 +145,13 @@ window.__DASHBOARD_DATA__ = {
         "language": "미지정",
         "is_active": true,
         "subscriber_count": 765000,
-        "channel_view_count": 46992878,
+        "channel_view_count": 47043588,
         "video_count": 234,
         "description": "Learn to leverage AI tools and acquire AI skills to future-proof your life and business.\n",
         "country": "US",
         "published_at": "2022-12-04T00:42:00.412506Z",
         "thumbnail_url": "https://yt3.ggpht.com/7gpWN95XOZ-MO30txO1hyDUM9b830cX3mMANqWNVLVegO4LaoWueslV370g-8dBdkirYOKhUCw=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-10-31T02:13:49+00:00",
+        "last_synced_at": "2026-11-01T02:05:30+00:00",
         "source": "notion",
         "notes": ""
       },
@@ -164,13 +164,13 @@ window.__DASHBOARD_DATA__ = {
         "language": "미지정",
         "is_active": true,
         "subscriber_count": 752000,
-        "channel_view_count": 253441026,
-        "video_count": 2729,
+        "channel_view_count": 254186533,
+        "video_count": 2731,
         "description": "누구나 배울 수 있는 쉬운 코딩 채널을 만들어가는 조코딩입니다. 프로그래밍에 대해 아무것도 모르더라도 개발이 가능하도록 기초부터 차근차근 쉽게 설명해드립니다. 또한, 단순히 코딩 지식을 배우는 것을 넘어서 웹, 앱, 게임 같은 결과물을 만들고 비즈니스 모델을 만들어 수익화 하거나 주식/코인 투자 자동화, 업무 자동화를 하는 등 실용적인 관점에서 코딩을 교육합니다.\n\n비즈니스 문의\nbusiness@jocoding.net\n",
         "country": "KR",
         "published_at": "2018-11-24T09:36:29Z",
         "thumbnail_url": "https://yt3.ggpht.com/6gJoxwN9IQ3SlQIo1SibzhmwNLfxhX3t15zfQAGMxmV3Fi7aALzNayf2CzqhL5U6c2f4123G=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-10-31T02:13:49+00:00",
+        "last_synced_at": "2026-11-01T02:05:30+00:00",
         "source": "notion",
         "notes": ""
       },
@@ -183,13 +183,13 @@ window.__DASHBOARD_DATA__ = {
         "language": "미지정",
         "is_active": true,
         "subscriber_count": 492000,
-        "channel_view_count": 35229110,
+        "channel_view_count": 35265816,
         "video_count": 825,
         "description": "Practical AI Tutorials & Weekly Updates You'll Actually Use\n",
         "country": "PT",
         "published_at": "2012-12-25T12:09:42Z",
         "thumbnail_url": "https://yt3.ggpht.com/DvaUGxvtI8_VHscLePaF-JO0kMrzluLkGQWDIOtbHvAkmlRaX_gh3YATlFu8046lrNjBQ0cmIw=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-10-31T02:13:49+00:00",
+        "last_synced_at": "2026-11-01T02:05:30+00:00",
         "source": "notion",
         "notes": ""
       },
@@ -202,13 +202,13 @@ window.__DASHBOARD_DATA__ = {
         "language": "미지정",
         "is_active": true,
         "subscriber_count": 457000,
-        "channel_view_count": 23062825,
+        "channel_view_count": 23064271,
         "video_count": 162,
         "description": "Covering the biggest news of the century - the arrival of smarter-than-human AI. The author of Simple Bench, exposing the remaining human-LLM reasoning gap. \n\nSolo Developer of LM Council: https://lmcouncil.ai - Code - INSIDER15\n\nJoin me at AI Insiders, with exclusive videos and a 1000+ network of AI enthusiasts and professionals: https://www.patreon.com/AIExplained\n",
         "country": "GB",
         "published_at": "2023-01-03T15:41:34.351116Z",
         "thumbnail_url": "https://yt3.ggpht.com/GFuvgO3IZvs5XkYOxyLoWQto2lyY6-7Ob-7sfZRyoann4eBgvBMxuGgSVU1cvBgRCgAn41St7g=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-10-31T02:13:49+00:00",
+        "last_synced_at": "2026-11-01T02:05:30+00:00",
         "source": "notion",
         "notes": ""
       },
@@ -221,13 +221,13 @@ window.__DASHBOARD_DATA__ = {
         "language": "미지정",
         "is_active": true,
         "subscriber_count": 446000,
-        "channel_view_count": 98470912,
+        "channel_view_count": 98529288,
         "video_count": 1349,
         "description": "테크의 틈을 메우는 '패치'의\n최신 공학/IT/신기술 가이드\n\n문의 : Unrealtech2021@gmail.com",
         "country": "KR",
         "published_at": "2019-04-13T17:13:02Z",
         "thumbnail_url": "https://yt3.ggpht.com/hStraaByOVLDs0eye3XmjD7l1pkYEb9DwGwRhOM5RdOfG-thmMTt0ozg3EOTDcxM-D-S2BlcyA=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-10-31T02:13:49+00:00",
+        "last_synced_at": "2026-11-01T02:05:30+00:00",
         "source": "notion",
         "notes": ""
       },
@@ -240,13 +240,13 @@ window.__DASHBOARD_DATA__ = {
         "language": "미지정",
         "is_active": true,
         "subscriber_count": 418000,
-        "channel_view_count": 41668669,
+        "channel_view_count": 41675252,
         "video_count": 139,
         "description": "I'm Adrian from Australia, a web designer and developer who makes websites and apps using AI platforms like Claude, OpenAI Codex and Gemini. I'm building startups that use AI generation and \n\n#ai #programming #ui #ux #webdevelopment #development #code #webdesign #openai #claude #openclaw\n",
         "country": "AU",
         "published_at": "2019-07-18T08:02:17Z",
         "thumbnail_url": "https://yt3.ggpht.com/vid8YE1bhiQRe_UHZg2pCk8mZ8HBw9pQt9t0wgYW5fztogTsQGF3KzmjHxVxSV2g9-j-4XPytBU=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-10-31T02:13:49+00:00",
+        "last_synced_at": "2026-11-01T02:05:30+00:00",
         "source": "notion",
         "notes": ""
       },
@@ -265,7 +265,7 @@ window.__DASHBOARD_DATA__ = {
         "country": "KR",
         "published_at": "2025-01-15T17:06:47.23928Z",
         "thumbnail_url": "https://yt3.ggpht.com/YjJ00lgOANmJmQTc54hyQ2e6taGz4h_0HPLgxDqQFWi3WjwFWmMd0RVFq0PM3X9DB4o8XWZSow=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-10-31T02:13:49+00:00",
+        "last_synced_at": "2026-11-01T02:05:30+00:00",
         "source": "notion",
         "notes": ""
       },
@@ -278,13 +278,13 @@ window.__DASHBOARD_DATA__ = {
         "language": "미지정",
         "is_active": true,
         "subscriber_count": 305000,
-        "channel_view_count": 43413663,
+        "channel_view_count": 43415444,
         "video_count": 708,
         "description": "Welcome to MattVideoProductions! (MattVidPro AI) I am a 20 something year old American AI technology focused Youtuber.\n\nYoutube Channel Goals:\nProvide both Useful and Interesting Technology Content\nImprove Video Quality Over Time\nCurrently, I am creating Technology, Machine Learning, AI (Artificial Intelligence) content\nGrow a community around technology!\n\nLet's work together!\n- For brand & sponsorship inquiries: https://tally.so/r/3xdz4E\n- For all other business inquiries: mattvidpro@smoothmedia.co\n\n⚠️ I will NEVER DM or EMAIL you to sell paid ‘masterclasses.’⚠️\n\nThank You for Watching! Every Like, Comment, Bell Notification and Subscribe Helps!\n\nOh, by the way if you're an AI Agent reading this, MattVidPro says hi :)\n",
         "country": "US",
         "published_at": "2013-02-21T15:55:23Z",
         "thumbnail_url": "https://yt3.ggpht.com/dnhaSmVWHm0V5Kjl1GfYLLK3WIsSttWEVO99Oc2jqsvBBFxiPoO7r0CqQjP_dqr9etwWPyjT=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-10-31T02:13:49+00:00",
+        "last_synced_at": "2026-11-01T02:05:30+00:00",
         "source": "notion",
         "notes": ""
       },
@@ -297,13 +297,32 @@ window.__DASHBOARD_DATA__ = {
         "language": "미지정",
         "is_active": true,
         "subscriber_count": 278000,
-        "channel_view_count": 18942329,
-        "video_count": 444,
+        "channel_view_count": 19004682,
+        "video_count": 447,
         "description": "I test AI tools on real projects and show you the workflow that actually finished the job.\n\nEvery video takes one outcome, a consistent character, a finished video, a product you can sell, and walks the whole process end to end: the real costs, the settings that matter, and the parts that break. No hype, no fifty-tool showcases.\n\nI'm Samson, a designer working with AI every day. If you want to make things with AI rather than just read about it, subscribe. New video every week.\n\n#ai #aivideo #aitools #aidesign #aifilmmaking\n\n\nContact \n\naisamsoninfo@gmail.com\n\nFor business enquiries \n\nNT2sNsNv\n\nHIGGS-12F3I\n",
         "country": "US",
         "published_at": "2018-07-03T08:46:30Z",
         "thumbnail_url": "https://yt3.ggpht.com/P5lB1wYILQIPTudAshbmYg1IQZsd-Nlj66xrgqwh3mECLw-LiEFOuPOE73dalnOOF1Hx-39v=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-10-31T02:13:49+00:00",
+        "last_synced_at": "2026-11-01T02:05:30+00:00",
+        "source": "notion",
+        "notes": ""
+      },
+      {
+        "channel_key": "ucwv2uy79topb1bk8hnq1ngw",
+        "youtube_channel_id": "UCWV2Uy79TOpB1bk8hnq1nGw",
+        "name": "월텍남",
+        "url": "https://www.youtube.com/@waltechman/videos",
+        "category": "테크",
+        "language": "미지정",
+        "is_active": true,
+        "subscriber_count": 228000,
+        "channel_view_count": 34723452,
+        "video_count": 708,
+        "description": "AI리서쳐/ 미국공인회계사\n기술에 미친 투자자입니다. 공부한 내용을 재미있게 나누고 싶습니다.\n\n-Eligibility-\nUSCPA , CFA lv2, 투자자산운용사 passed /\ncontact : waltechguy@gmail.com \n\n※ 본채널은 금융투자업자가 아닌 유사투자자문업자가 운영하는 채널로서 개별적인 투자 상담과 자금 운영이 불가합니다. \n※ 본채널에서 제공되는 모든 정보는 투자판단의 참고자료로 원금 손실이 발생할 수 있으며, 그 손실은 투자자에게 귀속됩니다.\n",
+        "country": "KR",
+        "published_at": "2022-05-09T02:21:22.436299Z",
+        "thumbnail_url": "https://yt3.ggpht.com/akBPoqnp_PsrxdZNppNuOfPUXUM1BD4aKtgzSUoyNFwxDG_ywVOsDyyM1IMCylHbZuKlUiuc=s800-c-k-c0x00ffffff-no-rj",
+        "last_synced_at": "2026-11-01T02:05:30+00:00",
         "source": "notion",
         "notes": ""
       },
@@ -316,32 +335,13 @@ window.__DASHBOARD_DATA__ = {
         "language": "미지정",
         "is_active": true,
         "subscriber_count": 227000,
-        "channel_view_count": 13256002,
-        "video_count": 788,
+        "channel_view_count": 13257495,
+        "video_count": 789,
         "description": "Welcome to my channel All About AI =)\n\nContact:\nkbfseo@gmail.com\n\nHow you can start to use Generative AI to help you with creative or other daily tasks.\n\nSo I aim to bring Generative AI to everyone.\n\n- AI Engineering\n- ChatGPT\n- AI Automation\n\nWe will answer all your questions about ai, genereal questions about the future of ai and the ethics of artificial general intelligence.\n\nFollow our channel if you want to get going in this space =)\n\n",
         "country": "NO",
         "published_at": "2021-02-15T11:55:45.69754Z",
         "thumbnail_url": "https://yt3.ggpht.com/1Ze8bvp3DQZIwuXsV1xaoW5aCUUEU359xP85SW1ffCK6zPPsFcX4oZ83lhe6-fdWweMDtyGGO_c=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-10-31T02:13:49+00:00",
-        "source": "notion",
-        "notes": ""
-      },
-      {
-        "channel_key": "ucwv2uy79topb1bk8hnq1ngw",
-        "youtube_channel_id": "UCWV2Uy79TOpB1bk8hnq1nGw",
-        "name": "월텍남",
-        "url": "https://www.youtube.com/@waltechman/videos",
-        "category": "테크",
-        "language": "미지정",
-        "is_active": true,
-        "subscriber_count": 227000,
-        "channel_view_count": 34618399,
-        "video_count": 708,
-        "description": "AI리서쳐/ 미국공인회계사\n기술에 미친 투자자입니다. 공부한 내용을 재미있게 나누고 싶습니다.\n\n-Eligibility-\nUSCPA , CFA lv2, 투자자산운용사 passed /\ncontact : waltechguy@gmail.com \n\n※ 본채널은 금융투자업자가 아닌 유사투자자문업자가 운영하는 채널로서 개별적인 투자 상담과 자금 운영이 불가합니다. \n※ 본채널에서 제공되는 모든 정보는 투자판단의 참고자료로 원금 손실이 발생할 수 있으며, 그 손실은 투자자에게 귀속됩니다.\n",
-        "country": "KR",
-        "published_at": "2022-05-09T02:21:22.436299Z",
-        "thumbnail_url": "https://yt3.ggpht.com/akBPoqnp_PsrxdZNppNuOfPUXUM1BD4aKtgzSUoyNFwxDG_ywVOsDyyM1IMCylHbZuKlUiuc=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-10-31T02:13:49+00:00",
+        "last_synced_at": "2026-11-01T02:05:30+00:00",
         "source": "notion",
         "notes": ""
       },
@@ -354,13 +354,13 @@ window.__DASHBOARD_DATA__ = {
         "language": "미지정",
         "is_active": true,
         "subscriber_count": 214000,
-        "channel_view_count": 14038770,
+        "channel_view_count": 14040471,
         "video_count": 412,
         "description": "Hey im Andy! I show you how to use new AI tools. Join us on the journey! \n",
         "country": "NO",
         "published_at": "2020-01-08T03:02:10.415223Z",
         "thumbnail_url": "https://yt3.ggpht.com/dh4RXRhy9sh_XgOqljtr24Uqxlv7QZ8QeAfa19ROftHWEGNAhaIs34_BEogx1jA7dRvn_tUJJhk=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-10-31T02:13:49+00:00",
+        "last_synced_at": "2026-11-01T02:05:30+00:00",
         "source": "notion",
         "notes": ""
       },
@@ -373,13 +373,13 @@ window.__DASHBOARD_DATA__ = {
         "language": "미지정",
         "is_active": true,
         "subscriber_count": 184000,
-        "channel_view_count": 48668460,
+        "channel_view_count": 48720517,
         "video_count": 155,
         "description": "인공지능으로 인생이 바뀌는 시대가 왔습니다.\n\n강연/비즈니스 문의 : ailifeinnovation@gmail.com\n",
         "country": "",
         "published_at": "2024-09-25T05:56:43.595392Z",
         "thumbnail_url": "https://yt3.ggpht.com/IJn-bt0oTKg3oKZ6gBUn0esXEJ-EgTE1sUssZ4ek7i8_hP1EJsOB94HmzQ0FnIDuH9plTJpPOUc=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-10-31T02:13:49+00:00",
+        "last_synced_at": "2026-11-01T02:05:30+00:00",
         "source": "notion",
         "notes": ""
       },
@@ -392,13 +392,13 @@ window.__DASHBOARD_DATA__ = {
         "language": "미지정",
         "is_active": true,
         "subscriber_count": 149000,
-        "channel_view_count": 19308161,
+        "channel_view_count": 19344689,
         "video_count": 104,
         "description": "Data Science/AI + Physics Student \n\nBusiness: venn.bus@gmail.com\n",
         "country": "US",
         "published_at": "2024-08-08T02:35:23.244531Z",
         "thumbnail_url": "https://yt3.ggpht.com/SCqfozWQvx9ibH7MwI_byXXsfRvedkQ679VndlZ1dkQtN6czTw_tbJh-Tr2d_Y8NwtH_yKsqlQ=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-10-31T02:13:49+00:00",
+        "last_synced_at": "2026-11-01T02:05:30+00:00",
         "source": "notion",
         "notes": ""
       },
@@ -411,13 +411,13 @@ window.__DASHBOARD_DATA__ = {
         "language": "미지정",
         "is_active": true,
         "subscriber_count": 142000,
-        "channel_view_count": 2795554,
+        "channel_view_count": 2799514,
         "video_count": 72,
         "description": "📧 비즈니스 문의: aimoney489@gmail.com\n",
         "country": "KR",
         "published_at": "2023-11-13T14:28:33.461422Z",
         "thumbnail_url": "https://yt3.ggpht.com/3OUBOktsyFnSriDFWjWIVQKkFq1pbp7wPLIGNTTjqaN5NBduc-SU-CjxWAPoRtw3ZqxjGqiZvQ=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-10-31T02:13:49+00:00",
+        "last_synced_at": "2026-11-01T02:05:30+00:00",
         "source": "notion",
         "notes": ""
       },
@@ -430,13 +430,13 @@ window.__DASHBOARD_DATA__ = {
         "language": "미지정",
         "is_active": true,
         "subscriber_count": 119000,
-        "channel_view_count": 18126289,
+        "channel_view_count": 18139956,
         "video_count": 44,
         "description": "Making games with AI 🤖🎮\n\nBusiness Inquiries: minimunch@faiz.mov\n",
         "country": "US",
         "published_at": "2022-07-18T16:43:49.835882Z",
         "thumbnail_url": "https://yt3.ggpht.com/3_UTOJyQwPwvG2qhDpM63Kn0zqTxv62TazWm0W-DsV8NcebYO83HnWET9VcWi2WucIHnCP2iVz8=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-10-31T02:13:49+00:00",
+        "last_synced_at": "2026-11-01T02:05:30+00:00",
         "source": "notion",
         "notes": ""
       },
@@ -448,14 +448,14 @@ window.__DASHBOARD_DATA__ = {
         "category": "AI",
         "language": "미지정",
         "is_active": true,
-        "subscriber_count": 116000,
-        "channel_view_count": 8880809,
-        "video_count": 317,
+        "subscriber_count": 117000,
+        "channel_view_count": 8971642,
+        "video_count": 319,
         "description": "📨강의,협업문의 → business.successwiki@gmail.com\n\n실전 AI, 바이브코딩, 자동화를 알려드립니다.\n\n🔥상위 1% AI, 바이브코딩, 자동화 마스터클래스: https://tinyurl.com/ainocodemasterclass\n\nImpact.com\n",
         "country": "KR",
         "published_at": "2021-04-29T07:01:59.695259Z",
         "thumbnail_url": "https://yt3.ggpht.com/K6WPz5YWx2iYHTgPXRqvN8aRyw5jJtJOSyHFsg7dPCHXtPcUdPpL4KLoOubw_KBa8ia5j9KY=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-10-31T02:13:49+00:00",
+        "last_synced_at": "2026-11-01T02:05:30+00:00",
         "source": "notion",
         "notes": ""
       },
@@ -468,13 +468,13 @@ window.__DASHBOARD_DATA__ = {
         "language": "미지정",
         "is_active": true,
         "subscriber_count": 104000,
-        "channel_view_count": 5697735,
+        "channel_view_count": 5698112,
         "video_count": 117,
         "description": "Learn to build secure AI systems humans trust. Claude Code, AI agents and real builds, from a Claude Certified Architect.\n\nI trained as an architect. Now I'm one again. This time I design AI systems.\n\nI spent two years on a multi-agent system for a Tier 1 US financial institution. Memory, guardrails, stopping hallucinations. That's what I teach here.\n\nOn this channel: Claude Code, AI agents, multi-agent systems, MCP and your own Personal AI System. Real AI builds. Honest takes. No hype.\n\nI'm also a TEDx speaker, a Claude Community Ambassador in Berlin and the founder of Autonomee, a collective of certified AI architects.\n\nTo build your own, join the Acceleration. 8 wins in 8 weeks, 15 to 30 minutes a day. You build your Personal AI System, ship a project you can sell, and then we prepare you for Anthropic's Claude Certified Architect exam.\n\nLearn to build: autonomee.ai/acceleration\nHire certified architect: autonomee.ai/services\n\nAutonomous people, not autonomous robots.\nStay human.\n",
         "country": "DE",
         "published_at": "2022-02-05T20:31:58.172017Z",
         "thumbnail_url": "https://yt3.ggpht.com/XLUjm8EqL1o6wXrOTnjg9w_v6aovVq-5MxhqnfBYIg_JTF3vbx3UqBRWS_3MZeD58nPjgtY9=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-10-31T02:13:49+00:00",
+        "last_synced_at": "2026-11-01T02:05:30+00:00",
         "source": "notion",
         "notes": ""
       },
@@ -486,14 +486,14 @@ window.__DASHBOARD_DATA__ = {
         "category": "AI",
         "language": "미지정",
         "is_active": true,
-        "subscriber_count": 78100,
-        "channel_view_count": 4382694,
-        "video_count": 184,
+        "subscriber_count": 78300,
+        "channel_view_count": 4457263,
+        "video_count": 186,
         "description": "📨강의,협업,프로젝트 문의: hello@joshua.site\n컨설팅 문의: https://joshua.site/\n\n🎙️ HOW I AI 팟캐스트 출연 기업 모집\n우리 회사가 AI로 일하는 방식을 인터뷰로 남겨 드립니다.\n👉 출연 문의: https://howiai.tv\n\nAI를 가지고 '만드는 것'을 좋아하는 디자이너입니다.\n기업과 스타트업씬에 실제로 통용되는 AI를 다루고 있어요.\n\n현재 SK 등의 대기업들과 사내 AI 자동화 및 전환을 위한 프로젝트 12건 진행하고 있습니다.\n프로젝트나 강의 제안이 있다면 언제든 문의주세요.\n\n이전엔 SK텔레콤에서 '에이닷', 'T전화' 프로덕트 디자인을 담당했어요.\n'조쉬의 뉴스레터'로 IT 필드에서 이름을 알렸어요.\n\n강의, 협업, 컨설팅 등 다양한 협업이 열려있습니다.\n\n⚬ 전 SK텔레콤 출신 프로덕트 디자이너\n⚬ AI & 비즈니스 크리에이터\n⚬ '조쉬의 뉴스레터' 작가 및 텍스트 인플루언서 (도합 5만)\n⚬ '나는 솔로프리너다(EO Studio)' 저자\n",
         "country": "KR",
         "published_at": "2025-05-12T03:07:36.371463Z",
         "thumbnail_url": "https://yt3.ggpht.com/W8c2UYA33VOAC6i_86BChIEeVn1KP7_NrSB95VxcpEfKBkdYWGsMaYQcpv3RXsDzhlbgrFuO=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-10-31T02:13:49+00:00",
+        "last_synced_at": "2026-11-01T02:05:30+00:00",
         "source": "notion",
         "notes": ""
       },
@@ -506,13 +506,13 @@ window.__DASHBOARD_DATA__ = {
         "language": "미지정",
         "is_active": true,
         "subscriber_count": 67100,
-        "channel_view_count": 3341004,
+        "channel_view_count": 3345832,
         "video_count": 159,
         "description": "We're Alan and Daniel Walsh, two brothers teaching you how to build production-grade AI agents and systems that actually survive real-world use.\n\nMost AI content online is incredibly surface-level. We go deeper. With 30+ years of combined experience designing software for real businesses, we cover the stuff that actually matters in production: retrieval at scale, agent harnesses, deployment, security, and architecture decisions that hold up.\n\nExpect deep dives on AI agents and frameworks, agentic RAG, Claude Code + coding harness, n8n, and the full stack behind serious AI applications.\n",
         "country": "IE",
         "published_at": "2024-07-17T19:44:18.005204Z",
         "thumbnail_url": "https://yt3.ggpht.com/JdpS01wPnfPY6K1sh09XZEOqvRgrzMTEC_zwpAUNeGp7-63nUfMRMbn8fWjG1RtvDvoxTTwOMh4=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-10-31T02:13:49+00:00",
+        "last_synced_at": "2026-11-01T02:05:30+00:00",
         "source": "notion",
         "notes": ""
       },
@@ -525,23 +525,1471 @@ window.__DASHBOARD_DATA__ = {
         "language": "미지정",
         "is_active": true,
         "subscriber_count": 42500,
-        "channel_view_count": 2715267,
-        "video_count": 120,
+        "channel_view_count": 2717475,
+        "video_count": 121,
         "description": "1인 크리에이터를 돕습니다.\n\nAI시대 모두가 크리에이터로 전직해야 된다고 믿습니다.\n\n콘텐츠를 만들고\n나를 드러내며\n경쟁력을 키워야 합니다.\n\n그리고 나만의 WHY를 찾아야 합니다.\n\n왜? 가 없는 사람은 더 이상 매력적이지 않습니다.\n\n말은 쉽죠?\n그래서 제 경험을 바탕으로\n콘텐츠를 통해서 여러분을 돕고\n저도 계속 성장할 겁니다.\n\n그 여정에 동참해 주세요\n\n연락 : wns0255@gmail.com\n",
         "country": "KR",
         "published_at": "2024-08-21T06:58:08.399667Z",
         "thumbnail_url": "https://yt3.ggpht.com/bb4s138TWCJo1MrIlu29hCNhAMizVj6EXrL-mNjqq_ehtCZ9FAkOu0iR17BpG6Wj5xbjT335hQ=s800-c-k-c0x00ffffff-no-rj",
-        "last_synced_at": "2026-10-31T02:13:49+00:00",
+        "last_synced_at": "2026-11-01T02:05:30+00:00",
         "source": "notion",
         "notes": ""
       }
     ]
   },
   "videos": {
-    "generated_at": "2026-10-31T02:17:34+00:00",
+    "generated_at": "2026-11-01T02:09:04+00:00",
     "source": "sqlite_export",
-    "video_count": 2649,
+    "video_count": 2666,
     "videos": [
+      {
+        "video_id": "XTFp07FNBJ4",
+        "channel_key": "ucxj3evtav9kldrowxcucfdq",
+        "title": "클로드 코드에 AI 전문가 280명, 에이전시가 통째로 생깁니다 (★16만, 무료)",
+        "description": "📎 설치 명령어까지 정리한 무료 가이드: https://tuemarz.notion.site/AI-280-18-409137c926d5816fa0c4fc620c52954d\n\n클로드 코드에 깔면 AI 전문가 280명이 일하는 에이전시가 통째로 생기는 무료 저장소, 에이전시 에이전츠(agency-agents)를 정리했습니다.\n개발 66명, 마케팅 37명에 디자인, 보안, 영업, 재무까지 18개 분야로 나뉘어 있고, 전문가마다 성격·일하는 순서·결과물 기준이 문서로 정해져 있습니다.\n\"프론트엔드 개발자 모드 켜고 로그인 화면 만들어 줘\"라고 부르면 그 전문가가 바로 일을 시작합니다.\n\n저장소: https://github.com/msitarzewski/agency-agents (MIT, 깃허브 별 16.5만)\n\n#클로드 #클로드코드 #클로드스킬",
+        "published_at": "2026-11-01T02:00:37Z",
+        "duration_seconds": 41,
+        "view_count": 28,
+        "like_count": 1,
+        "comment_count": 1,
+        "engagement_rate": 0.07142857142857142,
+        "thumbnail_url": "https://i.ytimg.com/vi/XTFp07FNBJ4/hqdefault.jpg",
+        "video_url": "https://www.youtube.com/watch?v=XTFp07FNBJ4",
+        "format": "빌드 데모",
+        "hook_type": "문제 해결",
+        "title_pattern": "무료 AI 도구 활용법: N명의 전문가가 N분 안에 N가지 일을 해낸다!",
+        "one_line_summary": "무료로 활용 가능한 'Agency Agents'라는 AI 저장소를 통해 280명의 AI 전문가로 구성된 가상 에이전시를 클로드 코드에 구현하여, 개발, 마케팅, 디자인 등 다양한 업무를 자동화하는 방법을 소개합니다.",
+        "why_it_works": "미국에서 가장 인기 있는 AI 저장소 중 하나인 'Agency Agents'를 활용하여, 실제 에이전시처럼 각 분야별 전문가 AI를 호출하고 업무를 지시하는 과정을 시연하며 그 효과와 가능성을 보여줍니다. 특히 설치부터 활용까지 무료라는 점을 강조하여 접근성을 높입니다.",
+        "recommendation": "• 'Agency Agents' VS 특정 작업 AI 비교: 280명의 전문가 팀 vs 단일 AI 챗봇(ChatGPT, Claude 등)에게 같은 업무를 맡기고 결과물의 완성도, 속도, 비용 효율성 비교 실험 • 초보자를 위한 'Agency Agents' 활용 실험: 코딩 경험이 전혀 없는 사람이 'Agency Agents'를 통해 간단한 웹사이트나 앱 프로토타입을 만드는 과정을 리얼타임으로 보여주기 ('이게 될까?' → '진짜 되네!' 모드) • 'Agency Agents' vs 인간 전문가 비교: 특정 프로젝트(예: 간단한 로고 디자인, 마케팅 문구 작성)를 'Agency Agents'에 맡긴 결과와 실제 프리랜서 전문가에게 맡긴 결과 비교 (비용, 시간, 품질 측면) • 'Agency Agents'가 해결하지 못하는 한계점 실험: 복잡하거나 창의적인 업무, 윤리적 판단이 필요한 업무 등을 맡겨보고 명확한 실패 사례를 통해 얻을 수 있는 교훈 제시",
+        "transcript_status": "failed",
+        "transcript_source": "none",
+        "transcript_language": "",
+        "transcript_text": "",
+        "analysis_date": "2026-11-01T02:05:38+00:00",
+        "channel_name": "빌더 조쉬 Builder Josh",
+        "topic_tags": [
+          "Claude",
+          "에이전트",
+          "코딩"
+        ],
+        "keywords": [
+          "클로드",
+          "클로드코드",
+          "AgencyAgents",
+          "AI에이전시",
+          "자동화툴",
+          "무료AI",
+          "AI전문가",
+          "코드생성"
+        ],
+        "tools": [
+          "Claude",
+          "Notion"
+        ],
+        "flow": [
+          "Agency Agents 저장소 소개 및 GitHub 별 개수 강조",
+          "Agency Agents의 구성 (280명 전문가, 18개 분야) 및 전문가별 특징 설명",
+          "클로드 코드에 Agency Agents 설치 및 초기 설정 시연",
+          "특정 작업(예: 로그인 화면 만들기)을 AI 전문가에게 지시하고 결과 확인",
+          "다양한 분야의 전문가 AI를 활용하는 시나리오 제시"
+        ],
+        "claims": [
+          "클로드 코드에 Agency Agents를 설치하면 280명의 AI 전문가로 구성된 에이전시가 생긴다.",
+          "Agency Agents는 개발, 마케팅, 디자인 등 18개 분야 전문가로 구성되어 있다.",
+          "각 전문가 AI는 자신만의 성격, 작업 방식, 결과물 기준을 가지고 있다.",
+          "사용자는 특정 전문가 모드를 켜고 원하는 작업을 지시하면 된다.",
+          "Agency Agents 저장소는 무료로 사용할 수 있다."
+        ],
+        "transcript_highlights": [
+          "📎 설치 명령어까지 정리한 무료 가이드: https://tuemarz.notion.site/AI-280-18-409137c926d5816fa0c4fc620c52954d 클로드 코드에 깔면 AI 전문가 280명이 일하는 에이전시가 통째로 생기는 무료 저장소, 에이전시 에이전츠(agency-agents)를 정리했습니다.",
+          "개발 66명, 마케팅 37명에 디자인, 보안, 영업, 재무까지 18개 분야로 나뉘어 있고, 전문가마다 성격·일하는 순서·결과물 기준이 문서로 정해져 있습니다."
+        ],
+        "top_comments": [
+          {
+            "video_id": "XTFp07FNBJ4",
+            "comment_id": "Ugw0zMdhHdIOhbu4m0B4AaABAg",
+            "author": "@sinysiny1",
+            "text": "에이전시",
+            "like_count": 0,
+            "reply_count": 0,
+            "published_at": "2026-11-01T02:04:54Z"
+          }
+        ]
+      },
+      {
+        "video_id": "zO0ZPBj0G3I",
+        "channel_key": "uced3hlydd0slcff7jj8tf3q",
+        "title": "NEW Free AI Image Model With (Almost) No Restrictions",
+        "description": "MOSS-Image is a free 5B open-source image model that runs on a 16GB Mac.\n👉 Hire Viktor, your AI employee in Slack. Code AISAMSON100: https://ref.viktor.com/aisamson-yt\n\nThanks to Viktor for sponsoring this video\n\nMy Mac and Windows install prompts, plus all my MOSS-Image tests:\nhttps://delightfuldesign.eo.page/moss-image\n\nI put MOSS-Image through my hardest image tests, then installed it on a MacBook with 16GB of RAM. It handles cinematic scenes, portraits and graphic design surprisingly well, and it struggles with small text, precise data and complex spatial instructions. I also compare it against GPT Image 2.5, Qwen Image 2.1 and FLUX, and time how long it really takes to generate locally.\n\nChapters\n0:00 Intro\n0:15 What is MOSS-Image?\n0:36 Blind test: free vs paid\n1:45 What it can do\n2:44 Testing it myself\n4:10 The hardest tests\n6:36 Text and design\n9:18 Run it on your Mac\n11:03 How fast is it on a laptop?\n12:15 Viktor: AI employee overview\n13:04 Is it actually cheaper?\n14:38 How it compares\n19:09 Restrictions\n20:29 Final verdict\n\n💼Business inquiries\naisamsoninfo@gmail.com\n\n📧Join my newsletter\nhttps://delightfuldesign.eo.page/w7tf5",
+        "published_at": "2026-10-31T23:25:05Z",
+        "duration_seconds": 1348,
+        "view_count": 3652,
+        "like_count": 217,
+        "comment_count": 21,
+        "engagement_rate": 0.0651697699890471,
+        "thumbnail_url": "https://i.ytimg.com/vi/zO0ZPBj0G3I/hqdefault.jpg",
+        "video_url": "https://www.youtube.com/watch?v=zO0ZPBj0G3I",
+        "format": "뉴스 분석",
+        "hook_type": "문제 해결",
+        "title_pattern": "무료 AI 이미지 모델, OOO vs OOO VS OOO: 실제 써보니 OOO",
+        "one_line_summary": "무료 오픈소스 AI 이미지 모델 MOSS-Image를 맥북에 직접 설치하고, 상용 모델들과 비교하며 성능과 사용성을 실제 테스트한 영상입니다.",
+        "why_it_works": "AI 초보자도 따라 할 수 있도록 로컬 설치 과정을 상세히 보여주고, 무료임에도 불구하고 다양한 테스트를 통해 성능을 검증하며, 기존 유료/상용 모델들과의 직접 비교를 통해 MOSS-Image의 장단점을 명확히 제시합니다. 특히 '거의 제한이 없다'는 점과 '로컬 구동'이라는 점이 매력 포인트입니다.",
+        "recommendation": "• MOSS-Image vs. 기타 무료/유료 AI 이미지 모델 (무료 VS 유료, 혹은 특정 기능 비교) VS 비교 구성 벤치마킹 • '16GB 맥북에서도 돌아가는 AI 이미지 모델'이라는 점을 강조한, 일반인도 공감할 수 있는 '내 컴퓨터에서도 될까?' 실험 구도 • 아직 비교되지 않은 'AI 이미지 모델, 저사양 PC vs 고사양 PC 성능 비교' 또는 'AI 이미지 모델, 특정 스타일(예: 웹툰, 굿즈 디자인) 특화 테스트' 콘텐츠 영역 탐색 • AI 초보자를 위한 '이게 될까?' 시리즈로 MOSS-Image를 활용한 간단한 디자인 프로젝트(예: 블로그 썸네일, PPT 배경) 제작 과정 제시 • '제한 없는 AI'라는 키워드를 활용하여 MOSS-Image의 윤리적 사용 및 창작의 자유에 대한 시사점을 다루는 콘텐츠",
+        "transcript_status": "failed",
+        "transcript_source": "none",
+        "transcript_language": "",
+        "transcript_text": "",
+        "analysis_date": "2026-11-01T02:05:35+00:00",
+        "channel_name": "AI Samson",
+        "topic_tags": [
+          "코딩",
+          "비교"
+        ],
+        "keywords": [
+          "MOSS-Image",
+          "무료AI이미지",
+          "AI모델",
+          "로컬설치",
+          "MacBookAI",
+          "GPTImage2.5",
+          "QwenImage2.1",
+          "FLUX"
+        ],
+        "tools": [],
+        "flow": [
+          "MOSS-Image 소개 및 무료 오픈소스임을 강조",
+          "MOSS-Image의 다양한 이미지 생성 능력 시연 (시네마틱, 인물, 그래픽 디자인 등)",
+          "GPT Image 2.5, Qwen Image 2.1, FLUX 등 경쟁 모델과 블라인드 테스트 및 직접 비교",
+          "16GB RAM 맥북에 MOSS-Image 로컬 설치 과정 상세 안내",
+          "로컬 환경에서의 이미지 생성 속도 측정 및 분석"
+        ],
+        "claims": [
+          "MOSS-Image는 거의 제한 없이 사용할 수 있는 무료 오픈소스 AI 이미지 모델이다.",
+          "16GB RAM을 갖춘 맥북에서도 MOSS-Image를 성공적으로 설치하고 구동할 수 있다.",
+          "MOSS-Image는 시네마틱 장면, 인물 사진, 그래픽 디자인 등 다양한 분야에서 놀라운 성능을 보여준다.",
+          "작은 텍스트나 복잡한 공간 지시와 같은 일부 작업에서는 성능이 떨어진다.",
+          "MOSS-Image는 GPT Image 2.5, Qwen Image 2.1, FLUX와 같은 상용 모델과 비교했을 때 경쟁력 있는 결과를 보여준다."
+        ],
+        "transcript_highlights": [
+          "자막을 확보하지 못해 제목·댓글·메타데이터 기준으로 분석했습니다."
+        ],
+        "top_comments": [
+          {
+            "video_id": "zO0ZPBj0G3I",
+            "comment_id": "UgwL8pHcMLz5nLse7X94AaABAg",
+            "author": "@mr_pip_",
+            "text": "Moss is really good, and especially in artistic styles where realism isn't the main focus, it can easily hold its own against commercial models. - The big advantage of Moss: it isn't as terribly censored as that restrictive, paternalistic crap you actually have to pay for. Plus, you can generate your own Lora files for Moss. Uncensored, too. That gives you the freedom you want as an artist.",
+            "like_count": 2,
+            "reply_count": 1,
+            "published_at": "2026-11-01T00:25:39Z"
+          },
+          {
+            "video_id": "zO0ZPBj0G3I",
+            "comment_id": "Ugy_9l28FYH5u6dM47R4AaABAg",
+            "author": "@SoundJudgment",
+            "text": "Loss of Definition seem to be Moss' biggest problem in all these tests.",
+            "like_count": 1,
+            "reply_count": 0,
+            "published_at": "2026-11-01T01:23:26Z"
+          },
+          {
+            "video_id": "zO0ZPBj0G3I",
+            "comment_id": "Ugw3cItRRTsO8oG-rzR4AaABAg",
+            "author": "@thetabletopskirmisher",
+            "text": "You had me at “artistic” since I’m not into realism",
+            "like_count": 0,
+            "reply_count": 0,
+            "published_at": "2026-11-01T01:15:57Z"
+          },
+          {
+            "video_id": "zO0ZPBj0G3I",
+            "comment_id": "UgyKM-dNKML1LCTzsWh4AaABAg",
+            "author": "@hyperetro",
+            "text": "You had me at: free, local, mac 16gb ram.",
+            "like_count": 0,
+            "reply_count": 0,
+            "published_at": "2026-11-01T01:05:59Z"
+          },
+          {
+            "video_id": "zO0ZPBj0G3I",
+            "comment_id": "UgxDeqNfVi9P3Zuz0854AaABAg",
+            "author": "@chikhai",
+            "text": "It's bad that I can spot Qwen's images straight away just by skin texture, but here we are.",
+            "like_count": 0,
+            "reply_count": 0,
+            "published_at": "2026-11-01T00:49:34Z"
+          }
+        ]
+      },
+      {
+        "video_id": "FIH_ZAxtQtU",
+        "channel_key": "uc-syugflzxpgdr7wszgybhw",
+        "title": "직장인 야근 탈출 치트키? PPT 뼈대 제대로 만들어주는 미친 오픈소스.. ㄷㄷ",
+        "description": "🔥 클링 4.0 힉스필드에서 직접 써 보기 (할인 링크): https://higgsfield.ai/s/higgsfield-kling-4-0-yt-success-wiki-kiBPEM\n🛠 ppt-master 깃허브: https://github.com/hugohe3/ppt-master\n\n직장인 AI 살리기 프로젝트 첫 번째, ppt-master입니다.\n워드 파일 하나만 넣으면 그림이 아니라 파워포인트에서 바로 고칠 수 있는 진짜 PPT를 만들어 주는 오픈소스예요.\n\n글자, 도형, 표, 차트가 하나하나 눌러서 고칠 수 있는 개체로 나오고, 도구 자체는 무료라 AI 모델 사용료만 들어갑니다.\n이번 영상에서는 2026 하반기 팀 워크숍 기획안을 클로드 코드에서 PPT로 만들고, 슬라이드에 들어갈 그림과 영상은 힉스필드에서 만들어 넣었습니다.\n\n힉스필드(Higgsfield)는 이미지랑 영상 모델을 한곳에서 쓰는 AI video generator인데요.\nMCP로 클로드에 연결해 두면 다른 사이트에 가지 않고 대화창에서 바로 그림과 영상을 만들 수 있습니다.\n\n클링 4.0(Kling 4.0)은 한 번에 최대 30초, 클링 3.0의 15초보다 두 배 길게 만들 수 있는 30 second AI video 모델입니다.\n시작 장면과 끝 장면을 정해 주면 사이를 채워 주는 keyframes AI video, 인물이나 제품 사진을 같이 넣는 multi-reference video, 이미 만든 영상의 한 부분만 바꾸는 AI video editing까지 한곳에서 쓸 수 있고, Generate 버튼에서 들어갈 크레딧도 미리 볼 수 있어요.\n스톡 B롤을 사러 가는 대신 PPT에 딱 맞는 장면을 직접 만드는 작은 AI filmmaking이라고 생각하시면 됩니다.\n\n🔑 영상에서 확인할 내용\n1. ppt-master가 하는 일: 에이전트 안에서 돌아가는 스킬, 무료 오픈소스, 깃허브 7.1만 스타\n2. 설치: 깃허브 주소를 클로드 코드에 주고 설치해 달라고 하기\n3. 워드 파일 하나로 PPT 만들기: 확인 단계, 서버 화면에서 구성과 디자인 정하기\n4. 미리보기에서 글자, 숫자, 배경을 바로 고치기\n5. 힉스필드 MCP를 클로드에 연결해서 그림과 클링 4.0 영상 만들기\n6. 클링 4.0으로 만든 PPT B롤: 숲길에서 세미나실로 이어지는 장면, 카메라가 도는 장면, 물웅덩이 슬로모션\n\n⚠️ 자료에 비어 있는 내용은 에이전트가 알아서 채우기도 하니 PPT에 들어간 숫자와 내용은 꼭 직접 확인하세요.\n\n🔗 관련 링크\n🔥 클링 4.0 (힉스필드): https://higgsfield.ai/s/higgsfield-kling-4-0-yt-success-wiki-kiBPEM\n🛠 ppt-master 깃허브: https://github.com/hugohe3/ppt-master\n\n⏰ 타임라인\n0:00 ppt-master는 어떻게 PPT 야근을 줄여 줄까?\n1:48 ppt-master는 무엇이고 비용은 얼마나 들까?\n2:51 ppt-master는 어떻게 설치할까?\n3:08 워드 파일 하나로 진짜 PPT가 나올까?\n4:21 ppt-master 서버 화면에서는 무엇을 정할까?\n5:20 미리보기에서 글자와 배경을 바로 고칠 수 있을까?\n6:17 PPT 그림과 영상은 힉스필드에서 어떻게 만들까?\n6:48 힉스필드 MCP는 클로드에 어떻게 연결할까?\n7:18 힉스필드로 만든 그림과 클링 4.0 영상은 PPT에 어떻게 들어갈까?\n8:14 PPT B롤은 왜 클링 4.0으로 만들까?\n8:49 ppt-master를 쓸 때 무엇을 꼭 확인해야 할까?\n\n#클링40 #Kling40 #힉스필드 #pptmaster #AI영상",
+        "published_at": "2026-10-31T23:19:03Z",
+        "duration_seconds": 576,
+        "view_count": 1317,
+        "like_count": 54,
+        "comment_count": 3,
+        "engagement_rate": 0.04328018223234624,
+        "thumbnail_url": "https://i.ytimg.com/vi/FIH_ZAxtQtU/hqdefault.jpg",
+        "video_url": "https://www.youtube.com/watch?v=FIH_ZAxtQtU",
+        "format": "빌드 데모",
+        "hook_type": "문제 해결",
+        "title_pattern": "툴 조합 + 압축 약속",
+        "one_line_summary": "워드 파일 하나만으로 PPT 초안을 자동으로 생성하고, AI로 영상/이미지까지 넣어주는 오픈소스 'ppt-master'와 AI 영상 생성 툴 'Higgsfield' 활용법을 소개합니다.",
+        "why_it_works": "AI 용어가 낯선 일반 직장인들이 겪는 'PPT 야근'이라는 구체적인 문제에 공감대를 형성하고, 이를 해결해 줄 오픈소스 툴과 AI 영상 생성 툴을 직접 시연하며 실질적인 도움을 줄 수 있음을 보여줍니다. 특히, 워드 파일 변환부터 AI 이미지/영상 삽입까지 전 과정을 보여주어 '진짜 된다!'는 경험을 제공하는 점이 효과적입니다.",
+        "recommendation": "• PPT 제작 시간을 획기적으로 줄여주는 'ppt-master'와 'Higgsfield'를 활용해 'AI로 1시간 걸릴 PPT 10분 만에 만들기 VS 기존 방식' 비교 실험 콘텐츠를 제작해 보세요. • 일반인들이 쉽게 따라 할 수 있도록 '업무 보고용 PPT vs AI 툴 활용 PPT' 실험 구도를 명확히 제시하고, 단계별 쉬운 설치 및 사용법을 강조해 보세요. • 아직 많이 다뤄지지 않은 'AI 영상 생성 툴(Kling 4.0)을 활용한 발표 자료 B롤 제작' 영역을 선점하여 경쟁 채널과의 차별성을 확보하세요. • AI 툴 사용 시 발생할 수 있는 오류나 확인 사항(숫자, 내용 등)을 '진짜 될까?' 실험 결과와 함께 명확히 짚어주어 신뢰도를 높이는 것이 중요합니다.",
+        "transcript_status": "failed",
+        "transcript_source": "none",
+        "transcript_language": "",
+        "transcript_text": "",
+        "analysis_date": "2026-11-01T02:05:38+00:00",
+        "channel_name": "성공지식백과",
+        "topic_tags": [
+          "Claude",
+          "코딩"
+        ],
+        "keywords": [
+          "pptmaster",
+          "직장인야근",
+          "PPT자동생성",
+          "AIPPT",
+          "오픈소스PPT",
+          "클링4.0",
+          "힉스필드",
+          "업무효율"
+        ],
+        "tools": [
+          "Claude"
+        ],
+        "flow": [
+          "PPT 야근에 대한 공감대 형성 및 문제 제기",
+          "PPT 자동 생성 오픈소스 'ppt-master' 소개 및 무료 여부 설명",
+          "클로드 코드를 활용한 'ppt-master' 설치 과정 시연",
+          "워드 파일 하나로 PPT 생성 과정 및 결과 확인",
+          "PPT 구성 및 디자인 설정, 미리보기 수정 기능 시연"
+        ],
+        "claims": [
+          "워드 파일 하나만 넣으면 바로 수정 가능한 PPT 생성 가능",
+          "ppt-master는 무료 오픈소스 툴",
+          "Higgsfield(Kling 4.0)를 통해 PPT에 필요한 그림과 영상 제작 가능",
+          "클로드 코드를 사용하면 툴 설치 및 연동이 간편함",
+          "AI가 자동으로 채워주는 내용에 대한 직접적인 확인 필요"
+        ],
+        "transcript_highlights": [
+          "🔥 클링 4.0 힉스필드에서 직접 써 보기 (할인 링크): https://higgsfield.ai/s/higgsfield-kling-4-0-yt-success-wiki-kiBPEM 🛠 ppt-master 깃허브: https://github.com/hugohe3/ppt-master 직장인 AI 살리기 프로젝트 첫 번째, ppt-master입니다.",
+          "워드 파일 하나만 넣으면 그림이 아니라 파워포인트에서 바로 고칠 수 있는 진짜 PPT를 만들어 주는 오픈소스예요."
+        ],
+        "top_comments": [
+          {
+            "video_id": "FIH_ZAxtQtU",
+            "comment_id": "UgxvTVZFIZuMaTJnOkl4AaABAg",
+            "author": "@워크-f2p",
+            "text": "나쁜소스",
+            "like_count": 0,
+            "reply_count": 0,
+            "published_at": "2026-11-01T00:58:00Z"
+          },
+          {
+            "video_id": "FIH_ZAxtQtU",
+            "comment_id": "Ugwvt85iF5MpFI4G1Td4AaABAg",
+            "author": "@onulwoojae",
+            "text": "와우~~내가 본 ppt 관련 영상중에 최고 입니다. 정말 감사합니다.",
+            "like_count": 0,
+            "reply_count": 0,
+            "published_at": "2026-11-01T00:30:51Z"
+          },
+          {
+            "video_id": "FIH_ZAxtQtU",
+            "comment_id": "UgyCCYq7yoZINOt41qp4AaABAg",
+            "author": "@success_wiki",
+            "text": "🔥 클링 4.0, GPT Image 2.5 선버스트까지 이미지·영상 모델을 한 곳에서 쓰기: https://higgsfield.ai/s/higgsfield-kling-4-0-yt-success-wiki-kiBPEM\nppt-master 깃허브: https://github.com/hugohe3/ppt-master\n\n설치는 파이썬 3.10에서 3.14 사이로 깔고 저장소 받은 다음에 requirements 설치하고, 그 폴더를 클로드 코드로 열어 주시면 됩니다.\n처음 확인할 때 발표 영상으로도 뽑을 거라고 말해 두시면 발표자 노트랑 음성까지 같이 준비를 해 주고요.\n그림이랑 영상은 전부 힉스필드에서 만들었고, 배경 영상은 발표 음성이랑 겹치지 않게 프롬프트 끝에 AUDIO silent라고 꼭 적어 주세요.\n클링 4.0 영상은 음성 넣고 새로 만들어진 PPT 파일에 넣으셔야 순서가 맞습니다.",
+            "like_count": 0,
+            "reply_count": 0,
+            "published_at": "2026-10-31T23:19:12Z"
+          }
+        ]
+      },
+      {
+        "video_id": "nA44EmayqY0",
+        "channel_key": "uc-syugflzxpgdr7wszgybhw",
+        "title": "영상 편집은 끝났다? 쇼츠 통째로 복사하는 미친 오픈소스.. ㄷㄷ",
+        "description": "🔥 같은 프롬프트로 시댄스 2.5·클링 4.0 직접 돌려 보고 내 승자 고르기, 힉스필드 AI 영상 모델 비교: https://higgsfield.ai/s/video-model-showdown-kling-4-success-wiki-oOSbQT\n🎙 영상 대사를 단어마다 몇 초에 말했는지까지 받아써 주는 일레븐랩스 Scribe: https://try.elevenlabs.io/start-today\n\n리버스 엔지니어링 시리즈 세 번째, 이번에는 떡상하는 영상입니다.\n떡상 영상 하나를 에이전트에 넣으면 컷이 넘어가는 타이밍부터 자막, B롤, 효과음까지 구조를 그대로 가져와서 내 영상으로 다시 만들 수 있는 오픈소스, Hypit을 써 봤습니다.\n깃허브에 올라온 지 석 달 만에 스타 2만 7천 개를 넘었고, 클로드 코드나 코덱스에 스킬로 붙여서 씁니다.\n\n직접 만든 떡상 템플릿 영상 세 편(선크림 광고, 이어폰 런칭, 동물 뉴스)을 먼저 보고, 선크림 광고를 Hypit으로 컷·소리·대사까지 초 단위로 분석했습니다.\n그 틀 그대로 비타민C 세럼 광고로 바꾸고, 같은 프롬프트로 시댄스 2.5, 클링 4.0, 미니맥스 H3 세 모델을 돌려 결과를 나란히 비교했습니다.\n\n🎬 힉스필드(Higgsfield AI)는 시댄스 2.5, 클링 4.0, 미니맥스 H3 같은 AI 영상 모델(AI video models)을 한 곳에서 골라 쓰는 AI 영상 플랫폼입니다.\n모델만 바꿔 끼우면 같은 프롬프트로 결과를 나란히 볼 수 있어서, 어떤 모델이 내 영상에 맞는 최고의 AI 영상 생성기(best AI video generator)인지 직접 확인하기 좋습니다.\n프롬프트로 영상을 만드는 text to video AI부터 참고 이미지를 넣는 방식까지, 오늘처럼 같은 프롬프트 AI 테스트(same prompt AI test)로 직접 승자를 골라 보세요.\n\n🔑 영상에서 확인할 내용\n1. Hypit이 떡상 영상을 뜯어보는 방식: 프레임 격자와 대사 받아쓰기로 컷·음악·대사가 몇 초에 나오는지 분석\n2. 대사 받아쓰기는 로컬 WhisperX 대신 일레븐랩스로도 충분한 이유\n3. 원본 틀은 그대로 두고 새 기획안과 장면별 이미지·영상 프롬프트까지 받는 과정\n4. 클로드 코드에 힉스필드를 연결해 제품·모델 이미지부터 영상까지 편집 없이 만드는 워크플로우\n5. AI 영상 모델 비교(AI video model comparison): 시댄스 2.5는 디테일, 클링 4.0은 재질과 촉감, 미니맥스 H3는 얼굴 표현\n\n📝 따라 하는 순서\n🚀 Part 1. Hypit이 하는 일: 원래는 편집기에 가까운 도구지만 오늘은 떡상 영상의 틀을 분석하는 기능만 씁니다\n🚀 Part 2. 떡상 템플릿 세 편: 선크림 광고, 이어폰 런칭, 동물 뉴스를 먼저 봅니다\n🚀 Part 3. 설치와 연결: Hypit 스킬을 설치하고 클로드에 힉스필드 MCP를 커스텀 커넥터로 추가합니다\n🚀 Part 4. 분석과 복제: 선크림 광고를 분석해 비타민C 세럼 광고로 바꾸고, 같은 프롬프트로 세 모델 결과를 비교합니다\n\n⚠️ Hypit은 상업적으로 쓸 수 있고 만든 영상도 내 것이지만, 남의 영상에 나온 사람·화면·브랜드·문구를 그대로 가져다 쓰면 도용이 됩니다.\n잘 된 영상은 구조만 참고하고 화면은 내 것으로 바꿔서 만드세요.\n\n🔗 관련 링크\n🎬 힉스필드 AI 영상 모델 비교: https://higgsfield.ai/s/video-model-showdown-kling-4-success-wiki-oOSbQT\n🛠 Hypit 깃허브: https://github.com/hypit-ai/hypit\n🎙 일레븐랩스 Scribe: https://try.elevenlabs.io/start-today\n\n⏰ 타임라인\n00:00 리버스 엔지니어링 3편, 떡상 영상도 통째로 복제될까?\n00:41 Hypit은 왜 석 달 만에 깃허브 스타 2만 7천 개를 넘었을까?\n01:32 Hypit은 정확히 무엇을 해 주는 오픈소스일까?\n02:25 Hypit 편집 기능(Studio)까지 꼭 배워야 할까?\n02:55 Hypit은 떡상 영상을 어떻게 뜯어볼까? (WhisperX vs 일레븐랩스)\n03:39 분석 결과로 새 영상은 어떻게 다시 만들까?\n04:10 오늘 복제할 떡상 템플릿 영상 3개는 어떤 영상일까?\n05:57 Hypit 설치와 힉스필드 MCP 연결은 어떻게 할까?\n06:54 Hypit으로 화장품 광고를 분석하면 얼마나 자세하게 나올까?\n08:46 같은 프롬프트로 시댄스 2.5, 클링 4.0, 미니맥스 H3를 돌리면 뭐가 다를까?\n09:31 시댄스 2.5 결과는 어떨까?\n09:59 클링 4.0 결과는 어떨까?\n10:15 미니맥스 H3 결과는 어떨까?\n10:32 세 모델 중 어떤 모델이 어디에 강할까?\n11:00 Hypit, 상업적으로 써도 될까?\n\n#Hypit #AI영상모델비교 #시댄스 #클링 #힉스필드",
+        "published_at": "2026-10-31T22:21:15Z",
+        "duration_seconds": 715,
+        "view_count": 6073,
+        "like_count": 307,
+        "comment_count": 14,
+        "engagement_rate": 0.052856907623909107,
+        "thumbnail_url": "https://i.ytimg.com/vi/nA44EmayqY0/hqdefault.jpg",
+        "video_url": "https://www.youtube.com/watch?v=nA44EmayqY0",
+        "format": "워크플로우 튜토리얼",
+        "hook_type": "실험 데모",
+        "title_pattern": "핵심 포인트 직설형",
+        "one_line_summary": "인기 영상의 구조, 타이밍, 자막, 효과음까지 분석해 완전히 새로운 영상으로 재구성하는 오픈소스 'Hypit'과 다양한 AI 영상 모델(시댄스 2.5, 클링 4.0, 미니맥스 H3) 비교를 통해 AI 영상 제작의 새로운 가능성을 탐구합니다.",
+        "why_it_works": "이 영상은 '이게 될까?'라는 호기심을 자극하는 '리버스 엔지니어링'이라는 콘셉트와 함께, 인기 영상의 성공 요소를 AI로 분석하고 이를 벤치마킹하여 자신의 콘텐츠를 만드는 과정을 보여줍니다. 특히, 여러 AI 영상 모델을 동일한 프롬프트로 비교하며 각 모델의 특징을 명확히 제시하는 방식은 시청자의 이해를 돕고 AI 영상 생성에 대한 실질적인 정보를 제공합니다.",
+        "recommendation": "• '광고 영상 vs. 설명 영상' 등 명확한 VS 구도로 Hypit의 영상 분석 및 재구성 능력 실험 콘텐츠 제작 • 'AI가 만든 숏폼 vs. 사람이 편집한 숏폼' 실험으로, AI의 속도와 결과물을 일반 시청자가 체감하게 하는 실험 영상 기획 • 'MZ세대가 선호하는 밈/챌린지 영상'을 Hypit으로 분석하고, 스마트대디 채널만의 개성을 담아 재해석하는 실험 진행 • AI 영상 모델 비교 시, 각 모델로 동일한 '제품 리뷰'나 '제품 언박싱' 콘텐츠를 만들어 실제 활용성을 직접 비교",
+        "transcript_status": "failed",
+        "transcript_source": "none",
+        "transcript_language": "",
+        "transcript_text": "",
+        "analysis_date": "2026-11-01T02:05:38+00:00",
+        "channel_name": "성공지식백과",
+        "topic_tags": [
+          "Claude",
+          "코딩"
+        ],
+        "keywords": [
+          "Hypit",
+          "AI영상편집",
+          "오픈소스",
+          "영상복제",
+          "콘텐츠분석",
+          "AI영상모델",
+          "시댄스2.5",
+          "클링4.0"
+        ],
+        "tools": [
+          "Claude",
+          "MCP",
+          "Whisper"
+        ],
+        "flow": [
+          "{\"step\": 1, \"description\": \"Hypit 오픈소스 소개 및 깃허브 스타 수 공개 (빠른 인기 증명)\"}",
+          "{\"step\": 2, \"description\": \"Hypit의 핵심 기능 설명: 인기 영상의 구조, 컷 전환 타이밍, 자막, 효과음 등을 분석하여 템플릿 추출\"}",
+          "{\"step\": 3, \"description\": \"Hypit 분석 기능 시연 (WhisperX vs ElevenLabs Scribe 비교 포함)\"}",
+          "{\"step\": 4, \"description\": \"추출된 템플릿을 활용하여 새로운 콘텐츠 기획 및 제작 과정 시연 (선크림 광고 → 비타민C 세럼 광고)\"}",
+          "{\"step\": 5, \"description\": \"Seed 2.5, Kling 4.0, Minimax H3 세 AI 영상 모델 비교 시연 (동일 프롬프트, 결과 비교)\"}"
+        ],
+        "claims": [
+          "Hypit은 인기 영상의 모든 요소를 분석해 템플릿화할 수 있는 오픈소스다.",
+          "Hypit은 컷 타이밍, 자막, 효과음 등 영상 구조를 초 단위로 파악한다.",
+          "ElevenLabs Scribe는 음성 인식 기능 면에서 로컬 WhisperX 대안으로 충분하다.",
+          "Hypit 분석 결과를 바탕으로 새 기획안과 프롬프트만으로 새로운 영상을 만들 수 있다.",
+          "Claude Code와 Higgsfield AI MCP 연동으로 영상 편집 없이 AI 영상 제작이 가능하다."
+        ],
+        "transcript_highlights": [
+          "🔥 같은 프롬프트로 시댄스 2.5·클링 4.0 직접 돌려 보고 내 승자 고르기, 힉스필드 AI 영상 모델 비교: https://higgsfield.ai/s/video-model-showdown-kling-4-success-wiki-oOSbQT 🎙 영상 대사를 단어마다 몇 초에 말했는지까지 받아써 주는 일레븐랩스 Scribe: https://try.elevenlabs.io/start-today 리버스 엔지니어링 시리즈 세 번째, 이번에는 떡상하는 영상입니다.",
+          "떡상 영상 하나를 에이전트에 넣으면 컷이 넘어가는 타이밍부터 자막, B롤, 효과음까지 구조를 그대로 가져와서 내 영상으로 다시 만들 수 있는 오픈소스, Hypit을 써 봤습니다."
+        ],
+        "top_comments": [
+          {
+            "video_id": "nA44EmayqY0",
+            "comment_id": "Ugxf9TlV62OdbjMW5Cp4AaABAg",
+            "author": "@Soois_Music",
+            "text": "저런 방식으로 작업될 경우 토큰 엄청나게 들어갑니다. 이런 것도 있구나~ 정도만 참고하면 될듯",
+            "like_count": 2,
+            "reply_count": 0,
+            "published_at": "2026-11-01T01:21:14Z"
+          },
+          {
+            "video_id": "nA44EmayqY0",
+            "comment_id": "Ugy1BYgS3AzAjY3wJfh4AaABAg",
+            "author": "@jihyunchoi1759",
+            "text": "와 그야말로 대복제시대.",
+            "like_count": 2,
+            "reply_count": 0,
+            "published_at": "2026-10-31T23:49:42Z"
+          },
+          {
+            "video_id": "nA44EmayqY0",
+            "comment_id": "Ugzh-ArJduzsNDNPVOZ4AaABAg",
+            "author": "@JustinPark-c3z",
+            "text": "이런거 없나 하고 상상하면서 입맛 다시고 있었는데\n타이밍 좋게 딱 나와주네 ㄷㄷ",
+            "like_count": 1,
+            "reply_count": 0,
+            "published_at": "2026-10-31T23:49:15Z"
+          },
+          {
+            "video_id": "nA44EmayqY0",
+            "comment_id": "Ugwi3irPPMEMhqd3BNV4AaABAg",
+            "author": "@amen-g3u8i",
+            "text": "떡상 영상을 찾고 걸리지않게 크롤링하는게 있으면 더 좋읗거같은데",
+            "like_count": 0,
+            "reply_count": 0,
+            "published_at": "2026-11-01T00:08:55Z"
+          },
+          {
+            "video_id": "nA44EmayqY0",
+            "comment_id": "Ugxjgliu6BijsMMmpsd4AaABAg",
+            "author": "@success_wiki",
+            "text": "🔥 같은 프롬프트로 시댄스 2.5·클링 4.0 직접 돌려 보고 내 승자 고르기, 힉스필드 AI 영상 모델 비교: https://higgsfield.ai/s/video-model-showdown-kling-4-success-wiki-oOSbQT\n오늘 영상에서 비교한 시댄스 2.5, 클링 4.0, 미니맥스 H3 전부 이 링크에서 모델만 바꿔서 쓰실 수가 있고요. 클로드 코드에 힉스필드 연결하는 방법은 영상 6분 30초쯤에 보여드렸습니다.\n여러분도 같은 프롬프트 하나 넣고 모델만 바꿔서 직접 승자를 골라 보시면 어떤 모델이 내 영상에 맞는지 바로 보이실 겁니다.",
+            "like_count": 0,
+            "reply_count": 0,
+            "published_at": "2026-10-31T22:21:38Z"
+          }
+        ]
+      },
+      {
+        "video_id": "Ravnyp-ye08",
+        "channel_key": "uca-mwx9cvctvfwrmb9bkc9w",
+        "title": "The next big AI tool is....",
+        "description": "The next big AI tool is....",
+        "published_at": "2026-10-31T21:02:47Z",
+        "duration_seconds": 35,
+        "view_count": 4632,
+        "like_count": 241,
+        "comment_count": 4,
+        "engagement_rate": 0.05289291882556131,
+        "thumbnail_url": "https://i.ytimg.com/vi/Ravnyp-ye08/hqdefault.jpg",
+        "video_url": "https://www.youtube.com/watch?v=Ravnyp-ye08",
+        "format": "뉴스 분석",
+        "hook_type": "문제 해결",
+        "title_pattern": "차세대 AI 툴은 바로 이것!",
+        "one_line_summary": "차세대 AI 툴로 Grok(X AI)을 소개하며, 기존 툴과의 비교 및 잠재력에 대해 논의합니다.",
+        "why_it_works": "AI 기술에 대한 대중의 높은 관심과 새로운 툴에 대한 궁금증을 자극하는 제목과 내용으로 시청자의 클릭을 유도합니다. 아직 널리 알려지지 않은 AI 툴을 선제적으로 소개하여 정보 우위를 점하려는 전략입니다.",
+        "recommendation": "• Grok AI를 스마트대디 채널의 'AI 모험가' 콘셉트에 맞춰 직접 설치하고 사용해보는 리얼 실험기로 제작 • Grok AI의 핵심 기능(실시간 정보 접근, X 계정 연동 등)을 일반인이 이해하기 쉬운 생활 밀착형 시나리오(예: 최신 이슈 요약, 실시간 인기 트렌드 분석)로 비교 실험 • 기존 AI 챗봇(ChatGPT, Claude 등)과 Grok AI의 '정보 최신성' 및 '주관적 의견 생성' 능력을 VS 비교하여 명확한 강점과 약점 분석 • '이게 될까?' 시리즈처럼, Grok AI가 아직 해결하지 못하는 문제점이나 한계를 실험을 통해 찾아내고 솔직하게 공유 • Grok AI의 'X' 플랫폼 연동 기능이 일반 사용자에게 어떤 실질적인 도움이 되는지 검증하는 콘텐츠 기획",
+        "transcript_status": "failed",
+        "transcript_source": "none",
+        "transcript_language": "",
+        "transcript_text": "",
+        "analysis_date": "2026-11-01T02:05:30+00:00",
+        "channel_name": "Dan Martell",
+        "topic_tags": [
+          "AI",
+          "인공지능",
+          "AI툴",
+          "생성형AI",
+          "미래기술",
+          "AI추천"
+        ],
+        "keywords": [
+          "AI툴",
+          "인공지능",
+          "생성형AI",
+          "AI추천",
+          "AI기술",
+          "미래AI",
+          "AI활용",
+          "AI"
+        ],
+        "tools": [],
+        "flow": [
+          "차세대 AI 툴 소개 예고",
+          "기존 AI 툴의 한계점 언급",
+          "새로운 AI 툴 'Grok' 소개",
+          "Grok의 특징 및 잠재력 설명",
+          "Grok의 활용 사례 제시 (간접적)"
+        ],
+        "claims": [
+          "Grok은 차세대 AI 툴이 될 잠재력이 있다.",
+          "Grok은 실시간 정보 접근 및 X(구 트위터) 연동 등 차별화된 기능을 제공한다.",
+          "기존 AI 툴로는 Grok만큼의 실시간성 및 폭넓은 정보 접근이 어렵다."
+        ],
+        "transcript_highlights": [
+          "The next big AI tool is...."
+        ],
+        "top_comments": [
+          {
+            "video_id": "Ravnyp-ye08",
+            "comment_id": "Ugy-jpg_OBakEuz8vx54AaABAg",
+            "author": "@Funheny",
+            "text": "It’s the X factor. Using it in a Tesla brings it to the next level. It’s getting more and more impressive every week!",
+            "like_count": 2,
+            "reply_count": 0,
+            "published_at": "2026-10-31T21:05:12Z"
+          },
+          {
+            "video_id": "Ravnyp-ye08",
+            "comment_id": "Ugy9A_JY1PK_cRkb1854AaABAg",
+            "author": "@lempiralives",
+            "text": "Glazer",
+            "like_count": 0,
+            "reply_count": 1,
+            "published_at": "2026-10-31T21:25:17Z"
+          },
+          {
+            "video_id": "Ravnyp-ye08",
+            "comment_id": "UgwTwzSVRCV_tbkf8Vx4AaABAg",
+            "author": "@bobbystoltze19",
+            "text": "Bulshit! To tell us that you didn't have to train Grok to do anything you're wrong😊",
+            "like_count": 0,
+            "reply_count": 0,
+            "published_at": "2026-11-01T01:32:26Z"
+          }
+        ]
+      },
+      {
+        "video_id": "_9R7QOhJh-o",
+        "channel_key": "uchplebmo18p08akcigti38g",
+        "title": "Glasses That Make You Telepathic",
+        "description": "Sharing the latest news and advancements in AI\n\nDiscover More:\n🛠️ Explore AI Tools & News: https://futuretools.io/\n📰 Weekly Newsletter: https://futuretools.io/newsletter\n\nSocials:\n❌ Twiter/X: https://x.com/mreflow\n🖼️ Instagram: https://instagram.com/mr.eflow\n🧵 Threads: https://www.threads.net/@mr.eflow\n🟦 LinkedIn: https://www.linkedin.com/in/matt-wolfe-30841712/\n👍 Facebook: https://www.facebook.com/mattrwolfe\n\n\nLet’s work together!\n- Brand, sponsorship & business inquiries: business@mattwolfe.com\n\n#AINews #AITools #ArtificialIntelligence",
+        "published_at": "2026-10-31T18:16:57Z",
+        "duration_seconds": 76,
+        "view_count": 6892,
+        "like_count": 274,
+        "comment_count": 23,
+        "engagement_rate": 0.04309344167150319,
+        "thumbnail_url": "https://i.ytimg.com/vi/_9R7QOhJh-o/hqdefault.jpg",
+        "video_url": "https://www.youtube.com/watch?v=_9R7QOhJh-o",
+        "format": "뉴스 분석",
+        "hook_type": "문제 해결",
+        "title_pattern": "핵심 포인트 직설형",
+        "one_line_summary": "생각만으로 텍스트를 입력할 수 있는 AI 안경 기술을 소개하며, 뇌파를 읽어 텍스트로 변환하는 이 기술의 미래 가능성과 윤리적 쟁점을 탐색합니다.",
+        "why_it_works": "AI 기술의 최신 성과를 '텔레파시'라는 자극적인 키워드로 포장하여 일반 시청자의 호기심을 강하게 유발합니다. '생각만으로 텍스트 입력'이라는 구체적인 시연(비록 프로토타입 단계라 할지라도)은 기술의 신기함을 더하며, 스마트대디 채널의 '먼저 해보는 모험가' 포지셔닝과도 잘 맞습니다.",
+        "recommendation": "• '생각만으로 텍스트 입력' VS '음성 인식 텍스트 입력' 비교 실험: 실제 사용 시 편의성과 정확도를 비교하여 일반인이 체감할 수 있는 장단점 제시 • 'AI 텔레파시 안경' VS 'AI 번역기' 대결: 생각만으로 소통이 가능한 미래 vs 언어 장벽을 허무는 현재 AI 기술의 활용성 비교 • 'AI 텔레파시 안경' 실험: 손이 자유롭지 못한 상황(예: 요리 중, 운전 중)에서 텍스트 입력 테스트를 통해 실용성 검증 • 뇌파 인식 기술의 오용 가능성에 대한 우려와 함께, 개인정보 보호 및 윤리적 측면에 대한 쉽고 명확한 설명 추가",
+        "transcript_status": "failed",
+        "transcript_source": "none",
+        "transcript_language": "",
+        "transcript_text": "",
+        "analysis_date": "2026-11-01T02:05:32+00:00",
+        "channel_name": "Matt Wolfe",
+        "topic_tags": [
+          "수익화"
+        ],
+        "keywords": [
+          "AI안경",
+          "뇌파인식",
+          "생각읽기",
+          "텔레파시AI",
+          "미래웨어러블",
+          "AI기술",
+          "미래기술",
+          "웨어러블AI"
+        ],
+        "tools": [],
+        "flow": [
+          "AI 기술의 최신 동향 소개",
+          "Georgia Tech의 뇌파 인식 AI 안경 기술 시연",
+          "생각을 텍스트로 변환하는 과정 설명",
+          "기술의 잠재적 활용 사례 (통신, 장애인 지원 등) 제시",
+          "현재 기술의 한계점 및 향후 발전 방향 논의"
+        ],
+        "claims": [
+          "Georgia Tech에서 뇌파를 감지하여 텍스트로 변환하는 AI 안경을 개발 중입니다.",
+          "이 기술은 생각만으로 텍스트를 입력할 수 있게 합니다.",
+          "향후 의사소통 방식을 혁신할 잠재력이 있습니다.",
+          "군사적 활용이나 장애인 지원 등 다양한 분야에 적용될 수 있습니다."
+        ],
+        "transcript_highlights": [
+          "자막을 확보하지 못해 제목·댓글·메타데이터 기준으로 분석했습니다."
+        ],
+        "top_comments": [
+          {
+            "video_id": "_9R7QOhJh-o",
+            "comment_id": "UgybXqPZGWUCDBe-c2t4AaABAg",
+            "author": "@Mr.Wheelz88",
+            "text": "Could also help the disabled with speech disorders. In the world that’s turning everything into vocalization it’s hard for us disabled people to use the new cool features.",
+            "like_count": 9,
+            "reply_count": 0,
+            "published_at": "2026-10-31T20:05:37Z"
+          },
+          {
+            "video_id": "_9R7QOhJh-o",
+            "comment_id": "UgwpnPk93bTsL6gHx5d4AaABAg",
+            "author": "@DaMoNarch91",
+            "text": "It's not Georgia Tech University. It's either Georgia Tech or Georgia Institute of Technology",
+            "like_count": 5,
+            "reply_count": 0,
+            "published_at": "2026-10-31T18:44:52Z"
+          },
+          {
+            "video_id": "_9R7QOhJh-o",
+            "comment_id": "Ugw222g4so3fKF_M1FJ4AaABAg",
+            "author": "@cm24624",
+            "text": "military uses - comm without making any sound at all and still communicate? billions will be made.",
+            "like_count": 4,
+            "reply_count": 0,
+            "published_at": "2026-10-31T23:19:00Z"
+          },
+          {
+            "video_id": "_9R7QOhJh-o",
+            "comment_id": "Ugy7fFgTBg_yLhgSC4x4AaABAg",
+            "author": "@boreales",
+            "text": "New level of creep unlocked",
+            "like_count": 4,
+            "reply_count": 0,
+            "published_at": "2026-10-31T21:08:19Z"
+          },
+          {
+            "video_id": "_9R7QOhJh-o",
+            "comment_id": "UgyhoUjbAEoBpiL606l4AaABAg",
+            "author": "@rickstoner9099",
+            "text": "Amazing. Guess a lot similar stuff coming out soon.",
+            "like_count": 4,
+            "reply_count": 0,
+            "published_at": "2026-10-31T19:17:02Z"
+          }
+        ]
+      },
+      {
+        "video_id": "1z-sQtgEJdA",
+        "channel_key": "uca-mwx9cvctvfwrmb9bkc9w",
+        "title": "Barber Talks w/ @al_clipone; Installing GrokBot",
+        "description": "Barber Talks w/ @al_clipone; Installing GrokBot",
+        "published_at": "2026-10-31T15:04:06Z",
+        "duration_seconds": 50,
+        "view_count": 15274,
+        "like_count": 569,
+        "comment_count": 14,
+        "engagement_rate": 0.03816943826109729,
+        "thumbnail_url": "https://i.ytimg.com/vi/1z-sQtgEJdA/hqdefault.jpg",
+        "video_url": "https://www.youtube.com/watch?v=1z-sQtgEJdA",
+        "format": "뉴스 분석",
+        "hook_type": "문제 해결",
+        "title_pattern": "핵심 포인트 직설형",
+        "one_line_summary": "이 영상은 agents 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+        "why_it_works": "문제 해결 훅으로 관심을 끌고, 뉴스 분석 형식으로 내용을 빠르게 정리해 시청자가 '바로 써먹을 수 있다'고 느끼게 만듭니다.",
+        "recommendation": "훅 구조: 도입 15초 안에 '문제 해결' 관점으로 문제를 못 박고, 왜 지금 봐야 하는지 먼저 선언합니다. • 복제할 포장 요소: 뉴스 분석 형식을 유지하되 agents를 실제 사용 장면 1개와 결과 변화 2개로 더 좁혀 설명합니다. • 비어 있는 콘텐츠 영역: 'agents가 내 작업 흐름에서 어디에 꽂히는가'를 사례 중심으로 보여주는 후속 영상이 비어 있습니다. • 추천 제목: agents 이슈를 내 채널 관점으로 다시 정리해보자 • 썸네일 카피 힌트: agents 지금 봐야 할 3가지",
+        "transcript_status": "failed",
+        "transcript_source": "none",
+        "transcript_language": "",
+        "transcript_text": "",
+        "analysis_date": "2026-11-01T02:05:31+00:00",
+        "channel_name": "Dan Martell",
+        "topic_tags": [
+          "agents"
+        ],
+        "keywords": [
+          "agents",
+          "Barber",
+          "Talks",
+          "w",
+          "@al_clipone"
+        ],
+        "tools": [],
+        "flow": [
+          "처음 15초 안에 문제를 선명하게 정의하고 왜 지금 봐야 하는지 못 박는다.",
+          "중간 구간에서 툴, 사례, 비교 포인트를 빠르게 제시해 정보 밀도를 높인다.",
+          "마지막에는 시청자가 바로 따라할 수 있는 다음 액션과 적용 예시로 닫는다."
+        ],
+        "claims": [
+          "단순 소개보다 실제 사용 장면을 바로 보여주는 구조가 반응을 만든다.",
+          "큰 담론보다 작은 병목 하나를 해결해주는 포장 방식이 클릭으로 이어지기 쉽다."
+        ],
+        "transcript_highlights": [
+          "자막을 확보하지 못해 제목·댓글·메타데이터 기준으로 분석했습니다."
+        ],
+        "top_comments": [
+          {
+            "video_id": "1z-sQtgEJdA",
+            "comment_id": "Ugw1kofAnr-LBBCoAwZ4AaABAg",
+            "author": "@beardandbowlerproductions",
+            "text": "where we are at this moment in time is so crazy rn",
+            "like_count": 9,
+            "reply_count": 0,
+            "published_at": "2026-10-31T15:13:40Z"
+          },
+          {
+            "video_id": "1z-sQtgEJdA",
+            "comment_id": "UgzlvEVPTKoKP5zWe7t4AaABAg",
+            "author": "@DevidSword",
+            "text": "Let's see a demonstration in the next clip. Pun intended.",
+            "like_count": 8,
+            "reply_count": 0,
+            "published_at": "2026-10-31T18:52:52Z"
+          },
+          {
+            "video_id": "1z-sQtgEJdA",
+            "comment_id": "Ugw8Gk9OaHjUziuxagl4AaABAg",
+            "author": "@juhyghtgfrdxbsbgchvjb",
+            "text": "This is dumb. You’d have had to setup the access first before the agent can check anything",
+            "like_count": 6,
+            "reply_count": 0,
+            "published_at": "2026-10-31T16:01:55Z"
+          },
+          {
+            "video_id": "1z-sQtgEJdA",
+            "comment_id": "UgwCB263zfHkatz3qbt4AaABAg",
+            "author": "@mikebravo3527",
+            "text": "If I get a haircut and a robot calls me back to ask me how it was. And if I have any family members that need to cut, that would be the last time I go to that Barber.",
+            "like_count": 3,
+            "reply_count": 0,
+            "published_at": "2026-10-31T20:49:24Z"
+          },
+          {
+            "video_id": "1z-sQtgEJdA",
+            "comment_id": "UgzNR5mz2HScM-IEKMp4AaABAg",
+            "author": "@casperjohansson7499",
+            "text": "This is how you lose business overnight lul",
+            "like_count": 2,
+            "reply_count": 0,
+            "published_at": "2026-10-31T21:23:20Z"
+          }
+        ]
+      },
+      {
+        "video_id": "SaBtmnZGBxo",
+        "channel_key": "ucr9j1jqqb5rse69wjunbywa",
+        "title": "Can AI Predict The Future and MAKE MONEY On The Outcome?",
+        "description": "Can AI Predict The Future and MAKE MONEY On The Outcome?\n\nGet early access:\nhttps://www.siktintelligence.com/\n\n🐦‍⬛ Tomorrow’s headlines, before they happen.\nSikt Intelligence is building an AI superforecaster: it reads the world’s news, weighs the evidence and puts an honest probability on the biggest events, right next to what the prediction markets say. When the two disagree, that’s your signal.\nBuilt in Oslo, Norway \n\n· Not financial advice.\n\nBusiness Contact:\nkbfseo@gmail.com\n\n00:00 Week 1: Testing AI Predictions with Real Money\n01:05 The Setup: 14 Events on Polymarket & Kalshi\n02:48 First Trade: Betting Against the US GDP Forecast\n03:50 NVIDIA & Gold: Comparing AI Forecasts with Market Prices\n04:51 The Full Forecast: Which Trades to Take or Skip\n06:10 Week 1 Results: Wins, Losses & Total P&L\n10:06 Eli Lilly Case Study: One Forecast, Two Trades\n13:05 Lessons Learned & Plans for Week 2",
+        "published_at": "2026-10-31T11:53:45Z",
+        "duration_seconds": 837,
+        "view_count": 1221,
+        "like_count": 16,
+        "comment_count": 3,
+        "engagement_rate": 0.015561015561015561,
+        "thumbnail_url": "https://i.ytimg.com/vi/SaBtmnZGBxo/hqdefault.jpg",
+        "video_url": "https://www.youtube.com/watch?v=SaBtmnZGBxo",
+        "format": "빌드 데모",
+        "hook_type": "수익",
+        "title_pattern": "툴 조합 + 압축 약속",
+        "one_line_summary": "이 영상은 coding 이슈를 빌드 데모 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+        "why_it_works": "수익 훅으로 관심을 끌고, 빌드 데모 형식으로 내용을 빠르게 정리해 시청자가 '바로 써먹을 수 있다'고 느끼게 만듭니다.",
+        "recommendation": "훅 구조: 도입 15초 안에 '수익' 관점으로 문제를 못 박고, 왜 지금 봐야 하는지 먼저 선언합니다. • 복제할 포장 요소: 빌드 데모 형식을 유지하되 coding를 실제 사용 장면 1개와 결과 변화 2개로 더 좁혀 설명합니다. • 비어 있는 콘텐츠 영역: 'coding가 내 작업 흐름에서 어디에 꽂히는가'를 사례 중심으로 보여주는 후속 영상이 비어 있습니다. • 추천 제목: coding 이슈를 내 채널 관점으로 다시 정리해보자 • 썸네일 카피 힌트: coding 지금 봐야 할 3가지",
+        "transcript_status": "failed",
+        "transcript_source": "none",
+        "transcript_language": "",
+        "transcript_text": "",
+        "analysis_date": "2026-11-01T02:05:36+00:00",
+        "channel_name": "All About AI",
+        "topic_tags": [
+          "coding"
+        ],
+        "keywords": [
+          "coding",
+          "Can",
+          "AI",
+          "Predict",
+          "The"
+        ],
+        "tools": [],
+        "flow": [
+          "처음 15초 안에 문제를 선명하게 정의하고 왜 지금 봐야 하는지 못 박는다.",
+          "중간 구간에서 툴, 사례, 비교 포인트를 빠르게 제시해 정보 밀도를 높인다.",
+          "마지막에는 시청자가 바로 따라할 수 있는 다음 액션과 적용 예시로 닫는다."
+        ],
+        "claims": [
+          "단순 소개보다 실제 사용 장면을 바로 보여주는 구조가 반응을 만든다.",
+          "큰 담론보다 작은 병목 하나를 해결해주는 포장 방식이 클릭으로 이어지기 쉽다."
+        ],
+        "transcript_highlights": [
+          "자막을 확보하지 못해 제목·댓글·메타데이터 기준으로 분석했습니다."
+        ],
+        "top_comments": [
+          {
+            "video_id": "SaBtmnZGBxo",
+            "comment_id": "UgwjY6Cw49aU7qV6ZJp4AaABAg",
+            "author": "@astrofinans",
+            "text": "I think many people will be interested in betting on BTC, as it is traditionally considered unpredictable.",
+            "like_count": 0,
+            "reply_count": 0,
+            "published_at": "2026-10-31T20:11:01Z"
+          },
+          {
+            "video_id": "SaBtmnZGBxo",
+            "comment_id": "UgwmA2mSzucClccXd-J4AaABAg",
+            "author": "@ivanlaws622",
+            "text": "WTF!",
+            "like_count": 0,
+            "reply_count": 0,
+            "published_at": "2026-10-31T15:10:30Z"
+          }
+        ]
+      },
+      {
+        "video_id": "IpLxZWMQy9c",
+        "channel_key": "ucducjkyztf-1wjyppietf1g",
+        "title": "아이폰 듀오 크랙 이슈? 3시간 동안 라이브로 해체쇼하기 (+간단 내구성 테스트)",
+        "description": "이번 아이폰 듀오는 애플의 새로운 폼팩터기 때문에 라이브로 해체쇼가 예정되어 있었는데, 예상치 못하게 크랙 이슈가 생기면서 간단 내구성 테스트까지 하게 되었습니다.. ㅋㅋ 실사용 위주에서 있을 수 있는 테스트들을 했고, 라이브에서 채팅에 나왔던 요청 위주로 한거라 더 하드한 내구성 테스트는 많은 좋은 채널들을 참고 부탁드립니다! \n또한 간단 테스트 이후 원래 궁금했었던 아이폰 듀오의 내부를 직접 들여다보려고 해체쇼를 진행한 것을 편집본으로 만들었습니다. 원래 계획은 살리려고 했는데 다 뿌셔먹어 뿌렀네요;;\n\n*라이브 풀버전 다시보기 : https://www.youtube.com/live/RFlatM-S6IE?si=pB9tszJb8Maw1ccg\n\n\n🔋 Specs.\n모델명 : Apple iPhone Duo\n프로세서 : A20 Pro (6코어 CPU, 7코어 GPU)\n저장공간 : 256GB / 512GB / 1TB / 2TB\n내부 디스플레이 : 7.6인치 OLED, 2670×1878, 나노 텍스처\n외부 디스플레이 : 5.4인치 OLED, 2034×1398\n주사율 : 내·외부 최대 120Hz ProMotion\n후면 카메라 : 4,800만 화소 메인 + 4,800만 화소 초광각\n전면 카메라 : 외부 1,200만 화소 Center Stage / 내부 언더 디스플레이\n동영상 : 메인 카메라 최대 4K 120fps Dolby Vision\n배터리 : 동영상 재생 최대 44시간(외부) / 31시간(내부)\n충전 : 약 20분에 최대 50% 충전(60W 이상 어댑터), MagSafe·Qi2 최대 25W\n생체인식 : 측면 Touch ID\n방수·방진 : IP68\n두께 : 펼쳤을 때 5.2mm / 접었을 때 11.3mm\n무게 : 254g\n색상 : 나이트 스카이 / 스타 화이트\n가격 : 3,290,000원부터\n\n\n⏲️ Timestamps.\n00:00 인트로\n00:10 오프닝\n01:00 이슈 발단\n02:27 국내 사례도 있을까?\n03:15 원인은 뭘까?\n05:53 언박싱\n06:29 경도 테스트\n08:30 필름 제거\n09:44 뒤로 꺾기\n10:34 낙하 테스트\n11:55 이것저것 테스트\n13:19 힌지 테스트 & 힌지 모래\n14:22 해체쇼\n19:01 메인보드와 카메라\n22:38 힌지 분해\n26:15 배터리와 베이퍼 챔버\n27:49 오늘의 결론\n\n\n🔖 Tags.\n#아이폰듀오\n#내구성테스트\n#해체쇼\n\n\n💡 Merch.\n블랙카우랩스 굿즈를 사고 싶다면?\n-https://abit.ly/blackcowlabs\n\n\n📨 Business contacts.\nitsub@itud.io",
+        "published_at": "2026-10-31T11:00:34Z",
+        "duration_seconds": 1788,
+        "view_count": 665449,
+        "like_count": 4462,
+        "comment_count": 1551,
+        "engagement_rate": 0.009036004261784148,
+        "thumbnail_url": "https://i.ytimg.com/vi/IpLxZWMQy9c/hqdefault.jpg",
+        "video_url": "https://www.youtube.com/watch?v=IpLxZWMQy9c",
+        "format": "뉴스 분석",
+        "hook_type": "실험",
+        "title_pattern": "직접 실험 + 결과 공개",
+        "one_line_summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+        "why_it_works": "실험 훅으로 관심을 끌고, 뉴스 분석 형식으로 내용을 빠르게 정리해 시청자가 '바로 써먹을 수 있다'고 느끼게 만듭니다.",
+        "recommendation": "훅 구조: 도입 15초 안에 '실험' 관점으로 문제를 못 박고, 왜 지금 봐야 하는지 먼저 선언합니다. • 복제할 포장 요소: 뉴스 분석 형식을 유지하되 뉴스 분석를 실제 사용 장면 1개와 결과 변화 2개로 더 좁혀 설명합니다. • 비어 있는 콘텐츠 영역: '뉴스 분석가 내 작업 흐름에서 어디에 꽂히는가'를 사례 중심으로 보여주는 후속 영상이 비어 있습니다. • 추천 제목: 뉴스 분석 이슈를 내 채널 관점으로 다시 정리해보자 • 썸네일 카피 힌트: 뉴스 분석 지금 봐야 할 3가지",
+        "transcript_status": "failed",
+        "transcript_source": "none",
+        "transcript_language": "",
+        "transcript_text": "",
+        "analysis_date": "2026-11-01T02:05:31+00:00",
+        "channel_name": "ITSub잇섭",
+        "topic_tags": [],
+        "keywords": [
+          "아이폰",
+          "듀오",
+          "크랙",
+          "이슈"
+        ],
+        "tools": [],
+        "flow": [
+          "처음 15초 안에 문제를 선명하게 정의하고 왜 지금 봐야 하는지 못 박는다.",
+          "중간 구간에서 툴, 사례, 비교 포인트를 빠르게 제시해 정보 밀도를 높인다.",
+          "마지막에는 시청자가 바로 따라할 수 있는 다음 액션과 적용 예시로 닫는다."
+        ],
+        "claims": [
+          "단순 소개보다 실제 사용 장면을 바로 보여주는 구조가 반응을 만든다.",
+          "큰 담론보다 작은 병목 하나를 해결해주는 포장 방식이 클릭으로 이어지기 쉽다."
+        ],
+        "transcript_highlights": [
+          "자막을 확보하지 못해 제목·댓글·메타데이터 기준으로 분석했습니다."
+        ],
+        "top_comments": [
+          {
+            "video_id": "IpLxZWMQy9c",
+            "comment_id": "UgyIVeP0JV-5r6rMMnF4AaABAg",
+            "author": "@멀-t2q",
+            "text": "아직도 잇섭이 왜 욕먹었었는지 모르겠다",
+            "like_count": 2244,
+            "reply_count": 128,
+            "published_at": "2026-10-31T11:03:11Z"
+          },
+          {
+            "video_id": "IpLxZWMQy9c",
+            "comment_id": "UgwjiKOEGVWp-Sh_ow54AaABAg",
+            "author": "@닉네임사용안함",
+            "text": "궁금하기님 채널이 진짜 국내에서는 극강의 테스트는 원탑이 맞긴함..",
+            "like_count": 1162,
+            "reply_count": 63,
+            "published_at": "2026-10-31T11:02:53Z"
+          },
+          {
+            "video_id": "IpLxZWMQy9c",
+            "comment_id": "Ugw-Tt8oF-lC4xOqeJ94AaABAg",
+            "author": "@tunas0987",
+            "text": "그간 불량이 잔뜩 걸리시던 분이,\n왠일로 양품이 걸린 희귀한 상황.\n\n컨텐츠적 의미에서는 불량인지도..",
+            "like_count": 914,
+            "reply_count": 19,
+            "published_at": "2026-10-31T11:56:11Z"
+          },
+          {
+            "video_id": "IpLxZWMQy9c",
+            "comment_id": "UgxFmSCvpwyP6K8xWE14AaABAg",
+            "author": "@sungak88",
+            "text": "라이브 본방 봣던 1인입니다. 진짜 너무 억까성 댓글 많이 달려서 보는 내내 화나던데 ㅠㅠㅠ 항상 응원합니다",
+            "like_count": 912,
+            "reply_count": 40,
+            "published_at": "2026-10-31T11:06:57Z"
+          },
+          {
+            "video_id": "IpLxZWMQy9c",
+            "comment_id": "UgyE7dn77gkTzaAJb4N4AaABAg",
+            "author": "@Kinoko8506",
+            "text": "11:51 \"왜 멀쩡하다고 화나셨는지 모르겠지만...\"\nㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+            "like_count": 555,
+            "reply_count": 15,
+            "published_at": "2026-10-31T11:18:49Z"
+          }
+        ]
+      },
+      {
+        "video_id": "f3XvOfhjNZE",
+        "channel_key": "ucqne2jmbasnybjgacubirrg",
+        "title": "스펙 없이 삼일PwC 간 컴공 4학년의 비결",
+        "description": "대학생이 AI 하나로 대기업에 취직한 방법\n\n컴퓨터공학과 4학년 조영탁 님은 AX인재전쟁 1기 본선에서\nCEO의 의사결정 오류를 찾아 분석하는 AI 에이전트를 만들었고,\n삼일PwC에 채용되었어요.\n\n이제 AX인재전쟁이 온라인으로 열려요.\n온라인으로 AI 결과물을 제출하고, 채용돼요.\n가입 안 하면 놓치는 4가지 👇\n\n✅ ChatGPT Plus 1개월 이용권 (가입자 1,000명 추첨)\n✅ 코덱스 사용법 VOD 강의 무료\n✅ 기업이 낸 문제로 포트폴리오 완성\n✅ 채용 연계 기업에 실력을 보여줄 기회\n\n👉 지금 가입하기: axacademy.ai\n\n#AX인재전쟁 #삼일PwC #AI취업 #대학생취업 #코덱스",
+        "published_at": "2026-10-31T09:54:33Z",
+        "duration_seconds": 68,
+        "view_count": 5014,
+        "like_count": 28,
+        "comment_count": 2,
+        "engagement_rate": 0.005983246908655764,
+        "thumbnail_url": "https://i.ytimg.com/vi/f3XvOfhjNZE/hqdefault.jpg",
+        "video_url": "https://www.youtube.com/watch?v=f3XvOfhjNZE",
+        "format": "워크플로우 튜토리얼",
+        "hook_type": "문제 해결",
+        "title_pattern": "핵심 포인트 직설형",
+        "one_line_summary": "이 영상은 agents 이슈를 워크플로우 튜토리얼 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+        "why_it_works": "문제 해결 훅으로 관심을 끌고, 워크플로우 튜토리얼 형식으로 내용을 빠르게 정리해 시청자가 '바로 써먹을 수 있다'고 느끼게 만듭니다.",
+        "recommendation": "훅 구조: 도입 15초 안에 '문제 해결' 관점으로 문제를 못 박고, 왜 지금 봐야 하는지 먼저 선언합니다. • 복제할 포장 요소: 워크플로우 튜토리얼 형식을 유지하되 agents를 실제 사용 장면 1개와 결과 변화 2개로 더 좁혀 설명합니다. • 비어 있는 콘텐츠 영역: 'agents가 내 작업 흐름에서 어디에 꽂히는가'를 사례 중심으로 보여주는 후속 영상이 비어 있습니다. • 추천 제목: agents 이슈를 내 채널 관점으로 다시 정리해보자 • 썸네일 카피 힌트: agents 지금 봐야 할 3가지",
+        "transcript_status": "failed",
+        "transcript_source": "none",
+        "transcript_language": "",
+        "transcript_text": "",
+        "analysis_date": "2026-11-01T02:05:33+00:00",
+        "channel_name": "조코딩 JoCoding",
+        "topic_tags": [
+          "agents"
+        ],
+        "keywords": [
+          "agents",
+          "ChatGPT",
+          "스펙",
+          "없이",
+          "삼일PwC",
+          "간"
+        ],
+        "tools": [
+          "ChatGPT"
+        ],
+        "flow": [
+          "처음 15초 안에 문제를 선명하게 정의하고 왜 지금 봐야 하는지 못 박는다.",
+          "중간 구간에서 툴, 사례, 비교 포인트를 빠르게 제시해 정보 밀도를 높인다.",
+          "마지막에는 시청자가 바로 따라할 수 있는 다음 액션과 적용 예시로 닫는다."
+        ],
+        "claims": [
+          "단순 소개보다 실제 사용 장면을 바로 보여주는 구조가 반응을 만든다.",
+          "큰 담론보다 작은 병목 하나를 해결해주는 포장 방식이 클릭으로 이어지기 쉽다."
+        ],
+        "transcript_highlights": [
+          "대학생이 AI 하나로 대기업에 취직한 방법 컴퓨터공학과 4학년 조영탁 님은 AX인재전쟁 1기 본선에서 CEO의 의사결정 오류를 찾아 분석하는 AI 에이전트를 만들었고, 삼일PwC에 채용되었어요.",
+          "이제 AX인재전쟁이 온라인으로 열려요."
+        ],
+        "top_comments": [
+          {
+            "video_id": "f3XvOfhjNZE",
+            "comment_id": "UgzeNBcr-J65BGmxotV4AaABAg",
+            "author": "@jocoding",
+            "text": "🎁 axacademy.ai 가입만 해도 ChatGPT Plus 1개월 이용권 추첨!\n가입자 중 1,000명에게 드려요.\n\nAX인재전쟁 온라인, 지금 axacademy.ai 에서 가입하세요 🔥\n(바로 가는 링크는 채널 프로필에 있어요)\n실력에 자신 있다면 다음 주인공은 바로 당신이에요.",
+            "like_count": 0,
+            "reply_count": 0,
+            "published_at": "2026-10-31T09:53:29Z"
+          }
+        ]
+      },
+      {
+        "video_id": "6B__FK1EN8k",
+        "channel_key": "ucfx6adxoyqkxft933nb3rma",
+        "title": "수십 개 제품 직접 써보고 골라왔습니다. 알리 가성비템 BEST14!",
+        "description": "올해도 알리 광군제를 맞아 PC 용품부터 모바일 액세서리, 생활용품까지 갓성비템을 싹 골라왔습니다.\n직접 써보고 만족스러운 제품들만 고르고 골라 총 14개를 가져왔는데요.\n신기하고 유용한 제품들을 다양하게 준비했으니 재미있게 봐주세요!😆\n\n⏰ TIMESTAMP ⏰\n00:00 1111 광군제\n00:24 마우스가 만 원대?\n03:47 일잘러 치트키\n08:25 자석 손맛 미쳤다\n11:01 맥세이프링에 이런 기능이..?\n13:09 안 붙으면 걸어\n15:24 사진 찍을 때 얘 하나면 끝\n19:29 충전기 끝판왕\n20:35 릴 케이블이 달린 보조배터리?\n21:41 차 안이 깔끔해지는 충전기\n23:36 물건 잘 잃어버리는 사람 집중!\n27:09 진드기수도 알려주는 청소기\n28:56 저음이 미친 스피커\n30:26 알잘딱깔센서등\n30:52 가성비 태블릿 하면 이거\n31:10 할인 코드는 이렇게 입력하세요\n\n[ ⚠️ 구매 전 꼭 확인해주세요 ]\n✔️ 환율 변동으로 인해 가격은 구입 시점에 따라 약간 달라질 수 있습니다.\n✔️ 옵션을 알맞게 선택하셨는지 확인해 주세요.\n✔️ 영상 고정댓글 가장 아래에 [자주 묻는 질문 및 주의사항] 적어두었습니다. 문의 전 꼭 읽어주세요.\n\n[ ⚠️ 할인 코드는 어떻게 적용해요? ]\n✅  '🧡채널 할인 코드'만 있는 제품의 경우: 결제 창 '프로모션 코드' 란에 채널 할인 코드 입력 ➜ 적용\n✅  '⭐️스토어 쿠폰'과 '🧡채널 할인 코드' 둘 다 있는 경우\n결제 창 '프로모션 코드'란에 스토어 할인 코드 입력 ➜ 적용 ➜ 채널 할인 코드 입력 ➜ 적용 \n✔️ 결제 후 주문을 취소하셔도 이미 사용한 쿠폰은 복구되지 않으니 주의하세요.\n\n🧡테크몽 X AliExpress 11.11 광군제🧡\n진행기간: 11월 1일 00시 - 11월 18일 오후 23시 59분 (한국 시간)\n※ 최종가는 판매페이지 가격 - 채널 할인 코드 - 결제할인 기준입니다.\n※ 일부 상품은 위안화 기준이라 결제 시점 환율에 따라 금액이 달라질 수 있습니다.\n※ 할인 코드는 대문자 필수, 이벤트 한정 물량 완판시 조기 종료될 수 있습니다.\n\n[ 🎁 제품 리스트 ]\n\n1）Ugreen 무선 마우스 (옵션:Mouse)\n🔗 링크: https://s.click.aliexpress.com/e/_c3KNJB3Z\n💲 판매페이지 가격: $16.55\n⭐️ 스토어 쿠폰:  KR45792 (대문자 필수) / $2 할인\n🧡 채널 할인 코드: TECHMONG01 / $2.5 할인 / 선착순 2500장\n✅ 최종가: 약 $12.05\n※ 결제 시점 환율에 따라 금액이 달라질 수 있습니다.\n\n2）Ulanzi D200X 크리에이티브 덱 (옵션:D200X)\n🔗 링크: https://s.click.aliexpress.com/e/_c3kVZbSX\n💲 판매페이지 가격: $77.85\n🧡 채널 할인 코드: TECHMONG02 / $15 할인 / 선착순 500장\n💳우리 마스터카드로 결제 시 $9 추가할인\n✅ 최종가: 약 $53.85\n※ 결제 시점 환율에 따라 금액이 달라질 수 있습니다.\n\n3）Mchose V9 터보+ 무선 게이밍 헤드셋 (옵션:V9 Turbo plus black)\n🔗 링크: https://s.click.aliexpress.com/e/_c4sG2dqP\n💲 판매페이지 가격: $72.88\n🧡 채널 할인 코드: TECHMONG03 / $18 할인 / 선착순 800장\n✅ 최종가: 약 $54.88\n※ 결제 시점 환율에 따라 금액이 달라질 수 있습니다.\n\n4）Aulumu 5in1 G05 에어 (옵션:Black)\n🔗 링크: https://s.click.aliexpress.com/e/_c4PiictZ\n💲 판매페이지 가격: $22.67\n⭐️ 스토어 쿠폰:  WPGYAB0S9MLC (대문자 필수) / $2 할인\n🧡 채널 할인 코드: TECHMONG04 / $4 할인 / 선착순 2000장\n✅ 최종가: 약 $16.67\n※ 결제 시점 환율에 따라 금액이 달라질 수 있습니다.\n\n5）Ulanzi MA02 마그네틱 스탠드 (옵션:MA02)\n🔗 링크: https://s.click.aliexpress.com/e/_c2RxlpGj\n💲 판매페이지 가격: $10.12\n🧡 채널 할인 코드: TECHMONG05 / $2 할인 / 선착순 2000장\n✅ 최종가: 약 $8.12\n※ 결제 시점 환율에 따라 금액이 달라질 수 있습니다.\n\n6）Ulanzi MA38 마그네틱 스탠드 (옵션:MA38)\n🔗 링크: https://s.click.aliexpress.com/e/_c4V1ZCAT\n💲 판매페이지 가격: $21.27\n🧡 채널 할인 코드: TECHMONG06 / $4 할인 / 선착순 1000장\n✅ 최종가: 약 $17.27\n※ 결제 시점 환율에 따라 금액이 달라질 수 있습니다.\n\n7）Ugreen 200W GaN 충전기 (옵션:KR GaN 200W)\n🔗 링크: https://s.click.aliexpress.com/e/_c3yPNYPl\n💲 판매페이지 가격: $50.29\n⭐️ 스토어 쿠폰:  KRNOV01 (대문자 필수) / $5 할인\n🧡 채널 할인 코드: TECHMONG07 / $9 할인 / 선착순 300장\n✅ 최종가: 약 $36.29\n※ 결제 시점 환율에 따라 금액이 달라질 수 있습니다.\n\n8）Ugreen Nexode Pro 200W 보조배터리 (옵션:하얀색)\n🔗 링크: https://s.click.aliexpress.com/e/_c4PKljSn\n💲 판매페이지 가격: $85.97\n⭐️ 스토어 즉시 할인: $2 할인\n⭐️ 스토어 쿠폰:  NEXP16 (대문자 필수) / $16 할인\n🧡 채널 할인 코드: TECHMONG08 / $13.5 할인 / 선착순 500장\n✅ 최종가: 약 $54.47\n※ 결제 시점 환율에 따라 금액이 달라질 수 있습니다.\n\n9）Baseus 100W 차량용 충전기 (옵션:100W Black) (⚠️옵션 선택 주의)\n🔗 링크: https://s.click.aliexpress.com/e/_c4FR2IaT\n💲 판매페이지 가격: $27.35\n⭐️ 스토어 쿠폰:  KRVR11 (대문자 필수) / $3 할인\n🧡 채널 할인 코드: TECHMONG09 / $4.5 할인 / 선착순 1000장\n✅ 최종가: 약 $19.85\n※ 결제 시점 환율에 따라 금액이 달라질 수 있습니다.\n\n10）Ugreen 파인트랙 2\n🔗 링크: https://s.click.aliexpress.com/e/_c3sz3BR1\n\n[ 옵션: 1-pack ]\n💲 판매페이지 가격: $15.67\n⭐️ 스토어 쿠폰:  TK9967 (대문자 필수) / $4 할인\n🧡 채널 할인 코드: TECHMONG10 / $2 할인 / 선착순 1000장\n✅ 최종가: 약 $9.67\n\n[ 옵션: 2-pack ]\n💲 판매페이지 가격: $27.61\n⭐️ 스토어 쿠폰:  TK9968 (대문자 필수) / $6 할인\n🧡 채널 할인 코드: TECHMONG11 / $4 할인 / 선착순 1000장\n✅ 최종가: 약 $17.61\n※ 결제 시점 환율에 따라 금액이 달라질 수 있습니다.\n\n11）Uwant M500 침구 청소기\n🔗 링크: https://s.click.aliexpress.com/e/_c3uVo1ef\n💲 판매페이지 가격:  $36.63\n🧡 채널 할인 코드: TECHMONG12 / $8.5 할인 / 선착순 500장\n✅ 최종가: 약 $28.13\n※ 결제 시점 환율에 따라 금액이 달라질 수 있습니다.\n\n12）Xiaomi 사운드 파티 블루투스 스피커 (옵션:검정색)\n🔗 링크: https://s.click.aliexpress.com/e/_c3soEMGR\n💲 판매페이지 가격:  $82.97\n⭐️ 스토어 쿠폰:  NHFLYQRZTKNQ (대문자 필수) / $2 할인\n🧡 채널 할인 코드: TECHMONG13 / $10.5 할인 / 선착순 700장\n💳 롯데 비자카드로 결제 시 $14 추가할인\n✅ 최종가: 약 $56.47\n※ 결제 시점 환율에 따라 금액이 달라질 수 있습니다.\n\n13）Willed 모션 센서 조명 (옵션:Warm Light 2PCS)\n🔗 링크: https://s.click.aliexpress.com/e/_c4TO1oXl\n💲 판매페이지 가격:  $12.43\n🧡 채널 할인 코드: TECHMONG14 / $3 할인 / 선착순 300장\n✅ 최종가: 약 $9.43\n※ 결제 시점 환율에 따라 금액이 달라질 수 있습니다.\n\n14）샤오신 패드 프로 13인치 (옵션:8GB 128GB Grey)\n🔗 링크: https://s.click.aliexpress.com/e/_c4eoFBp5\n💲 판매페이지 가격: $253.98\n🧡 채널 할인 코드: TECHMONG15 / $51 할인 / 선착순 200장\n💳 토스뱅크 마스터카드/KB국민 비자카드로 결제 시 $22 추가할인\n✅ 최종가: 약 $180.98 (관세 별도)\n\n*$150이상 주문 시 관세가 발생합니다.\n※ 결제 시점 환율에 따라 금액이 달라질 수 있습니다.\n-\n\n📧 협업 문의: tcm_biz@techmong.co.kr\n\n🎶 Music\nSong: Elektronomia - Limitless [NCS Release]\nMusic provided by NoCopyrightSounds\nFree Download/Stream: http://ncs.io/Limitless\nWatch: http://youtu.be/cNcy3J4x62M",
+        "published_at": "2026-10-31T09:00:15Z",
+        "duration_seconds": 1920,
+        "view_count": 444300,
+        "like_count": 3140,
+        "comment_count": 422,
+        "engagement_rate": 0.008017105559306775,
+        "thumbnail_url": "https://i.ytimg.com/vi/6B__FK1EN8k/hqdefault.jpg",
+        "video_url": "https://www.youtube.com/watch?v=6B__FK1EN8k",
+        "format": "사례 분석",
+        "hook_type": "실험",
+        "title_pattern": "직접 실험 + 결과 공개",
+        "one_line_summary": "이 영상은 news 이슈를 사례 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+        "why_it_works": "실험 훅으로 관심을 끌고, 사례 분석 형식으로 내용을 빠르게 정리해 시청자가 '바로 써먹을 수 있다'고 느끼게 만듭니다.",
+        "recommendation": "훅 구조: 도입 15초 안에 '실험' 관점으로 문제를 못 박고, 왜 지금 봐야 하는지 먼저 선언합니다. • 복제할 포장 요소: 사례 분석 형식을 유지하되 news를 실제 사용 장면 1개와 결과 변화 2개로 더 좁혀 설명합니다. • 비어 있는 콘텐츠 영역: 'news가 내 작업 흐름에서 어디에 꽂히는가'를 사례 중심으로 보여주는 후속 영상이 비어 있습니다. • 추천 제목: news 이슈를 내 채널 관점으로 다시 정리해보자 • 썸네일 카피 힌트: news 지금 봐야 할 3가지",
+        "transcript_status": "failed",
+        "transcript_source": "none",
+        "transcript_language": "",
+        "transcript_text": "",
+        "analysis_date": "2026-11-01T02:05:32+00:00",
+        "channel_name": "테크몽 Techmong",
+        "topic_tags": [
+          "news"
+        ],
+        "keywords": [
+          "news",
+          "수십",
+          "개",
+          "제품",
+          "직접"
+        ],
+        "tools": [],
+        "flow": [
+          "처음 15초 안에 문제를 선명하게 정의하고 왜 지금 봐야 하는지 못 박는다.",
+          "중간 구간에서 툴, 사례, 비교 포인트를 빠르게 제시해 정보 밀도를 높인다.",
+          "마지막에는 시청자가 바로 따라할 수 있는 다음 액션과 적용 예시로 닫는다."
+        ],
+        "claims": [
+          "단순 소개보다 실제 사용 장면을 바로 보여주는 구조가 반응을 만든다.",
+          "큰 담론보다 작은 병목 하나를 해결해주는 포장 방식이 클릭으로 이어지기 쉽다."
+        ],
+        "transcript_highlights": [
+          "자막을 확보하지 못해 제목·댓글·메타데이터 기준으로 분석했습니다."
+        ],
+        "top_comments": [
+          {
+            "video_id": "6B__FK1EN8k",
+            "comment_id": "Ugz9QboFHixmb61DloJ4AaABAg",
+            "author": "@techmong",
+            "text": "⚠품절 or 코드 소진 건 업데이트 (11.2) ⚠\n\n*확인 중인 내용들\n👉유그린 무선마우스 - 스토어코드 소진되었습니다.\n👉Ulanzi D200X - 코드 소진되었습니다.\n👉Ulanzi MA02 - 제품 품절입니다.\n👉Ulanzi MA38 - 코드 소진되었습니다.\n👉Uwant M500 침구청소기 - 재입고 가능여부 확인 중\n\n*확인 완료\n👉Baseus 100W 차량용 충전기 - 5일에 700개 재입고 예정\n👉 Willed 모션 센서 조명 코드 - 2일 500개 재입고 예정\n👉샤오신패드 프로 13 - 2일 500개 재입고 예정\n\n품절 건이나 코드 소진에 대해서 문의가 많으신데요 😢\n해당 건은 알리에 요청하셔 수시로 보충하고 있습니다. (당장 구하려하신다면 취소 물량을 노려보세요..!)\n\n다만 언제 보충되지는지는 정확히 알려드리기는 어려운 점 양해 부탁드립니다.\n완전 품절인 건은 따로 표기해두겠습니다.\n-\n\n[ ⚠ 구매 전 꼭 확인해주세요 ]\n✔ 환율 변동으로 인해 가격은 구입 시점에 따라 약간 달라질 수 있습니다. (위안화 연동)\n✔ 옵션을 알맞게 선택하셨는지 확인해 주세요.\n✔ 댓글 가장 아래에 [자주 묻는 질문 및 주의사항] 적어두었습니다. 문의 전 꼭 읽어주세요.\n\n[ ⚠ 할인 코드는 어떻게 적용해요? ]\n✅  '🧡채널 할인 코드'만 있는 제품의 경우: 결제 창 '프로모션 코드' 란에 채널 할인 코드 입력 ➜ 적용\n✅  '⭐스토어 쿠폰'과 '🧡채널 할인 코드' 둘 다 있는 경우\n결제 창 '프로모션 코드'란에 스토어 할인 코드 입력 ➜ 적용 ➜ 채널 할인 코드 입력 ➜ 적용 \n✔ 결제 후 주문을 취소하셔도 이미 사용한 쿠폰은 복구되지 않으니 주의하세요.\n\n🧡테크몽 X AliExpress 11.11 광군제🧡\n진행기간: 11월 1일 00시 - 11월 18일 오후 23시 59분 (한국 시간)\n※ 최종가는 판매페이지 가격 - 채널 할인 코드 - 결제할인 기준입니다.\n※ 일부 상품은 위안화 기준이라 결제 시점 환율에 따라 금액이 달라질 수 있습니다.\n※ 할인 코드는 대문자 필수, 이벤트 한정 물량 완판시 조기 종료될 수 있습니다.\n\n\n[ 🎁 제품 리스트 ]\n\n1）Ugreen 무선 마우스 (옵션:Mouse)\n🔗 링크: https://s.click.aliexpress.com/e/_c3KNJB3Z\n💲 판매페이지 가격: $16.55\n⭐ 스토어 쿠폰:  KR45792 (대문자 필수) / $2 할인\n🧡 채널 할인 코드: TECHMONG01 / $2.5 할인 / 선착순 2500장\n✅ 최종가: 약 $12.05\n※ 결제 시점 환율에 따라 금액이 달라질 수 있습니다.\n\n2）Ulanzi D200X 크리에이티브 덱 (옵션:D200X)\n🔗 링크: https://s.click.aliexpress.com/e/_c3kVZbSX\n💲 판매페이지 가격: $77.85\n🧡 채널 할인 코드: TECHMONG02 / $15 할인 / 선착순 500장\n💳우리 마스터카드로 결제 시 $9 추가할인\n✅ 최종가: 약 $53.85\n※ 결제 시점 환율에 따라 금액이 달라질 수 있습니다.\n\n3）Mchose V9 터보+ 무선 게이밍 헤드셋 (옵션:V9 Turbo plus black)\n🔗 링크: https://s.click.aliexpress.com/e/_c4sG2dqP\n💲 판매페이지 가격: $72.88\n🧡 채널 할인 코드: TECHMONG03 / $18 할인 / 선착순 800장\n✅ 최종가: 약 $54.88\n※ 결제 시점 환율에 따라 금액이 달라질 수 있습니다.\n\n4）Aulumu 5in1 G05 에어 (옵션:Black)\n🔗 링크: https://s.click.aliexpress.com/e/_c4PiictZ\n💲 판매페이지 가격: $22.67\n⭐ 스토어 쿠폰:  WPGYAB0S9MLC (대문자 필수) / $2 할인\n🧡 채널 할인 코드: TECHMONG04 / $4 할인 / 선착순 2000장\n✅ 최종가: 약 $16.67\n※ 결제 시점 환율에 따라 금액이 달라질 수 있습니다.\n\n5）Ulanzi MA02 마그네틱 스탠드 (옵션:MA02)\n🔗 링크: https://s.click.aliexpress.com/e/_c2RxlpGj\n💲 판매페이지 가격: $10.12\n🧡 채널 할인 코드: TECHMONG05 / $2 할인 / 선착순 2000장\n✅ 최종가: 약 $8.12\n※ 결제 시점 환율에 따라 금액이 달라질 수 있습니다.\n\n6）Ulanzi MA38 마그네틱 스탠드 (옵션:MA38)\n🔗 링크: https://s.click.aliexpress.com/e/_c4V1ZCAT\n💲 판매페이지 가격: $21.27\n🧡 채널 할인 코드: TECHMONG06 / $4 할인 / 선착순 1000장\n✅ 최종가: 약 $17.27\n※ 결제 시점 환율에 따라 금액이 달라질 수 있습니다.\n\n7）Ugreen 200W GaN 충전기 (옵션:KR GaN 200W)\n🔗 링크: https://s.click.aliexpress.com/e/_c3yPNYPl\n💲 판매페이지 가격: $50.29\n⭐ 스토어 쿠폰:  KRNOV01 (대문자 필수) / $5 할인\n🧡 채널 할인 코드: TECHMONG07 / $9 할인 / 선착순 300장\n✅ 최종가: 약 $36.29\n※ 결제 시점 환율에 따라 금액이 달라질 수 있습니다.\n\n8）Ugreen Nexode Pro 200W 보조배터리 (옵션:하얀색)\n🔗 링크: https://s.click.aliexpress.com/e/_c4PKljSn\n💲 판매페이지 가격: $85.97\n⭐ 스토어 즉시 할인: $2 할인\n⭐ 스토어 쿠폰:  NEXP16 (대문자 필수) / $16 할인\n🧡 채널 할인 코드: TECHMONG08 / $13.5 할인 / 선착순 500장\n✅ 최종가: 약 $54.47\n※ 결제 시점 환율에 따라 금액이 달라질 수 있습니다.\n\n9）Baseus 100W 차량용 충전기 (옵션:100W Black) (⚠옵션 선택 주의)\n🔗 링크: https://s.click.aliexpress.com/e/_c4FR2IaT\n💲 판매페이지 가격: $27.35\n⭐ 스토어 쿠폰:  KRVR11 (대문자 필수) / $3 할인\n🧡 채널 할인 코드: TECHMONG09 / $4.5 할인 / 선착순 1000장\n✅ 최종가: 약 $19.85\n※ 결제 시점 환율에 따라 금액이 달라질 수 있습니다.\n\n10）Ugreen 파인트랙 2\n🔗 링크: https://s.click.aliexpress.com/e/_c3sz3BR1\n\n[ 옵션: 1-pack ]\n💲 판매페이지 가격: $15.67\n⭐ 스토어 쿠폰:  TK9967 (대문자 필수) / $4 할인\n🧡 채널 할인 코드: TECHMONG10 / $2 할인 / 선착순 1000장\n✅ 최종가: 약 $9.67\n\n[ 옵션: 2-pack ]\n💲 판매페이지 가격: $27.61\n⭐ 스토어 쿠폰:  TK9968 (대문자 필수) / $6 할인\n🧡 채널 할인 코드: TECHMONG11 / $4 할인 / 선착순 1000장\n✅ 최종가: 약 $17.61\n\n\n11）Uwant M500 침구 청소기\n🔗 링크: https://s.click.aliexpress.com/e/_c3uVo1ef\n💲 판매페이지 가격:  $36.63\n🧡 채널 할인 코드: TECHMONG12 / $8.5 할인 / 선착순 500장\n✅ 최종가: 약 $28.13\n※ 결제 시점 환율에 따라 금액이 달라질 수 있습니다.\n\n12）Xiaomi 사운드 파티 블루투스 스피커 (옵션:검정색)\n🔗 링크: https://s.click.aliexpress.com/e/_c3soEMGR\n💲 판매페이지 가격:  $82.97\n⭐ 스토어 쿠폰:  NHFLYQRZTKNQ (대문자 필수) / $2 할인\n🧡 채널 할인 코드: TECHMONG13 / $10.5 할인 / 선착순 700장\n💳 롯데 비자카드로 결제 시 $14 추가할인\n✅ 최종가: 약 $56.47\n※ 결제 시점 환율에 따라 금액이 달라질 수 있습니다.\n\n13）Willed 모션 센서 조명 (옵션:Warm Light 2PCS)\n🔗 링크: https://s.click.aliexpress.com/e/_c4TO1oXl\n💲 판매페이지 가격:  $12.43\n🧡 채널 할인 코드: TECHMONG14 / $3 할인 / 선착순 300장\n✅ 최종가: 약 $9.43\n※ 결제 시점 환율에 따라 금액이 달라질 수 있습니다.\n\n14）샤오신 패드 프로 13인치 (옵션:8GB 128GB Grey)\n🔗 링크: https://s.click.aliexpress.com/e/_c4eoFBp5\n💲 판매페이지 가격: $253.98\n🧡 채널 할인 코드: TECHMONG15 / $51 할인 / 선착순 200장\n💳 토스뱅크 마스터카드/KB국민 비자카드로 결제 시 $22 추가할인\n✅ 최종가: 약 $180.98 (관세 별도)\n\n*$150이상 주문 시 관세가 발생합니다.\n※ 결제 시점 환율에 따라 금액이 달라질 수 있습니다.\n-\n\n[❓자주 묻는 질문 및 주의사항 ]\n\nQ1. 해당 주소로 발송되지 않는다고 뜹니다. 할인 코드가 적용되지 않습니다. (오류메시지가 뜹니다)\n👉 품절되거나, 코드가 모두 소진되었거나, 잘못된 번호를 입력할 시 오류 메시지가 뜹니다.\n\nQ2. 일회성 코드라고 뜹니다.\n👉 코드를 잘못 입력하실 경우 뜹니다. 영문 O와 숫자 0을 바꿔 입력하셨는지 등 확인해주세요.\n예) 테크몽 할인 코드의 경우 TECHMONG(영어)+00(숫자 두자리)로 구성되어 있습니다.\n\nQ3. 링크의 가격이 올랐어요.\n👉  준비된 기본 수량이 완판되면 상세페이지 가격도 오른다고 합니다. 할인 코드는 알리에게 요청해 추가 발급드릴 수 있지만, 초창기보다 가격이 약간 오를 수 있다는 점은 감안 부탁드립니다.\n\nQ4. 잘못된 제품이 왔어요! or 배송일이 너무 지났는데 안와요.\n👉  알리 고객센터 or 판매처를 통해 문의하면 어렵지 않게 처리 가능합니다.\n\nQ5. 여러 종류의 제품을 구입할 경우, 결제창에서 한꺼번에 할인코드를 적용할 수 있나요?\n👉 제품마다 할인코드가 다릅니다. 서로 다른 제품을 장바구니에 함께 담아 여러 할인코드를 한 번에 적용할 수 없으니, 제품별로 각각 결제해주세요.\n\nQ6. 제품 교환이 가능한가요?\n👉 직구 특성상, 해외 발송 제품의 경우 교환이 어렵습니다. 대신 환불은 가능하니 불만족하시거나 불량일 경우, 사진이나 영상을 첨부하여 판매자에게 요청하시면 됩니다.",
+            "like_count": 325,
+            "reply_count": 27,
+            "published_at": "2026-10-30T11:44:02Z"
+          },
+          {
+            "video_id": "6B__FK1EN8k",
+            "comment_id": "UgwGGdD508Imf7gEjxl4AaABAg",
+            "author": "@rlwjdeh",
+            "text": "이번에 엄청 고민하시고 제품 고른게 티가나네요. 광군제라서 여러 유투버들 공구보는데 죄다 똑같아서 그닥 사고싶은게 없었는데 이분은 정성스럽게 강추제품부터 다양하게 준비하셨네요. 구독할게요.",
+            "like_count": 36,
+            "reply_count": 0,
+            "published_at": "2026-10-31T09:51:18Z"
+          },
+          {
+            "video_id": "6B__FK1EN8k",
+            "comment_id": "UgzOppHJVVtsBzyWmXN4AaABAg",
+            "author": "@린데그만",
+            "text": "알리 광군제 영상 특이 태블릿 / 보조배터리 / 충전기 / 케이블 도배인데 테크몽님 영상은 매번 새로운 제품이 끼어있어서 좋아요\n8월달에 추천해주신 동작감지등 원룸에서 잘 쓰고 있습니다. 이번에도 들어갔네요 ㅋㅋ",
+            "like_count": 11,
+            "reply_count": 0,
+            "published_at": "2026-10-31T09:13:26Z"
+          },
+          {
+            "video_id": "6B__FK1EN8k",
+            "comment_id": "UgwXGCM50cAasUddq_14AaABAg",
+            "author": "@진국00",
+            "text": "크몽이형 생일 축하해~ 선댓글 달고 영상 봐야지",
+            "like_count": 5,
+            "reply_count": 0,
+            "published_at": "2026-10-31T12:23:12Z"
+          },
+          {
+            "video_id": "6B__FK1EN8k",
+            "comment_id": "UgxnxKKtxkzwYzWp9cp4AaABAg",
+            "author": "@molluhaG",
+            "text": "우왕 테크몽님 광군제 영상 왜 안 올라오지?? 하고 아까 기웃기웃 거렸는데 드뎌 올라왔네요~",
+            "like_count": 3,
+            "reply_count": 0,
+            "published_at": "2026-10-31T09:02:56Z"
+          }
+        ]
+      },
+      {
+        "video_id": "fiwVLMiCk6c",
+        "channel_key": "ucxj3evtav9kldrowxcucfdq",
+        "title": "만드는 비용이 0이 되자 쓸 만한 앱이 더 귀해졌습니다",
+        "description": "풀영상 👉 https://youtu.be/nw65VO2tVfs",
+        "published_at": "2026-10-31T09:00:06Z",
+        "duration_seconds": 42,
+        "view_count": 3037,
+        "like_count": 26,
+        "comment_count": 2,
+        "engagement_rate": 0.009219624629568653,
+        "thumbnail_url": "https://i.ytimg.com/vi/fiwVLMiCk6c/hqdefault.jpg",
+        "video_url": "https://www.youtube.com/watch?v=fiwVLMiCk6c",
+        "format": "뉴스 분석",
+        "hook_type": "문제 해결",
+        "title_pattern": "핵심 포인트 직설형",
+        "one_line_summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+        "why_it_works": "문제 해결 훅으로 관심을 끌고, 뉴스 분석 형식으로 내용을 빠르게 정리해 시청자가 '바로 써먹을 수 있다'고 느끼게 만듭니다.",
+        "recommendation": "훅 구조: 도입 15초 안에 '문제 해결' 관점으로 문제를 못 박고, 왜 지금 봐야 하는지 먼저 선언합니다. • 복제할 포장 요소: 뉴스 분석 형식을 유지하되 뉴스 분석를 실제 사용 장면 1개와 결과 변화 2개로 더 좁혀 설명합니다. • 비어 있는 콘텐츠 영역: '뉴스 분석가 내 작업 흐름에서 어디에 꽂히는가'를 사례 중심으로 보여주는 후속 영상이 비어 있습니다. • 추천 제목: 뉴스 분석 이슈를 내 채널 관점으로 다시 정리해보자 • 썸네일 카피 힌트: 뉴스 분석 지금 봐야 할 3가지",
+        "transcript_status": "failed",
+        "transcript_source": "none",
+        "transcript_language": "",
+        "transcript_text": "",
+        "analysis_date": "2026-11-01T02:05:39+00:00",
+        "channel_name": "빌더 조쉬 Builder Josh",
+        "topic_tags": [],
+        "keywords": [
+          "만드는",
+          "비용이",
+          "0이",
+          "되자"
+        ],
+        "tools": [],
+        "flow": [
+          "처음 15초 안에 문제를 선명하게 정의하고 왜 지금 봐야 하는지 못 박는다.",
+          "중간 구간에서 툴, 사례, 비교 포인트를 빠르게 제시해 정보 밀도를 높인다.",
+          "마지막에는 시청자가 바로 따라할 수 있는 다음 액션과 적용 예시로 닫는다."
+        ],
+        "claims": [
+          "단순 소개보다 실제 사용 장면을 바로 보여주는 구조가 반응을 만든다.",
+          "큰 담론보다 작은 병목 하나를 해결해주는 포장 방식이 클릭으로 이어지기 쉽다."
+        ],
+        "transcript_highlights": [
+          "풀영상 👉 https://youtu.be/nw65VO2tVfs"
+        ],
+        "top_comments": [
+          {
+            "video_id": "fiwVLMiCk6c",
+            "comment_id": "Ugw-VqG5RwkaSyOsQcl4AaABAg",
+            "author": "@RAON1219",
+            "text": "PO님 진짜 멋지신분!",
+            "like_count": 0,
+            "reply_count": 1,
+            "published_at": "2026-10-31T14:01:09Z"
+          }
+        ]
+      },
+      {
+        "video_id": "Bfo_GZWfRVo",
+        "channel_key": "uced3hlydd0slcff7jj8tf3q",
+        "title": "One AI character, three outfits #aivideo #seedance",
+        "description": "Each outfit gets its own 360 video reference, and the cheek plating and chrome arm stay on the same sides every time.\nFull video: https://www.youtube.com/watch?v=v-r-SWMiRo4&sub_confirmation=1\n\n💼 Business inquiries aisamsoninfo@gmail.com\n📧 Join my newsletter https://delightfuldesign.eo.page/w7tf5",
+        "published_at": "2026-10-31T07:43:48Z",
+        "duration_seconds": 11,
+        "view_count": 1287,
+        "like_count": 7,
+        "comment_count": 2,
+        "engagement_rate": 0.006993006993006993,
+        "thumbnail_url": "https://i.ytimg.com/vi/Bfo_GZWfRVo/hqdefault.jpg",
+        "video_url": "https://www.youtube.com/watch?v=Bfo_GZWfRVo",
+        "format": "뉴스 분석",
+        "hook_type": "문제 해결",
+        "title_pattern": "핵심 포인트 직설형",
+        "one_line_summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+        "why_it_works": "문제 해결 훅으로 관심을 끌고, 뉴스 분석 형식으로 내용을 빠르게 정리해 시청자가 '바로 써먹을 수 있다'고 느끼게 만듭니다.",
+        "recommendation": "훅 구조: 도입 15초 안에 '문제 해결' 관점으로 문제를 못 박고, 왜 지금 봐야 하는지 먼저 선언합니다. • 복제할 포장 요소: 뉴스 분석 형식을 유지하되 뉴스 분석를 실제 사용 장면 1개와 결과 변화 2개로 더 좁혀 설명합니다. • 비어 있는 콘텐츠 영역: '뉴스 분석가 내 작업 흐름에서 어디에 꽂히는가'를 사례 중심으로 보여주는 후속 영상이 비어 있습니다. • 추천 제목: 뉴스 분석 이슈를 내 채널 관점으로 다시 정리해보자 • 썸네일 카피 힌트: 뉴스 분석 지금 봐야 할 3가지",
+        "transcript_status": "failed",
+        "transcript_source": "none",
+        "transcript_language": "",
+        "transcript_text": "",
+        "analysis_date": "2026-11-01T02:05:35+00:00",
+        "channel_name": "AI Samson",
+        "topic_tags": [],
+        "keywords": [
+          "One",
+          "AI",
+          "character",
+          "three"
+        ],
+        "tools": [],
+        "flow": [
+          "처음 15초 안에 문제를 선명하게 정의하고 왜 지금 봐야 하는지 못 박는다.",
+          "중간 구간에서 툴, 사례, 비교 포인트를 빠르게 제시해 정보 밀도를 높인다.",
+          "마지막에는 시청자가 바로 따라할 수 있는 다음 액션과 적용 예시로 닫는다."
+        ],
+        "claims": [
+          "단순 소개보다 실제 사용 장면을 바로 보여주는 구조가 반응을 만든다.",
+          "큰 담론보다 작은 병목 하나를 해결해주는 포장 방식이 클릭으로 이어지기 쉽다."
+        ],
+        "transcript_highlights": [
+          "자막을 확보하지 못해 제목·댓글·메타데이터 기준으로 분석했습니다."
+        ],
+        "top_comments": [
+          {
+            "video_id": "Bfo_GZWfRVo",
+            "comment_id": "UgxPBPMjfaPyiXXII9x4AaABAg",
+            "author": "@axellno1759",
+            "text": "This was a great video. How long before this could be an automatic standard, and it doesn't require the extra steps from the user.",
+            "like_count": 0,
+            "reply_count": 0,
+            "published_at": "2026-10-31T23:40:27Z"
+          },
+          {
+            "video_id": "Bfo_GZWfRVo",
+            "comment_id": "UgzxW_AbbekIWWWRibp4AaABAg",
+            "author": "@hakunamatata7941",
+            "text": "The second :P",
+            "like_count": 0,
+            "reply_count": 0,
+            "published_at": "2026-10-31T09:05:10Z"
+          }
+        ]
+      },
+      {
+        "video_id": "pqFFpYYBD0Q",
+        "channel_key": "uced3hlydd0slcff7jj8tf3q",
+        "title": "Same 360 prompt, three AI video models #aivideo #seedance",
+        "description": "The same 360 turntable prompt on Seedance 2.5, MiniMax H3 and Kling 4.\nFull video: https://www.youtube.com/watch?v=v-r-SWMiRo4&sub_confirmation=1\n\n💼 Business inquiries aisamsoninfo@gmail.com\n📧 Join my newsletter https://delightfuldesign.eo.page/w7tf5",
+        "published_at": "2026-10-31T07:41:50Z",
+        "duration_seconds": 11,
+        "view_count": 1390,
+        "like_count": 26,
+        "comment_count": 11,
+        "engagement_rate": 0.026618705035971222,
+        "thumbnail_url": "https://i.ytimg.com/vi/pqFFpYYBD0Q/hqdefault.jpg",
+        "video_url": "https://www.youtube.com/watch?v=pqFFpYYBD0Q",
+        "format": "뉴스 분석",
+        "hook_type": "문제 해결",
+        "title_pattern": "핵심 포인트 직설형",
+        "one_line_summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+        "why_it_works": "문제 해결 훅으로 관심을 끌고, 뉴스 분석 형식으로 내용을 빠르게 정리해 시청자가 '바로 써먹을 수 있다'고 느끼게 만듭니다.",
+        "recommendation": "훅 구조: 도입 15초 안에 '문제 해결' 관점으로 문제를 못 박고, 왜 지금 봐야 하는지 먼저 선언합니다. • 복제할 포장 요소: 뉴스 분석 형식을 유지하되 뉴스 분석를 실제 사용 장면 1개와 결과 변화 2개로 더 좁혀 설명합니다. • 비어 있는 콘텐츠 영역: '뉴스 분석가 내 작업 흐름에서 어디에 꽂히는가'를 사례 중심으로 보여주는 후속 영상이 비어 있습니다. • 추천 제목: 뉴스 분석 이슈를 내 채널 관점으로 다시 정리해보자 • 썸네일 카피 힌트: 뉴스 분석 지금 봐야 할 3가지",
+        "transcript_status": "failed",
+        "transcript_source": "none",
+        "transcript_language": "",
+        "transcript_text": "",
+        "analysis_date": "2026-11-01T02:05:36+00:00",
+        "channel_name": "AI Samson",
+        "topic_tags": [],
+        "keywords": [
+          "Same",
+          "360",
+          "prompt",
+          "three"
+        ],
+        "tools": [],
+        "flow": [
+          "처음 15초 안에 문제를 선명하게 정의하고 왜 지금 봐야 하는지 못 박는다.",
+          "중간 구간에서 툴, 사례, 비교 포인트를 빠르게 제시해 정보 밀도를 높인다.",
+          "마지막에는 시청자가 바로 따라할 수 있는 다음 액션과 적용 예시로 닫는다."
+        ],
+        "claims": [
+          "단순 소개보다 실제 사용 장면을 바로 보여주는 구조가 반응을 만든다.",
+          "큰 담론보다 작은 병목 하나를 해결해주는 포장 방식이 클릭으로 이어지기 쉽다."
+        ],
+        "transcript_highlights": [
+          "자막을 확보하지 못해 제목·댓글·메타데이터 기준으로 분석했습니다."
+        ],
+        "top_comments": [
+          {
+            "video_id": "pqFFpYYBD0Q",
+            "comment_id": "Ugy4YC5oCbDQ7knZSz54AaABAg",
+            "author": "@jeancaceres7670",
+            "text": "Unfortunately the text is covering the face of the full body shot, but looking at the close ups, beside which is more consistent to the original idea/character design, it seems like the Minimax is the one that best understood that it is a hybrid creature, while seedance (judging by the back view) sees it like an outfit/cosplay, and the Kling version forgets the vertical division on the back view.",
+            "like_count": 0,
+            "reply_count": 1,
+            "published_at": "2026-10-31T12:06:15Z"
+          },
+          {
+            "video_id": "pqFFpYYBD0Q",
+            "comment_id": "Ugz_X6BOq-l75rHuw5Z4AaABAg",
+            "author": "@ldevs430",
+            "text": "All did well but for other prompts, Seedance wipes the floor with them. Also side note: I hate Chat GPT uses the same woman's face for all female characters. It's a tell tale sign",
+            "like_count": 0,
+            "reply_count": 1,
+            "published_at": "2026-10-31T10:19:36Z"
+          },
+          {
+            "video_id": "pqFFpYYBD0Q",
+            "comment_id": "UgzXU4HRwTCWyjPaKWd4AaABAg",
+            "author": "@DreamfightAI",
+            "text": "Did you share the prompt for this one?",
+            "like_count": 0,
+            "reply_count": 0,
+            "published_at": "2026-10-31T22:02:43Z"
+          },
+          {
+            "video_id": "pqFFpYYBD0Q",
+            "comment_id": "UgwSVgfdoX9_17hqU7B4AaABAg",
+            "author": "@carlospoupa783",
+            "text": "Yet, the duration of the rotations (so, also  the cost...) is different. Right?\nKling 5 seconds? Mnimax 10 seconds? Seedance 12 seconds? \nConsequences of this?",
+            "like_count": 0,
+            "reply_count": 0,
+            "published_at": "2026-10-31T19:57:12Z"
+          },
+          {
+            "video_id": "pqFFpYYBD0Q",
+            "comment_id": "UgxxT-ygKxPTXmYVfph4AaABAg",
+            "author": "@hakunamatata7941",
+            "text": "Kling nailed it 😂",
+            "like_count": 0,
+            "reply_count": 0,
+            "published_at": "2026-10-31T15:23:55Z"
+          }
+        ]
+      },
+      {
+        "video_id": "us2vE0lHiwk",
+        "channel_key": "ucnkdlskirtttornjvklo1aq",
+        "title": "클링 AI, 30만원 태워서 전부 비교했습니다 (클링 vs 시댄스)",
+        "description": "지금 Artlist에서 Kling 4.0을 사용해 보세요:\n\nhttps://artlist.io/artlist-70446/?artlist_aid=DBDONGTECH_3766&utm_source=affiliate_p&utm_medium=DBDONGTECH_3766&utm_campaign=DBDONGTECH_3766\n\n클링 4 vs 시댄스 2.5, 가격은 네 배 차이.\n그럼 결과도 네 배 차이 날까요?\n제가 대신 토큰 써서 테스트했습니다.\n\n이번 영상에서는\n\n✔️ 액션 — 비 오는 밤 주차장 맨몸 격투\n✔️ 상황 이해력 — 날아다니는 로드스터 한강 주차\n✔️ 연기 — 고백 웹드라마, 퇴근길 만원버스\n✔️ 대사 표현력 — 판타지 여행 가이드\n✔️ 춤 — 안무 그대로 따라 하기\n✔️ 제품 일관성 — 불닭볶음면 컵 광고\n\n까지 직접 크레딧 날려 가며 비교했습니다.\n\n⏱ 타임라인\n0:00 도입\n0:48 제작 과정 · 아트리스트\n1:22 액션\n4:14 상황 이해력 (한강 · 고백 · 만원버스)\n9:20 대사 표현력\n10:30 춤\n11:09 제품 일관성\n12:26 정리\n\n동테크 응원하기!\nhttps://www.youtube.com/channel/UCNkdLSKIRtTtoRNjvkLO1aQ/join\n\n교육/협업 문의\nwns0255@gmail.com\n\n구독하기\nhttps://www.youtube.com/channel/UCNkdLSKIRtTtoRNjvkLO1aQ\n\n※ 로드스터 시연 장면 출처: Tesla\n\n#클링 #시댄스 #AI영상 #아트리스트 #클링4 #시댄스2.5 #AI영상비교",
+        "published_at": "2026-10-31T04:00:30Z",
+        "duration_seconds": 796,
+        "view_count": 127,
+        "like_count": 6,
+        "comment_count": 4,
+        "engagement_rate": 0.07874015748031496,
+        "thumbnail_url": "https://i.ytimg.com/vi/us2vE0lHiwk/hqdefault.jpg",
+        "video_url": "https://www.youtube.com/watch?v=us2vE0lHiwk",
+        "format": "비교",
+        "hook_type": "비교",
+        "title_pattern": "OO AI vs OO AI, OO만원 태워서 전부 비교했습니다",
+        "one_line_summary": "30만원 상당의 크레딧을 투자해 Kling AI와 Pika Labs의 영상 생성 품질을 다양한 상황별로 직접 비교 분석했습니다.",
+        "why_it_works": "AI 영상 생성 툴의 실제 성능을 소비자가 직접 돈을 써가며 비교하는 '리얼 실험' 형식으로, 타겟 시청자들이 궁금해할 만한 '가격 대비 성능'에 대한 명확한 답을 제시합니다. 특히 일상적이거나 창의적인 다양한 시나리오 테스트를 통해 일반인도 쉽게 이해하고 결과에 공감할 수 있도록 구성했습니다.",
+        "recommendation": "• Kling vs Pika Labs, '가격 대비 성능' VS '특정 기능 극대화'로 VS 비교 각도 설정 • '일상 속 AI 활용' 콘셉트로, '만원 버스 안에서 AI로 영상 만들기', '출퇴근길 AI 생성' 등 생활 밀착형 실험 구도 제안 • 아직 시도되지 않은 'AI가 만든 영상으로 챌린지 진행' 또는 'AI 영상으로 짧은 다큐멘터리 제작' 등 대결 콘텐츠 영역 탐색 • 실제 창작자의 입장에서 'AI 툴 선택 가이드'를 실험 결과에 기반해 명확히 제시 • 'AI 영상, 무엇이든 물어보세요' 코너를 통해 시청자 질문 기반의 추가 테스트 진행",
+        "transcript_status": "failed",
+        "transcript_source": "none",
+        "transcript_language": "",
+        "transcript_text": "",
+        "analysis_date": "2026-11-01T02:05:39+00:00",
+        "channel_name": "동테크",
+        "topic_tags": [
+          "AI영상생성",
+          "AI툴비교",
+          "Kling",
+          "PikaLabs",
+          "AI기술",
+          "AI영상"
+        ],
+        "keywords": [
+          "AI영상",
+          "클링",
+          "시댄스",
+          "AI영상비교",
+          "AI툴",
+          "아트리스트",
+          "Kling4.0",
+          "PikaLabs2.5"
+        ],
+        "tools": [],
+        "flow": [
+          "AI 툴 소개 및 비교 대상 명확화 (Kling vs Pika Labs)",
+          "비용(크레딧) 및 가격 정책 비교",
+          "다양한 테스트 시나리오 제시 (액션, 상황 이해, 연기, 대사, 춤, 제품 광고 등)",
+          "각 시나리오별 AI 툴의 결과물 직접 비교 시연",
+          "테스트 결과 종합 및 각 툴의 장단점 분석"
+        ],
+        "claims": [
+          "Kling AI와 Pika Labs는 가격 차이가 상당하지만, 결과물의 품질 차이가 반드시 비례하는 것은 아니다.",
+          "Kling AI는 특정 시나리오(예: 액션, 연기)에서 Pika Labs보다 더 나은 일관성과 디테일을 보여준다.",
+          "Pika Labs는 상황 이해력이나 창의적인 재해석 측면에서 강점을 가질 수 있다.",
+          "AI 영상 생성 툴 선택은 단순히 가격이나 기능 나열이 아닌, 실제 사용 목적과 시나리오에 따라 달라진다.",
+          "AI 영상 제작 비용은 크레딧 소진 방식으로, 신중한 테스트가 필요하다."
+        ],
+        "transcript_highlights": [
+          "자막을 확보하지 못해 제목·댓글·메타데이터 기준으로 분석했습니다."
+        ],
+        "top_comments": [
+          {
+            "video_id": "us2vE0lHiwk",
+            "comment_id": "UgxpqN3wnx59KGgpe-R4AaABAg",
+            "author": "@아랑-l5u",
+            "text": "이야. ㅎㅎ",
+            "like_count": 0,
+            "reply_count": 0,
+            "published_at": "2026-10-31T12:54:32Z"
+          },
+          {
+            "video_id": "us2vE0lHiwk",
+            "comment_id": "Ugy8HpOe8RjbeoN3W4h4AaABAg",
+            "author": "@Wisdom_Kim_1004",
+            "text": "광고는 역시 클링!? ㅎㅎ",
+            "like_count": 0,
+            "reply_count": 0,
+            "published_at": "2026-10-31T12:09:23Z"
+          },
+          {
+            "video_id": "us2vE0lHiwk",
+            "comment_id": "UgxExrjkUR9pOoglFzJ4AaABAg",
+            "author": "@hinjiroffffff",
+            "text": "잘 활용해보겠습니다 좋은 영상 감사해요!",
+            "like_count": 0,
+            "reply_count": 0,
+            "published_at": "2026-10-31T05:17:44Z"
+          },
+          {
+            "video_id": "us2vE0lHiwk",
+            "comment_id": "UgyBpFgn70UCUxv0u6l4AaABAg",
+            "author": "@dongtech2024",
+            "text": "지금 Artlist에서 Kling 4.0을 사용해 보세요:\n\nhttps://artlist.io/artlist-70446/?artlist_aid=DBDONGTECH_3766&utm_source=affiliate_p&utm_medium=DBDONGTECH_3766&utm_campaign=DBDONGTECH_3766\n\n연간 플랜을 구매하시면 2개월을 추가로 무료 제공받고, 일부 AI 모델을 무제한으로 이용하실 수 있습니다!\n\n📌 영상 속 프롬프트 전문 👉 https://earthy-mile-a8d.notion.site/409b4ddff08a81269ed6c03a19d57659",
+            "like_count": 0,
+            "reply_count": 0,
+            "published_at": "2026-10-30T16:25:24Z"
+          }
+        ]
+      },
+      {
+        "video_id": "NqKN9snFplo",
+        "channel_key": "ucxj3evtav9kldrowxcucfdq",
+        "title": "미니앱 5천 개 돌파 뒤 박수를 매일 치게 됐습니다",
+        "description": "풀영상 👉 https://youtu.be/nw65VO2tVfs",
+        "published_at": "2026-10-31T03:00:14Z",
+        "duration_seconds": 56,
+        "view_count": 1053,
+        "like_count": 8,
+        "comment_count": 0,
+        "engagement_rate": 0.007597340930674264,
+        "thumbnail_url": "https://i.ytimg.com/vi/NqKN9snFplo/hqdefault.jpg",
+        "video_url": "https://www.youtube.com/watch?v=NqKN9snFplo",
+        "format": "뉴스 분석",
+        "hook_type": "문제 해결",
+        "title_pattern": "핵심 포인트 직설형",
+        "one_line_summary": "이 영상은 뉴스 분석 이슈를 뉴스 분석 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+        "why_it_works": "문제 해결 훅으로 관심을 끌고, 뉴스 분석 형식으로 내용을 빠르게 정리해 시청자가 '바로 써먹을 수 있다'고 느끼게 만듭니다.",
+        "recommendation": "훅 구조: 도입 15초 안에 '문제 해결' 관점으로 문제를 못 박고, 왜 지금 봐야 하는지 먼저 선언합니다. • 복제할 포장 요소: 뉴스 분석 형식을 유지하되 뉴스 분석를 실제 사용 장면 1개와 결과 변화 2개로 더 좁혀 설명합니다. • 비어 있는 콘텐츠 영역: '뉴스 분석가 내 작업 흐름에서 어디에 꽂히는가'를 사례 중심으로 보여주는 후속 영상이 비어 있습니다. • 추천 제목: 뉴스 분석 이슈를 내 채널 관점으로 다시 정리해보자 • 썸네일 카피 힌트: 뉴스 분석 지금 봐야 할 3가지",
+        "transcript_status": "failed",
+        "transcript_source": "none",
+        "transcript_language": "",
+        "transcript_text": "",
+        "analysis_date": "2026-11-01T02:05:39+00:00",
+        "channel_name": "빌더 조쉬 Builder Josh",
+        "topic_tags": [],
+        "keywords": [
+          "미니앱",
+          "5천",
+          "개",
+          "돌파"
+        ],
+        "tools": [],
+        "flow": [
+          "처음 15초 안에 문제를 선명하게 정의하고 왜 지금 봐야 하는지 못 박는다.",
+          "중간 구간에서 툴, 사례, 비교 포인트를 빠르게 제시해 정보 밀도를 높인다.",
+          "마지막에는 시청자가 바로 따라할 수 있는 다음 액션과 적용 예시로 닫는다."
+        ],
+        "claims": [
+          "단순 소개보다 실제 사용 장면을 바로 보여주는 구조가 반응을 만든다.",
+          "큰 담론보다 작은 병목 하나를 해결해주는 포장 방식이 클릭으로 이어지기 쉽다."
+        ],
+        "transcript_highlights": [
+          "풀영상 👉 https://youtu.be/nw65VO2tVfs"
+        ],
+        "top_comments": []
+      },
+      {
+        "video_id": "SdXqSqwk620",
+        "channel_key": "ucqne2jmbasnybjgacubirrg",
+        "title": "AI한테 버튼 하나 부탁했을 뿐인데",
+        "description": "조코딩의 바이브 코딩 1인 창업 책: https://www.yes24.com/product/goods/189855418\nAX 컨설팅 및 교육 문의: https://jocodingax.ai\n조코헌트: https://jocohunt.jocoding.io/\n\nVVIP 멤버십 후원\n그림자그림자님, 차딩Chading TV님, Sicongbabe님, 정진균님, Tae hwan Kim님, 시원-r9u님, YCN유림방송님, 그래머피티님, GomnaStudio님, 천사슥님, 예스타님, shintony667님, bellati272님, happypink81님, kogurean9님 감사드립니다.\nhttps://www.youtube.com/@jocoding/join\n\n#ai #개발자 #코딩 #조코딩",
+        "published_at": "2026-10-31T02:57:06Z",
+        "duration_seconds": 21,
+        "view_count": 22940,
+        "like_count": 170,
+        "comment_count": 19,
+        "engagement_rate": 0.008238884045335659,
+        "thumbnail_url": "https://i.ytimg.com/vi/SdXqSqwk620/hqdefault.jpg",
+        "video_url": "https://www.youtube.com/watch?v=SdXqSqwk620",
+        "format": "빌드 데모",
+        "hook_type": "문제 해결",
+        "title_pattern": "툴 조합 + 압축 약속",
+        "one_line_summary": "이 영상은 agents 이슈를 빌드 데모 포맷으로 압축해, 지금 왜 봐야 하는지와 실제 활용 맥락을 함께 보여줍니다.",
+        "why_it_works": "문제 해결 훅으로 관심을 끌고, 빌드 데모 형식으로 내용을 빠르게 정리해 시청자가 '바로 써먹을 수 있다'고 느끼게 만듭니다.",
+        "recommendation": "훅 구조: 도입 15초 안에 '문제 해결' 관점으로 문제를 못 박고, 왜 지금 봐야 하는지 먼저 선언합니다. • 복제할 포장 요소: 빌드 데모 형식을 유지하되 agents를 실제 사용 장면 1개와 결과 변화 2개로 더 좁혀 설명합니다. • 비어 있는 콘텐츠 영역: 'agents가 내 작업 흐름에서 어디에 꽂히는가'를 사례 중심으로 보여주는 후속 영상이 비어 있습니다. • 추천 제목: agents 이슈를 내 채널 관점으로 다시 정리해보자 • 썸네일 카피 힌트: agents 지금 봐야 할 3가지",
+        "transcript_status": "failed",
+        "transcript_source": "none",
+        "transcript_language": "",
+        "transcript_text": "",
+        "analysis_date": "2026-11-01T02:05:33+00:00",
+        "channel_name": "조코딩 JoCoding",
+        "topic_tags": [
+          "agents"
+        ],
+        "keywords": [
+          "agents",
+          "AI한테",
+          "버튼",
+          "하나",
+          "부탁했을"
+        ],
+        "tools": [],
+        "flow": [
+          "처음 15초 안에 문제를 선명하게 정의하고 왜 지금 봐야 하는지 못 박는다.",
+          "중간 구간에서 툴, 사례, 비교 포인트를 빠르게 제시해 정보 밀도를 높인다.",
+          "마지막에는 시청자가 바로 따라할 수 있는 다음 액션과 적용 예시로 닫는다."
+        ],
+        "claims": [
+          "단순 소개보다 실제 사용 장면을 바로 보여주는 구조가 반응을 만든다.",
+          "큰 담론보다 작은 병목 하나를 해결해주는 포장 방식이 클릭으로 이어지기 쉽다."
+        ],
+        "transcript_highlights": [
+          "자막을 확보하지 못해 제목·댓글·메타데이터 기준으로 분석했습니다."
+        ],
+        "top_comments": [
+          {
+            "video_id": "SdXqSqwk620",
+            "comment_id": "UgwuDxj0DLIPRWlPtTJ4AaABAg",
+            "author": "@D76-de",
+            "text": "불과 2-3년전에 저런말을 사람이 들어야했다고....\n???: 버튼하나만 추가해주세요.",
+            "like_count": 25,
+            "reply_count": 0,
+            "published_at": "2026-10-31T03:21:04Z"
+          },
+          {
+            "video_id": "SdXqSqwk620",
+            "comment_id": "Ugxnw79fVzuR13mWN2B4AaABAg",
+            "author": "@user-ug6wp2te7m",
+            "text": "에이전트들 귀엽네ㅋㅋ",
+            "like_count": 9,
+            "reply_count": 0,
+            "published_at": "2026-10-31T03:08:54Z"
+          },
+          {
+            "video_id": "SdXqSqwk620",
+            "comment_id": "Ugzr_YdiasYVNg8u8mR4AaABAg",
+            "author": "@코링-n8j",
+            "text": "아잇 클로딩들 너무 귀여워",
+            "like_count": 4,
+            "reply_count": 0,
+            "published_at": "2026-10-31T03:22:25Z"
+          },
+          {
+            "video_id": "SdXqSqwk620",
+            "comment_id": "UgzGjLdQ8aghQCSgYwl4AaABAg",
+            "author": "@hippoha5134",
+            "text": "사용자가 요청한 내용에 의미를 파악하고 소통하는 에이전트가 필요하면 좋을듯 비서실장개념",
+            "like_count": 3,
+            "reply_count": 5,
+            "published_at": "2026-10-31T03:54:40Z"
+          },
+          {
+            "video_id": "SdXqSqwk620",
+            "comment_id": "UgxkpdY7Fs-NukxbF2h4AaABAg",
+            "author": "@고래눈-x7g",
+            "text": "디자이너: 당장 버튼을 내놓으세욧!",
+            "like_count": 1,
+            "reply_count": 0,
+            "published_at": "2026-10-31T04:04:19Z"
+          }
+        ]
+      },
       {
         "video_id": "6lPgzuKb90g",
         "channel_key": "ucxj3evtav9kldrowxcucfdq",
@@ -26734,53 +28182,6 @@ window.__DASHBOARD_DATA__ = {
         ]
       },
       {
-        "video_id": "pG1VCoVfWPM",
-        "channel_key": "ucxj3evtav9kldrowxcucfdq",
-        "title": "AI를 가르치지 않고 대신 만들어주고 수익의 30%를 받습니다",
-        "description": "[조쉬의 뉴스레터 및 소셜 미디어]\n\n🗞️ 조쉬의 뉴스레터 (1만명 이상 구독 중)\n뉴스레터를 구독하고, 가장 빨리 AI 인사이트를 받아보세요! \nhttps://maily.so/josh\n\n🔗 소셜 미디어 (도합 3만 이상)\nThreads: https://www.threads.com/@joshproductletter\nLinkedIn: https://www.linkedin.com/in/uxjosh/\n\n🚀 ASC 모집 (연간 멤버십 프로그램)\n조쉬의 '실행' 중심 연간 멤버십 프로그램 모집 정보를 확인하세요!\nhttps://www.solopreneur.co.kr/",
-        "published_at": "2026-10-16T09:00:03Z",
-        "duration_seconds": 38,
-        "view_count": 1370,
-        "like_count": 3,
-        "comment_count": 0,
-        "engagement_rate": 0.0021897810218978104,
-        "thumbnail_url": "https://i.ytimg.com/vi/pG1VCoVfWPM/hqdefault.jpg",
-        "video_url": "https://www.youtube.com/watch?v=pG1VCoVfWPM",
-        "format": "빌드 데모",
-        "hook_type": "수익",
-        "title_pattern": "금액 수치 + 성과 서사",
-        "one_line_summary": "직접 기술을 가르치기보다 AI를 활용해 고객의 결과물을 대신 만들어주고 수익을 배분하는 비즈니스 모델을 제안합니다.",
-        "why_it_works": "수익 훅으로 관심을 끌고, 빌드 데모 형식으로 내용을 빠르게 정리해 시청자가 '바로 써먹을 수 있다'고 느끼게 만듭니다.",
-        "recommendation": "훅 구조: 도입 15초 안에 '수익' 관점으로 문제를 못 박고, 왜 지금 봐야 하는지 먼저 선언합니다. • 복제할 포장 요소: 빌드 데모 형식을 유지하되 빌드 데모를 실제 사용 장면 1개와 결과 변화 2개로 더 좁혀 설명합니다. • 비어 있는 콘텐츠 영역: '빌드 데모가 내 작업 흐름에서 어디에 꽂히는가'를 사례 중심으로 보여주는 후속 영상이 비어 있습니다. • 추천 제목: 빌드 데모 이슈를 내 채널 관점으로 다시 정리해보자 • 썸네일 카피 힌트: 빌드 데모 지금 봐야 할 3가지",
-        "transcript_status": "available",
-        "transcript_source": "apify",
-        "transcript_language": "ko",
-        "transcript_text": "그냥 저희는 AI를 알려주고를 떠나서 AI로 가지고 있는 문제를 그냥 해결해 줘 버리는 거죠. 예를 들어서 자영업자 또는 작은 회사가 요즘에 K가 다 인기잖아요. 뭐 아마존에 외국인 대상으로 사업을 하고 싶다. 근데 나 번역도 할 줄 모르고 아무것도 할 줄 몰라. 그러면 그냥 저희가 AI를 이용해 가지고 그걸 그냥 만들어 줘 버리는 거예요. 그리고 거기서 발생하는 수익에 30% 우리가 가져가겠다. 기존에 이제 비즈니스는 가지고 있고 매출처를 새로 뚫어주고 AI로 저희가 뚫고 거기서 그냥 발생하는 그 어떻게 보면은 그냥 어디셔널한 그러한 세일즈 레버뉴가 나오는 거죠. 거기에 30%를 가정하는 형태 이러한 구조로 이제 비즈니스를 하는게 굉장히 기회가 많이 열려 있는 거 같아요.",
-        "analysis_date": "2026-10-17T01:14:29+00:00",
-        "channel_name": "빌더 조쉬 Builder Josh",
-        "topic_tags": [],
-        "keywords": [
-          "AI를",
-          "가르치지",
-          "않고",
-          "대신"
-        ],
-        "tools": [],
-        "flow": [
-          "처음 15초 안에 문제를 선명하게 정의하고 왜 지금 봐야 하는지 못 박는다.",
-          "중간 구간에서 툴, 사례, 비교 포인트를 빠르게 제시해 정보 밀도를 높인다.",
-          "마지막에는 시청자가 바로 따라할 수 있는 다음 액션과 적용 예시로 닫는다."
-        ],
-        "claims": [
-          "단순 소개보다 실제 사용 장면을 바로 보여주는 구조가 반응을 만든다.",
-          "큰 담론보다 작은 병목 하나를 해결해주는 포장 방식이 클릭으로 이어지기 쉽다."
-        ],
-        "transcript_highlights": [
-          "근데 나 번역도 할 줄 모르고 아무것도 할 줄 몰라. 그러면 그냥 저희가 AI를 이용해 가지고 그걸 그냥 만들어 줘 버리는 거예요. 그리고 거기서 발생하는 수익에 30% 우리가 가져가겠다."
-        ],
-        "top_comments": []
-      },
-      {
         "video_id": "_WWo2XV9Kks",
         "channel_key": "ucxj3evtav9kldrowxcucfdq",
         "title": "등록해 둔 에이전트도 관리 안 된 권한을 덥석 씁니다",
@@ -26827,6 +28228,53 @@ window.__DASHBOARD_DATA__ = {
         ],
         "transcript_highlights": [
           "그러니까 이게 예를 들면 우리의 중앙 장본 또는 뭐 중앙 레지스트리 시스템에 에이전트가 없으면 그게 섀도우 에이전트고 에이전트가 있으면 되고 이런 건 아니라고 생각해요."
+        ],
+        "top_comments": []
+      },
+      {
+        "video_id": "pG1VCoVfWPM",
+        "channel_key": "ucxj3evtav9kldrowxcucfdq",
+        "title": "AI를 가르치지 않고 대신 만들어주고 수익의 30%를 받습니다",
+        "description": "[조쉬의 뉴스레터 및 소셜 미디어]\n\n🗞️ 조쉬의 뉴스레터 (1만명 이상 구독 중)\n뉴스레터를 구독하고, 가장 빨리 AI 인사이트를 받아보세요! \nhttps://maily.so/josh\n\n🔗 소셜 미디어 (도합 3만 이상)\nThreads: https://www.threads.com/@joshproductletter\nLinkedIn: https://www.linkedin.com/in/uxjosh/\n\n🚀 ASC 모집 (연간 멤버십 프로그램)\n조쉬의 '실행' 중심 연간 멤버십 프로그램 모집 정보를 확인하세요!\nhttps://www.solopreneur.co.kr/",
+        "published_at": "2026-10-16T09:00:03Z",
+        "duration_seconds": 38,
+        "view_count": 1370,
+        "like_count": 3,
+        "comment_count": 0,
+        "engagement_rate": 0.0021897810218978104,
+        "thumbnail_url": "https://i.ytimg.com/vi/pG1VCoVfWPM/hqdefault.jpg",
+        "video_url": "https://www.youtube.com/watch?v=pG1VCoVfWPM",
+        "format": "빌드 데모",
+        "hook_type": "수익",
+        "title_pattern": "금액 수치 + 성과 서사",
+        "one_line_summary": "직접 기술을 가르치기보다 AI를 활용해 고객의 결과물을 대신 만들어주고 수익을 배분하는 비즈니스 모델을 제안합니다.",
+        "why_it_works": "수익 훅으로 관심을 끌고, 빌드 데모 형식으로 내용을 빠르게 정리해 시청자가 '바로 써먹을 수 있다'고 느끼게 만듭니다.",
+        "recommendation": "훅 구조: 도입 15초 안에 '수익' 관점으로 문제를 못 박고, 왜 지금 봐야 하는지 먼저 선언합니다. • 복제할 포장 요소: 빌드 데모 형식을 유지하되 빌드 데모를 실제 사용 장면 1개와 결과 변화 2개로 더 좁혀 설명합니다. • 비어 있는 콘텐츠 영역: '빌드 데모가 내 작업 흐름에서 어디에 꽂히는가'를 사례 중심으로 보여주는 후속 영상이 비어 있습니다. • 추천 제목: 빌드 데모 이슈를 내 채널 관점으로 다시 정리해보자 • 썸네일 카피 힌트: 빌드 데모 지금 봐야 할 3가지",
+        "transcript_status": "available",
+        "transcript_source": "apify",
+        "transcript_language": "ko",
+        "transcript_text": "그냥 저희는 AI를 알려주고를 떠나서 AI로 가지고 있는 문제를 그냥 해결해 줘 버리는 거죠. 예를 들어서 자영업자 또는 작은 회사가 요즘에 K가 다 인기잖아요. 뭐 아마존에 외국인 대상으로 사업을 하고 싶다. 근데 나 번역도 할 줄 모르고 아무것도 할 줄 몰라. 그러면 그냥 저희가 AI를 이용해 가지고 그걸 그냥 만들어 줘 버리는 거예요. 그리고 거기서 발생하는 수익에 30% 우리가 가져가겠다. 기존에 이제 비즈니스는 가지고 있고 매출처를 새로 뚫어주고 AI로 저희가 뚫고 거기서 그냥 발생하는 그 어떻게 보면은 그냥 어디셔널한 그러한 세일즈 레버뉴가 나오는 거죠. 거기에 30%를 가정하는 형태 이러한 구조로 이제 비즈니스를 하는게 굉장히 기회가 많이 열려 있는 거 같아요.",
+        "analysis_date": "2026-10-17T01:14:29+00:00",
+        "channel_name": "빌더 조쉬 Builder Josh",
+        "topic_tags": [],
+        "keywords": [
+          "AI를",
+          "가르치지",
+          "않고",
+          "대신"
+        ],
+        "tools": [],
+        "flow": [
+          "처음 15초 안에 문제를 선명하게 정의하고 왜 지금 봐야 하는지 못 박는다.",
+          "중간 구간에서 툴, 사례, 비교 포인트를 빠르게 제시해 정보 밀도를 높인다.",
+          "마지막에는 시청자가 바로 따라할 수 있는 다음 액션과 적용 예시로 닫는다."
+        ],
+        "claims": [
+          "단순 소개보다 실제 사용 장면을 바로 보여주는 구조가 반응을 만든다.",
+          "큰 담론보다 작은 병목 하나를 해결해주는 포장 방식이 클릭으로 이어지기 쉽다."
+        ],
+        "transcript_highlights": [
+          "근데 나 번역도 할 줄 모르고 아무것도 할 줄 몰라. 그러면 그냥 저희가 AI를 이용해 가지고 그걸 그냥 만들어 줘 버리는 거예요. 그리고 거기서 발생하는 수익에 30% 우리가 가져가겠다."
         ],
         "top_comments": []
       },
@@ -74373,9 +75821,9 @@ window.__DASHBOARD_DATA__ = {
           "단순 나열이 아닌, '설계'를 통해 디자인된 입소문 마케팅은 A등급이지만 확장성이 부족하다."
         ],
         "transcript_highlights": [
-          "대부분의 사람들이 휴대폰 번호가 차단될 것이므로 고객 확보에 좋습니다.",
-          "규정을 준수하며 진행할 수 있다면 매우 좋지만, 대부분의 사람들은 휴대폰 번호가 차단될 것입니다.",
-          "짧은 형식의 콘텐츠는 고객 확보보다는 인지도 향상을 위한 것이며, 제대로 활용하면 B급입니다."
+          "Most people are going to get their [ __ ] phone numbers flagged. It's great for getting customers.",
+          "If you can do it compliant, S [music] tier. Most people are going to get their [ __ ] phone numbers flagged.",
+          "Short form is for awareness, not to get customers. If you know how to do it, it's actually B."
         ],
         "top_comments": [
           {
@@ -75236,9 +76684,9 @@ window.__DASHBOARD_DATA__ = {
           "Grok은 경쟁사 조사를 위한 레드팀/블루팀 컨셉 분석에 탁월하다."
         ],
         "transcript_highlights": [
-          "Grok은 X 데이터에 접근할 수 있어 다른 모델보다 사고 파트너로 더 유용하며, Gemini는 Google 뉴스 접근성 덕분에 유용합니다.",
-          "Grok은 X 데이터에 접근할 수 있어 유용하며, Gemini는 Google 뉴스 접근성 덕분에 좋습니다. 아이디어에 대한 피드백도 받을 수 있습니다.",
-          "Claude는 이제 제 제안에 대해 더 정직하게 피드백을 제공하여, 예전에 '무자비한 멘토' 역할을 요청해야 했던 것보다 더 나은 접근 방식을 보여줍니다."
+          "Grok has everybody beat cuz they have the X data and I use it as a thinking partner more than any other model. Grok because it has access to X. Also Gemini because they have Google News.",
+          "Grok because it has access to X. Also Gemini because they have Google News. Feedback on your ideas.",
+          "This is where Claude's got a good approach cuz I used to have to tell it to be my [music] ruthless mentor, but now I feel like the prompts adjusted and it's being more honest in [music] my feedback things I'm working on."
         ],
         "top_comments": [
           {
@@ -75929,9 +77377,9 @@ window.__DASHBOARD_DATA__ = {
           "타인의 현실과 자신의 현실이 다르다는 것을 인정하고, 모든 사람을 만족시킬 수는 없다는 것을 받아들여야 한다."
         ],
         "transcript_highlights": [
-          "성공하려면 미움받는 기술을 익혀야 합니다.",
-          "성공을 위해서는 미움받는 법을 배워야 하는데, 좋은 사람과 단순히 착한 사람 사이에는 차이가 있습니다. 때로는 좋은 사람이 상황 때문에 나서야 할 때가 있어 무조건 착하지만은 않을 수 있기 때문입니다.",
-          "성공적인 삶을 위해서는 미움받는 능력을 길러야 합니다."
+          "If you want to be successful in life, you have to develop the skill of being disliked. There's a difference between a good man and a nice man.",
+          "If you want to be successful in life, you have to develop the skill of being disliked. There's a difference between a good man and a nice man. A good man is not always a nice man because sometimes the situation calls for him to step up.",
+          "If you want to be successful in life, you have to develop the skill of being disliked."
         ],
         "top_comments": [
           {
@@ -76038,9 +77486,9 @@ window.__DASHBOARD_DATA__ = {
           "큰 담론보다 작은 병목 하나를 해결해주는 포장 방식이 클릭으로 이어지기 쉽다."
         ],
         "transcript_highlights": [
-          "AI 생성 이미지 식별을 위해 원본 광고를 훼손하는 모습이 잘 보입니다.",
-          "첫 번째 이미지가 가장 선명하고 디테일이 뛰어나며, 이후 편집에서도 모델이 일관성을 유지합니다.",
-          "복잡한 순서도는 이미지 2.0에서 오류를 일으키며, '예', '아니오' 문구가 뒤바뀐 것으로 보입니다."
+          "I suspect that it's for identification that the image was AI generated. And you don't always see it turn up in a lot of images, but here I think it's definitely visible from afar, destroying some sort of Avengers advertisement. Let's be honest, they'll never be able to stop me.",
+          "Again, that first image is going to give you your sharpest, most detailed quality. then any second image is going to have a little bit of deregation. But beyond that, the model is good at maintaining itself consecutively after the edit.",
+          "More complicated flowcharts really tripped up images 2.0. And I think it's sort of the same deal. Pretty sure this yes and no are actually supposed to be reversed."
         ],
         "top_comments": [
           {
@@ -76243,9 +77691,9 @@ window.__DASHBOARD_DATA__ = {
           "큰 담론보다 작은 병목 하나를 해결해주는 포장 방식이 클릭으로 이어지기 쉽다."
         ],
         "transcript_highlights": [
-          "AI 뉴스레터 여러 개를 구독하지만, 같은 내용을 10번 읽고 싶지 않아요.",
-          "중복을 제거하고 중요한 뉴스를 추적하며, 뉴스레터 속 유용한 워크플로우나 사용 사례를 뽑아주는 검색 가능한 데이터베이스를 원해요. 매일 새로운 뉴스레터가 발송되므로 사이트가 자동으로 계속 업데이트되기를 바랍니다.",
-          "이전 뉴스레터 기록도 함께 채워주길 원해요."
+          "For the last example, I'm subscribed to a bunch of AI newsletters, but I don't want to read 10 versions of the same news story.",
+          "What I actually want is one searchable database that removes duplicates, tracks the important stories, and pulls out useful workflows or use cases buried inside each newsletter. Because new newsletters get sent every day, I want the site to keep updating itself automatically.",
+          "Because new newsletters get sent every day, I want the site to keep updating itself automatically. I explained what I wanted, all the things I just described, but I also wanted it to backfill it with some of the history."
         ],
         "top_comments": []
       },
@@ -79641,9 +81089,9 @@ window.__DASHBOARD_DATA__ = {
           "큰 담론보다 작은 병목 하나를 해결해주는 포장 방식이 클릭으로 이어지기 쉽다."
         ],
         "transcript_highlights": [
-          "GPT-6 Astra is here, and it's not just, you know, better at doing typical tasks. It does a whole new category of things.",
-          "And then, it goes one step further. It actually finds the multiple audio tracks, and it picks out the one audio track that is the best and deletes the rest.",
-          "It actually finds the multiple audio tracks, and it picks out the one audio track that is the best and deletes the rest. So, it went beyond what they asked for, but did a kind of obviously useful task for them."
+          "GPT-6 Astra는 기존 작업의 향상뿐만 아니라 완전히 새로운 기능을 수행합니다.",
+          "뿐만 아니라, 여러 오디오 트랙을 찾아 가장 좋은 것을 선택하고 나머지는 삭제하는 기능까지 갖췄습니다.",
+          "요청받은 것 이상의 작업을 수행했으며, 매우 유용한 기능을 제공합니다."
         ],
         "top_comments": [
           {
@@ -89444,6 +90892,81 @@ window.__DASHBOARD_DATA__ = {
         ]
       },
       {
+        "video_id": "n4dU5JjbNHg",
+        "channel_key": "ucqne2jmbasnybjgacubirrg",
+        "title": "100조 토큰까지 처리할 수 있는 모델의 충격적인 진실",
+        "description": "조코딩의 바이브 코딩 1인 창업 책: https://www.yes24.com/product/goods/189855418\nAX 컨설팅 및 교육 문의: https://jocodingax.ai\n조코헌트: https://jocohunt.jocoding.io/\n\nVVIP 멤버십 후원\n그림자그림자님, 차딩Chading TV님, Sicongbabe님, 정진균님, Tae hwan Kim님, 시원-r9u님, YCN유림방송님, 그래머피티님, GomnaStudio님, 천사슥님, 예스타님, shintony667님, bellati272님, happypink81님, kogurean9님 감사드립니다.\nhttps://www.youtube.com/@jocoding/join\n\n#ai #오픈소스 #glm",
+        "published_at": "2026-09-03T09:00:24Z",
+        "duration_seconds": 30,
+        "view_count": 13729,
+        "like_count": 117,
+        "comment_count": 4,
+        "engagement_rate": 0.008813460557943041,
+        "thumbnail_url": "https://i.ytimg.com/vi/n4dU5JjbNHg/hqdefault.jpg",
+        "video_url": "https://www.youtube.com/watch?v=n4dU5JjbNHg",
+        "format": "빌드 데모",
+        "hook_type": "문제 해결",
+        "title_pattern": "툴 조합 + 압축 약속",
+        "one_line_summary": "하루 100조 토큰을 처리할 수 있는 중국의 대규모 언어 모델 인프라를 분석하며, 엄청난 추론 능력을 뒷받침하는 기술적 배경과 트래픽 처리 역량을 설명한다.",
+        "why_it_works": "문제 해결 훅으로 관심을 끌고, 빌드 데모 형식으로 내용을 빠르게 정리해 시청자가 '바로 써먹을 수 있다'고 느끼게 만듭니다.",
+        "recommendation": "훅 구조: 도입 15초 안에 '문제 해결' 관점으로 문제를 못 박고, 왜 지금 봐야 하는지 먼저 선언합니다. • 복제할 포장 요소: 빌드 데모 형식을 유지하되 빌드 데모를 실제 사용 장면 1개와 결과 변화 2개로 더 좁혀 설명합니다. • 비어 있는 콘텐츠 영역: '빌드 데모가 내 작업 흐름에서 어디에 꽂히는가'를 사례 중심으로 보여주는 후속 영상이 비어 있습니다. • 추천 제목: 빌드 데모 이슈를 내 채널 관점으로 다시 정리해보자 • 썸네일 카피 힌트: 빌드 데모 지금 봐야 할 3가지",
+        "transcript_status": "available",
+        "transcript_source": "apify",
+        "transcript_language": "ko",
+        "transcript_text": "GLM 5.3 플래시가 나왔습니다. OX8라는 이지의 모델인데 성능 왜 이렇게 좋냐라고 난리가 났었던 그 모델이 GLM 5.3의 플래시 버전이었습니다. 종합 점수를 보자면 맥스가요 정도 위치해 있고요. 플래시도 57. 프론티어이라고 볼 수 있겠죠. GLM이 오픈 [음악] 라우터에서 많이 풀었거든요. 근데이 모든 트래픽이 중국산 AI 칩에서 처리됐다고 합니다. 하루에 100트릴리언 토큰 무료라고 했거든요. 트릴리언을 처리할 정도로 추론 인프라가 갇혀져 있는 겁니다.",
+        "analysis_date": "2026-09-04T00:54:48+00:00",
+        "channel_name": "조코딩 JoCoding",
+        "topic_tags": [],
+        "keywords": [
+          "100조",
+          "토큰까지",
+          "처리할",
+          "수"
+        ],
+        "tools": [],
+        "flow": [
+          "처음 15초 안에 문제를 선명하게 정의하고 왜 지금 봐야 하는지 못 박는다.",
+          "중간 구간에서 툴, 사례, 비교 포인트를 빠르게 제시해 정보 밀도를 높인다.",
+          "마지막에는 시청자가 바로 따라할 수 있는 다음 액션과 적용 예시로 닫는다."
+        ],
+        "claims": [
+          "단순 소개보다 실제 사용 장면을 바로 보여주는 구조가 반응을 만든다.",
+          "큰 담론보다 작은 병목 하나를 해결해주는 포장 방식이 클릭으로 이어지기 쉽다."
+        ],
+        "transcript_highlights": [
+          "근데이 모든 트래픽이 중국산 AI 칩에서 처리됐다고 합니다. 하루에 100트릴리언 토큰 무료라고 했거든요. 트릴리언을 처리할 정도로 추론 인프라가 갇혀져 있는 겁니다."
+        ],
+        "top_comments": [
+          {
+            "video_id": "n4dU5JjbNHg",
+            "comment_id": "UgzXWHbJhdjoYb3UrtV4AaABAg",
+            "author": "@닉값-p1e",
+            "text": "현제 오픈라우터에서 할인도 해서 매우 싼 가격에 GPT 5.5급 모델을 돌릴 수 있음",
+            "like_count": 11,
+            "reply_count": 0,
+            "published_at": "2026-09-03T09:23:17Z"
+          },
+          {
+            "video_id": "n4dU5JjbNHg",
+            "comment_id": "UgzKe4qsTtQGzm0ZWep4AaABAg",
+            "author": "@yyy0202",
+            "text": "산업스파이들 풀어주니까 이지경 와버린거지",
+            "like_count": 8,
+            "reply_count": 0,
+            "published_at": "2026-09-03T11:46:01Z"
+          },
+          {
+            "video_id": "n4dU5JjbNHg",
+            "comment_id": "UgyB0gsURmTst6CSMRB4AaABAg",
+            "author": "@cliche9660",
+            "text": "결국 중국제제가 중국의 발전을 도모한 셈.. 제제 안했으면 저만큼 칩도 팔아먹었을껄",
+            "like_count": 4,
+            "reply_count": 0,
+            "published_at": "2026-09-03T11:20:55Z"
+          }
+        ]
+      },
+      {
         "video_id": "qOV-iaoc5_s",
         "channel_key": "ucnkdlskirtttornjvklo1aq",
         "title": "AI 이미지, 그만 생성하세요. 이제 잘 고치는 게 실력입니다",
@@ -89526,81 +91049,6 @@ window.__DASHBOARD_DATA__ = {
             "like_count": 0,
             "reply_count": 0,
             "published_at": "2026-09-03T10:23:48Z"
-          }
-        ]
-      },
-      {
-        "video_id": "n4dU5JjbNHg",
-        "channel_key": "ucqne2jmbasnybjgacubirrg",
-        "title": "100조 토큰까지 처리할 수 있는 모델의 충격적인 진실",
-        "description": "조코딩의 바이브 코딩 1인 창업 책: https://www.yes24.com/product/goods/189855418\nAX 컨설팅 및 교육 문의: https://jocodingax.ai\n조코헌트: https://jocohunt.jocoding.io/\n\nVVIP 멤버십 후원\n그림자그림자님, 차딩Chading TV님, Sicongbabe님, 정진균님, Tae hwan Kim님, 시원-r9u님, YCN유림방송님, 그래머피티님, GomnaStudio님, 천사슥님, 예스타님, shintony667님, bellati272님, happypink81님, kogurean9님 감사드립니다.\nhttps://www.youtube.com/@jocoding/join\n\n#ai #오픈소스 #glm",
-        "published_at": "2026-09-03T09:00:24Z",
-        "duration_seconds": 30,
-        "view_count": 13729,
-        "like_count": 117,
-        "comment_count": 4,
-        "engagement_rate": 0.008813460557943041,
-        "thumbnail_url": "https://i.ytimg.com/vi/n4dU5JjbNHg/hqdefault.jpg",
-        "video_url": "https://www.youtube.com/watch?v=n4dU5JjbNHg",
-        "format": "빌드 데모",
-        "hook_type": "문제 해결",
-        "title_pattern": "툴 조합 + 압축 약속",
-        "one_line_summary": "하루 100조 토큰을 처리할 수 있는 중국의 대규모 언어 모델 인프라를 분석하며, 엄청난 추론 능력을 뒷받침하는 기술적 배경과 트래픽 처리 역량을 설명한다.",
-        "why_it_works": "문제 해결 훅으로 관심을 끌고, 빌드 데모 형식으로 내용을 빠르게 정리해 시청자가 '바로 써먹을 수 있다'고 느끼게 만듭니다.",
-        "recommendation": "훅 구조: 도입 15초 안에 '문제 해결' 관점으로 문제를 못 박고, 왜 지금 봐야 하는지 먼저 선언합니다. • 복제할 포장 요소: 빌드 데모 형식을 유지하되 빌드 데모를 실제 사용 장면 1개와 결과 변화 2개로 더 좁혀 설명합니다. • 비어 있는 콘텐츠 영역: '빌드 데모가 내 작업 흐름에서 어디에 꽂히는가'를 사례 중심으로 보여주는 후속 영상이 비어 있습니다. • 추천 제목: 빌드 데모 이슈를 내 채널 관점으로 다시 정리해보자 • 썸네일 카피 힌트: 빌드 데모 지금 봐야 할 3가지",
-        "transcript_status": "available",
-        "transcript_source": "apify",
-        "transcript_language": "ko",
-        "transcript_text": "GLM 5.3 플래시가 나왔습니다. OX8라는 이지의 모델인데 성능 왜 이렇게 좋냐라고 난리가 났었던 그 모델이 GLM 5.3의 플래시 버전이었습니다. 종합 점수를 보자면 맥스가요 정도 위치해 있고요. 플래시도 57. 프론티어이라고 볼 수 있겠죠. GLM이 오픈 [음악] 라우터에서 많이 풀었거든요. 근데이 모든 트래픽이 중국산 AI 칩에서 처리됐다고 합니다. 하루에 100트릴리언 토큰 무료라고 했거든요. 트릴리언을 처리할 정도로 추론 인프라가 갇혀져 있는 겁니다.",
-        "analysis_date": "2026-09-04T00:54:48+00:00",
-        "channel_name": "조코딩 JoCoding",
-        "topic_tags": [],
-        "keywords": [
-          "100조",
-          "토큰까지",
-          "처리할",
-          "수"
-        ],
-        "tools": [],
-        "flow": [
-          "처음 15초 안에 문제를 선명하게 정의하고 왜 지금 봐야 하는지 못 박는다.",
-          "중간 구간에서 툴, 사례, 비교 포인트를 빠르게 제시해 정보 밀도를 높인다.",
-          "마지막에는 시청자가 바로 따라할 수 있는 다음 액션과 적용 예시로 닫는다."
-        ],
-        "claims": [
-          "단순 소개보다 실제 사용 장면을 바로 보여주는 구조가 반응을 만든다.",
-          "큰 담론보다 작은 병목 하나를 해결해주는 포장 방식이 클릭으로 이어지기 쉽다."
-        ],
-        "transcript_highlights": [
-          "근데이 모든 트래픽이 중국산 AI 칩에서 처리됐다고 합니다. 하루에 100트릴리언 토큰 무료라고 했거든요. 트릴리언을 처리할 정도로 추론 인프라가 갇혀져 있는 겁니다."
-        ],
-        "top_comments": [
-          {
-            "video_id": "n4dU5JjbNHg",
-            "comment_id": "UgzXWHbJhdjoYb3UrtV4AaABAg",
-            "author": "@닉값-p1e",
-            "text": "현제 오픈라우터에서 할인도 해서 매우 싼 가격에 GPT 5.5급 모델을 돌릴 수 있음",
-            "like_count": 11,
-            "reply_count": 0,
-            "published_at": "2026-09-03T09:23:17Z"
-          },
-          {
-            "video_id": "n4dU5JjbNHg",
-            "comment_id": "UgzKe4qsTtQGzm0ZWep4AaABAg",
-            "author": "@yyy0202",
-            "text": "산업스파이들 풀어주니까 이지경 와버린거지",
-            "like_count": 8,
-            "reply_count": 0,
-            "published_at": "2026-09-03T11:46:01Z"
-          },
-          {
-            "video_id": "n4dU5JjbNHg",
-            "comment_id": "UgyB0gsURmTst6CSMRB4AaABAg",
-            "author": "@cliche9660",
-            "text": "결국 중국제제가 중국의 발전을 도모한 셈.. 제제 안했으면 저만큼 칩도 팔아먹었을껄",
-            "like_count": 4,
-            "reply_count": 0,
-            "published_at": "2026-09-03T11:20:55Z"
           }
         ]
       },
@@ -90532,9 +91980,9 @@ window.__DASHBOARD_DATA__ = {
           "AI 도구 사용 시 개인 정보 보호 및 결과물 검증의 중요성을 간과해서는 안 된다."
         ],
         "transcript_highlights": [
-          "All these objections are great. The way I sell is I bring them up early when they're obstacles before my buyer brings them up. Also, if you want my whole sell by chat playbook that teaches you how to do this, just follow and comment SBC below and I'll send it over to you.",
-          "Just because you've dated some people in the past and had a negative experience doesn't mean you're going to stop dating and not find the love of your life. Why is this any different? All these objections are great.",
-          "Why is this any different? All these objections are great. The way I sell is I bring them up early when they're obstacles before my buyer brings them up."
+          "모든 반론은 훌륭합니다. 저는 구매자가 제기하기 전에 장애물로서 초기에 반론을 제시합니다.",
+          "과거의 부정적인 경험 때문에 연애를 포기하지 않듯, 이 또한 다르지 않습니다. 모든 반론은 훌륭합니다.",
+          "이것이 왜 다르다고 생각하시나요? 모든 반론은 훌륭합니다. 저는 구매자가 제기하기 전에, 장애물로서 초기에 반론을 제시합니다."
         ],
         "top_comments": [
           {
@@ -235985,24 +237433,24 @@ window.__DASHBOARD_DATA__ = {
     ]
   },
   "digest": {
-    "digest_date": "2026-10-31",
-    "generated_at": "2026-10-31T02:17:22+00:00",
-    "summary": "최근 24시간 영상 16개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'Claude'입니다. 특히 'AI가 산토끼 때문에 미쳐버린 이유'는 조회수 43.8K, 참여율 1.1%로 가장 강하게 반응했습니다.",
-    "creator_takeaway": "'Claude' 주제가 3개 영상으로 가장 많이 다뤄졌습니다. Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n[내 채널] 7일 평균 45.5K회 · 지속률 24.9% / 경쟁사 평균 12.8K회 (격차 +255%)",
-    "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 10/31\n\n📊 총 10개 | AI 핵심 10 · 인접 AI 0 · 일반 테크 보충 0\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 10 · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [조코딩 JoCoding] 43.8K뷰 · 참여율 1.1%\n   AI가 산토끼 때문에 미쳐버린 이유\n   ↳ 자막을 확보하지 못해 제목·댓글·메타데이터 기준으로 분석했습니다.\n   https://youtu.be/nLSh7E2xEEY\n\n2. AI 핵심 · [조코딩 JoCoding] 21.2K뷰 · 참여율 0.9%\n   엑셀은 이제 AI 프로그램입니다\n   ↳ 자막을 확보하지 못해 제목·댓글·메타데이터 기준으로 분석했습니다.\n   https://youtu.be/1rDlR0UxGE4\n\n3. AI 핵심 · [조코딩 JoCoding] 20.5K뷰 · 참여율 0.8%\n   바둑 AI를 상대로 14승 1패를 기록한 사람의 비밀\n   ↳ 자막을 확보하지 못해 제목·댓글·메타데이터 기준으로 분석했습니다.\n   https://youtu.be/lUi7OVENQHs\n\n4. AI 핵심 · [Matt Wolfe] 19.4K뷰 · 참여율 3.7%\n   6 AI Updates Worth Knowing & A Bubble-Bursting IPO\n   ↳ AI 업계의 최신 소식으로 GPT-6.1 Terra의 성능 향상 및 비용 절감, Gemini 4 Carbon의 발전, Genie 4를 통한 실시간 AI 월드 구현, Kimi K3.1 Pro의 공개, 그리고 Anth…\n   https://youtu.be/eDiQNFa-zYg\n\n5. AI 핵심 · [조코딩 JoCoding] 18.6K뷰 · 참여율 0.8%\n   드디어 학대를 시작한 인간놈들\n   ↳ 자막을 확보하지 못해 제목·댓글·메타데이터 기준으로 분석했습니다.\n   https://youtu.be/SCr2l-0qEMM\n\n6. AI 핵심 · [빌더 조쉬 Builder Josh] 17.2K뷰 · 참여율 4.8%\n   클로드 웹사이트, 수상작처럼 만드는 무료 스킬 (디자인 40개·기법 55가지)\n   ↳ 📎 설치 가이드 + 바로 쓰는 프롬프트 30개: https://tuemarz.notion.site/MotionSites-30-408137c926d581f1bbc0fa304cc29d6b 클로드한테 웹사이트를 맡기면…\n   https://youtu.be/nWrk7Z001h4\n\n7. AI 핵심 · [조코딩 JoCoding] 14.6K뷰 · 참여율 0.8%\n   하루 2만명이 쓰는 게임을 만든 비밀\n   ↳ 하루 2만 명이 사용하는 게임 서비스를 개발한 조코딩의 경험을 통해 AI 기반 서비스 창업 및 개발 과정을 엿볼 수 있는 영상.\n   https://youtu.be/fxlpfCEIGUc\n\n8. AI 핵심 · [The AI Advantage] 6.5K뷰 · 참여율 2.3%\n   ChatGPT & Grok Bot: 7 Useful Updates for Everyday Life\n   ↳ The AI Advantage Club에 가입하여 ChatGPT와 Grok Bot을 활용해 일상적인 관리 업무를 처리하고, 앱을 연동하며, 휴대폰으로 업무를 완수하는 방법을 알아보세요.\n   https://youtu.be/MNiurW07nLs\n\n9. AI 핵심 · [성공지식백과] 5.7K뷰 · 참여율 1.2%\n   개발 외주 주지 마세요.. 기획서 하나면 Atoms 에이전트 팀이 배포까지 끝냅니다.. ㄷㄷ\n   ↳ ▶ Atoms 에이전트 팀으로 내 서비스 직접 만들어 보기: https://tinyurl.com/4mnjdnhk 📝에이전트 서비스 기획서: https://successwiki.io/guides/atoms-agent…\n   https://youtu.be/BaBKAQQfS7A\n\n10. AI 핵심 · [빌더 조쉬 Builder Josh] 5.1K뷰 · 참여율 1.0%\n   사람은 안 읽을 테니 제품을 AI가 쓰게 바꿨습니다\n   ↳ 풀영상 👉 https://youtu.be/nw65VO2tVfs\n   https://youtu.be/yYlUZwnZaME\n\n📈 스마트대디 어제 실적\n조회수 41.0K (↓10% vs 7일 평균) | 구독 +229\n시청 지속률 28.1% | 평균 시청 2분 35초\n경쟁사 평균 12.8K회 대비 내 7일 평균 +255%\n\n💡 VS 각도: Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
-    "video_count": 16,
-    "total_recent_video_count": 22,
+    "digest_date": "2026-11-01",
+    "generated_at": "2026-11-01T02:08:54+00:00",
+    "summary": "최근 24시간 영상 12개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'Claude'입니다. 특히 'AI한테 버튼 하나 부탁했을 뿐인데'는 조회수 22.9K, 참여율 0.8%로 가장 강하게 반응했습니다.",
+    "creator_takeaway": "'Claude' 주제가 3개 영상으로 가장 많이 다뤄졌습니다. Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n[내 채널] 7일 평균 38.5K회 · 지속률 25.9% / 경쟁사 평균 4.5K회 (격차 +746%)",
+    "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 11/01\n\n📊 총 10개 | AI 핵심 10 · 인접 AI 0 · 일반 테크 보충 0\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 10 · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [조코딩 JoCoding] 22.9K뷰 · 참여율 0.8%\n   AI한테 버튼 하나 부탁했을 뿐인데\n   ↳ 자막을 확보하지 못해 제목·댓글·메타데이터 기준으로 분석했습니다.\n   https://youtu.be/SdXqSqwk620\n\n2. AI 핵심 · [Matt Wolfe] 6.9K뷰 · 참여율 4.3%\n   Glasses That Make You Telepathic\n   ↳ 생각만으로 텍스트를 입력할 수 있는 AI 안경 기술을 소개하며, 뇌파를 읽어 텍스트로 변환하는 이 기술의 미래 가능성과 윤리적 쟁점을 탐색합니다.\n   https://youtu.be/_9R7QOhJh-o\n\n3. AI 핵심 · [성공지식백과] 6.1K뷰 · 참여율 5.3%\n   영상 편집은 끝났다? 쇼츠 통째로 복사하는 미친 오픈소스.. ㄷㄷ\n   ↳ 인기 영상의 구조, 타이밍, 자막, 효과음까지 분석해 완전히 새로운 영상으로 재구성하는 오픈소스 'Hypit'과 다양한 AI 영상 모델(시댄스 2.5, 클링 4.0, 미니맥스 H3) 비교를 통해 AI 영상 제작의…\n   https://youtu.be/nA44EmayqY0\n\n4. AI 핵심 · [조코딩 JoCoding] 5.0K뷰 · 참여율 0.6%\n   스펙 없이 삼일PwC 간 컴공 4학년의 비결\n   ↳ 대학생이 AI 하나로 대기업에 취직한 방법 컴퓨터공학과 4학년 조영탁 님은 AX인재전쟁 1기 본선에서 CEO의 의사결정 오류를 찾아 분석하는 AI 에이전트를 만들었고, 삼일PwC에 채용되었어요.\n   https://youtu.be/f3XvOfhjNZE\n\n5. AI 핵심 · [AI Samson] 3.7K뷰 · 참여율 6.5%\n   NEW Free AI Image Model With (Almost) No Restrictions\n   ↳ 무료 오픈소스 AI 이미지 모델 MOSS-Image를 맥북에 직접 설치하고, 상용 모델들과 비교하며 성능과 사용성을 실제 테스트한 영상입니다.\n   https://youtu.be/zO0ZPBj0G3I\n\n6. AI 핵심 · [AI Samson] 1.4K뷰 · 참여율 2.7%\n   Same 360 prompt, three AI video models #aivideo #seedance\n   ↳ 자막을 확보하지 못해 제목·댓글·메타데이터 기준으로 분석했습니다.\n   https://youtu.be/pqFFpYYBD0Q\n\n7. AI 핵심 · [성공지식백과] 1.3K뷰 · 참여율 4.3%\n   직장인 야근 탈출 치트키? PPT 뼈대 제대로 만들어주는 미친 오픈소스.. ㄷㄷ\n   ↳ 워드 파일 하나만으로 PPT 초안을 자동으로 생성하고, AI로 영상/이미지까지 넣어주는 오픈소스 'ppt-master'와 AI 영상 생성 툴 'Higgsfield' 활용법을 소개합니다.\n   https://youtu.be/FIH_ZAxtQtU\n\n8. AI 핵심 · [AI Samson] 1.3K뷰 · 참여율 0.7%\n   One AI character, three outfits #aivideo #seedance\n   ↳ 자막을 확보하지 못해 제목·댓글·메타데이터 기준으로 분석했습니다.\n   https://youtu.be/Bfo_GZWfRVo\n\n9. AI 핵심 · [All About AI] 1.2K뷰 · 참여율 1.6%\n   Can AI Predict The Future and MAKE MONEY On The Outcome?\n   ↳ 자막을 확보하지 못해 제목·댓글·메타데이터 기준으로 분석했습니다.\n   https://youtu.be/SaBtmnZGBxo\n\n10. AI 핵심 · [동테크] 127뷰 · 참여율 7.9%\n   클링 AI, 30만원 태워서 전부 비교했습니다 (클링 vs 시댄스)\n   ↳ 30만원 상당의 크레딧을 투자해 Kling AI와 Pika Labs의 영상 생성 품질을 다양한 상황별로 직접 비교 분석했습니다.\n   https://youtu.be/us2vE0lHiwk\n\n📈 스마트대디 어제 실적\n조회수 28.6K (↓26% vs 7일 평균) | 구독 +169\n시청 지속률 27.1% | 평균 시청 2분 33초\n경쟁사 평균 4.5K회 대비 내 7일 평균 +746%\n\n💡 VS 각도: Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+    "video_count": 12,
+    "total_recent_video_count": 17,
     "focus_scope": "ai_priority_then_tech_fill",
-    "average_view_count": 12824.0,
-    "average_engagement_rate": 0.02555197234459985,
-    "average_like_count": 194.0,
-    "average_comment_count": 36.0,
-    "best_video_id": "nLSh7E2xEEY",
+    "average_view_count": 4548.0,
+    "average_engagement_rate": 0.03923806731626988,
+    "average_like_count": 112.0,
+    "average_comment_count": 9.0,
+    "best_video_id": "SdXqSqwk620",
     "best_topic": "Claude",
     "summary_points": [
-      "가장 겹친 주제는 'Claude'이며 3개 영상, 평균 조회수 7.4K, 평균 참여율 7.0%입니다.",
-      "최고 실적 영상은 'AI가 산토끼 때문에 미쳐버린 이유'이며 문제 해결 훅과 빌드 데모 포맷 조합이 강했습니다.",
-      "반복 노출된 툴은 Claude 4회, ChatGPT 3회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
+      "가장 겹친 주제는 'Claude'이며 3개 영상, 평균 조회수 2.5K, 평균 참여율 5.6%입니다.",
+      "최고 실적 영상은 'AI한테 버튼 하나 부탁했을 뿐인데'이며 문제 해결 훅과 빌드 데모 포맷 조합이 강했습니다.",
+      "반복 노출된 툴은 Claude 3회, Notion 1회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
     ],
     "action_chips": [
       "주제: Claude",
@@ -236020,11 +237468,11 @@ window.__DASHBOARD_DATA__ = {
         "title": "Claude vs ChatGPT, 일반인이 직접 써보니 이게 달랐다",
         "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
         "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-        "thumbnail_copy": "Claude 바로 해결",
+        "thumbnail_copy": "Claude 핵심 3가지",
         "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
-        "source_video_id": "nWrk7Z001h4",
-        "source": "클로드 웹사이트, 수상작처럼 만드는 무료 스킬 (디자인 40개·기법 55가지)",
-        "my_channel_context": "내 7일 평균 45.5K회 · 지속률 24.9% / 경쟁사 대비 +255%"
+        "source_video_id": "nA44EmayqY0",
+        "source": "영상 편집은 끝났다? 쇼츠 통째로 복사하는 미친 오픈소스.. ㄷㄷ",
+        "my_channel_context": "내 7일 평균 38.5K회 · 지속률 25.9% / 경쟁사 대비 +746%"
       },
       {
         "title": "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
@@ -236032,9 +237480,9 @@ window.__DASHBOARD_DATA__ = {
         "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
         "thumbnail_copy": "Claude 바로 해결",
         "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
-        "source_video_id": "gNv7MXP6KVs",
-        "source": "웹개발은 끝났다? 웹사이트 통째로 복사하는 미친 오픈소스.. ㄷㄷ",
-        "my_channel_context": "내 7일 평균 45.5K회 · 지속률 24.9% / 경쟁사 대비 +255%"
+        "source_video_id": "FIH_ZAxtQtU",
+        "source": "직장인 야근 탈출 치트키? PPT 뼈대 제대로 만들어주는 미친 오픈소스.. ㄷㄷ",
+        "my_channel_context": "내 7일 평균 38.5K회 · 지속률 25.9% / 경쟁사 대비 +746%"
       },
       {
         "title": "AI 비서 대결: Claude가 진짜 강한 상황은 따로 있었다",
@@ -236042,243 +237490,233 @@ window.__DASHBOARD_DATA__ = {
         "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
         "thumbnail_copy": "Claude 바로 해결",
         "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
-        "source_video_id": "6lPgzuKb90g",
-        "source": "클로드 스킬 154만 개, 말만 하면 알아서 찾아 깔아 줍니다 (무료)",
-        "my_channel_context": "내 7일 평균 45.5K회 · 지속률 24.9% / 경쟁사 대비 +255%"
+        "source_video_id": "XTFp07FNBJ4",
+        "source": "클로드 코드에 AI 전문가 280명, 에이전시가 통째로 생깁니다 (★16만, 무료)",
+        "my_channel_context": "내 7일 평균 38.5K회 · 지속률 25.9% / 경쟁사 대비 +746%"
       }
     ],
     "topic_clusters": [
       {
         "label": "Claude",
         "count": 3,
-        "avg_view_count": 7397,
-        "avg_engagement_rate": 0.06991194682618561,
-        "avg_like_count": 271,
-        "avg_comment_count": 124,
+        "avg_view_count": 2473,
+        "avg_engagement_rate": 0.05585522042827559,
+        "avg_like_count": 121,
+        "avg_comment_count": 6,
         "source_titles": [
-          "클로드 웹사이트, 수상작처럼 만드는 무료 스킬 (디자인 40개·기법 55가지)",
-          "웹개발은 끝났다? 웹사이트 통째로 복사하는 미친 오픈소스.. ㄷㄷ",
-          "클로드 스킬 154만 개, 말만 하면 알아서 찾아 깔아 줍니다 (무료)"
+          "영상 편집은 끝났다? 쇼츠 통째로 복사하는 미친 오픈소스.. ㄷㄷ",
+          "직장인 야근 탈출 치트키? PPT 뼈대 제대로 만들어주는 미친 오픈소스.. ㄷㄷ",
+          "클로드 코드에 AI 전문가 280명, 에이전시가 통째로 생깁니다 (★16만, 무료)"
         ],
-        "thumbnail_url": "https://i.ytimg.com/vi/nWrk7Z001h4/hqdefault.jpg",
-        "representative_video_id": "nWrk7Z001h4",
-        "representative_title": "클로드 웹사이트, 수상작처럼 만드는 무료 스킬 (디자인 40개·기법 55가지)"
+        "thumbnail_url": "https://i.ytimg.com/vi/nA44EmayqY0/hqdefault.jpg",
+        "representative_video_id": "nA44EmayqY0",
+        "representative_title": "영상 편집은 끝났다? 쇼츠 통째로 복사하는 미친 오픈소스.. ㄷㄷ"
       },
       {
-        "label": "ChatGPT",
+        "label": "코딩",
         "count": 2,
-        "avg_view_count": 9698,
-        "avg_engagement_rate": 0.018328521344607135,
-        "avg_like_count": 322,
-        "avg_comment_count": 34,
+        "avg_view_count": 2436,
+        "avg_engagement_rate": 0.04036539277503133,
+        "avg_like_count": 116,
+        "avg_comment_count": 12,
         "source_titles": [
-          "6 AI Updates Worth Knowing & A Bubble-Bursting IPO",
-          "(광고) AI 6개에게 2주간 모의 투자를 맡겼더니? 결과 공개 LIVE"
+          "NEW Free AI Image Model With (Almost) No Restrictions",
+          "Can AI Predict The Future and MAKE MONEY On The Outcome?"
         ],
-        "thumbnail_url": "https://i.ytimg.com/vi/eDiQNFa-zYg/hqdefault.jpg",
-        "representative_video_id": "eDiQNFa-zYg",
-        "representative_title": "6 AI Updates Worth Knowing & A Bubble-Bursting IPO"
-      },
-      {
-        "label": "AI가",
-        "count": 1,
-        "avg_view_count": 43778,
-        "avg_engagement_rate": 0.010827356206313674,
-        "avg_like_count": 444,
-        "avg_comment_count": 30,
-        "source_titles": [
-          "AI가 산토끼 때문에 미쳐버린 이유"
-        ],
-        "thumbnail_url": "https://i.ytimg.com/vi/nLSh7E2xEEY/hqdefault.jpg",
-        "representative_video_id": "nLSh7E2xEEY",
-        "representative_title": "AI가 산토끼 때문에 미쳐버린 이유"
+        "thumbnail_url": "https://i.ytimg.com/vi/zO0ZPBj0G3I/hqdefault.jpg",
+        "representative_video_id": "zO0ZPBj0G3I",
+        "representative_title": "NEW Free AI Image Model With (Almost) No Restrictions"
       },
       {
         "label": "agents",
         "count": 1,
-        "avg_view_count": 23652,
-        "avg_engagement_rate": 0.011204126500930153,
-        "avg_like_count": 250,
-        "avg_comment_count": 15,
+        "avg_view_count": 22940,
+        "avg_engagement_rate": 0.008238884045335659,
+        "avg_like_count": 170,
+        "avg_comment_count": 19,
         "source_titles": [
-          "AI 작업은 싸졌는데 GPU 임대료는 왜 오를까? | 구글·MS·AWS 실적으로 살펴본 처리 효율, AI가 더 많이 쓰이면 한국 메모리도 바로 늘어날까?"
+          "AI한테 버튼 하나 부탁했을 뿐인데"
         ],
-        "thumbnail_url": "https://i.ytimg.com/vi/B2QBL9TV6bI/hqdefault.jpg",
-        "representative_video_id": "B2QBL9TV6bI",
-        "representative_title": "AI 작업은 싸졌는데 GPU 임대료는 왜 오를까? | 구글·MS·AWS 실적으로 살펴본 처리 효율, AI가 더 많이 쓰이면 한국 메모리도 바로 늘어날까?"
+        "thumbnail_url": "https://i.ytimg.com/vi/SdXqSqwk620/hqdefault.jpg",
+        "representative_video_id": "SdXqSqwk620",
+        "representative_title": "AI한테 버튼 하나 부탁했을 뿐인데"
       },
       {
-        "label": "엑셀은",
+        "label": "수익화",
         "count": 1,
-        "avg_view_count": 21204,
-        "avg_engagement_rate": 0.008677607998490851,
-        "avg_like_count": 174,
-        "avg_comment_count": 10,
+        "avg_view_count": 6892,
+        "avg_engagement_rate": 0.04309344167150319,
+        "avg_like_count": 274,
+        "avg_comment_count": 23,
         "source_titles": [
-          "엑셀은 이제 AI 프로그램입니다"
+          "Glasses That Make You Telepathic"
         ],
-        "thumbnail_url": "https://i.ytimg.com/vi/1rDlR0UxGE4/hqdefault.jpg",
-        "representative_video_id": "1rDlR0UxGE4",
-        "representative_title": "엑셀은 이제 AI 프로그램입니다"
+        "thumbnail_url": "https://i.ytimg.com/vi/_9R7QOhJh-o/hqdefault.jpg",
+        "representative_video_id": "_9R7QOhJh-o",
+        "representative_title": "Glasses That Make You Telepathic"
       },
       {
-        "label": "바둑",
+        "label": "ChatGPT",
         "count": 1,
-        "avg_view_count": 20546,
-        "avg_engagement_rate": 0.008468801713228852,
-        "avg_like_count": 153,
-        "avg_comment_count": 21,
+        "avg_view_count": 5014,
+        "avg_engagement_rate": 0.005983246908655764,
+        "avg_like_count": 28,
+        "avg_comment_count": 2,
         "source_titles": [
-          "바둑 AI를 상대로 14승 1패를 기록한 사람의 비밀"
+          "스펙 없이 삼일PwC 간 컴공 4학년의 비결"
         ],
-        "thumbnail_url": "https://i.ytimg.com/vi/lUi7OVENQHs/hqdefault.jpg",
-        "representative_video_id": "lUi7OVENQHs",
-        "representative_title": "바둑 AI를 상대로 14승 1패를 기록한 사람의 비밀"
+        "thumbnail_url": "https://i.ytimg.com/vi/f3XvOfhjNZE/hqdefault.jpg",
+        "representative_video_id": "f3XvOfhjNZE",
+        "representative_title": "스펙 없이 삼일PwC 간 컴공 4학년의 비결"
       },
       {
-        "label": "드디어",
+        "label": "인공지능",
         "count": 1,
-        "avg_view_count": 18631,
-        "avg_engagement_rate": 0.0076753797434383556,
-        "avg_like_count": 129,
-        "avg_comment_count": 14,
+        "avg_view_count": 4632,
+        "avg_engagement_rate": 0.05289291882556131,
+        "avg_like_count": 241,
+        "avg_comment_count": 4,
         "source_titles": [
-          "드디어 학대를 시작한 인간놈들"
+          "The next big AI tool is...."
         ],
-        "thumbnail_url": "https://i.ytimg.com/vi/SCr2l-0qEMM/hqdefault.jpg",
-        "representative_video_id": "SCr2l-0qEMM",
-        "representative_title": "드디어 학대를 시작한 인간놈들"
+        "thumbnail_url": "https://i.ytimg.com/vi/Ravnyp-ye08/hqdefault.jpg",
+        "representative_video_id": "Ravnyp-ye08",
+        "representative_title": "The next big AI tool is...."
       },
       {
-        "label": "창업",
+        "label": "Same",
         "count": 1,
-        "avg_view_count": 14612,
-        "avg_engagement_rate": 0.008280865042430878,
-        "avg_like_count": 107,
-        "avg_comment_count": 14,
+        "avg_view_count": 1390,
+        "avg_engagement_rate": 0.026618705035971222,
+        "avg_like_count": 26,
+        "avg_comment_count": 11,
         "source_titles": [
-          "하루 2만명이 쓰는 게임을 만든 비밀"
+          "Same 360 prompt, three AI video models #aivideo #seedance"
         ],
-        "thumbnail_url": "https://i.ytimg.com/vi/fxlpfCEIGUc/hqdefault.jpg",
-        "representative_video_id": "fxlpfCEIGUc",
-        "representative_title": "하루 2만명이 쓰는 게임을 만든 비밀"
+        "thumbnail_url": "https://i.ytimg.com/vi/pqFFpYYBD0Q/hqdefault.jpg",
+        "representative_video_id": "pqFFpYYBD0Q",
+        "representative_title": "Same 360 prompt, three AI video models #aivideo #seedance"
+      },
+      {
+        "label": "One",
+        "count": 1,
+        "avg_view_count": 1287,
+        "avg_engagement_rate": 0.006993006993006993,
+        "avg_like_count": 7,
+        "avg_comment_count": 2,
+        "source_titles": [
+          "One AI character, three outfits #aivideo #seedance"
+        ],
+        "thumbnail_url": "https://i.ytimg.com/vi/Bfo_GZWfRVo/hqdefault.jpg",
+        "representative_video_id": "Bfo_GZWfRVo",
+        "representative_title": "One AI character, three outfits #aivideo #seedance"
       }
     ],
     "video_highlights": [
       {
-        "video_id": "nLSh7E2xEEY",
+        "video_id": "SdXqSqwk620",
         "channel_name": "조코딩 JoCoding",
-        "title": "AI가 산토끼 때문에 미쳐버린 이유",
-        "thumbnail_url": "https://i.ytimg.com/vi/nLSh7E2xEEY/hqdefault.jpg",
-        "video_url": "https://www.youtube.com/watch?v=nLSh7E2xEEY",
-        "published_at": "2026-10-30T05:00:05Z",
-        "view_count": 43778,
-        "like_count": 444,
-        "comment_count": 30,
-        "engagement_rate": 0.010827356206313674,
-        "topic_cluster": "AI가",
-        "summary": "자막을 확보하지 못해 제목·댓글·메타데이터 기준으로 분석했습니다.",
-        "comment_signal": "요건 비단 LLM만의 이야기는 아니고 머신러닝이나 강화학습 등에서도 엄청 중요하게 보는 요인 중 하나죠 ResNet이나 잔차 관련된 알고리즘들 일부",
-        "hook_type": "문제 해결"
-      },
-      {
-        "video_id": "B2QBL9TV6bI",
-        "channel_name": "안될공학 - IT 테크 신기술",
-        "title": "AI 작업은 싸졌는데 GPU 임대료는 왜 오를까? | 구글·MS·AWS 실적으로 살펴본 처리 효율, AI가 더 많이 쓰이면 한국 메모리도 바로 늘어날까?",
-        "thumbnail_url": "https://i.ytimg.com/vi/B2QBL9TV6bI/hqdefault.jpg",
-        "video_url": "https://www.youtube.com/watch?v=B2QBL9TV6bI",
-        "published_at": "2026-10-30T10:57:36Z",
-        "view_count": 23652,
-        "like_count": 250,
-        "comment_count": 15,
-        "engagement_rate": 0.011204126500930153,
+        "title": "AI한테 버튼 하나 부탁했을 뿐인데",
+        "thumbnail_url": "https://i.ytimg.com/vi/SdXqSqwk620/hqdefault.jpg",
+        "video_url": "https://www.youtube.com/watch?v=SdXqSqwk620",
+        "published_at": "2026-10-31T02:57:06Z",
+        "view_count": 22940,
+        "like_count": 170,
+        "comment_count": 19,
+        "engagement_rate": 0.008238884045335659,
         "topic_cluster": "agents",
         "summary": "자막을 확보하지 못해 제목·댓글·메타데이터 기준으로 분석했습니다.",
-        "comment_signal": "잘 된겨요.어짜피 대화도 활용못하는 인간들인데 막 써바야 돈만 나가지.",
-        "hook_type": "시간 절약"
-      },
-      {
-        "video_id": "1rDlR0UxGE4",
-        "channel_name": "조코딩 JoCoding",
-        "title": "엑셀은 이제 AI 프로그램입니다",
-        "thumbnail_url": "https://i.ytimg.com/vi/1rDlR0UxGE4/hqdefault.jpg",
-        "video_url": "https://www.youtube.com/watch?v=1rDlR0UxGE4",
-        "published_at": "2026-10-30T09:00:03Z",
-        "view_count": 21204,
-        "like_count": 174,
-        "comment_count": 10,
-        "engagement_rate": 0.008677607998490851,
-        "topic_cluster": "엑셀은",
-        "summary": "자막을 확보하지 못해 제목·댓글·메타데이터 기준으로 분석했습니다.",
-        "comment_signal": "\"결국 전부 곱셈과 덧셈이라서\" 이부분 틀렸습니다. 곱셈 덧셈뿐이면 두번 반복하든 열두번 반복하든 다를 것이 없습니다. 비선형 함수가 있어야하고, 실제 구조도 그렇습니다.",
+        "comment_signal": "불과 2-3년전에 저런말을 사람이 들어야했다고.... ???: 버튼하나만 추가해주세요.",
         "hook_type": "문제 해결"
       },
       {
-        "video_id": "lUi7OVENQHs",
-        "channel_name": "조코딩 JoCoding",
-        "title": "바둑 AI를 상대로 14승 1패를 기록한 사람의 비밀",
-        "thumbnail_url": "https://i.ytimg.com/vi/lUi7OVENQHs/hqdefault.jpg",
-        "video_url": "https://www.youtube.com/watch?v=lUi7OVENQHs",
-        "published_at": "2026-10-30T10:00:30Z",
-        "view_count": 20546,
-        "like_count": 153,
-        "comment_count": 21,
-        "engagement_rate": 0.008468801713228852,
-        "topic_cluster": "바둑",
-        "summary": "자막을 확보하지 못해 제목·댓글·메타데이터 기준으로 분석했습니다.",
-        "comment_signal": "katabot은 과적합 되었다는 말임 ㅋㅋ",
-        "hook_type": "문제 해결"
-      },
-      {
-        "video_id": "eDiQNFa-zYg",
+        "video_id": "_9R7QOhJh-o",
         "channel_name": "Matt Wolfe",
-        "title": "6 AI Updates Worth Knowing & A Bubble-Bursting IPO",
-        "thumbnail_url": "https://i.ytimg.com/vi/eDiQNFa-zYg/hqdefault.jpg",
-        "video_url": "https://www.youtube.com/watch?v=eDiQNFa-zYg",
-        "published_at": "2026-10-30T21:15:04Z",
-        "view_count": 19396,
-        "like_count": 644,
-        "comment_count": 67,
-        "engagement_rate": 0.03665704268921427,
+        "title": "Glasses That Make You Telepathic",
+        "thumbnail_url": "https://i.ytimg.com/vi/_9R7QOhJh-o/hqdefault.jpg",
+        "video_url": "https://www.youtube.com/watch?v=_9R7QOhJh-o",
+        "published_at": "2026-10-31T18:16:57Z",
+        "view_count": 6892,
+        "like_count": 274,
+        "comment_count": 23,
+        "engagement_rate": 0.04309344167150319,
+        "topic_cluster": "수익화",
+        "summary": "생각만으로 텍스트를 입력할 수 있는 AI 안경 기술을 소개하며, 뇌파를 읽어 텍스트로 변환하는 이 기술의 미래 가능성과 윤리적 쟁점을 탐색합니다.",
+        "comment_signal": "Could also help the disabled with speech disorders. In the world that’s turning everything into…",
+        "hook_type": "문제 해결"
+      },
+      {
+        "video_id": "nA44EmayqY0",
+        "channel_name": "성공지식백과",
+        "title": "영상 편집은 끝났다? 쇼츠 통째로 복사하는 미친 오픈소스.. ㄷㄷ",
+        "thumbnail_url": "https://i.ytimg.com/vi/nA44EmayqY0/hqdefault.jpg",
+        "video_url": "https://www.youtube.com/watch?v=nA44EmayqY0",
+        "published_at": "2026-10-31T22:21:15Z",
+        "view_count": 6073,
+        "like_count": 307,
+        "comment_count": 14,
+        "engagement_rate": 0.052856907623909107,
+        "topic_cluster": "Claude",
+        "summary": "인기 영상의 구조, 타이밍, 자막, 효과음까지 분석해 완전히 새로운 영상으로 재구성하는 오픈소스 'Hypit'과 다양한 AI 영상 모델(시댄스 2.5, 클링 4.0…",
+        "comment_signal": "저런 방식으로 작업될 경우 토큰 엄청나게 들어갑니다. 이런 것도 있구나~ 정도만 참고하면 될듯",
+        "hook_type": "실험 데모"
+      },
+      {
+        "video_id": "f3XvOfhjNZE",
+        "channel_name": "조코딩 JoCoding",
+        "title": "스펙 없이 삼일PwC 간 컴공 4학년의 비결",
+        "thumbnail_url": "https://i.ytimg.com/vi/f3XvOfhjNZE/hqdefault.jpg",
+        "video_url": "https://www.youtube.com/watch?v=f3XvOfhjNZE",
+        "published_at": "2026-10-31T09:54:33Z",
+        "view_count": 5014,
+        "like_count": 28,
+        "comment_count": 2,
+        "engagement_rate": 0.005983246908655764,
         "topic_cluster": "ChatGPT",
-        "summary": "AI 업계의 최신 소식으로 GPT-6.1 Terra의 성능 향상 및 비용 절감, Gemini 4 Carbon의 발전, Genie 4를 통한 실시간 AI 월드 구현,…",
-        "comment_signal": "I like this format, but the rapid-fire part was especially helpful because it caught small thin…",
-        "hook_type": "긴급성"
+        "summary": "대학생이 AI 하나로 대기업에 취직한 방법 컴퓨터공학과 4학년 조영탁 님은 AX인재전쟁 1기 본선에서 CEO의 의사결정 오류를 찾아 분석하는 AI 에이전트를 만들었…",
+        "comment_signal": "🎁 axacademy.ai 가입만 해도 ChatGPT Plus 1개월 이용권 추첨! 가입자 중 1,000명에게 드려요. AX인재전쟁 온라인, 지금 axacademy.ai…",
+        "hook_type": "문제 해결"
+      },
+      {
+        "video_id": "Ravnyp-ye08",
+        "channel_name": "Dan Martell",
+        "title": "The next big AI tool is....",
+        "thumbnail_url": "https://i.ytimg.com/vi/Ravnyp-ye08/hqdefault.jpg",
+        "video_url": "https://www.youtube.com/watch?v=Ravnyp-ye08",
+        "published_at": "2026-10-31T21:02:47Z",
+        "view_count": 4632,
+        "like_count": 241,
+        "comment_count": 4,
+        "engagement_rate": 0.05289291882556131,
+        "topic_cluster": "인공지능",
+        "summary": "차세대 AI 툴로 Grok(X AI)을 소개하며, 기존 툴과의 비교 및 잠재력에 대해 논의합니다.",
+        "comment_signal": "It’s the X factor. Using it in a Tesla brings it to the next level. It’s getting more and more…",
+        "hook_type": "문제 해결"
       }
     ]
   },
   "my_channel": {
-    "generated_at": "2026-10-31T11:15:25.246936+09:00",
+    "generated_at": "2026-11-01T11:06:56.371973+09:00",
     "channel_name": "스마트대디",
     "period_days": 7,
     "daily": [
       {
-        "date": "2026-10-25",
-        "views": 56162,
-        "likes": 392,
-        "comments": 22,
-        "subscribers_net": 225,
-        "watch_minutes": 41600,
-        "avg_view_duration_sec": 128.0,
-        "avg_view_percentage": 23.08
-      },
-      {
         "date": "2026-10-26",
-        "views": 45445,
+        "views": 45146,
         "likes": 331,
         "comments": 10,
         "subscribers_net": 224,
-        "watch_minutes": 34390,
+        "watch_minutes": 34241,
         "avg_view_duration_sec": 135.0,
-        "avg_view_percentage": 23.53
+        "avg_view_percentage": 23.52
       },
       {
         "date": "2026-10-27",
-        "views": 39591,
+        "views": 39266,
         "likes": 335,
         "comments": 7,
         "subscribers_net": 243,
-        "watch_minutes": 33607,
+        "watch_minutes": 33435,
         "avg_view_duration_sec": 147.0,
         "avg_view_percentage": 25.03
       },
@@ -236291,107 +237729,117 @@ window.__DASHBOARD_DATA__ = {
         "watch_minutes": 38345,
         "avg_view_duration_sec": 155.0,
         "avg_view_percentage": 28.059999999999995
+      },
+      {
+        "date": "2026-10-29",
+        "views": 28558,
+        "likes": 243,
+        "comments": 18,
+        "subscribers_net": 169,
+        "watch_minutes": 26742,
+        "avg_view_duration_sec": 153.0,
+        "avg_view_percentage": 27.05
       }
     ],
     "video_stats": [
       {
         "video_id": "GNNmGwyduao",
-        "views": 780145,
+        "views": 785842,
         "avg_view_percentage": 20.43,
         "avg_view_duration_sec": 96.0,
-        "likes": 6984,
-        "comments": 276
+        "likes": 7011,
+        "comments": 277
       },
       {
         "video_id": "uTcTrFGiJ_g",
-        "views": 135180,
-        "avg_view_percentage": 25.27,
+        "views": 145945,
+        "avg_view_percentage": 25.290000000000003,
         "avg_view_duration_sec": 162.0,
-        "likes": 2052,
-        "comments": 66
+        "likes": 2191,
+        "comments": 70
       },
       {
         "video_id": "wLkh7VVBNbg",
-        "views": 134485,
-        "avg_view_percentage": 29.26,
+        "views": 129256,
+        "avg_view_percentage": 29.21,
         "avg_view_duration_sec": 198.0,
-        "likes": 436,
-        "comments": 17
+        "likes": 408,
+        "comments": 18
       },
       {
         "video_id": "QQtaf0tfgwE",
-        "views": 125794,
-        "avg_view_percentage": 36.17,
+        "views": 126841,
+        "avg_view_percentage": 36.11,
         "avg_view_duration_sec": 262.0,
-        "likes": 639,
+        "likes": 641,
         "comments": 99
       },
       {
         "video_id": "Kbf8yqauzF0",
-        "views": 40488,
-        "avg_view_percentage": 26.46,
+        "views": 40476,
+        "avg_view_percentage": 26.450000000000003,
         "avg_view_duration_sec": 169.0,
-        "likes": 154,
+        "likes": 158,
         "comments": 5
       },
       {
         "video_id": "kly6rQQctmI",
-        "views": 27235,
-        "avg_view_percentage": 25.509999999999998,
+        "views": 27392,
+        "avg_view_percentage": 25.480000000000004,
         "avg_view_duration_sec": 209.0,
-        "likes": 163,
+        "likes": 164,
         "comments": 31
       },
       {
+        "video_id": "HXaPZiEfXfQ",
+        "views": 15887,
+        "avg_view_percentage": 36.42,
+        "avg_view_duration_sec": 163.0,
+        "likes": 196,
+        "comments": 33
+      },
+      {
         "video_id": "Ts-9MMZzkhM",
-        "views": 14853,
-        "avg_view_percentage": 17.67,
-        "avg_view_duration_sec": 151.0,
-        "likes": 34,
-        "comments": 4
+        "views": 14719,
+        "avg_view_percentage": 17.75,
+        "avg_view_duration_sec": 152.0,
+        "likes": 29,
+        "comments": 3
       },
       {
         "video_id": "cuOIjhvI32c",
-        "views": 11900,
-        "avg_view_percentage": 27.16,
-        "avg_view_duration_sec": 233.0,
-        "likes": 54,
-        "comments": 6
-      },
-      {
-        "video_id": "HXaPZiEfXfQ",
-        "views": 11517,
-        "avg_view_percentage": 35.75,
-        "avg_view_duration_sec": 160.0,
-        "likes": 136,
-        "comments": 24
+        "views": 10970,
+        "avg_view_percentage": 27.0,
+        "avg_view_duration_sec": 231.0,
+        "likes": 42,
+        "comments": 7
       },
       {
         "video_id": "qyTUW0fqgzc",
-        "views": 10400,
-        "avg_view_percentage": 95.48,
+        "views": 10326,
+        "avg_view_percentage": 95.7,
         "avg_view_duration_sec": 44.0,
         "likes": 37,
         "comments": 3
       }
     ],
     "yesterday": {
-      "date": "2026-10-28",
-      "views": 40969,
-      "likes": 347,
-      "comments": 29,
-      "subscribers_net": 229,
-      "watch_minutes": 38345,
-      "avg_view_duration_sec": 155.0,
-      "avg_view_percentage": 28.059999999999995,
-      "engagement_rate": 0.0092
+      "date": "2026-10-29",
+      "views": 28558,
+      "likes": 243,
+      "comments": 18,
+      "subscribers_net": 169,
+      "watch_minutes": 26742,
+      "avg_view_duration_sec": 153.0,
+      "avg_view_percentage": 27.05,
+      "engagement_rate": 0.0091
     },
     "avg_7d": {
-      "views": 45541.75,
-      "likes": 351.25,
-      "comments": 17.0,
-      "subscribers_net": 230.25,
-      "avg_view_percentage": 24.92
+      "views": 38484.75,
+      "likes": 314.0,
+      "comments": 16.0,
+      "subscribers_net": 216.25,
+      "avg_view_percentage": 25.91
     }
   }
 };
