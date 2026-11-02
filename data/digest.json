@@ -1,22 +1,22 @@
 {
-  "digest_date": "2026-11-01",
-  "generated_at": "2026-11-01T02:08:54+00:00",
-  "summary": "최근 24시간 영상 12개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'Claude'입니다. 특히 'AI한테 버튼 하나 부탁했을 뿐인데'는 조회수 22.9K, 참여율 0.8%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "'Claude' 주제가 3개 영상으로 가장 많이 다뤄졌습니다. Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n[내 채널] 7일 평균 38.5K회 · 지속률 25.9% / 경쟁사 평균 4.5K회 (격차 +746%)",
-  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 11/01\n\n📊 총 10개 | AI 핵심 10 · 인접 AI 0 · 일반 테크 보충 0\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 10 · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [조코딩 JoCoding] 22.9K뷰 · 참여율 0.8%\n   AI한테 버튼 하나 부탁했을 뿐인데\n   ↳ 자막을 확보하지 못해 제목·댓글·메타데이터 기준으로 분석했습니다.\n   https://youtu.be/SdXqSqwk620\n\n2. AI 핵심 · [Matt Wolfe] 6.9K뷰 · 참여율 4.3%\n   Glasses That Make You Telepathic\n   ↳ 생각만으로 텍스트를 입력할 수 있는 AI 안경 기술을 소개하며, 뇌파를 읽어 텍스트로 변환하는 이 기술의 미래 가능성과 윤리적 쟁점을 탐색합니다.\n   https://youtu.be/_9R7QOhJh-o\n\n3. AI 핵심 · [성공지식백과] 6.1K뷰 · 참여율 5.3%\n   영상 편집은 끝났다? 쇼츠 통째로 복사하는 미친 오픈소스.. ㄷㄷ\n   ↳ 인기 영상의 구조, 타이밍, 자막, 효과음까지 분석해 완전히 새로운 영상으로 재구성하는 오픈소스 'Hypit'과 다양한 AI 영상 모델(시댄스 2.5, 클링 4.0, 미니맥스 H3) 비교를 통해 AI 영상 제작의…\n   https://youtu.be/nA44EmayqY0\n\n4. AI 핵심 · [조코딩 JoCoding] 5.0K뷰 · 참여율 0.6%\n   스펙 없이 삼일PwC 간 컴공 4학년의 비결\n   ↳ 대학생이 AI 하나로 대기업에 취직한 방법 컴퓨터공학과 4학년 조영탁 님은 AX인재전쟁 1기 본선에서 CEO의 의사결정 오류를 찾아 분석하는 AI 에이전트를 만들었고, 삼일PwC에 채용되었어요.\n   https://youtu.be/f3XvOfhjNZE\n\n5. AI 핵심 · [AI Samson] 3.7K뷰 · 참여율 6.5%\n   NEW Free AI Image Model With (Almost) No Restrictions\n   ↳ 무료 오픈소스 AI 이미지 모델 MOSS-Image를 맥북에 직접 설치하고, 상용 모델들과 비교하며 성능과 사용성을 실제 테스트한 영상입니다.\n   https://youtu.be/zO0ZPBj0G3I\n\n6. AI 핵심 · [AI Samson] 1.4K뷰 · 참여율 2.7%\n   Same 360 prompt, three AI video models #aivideo #seedance\n   ↳ 자막을 확보하지 못해 제목·댓글·메타데이터 기준으로 분석했습니다.\n   https://youtu.be/pqFFpYYBD0Q\n\n7. AI 핵심 · [성공지식백과] 1.3K뷰 · 참여율 4.3%\n   직장인 야근 탈출 치트키? PPT 뼈대 제대로 만들어주는 미친 오픈소스.. ㄷㄷ\n   ↳ 워드 파일 하나만으로 PPT 초안을 자동으로 생성하고, AI로 영상/이미지까지 넣어주는 오픈소스 'ppt-master'와 AI 영상 생성 툴 'Higgsfield' 활용법을 소개합니다.\n   https://youtu.be/FIH_ZAxtQtU\n\n8. AI 핵심 · [AI Samson] 1.3K뷰 · 참여율 0.7%\n   One AI character, three outfits #aivideo #seedance\n   ↳ 자막을 확보하지 못해 제목·댓글·메타데이터 기준으로 분석했습니다.\n   https://youtu.be/Bfo_GZWfRVo\n\n9. AI 핵심 · [All About AI] 1.2K뷰 · 참여율 1.6%\n   Can AI Predict The Future and MAKE MONEY On The Outcome?\n   ↳ 자막을 확보하지 못해 제목·댓글·메타데이터 기준으로 분석했습니다.\n   https://youtu.be/SaBtmnZGBxo\n\n10. AI 핵심 · [동테크] 127뷰 · 참여율 7.9%\n   클링 AI, 30만원 태워서 전부 비교했습니다 (클링 vs 시댄스)\n   ↳ 30만원 상당의 크레딧을 투자해 Kling AI와 Pika Labs의 영상 생성 품질을 다양한 상황별로 직접 비교 분석했습니다.\n   https://youtu.be/us2vE0lHiwk\n\n📈 스마트대디 어제 실적\n조회수 28.6K (↓26% vs 7일 평균) | 구독 +169\n시청 지속률 27.1% | 평균 시청 2분 33초\n경쟁사 평균 4.5K회 대비 내 7일 평균 +746%\n\n💡 VS 각도: Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
-  "video_count": 12,
-  "total_recent_video_count": 17,
+  "digest_date": "2026-11-02",
+  "generated_at": "2026-11-02T02:22:34+00:00",
+  "summary": "최근 24시간 영상 6개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'Claude'입니다. 특히 'IT뉴스 - Gemini 4 Carbon, 검색의 종말, 앤트로픽 S1, GPT-6.1 테라, Subvocal, LFM3, agent-desktop, 바이낸스 해킹 등'는 조회수 33.4K, 참여율 1.0%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "'Claude' 주제가 2개 영상으로 가장 많이 다뤄졌습니다. 오늘 수집 영상 6개는 주로 '빌드 데모' 포맷이라, VS 비교·직접 실험 각도는 아직 비어 있습니다. Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n[내 채널] 7일 평균 50.1K회 · 지속률 29.1% / 경쟁사 평균 10.0K회 (격차 +399%)",
+  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 11/02\n\n📊 총 6개 | AI 핵심 4 · 인접 AI 2 · 일반 테크 보충 0\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 6 (최대 10) · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [조코딩 JoCoding] 33.4K뷰 · 참여율 1.0%\n   IT뉴스 - Gemini 4 Carbon, 검색의 종말, 앤트로픽 S1, GPT-6.1 테라, Subvocal, LFM3, agent-de…\n   ↳ 최신 IT 뉴스와 AI 기술 트렌드를 다루며, 구독자를 위한 특별 할인 이벤트 정보를 함께 제공하는 영상입니다.\n   https://youtu.be/2Aa0ArNDHVU\n\n2. AI 핵심 · [성공지식백과] 9.7K뷰 · 참여율 1.3%\n   AI 드라마 제작, 클로드가 짜준 자동화 워크플로우 미쳤습니다.. ㄷㄷ\n   ↳ Newtake 캔버스와 클로드 MCP 자동화 기능을 활용하여 캐릭터 시트 제작부터 카메라 연출 및 영상 효과까지 포함된 AI 드라마 제작 과정을 상세히 설명합니다.\n   https://youtu.be/EXFD2VzpXso\n\n3. AI 핵심 · [성공지식백과] 7.7K뷰 · 참여율 1.2%\n   소프트웨어는 끝났다? 앱 통째로 복사하는 미친 오픈소스.. ㄷㄷ #REA #리버스엔지니어링 #클로드코드 #바이브코딩\n   ↳ 오픈소스 도구인 REA(Reverse Engineer Anything)와 클로드 코드를 사용하여 기존 윈도우 그림판을 복제하고 새로운 기능을 11분 만에 추가하는 과정을 보여줍니다.\n   https://youtu.be/M3pNQx-xRDc\n\n4. AI 핵심 · [빌더 조쉬 Builder Josh] 110뷰 · 참여율 7.3%\n   클로드 코드를 시니어 개발자로 만드는 무료 플러그인 5개 (별 39만)\n   ↳ 클로드 코드를 시니어 개발자 수준으로 향상해 주는 에이전트 스킬즈, 컨텍스트7, 그래피파이, 매직, 스트릭스 등 5가지 필수 오픈소스 플러그인을 소개합니다.\n   https://youtu.be/DeZ-QbwHGAQ\n\n5. AI 인접 · [Dan Martell] 4.9K뷰 · 참여율 4.8%\n   My 3 step hiring process to get great talent\n   ↳ 우수 인재 채용을 위해 본인이 활용하는 3단계 채용 프로세스를 설명하고 팀 합류를 독려합니다.\n   https://youtu.be/te0jtnhp-Go\n\n6. AI 인접 · [Dan Martell] 4.5K뷰 · 참여율 4.0%\n   Are you using voice mode on GrokBot?\n   ↳ GrokBot의 음성 모드 활용 여부를 질문하며 해당 기능에 대해 다루고 있습니다.\n   https://youtu.be/p-NY0B1AthI\n\n📈 스마트대디 어제 실적\n조회수 91.8K (↑83% vs 7일 평균) | 구독 +500\n시청 지속률 36.4% | 평균 시청 2분 51초\n경쟁사 평균 10.0K회 대비 내 7일 평균 +399%\n\n💡 VS 각도: Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+  "video_count": 6,
+  "total_recent_video_count": 8,
   "focus_scope": "ai_priority_then_tech_fill",
-  "average_view_count": 4548.0,
-  "average_engagement_rate": 0.03923806731626988,
-  "average_like_count": 112.0,
-  "average_comment_count": 9.0,
-  "best_video_id": "SdXqSqwk620",
+  "average_view_count": 10041.0,
+  "average_engagement_rate": 0.03257220696207238,
+  "average_like_count": 158.0,
+  "average_comment_count": 3.0,
+  "best_video_id": "2Aa0ArNDHVU",
   "best_topic": "Claude",
   "summary_points": [
-    "가장 겹친 주제는 'Claude'이며 3개 영상, 평균 조회수 2.5K, 평균 참여율 5.6%입니다.",
-    "최고 실적 영상은 'AI한테 버튼 하나 부탁했을 뿐인데'이며 문제 해결 훅과 빌드 데모 포맷 조합이 강했습니다.",
-    "반복 노출된 툴은 Claude 3회, Notion 1회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
+    "가장 겹친 주제는 'Claude'이며 2개 영상, 평균 조회수 3.9K, 평균 참여율 4.2%입니다.",
+    "최고 실적 영상은 'IT뉴스 - Gemini 4 Carbon, 검색의 종말, 앤트로픽 S1, GPT-6.1 테라, Subvocal, LFM3, agent-desktop, 바이낸스 해킹 등'이며 문제 해결 훅과 빌드 데모 포맷 조합이 강했습니다.",
+    "반복 노출된 툴은 Claude 2회, MCP 2회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
   ],
   "action_chips": [
     "주제: Claude",
@@ -34,11 +34,11 @@
       "title": "Claude vs ChatGPT, 일반인이 직접 써보니 이게 달랐다",
       "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
       "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "Claude 핵심 3가지",
+      "thumbnail_copy": "Claude 바로 해결",
       "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
-      "source_video_id": "nA44EmayqY0",
-      "source": "영상 편집은 끝났다? 쇼츠 통째로 복사하는 미친 오픈소스.. ㄷㄷ",
-      "my_channel_context": "내 7일 평균 38.5K회 · 지속률 25.9% / 경쟁사 대비 +746%"
+      "source_video_id": "M3pNQx-xRDc",
+      "source": "소프트웨어는 끝났다? 앱 통째로 복사하는 미친 오픈소스.. ㄷㄷ  #REA #리버스엔지니어링 #클로드코드 #바이브코딩",
+      "my_channel_context": "내 7일 평균 50.1K회 · 지속률 29.1% / 경쟁사 대비 +399%"
     },
     {
       "title": "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
@@ -46,217 +46,163 @@
       "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
       "thumbnail_copy": "Claude 바로 해결",
       "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
-      "source_video_id": "FIH_ZAxtQtU",
-      "source": "직장인 야근 탈출 치트키? PPT 뼈대 제대로 만들어주는 미친 오픈소스.. ㄷㄷ",
-      "my_channel_context": "내 7일 평균 38.5K회 · 지속률 25.9% / 경쟁사 대비 +746%"
-    },
-    {
-      "title": "AI 비서 대결: Claude가 진짜 강한 상황은 따로 있었다",
-      "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "Claude 바로 해결",
-      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
-      "source_video_id": "XTFp07FNBJ4",
-      "source": "클로드 코드에 AI 전문가 280명, 에이전시가 통째로 생깁니다 (★16만, 무료)",
-      "my_channel_context": "내 7일 평균 38.5K회 · 지속률 25.9% / 경쟁사 대비 +746%"
+      "source_video_id": "DeZ-QbwHGAQ",
+      "source": "클로드 코드를 시니어 개발자로 만드는 무료 플러그인 5개 (별 39만)",
+      "my_channel_context": "내 7일 평균 50.1K회 · 지속률 29.1% / 경쟁사 대비 +399%"
     }
   ],
   "topic_clusters": [
     {
       "label": "Claude",
-      "count": 3,
-      "avg_view_count": 2473,
-      "avg_engagement_rate": 0.05585522042827559,
-      "avg_like_count": 121,
-      "avg_comment_count": 6,
-      "source_titles": [
-        "영상 편집은 끝났다? 쇼츠 통째로 복사하는 미친 오픈소스.. ㄷㄷ",
-        "직장인 야근 탈출 치트키? PPT 뼈대 제대로 만들어주는 미친 오픈소스.. ㄷㄷ",
-        "클로드 코드에 AI 전문가 280명, 에이전시가 통째로 생깁니다 (★16만, 무료)"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/nA44EmayqY0/hqdefault.jpg",
-      "representative_video_id": "nA44EmayqY0",
-      "representative_title": "영상 편집은 끝났다? 쇼츠 통째로 복사하는 미친 오픈소스.. ㄷㄷ"
-    },
-    {
-      "label": "코딩",
       "count": 2,
-      "avg_view_count": 2436,
-      "avg_engagement_rate": 0.04036539277503133,
-      "avg_like_count": 116,
-      "avg_comment_count": 12,
+      "avg_view_count": 3896,
+      "avg_engagement_rate": 0.042352439904841936,
+      "avg_like_count": 50,
+      "avg_comment_count": 0,
       "source_titles": [
-        "NEW Free AI Image Model With (Almost) No Restrictions",
-        "Can AI Predict The Future and MAKE MONEY On The Outcome?"
+        "소프트웨어는 끝났다? 앱 통째로 복사하는 미친 오픈소스.. ㄷㄷ  #REA #리버스엔지니어링 #클로드코드 #바이브코딩",
+        "클로드 코드를 시니어 개발자로 만드는 무료 플러그인 5개 (별 39만)"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/zO0ZPBj0G3I/hqdefault.jpg",
-      "representative_video_id": "zO0ZPBj0G3I",
-      "representative_title": "NEW Free AI Image Model With (Almost) No Restrictions"
+      "thumbnail_url": "https://i.ytimg.com/vi/M3pNQx-xRDc/hqdefault.jpg",
+      "representative_video_id": "M3pNQx-xRDc",
+      "representative_title": "소프트웨어는 끝났다? 앱 통째로 복사하는 미친 오픈소스.. ㄷㄷ  #REA #리버스엔지니어링 #클로드코드 #바이브코딩"
     },
     {
-      "label": "agents",
+      "label": "Gemini",
       "count": 1,
-      "avg_view_count": 22940,
-      "avg_engagement_rate": 0.008238884045335659,
-      "avg_like_count": 170,
-      "avg_comment_count": 19,
+      "avg_view_count": 33417,
+      "avg_engagement_rate": 0.009964987880420145,
+      "avg_like_count": 326,
+      "avg_comment_count": 7,
       "source_titles": [
-        "AI한테 버튼 하나 부탁했을 뿐인데"
+        "IT뉴스 - Gemini 4 Carbon, 검색의 종말, 앤트로픽 S1, GPT-6.1 테라, Subvocal, LFM3, agent-desktop, 바이낸스 해킹 등"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/SdXqSqwk620/hqdefault.jpg",
-      "representative_video_id": "SdXqSqwk620",
-      "representative_title": "AI한테 버튼 하나 부탁했을 뿐인데"
+      "thumbnail_url": "https://i.ytimg.com/vi/2Aa0ArNDHVU/hqdefault.jpg",
+      "representative_video_id": "2Aa0ArNDHVU",
+      "representative_title": "IT뉴스 - Gemini 4 Carbon, 검색의 종말, 앤트로픽 S1, GPT-6.1 테라, Subvocal, LFM3, agent-desktop, 바이낸스 해킹 등"
     },
     {
-      "label": "수익화",
+      "label": "MCP",
       "count": 1,
-      "avg_view_count": 6892,
-      "avg_engagement_rate": 0.04309344167150319,
-      "avg_like_count": 274,
-      "avg_comment_count": 23,
-      "source_titles": [
-        "Glasses That Make You Telepathic"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/_9R7QOhJh-o/hqdefault.jpg",
-      "representative_video_id": "_9R7QOhJh-o",
-      "representative_title": "Glasses That Make You Telepathic"
-    },
-    {
-      "label": "ChatGPT",
-      "count": 1,
-      "avg_view_count": 5014,
-      "avg_engagement_rate": 0.005983246908655764,
-      "avg_like_count": 28,
-      "avg_comment_count": 2,
-      "source_titles": [
-        "스펙 없이 삼일PwC 간 컴공 4학년의 비결"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/f3XvOfhjNZE/hqdefault.jpg",
-      "representative_video_id": "f3XvOfhjNZE",
-      "representative_title": "스펙 없이 삼일PwC 간 컴공 4학년의 비결"
-    },
-    {
-      "label": "인공지능",
-      "count": 1,
-      "avg_view_count": 4632,
-      "avg_engagement_rate": 0.05289291882556131,
-      "avg_like_count": 241,
+      "avg_view_count": 9652,
+      "avg_engagement_rate": 0.012536261914629093,
+      "avg_like_count": 117,
       "avg_comment_count": 4,
       "source_titles": [
-        "The next big AI tool is...."
+        "AI 드라마 제작, 클로드가 짜준 자동화 워크플로우 미쳤습니다.. ㄷㄷ"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/Ravnyp-ye08/hqdefault.jpg",
-      "representative_video_id": "Ravnyp-ye08",
-      "representative_title": "The next big AI tool is...."
+      "thumbnail_url": "https://i.ytimg.com/vi/EXFD2VzpXso/hqdefault.jpg",
+      "representative_video_id": "EXFD2VzpXso",
+      "representative_title": "AI 드라마 제작, 클로드가 짜준 자동화 워크플로우 미쳤습니다.. ㄷㄷ"
     },
     {
-      "label": "Same",
+      "label": "업무자동화",
       "count": 1,
-      "avg_view_count": 1390,
-      "avg_engagement_rate": 0.026618705035971222,
-      "avg_like_count": 26,
-      "avg_comment_count": 11,
+      "avg_view_count": 4924,
+      "avg_engagement_rate": 0.04833468724614135,
+      "avg_like_count": 235,
+      "avg_comment_count": 3,
       "source_titles": [
-        "Same 360 prompt, three AI video models #aivideo #seedance"
+        "My 3 step hiring process to get great talent"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/pqFFpYYBD0Q/hqdefault.jpg",
-      "representative_video_id": "pqFFpYYBD0Q",
-      "representative_title": "Same 360 prompt, three AI video models #aivideo #seedance"
+      "thumbnail_url": "https://i.ytimg.com/vi/te0jtnhp-Go/hqdefault.jpg",
+      "representative_video_id": "te0jtnhp-Go",
+      "representative_title": "My 3 step hiring process to get great talent"
     },
     {
-      "label": "One",
+      "label": "챗봇",
       "count": 1,
-      "avg_view_count": 1287,
-      "avg_engagement_rate": 0.006993006993006993,
-      "avg_like_count": 7,
-      "avg_comment_count": 2,
+      "avg_view_count": 4462,
+      "avg_engagement_rate": 0.03989242492155984,
+      "avg_like_count": 173,
+      "avg_comment_count": 5,
       "source_titles": [
-        "One AI character, three outfits #aivideo #seedance"
+        "Are you using voice mode on GrokBot?"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/Bfo_GZWfRVo/hqdefault.jpg",
-      "representative_video_id": "Bfo_GZWfRVo",
-      "representative_title": "One AI character, three outfits #aivideo #seedance"
+      "thumbnail_url": "https://i.ytimg.com/vi/p-NY0B1AthI/hqdefault.jpg",
+      "representative_video_id": "p-NY0B1AthI",
+      "representative_title": "Are you using voice mode on GrokBot?"
     }
   ],
   "video_highlights": [
     {
-      "video_id": "SdXqSqwk620",
+      "video_id": "2Aa0ArNDHVU",
       "channel_name": "조코딩 JoCoding",
-      "title": "AI한테 버튼 하나 부탁했을 뿐인데",
-      "thumbnail_url": "https://i.ytimg.com/vi/SdXqSqwk620/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=SdXqSqwk620",
-      "published_at": "2026-10-31T02:57:06Z",
-      "view_count": 22940,
-      "like_count": 170,
-      "comment_count": 19,
-      "engagement_rate": 0.008238884045335659,
-      "topic_cluster": "agents",
-      "summary": "자막을 확보하지 못해 제목·댓글·메타데이터 기준으로 분석했습니다.",
-      "comment_signal": "불과 2-3년전에 저런말을 사람이 들어야했다고.... ???: 버튼하나만 추가해주세요.",
+      "title": "IT뉴스 - Gemini 4 Carbon, 검색의 종말, 앤트로픽 S1, GPT-6.1 테라, Subvocal, LFM3, agent-desktop, 바이낸스 해킹 등",
+      "thumbnail_url": "https://i.ytimg.com/vi/2Aa0ArNDHVU/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=2Aa0ArNDHVU",
+      "published_at": "2026-11-01T11:52:19Z",
+      "view_count": 33417,
+      "like_count": 326,
+      "comment_count": 7,
+      "engagement_rate": 0.009964987880420145,
+      "topic_cluster": "Gemini",
+      "summary": "최신 IT 뉴스와 AI 기술 트렌드를 다루며, 구독자를 위한 특별 할인 이벤트 정보를 함께 제공하는 영상입니다.",
+      "comment_signal": "🎉 짐브로 X 조코딩 특별 이벤트! 🎉 👉 https://gymbro.kr/product/list.html?cate_no=480 💥 조코딩 채널 구독자 전용 혜택으로 역대…",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "_9R7QOhJh-o",
-      "channel_name": "Matt Wolfe",
-      "title": "Glasses That Make You Telepathic",
-      "thumbnail_url": "https://i.ytimg.com/vi/_9R7QOhJh-o/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=_9R7QOhJh-o",
-      "published_at": "2026-10-31T18:16:57Z",
-      "view_count": 6892,
-      "like_count": 274,
-      "comment_count": 23,
-      "engagement_rate": 0.04309344167150319,
-      "topic_cluster": "수익화",
-      "summary": "생각만으로 텍스트를 입력할 수 있는 AI 안경 기술을 소개하며, 뇌파를 읽어 텍스트로 변환하는 이 기술의 미래 가능성과 윤리적 쟁점을 탐색합니다.",
-      "comment_signal": "Could also help the disabled with speech disorders. In the world that’s turning everything into…",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "nA44EmayqY0",
+      "video_id": "EXFD2VzpXso",
       "channel_name": "성공지식백과",
-      "title": "영상 편집은 끝났다? 쇼츠 통째로 복사하는 미친 오픈소스.. ㄷㄷ",
-      "thumbnail_url": "https://i.ytimg.com/vi/nA44EmayqY0/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=nA44EmayqY0",
-      "published_at": "2026-10-31T22:21:15Z",
-      "view_count": 6073,
-      "like_count": 307,
-      "comment_count": 14,
-      "engagement_rate": 0.052856907623909107,
-      "topic_cluster": "Claude",
-      "summary": "인기 영상의 구조, 타이밍, 자막, 효과음까지 분석해 완전히 새로운 영상으로 재구성하는 오픈소스 'Hypit'과 다양한 AI 영상 모델(시댄스 2.5, 클링 4.0…",
-      "comment_signal": "저런 방식으로 작업될 경우 토큰 엄청나게 들어갑니다. 이런 것도 있구나~ 정도만 참고하면 될듯",
-      "hook_type": "실험 데모"
-    },
-    {
-      "video_id": "f3XvOfhjNZE",
-      "channel_name": "조코딩 JoCoding",
-      "title": "스펙 없이 삼일PwC 간 컴공 4학년의 비결",
-      "thumbnail_url": "https://i.ytimg.com/vi/f3XvOfhjNZE/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=f3XvOfhjNZE",
-      "published_at": "2026-10-31T09:54:33Z",
-      "view_count": 5014,
-      "like_count": 28,
-      "comment_count": 2,
-      "engagement_rate": 0.005983246908655764,
-      "topic_cluster": "ChatGPT",
-      "summary": "대학생이 AI 하나로 대기업에 취직한 방법 컴퓨터공학과 4학년 조영탁 님은 AX인재전쟁 1기 본선에서 CEO의 의사결정 오류를 찾아 분석하는 AI 에이전트를 만들었…",
-      "comment_signal": "🎁 axacademy.ai 가입만 해도 ChatGPT Plus 1개월 이용권 추첨! 가입자 중 1,000명에게 드려요. AX인재전쟁 온라인, 지금 axacademy.ai…",
+      "title": "AI 드라마 제작, 클로드가 짜준 자동화 워크플로우 미쳤습니다.. ㄷㄷ",
+      "thumbnail_url": "https://i.ytimg.com/vi/EXFD2VzpXso/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=EXFD2VzpXso",
+      "published_at": "2026-11-01T07:19:38Z",
+      "view_count": 9652,
+      "like_count": 117,
+      "comment_count": 4,
+      "engagement_rate": 0.012536261914629093,
+      "topic_cluster": "MCP",
+      "summary": "Newtake 캔버스와 클로드 MCP 자동화 기능을 활용하여 캐릭터 시트 제작부터 카메라 연출 및 영상 효과까지 포함된 AI 드라마 제작 과정을 상세히 설명합니다.",
+      "comment_signal": "🎬 Newtake 캔버스 하나로 캐릭터·몬스터·배경부터 AI 드라마까지, 지금 바로 만들어 보기: https://www.newtake.com/?sourceId=NT9044…",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "Ravnyp-ye08",
+      "video_id": "M3pNQx-xRDc",
+      "channel_name": "성공지식백과",
+      "title": "소프트웨어는 끝났다? 앱 통째로 복사하는 미친 오픈소스.. ㄷㄷ  #REA #리버스엔지니어링 #클로드코드 #바이브코딩",
+      "thumbnail_url": "https://i.ytimg.com/vi/M3pNQx-xRDc/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=M3pNQx-xRDc",
+      "published_at": "2026-11-01T09:32:45Z",
+      "view_count": 7681,
+      "like_count": 92,
+      "comment_count": 0,
+      "engagement_rate": 0.011977607082411145,
+      "topic_cluster": "Claude",
+      "summary": "오픈소스 도구인 REA(Reverse Engineer Anything)와 클로드 코드를 사용하여 기존 윈도우 그림판을 복제하고 새로운 기능을 11분 만에 추가하는…",
+      "comment_signal": "댓글 반응은 아직 약한 편입니다.",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "te0jtnhp-Go",
       "channel_name": "Dan Martell",
-      "title": "The next big AI tool is....",
-      "thumbnail_url": "https://i.ytimg.com/vi/Ravnyp-ye08/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=Ravnyp-ye08",
-      "published_at": "2026-10-31T21:02:47Z",
-      "view_count": 4632,
-      "like_count": 241,
-      "comment_count": 4,
-      "engagement_rate": 0.05289291882556131,
-      "topic_cluster": "인공지능",
-      "summary": "차세대 AI 툴로 Grok(X AI)을 소개하며, 기존 툴과의 비교 및 잠재력에 대해 논의합니다.",
-      "comment_signal": "It’s the X factor. Using it in a Tesla brings it to the next level. It’s getting more and more…",
+      "title": "My 3 step hiring process to get great talent",
+      "thumbnail_url": "https://i.ytimg.com/vi/te0jtnhp-Go/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=te0jtnhp-Go",
+      "published_at": "2026-11-01T18:02:31Z",
+      "view_count": 4924,
+      "like_count": 235,
+      "comment_count": 3,
+      "engagement_rate": 0.04833468724614135,
+      "topic_cluster": "업무자동화",
+      "summary": "우수 인재 채용을 위해 본인이 활용하는 3단계 채용 프로세스를 설명하고 팀 합류를 독려합니다.",
+      "comment_signal": "How do you convince them not to take the job?",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "p-NY0B1AthI",
+      "channel_name": "Dan Martell",
+      "title": "Are you using voice mode on GrokBot?",
+      "thumbnail_url": "https://i.ytimg.com/vi/p-NY0B1AthI/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=p-NY0B1AthI",
+      "published_at": "2026-11-01T22:02:32Z",
+      "view_count": 4462,
+      "like_count": 173,
+      "comment_count": 5,
+      "engagement_rate": 0.03989242492155984,
+      "topic_cluster": "챗봇",
+      "summary": "GrokBot의 음성 모드 활용 여부를 질문하며 해당 기능에 대해 다루고 있습니다.",
+      "comment_signal": "I was literally on this call!",
       "hook_type": "문제 해결"
     }
   ]
