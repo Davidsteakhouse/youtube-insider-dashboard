@@ -1,263 +1,263 @@
 {
-  "digest_date": "2026-11-03",
-  "generated_at": "2026-11-03T03:57:54+00:00",
-  "summary": "최근 24시간 영상 15개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'ChatGPT'입니다. 특히 '‘We may release models we can’t control’: Amodei, Altman … and Gemini Carbon'는 조회수 67.7K, 참여율 2.5%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "'ChatGPT' 주제가 3개 영상으로 가장 많이 다뤄졌습니다. ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.\n[내 채널] 7일 평균 71.3K회 · 지속률 31.7% / 경쟁사 평균 9.8K회 (격차 +627%)",
-  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 11/03\n\n📊 총 10개 | AI 핵심 10 · 인접 AI 0 · 일반 테크 보충 0\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 10 · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [AI Explained] 67.7K뷰 · 참여율 2.5%\n   ‘We may release models we can’t control’: Amodei, Altman … and Gemini Carbon\n   ↳ OpenAI와 Anthropic 등 주요 AI 기업들이 통제 불가능한 모델 출시 가능성을 암시하고 Gemini 4 Carbon 등 신규 모델이 등장하는 등 급변하는 AI 업계의 주요 현안과 안전성 논란을 다룬다.\n   https://youtu.be/0Kw6_DTZPrY\n\n2. AI 핵심 · [조코딩 JoCoding] 41.8K뷰 · 참여율 0.8%\n   AI뉴스 - Gemini 4 Carbon, 검색의 종말, 앤트로픽 S1, GPT-6.1 테라, Subvocal, LFM3, agent-de…\n   ↳ Gemini 4 Carbon, Anthropic 상장 소식, 신규 모델 출시 및 AI 업계의 기술 업데이트와 보안 이슈 등을 종합적으로 요약한다.\n   https://youtu.be/pMTdySOUNcQ\n\n3. AI 핵심 · [Matt Wolfe] 8.0K뷰 · 참여율 4.4%\n   Would you be excited to see this at Disneyland?\n   ↳ 디즈니랜드 등에서 활용 가능한 최신 AI 뉴스 및 기술적 발전을 소개한다.\n   https://youtu.be/h5SNFLIZl_U\n\n4. AI 핵심 · [빌더 조쉬 Builder Josh] 6.6K뷰 · 참여율 6.4%\n   창업 아이디어, 만들기 전에 AI 가상 고객한테 먼저 물어보세요 (★8.2만 오픈소스)\n   ↳ 창업 아이디어 검증을 위해 가상의 AI 에이전트들이 소셜 플랫폼에서 반응을 시뮬레이션해 보고서를 제공하는 오픈소스 엔진 '미로피쉬(MiroFish)'를 소개한다.\n   https://youtu.be/XCHfCTUQ5Ug\n\n5. AI 핵심 · [성공지식백과] 3.9K뷰 · 참여율 1.7%\n   웹사이트 통째로 복사하는 미친 오픈소스.. ㄷㄷ #클로드코드, #바이브코딩, #웹사이트클론\n   ↳ 3.7만 개의 깃허브 스타를 기록한 오픈소스 'AI Website Cloner'를 활용해 특정 웹사이트의 디자인을 복제하는 과정을 보여준다.\n   https://youtu.be/VFuBfbgz2No\n\n6. AI 핵심 · [빌더 조쉬 Builder Josh] 3.2K뷰 · 참여율 0.9%\n   AI로 디자인하면 화면 하나에 다 때려 넣습니다\n   ↳ AI를 활용한 디자인 작업 시 정보를 효율적으로 배치하는 방법론을 짧게 소개한다.\n   https://youtu.be/mtAc3--Ok00\n\n7. AI 핵심 · [The AI Advantage] 3.2K뷰 · 참여율 1.6%\n   OpenAI Dots: New Updates\n   ↳ OpenAI의 새로운 업데이트 소식을 전하며 AI 학습 과정을 효율화할 수 있는 커뮤니티 서비스를 제안한다.\n   https://youtu.be/KItEnnHeNz0\n\n8. AI 핵심 · [Matt Wolfe] 2.4K뷰 · 참여율 4.6%\n   A world model like Genie 4 (But Free and Open-Soure)\n   ↳ Genie 4와 유사한 기능을 제공하는 무료 오픈소스 월드 모델 기술의 발전상을 다룬다.\n   https://youtu.be/lZes3U_WIug\n\n9. AI 핵심 · [The AI Advantage] 2.0K뷰 · 참여율 1.4%\n   ChatGPT Just Doubled Its Usage Limits!\n   ↳ ChatGPT의 사용 한도가 두 배로 상향 조정된 최신 업데이트 내용을 공유한다.\n   https://youtu.be/IFruWOvf098\n\n10. AI 핵심 · [빌더 조쉬 Builder Josh] 1.5K뷰 · 참여율 4.4%\n   클로드 영상에 효과음까지 자동으로 넣는 무료 도구 3개 (소리 522만 개)\n   ↳ 클로드로 만든 영상의 효과음을 자동 생성 및 배치해 주는 도구인 오픈버스(Openverse), 오퍼스 사운드 레이어, 이어샷의 특징과 활용법을 안내한다.\n   https://youtu.be/XhQqVZEygvw\n\n📈 스마트대디 어제 실적\n조회수 124.1K (↑74% vs 7일 평균) | 구독 +513\n시청 지속률 35.2% | 평균 시청 2분 45초\n경쟁사 평균 9.8K회 대비 내 7일 평균 +627%\n\n💡 VS 각도: ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
-  "video_count": 15,
-  "total_recent_video_count": 18,
+  "digest_date": "2026-11-04",
+  "generated_at": "2026-11-04T03:02:47+00:00",
+  "summary": "최근 24시간 영상 19개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'Claude'입니다. 특히 '비주얼부터 코드까지 씹어먹는 미친 오픈소스 키미 K3.1 프로.. ㄷㄷ'는 조회수 26.1K, 참여율 1.1%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "'Claude' 주제가 4개 영상으로 가장 많이 다뤄졌습니다. Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n[내 채널] 7일 평균 82.9K회 · 지속률 32.8% / 경쟁사 평균 8.9K회 (격차 +836%)",
+  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 11/04\n\n📊 총 10개 | AI 핵심 10 · 인접 AI 0 · 일반 테크 보충 0\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 10 · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [성공지식백과] 26.1K뷰 · 참여율 1.1%\n   비주얼부터 코드까지 씹어먹는 미친 오픈소스 키미 K3.1 프로.. ㄷㄷ\n   ↳ 키미(Kimi)의 최신 모델 K3.1 프로는 3D 설계 및 코딩 능력에서 뛰어난 성능을 보이며 블렌더와 연동해 게임과 시뮬레이션을 구현합니다. 벤치마크 점수와 합리적인 API 비용을 바탕으로 연구, 재무 분석, 에…\n   https://youtu.be/--Quy-4QTMs\n\n2. AI 핵심 · [조코딩 JoCoding] 20.7K뷰 · 참여율 0.6%\n   아이폰 듀오를 맥북으로 만드는 법\n   ↳ 아이폰을 사용하여 원격 접속 프로그램으로 맥 환경을 조작하고 트랙패드처럼 활용하는 방법을 소개합니다.\n   https://youtu.be/IFC3sWCo0C4\n\n3. AI 핵심 · [조코딩 JoCoding] 19.9K뷰 · 참여율 0.8%\n   출시도 전에 스타트업을 없애버리는 방법;;;\n   ↳ 말하지 않고 입 모양만 움직이는 립싱크를 인식해 텍스트로 변환하는 서브보컬 기술을 통해 기존 스타트업의 기능을 구현하고 AI 기반의 새로운 인터페이스 활용 가능성을 보여줍니다.\n   https://youtu.be/2fwKOJAuW3I\n\n4. AI 핵심 · [조코딩 JoCoding] 12.9K뷰 · 참여율 1.3%\n   MS, 직원 1/4인 6만명에게 희망퇴직 제안ㄷㄷ\n   ↳ 마이크로소프트의 대규모 희망퇴직 사례를 통해 AI가 업무를 대체하는 시대에 개인이 1인 창업과 바이브 코딩으로 경쟁력을 갖춰야 할 필요성을 강조합니다.\n   https://youtu.be/5F7HnUbVh6Q\n\n5. AI 핵심 · [조코딩 JoCoding] 11.4K뷰 · 참여율 0.7%\n   숨바꼭질의 꼼수를 스스로 찾아내버린 AI\n   ↳ AI가 숨바꼭질 시뮬레이션에서 물리 규칙의 허점을 찾아내 상자를 도구로 활용하는 꼼수를 스스로 학습하며, 복잡한 문제 해결 과정에서 규칙을 파악하는 AI의 능력을 증명합니다.\n   https://youtu.be/_B7yYMflw-g\n\n6. AI 핵심 · [조코딩 JoCoding] 10.5K뷰 · 참여율 1.1%\n   8.5조원이 털려버린 사상 최악의 암호화폐 해킹사고\n   ↳ 8.5조 원 규모의 암호화폐 해킹 사고 발생 후, 해커가 탈취한 자산을 이더리움 등으로 세탁하는 정황을 분석하며 스테이블 코인의 관리 주체에 의한 동결 가능성을 다룹니다.\n   https://youtu.be/V-mFztCvapc\n\n7. AI 핵심 · [Futurepedia] 9.1K뷰 · 참여율 3.1%\n   Claude 2.0 Is Here. EVERYTHING in 15 Minutes\n   ↳ 클로드 2.0은 새로운 레이아웃과 아티팩트 기능을 통해 작업 효율을 높였으며, 프롬프트 캐시 유지 모드와 명확한 목표 설정을 통해 생산성을 최적화하는 방법을 제공합니다.\n   https://youtu.be/tM0dwXhOv2o\n\n8. AI 핵심 · [Matt Wolfe] 6.7K뷰 · 참여율 6.5%\n   A real-life speeder bike from Return of the Jedi (Not AI)\n   ↳ 영화 스타워즈에 등장하는 스피더 바이크와 유사한 실물 비행체가 최근 캘리포니아에서 시험 비행을 마쳤으며, 시속 63마일의 속도로 생산 준비를 진행 중임을 알립니다.\n   https://youtu.be/PRAY_SewRxI\n\n9. AI 핵심 · [조코딩 JoCoding] 5.2K뷰 · 참여율 0.7%\n   맥에 숨어있는 기능을 끌어쓰는 방법\n   ↳ 맥 OS의 숨겨진 기능을 활용하여 효율성을 높이는 오픈소스 도구와 팁을 소개합니다.\n   https://youtu.be/244636L-gGc\n\n10. AI 핵심 · [조코딩 JoCoding] 4.5K뷰 · 참여율 1.3%\n   구글의 1등 탈환!! 근데 주가는 왜????\n   ↳ 구글 제미나이 4 카본이 종합 점수에서 1위를 차지했으나 코딩 벤치마크에서는 GPT-6가 앞서는 등 모델별 성능 차이와 그에 따른 시장의 반응을 분석합니다.\n   https://youtu.be/k_5y1-0Zd7s\n\n📈 스마트대디 어제 실적\n조회수 87.6K (↑6% vs 7일 평균) | 구독 +310\n시청 지속률 32.7% | 평균 시청 2분 39초\n경쟁사 평균 8.9K회 대비 내 7일 평균 +836%\n\n💡 VS 각도: Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+  "video_count": 19,
+  "total_recent_video_count": 23,
   "focus_scope": "ai_priority_then_tech_fill",
-  "average_view_count": 9807.0,
-  "average_engagement_rate": 0.027573118108257515,
-  "average_like_count": 188.0,
-  "average_comment_count": 37.0,
-  "best_video_id": "0Kw6_DTZPrY",
-  "best_topic": "ChatGPT",
+  "average_view_count": 8865.0,
+  "average_engagement_rate": 0.024326046390674698,
+  "average_like_count": 143.0,
+  "average_comment_count": 16.0,
+  "best_video_id": "--Quy-4QTMs",
+  "best_topic": "Claude",
   "summary_points": [
-    "가장 겹친 주제는 'ChatGPT'이며 3개 영상, 평균 조회수 2.1K, 평균 참여율 1.2%입니다.",
-    "최고 실적 영상은 '‘We may release models we can’t control’: Amodei, Altman … and Gemini Carbon'이며 문제 해결 훅과 빌드 데모 포맷 조합이 강했습니다.",
-    "반복 노출된 툴은 ChatGPT 4회, Claude 3회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
+    "가장 겹친 주제는 'Claude'이며 4개 영상, 평균 조회수 3.7K, 평균 참여율 4.7%입니다.",
+    "최고 실적 영상은 '비주얼부터 코드까지 씹어먹는 미친 오픈소스 키미 K3.1 프로.. ㄷㄷ'이며 문제 해결 훅과 비교 포맷 조합이 강했습니다.",
+    "반복 노출된 툴은 Claude 4회, ChatGPT 3회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
   ],
   "action_chips": [
-    "주제: ChatGPT",
+    "주제: Claude",
     "훅: 문제 해결",
-    "포맷: 빌드 데모",
-    "기준 채널: AI Explained"
+    "포맷: 비교",
+    "기준 채널: 성공지식백과"
   ],
   "title_suggestions": [
-    "ChatGPT vs Claude vs Gemini, 일반인 업무 실전 대결 결과",
-    "GPT 최신 버전 직접 실험 — 이전이랑 진짜 달라?",
-    "GPT 써봤더니... 기대랑 다른 점 솔직하게 다 말해봄"
+    "Claude vs ChatGPT, 일반인이 직접 써보니 이게 달랐다",
+    "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
+    "AI 비서 대결: Claude가 진짜 강한 상황은 따로 있었다"
   ],
   "recommendations": [
     {
-      "title": "ChatGPT vs Claude vs Gemini, 일반인 업무 실전 대결 결과",
+      "title": "Claude vs ChatGPT, 일반인이 직접 써보니 이게 달랐다",
       "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'ChatGPT'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "ChatGPT 바로 해결",
-      "reason": "ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.",
-      "source_video_id": "KItEnnHeNz0",
-      "source": "OpenAI Dots: New Updates",
-      "my_channel_context": "내 7일 평균 71.3K회 · 지속률 31.7% / 경쟁사 대비 +627%"
+      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
+      "thumbnail_copy": "Claude 바로 해결",
+      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
+      "source_video_id": "tM0dwXhOv2o",
+      "source": "Claude 2.0 Is Here. EVERYTHING in 15 Minutes",
+      "my_channel_context": "내 7일 평균 82.9K회 · 지속률 32.8% / 경쟁사 대비 +836%"
     },
     {
-      "title": "GPT 최신 버전 직접 실험 — 이전이랑 진짜 달라?",
+      "title": "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
       "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'ChatGPT'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "ChatGPT 바로 해결",
-      "reason": "ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.",
-      "source_video_id": "IFruWOvf098",
-      "source": "ChatGPT Just Doubled Its Usage Limits!",
-      "my_channel_context": "내 7일 평균 71.3K회 · 지속률 31.7% / 경쟁사 대비 +627%"
+      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
+      "thumbnail_copy": "Claude 바로 해결",
+      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
+      "source_video_id": "XQuRgVP9-Sc",
+      "source": "Stop Wasting Hours Looking for Files. Try This.",
+      "my_channel_context": "내 7일 평균 82.9K회 · 지속률 32.8% / 경쟁사 대비 +836%"
     },
     {
-      "title": "GPT 써봤더니... 기대랑 다른 점 솔직하게 다 말해봄",
+      "title": "AI 비서 대결: Claude가 진짜 강한 상황은 따로 있었다",
       "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'ChatGPT'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "ChatGPT 지금 봐야 함",
-      "reason": "ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.",
-      "source_video_id": "LhBOXOdPqEo",
-      "source": "iCloud Mail & Calendar Are Now in ChatGPT!",
-      "my_channel_context": "내 7일 평균 71.3K회 · 지속률 31.7% / 경쟁사 대비 +627%"
+      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
+      "thumbnail_copy": "Claude 바로 해결",
+      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
+      "source_video_id": "CS0VN4DZOU4",
+      "source": "How to Use HyperFrames to Make Unlimited FREE Videos",
+      "my_channel_context": "내 7일 평균 82.9K회 · 지속률 32.8% / 경쟁사 대비 +836%"
     }
   ],
   "topic_clusters": [
     {
+      "label": "Claude",
+      "count": 4,
+      "avg_view_count": 3680,
+      "avg_engagement_rate": 0.04742752886553603,
+      "avg_like_count": 111,
+      "avg_comment_count": 8,
+      "source_titles": [
+        "Claude 2.0 Is Here. EVERYTHING in 15 Minutes",
+        "Stop Wasting Hours Looking for Files. Try This.",
+        "How to Use HyperFrames to Make Unlimited FREE Videos"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/tM0dwXhOv2o/hqdefault.jpg",
+      "representative_video_id": "tM0dwXhOv2o",
+      "representative_title": "Claude 2.0 Is Here. EVERYTHING in 15 Minutes"
+    },
+    {
       "label": "ChatGPT",
       "count": 3,
-      "avg_view_count": 2072,
-      "avg_engagement_rate": 0.012086662882068173,
-      "avg_like_count": 28,
-      "avg_comment_count": 1,
+      "avg_view_count": 15657,
+      "avg_engagement_rate": 0.022457149214127597,
+      "avg_like_count": 328,
+      "avg_comment_count": 50,
       "source_titles": [
-        "OpenAI Dots: New Updates",
-        "ChatGPT Just Doubled Its Usage Limits!",
-        "iCloud Mail & Calendar Are Now in ChatGPT!"
+        "비주얼부터 코드까지 씹어먹는 미친 오픈소스 키미 K3.1 프로.. ㄷㄷ",
+        "CEO's AI Productivity Set Up",
+        "Grok Bot Just Got Pages!"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/KItEnnHeNz0/hqdefault.jpg",
-      "representative_video_id": "KItEnnHeNz0",
-      "representative_title": "OpenAI Dots: New Updates"
+      "thumbnail_url": "https://i.ytimg.com/vi/--Quy-4QTMs/hqdefault.jpg",
+      "representative_video_id": "--Quy-4QTMs",
+      "representative_title": "비주얼부터 코드까지 씹어먹는 미친 오픈소스 키미 K3.1 프로.. ㄷㄷ"
     },
     {
-      "label": "OpenAI",
-      "count": 2,
-      "avg_view_count": 54792,
-      "avg_engagement_rate": 0.016462230312603108,
-      "avg_like_count": 844,
-      "avg_comment_count": 173,
-      "source_titles": [
-        "‘We may release models we can’t control’: Amodei, Altman … and Gemini Carbon",
-        "AI뉴스 - Gemini 4 Carbon, 검색의 종말, 앤트로픽 S1, GPT-6.1 테라, Subvocal, LFM3, agent-desktop, 바이낸스 해킹 등"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/0Kw6_DTZPrY/hqdefault.jpg",
-      "representative_video_id": "0Kw6_DTZPrY",
-      "representative_title": "‘We may release models we can’t control’: Amodei, Altman … and Gemini Carbon"
-    },
-    {
-      "label": "Claude",
-      "count": 2,
-      "avg_view_count": 1454,
-      "avg_engagement_rate": 0.02843107553502199,
-      "avg_like_count": 32,
-      "avg_comment_count": 10,
-      "source_titles": [
-        "클로드 영상에 효과음까지 자동으로 넣는 무료 도구 3개 (소리 522만 개)",
-        "3 free ways to make your Claude videos sound real"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/XhQqVZEygvw/hqdefault.jpg",
-      "representative_video_id": "XhQqVZEygvw",
-      "representative_title": "클로드 영상에 효과음까지 자동으로 넣는 무료 도구 3개 (소리 522만 개)"
-    },
-    {
-      "label": "monetization",
+      "label": "아이폰",
       "count": 1,
-      "avg_view_count": 7961,
-      "avg_engagement_rate": 0.044089938449943473,
-      "avg_like_count": 300,
-      "avg_comment_count": 51,
+      "avg_view_count": 20725,
+      "avg_engagement_rate": 0.006272617611580217,
+      "avg_like_count": 88,
+      "avg_comment_count": 42,
       "source_titles": [
-        "Would you be excited to see this at Disneyland?"
+        "아이폰 듀오를 맥북으로 만드는 법"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/h5SNFLIZl_U/hqdefault.jpg",
-      "representative_video_id": "h5SNFLIZl_U",
-      "representative_title": "Would you be excited to see this at Disneyland?"
+      "thumbnail_url": "https://i.ytimg.com/vi/IFC3sWCo0C4/hqdefault.jpg",
+      "representative_video_id": "IFC3sWCo0C4",
+      "representative_title": "아이폰 듀오를 맥북으로 만드는 법"
     },
     {
-      "label": "Notion",
+      "label": "출시도",
       "count": 1,
-      "avg_view_count": 6575,
-      "avg_engagement_rate": 0.06387832699619772,
-      "avg_like_count": 296,
-      "avg_comment_count": 124,
+      "avg_view_count": 19890,
+      "avg_engagement_rate": 0.007642031171442936,
+      "avg_like_count": 145,
+      "avg_comment_count": 7,
       "source_titles": [
-        "창업 아이디어, 만들기 전에 AI 가상 고객한테 먼저 물어보세요 (★8.2만 오픈소스)"
+        "출시도 전에 스타트업을 없애버리는 방법;;;"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/XCHfCTUQ5Ug/hqdefault.jpg",
-      "representative_video_id": "XCHfCTUQ5Ug",
-      "representative_title": "창업 아이디어, 만들기 전에 AI 가상 고객한테 먼저 물어보세요 (★8.2만 오픈소스)"
+      "thumbnail_url": "https://i.ytimg.com/vi/2fwKOJAuW3I/hqdefault.jpg",
+      "representative_video_id": "2fwKOJAuW3I",
+      "representative_title": "출시도 전에 스타트업을 없애버리는 방법;;;"
     },
     {
-      "label": "Zapier",
+      "label": "MS",
       "count": 1,
-      "avg_view_count": 4077,
-      "avg_engagement_rate": 0.045867059112092226,
-      "avg_like_count": 183,
-      "avg_comment_count": 4,
+      "avg_view_count": 12879,
+      "avg_engagement_rate": 0.012578616352201259,
+      "avg_like_count": 146,
+      "avg_comment_count": 16,
       "source_titles": [
-        "The 10-80-10 rule is how you decide what to automate"
+        "MS, 직원 1/4인 6만명에게 희망퇴직 제안ㄷㄷ"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/6q8nnmDAm60/hqdefault.jpg",
-      "representative_video_id": "6q8nnmDAm60",
-      "representative_title": "The 10-80-10 rule is how you decide what to automate"
+      "thumbnail_url": "https://i.ytimg.com/vi/5F7HnUbVh6Q/hqdefault.jpg",
+      "representative_video_id": "5F7HnUbVh6Q",
+      "representative_title": "MS, 직원 1/4인 6만명에게 희망퇴직 제안ㄷㄷ"
     },
     {
-      "label": "Supabase",
+      "label": "숨바꼭질의",
       "count": 1,
-      "avg_view_count": 3917,
-      "avg_engagement_rate": 0.016594332397242787,
-      "avg_like_count": 65,
-      "avg_comment_count": 0,
+      "avg_view_count": 11368,
+      "avg_engagement_rate": 0.0073011963406052075,
+      "avg_like_count": 78,
+      "avg_comment_count": 5,
       "source_titles": [
-        "웹사이트 통째로 복사하는 미친 오픈소스.. ㄷㄷ #클로드코드, #바이브코딩, #웹사이트클론"
+        "숨바꼭질의 꼼수를 스스로 찾아내버린 AI"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/VFuBfbgz2No/hqdefault.jpg",
-      "representative_video_id": "VFuBfbgz2No",
-      "representative_title": "웹사이트 통째로 복사하는 미친 오픈소스.. ㄷㄷ #클로드코드, #바이브코딩, #웹사이트클론"
+      "thumbnail_url": "https://i.ytimg.com/vi/_B7yYMflw-g/hqdefault.jpg",
+      "representative_video_id": "_B7yYMflw-g",
+      "representative_title": "숨바꼭질의 꼼수를 스스로 찾아내버린 AI"
     },
     {
-      "label": "AI디자인",
+      "label": "8.5조원이",
       "count": 1,
-      "avg_view_count": 3203,
-      "avg_engagement_rate": 0.009054011863877614,
-      "avg_like_count": 29,
-      "avg_comment_count": 0,
+      "avg_view_count": 10456,
+      "avg_engagement_rate": 0.010520275439938791,
+      "avg_like_count": 94,
+      "avg_comment_count": 16,
       "source_titles": [
-        "AI로 디자인하면 화면 하나에 다 때려 넣습니다"
+        "8.5조원이 털려버린 사상 최악의 암호화폐 해킹사고"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/mtAc3--Ok00/hqdefault.jpg",
-      "representative_video_id": "mtAc3--Ok00",
-      "representative_title": "AI로 디자인하면 화면 하나에 다 때려 넣습니다"
+      "thumbnail_url": "https://i.ytimg.com/vi/V-mFztCvapc/hqdefault.jpg",
+      "representative_video_id": "V-mFztCvapc",
+      "representative_title": "8.5조원이 털려버린 사상 최악의 암호화폐 해킹사고"
+    },
+    {
+      "label": "LG가",
+      "count": 1,
+      "avg_view_count": 10283,
+      "avg_engagement_rate": 0.010502771564718467,
+      "avg_like_count": 91,
+      "avg_comment_count": 17,
+      "source_titles": [
+        "LG가 웬 로봇?ㅋ.. 저도 놀랬습니다"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/HbrzQj3jfxs/hqdefault.jpg",
+      "representative_video_id": "HbrzQj3jfxs",
+      "representative_title": "LG가 웬 로봇?ㅋ.. 저도 놀랬습니다"
     }
   ],
   "video_highlights": [
     {
-      "video_id": "0Kw6_DTZPrY",
-      "channel_name": "AI Explained",
-      "title": "‘We may release models we can’t control’: Amodei, Altman … and Gemini Carbon",
-      "thumbnail_url": "https://i.ytimg.com/vi/0Kw6_DTZPrY/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=0Kw6_DTZPrY",
-      "published_at": "2026-11-02T17:02:16Z",
-      "view_count": 67749,
-      "like_count": 1446,
-      "comment_count": 268,
-      "engagement_rate": 0.025299266409836308,
-      "topic_cluster": "OpenAI",
-      "summary": "OpenAI와 Anthropic 등 주요 AI 기업들이 통제 불가능한 모델 출시 가능성을 암시하고 Gemini 4 Carbon 등 신규 모델이 등장하는 등 급변하는…",
-      "comment_signal": "The line at 6:21 is the proof that we desperately need to align tech CEOs BEFORE we can talk ab…",
+      "video_id": "--Quy-4QTMs",
+      "channel_name": "성공지식백과",
+      "title": "비주얼부터 코드까지 씹어먹는 미친 오픈소스 키미 K3.1 프로.. ㄷㄷ",
+      "thumbnail_url": "https://i.ytimg.com/vi/--Quy-4QTMs/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=--Quy-4QTMs",
+      "published_at": "2026-11-03T09:20:58Z",
+      "view_count": 26052,
+      "like_count": 207,
+      "comment_count": 70,
+      "engagement_rate": 0.01063258099186243,
+      "topic_cluster": "ChatGPT",
+      "summary": "키미(Kimi)의 최신 모델 K3.1 프로는 3D 설계 및 코딩 능력에서 뛰어난 성능을 보이며 블렌더와 연동해 게임과 시뮬레이션을 구현합니다. 벤치마크 점수와 합리…",
+      "comment_signal": "🎁 키미 무료로 시작하고 댓글 남기면 세 분께 프로 구독권: http://kimi.ai?utm_campaign=TR_dRVtgdlW&utm_content=&utm_medi…",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "pMTdySOUNcQ",
+      "video_id": "IFC3sWCo0C4",
       "channel_name": "조코딩 JoCoding",
-      "title": "AI뉴스 - Gemini 4 Carbon, 검색의 종말, 앤트로픽 S1, GPT-6.1 테라, Subvocal, LFM3, agent-desktop, 바이낸스 해킹 등",
-      "thumbnail_url": "https://i.ytimg.com/vi/pMTdySOUNcQ/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=pMTdySOUNcQ",
-      "published_at": "2026-11-02T13:00:35Z",
-      "view_count": 41835,
-      "like_count": 241,
-      "comment_count": 78,
-      "engagement_rate": 0.007625194215369906,
-      "topic_cluster": "OpenAI",
-      "summary": "Gemini 4 Carbon, Anthropic 상장 소식, 신규 모델 출시 및 AI 업계의 기술 업데이트와 보안 이슈 등을 종합적으로 요약한다.",
-      "comment_signal": "제미나이ㅋㅋㅋㅋㅋ 저거 꺼드럭 할때마다 , 좋아 이번엔 너다 하고 깔고 쓰면 몇분만에 , 아 , 뭔소리하는거야 하며 진짜 욕나옴 , 이거 게임엔진에 mcp 연결해서 쓰라고…",
+      "title": "아이폰 듀오를 맥북으로 만드는 법",
+      "thumbnail_url": "https://i.ytimg.com/vi/IFC3sWCo0C4/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=IFC3sWCo0C4",
+      "published_at": "2026-11-03T13:00:01Z",
+      "view_count": 20725,
+      "like_count": 88,
+      "comment_count": 42,
+      "engagement_rate": 0.006272617611580217,
+      "topic_cluster": "아이폰",
+      "summary": "아이폰을 사용하여 원격 접속 프로그램으로 맥 환경을 조작하고 트랙패드처럼 활용하는 방법을 소개합니다.",
+      "comment_signal": "듀오 살 돈으로 그냥 맥북 프로 살 수 있는데…",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "h5SNFLIZl_U",
-      "channel_name": "Matt Wolfe",
-      "title": "Would you be excited to see this at Disneyland?",
-      "thumbnail_url": "https://i.ytimg.com/vi/h5SNFLIZl_U/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=h5SNFLIZl_U",
-      "published_at": "2026-11-02T04:16:43Z",
-      "view_count": 7961,
-      "like_count": 300,
-      "comment_count": 51,
-      "engagement_rate": 0.044089938449943473,
-      "topic_cluster": "monetization",
-      "summary": "디즈니랜드 등에서 활용 가능한 최신 AI 뉴스 및 기술적 발전을 소개한다.",
-      "comment_signal": "FNAF vibes....",
-      "hook_type": "문제 해결"
+      "video_id": "2fwKOJAuW3I",
+      "channel_name": "조코딩 JoCoding",
+      "title": "출시도 전에 스타트업을 없애버리는 방법;;;",
+      "thumbnail_url": "https://i.ytimg.com/vi/2fwKOJAuW3I/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=2fwKOJAuW3I",
+      "published_at": "2026-11-03T09:00:03Z",
+      "view_count": 19890,
+      "like_count": 145,
+      "comment_count": 7,
+      "engagement_rate": 0.007642031171442936,
+      "topic_cluster": "출시도",
+      "summary": "말하지 않고 입 모양만 움직이는 립싱크를 인식해 텍스트로 변환하는 서브보컬 기술을 통해 기존 스타트업의 기능을 구현하고 AI 기반의 새로운 인터페이스 활용 가능성을…",
+      "comment_signal": "저 안경끼고 혼자 중얼거리면 주변 사람들이 조용히 해준다는거죠?",
+      "hook_type": "긴급성"
     },
     {
-      "video_id": "XCHfCTUQ5Ug",
-      "channel_name": "빌더 조쉬 Builder Josh",
-      "title": "창업 아이디어, 만들기 전에 AI 가상 고객한테 먼저 물어보세요 (★8.2만 오픈소스)",
-      "thumbnail_url": "https://i.ytimg.com/vi/XCHfCTUQ5Ug/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=XCHfCTUQ5Ug",
-      "published_at": "2026-11-02T07:00:09Z",
-      "view_count": 6575,
-      "like_count": 296,
-      "comment_count": 124,
-      "engagement_rate": 0.06387832699619772,
-      "topic_cluster": "Notion",
-      "summary": "창업 아이디어 검증을 위해 가상의 AI 에이전트들이 소셜 플랫폼에서 반응을 시뮬레이션해 보고서를 제공하는 오픈소스 엔진 '미로피쉬(MiroFish)'를 소개한다.",
-      "comment_signal": "검증, 항상 좋은 정보와 아이디어 감사합니다.",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "6q8nnmDAm60",
+      "video_id": "T_87i1iR9Xk",
       "channel_name": "Dan Martell",
-      "title": "The 10-80-10 rule is how you decide what to automate",
-      "thumbnail_url": "https://i.ytimg.com/vi/6q8nnmDAm60/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=6q8nnmDAm60",
-      "published_at": "2026-11-02T22:03:54Z",
-      "view_count": 4077,
-      "like_count": 183,
-      "comment_count": 4,
-      "engagement_rate": 0.045867059112092226,
-      "topic_cluster": "Zapier",
-      "summary": "자동화할 업무를 선정할 때 효과적으로 적용할 수 있는 10-80-10 법칙을 설명한다.",
-      "comment_signal": "Been saying this for a long time. Those that get it, and implement it, are excelling. 💯",
+      "title": "CEO's AI Productivity Set Up",
+      "thumbnail_url": "https://i.ytimg.com/vi/T_87i1iR9Xk/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=T_87i1iR9Xk",
+      "published_at": "2026-11-03T16:03:20Z",
+      "view_count": 18725,
+      "like_count": 751,
+      "comment_count": 81,
+      "engagement_rate": 0.044432576769025366,
+      "topic_cluster": "ChatGPT",
+      "summary": "이것이 제가 다른 CEO 들보 다 10 배 더 많은 일을 해내는 비결 입니다. 컴퓨터 사용 보조 기능을 갖춘 ChatGPT Astra는 제 컴퓨터를 제어 할 수 있…",
+      "comment_signal": "Who are you talking to?",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "5F7HnUbVh6Q",
+      "channel_name": "조코딩 JoCoding",
+      "title": "MS, 직원 1/4인 6만명에게 희망퇴직 제안ㄷㄷ",
+      "thumbnail_url": "https://i.ytimg.com/vi/5F7HnUbVh6Q/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=5F7HnUbVh6Q",
+      "published_at": "2026-11-03T10:30:32Z",
+      "view_count": 12879,
+      "like_count": 146,
+      "comment_count": 16,
+      "engagement_rate": 0.012578616352201259,
+      "topic_cluster": "MS",
+      "summary": "마이크로소프트의 대규모 희망퇴직 사례를 통해 AI가 업무를 대체하는 시대에 개인이 1인 창업과 바이브 코딩으로 경쟁력을 갖춰야 할 필요성을 강조합니다.",
+      "comment_signal": "AI가 잘돌아가는 OS를 AI에게 만들어달라고 하여 MS 대체하려는 시도는 없나?",
       "hook_type": "문제 해결"
     }
   ]
