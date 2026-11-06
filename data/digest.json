@@ -1,27 +1,27 @@
 {
-  "digest_date": "2026-11-05",
-  "generated_at": "2026-11-05T03:27:55+00:00",
-  "summary": "최근 24시간 영상 20개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'Claude'입니다. 특히 '크레딧까지 뿌리기 시작하는 챗GPT ㄷㄷ (+ 활용법)'는 조회수 51.4K, 참여율 1.5%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "'Claude' 주제가 4개 영상으로 가장 많이 다뤄졌습니다. 오늘 수집 영상 20개는 주로 '빌드 데모' 포맷이라, VS 비교·직접 실험 각도는 아직 비어 있습니다. Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n[내 채널] 7일 평균 87.9K회 · 지속률 34.1% / 경쟁사 평균 11.6K회 (격차 +657%)",
-  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 11/05\n\n📊 총 10개 | AI 핵심 10 · 인접 AI 0 · 일반 테크 보충 0\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 10 · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [조코딩 JoCoding] 51.4K뷰 · 참여율 1.5%\n   크레딧까지 뿌리기 시작하는 챗GPT ㄷㄷ (+ 활용법)\n   ↳ 오픈AI 공식 홈페이지의 빌딩 설정을 통해 API 크레딧을 연결하고, 이를 활용해 디시전즈(Decisions) API를 적용하여 구현하는 방법을 설명합니다.\n   https://youtu.be/hf2xfgDDqKY\n\n2. AI 핵심 · [Matt Wolfe] 28.8K뷰 · 참여율 2.4%\n   How I Get Claude To Edit My Videos (No Code Needed)\n   ↳ Claude Opus 5.5, VidIQ, ElevenLabs를 결합하여 영상 편집 과정을 자동화하는 시스템을 구축하고, 이를 통해 효율적으로 콘텐츠를 제작하는 방법을 시연합니다.\n   https://youtu.be/ep4psgAFOqc\n\n3. AI 핵심 · [조코딩 JoCoding] 27.4K뷰 · 참여율 0.8%\n   바이브코딩에 절여진 개발자\n   ↳ 바이브 코딩 기술에 깊이 관여하게 된 개발자의 일상과 그 과정에서의 변화를 다룹니다.\n   https://youtu.be/cZ8HZDrBpOY\n\n4. AI 핵심 · [조코딩 JoCoding] 12.9K뷰 · 참여율 0.7%\n   2배로 늘어난 챗 GPT 한도!! 근데 좋은건가?\n   ↳ 오픈AI가 여론을 의식하여 챗GPT 사용 한도를 기존 대비 2배로 늘렸으며, 이는 일반 사용량과는 별도로 유지된다는 소식을 전합니다.\n   https://youtu.be/9VrDqRayNDs\n\n5. AI 핵심 · [Futurepedia] 9.3K뷰 · 참여율 2.1%\n   Top 15 Tricks for INSTANTLY Better Claude Designs\n   ↳ Claude를 사용하여 더욱 완성도 높은 디자인을 얻기 위한 15가지 팁을 제시하며, 참조 자료 활용부터 Claude Code와의 연동을 통한 실제 개발 환경 구현 방법을 안내합니다.\n   https://youtu.be/rU5llKCPPwI\n\n6. AI 핵심 · [빌더 조쉬 Builder Josh] 7.7K뷰 · 참여율 3.4%\n   SkillSpector: 클로드 스킬 깔기 전에 꼭 돌려야 할 엔비디아 무료 보안 검사 (스킬 4개 중 1개 취약)\n   ↳ 엔비디아가 공개한 무료 보안 검사 도구 'SkillSpector'를 활용해 클로드 스킬의 취약점을 분석하고 프롬프트 인젝션 및 데이터 유출 위험을 확인하는 방법을 소개합니다.\n   https://youtu.be/7_cjsT_aVtQ\n\n7. AI 핵심 · [빌더 조쉬 Builder Josh] 7.0K뷰 · 참여율 3.2%\n   Herdr: 클로드 코드 여러 개를 한 화면에서 동시에 돌리는 무료 도구 (★4.8만)\n   ↳ 터미널에서 여러 개의 클로드 코딩 에이전트를 동시에 관리할 수 있는 오픈소스 도구 'Herdr'를 소개하며, 각 작업의 상태를 색상으로 확인하고 병렬로 실행하는 법을 설명합니다.\n   https://youtu.be/J6kc05sSTYk\n\n8. AI 핵심 · [조코딩 JoCoding] 3.9K뷰 · 참여율 1.2%\n   Ctrl+Z 는 아무것도 취소하지 않습니다\n   ↳ 편집기에서의 실행 취소 기능이 실제 시간을 되돌리는 것이 아니라, 작업 기록을 역순으로 처리하는 데이터 처리 방식임을 설명합니다.\n   https://youtu.be/G1b5PxcPyWM\n\n9. AI 핵심 · [The AI Advantage] 2.1K뷰 · 참여율 3.6%\n   How I Edit My Videos with Claude\n   ↳ 자막 파일의 타임스탬프를 활용해 Claude Design으로 영상 대사에 맞춘 애니메이션을 생성하고, 이를 영상 편집 워크플로우에 통합하는 방법을 보여줍니다.\n   https://youtu.be/fS-88gtHXIg\n\n10. AI 핵심 · [The AI Advantage] 1.8K뷰 · 참여율 2.2%\n   Find Files Instantly with AI\n   ↳ 파일 이름이 기억나지 않아도 내용 기반으로 파일을 검색할 수 있게 해주는 무료 도구 'Dig Up'을 소개합니다.\n   https://youtu.be/DaOAGnkueB0\n\n📈 스마트대디 어제 실적\n조회수 48.0K (↓45% vs 7일 평균) | 구독 +243\n시청 지속률 32.4% | 평균 시청 2분 44초\n경쟁사 평균 11.6K회 대비 내 7일 평균 +657%\n\n💡 VS 각도: Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
-  "video_count": 20,
-  "total_recent_video_count": 23,
+  "digest_date": "2026-11-06",
+  "generated_at": "2026-11-06T03:23:58+00:00",
+  "summary": "최근 24시간 영상 15개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'Claude'입니다. 특히 '계정 제한을 시작한 오픈 AI ㄷㄷㄷ'는 조회수 54.5K, 참여율 0.6%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "'Claude' 주제가 4개 영상으로 가장 많이 다뤄졌습니다. Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n[내 채널] 7일 평균 77.0K회 · 지속률 32.9% / 경쟁사 평균 15.8K회 (격차 +388%)",
+  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 11/06\n\n📊 총 10개 | AI 핵심 10 · 인접 AI 0 · 일반 테크 보충 0\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 10 · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [조코딩 JoCoding] 54.5K뷰 · 참여율 0.6%\n   계정 제한을 시작한 오픈 AI ㄷㄷㄷ\n   ↳ 오픈AI가 서비스 이용 한도를 초과할 때 여러 계정을 돌려가며 사용하는 편법을 막기 위한 조치를 시작했습니다.\n   https://youtu.be/m4K7aZbXkqA\n\n2. AI 핵심 · [조코딩 JoCoding] 48.7K뷰 · 참여율 1.3%\n   로컬에서 실행 가능한 레전드 노이즈캔슬링 등장\n   ↳ 로컬 환경에서 실행 가능한 노이즈 캔슬링 도구가 공개되어, 차 소음 등 주변 소리를 제거하고 목소리만 깔끔하게 추출하는 성능을 보여주었습니다.\n   https://youtu.be/Gi5eb1baKHE\n\n3. AI 핵심 · [조코딩 JoCoding] 28.1K뷰 · 참여율 0.5%\n   84조원 어치 GPU를 때려박겠다는 머스크의 계획\n   ↳ 일론 머스크가 '콜로서스 2' 업데이트를 통해 올해 말까지 총 120만 개의 블랙웰 GPU를 설치하여 대규모 인프라를 구축할 계획임을 밝혔습니다.\n   https://youtu.be/dYwVl8Z29ZA\n\n4. AI 핵심 · [빌더 조쉬 Builder Josh] 20.1K뷰 · 참여율 3.7%\n   unslop 언슬롭: 디자이너한테 1,500달러 드는 'AI 티 지우기', 클로드 무료 스킬로 직접 (신호 64가지)\n   ↳ 언슬롭(unslop)은 AI가 생성한 디자인의 부자연스러운 요소 64가지를 분석해 간격, 색상, 아이콘 등을 수정해 주는 무료 도구로, 디자이너 수준의 UI 보정을 가능하게 합니다.\n   https://youtu.be/3Wo7N1FpLas\n\n5. AI 핵심 · [조코딩 JoCoding] 15.6K뷰 · 참여율 1.1%\n   QR코드에 게임을 눌러담은 개발자\n   ↳ 한 개발자가 코드를 극한으로 최적화하고 압축하여 고전 게임을 QR 코드 하나에 담아냈으며, 브라우저만으로 별도 앱 설치 없이 즉시 실행하도록 구현했습니다.\n   https://youtu.be/hVuX02Ltkw0\n\n6. AI 핵심 · [조코딩 JoCoding] 8.1K뷰 · 참여율 0.8%\n   앱 만들기는 쉬워졌다, 이제 돈 버는 방법 | Google AdMob | Global App Summit 2026\n   ↳ 구글 글로벌 앱 서밋에서 하이브리드 수익화 전략과 A/B 테스트 최적화, AI 에이전트를 활용한 수익 자동화 등 1인 개발자를 위한 효율적인 광고 운영 방안을 논의했습니다.\n   https://youtu.be/Zt9_SAgsaaw\n\n7. AI 핵심 · [tef] 8.0K뷰 · 참여율 4.0%\n   Making a Open World RPG with AI [3]\n   ↳ Fish Audio의 MCP 도구를 클로드 세션에 연동하여 게임 내 보스 대사와 튜토리얼 음성에 감정 표현을 입히고 몰입감을 높이는 과정을 보여주었습니다.\n   https://youtu.be/TQnWcDD-nPM\n\n8. AI 핵심 · [Matt Wolfe] 5.3K뷰 · 참여율 4.8%\n   What will people REALLY use these for?\n   ↳ CES에 전시된 대화형 로봇 등 최신 AI 로봇 기술의 현주소를 다루며, 현재 기술 수준과 향후 상용화 가능성에 대해 고찰했습니다.\n   https://youtu.be/hniPlxcQ7X4\n\n9. AI 핵심 · [The AI Advantage] 3.3K뷰 · 참여율 2.5%\n   How I Use Claude in My Video Edits\n   ↳ 클로드의 'Thinking' 설정을 최대치로 활용하고 타임스탬프와 시각 자료를 입력값으로 제공하여 영상 편집의 워크플로우와 그래픽 제작을 자동화하는 방법을 제시했습니다.\n   https://youtu.be/L0fLLr5Oej0\n\n10. AI 핵심 · [빌더 조쉬 Builder Josh] 2.6K뷰 · 참여율 1.2%\n   AI가 평균적인 대답만 하는 건 나를 모르기 때문입니다, 나를 복제하는 수준의 동기화 방법 (HAXAI 김다솔 작가님)\n   ↳ AI를 활용한 효율적인 워크플로우를 위해 개인의 업무 맥락과 성공 패턴을 학습시키고, 반복 업무를 자동화하는 에이전트 시스템 구축의 중요성을 강조했습니다.\n   https://youtu.be/QyJSGMfKsKk\n\n📈 스마트대디 어제 실적\n조회수 48.5K (↓37% vs 7일 평균) | 구독 +173\n시청 지속률 31.4% | 평균 시청 2분 39초\n경쟁사 평균 15.8K회 대비 내 7일 평균 +388%\n\n💡 VS 각도: Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+  "video_count": 15,
+  "total_recent_video_count": 18,
   "focus_scope": "ai_priority_then_tech_fill",
-  "average_view_count": 11608.0,
-  "average_engagement_rate": 0.028895134435023007,
-  "average_like_count": 236.0,
-  "average_comment_count": 28.0,
-  "best_video_id": "hf2xfgDDqKY",
+  "average_view_count": 15773.0,
+  "average_engagement_rate": 0.024429673355086463,
+  "average_like_count": 222.0,
+  "average_comment_count": 49.0,
+  "best_video_id": "m4K7aZbXkqA",
   "best_topic": "Claude",
   "summary_points": [
-    "가장 겹친 주제는 'Claude'이며 4개 영상, 평균 조회수 10.7K, 평균 참여율 2.7%입니다.",
-    "최고 실적 영상은 '크레딧까지 뿌리기 시작하는 챗GPT ㄷㄷ (+ 활용법)'이며 문제 해결 훅과 워크플로우 튜토리얼 포맷 조합이 강했습니다.",
-    "반복 노출된 툴은 Claude 8회, Notion 4회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
+    "가장 겹친 주제는 'Claude'이며 4개 영상, 평균 조회수 3.0K, 평균 참여율 3.0%입니다.",
+    "최고 실적 영상은 '계정 제한을 시작한 오픈 AI ㄷㄷㄷ'이며 문제 해결 훅과 빌드 데모 포맷 조합이 강했습니다.",
+    "반복 노출된 툴은 Claude 4회, Notion 2회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
   ],
   "action_chips": [
     "주제: Claude",
     "훅: 문제 해결",
-    "포맷: 워크플로우 튜토리얼",
+    "포맷: 빌드 데모",
     "기준 채널: 조코딩 JoCoding"
   ],
   "title_suggestions": [
@@ -36,9 +36,9 @@
       "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
       "thumbnail_copy": "Claude 바로 해결",
       "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
-      "source_video_id": "nsFKkeQg-V0",
-      "source": "If you only watch one sales video, make it this one",
-      "my_channel_context": "내 7일 평균 87.9K회 · 지속률 34.1% / 경쟁사 대비 +657%"
+      "source_video_id": "TQnWcDD-nPM",
+      "source": "Making a Open World RPG with AI [3]",
+      "my_channel_context": "내 7일 평균 77.0K회 · 지속률 32.9% / 경쟁사 대비 +388%"
     },
     {
       "title": "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
@@ -46,9 +46,9 @@
       "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
       "thumbnail_copy": "Claude 바로 해결",
       "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
-      "source_video_id": "rU5llKCPPwI",
-      "source": "Top 15 Tricks for INSTANTLY Better Claude Designs",
-      "my_channel_context": "내 7일 평균 87.9K회 · 지속률 34.1% / 경쟁사 대비 +657%"
+      "source_video_id": "L0fLLr5Oej0",
+      "source": "How I Use Claude in My Video Edits",
+      "my_channel_context": "내 7일 평균 77.0K회 · 지속률 32.9% / 경쟁사 대비 +388%"
     },
     {
       "title": "AI 비서 대결: Claude가 진짜 강한 상황은 따로 있었다",
@@ -56,212 +56,208 @@
       "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
       "thumbnail_copy": "Claude 바로 해결",
       "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
-      "source_video_id": "DaOAGnkueB0",
-      "source": "Find Files Instantly with AI",
-      "my_channel_context": "내 7일 평균 87.9K회 · 지속률 34.1% / 경쟁사 대비 +657%"
+      "source_video_id": "KhTTFxlEvR8",
+      "source": "Ponytail: 클로드 코드가 짜는 코드를 절반으로 줄이는 무료 스킬 (★18.5만)",
+      "my_channel_context": "내 7일 평균 77.0K회 · 지속률 32.9% / 경쟁사 대비 +388%"
     }
   ],
   "topic_clusters": [
     {
       "label": "Claude",
       "count": 4,
-      "avg_view_count": 10744,
-      "avg_engagement_rate": 0.027292679086844764,
-      "avg_like_count": 272,
-      "avg_comment_count": 14,
+      "avg_view_count": 3008,
+      "avg_engagement_rate": 0.029982583527824066,
+      "avg_like_count": 94,
+      "avg_comment_count": 12,
       "source_titles": [
-        "If you only watch one sales video, make it this one",
-        "Top 15 Tricks for INSTANTLY Better Claude Designs",
-        "Find Files Instantly with AI"
+        "Making a Open World RPG with AI [3]",
+        "How I Use Claude in My Video Edits",
+        "Ponytail: 클로드 코드가 짜는 코드를 절반으로 줄이는 무료 스킬 (★18.5만)"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/nsFKkeQg-V0/hqdefault.jpg",
-      "representative_video_id": "nsFKkeQg-V0",
-      "representative_title": "If you only watch one sales video, make it this one"
+      "thumbnail_url": "https://i.ytimg.com/vi/TQnWcDD-nPM/hqdefault.jpg",
+      "representative_video_id": "TQnWcDD-nPM",
+      "representative_title": "Making a Open World RPG with AI [3]"
+    },
+    {
+      "label": "agents",
+      "count": 3,
+      "avg_view_count": 9685,
+      "avg_engagement_rate": 0.011036824234703967,
+      "avg_like_count": 91,
+      "avg_comment_count": 20,
+      "source_titles": [
+        "AI 지각생? 다시 애플의 시간 | Siri AI가 바꿀 앱 생태계, 아이폰을 쥔 애플에게 새 기회가 생기는 이유 | OS 하드웨어 주도권",
+        "앱 만들기는 쉬워졌다, 이제 돈 버는 방법 | Google AdMob | Global App Summit 2026",
+        "AI가 평균적인 대답만 하는 건 나를 모르기 때문입니다, 나를 복제하는 수준의 동기화 방법 (HAXAI 김다솔 작가님)"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/Iaxha5t8Vtg/hqdefault.jpg",
+      "representative_video_id": "Iaxha5t8Vtg",
+      "representative_title": "AI 지각생? 다시 애플의 시간 | Siri AI가 바꿀 앱 생태계, 아이폰을 쥔 애플에게 새 기회가 생기는 이유 | OS 하드웨어 주도권"
+    },
+    {
+      "label": "계정",
+      "count": 1,
+      "avg_view_count": 54504,
+      "avg_engagement_rate": 0.006421547042418905,
+      "avg_like_count": 268,
+      "avg_comment_count": 82,
+      "source_titles": [
+        "계정 제한을 시작한 오픈 AI ㄷㄷㄷ"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/m4K7aZbXkqA/hqdefault.jpg",
+      "representative_video_id": "m4K7aZbXkqA",
+      "representative_title": "계정 제한을 시작한 오픈 AI ㄷㄷㄷ"
+    },
+    {
+      "label": "로컬에서",
+      "count": 1,
+      "avg_view_count": 48743,
+      "avg_engagement_rate": 0.012555649016269002,
+      "avg_like_count": 584,
+      "avg_comment_count": 28,
+      "source_titles": [
+        "로컬에서 실행 가능한 레전드 노이즈캔슬링 등장"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/Gi5eb1baKHE/hqdefault.jpg",
+      "representative_video_id": "Gi5eb1baKHE",
+      "representative_title": "로컬에서 실행 가능한 레전드 노이즈캔슬링 등장"
+    },
+    {
+      "label": "84조원",
+      "count": 1,
+      "avg_view_count": 28118,
+      "avg_engagement_rate": 0.005441354292623942,
+      "avg_like_count": 134,
+      "avg_comment_count": 19,
+      "source_titles": [
+        "84조원 어치 GPU를 때려박겠다는 머스크의 계획"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/dYwVl8Z29ZA/hqdefault.jpg",
+      "representative_video_id": "dYwVl8Z29ZA",
+      "representative_title": "84조원 어치 GPU를 때려박겠다는 머스크의 계획"
     },
     {
       "label": "Notion",
-      "count": 3,
-      "avg_view_count": 5088,
-      "avg_engagement_rate": 0.028967305163512588,
-      "avg_like_count": 103,
-      "avg_comment_count": 62,
-      "source_titles": [
-        "SkillSpector: 클로드 스킬 깔기 전에 꼭 돌려야 할 엔비디아 무료 보안 검사 (스킬 4개 중 1개 취약)",
-        "Herdr: 클로드 코드 여러 개를 한 화면에서 동시에 돌리는 무료 도구 (★4.8만)",
-        "TimesFM 구글 무료 예측 AI — 엑셀 매출 넣으면 6개월 뒤까지 예측 (클로드 코드 스킬)"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/7_cjsT_aVtQ/hqdefault.jpg",
-      "representative_video_id": "7_cjsT_aVtQ",
-      "representative_title": "SkillSpector: 클로드 스킬 깔기 전에 꼭 돌려야 할 엔비디아 무료 보안 검사 (스킬 4개 중 1개 취약)"
-    },
-    {
-      "label": "ChatGPT",
-      "count": 3,
-      "avg_view_count": 2693,
-      "avg_engagement_rate": 0.038919540626359495,
-      "avg_like_count": 103,
-      "avg_comment_count": 14,
-      "source_titles": [
-        "앤트로픽 직원들이 본 충격적인 2030년 상황..ㄷㄷ",
-        "How I Edit My Videos with Claude",
-        "Claude just got rebuilt so hard an engineer called it Claude 2.0"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/I_fK4TTJ824/hqdefault.jpg",
-      "representative_video_id": "I_fK4TTJ824",
-      "representative_title": "앤트로픽 직원들이 본 충격적인 2030년 상황..ㄷㄷ"
-    },
-    {
-      "label": "MCP",
-      "count": 2,
-      "avg_view_count": 13760,
-      "avg_engagement_rate": 0.028508769980362995,
-      "avg_like_count": 92,
-      "avg_comment_count": 22,
-      "source_titles": [
-        "바이브코딩에 절여진 개발자",
-        "엔비디아 오토 온톨로지(Auto Ontology) — AI가 회사 숫자를 추측하지 않게, 무료 공개 (★5천)"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/cZ8HZDrBpOY/hqdefault.jpg",
-      "representative_video_id": "cZ8HZDrBpOY",
-      "representative_title": "바이브코딩에 절여진 개발자"
-    },
-    {
-      "label": "자동화",
-      "count": 2,
-      "avg_view_count": 13228,
-      "avg_engagement_rate": 0.012396787725840346,
-      "avg_like_count": 155,
-      "avg_comment_count": 16,
-      "source_titles": [
-        "AI 칩은 만들어도 기판이 없다? 반도체 공급을 막는 새로운 병목 | 유리기판이 나온다는데 왜 기존 기판은 더 부족해질까? 브로드컴 기판 공장",
-        "Ctrl+Z 는 아무것도 취소하지 않습니다"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/gbUdfXFkNZc/hqdefault.jpg",
-      "representative_video_id": "gbUdfXFkNZc",
-      "representative_title": "AI 칩은 만들어도 기판이 없다? 반도체 공급을 막는 새로운 병목 | 유리기판이 나온다는데 왜 기존 기판은 더 부족해질까? 브로드컴 기판 공장"
-    },
-    {
-      "label": "크레딧까지",
       "count": 1,
-      "avg_view_count": 51425,
-      "avg_engagement_rate": 0.014642683519688867,
-      "avg_like_count": 734,
-      "avg_comment_count": 19,
+      "avg_view_count": 20079,
+      "avg_engagement_rate": 0.03695403157527765,
+      "avg_like_count": 453,
+      "avg_comment_count": 289,
       "source_titles": [
-        "크레딧까지 뿌리기 시작하는 챗GPT ㄷㄷ (+ 활용법)"
+        "unslop 언슬롭: 디자이너한테 1,500달러 드는 'AI 티 지우기', 클로드 무료 스킬로 직접 (신호 64가지)"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/hf2xfgDDqKY/hqdefault.jpg",
-      "representative_video_id": "hf2xfgDDqKY",
-      "representative_title": "크레딧까지 뿌리기 시작하는 챗GPT ㄷㄷ (+ 활용법)"
+      "thumbnail_url": "https://i.ytimg.com/vi/3Wo7N1FpLas/hqdefault.jpg",
+      "representative_video_id": "3Wo7N1FpLas",
+      "representative_title": "unslop 언슬롭: 디자이너한테 1,500달러 드는 'AI 티 지우기', 클로드 무료 스킬로 직접 (신호 64가지)"
     },
     {
-      "label": "OpenAI",
+      "label": "주식시장분석",
       "count": 1,
-      "avg_view_count": 28753,
-      "avg_engagement_rate": 0.024171390811393592,
-      "avg_like_count": 645,
-      "avg_comment_count": 50,
+      "avg_view_count": 18150,
+      "avg_engagement_rate": 0.04247933884297521,
+      "avg_like_count": 631,
+      "avg_comment_count": 140,
       "source_titles": [
-        "How I Get Claude To Edit My Videos (No Code Needed)"
+        "범인은 또 헷지펀드... 줄청산 아직 더 남았나?"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/ep4psgAFOqc/hqdefault.jpg",
-      "representative_video_id": "ep4psgAFOqc",
-      "representative_title": "How I Get Claude To Edit My Videos (No Code Needed)"
+      "thumbnail_url": "https://i.ytimg.com/vi/hcA0092z4jk/hqdefault.jpg",
+      "representative_video_id": "hcA0092z4jk",
+      "representative_title": "범인은 또 헷지펀드... 줄청산 아직 더 남았나?"
     },
     {
-      "label": "2배로",
+      "label": "QR코드에",
       "count": 1,
-      "avg_view_count": 12935,
-      "avg_engagement_rate": 0.007189795129493622,
-      "avg_like_count": 81,
-      "avg_comment_count": 12,
+      "avg_view_count": 15588,
+      "avg_engagement_rate": 0.01084167308185784,
+      "avg_like_count": 161,
+      "avg_comment_count": 8,
       "source_titles": [
-        "2배로 늘어난 챗 GPT 한도!! 근데 좋은건가?"
+        "QR코드에 게임을 눌러담은 개발자"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/9VrDqRayNDs/hqdefault.jpg",
-      "representative_video_id": "9VrDqRayNDs",
-      "representative_title": "2배로 늘어난 챗 GPT 한도!! 근데 좋은건가?"
+      "thumbnail_url": "https://i.ytimg.com/vi/hVuX02Ltkw0/hqdefault.jpg",
+      "representative_video_id": "hVuX02Ltkw0",
+      "representative_title": "QR코드에 게임을 눌러담은 개발자"
     }
   ],
   "video_highlights": [
     {
-      "video_id": "hf2xfgDDqKY",
+      "video_id": "m4K7aZbXkqA",
       "channel_name": "조코딩 JoCoding",
-      "title": "크레딧까지 뿌리기 시작하는 챗GPT ㄷㄷ (+ 활용법)",
-      "thumbnail_url": "https://i.ytimg.com/vi/hf2xfgDDqKY/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=hf2xfgDDqKY",
-      "published_at": "2026-11-04T11:00:01Z",
-      "view_count": 51425,
-      "like_count": 734,
+      "title": "계정 제한을 시작한 오픈 AI ㄷㄷㄷ",
+      "thumbnail_url": "https://i.ytimg.com/vi/m4K7aZbXkqA/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=m4K7aZbXkqA",
+      "published_at": "2026-11-05T05:00:07Z",
+      "view_count": 54504,
+      "like_count": 268,
+      "comment_count": 82,
+      "engagement_rate": 0.006421547042418905,
+      "topic_cluster": "계정",
+      "summary": "오픈AI가 서비스 이용 한도를 초과할 때 여러 계정을 돌려가며 사용하는 편법을 막기 위한 조치를 시작했습니다.",
+      "comment_signal": "ㅇㅋ 그 돈으로 클로드 구독할게요",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "Gi5eb1baKHE",
+      "channel_name": "조코딩 JoCoding",
+      "title": "로컬에서 실행 가능한 레전드 노이즈캔슬링 등장",
+      "thumbnail_url": "https://i.ytimg.com/vi/Gi5eb1baKHE/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=Gi5eb1baKHE",
+      "published_at": "2026-11-05T11:00:31Z",
+      "view_count": 48743,
+      "like_count": 584,
+      "comment_count": 28,
+      "engagement_rate": 0.012555649016269002,
+      "topic_cluster": "로컬에서",
+      "summary": "로컬 환경에서 실행 가능한 노이즈 캔슬링 도구가 공개되어, 차 소음 등 주변 소리를 제거하고 목소리만 깔끔하게 추출하는 성능을 보여주었습니다.",
+      "comment_signal": "바이든 날리면 한번 돌려보죠 ㅋㅋㅋ",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "dYwVl8Z29ZA",
+      "channel_name": "조코딩 JoCoding",
+      "title": "84조원 어치 GPU를 때려박겠다는 머스크의 계획",
+      "thumbnail_url": "https://i.ytimg.com/vi/dYwVl8Z29ZA/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=dYwVl8Z29ZA",
+      "published_at": "2026-11-05T09:00:12Z",
+      "view_count": 28118,
+      "like_count": 134,
       "comment_count": 19,
-      "engagement_rate": 0.014642683519688867,
-      "topic_cluster": "크레딧까지",
-      "summary": "오픈AI 공식 홈페이지의 빌딩 설정을 통해 API 크레딧을 연결하고, 이를 활용해 디시전즈(Decisions) API를 적용하여 구현하는 방법을 설명합니다.",
-      "comment_signal": "아 pro구독 어제 끝나고 plus로 다시 바꿨는데.... 하루만 빨리 알았더라면...!",
+      "engagement_rate": 0.005441354292623942,
+      "topic_cluster": "84조원",
+      "summary": "일론 머스크가 '콜로서스 2' 업데이트를 통해 올해 말까지 총 120만 개의 블랙웰 GPU를 설치하여 대규모 인프라를 구축할 계획임을 밝혔습니다.",
+      "comment_signal": "일론머스크가 기한을 언급한다면 x3정도로 이해하면 됨",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "nsFKkeQg-V0",
-      "channel_name": "Dan Martell",
-      "title": "If you only watch one sales video, make it this one",
-      "thumbnail_url": "https://i.ytimg.com/vi/nsFKkeQg-V0/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=nsFKkeQg-V0",
-      "published_at": "2026-11-04T14:00:18Z",
-      "view_count": 30662,
-      "like_count": 826,
-      "comment_count": 38,
-      "engagement_rate": 0.028178201030591613,
-      "topic_cluster": "Claude",
-      "summary": "\"그래서 그냥 제안이 뭔지 말해 보라 고요. \"형씨, 당신한테 팔 건 없어요.\" 35 분 뒤에 그는 제게 신용 카드를 건네 더군요. 그가 \"와, 진짜 대단 하네요\"…",
-      "comment_signal": "Sir one on marketing also",
-      "hook_type": "문제 해결"
+      "video_id": "3Wo7N1FpLas",
+      "channel_name": "빌더 조쉬 Builder Josh",
+      "title": "unslop 언슬롭: 디자이너한테 1,500달러 드는 'AI 티 지우기', 클로드 무료 스킬로 직접 (신호 64가지)",
+      "thumbnail_url": "https://i.ytimg.com/vi/3Wo7N1FpLas/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=3Wo7N1FpLas",
+      "published_at": "2026-11-05T09:21:45Z",
+      "view_count": 20079,
+      "like_count": 453,
+      "comment_count": 289,
+      "engagement_rate": 0.03695403157527765,
+      "topic_cluster": "Notion",
+      "summary": "언슬롭(unslop)은 AI가 생성한 디자인의 부자연스러운 요소 64가지를 분석해 간격, 색상, 아이콘 등을 수정해 주는 무료 도구로, 디자이너 수준의 UI 보정을…",
+      "comment_signal": "디자인 감사합니다!",
+      "hook_type": "실험"
     },
     {
-      "video_id": "ep4psgAFOqc",
-      "channel_name": "Matt Wolfe",
-      "title": "How I Get Claude To Edit My Videos (No Code Needed)",
-      "thumbnail_url": "https://i.ytimg.com/vi/ep4psgAFOqc/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=ep4psgAFOqc",
-      "published_at": "2026-11-04T16:40:16Z",
-      "view_count": 28753,
-      "like_count": 645,
-      "comment_count": 50,
-      "engagement_rate": 0.024171390811393592,
-      "topic_cluster": "OpenAI",
-      "summary": "Claude Opus 5.5, VidIQ, ElevenLabs를 결합하여 영상 편집 과정을 자동화하는 시스템을 구축하고, 이를 통해 효율적으로 콘텐츠를 제작하는 방…",
-      "comment_signal": "I feel like what you're describing at the end might be a shift from the attention to curation e…",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "cZ8HZDrBpOY",
-      "channel_name": "조코딩 JoCoding",
-      "title": "바이브코딩에 절여진 개발자",
-      "thumbnail_url": "https://i.ytimg.com/vi/cZ8HZDrBpOY/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=cZ8HZDrBpOY",
-      "published_at": "2026-11-04T09:00:03Z",
-      "view_count": 27437,
-      "like_count": 183,
-      "comment_count": 43,
-      "engagement_rate": 0.008237052155847942,
-      "topic_cluster": "MCP",
-      "summary": "바이브 코딩 기술에 깊이 관여하게 된 개발자의 일상과 그 과정에서의 변화를 다룹니다.",
-      "comment_signal": "구현 난이도는 줄었는데 대신 오래 붙잡고 있어야함. 이메일 처음 나왔을때랑 비슷한 느낌. 빨라지고 편해졌지만 전체적으로 쳐내야 하는 일은 더 늘어난것 같다. 문제는 쳐내는…",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "gbUdfXFkNZc",
+      "video_id": "Iaxha5t8Vtg",
       "channel_name": "안될공학 - IT 테크 신기술",
-      "title": "AI 칩은 만들어도 기판이 없다? 반도체 공급을 막는 새로운 병목 | 유리기판이 나온다는데 왜 기존 기판은 더 부족해질까? 브로드컴 기판 공장",
-      "thumbnail_url": "https://i.ytimg.com/vi/gbUdfXFkNZc/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=gbUdfXFkNZc",
-      "published_at": "2026-11-04T10:15:02Z",
-      "view_count": 22573,
-      "like_count": 267,
-      "comment_count": 31,
-      "engagement_rate": 0.01320161254596199,
-      "topic_cluster": "자동화",
-      "summary": "유리 기판으로 다음 세대에 더 큰 패키지를 준비하는 동안에도 지금 생산할 치배는 기존 유기 기판이 필요하죠. 그래서 유리 기판이 유망하더라도 당장에 부족한 물량을…",
-      "comment_signal": "감기 얼른 나으세요 😢",
+      "title": "AI 지각생? 다시 애플의 시간 | Siri AI가 바꿀 앱 생태계, 아이폰을 쥔 애플에게 새 기회가 생기는 이유 | OS 하드웨어 주도권",
+      "thumbnail_url": "https://i.ytimg.com/vi/Iaxha5t8Vtg/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=Iaxha5t8Vtg",
+      "published_at": "2026-11-05T13:34:37Z",
+      "view_count": 18339,
+      "like_count": 186,
+      "comment_count": 50,
+      "engagement_rate": 0.012868749659196248,
+      "topic_cluster": "agents",
+      "summary": "애플의 시리 개발자 프리뷰를 통해 앱 연결성과 에이전트 기능이 강화되고 있으며, 기기-모델-생태계를 통합하는 애플 특유의 방식이 AI 생태계의 새로운 기회가 될 것…",
+      "comment_signal": "감기때문에 코맹맹이인점 양해부탁드려요! ㅠㅠ",
       "hook_type": "문제 해결"
     }
   ]
