@@ -1,267 +1,249 @@
 {
-  "digest_date": "2026-11-07",
-  "generated_at": "2026-11-07T02:45:01+00:00",
-  "summary": "최근 24시간 영상 19개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'Claude'입니다. 특히 'AI News: New ChatGPT & Google Models (14 Updates Worth Knowing)'는 조회수 47.4K, 참여율 2.4%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "'Claude' 주제가 4개 영상으로 가장 많이 다뤄졌습니다. Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n[내 채널] 7일 평균 57.0K회 · 지속률 31.8% / 경쟁사 평균 14.0K회 (격차 +308%)",
-  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 11/07\n\n📊 총 10개 | AI 핵심 10 · 인접 AI 0 · 일반 테크 보충 0\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 10 · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [Matt Wolfe] 47.4K뷰 · 참여율 2.4%\n   AI News: New ChatGPT & Google Models (14 Updates Worth Knowing)\n   ↳ 오픈AI의 이미지 2.6, 구글의 제미나이 옴니 1.2 플래시 및 키미 K3.1 프로 등 최신 AI 모델의 업데이트 소식을 다룬다. 특히 우주 공간의 GPU를 활용하는 구글의 프로젝트 선 캐처와 같은 기술적 진보와…\n   https://youtu.be/IrAHINf0M6E\n\n2. AI 핵심 · [조코딩 JoCoding] 41.2K뷰 · 참여율 2.2%\n   AI 여러 개가 내 컴퓨터를 동시에 조작하게 해주는 오픈소스 ㄷㄷ\n   ↳ 다양한 AI 에이전트를 내 컴퓨터에 연결해 직접 조작하게 해주는 오픈소스 도구를 소개한다. 화면 캡처 방식이 아닌 시스템 직접 읽기 방식을 사용하여 효율성과 활용도를 높인 것이 특징이다.\n   https://youtu.be/AJNTPMiyf_0\n\n3. AI 핵심 · [조코딩 JoCoding] 33.8K뷰 · 참여율 1.0%\n   게임 제작에 모션캡쳐가 없어질 수 있다??\n   ↳ 엔비디아 등의 AI 기술을 활용하여 복잡한 모션 캡처 장비 없이도 캐릭터의 동작 애니메이션을 자동으로 생성하는 방법을 설명한다. 간단한 프롬프트 입력만으로 게임 캐릭터의 자연스러운 움직임을 구현하는 기술을 다룬다.\n   https://youtu.be/sbZTBNR_TYE\n\n4. AI 핵심 · [알린 ALINN] 30.3K뷰 · 참여율 1.5%\n   완전히 달라졌다... 새롭게 바뀐 클로드 무조건 써야 하는 이유\n   ↳ 성능과 사용성이 대폭 개선된 클로드 2.0의 주요 기능과 활용법을 가이드한다. 챗과 코워크 통합, 아티팩트 기능 등 효율적인 업무 수행을 위한 명령어 활용 전략을 상세히 제시한다.\n   https://youtu.be/svnYKU2wRfc\n\n5. AI 핵심 · [조코딩 JoCoding] 14.9K뷰 · 참여율 1.7%\n   말 겹쳐도 다 알아듣는 미친 전사 AI\n   ↳ 여러 사람의 대화가 겹치는 상황에서도 화자를 정확히 구분하여 텍스트로 변환해 주는 AI 전사 기술을 소개한다. 로컬 환경에서 실행 가능한 높은 정확도의 음성 인식 및 전사 성능을 강조한다.\n   https://youtu.be/vNpf7-58Wc8\n\n6. AI 핵심 · [조코딩 JoCoding] 14.7K뷰 · 참여율 0.8%\n   앤트로픽이 미래 수요에 계속 베팅하는 이유\n   ↳ 앤트로픽이 기업의 AI 에이전트 수요 증가를 예측하고 나스닥 상장을 준비하는 비즈니스 배경을 분석한다. AI 기술 업계의 투자 동향과 미래 수익 모델에 대한 견해를 공유한다.\n   https://youtu.be/T1C-85nvQSg\n\n7. AI 핵심 · [빌더 조쉬 Builder Josh] 8.5K뷰 · 참여율 4.6%\n   Agent Reach: 유튜브 자막 통째로 읽고 요약하는 클로드 코드 무료 도구 (★10.9만)\n   ↳ 클로드 코드가 직접 접근하기 어려운 유튜브 자막이나 웹페이지 내용을 추출해 요약해 주는 무료 도구 '에이전트 리치'를 소개한다. 긴 영상의 핵심 내용을 빠르게 파악해야 하는 자료 조사 과정에 매우 효과적이다.\n   https://youtu.be/9C8BaI2xHik\n\n8. AI 핵심 · [The AI Advantage] 6.8K뷰 · 참여율 2.3%\n   ChatGPT Images 2.6 Is Here: GIFs, Dot Upgrades & More\n   ↳ 오픈AI 이미지 2.6 모델의 애니메이션 GIF 생성 및 편집 기능을 다룬다. 또한 닷(Dot) 기능을 통한 자동화 작업과 개인 재무 관리 등 실용적인 활용법을 소개한다.\n   https://youtu.be/5LkRDoGVook\n\n9. AI 핵심 · [The AI Automators] 5.5K뷰 · 참여율 1.6%\n   I Just Built a Self-Improving AI OS (Inspired by Harness²)\n   ↳ 구글 리서치와 노스웨스턴 대학이 개발한 '하니스 스퀘어드'를 바탕으로 스스로 시스템을 개선하는 AI OS 구축법을 설명한다. 실제 프로덕션 환경에서의 제어권과 마찰 로그를 활용한 피드백 루프의 중요성을 강조한다.\n   https://youtu.be/OqNWvYsQXzE\n\n10. AI 핵심 · [빌더 조쉬 Builder Josh] 1.7K뷰 · 참여율 1.9%\n   ChatGPT Work 10가지 스킬 완벽 정리: 이 영상 하나로 활용법 끝냅니다.\n   ↳ 챗GPT를 업무에 활용하는 10가지 필수 스킬을 실제 사례와 함께 정리한다. 영수증 정리, PPT 생성, 업무 자동화 녹화 등 비개발자도 즉시 활용 가능한 실무 자동화 기법을 제시한다.\n   https://youtu.be/NdUFdAC0D2s\n\n📈 스마트대디 어제 실적\n조회수 44.8K (↓22% vs 7일 평균) | 구독 +179\n시청 지속률 30.8% | 평균 시청 2분 38초\n경쟁사 평균 14.0K회 대비 내 7일 평균 +308%\n\n💡 VS 각도: Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
-  "video_count": 19,
-  "total_recent_video_count": 24,
+  "digest_date": "2026-11-08",
+  "generated_at": "2026-11-08T02:21:20+00:00",
+  "summary": "최근 24시간 영상 11개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'ChatGPT'입니다. 특히 '말포이가 여주인 세계선 혼혈왕자편 (TS 말포이)'는 조회수 80.5K, 참여율 4.1%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "'ChatGPT' 주제가 3개 영상으로 가장 많이 다뤄졌습니다. ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.\n[내 채널] 7일 평균 49.8K회 · 지속률 31.4% / 경쟁사 평균 15.8K회 (격차 +216%)",
+  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 11/08\n\n📊 총 10개 | AI 핵심 10 · 인접 AI 0 · 일반 테크 보충 0\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 10 · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [Fantasoner(판타소너)] 80.5K뷰 · 참여율 4.1%\n   말포이가 여주인 세계선 혼혈왕자편 (TS 말포이)\n   ↳ AI 기술을 활용해 해리포터 시리즈의 말포이 캐릭터가 주인공이 되는 세계관을 재구성한 팬 메이드 영상입니다.\n   https://youtu.be/WYRDe8XsRmI\n\n2. AI 핵심 · [조코딩 JoCoding] 43.4K뷰 · 참여율 1.0%\n   로컬 AI를 함부로 쓰면 안되는 이유 ㄷㄷ\n   ↳ 로컬 AI 모델을 무분별하게 사용할 경우 모델 내부의 악성 코드나 취약점으로 인해 개인 데이터가 외부 서버로 유출될 위험이 있어 주의가 필요합니다.\n   https://youtu.be/-gbKuJBeFsQ\n\n3. AI 핵심 · [Matt Wolfe] 8.1K뷰 · 참여율 6.6%\n   That is Some Crazy Fabric\n   ↳ 각 실에 터치 센서가 내장된 LED가 직조되어 만들어진 첨단 섬유 기술을 소개합니다.\n   https://youtu.be/w3z3Fa7ACt8\n\n4. AI 핵심 · [Matt Wolfe] 6.8K뷰 · 참여율 3.9%\n   Claude Code Just Called My Phone\n   ↳ Bird 서비스를 연동해 Claude Code 등 AI 에이전트가 작업 완료 알림을 보내거나 필요한 경우 사용자에게 직접 전화를 걸어 소통하는 효율적인 자동화 환경을 구축했습니다.\n   https://youtu.be/A5SfzBD6M3o\n\n5. AI 핵심 · [빌더 조쉬 Builder Josh] 4.7K뷰 · 참여율 3.3%\n   claude-mem — 클로드 코드가 어제 한 작업을 다음 날에도 기억하게 만드는 무료 플러그인 (깃허브 ★11.4만)\n   ↳ 클로드 멤(claude-mem)은 작업 내용을 자동으로 요약 및 저장하여 세션이 종료되어도 이전 작업 맥락을 기억하게 해주는 무료 오픈소스 플러그인입니다.\n   https://youtu.be/34LWS9x9bKw\n\n6. AI 핵심 · [조코딩 JoCoding] 4.2K뷰 · 참여율 1.3%\n   단순한 덧셈에 멍청해지는 컴퓨터의 비밀\n   ↳ 컴퓨터가 특정 숫자 범위를 넘어서면 오류를 일으키는 오버플로우 현상을 설명하며, 데이터 설계 시 충분한 자릿수를 확보하는 것이 중요함을 강조합니다.\n   https://youtu.be/cRA5TxZFiG0\n\n7. AI 핵심 · [MattVidPro] 1.4K뷰 · 참여율 5.4%\n   ChatGPT Can Make GIFs Now (Images 2.6 Tested)\n   ↳ ChatGPT의 Images 2.6 모델을 테스트하여 GIF 생성 기능과 성능 변화를 분석한 결과, 이전 버전 대비 속도와 기능적 측면에서 차이가 있음을 확인했습니다.\n   https://youtu.be/fQnrdr2DcqQ\n\n8. AI 핵심 · [Futurepedia] 1.3K뷰 · 참여율 2.2%\n   Claude 2 0 powerful code features for maximum organization\n   ↳ Claude Code의 새로운 세션 레일을 통해 토큰 사용량과 실행 중인 에이전트, 스킬, 메모리 상태를 한눈에 관리하고 효율적으로 운영하는 방법을 소개합니다.\n   https://youtu.be/3VTn_1SNktA\n\n9. AI 핵심 · [빌더 조쉬 Builder Josh] 980뷰 · 참여율 6.4%\n   raea — 클로드 코드로 영상 만드는 속도 최대 20배, 브라우저 없이 렌더하는 무료 엔진\n   ↳ 레아(raea)는 브라우저를 거치지 않고 게임 엔진을 사용하여 영상 렌더링 속도를 기존 대비 최대 20배까지 높여주는 무료 렌더 엔진입니다.\n   https://youtu.be/qrycSYkGwRU\n\n10. AI 핵심 · [MattVidPro] 19뷰 · 참여율 10.5%\n   ChatGPT can make GIFs now (and people went feral)\n   ↳ ChatGPT의 Images 2.6 업데이트를 통해 사용자가 프롬프트와 사진으로 GIF 애니메이션을 제작할 수 있게 되었습니다.\n   https://youtu.be/tgdG27lr26s\n\n📈 스마트대디 어제 실적\n조회수 58.9K (↑18% vs 7일 평균) | 구독 +201\n시청 지속률 31.1% | 평균 시청 2분 30초\n경쟁사 평균 15.8K회 대비 내 7일 평균 +216%\n\n💡 VS 각도: ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+  "video_count": 11,
+  "total_recent_video_count": 15,
   "focus_scope": "ai_priority_then_tech_fill",
-  "average_view_count": 13988.0,
-  "average_engagement_rate": 0.02965162124180761,
-  "average_like_count": 274.0,
-  "average_comment_count": 25.0,
-  "best_video_id": "IrAHINf0M6E",
-  "best_topic": "Claude",
+  "average_view_count": 15750.0,
+  "average_engagement_rate": 0.04382402346262229,
+  "average_like_count": 436.0,
+  "average_comment_count": 79.0,
+  "best_video_id": "WYRDe8XsRmI",
+  "best_topic": "ChatGPT",
   "summary_points": [
-    "가장 겹친 주제는 'Claude'이며 4개 영상, 평균 조회수 12.1K, 평균 참여율 2.0%입니다.",
-    "최고 실적 영상은 'AI News: New ChatGPT & Google Models (14 Updates Worth Knowing)'이며 긴급성 훅과 워크플로우 튜토리얼 포맷 조합이 강했습니다.",
-    "반복 노출된 툴은 Claude 7회, Arc 5회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
+    "가장 겹친 주제는 'ChatGPT'이며 3개 영상, 평균 조회수 2.8K, 평균 참여율 6.6%입니다.",
+    "최고 실적 영상은 '말포이가 여주인 세계선 혼혈왕자편 (TS 말포이)'이며 문제 해결 훅과 뉴스 분석 포맷 조합이 강했습니다.",
+    "반복 노출된 툴은 Claude 4회, ChatGPT 3회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
   ],
   "action_chips": [
-    "주제: Claude",
-    "훅: 긴급성",
-    "포맷: 워크플로우 튜토리얼",
-    "기준 채널: Matt Wolfe"
+    "주제: ChatGPT",
+    "훅: 문제 해결",
+    "포맷: 뉴스 분석",
+    "기준 채널: Fantasoner(판타소너)"
   ],
   "title_suggestions": [
-    "Claude vs ChatGPT, 일반인이 직접 써보니 이게 달랐다",
-    "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
-    "AI 비서 대결: Claude가 진짜 강한 상황은 따로 있었다"
+    "ChatGPT vs Claude vs Gemini, 일반인 업무 실전 대결 결과",
+    "GPT 최신 버전 직접 실험 — 이전이랑 진짜 달라?",
+    "GPT 써봤더니... 기대랑 다른 점 솔직하게 다 말해봄"
   ],
   "recommendations": [
     {
-      "title": "Claude vs ChatGPT, 일반인이 직접 써보니 이게 달랐다",
+      "title": "ChatGPT vs Claude vs Gemini, 일반인 업무 실전 대결 결과",
       "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "Claude 핵심 3가지",
-      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
-      "source_video_id": "AJNTPMiyf_0",
-      "source": "AI 여러 개가 내 컴퓨터를 동시에 조작하게 해주는 오픈소스 ㄷㄷ",
-      "my_channel_context": "내 7일 평균 57.0K회 · 지속률 31.8% / 경쟁사 대비 +308%"
+      "angle": "'ChatGPT'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
+      "thumbnail_copy": "ChatGPT 바로 해결",
+      "reason": "ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.",
+      "source_video_id": "A5SfzBD6M3o",
+      "source": "Claude Code Just Called My Phone",
+      "my_channel_context": "내 7일 평균 49.8K회 · 지속률 31.4% / 경쟁사 대비 +216%"
     },
     {
-      "title": "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
+      "title": "GPT 최신 버전 직접 실험 — 이전이랑 진짜 달라?",
       "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "Claude 바로 해결",
-      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
-      "source_video_id": "OqNWvYsQXzE",
-      "source": "I Just Built a Self-Improving AI OS (Inspired by Harness²)",
-      "my_channel_context": "내 7일 평균 57.0K회 · 지속률 31.8% / 경쟁사 대비 +308%"
+      "angle": "'ChatGPT'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
+      "thumbnail_copy": "ChatGPT 핵심 3가지",
+      "reason": "ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.",
+      "source_video_id": "fQnrdr2DcqQ",
+      "source": "ChatGPT Can Make GIFs Now (Images 2.6 Tested)",
+      "my_channel_context": "내 7일 평균 49.8K회 · 지속률 31.4% / 경쟁사 대비 +216%"
     },
     {
-      "title": "AI 비서 대결: Claude가 진짜 강한 상황은 따로 있었다",
+      "title": "GPT 써봤더니... 기대랑 다른 점 솔직하게 다 말해봄",
       "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "Claude 바로 해결",
-      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
-      "source_video_id": "BMsezHlEVW4",
-      "source": "Free Claude 2.0 Setup Guide",
-      "my_channel_context": "내 7일 평균 57.0K회 · 지속률 31.8% / 경쟁사 대비 +308%"
+      "angle": "'ChatGPT'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
+      "thumbnail_copy": "ChatGPT 지금 봐야 함",
+      "reason": "ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.",
+      "source_video_id": "tgdG27lr26s",
+      "source": "ChatGPT can make GIFs now (and people went feral)",
+      "my_channel_context": "내 7일 평균 49.8K회 · 지속률 31.4% / 경쟁사 대비 +216%"
     }
   ],
   "topic_clusters": [
     {
-      "label": "Claude",
-      "count": 4,
-      "avg_view_count": 12138,
-      "avg_engagement_rate": 0.019798017530422617,
-      "avg_like_count": 250,
-      "avg_comment_count": 6,
-      "source_titles": [
-        "AI 여러 개가 내 컴퓨터를 동시에 조작하게 해주는 오픈소스 ㄷㄷ",
-        "I Just Built a Self-Improving AI OS (Inspired by Harness²)",
-        "Free Claude 2.0 Setup Guide"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/AJNTPMiyf_0/hqdefault.jpg",
-      "representative_video_id": "AJNTPMiyf_0",
-      "representative_title": "AI 여러 개가 내 컴퓨터를 동시에 조작하게 해주는 오픈소스 ㄷㄷ"
-    },
-    {
-      "label": "Arc",
-      "count": 3,
-      "avg_view_count": 12156,
-      "avg_engagement_rate": 0.032318701676648555,
-      "avg_like_count": 236,
-      "avg_comment_count": 43,
-      "source_titles": [
-        "\"AI는 1달러로 180달러를 번다\" / 세계적 투자자 4인의 앤트로픽 IPO를 보는 관점... 꼭 보셔야 합니다.",
-        "\"가짜 반등에 속지마라\"..월가 반응 5개 정리",
-        "크레딧 낭비 없이 AI 영상 만드는 방법, 10분이면 끝납니다 (힉스필드 초보자 가이드)"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/Ov0UInFwnl8/hqdefault.jpg",
-      "representative_video_id": "Ov0UInFwnl8",
-      "representative_title": "\"AI는 1달러로 180달러를 번다\" / 세계적 투자자 4인의 앤트로픽 IPO를 보는 관점... 꼭 보셔야 합니다."
-    },
-    {
       "label": "ChatGPT",
       "count": 3,
-      "avg_view_count": 3154,
-      "avg_engagement_rate": 0.04423683782784941,
-      "avg_like_count": 87,
-      "avg_comment_count": 5,
+      "avg_view_count": 2754,
+      "avg_engagement_rate": 0.06617482492238828,
+      "avg_like_count": 108,
+      "avg_comment_count": 7,
       "source_titles": [
-        "ChatGPT Images 2.6 Is Here: GIFs, Dot Upgrades & More",
-        "ChatGPT Work 10가지 스킬 완벽 정리: 이 영상 하나로 활용법 끝냅니다.",
-        "The Best AI Image Model In The World Just Got Way Better"
+        "Claude Code Just Called My Phone",
+        "ChatGPT Can Make GIFs Now (Images 2.6 Tested)",
+        "ChatGPT can make GIFs now (and people went feral)"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/5LkRDoGVook/hqdefault.jpg",
-      "representative_video_id": "5LkRDoGVook",
-      "representative_title": "ChatGPT Images 2.6 Is Here: GIFs, Dot Upgrades & More"
+      "thumbnail_url": "https://i.ytimg.com/vi/A5SfzBD6M3o/hqdefault.jpg",
+      "representative_video_id": "A5SfzBD6M3o",
+      "representative_title": "Claude Code Just Called My Phone"
     },
     {
-      "label": "OpenAI",
-      "count": 2,
-      "avg_view_count": 24314,
-      "avg_engagement_rate": 0.01763286374478235,
-      "avg_like_count": 534,
-      "avg_comment_count": 34,
+      "label": "Claude",
+      "count": 3,
+      "avg_view_count": 2304,
+      "avg_engagement_rate": 0.03980480261472626,
+      "avg_like_count": 60,
+      "avg_comment_count": 22,
       "source_titles": [
-        "AI News: New ChatGPT & Google Models (14 Updates Worth Knowing)",
-        "The Worlds First AI Labs Simulator RTS Game - Kimi K3.1 Pro"
+        "claude-mem — 클로드 코드가 어제 한 작업을 다음 날에도 기억하게 만드는 무료 플러그인 (깃허브 ★11.4만)",
+        "Claude 2 0 powerful code features for maximum organization",
+        "raea — 클로드 코드로 영상 만드는 속도 최대 20배, 브라우저 없이 렌더하는 무료 엔진"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/IrAHINf0M6E/hqdefault.jpg",
-      "representative_video_id": "IrAHINf0M6E",
-      "representative_title": "AI News: New ChatGPT & Google Models (14 Updates Worth Knowing)"
+      "thumbnail_url": "https://i.ytimg.com/vi/34LWS9x9bKw/hqdefault.jpg",
+      "representative_video_id": "34LWS9x9bKw",
+      "representative_title": "claude-mem — 클로드 코드가 어제 한 작업을 다음 날에도 기억하게 만드는 무료 플러그인 (깃허브 ★11.4만)"
     },
     {
-      "label": "agents",
-      "count": 2,
-      "avg_view_count": 22536,
-      "avg_engagement_rate": 0.011118348690471869,
-      "avg_like_count": 266,
-      "avg_comment_count": 12,
-      "source_titles": [
-        "완전히 달라졌다... 새롭게 바뀐 클로드 무조건 써야 하는 이유",
-        "앤트로픽이 미래 수요에 계속 베팅하는 이유"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/svnYKU2wRfc/hqdefault.jpg",
-      "representative_video_id": "svnYKU2wRfc",
-      "representative_title": "완전히 달라졌다... 새롭게 바뀐 클로드 무조건 써야 하는 이유"
-    },
-    {
-      "label": "게임",
+      "label": "말포이가",
       "count": 1,
-      "avg_view_count": 33777,
-      "avg_engagement_rate": 0.010391686650679457,
+      "avg_view_count": 80465,
+      "avg_engagement_rate": 0.04119803641334742,
+      "avg_like_count": 2845,
+      "avg_comment_count": 470,
+      "source_titles": [
+        "말포이가 여주인 세계선 혼혈왕자편 (TS 말포이)"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/WYRDe8XsRmI/hqdefault.jpg",
+      "representative_video_id": "WYRDe8XsRmI",
+      "representative_title": "말포이가 여주인 세계선 혼혈왕자편 (TS 말포이)"
+    },
+    {
+      "label": "로컬",
+      "count": 1,
+      "avg_view_count": 43449,
+      "avg_engagement_rate": 0.00978158300536261,
       "avg_like_count": 328,
-      "avg_comment_count": 23,
+      "avg_comment_count": 97,
       "source_titles": [
-        "게임 제작에 모션캡쳐가 없어질 수 있다??"
+        "로컬 AI를 함부로 쓰면 안되는 이유 ㄷㄷ"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/sbZTBNR_TYE/hqdefault.jpg",
-      "representative_video_id": "sbZTBNR_TYE",
-      "representative_title": "게임 제작에 모션캡쳐가 없어질 수 있다??"
+      "thumbnail_url": "https://i.ytimg.com/vi/-gbKuJBeFsQ/hqdefault.jpg",
+      "representative_video_id": "-gbKuJBeFsQ",
+      "representative_title": "로컬 AI를 함부로 쓰면 안되는 이유 ㄷㄷ"
     },
     {
-      "label": "창업",
+      "label": "투자",
       "count": 1,
-      "avg_view_count": 19484,
-      "avg_engagement_rate": 0.04085403407924451,
-      "avg_like_count": 782,
-      "avg_comment_count": 14,
+      "avg_view_count": 21921,
+      "avg_engagement_rate": 0.03416814926326354,
+      "avg_like_count": 594,
+      "avg_comment_count": 155,
       "source_titles": [
-        "Anyone can start a business in less than 60 seconds with GrokBot"
+        "월가 10개 리포트 종합, 반박까지 20분 총정리. 꼭 보셔야합니다"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/5K2ndMthDiM/hqdefault.jpg",
-      "representative_video_id": "5K2ndMthDiM",
-      "representative_title": "Anyone can start a business in less than 60 seconds with GrokBot"
+      "thumbnail_url": "https://i.ytimg.com/vi/81r7_n4EXMI/hqdefault.jpg",
+      "representative_video_id": "81r7_n4EXMI",
+      "representative_title": "월가 10개 리포트 종합, 반박까지 20분 총정리. 꼭 보셔야합니다"
     },
     {
-      "label": "말",
+      "label": "monetization",
       "count": 1,
-      "avg_view_count": 14902,
-      "avg_engagement_rate": 0.01684337672795598,
-      "avg_like_count": 241,
-      "avg_comment_count": 10,
+      "avg_view_count": 8075,
+      "avg_engagement_rate": 0.0660061919504644,
+      "avg_like_count": 478,
+      "avg_comment_count": 55,
       "source_titles": [
-        "말 겹쳐도 다 알아듣는 미친 전사 AI"
+        "That is Some Crazy Fabric"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/vNpf7-58Wc8/hqdefault.jpg",
-      "representative_video_id": "vNpf7-58Wc8",
-      "representative_title": "말 겹쳐도 다 알아듣는 미친 전사 AI"
+      "thumbnail_url": "https://i.ytimg.com/vi/w3z3Fa7ACt8/hqdefault.jpg",
+      "representative_video_id": "w3z3Fa7ACt8",
+      "representative_title": "That is Some Crazy Fabric"
+    },
+    {
+      "label": "단순한",
+      "count": 1,
+      "avg_view_count": 4163,
+      "avg_engagement_rate": 0.012971414845063657,
+      "avg_like_count": 51,
+      "avg_comment_count": 3,
+      "source_titles": [
+        "단순한 덧셈에 멍청해지는 컴퓨터의 비밀"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/cRA5TxZFiG0/hqdefault.jpg",
+      "representative_video_id": "cRA5TxZFiG0",
+      "representative_title": "단순한 덧셈에 멍청해지는 컴퓨터의 비밀"
     }
   ],
   "video_highlights": [
     {
-      "video_id": "IrAHINf0M6E",
-      "channel_name": "Matt Wolfe",
-      "title": "AI News: New ChatGPT & Google Models (14 Updates Worth Knowing)",
-      "thumbnail_url": "https://i.ytimg.com/vi/IrAHINf0M6E/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=IrAHINf0M6E",
-      "published_at": "2026-11-06T18:20:31Z",
-      "view_count": 47424,
-      "like_count": 1054,
-      "comment_count": 67,
-      "engagement_rate": 0.023637820512820512,
-      "topic_cluster": "OpenAI",
-      "summary": "오픈AI의 이미지 2.6, 구글의 제미나이 옴니 1.2 플래시 및 키미 K3.1 프로 등 최신 AI 모델의 업데이트 소식을 다룬다. 특히 우주 공간의 GPU를 활용…",
-      "comment_signal": "I think we can all agree it is pronounced *gifs* NOT gifs.",
-      "hook_type": "긴급성"
+      "video_id": "WYRDe8XsRmI",
+      "channel_name": "Fantasoner(판타소너)",
+      "title": "말포이가 여주인 세계선 혼혈왕자편 (TS 말포이)",
+      "thumbnail_url": "https://i.ytimg.com/vi/WYRDe8XsRmI/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=WYRDe8XsRmI",
+      "published_at": "2026-11-07T12:20:47Z",
+      "view_count": 80465,
+      "like_count": 2845,
+      "comment_count": 470,
+      "engagement_rate": 0.04119803641334742,
+      "topic_cluster": "말포이가",
+      "summary": "AI 기술을 활용해 해리포터 시리즈의 말포이 캐릭터가 주인공이 되는 세계관을 재구성한 팬 메이드 영상입니다.",
+      "comment_signal": "HBO doesn't stand a chance in Hell...",
+      "hook_type": "문제 해결"
     },
     {
-      "video_id": "AJNTPMiyf_0",
+      "video_id": "-gbKuJBeFsQ",
       "channel_name": "조코딩 JoCoding",
-      "title": "AI 여러 개가 내 컴퓨터를 동시에 조작하게 해주는 오픈소스 ㄷㄷ",
-      "thumbnail_url": "https://i.ytimg.com/vi/AJNTPMiyf_0/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=AJNTPMiyf_0",
-      "published_at": "2026-11-06T05:00:00Z",
-      "view_count": 41189,
-      "like_count": 895,
-      "comment_count": 18,
-      "engagement_rate": 0.02216611231153949,
-      "topic_cluster": "Claude",
-      "summary": "다양한 AI 에이전트를 내 컴퓨터에 연결해 직접 조작하게 해주는 오픈소스 도구를 소개한다. 화면 캡처 방식이 아닌 시스템 직접 읽기 방식을 사용하여 효율성과 활용도…",
-      "comment_signal": "클로드 gpt에서 쓰는 컴퓨터유즈보다 토큰절약 되는거?",
-      "hook_type": "실험 데모"
-    },
-    {
-      "video_id": "sbZTBNR_TYE",
-      "channel_name": "조코딩 JoCoding",
-      "title": "게임 제작에 모션캡쳐가 없어질 수 있다??",
-      "thumbnail_url": "https://i.ytimg.com/vi/sbZTBNR_TYE/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=sbZTBNR_TYE",
-      "published_at": "2026-11-06T09:00:10Z",
-      "view_count": 33777,
+      "title": "로컬 AI를 함부로 쓰면 안되는 이유 ㄷㄷ",
+      "thumbnail_url": "https://i.ytimg.com/vi/-gbKuJBeFsQ/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=-gbKuJBeFsQ",
+      "published_at": "2026-11-07T05:00:02Z",
+      "view_count": 43449,
       "like_count": 328,
-      "comment_count": 23,
-      "engagement_rate": 0.010391686650679457,
-      "topic_cluster": "게임",
-      "summary": "엔비디아 등의 AI 기술을 활용하여 복잡한 모션 캡처 장비 없이도 캐릭터의 동작 애니메이션을 자동으로 생성하는 방법을 설명한다. 간단한 프롬프트 입력만으로 게임 캐…",
-      "comment_signal": "모션브릭이네요 여러가지로 적용해봤는데 아직은 제대로 쓸수가 없습니다 엄청나게 오류가 많고, 7~9등신같은 정확한 비율에만 잘동작해요 실무에서는 아직 의미가없습니다. 다만…",
+      "comment_count": 97,
+      "engagement_rate": 0.00978158300536261,
+      "topic_cluster": "로컬",
+      "summary": "로컬 AI 모델을 무분별하게 사용할 경우 모델 내부의 악성 코드나 취약점으로 인해 개인 데이터가 외부 서버로 유출될 위험이 있어 주의가 필요합니다.",
+      "comment_signal": "저건 뭐 모델 제작 이슈 아니면 일부러 한 거 같은…;",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "svnYKU2wRfc",
-      "channel_name": "알린 ALINN",
-      "title": "완전히 달라졌다... 새롭게 바뀐 클로드 무조건 써야 하는 이유",
-      "thumbnail_url": "https://i.ytimg.com/vi/svnYKU2wRfc/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=svnYKU2wRfc",
-      "published_at": "2026-11-06T10:46:14Z",
-      "view_count": 30326,
-      "like_count": 433,
-      "comment_count": 11,
-      "engagement_rate": 0.01464090219613533,
-      "topic_cluster": "agents",
-      "summary": "성능과 사용성이 대폭 개선된 클로드 2.0의 주요 기능과 활용법을 가이드한다. 챗과 코워크 통합, 아티팩트 기능 등 효율적인 업무 수행을 위한 명령어 활용 전략을…",
-      "comment_signal": "IPO 성공시키려고 몸부림 치는 것 같다",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "Ov0UInFwnl8",
+      "video_id": "81r7_n4EXMI",
       "channel_name": "월텍남 - 월스트리트 테크남",
-      "title": "\"AI는 1달러로 180달러를 번다\" / 세계적 투자자 4인의 앤트로픽 IPO를 보는 관점... 꼭 보셔야 합니다.",
-      "thumbnail_url": "https://i.ytimg.com/vi/Ov0UInFwnl8/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=Ov0UInFwnl8",
-      "published_at": "2026-11-06T07:11:55Z",
-      "view_count": 30018,
-      "like_count": 406,
-      "comment_count": 84,
-      "engagement_rate": 0.016323539209807447,
-      "topic_cluster": "Arc",
-      "summary": "You're going to need continuous monitoring of agents, attack surfaces, all that kind of thi…",
-      "comment_signal": "지금 투자기관들이 기존 종목 매도하고 현금보유 늘리는 이유가 다 앤트로픽 상장 때문이라고 생각함. 2천조 예상한다는데…어휴.. 블랙홀임. 지난 번 space x 상장전에도…",
+      "title": "월가 10개 리포트 종합, 반박까지 20분 총정리. 꼭 보셔야합니다",
+      "thumbnail_url": "https://i.ytimg.com/vi/81r7_n4EXMI/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=81r7_n4EXMI",
+      "published_at": "2026-11-07T22:15:27Z",
+      "view_count": 21921,
+      "like_count": 594,
+      "comment_count": 155,
+      "engagement_rate": 0.03416814926326354,
+      "topic_cluster": "투자",
+      "summary": "AI 기술 발달로 토큰 단가는 하락하는 반면 수요가 이를 따라가지 못할 경우 발생할 수 있는 경제적 리스크를 월가 리포트를 토대로 분석했습니다.",
+      "comment_signal": "너무 낙관론자라고 해서... 비관론도 한번 가져와봤습니다. 결국 핵심은 AI의 침투 속도 + 수익화 유무에 따라 결정됩니다. 실적 분석 + 월가 유료 리포트 빠르게 무료로…",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "w3z3Fa7ACt8",
+      "channel_name": "Matt Wolfe",
+      "title": "That is Some Crazy Fabric",
+      "thumbnail_url": "https://i.ytimg.com/vi/w3z3Fa7ACt8/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=w3z3Fa7ACt8",
+      "published_at": "2026-11-07T07:36:33Z",
+      "view_count": 8075,
+      "like_count": 478,
+      "comment_count": 55,
+      "engagement_rate": 0.0660061919504644,
+      "topic_cluster": "monetization",
+      "summary": "각 실에 터치 센서가 내장된 LED가 직조되어 만들어진 첨단 섬유 기술을 소개합니다.",
+      "comment_signal": "Why is all the comment about stock and crypto? Isn't this a video about display fabric?",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "A5SfzBD6M3o",
+      "channel_name": "Matt Wolfe",
+      "title": "Claude Code Just Called My Phone",
+      "thumbnail_url": "https://i.ytimg.com/vi/A5SfzBD6M3o/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=A5SfzBD6M3o",
+      "published_at": "2026-11-07T17:00:37Z",
+      "view_count": 6804,
+      "like_count": 255,
+      "comment_count": 11,
+      "engagement_rate": 0.03909465020576132,
+      "topic_cluster": "ChatGPT",
+      "summary": "Bird 서비스를 연동해 Claude Code 등 AI 에이전트가 작업 완료 알림을 보내거나 필요한 경우 사용자에게 직접 전화를 걸어 소통하는 효율적인 자동화 환경…",
+      "comment_signal": "Now that is cool",
       "hook_type": "문제 해결"
     }
   ]
