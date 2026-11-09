@@ -1,28 +1,28 @@
 {
-  "digest_date": "2026-11-08",
-  "generated_at": "2026-11-08T02:21:20+00:00",
-  "summary": "최근 24시간 영상 11개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'ChatGPT'입니다. 특히 '말포이가 여주인 세계선 혼혈왕자편 (TS 말포이)'는 조회수 80.5K, 참여율 4.1%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "'ChatGPT' 주제가 3개 영상으로 가장 많이 다뤄졌습니다. ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.\n[내 채널] 7일 평균 49.8K회 · 지속률 31.4% / 경쟁사 평균 15.8K회 (격차 +216%)",
-  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 11/08\n\n📊 총 10개 | AI 핵심 10 · 인접 AI 0 · 일반 테크 보충 0\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 10 · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [Fantasoner(판타소너)] 80.5K뷰 · 참여율 4.1%\n   말포이가 여주인 세계선 혼혈왕자편 (TS 말포이)\n   ↳ AI 기술을 활용해 해리포터 시리즈의 말포이 캐릭터가 주인공이 되는 세계관을 재구성한 팬 메이드 영상입니다.\n   https://youtu.be/WYRDe8XsRmI\n\n2. AI 핵심 · [조코딩 JoCoding] 43.4K뷰 · 참여율 1.0%\n   로컬 AI를 함부로 쓰면 안되는 이유 ㄷㄷ\n   ↳ 로컬 AI 모델을 무분별하게 사용할 경우 모델 내부의 악성 코드나 취약점으로 인해 개인 데이터가 외부 서버로 유출될 위험이 있어 주의가 필요합니다.\n   https://youtu.be/-gbKuJBeFsQ\n\n3. AI 핵심 · [Matt Wolfe] 8.1K뷰 · 참여율 6.6%\n   That is Some Crazy Fabric\n   ↳ 각 실에 터치 센서가 내장된 LED가 직조되어 만들어진 첨단 섬유 기술을 소개합니다.\n   https://youtu.be/w3z3Fa7ACt8\n\n4. AI 핵심 · [Matt Wolfe] 6.8K뷰 · 참여율 3.9%\n   Claude Code Just Called My Phone\n   ↳ Bird 서비스를 연동해 Claude Code 등 AI 에이전트가 작업 완료 알림을 보내거나 필요한 경우 사용자에게 직접 전화를 걸어 소통하는 효율적인 자동화 환경을 구축했습니다.\n   https://youtu.be/A5SfzBD6M3o\n\n5. AI 핵심 · [빌더 조쉬 Builder Josh] 4.7K뷰 · 참여율 3.3%\n   claude-mem — 클로드 코드가 어제 한 작업을 다음 날에도 기억하게 만드는 무료 플러그인 (깃허브 ★11.4만)\n   ↳ 클로드 멤(claude-mem)은 작업 내용을 자동으로 요약 및 저장하여 세션이 종료되어도 이전 작업 맥락을 기억하게 해주는 무료 오픈소스 플러그인입니다.\n   https://youtu.be/34LWS9x9bKw\n\n6. AI 핵심 · [조코딩 JoCoding] 4.2K뷰 · 참여율 1.3%\n   단순한 덧셈에 멍청해지는 컴퓨터의 비밀\n   ↳ 컴퓨터가 특정 숫자 범위를 넘어서면 오류를 일으키는 오버플로우 현상을 설명하며, 데이터 설계 시 충분한 자릿수를 확보하는 것이 중요함을 강조합니다.\n   https://youtu.be/cRA5TxZFiG0\n\n7. AI 핵심 · [MattVidPro] 1.4K뷰 · 참여율 5.4%\n   ChatGPT Can Make GIFs Now (Images 2.6 Tested)\n   ↳ ChatGPT의 Images 2.6 모델을 테스트하여 GIF 생성 기능과 성능 변화를 분석한 결과, 이전 버전 대비 속도와 기능적 측면에서 차이가 있음을 확인했습니다.\n   https://youtu.be/fQnrdr2DcqQ\n\n8. AI 핵심 · [Futurepedia] 1.3K뷰 · 참여율 2.2%\n   Claude 2 0 powerful code features for maximum organization\n   ↳ Claude Code의 새로운 세션 레일을 통해 토큰 사용량과 실행 중인 에이전트, 스킬, 메모리 상태를 한눈에 관리하고 효율적으로 운영하는 방법을 소개합니다.\n   https://youtu.be/3VTn_1SNktA\n\n9. AI 핵심 · [빌더 조쉬 Builder Josh] 980뷰 · 참여율 6.4%\n   raea — 클로드 코드로 영상 만드는 속도 최대 20배, 브라우저 없이 렌더하는 무료 엔진\n   ↳ 레아(raea)는 브라우저를 거치지 않고 게임 엔진을 사용하여 영상 렌더링 속도를 기존 대비 최대 20배까지 높여주는 무료 렌더 엔진입니다.\n   https://youtu.be/qrycSYkGwRU\n\n10. AI 핵심 · [MattVidPro] 19뷰 · 참여율 10.5%\n   ChatGPT can make GIFs now (and people went feral)\n   ↳ ChatGPT의 Images 2.6 업데이트를 통해 사용자가 프롬프트와 사진으로 GIF 애니메이션을 제작할 수 있게 되었습니다.\n   https://youtu.be/tgdG27lr26s\n\n📈 스마트대디 어제 실적\n조회수 58.9K (↑18% vs 7일 평균) | 구독 +201\n시청 지속률 31.1% | 평균 시청 2분 30초\n경쟁사 평균 15.8K회 대비 내 7일 평균 +216%\n\n💡 VS 각도: ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
-  "video_count": 11,
-  "total_recent_video_count": 15,
+  "digest_date": "2026-11-09",
+  "generated_at": "2026-11-09T02:36:57+00:00",
+  "summary": "최근 24시간 영상 14개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'ChatGPT'입니다. 특히 'IT뉴스 - METR 리포트, 죽음은 선택사항, GPT Images 2.6, 신경망 가중치 업데이트 가능, GPT 6.2 Astra, Fable 5.5 곧 출시 등'는 조회수 32.1K, 참여율 1.2%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "'ChatGPT' 주제가 7개 영상으로 가장 많이 다뤄졌습니다. ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.\n[내 채널] 7일 평균 57.0K회 · 지속률 31.3% / 경쟁사 평균 7.5K회 (격차 +661%)",
+  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 11/09\n\n📊 총 10개 | AI 핵심 10 · 인접 AI 0 · 일반 테크 보충 0\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 10 · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [조코딩 JoCoding] 32.1K뷰 · 참여율 1.2%\n   IT뉴스 - METR 리포트, 죽음은 선택사항, GPT Images 2.6, 신경망 가중치 업데이트 가능, GPT 6.2 Astra, Fa…\n   ↳ GPT 실시간 음성 기술의 발전과 함께 AI 모델 관련 버그 바운티 프로그램과 업계 동향을 다루며, 최신 AI 리포트 및 기술 출시 소식을 요약한다.\n   https://youtu.be/ekZIKu2rFOQ\n\n2. AI 핵심 · [조코딩 JoCoding] 21.8K뷰 · 참여율 1.3%\n   개발자는 끝났다\n   ↳ 단순히 개발만 하는 역량은 미래에 경쟁력이 낮아질 것을 지적하며, 특정 도메인 지식과 AI를 결합해 새로운 가치를 창출하는 융합형 인재의 중요성을 강조한다.\n   https://youtu.be/tb7fFBV3Pm0\n\n3. AI 핵심 · [조코딩 JoCoding] 12.8K뷰 · 참여율 0.5%\n   (광고) AI 6개에게 2주간 모의 투자를 맡겼더니? 결과 공개 LIVE\n   ↳ 6개 AI 모델을 활용한 2주간의 모의 투자 결과를 비교하며, 다양한 AI의 투자 성향과 전략을 분석하고 투자 실험 도구인 나무 플러그의 활용법을 소개한다.\n   https://youtu.be/ulvo0ophBNE\n\n4. AI 핵심 · [Matt Wolfe] 8.1K뷰 · 참여율 5.9%\n   This controls games characters AND robots\n   ↳ 게임 캐릭터와 유니트리 G1 로봇의 움직임을 제어하는 동일한 고성능 AI 제어 시스템의 기술적 진보를 다룬다.\n   https://youtu.be/jKjir4-HmQI\n\n5. AI 핵심 · [조코딩 JoCoding] 5.8K뷰 · 참여율 0.3%\n   삼일PwC 문제엔 정답이 없습니다 (출제 측 힌트)\n   ↳ 삼일PwC가 주최하는 채용 연계형 문제 해결 프로젝트의 출제 의도를 설명하며, 정답보다는 문제를 스스로 정의하고 AI 에이전트를 활용해 창의적으로 해결하는 역량을 중시한다고 강조한다.\n   https://youtu.be/e-YnU4rzWz4\n\n6. AI 핵심 · [빌더 조쉬 Builder Josh] 5.0K뷰 · 참여율 2.4%\n   클로드 코드 모드(mods) 무료 4개 — 캐시 키퍼·골 미터·콜리전 가드·레코딩 모드, 돈 새는 걸 막아 줍니다\n   ↳ 클로드 코드(Claude Code) 이용 시 비용 절감 및 보안 강화를 돕는 4가지 무료 플러그인 모드를 소개하고 설치 방법을 안내한다.\n   https://youtu.be/XLIPt6fOxCA\n\n7. AI 핵심 · [조코딩 JoCoding] 4.7K뷰 · 참여율 0.3%\n   해커톤 나갔다가 삼일PwC에서 일하게 된 사람들\n   ↳ 해커톤을 통해 입사한 수의사 출신과 게임 AI 엔지니어 사례를 통해, 회계법인에서도 전문 분야와 결합된 AI 활용 능력이 실무에 큰 경쟁력이 됨을 설명한다.\n   https://youtu.be/mMTOqXD1JOk\n\n8. AI 핵심 · [조코딩 JoCoding] 3.8K뷰 · 참여율 0.7%\n   AI가 회계사를 없앤다고요? 삼일PwC 답은 정반대\n   ↳ AI가 회계사의 일자리를 위협하기보다 회계사의 업무를 고도화할 것이며, 변화하는 산업 환경에 맞춰 기업 오퍼레이션을 이해하는 전문 인력에 대한 수요가 오히려 증가할 것이라고 전망한다.\n   https://youtu.be/FQHZgfJYxYA\n\n9. AI 핵심 · [조코딩 JoCoding] 1.6K뷰 · 참여율 0.6%\n   회계법인이 '회계 모르는 사람'을 찾는 이유\n   ↳ 삼일PwC가 회계 전공자뿐만 아니라 마케팅, 생산 등 다양한 도메인 지식을 갖춘 인재를 선호하는 이유를 설명하며, 실무를 통해 회계 역량은 자연스럽게 습득할 수 있음을 강조한다.\n   https://youtu.be/jQc3O2hbVF8\n\n10. AI 핵심 · [All About AI] 761뷰 · 참여율 0.9%\n   Could AI Have Predicted The November 5 Stock Market Crash?\n   ↳ 11월 5일 주식 시장 급락 사태를 AI 예측 모델이 사전에 어느 정도 반영했는지 분석하고, 정치적 정책 충격이 AI와 반도체 섹터에 미친 영향을 고찰한다.\n   https://youtu.be/rzSJ7qkXEjY\n\n📈 스마트대디 어제 실적\n조회수 76.7K (↑35% vs 7일 평균) | 구독 +194\n시청 지속률 31.9% | 평균 시청 2분 32초\n경쟁사 평균 7.5K회 대비 내 7일 평균 +661%\n\n💡 VS 각도: ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+  "video_count": 14,
+  "total_recent_video_count": 21,
   "focus_scope": "ai_priority_then_tech_fill",
-  "average_view_count": 15750.0,
-  "average_engagement_rate": 0.04382402346262229,
-  "average_like_count": 436.0,
-  "average_comment_count": 79.0,
-  "best_video_id": "WYRDe8XsRmI",
+  "average_view_count": 7496.0,
+  "average_engagement_rate": 0.011625194799923856,
+  "average_like_count": 92.0,
+  "average_comment_count": 11.0,
+  "best_video_id": "ekZIKu2rFOQ",
   "best_topic": "ChatGPT",
   "summary_points": [
-    "가장 겹친 주제는 'ChatGPT'이며 3개 영상, 평균 조회수 2.8K, 평균 참여율 6.6%입니다.",
-    "최고 실적 영상은 '말포이가 여주인 세계선 혼혈왕자편 (TS 말포이)'이며 문제 해결 훅과 뉴스 분석 포맷 조합이 강했습니다.",
-    "반복 노출된 툴은 Claude 4회, ChatGPT 3회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
+    "가장 겹친 주제는 'ChatGPT'이며 7개 영상, 평균 조회수 7.3K, 평균 참여율 0.7%입니다.",
+    "최고 실적 영상은 'IT뉴스 - METR 리포트, 죽음은 선택사항, GPT Images 2.6, 신경망 가중치 업데이트 가능, GPT 6.2 Astra, Fable 5.5 곧 출시 등'이며 긴급성 훅과 뉴스 분석 포맷 조합이 강했습니다.",
+    "반복 노출된 툴은 ChatGPT 7회, Claude 2회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
   ],
   "action_chips": [
     "주제: ChatGPT",
-    "훅: 문제 해결",
+    "훅: 긴급성",
     "포맷: 뉴스 분석",
-    "기준 채널: Fantasoner(판타소너)"
+    "기준 채널: 조코딩 JoCoding"
   ],
   "title_suggestions": [
     "ChatGPT vs Claude vs Gemini, 일반인 업무 실전 대결 결과",
@@ -36,214 +36,226 @@
       "angle": "'ChatGPT'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
       "thumbnail_copy": "ChatGPT 바로 해결",
       "reason": "ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.",
-      "source_video_id": "A5SfzBD6M3o",
-      "source": "Claude Code Just Called My Phone",
-      "my_channel_context": "내 7일 평균 49.8K회 · 지속률 31.4% / 경쟁사 대비 +216%"
+      "source_video_id": "tb7fFBV3Pm0",
+      "source": "개발자는 끝났다",
+      "my_channel_context": "내 7일 평균 57.0K회 · 지속률 31.3% / 경쟁사 대비 +661%"
     },
     {
       "title": "GPT 최신 버전 직접 실험 — 이전이랑 진짜 달라?",
       "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
       "angle": "'ChatGPT'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "ChatGPT 핵심 3가지",
+      "thumbnail_copy": "ChatGPT 지금 봐야 함",
       "reason": "ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.",
-      "source_video_id": "fQnrdr2DcqQ",
-      "source": "ChatGPT Can Make GIFs Now (Images 2.6 Tested)",
-      "my_channel_context": "내 7일 평균 49.8K회 · 지속률 31.4% / 경쟁사 대비 +216%"
+      "source_video_id": "ulvo0ophBNE",
+      "source": "(광고) AI 6개에게 2주간 모의 투자를 맡겼더니? 결과 공개 LIVE",
+      "my_channel_context": "내 7일 평균 57.0K회 · 지속률 31.3% / 경쟁사 대비 +661%"
     },
     {
       "title": "GPT 써봤더니... 기대랑 다른 점 솔직하게 다 말해봄",
       "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
       "angle": "'ChatGPT'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "ChatGPT 지금 봐야 함",
+      "thumbnail_copy": "ChatGPT 바로 해결",
       "reason": "ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.",
-      "source_video_id": "tgdG27lr26s",
-      "source": "ChatGPT can make GIFs now (and people went feral)",
-      "my_channel_context": "내 7일 평균 49.8K회 · 지속률 31.4% / 경쟁사 대비 +216%"
+      "source_video_id": "e-YnU4rzWz4",
+      "source": "삼일PwC 문제엔 정답이 없습니다 (출제 측 힌트)",
+      "my_channel_context": "내 7일 평균 57.0K회 · 지속률 31.3% / 경쟁사 대비 +661%"
     }
   ],
   "topic_clusters": [
     {
       "label": "ChatGPT",
-      "count": 3,
-      "avg_view_count": 2754,
-      "avg_engagement_rate": 0.06617482492238828,
-      "avg_like_count": 108,
+      "count": 7,
+      "avg_view_count": 7336,
+      "avg_engagement_rate": 0.00656722484957683,
+      "avg_like_count": 49,
+      "avg_comment_count": 11,
+      "source_titles": [
+        "개발자는 끝났다",
+        "(광고) AI 6개에게 2주간 모의 투자를 맡겼더니? 결과 공개 LIVE",
+        "삼일PwC 문제엔 정답이 없습니다 (출제 측 힌트)"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/tb7fFBV3Pm0/hqdefault.jpg",
+      "representative_video_id": "tb7fFBV3Pm0",
+      "representative_title": "개발자는 끝났다"
+    },
+    {
+      "label": "MCP",
+      "count": 1,
+      "avg_view_count": 32130,
+      "avg_engagement_rate": 0.011858076563958916,
+      "avg_like_count": 374,
       "avg_comment_count": 7,
       "source_titles": [
-        "Claude Code Just Called My Phone",
-        "ChatGPT Can Make GIFs Now (Images 2.6 Tested)",
-        "ChatGPT can make GIFs now (and people went feral)"
+        "IT뉴스 - METR 리포트, 죽음은 선택사항, GPT Images 2.6, 신경망 가중치 업데이트 가능, GPT 6.2 Astra, Fable 5.5 곧 출시 등"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/A5SfzBD6M3o/hqdefault.jpg",
-      "representative_video_id": "A5SfzBD6M3o",
-      "representative_title": "Claude Code Just Called My Phone"
+      "thumbnail_url": "https://i.ytimg.com/vi/ekZIKu2rFOQ/hqdefault.jpg",
+      "representative_video_id": "ekZIKu2rFOQ",
+      "representative_title": "IT뉴스 - METR 리포트, 죽음은 선택사항, GPT Images 2.6, 신경망 가중치 업데이트 가능, GPT 6.2 Astra, Fable 5.5 곧 출시 등"
+    },
+    {
+      "label": "수익화",
+      "count": 1,
+      "avg_view_count": 8089,
+      "avg_engagement_rate": 0.059463468908394115,
+      "avg_like_count": 461,
+      "avg_comment_count": 20,
+      "source_titles": [
+        "This controls games characters AND robots"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/jKjir4-HmQI/hqdefault.jpg",
+      "representative_video_id": "jKjir4-HmQI",
+      "representative_title": "This controls games characters AND robots"
     },
     {
       "label": "Claude",
-      "count": 3,
-      "avg_view_count": 2304,
-      "avg_engagement_rate": 0.03980480261472626,
-      "avg_like_count": 60,
-      "avg_comment_count": 22,
+      "count": 1,
+      "avg_view_count": 4996,
+      "avg_engagement_rate": 0.023819055244195357,
+      "avg_like_count": 74,
+      "avg_comment_count": 45,
       "source_titles": [
-        "claude-mem — 클로드 코드가 어제 한 작업을 다음 날에도 기억하게 만드는 무료 플러그인 (깃허브 ★11.4만)",
-        "Claude 2 0 powerful code features for maximum organization",
-        "raea — 클로드 코드로 영상 만드는 속도 최대 20배, 브라우저 없이 렌더하는 무료 엔진"
+        "클로드 코드 모드(mods) 무료 4개 — 캐시 키퍼·골 미터·콜리전 가드·레코딩 모드, 돈 새는 걸 막아 줍니다"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/34LWS9x9bKw/hqdefault.jpg",
-      "representative_video_id": "34LWS9x9bKw",
-      "representative_title": "claude-mem — 클로드 코드가 어제 한 작업을 다음 날에도 기억하게 만드는 무료 플러그인 (깃허브 ★11.4만)"
+      "thumbnail_url": "https://i.ytimg.com/vi/XLIPt6fOxCA/hqdefault.jpg",
+      "representative_video_id": "XLIPt6fOxCA",
+      "representative_title": "클로드 코드 모드(mods) 무료 4개 — 캐시 키퍼·골 미터·콜리전 가드·레코딩 모드, 돈 새는 걸 막아 줍니다"
     },
     {
-      "label": "말포이가",
+      "label": "휴머노이드",
       "count": 1,
-      "avg_view_count": 80465,
-      "avg_engagement_rate": 0.04119803641334742,
-      "avg_like_count": 2845,
-      "avg_comment_count": 470,
+      "avg_view_count": 4636,
+      "avg_engagement_rate": 0.0056082830025884385,
+      "avg_like_count": 26,
+      "avg_comment_count": 0,
       "source_titles": [
-        "말포이가 여주인 세계선 혼혈왕자편 (TS 말포이)"
+        "휴머노이드의 가는 나사가 큰 힘을 견디는 내부 구조"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/WYRDe8XsRmI/hqdefault.jpg",
-      "representative_video_id": "WYRDe8XsRmI",
-      "representative_title": "말포이가 여주인 세계선 혼혈왕자편 (TS 말포이)"
+      "thumbnail_url": "https://i.ytimg.com/vi/Y1LBNMGaM80/hqdefault.jpg",
+      "representative_video_id": "Y1LBNMGaM80",
+      "representative_title": "휴머노이드의 가는 나사가 큰 힘을 견디는 내부 구조"
     },
     {
-      "label": "로컬",
+      "label": "모터",
       "count": 1,
-      "avg_view_count": 43449,
-      "avg_engagement_rate": 0.00978158300536261,
-      "avg_like_count": 328,
-      "avg_comment_count": 97,
+      "avg_view_count": 2755,
+      "avg_engagement_rate": 0.005807622504537205,
+      "avg_like_count": 15,
+      "avg_comment_count": 1,
       "source_titles": [
-        "로컬 AI를 함부로 쓰면 안되는 이유 ㄷㄷ"
+        "모터 속 베어링에 전기로 구멍이 생기는 과정"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/-gbKuJBeFsQ/hqdefault.jpg",
-      "representative_video_id": "-gbKuJBeFsQ",
-      "representative_title": "로컬 AI를 함부로 쓰면 안되는 이유 ㄷㄷ"
+      "thumbnail_url": "https://i.ytimg.com/vi/UNf11ZjtF6g/hqdefault.jpg",
+      "representative_video_id": "UNf11ZjtF6g",
+      "representative_title": "모터 속 베어링에 전기로 구멍이 생기는 과정"
     },
     {
-      "label": "투자",
+      "label": "신재생에너지",
       "count": 1,
-      "avg_view_count": 21921,
-      "avg_engagement_rate": 0.03416814926326354,
-      "avg_like_count": 594,
-      "avg_comment_count": 155,
+      "avg_view_count": 528,
+      "avg_engagement_rate": 0.003787878787878788,
+      "avg_like_count": 2,
+      "avg_comment_count": 0,
       "source_titles": [
-        "월가 10개 리포트 종합, 반박까지 20분 총정리. 꼭 보셔야합니다"
+        "전기를 만들지 않는 발전기를 계속 돌리는 이유"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/81r7_n4EXMI/hqdefault.jpg",
-      "representative_video_id": "81r7_n4EXMI",
-      "representative_title": "월가 10개 리포트 종합, 반박까지 20분 총정리. 꼭 보셔야합니다"
+      "thumbnail_url": "https://i.ytimg.com/vi/Slg47XU0cig/hqdefault.jpg",
+      "representative_video_id": "Slg47XU0cig",
+      "representative_title": "전기를 만들지 않는 발전기를 계속 돌리는 이유"
     },
     {
-      "label": "monetization",
+      "label": "로봇",
       "count": 1,
-      "avg_view_count": 8075,
-      "avg_engagement_rate": 0.0660061919504644,
-      "avg_like_count": 478,
-      "avg_comment_count": 55,
+      "avg_view_count": 466,
+      "avg_engagement_rate": 0.006437768240343348,
+      "avg_like_count": 2,
+      "avg_comment_count": 1,
       "source_titles": [
-        "That is Some Crazy Fabric"
+        "휴머노이드 아틀라스가 몸을 거꾸로 비틀어 일어나는 이유"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/w3z3Fa7ACt8/hqdefault.jpg",
-      "representative_video_id": "w3z3Fa7ACt8",
-      "representative_title": "That is Some Crazy Fabric"
-    },
-    {
-      "label": "단순한",
-      "count": 1,
-      "avg_view_count": 4163,
-      "avg_engagement_rate": 0.012971414845063657,
-      "avg_like_count": 51,
-      "avg_comment_count": 3,
-      "source_titles": [
-        "단순한 덧셈에 멍청해지는 컴퓨터의 비밀"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/cRA5TxZFiG0/hqdefault.jpg",
-      "representative_video_id": "cRA5TxZFiG0",
-      "representative_title": "단순한 덧셈에 멍청해지는 컴퓨터의 비밀"
+      "thumbnail_url": "https://i.ytimg.com/vi/AR25D-fszJw/hqdefault.jpg",
+      "representative_video_id": "AR25D-fszJw",
+      "representative_title": "휴머노이드 아틀라스가 몸을 거꾸로 비틀어 일어나는 이유"
     }
   ],
   "video_highlights": [
     {
-      "video_id": "WYRDe8XsRmI",
-      "channel_name": "Fantasoner(판타소너)",
-      "title": "말포이가 여주인 세계선 혼혈왕자편 (TS 말포이)",
-      "thumbnail_url": "https://i.ytimg.com/vi/WYRDe8XsRmI/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=WYRDe8XsRmI",
-      "published_at": "2026-11-07T12:20:47Z",
-      "view_count": 80465,
-      "like_count": 2845,
-      "comment_count": 470,
-      "engagement_rate": 0.04119803641334742,
-      "topic_cluster": "말포이가",
-      "summary": "AI 기술을 활용해 해리포터 시리즈의 말포이 캐릭터가 주인공이 되는 세계관을 재구성한 팬 메이드 영상입니다.",
-      "comment_signal": "HBO doesn't stand a chance in Hell...",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "-gbKuJBeFsQ",
+      "video_id": "ekZIKu2rFOQ",
       "channel_name": "조코딩 JoCoding",
-      "title": "로컬 AI를 함부로 쓰면 안되는 이유 ㄷㄷ",
-      "thumbnail_url": "https://i.ytimg.com/vi/-gbKuJBeFsQ/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=-gbKuJBeFsQ",
-      "published_at": "2026-11-07T05:00:02Z",
-      "view_count": 43449,
-      "like_count": 328,
-      "comment_count": 97,
-      "engagement_rate": 0.00978158300536261,
-      "topic_cluster": "로컬",
-      "summary": "로컬 AI 모델을 무분별하게 사용할 경우 모델 내부의 악성 코드나 취약점으로 인해 개인 데이터가 외부 서버로 유출될 위험이 있어 주의가 필요합니다.",
-      "comment_signal": "저건 뭐 모델 제작 이슈 아니면 일부러 한 거 같은…;",
-      "hook_type": "문제 해결"
+      "title": "IT뉴스 - METR 리포트, 죽음은 선택사항, GPT Images 2.6, 신경망 가중치 업데이트 가능, GPT 6.2 Astra, Fable 5.5 곧 출시 등",
+      "thumbnail_url": "https://i.ytimg.com/vi/ekZIKu2rFOQ/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=ekZIKu2rFOQ",
+      "published_at": "2026-11-08T11:18:21Z",
+      "view_count": 32130,
+      "like_count": 374,
+      "comment_count": 7,
+      "engagement_rate": 0.011858076563958916,
+      "topic_cluster": "MCP",
+      "summary": "GPT 실시간 음성 기술의 발전과 함께 AI 모델 관련 버그 바운티 프로그램과 업계 동향을 다루며, 최신 AI 리포트 및 기술 출시 소식을 요약한다.",
+      "comment_signal": "1빠🎉",
+      "hook_type": "긴급성"
     },
     {
-      "video_id": "81r7_n4EXMI",
-      "channel_name": "월텍남 - 월스트리트 테크남",
-      "title": "월가 10개 리포트 종합, 반박까지 20분 총정리. 꼭 보셔야합니다",
-      "thumbnail_url": "https://i.ytimg.com/vi/81r7_n4EXMI/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=81r7_n4EXMI",
-      "published_at": "2026-11-07T22:15:27Z",
-      "view_count": 21921,
-      "like_count": 594,
-      "comment_count": 155,
-      "engagement_rate": 0.03416814926326354,
-      "topic_cluster": "투자",
-      "summary": "AI 기술 발달로 토큰 단가는 하락하는 반면 수요가 이를 따라가지 못할 경우 발생할 수 있는 경제적 리스크를 월가 리포트를 토대로 분석했습니다.",
-      "comment_signal": "너무 낙관론자라고 해서... 비관론도 한번 가져와봤습니다. 결국 핵심은 AI의 침투 속도 + 수익화 유무에 따라 결정됩니다. 실적 분석 + 월가 유료 리포트 빠르게 무료로…",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "w3z3Fa7ACt8",
-      "channel_name": "Matt Wolfe",
-      "title": "That is Some Crazy Fabric",
-      "thumbnail_url": "https://i.ytimg.com/vi/w3z3Fa7ACt8/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=w3z3Fa7ACt8",
-      "published_at": "2026-11-07T07:36:33Z",
-      "view_count": 8075,
-      "like_count": 478,
-      "comment_count": 55,
-      "engagement_rate": 0.0660061919504644,
-      "topic_cluster": "monetization",
-      "summary": "각 실에 터치 센서가 내장된 LED가 직조되어 만들어진 첨단 섬유 기술을 소개합니다.",
-      "comment_signal": "Why is all the comment about stock and crypto? Isn't this a video about display fabric?",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "A5SfzBD6M3o",
-      "channel_name": "Matt Wolfe",
-      "title": "Claude Code Just Called My Phone",
-      "thumbnail_url": "https://i.ytimg.com/vi/A5SfzBD6M3o/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=A5SfzBD6M3o",
-      "published_at": "2026-11-07T17:00:37Z",
-      "view_count": 6804,
-      "like_count": 255,
-      "comment_count": 11,
-      "engagement_rate": 0.03909465020576132,
+      "video_id": "tb7fFBV3Pm0",
+      "channel_name": "조코딩 JoCoding",
+      "title": "개발자는 끝났다",
+      "thumbnail_url": "https://i.ytimg.com/vi/tb7fFBV3Pm0/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=tb7fFBV3Pm0",
+      "published_at": "2026-11-08T14:20:31Z",
+      "view_count": 21767,
+      "like_count": 219,
+      "comment_count": 65,
+      "engagement_rate": 0.01304727339550696,
       "topic_cluster": "ChatGPT",
-      "summary": "Bird 서비스를 연동해 Claude Code 등 AI 에이전트가 작업 완료 알림을 보내거나 필요한 경우 사용자에게 직접 전화를 걸어 소통하는 효율적인 자동화 환경…",
-      "comment_signal": "Now that is cool",
+      "summary": "단순히 개발만 하는 역량은 미래에 경쟁력이 낮아질 것을 지적하며, 특정 도메인 지식과 AI를 결합해 새로운 가치를 창출하는 융합형 인재의 중요성을 강조한다.",
+      "comment_signal": "이 분의 말씀은 모든 개발자가 완전히 끝났다기보단 개발'만' 하는 사람이 끝났다고 말 한 것 같음. 더 이상 개발자는 코딩싸개 직업이 아니라, 의사소통 및 창의력 같은 서…",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "ulvo0ophBNE",
+      "channel_name": "조코딩 JoCoding",
+      "title": "(광고) AI 6개에게 2주간 모의 투자를 맡겼더니? 결과 공개 LIVE",
+      "thumbnail_url": "https://i.ytimg.com/vi/ulvo0ophBNE/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=ulvo0ophBNE",
+      "published_at": "2026-11-08T12:35:41Z",
+      "view_count": 12823,
+      "like_count": 60,
+      "comment_count": 3,
+      "engagement_rate": 0.004913046868907432,
+      "topic_cluster": "ChatGPT",
+      "summary": "6개 AI 모델을 활용한 2주간의 모의 투자 결과를 비교하며, 다양한 AI의 투자 성향과 전략을 분석하고 투자 실험 도구인 나무 플러그의 활용법을 소개한다.",
+      "comment_signal": "나무플러그 바로가기: https://m.mynamuh.com/customer/event/eventView?mNo=1029&utm_source=youtube&utm_medi…",
+      "hook_type": "긴급성"
+    },
+    {
+      "video_id": "jKjir4-HmQI",
+      "channel_name": "Matt Wolfe",
+      "title": "This controls games characters AND robots",
+      "thumbnail_url": "https://i.ytimg.com/vi/jKjir4-HmQI/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=jKjir4-HmQI",
+      "published_at": "2026-11-08T18:30:51Z",
+      "view_count": 8089,
+      "like_count": 461,
+      "comment_count": 20,
+      "engagement_rate": 0.059463468908394115,
+      "topic_cluster": "수익화",
+      "summary": "게임 캐릭터와 유니트리 G1 로봇의 움직임을 제어하는 동일한 고성능 AI 제어 시스템의 기술적 진보를 다룬다.",
+      "comment_signal": "This is awesome, but also a little scary lol",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "e-YnU4rzWz4",
+      "channel_name": "조코딩 JoCoding",
+      "title": "삼일PwC 문제엔 정답이 없습니다 (출제 측 힌트)",
+      "thumbnail_url": "https://i.ytimg.com/vi/e-YnU4rzWz4/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=e-YnU4rzWz4",
+      "published_at": "2026-11-08T14:10:37Z",
+      "view_count": 5826,
+      "like_count": 15,
+      "comment_count": 1,
+      "engagement_rate": 0.0027463096464126332,
+      "topic_cluster": "ChatGPT",
+      "summary": "삼일PwC가 주최하는 채용 연계형 문제 해결 프로젝트의 출제 의도를 설명하며, 정답보다는 문제를 스스로 정의하고 AI 에이전트를 활용해 창의적으로 해결하는 역량을…",
+      "comment_signal": "💡 힌트 정리: 정답은 없어요. 문제를 어떻게 정의했는지가 핵심이에요. 🎁 AX인재전쟁 온라인 참가 신청하면 선착순 1,000명에게 ChatGPT Plus 1개월 이용권을…",
       "hook_type": "문제 해결"
     }
   ]
