@@ -1,261 +1,263 @@
 {
-  "digest_date": "2026-11-09",
-  "generated_at": "2026-11-09T02:36:57+00:00",
-  "summary": "최근 24시간 영상 14개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'ChatGPT'입니다. 특히 'IT뉴스 - METR 리포트, 죽음은 선택사항, GPT Images 2.6, 신경망 가중치 업데이트 가능, GPT 6.2 Astra, Fable 5.5 곧 출시 등'는 조회수 32.1K, 참여율 1.2%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "'ChatGPT' 주제가 7개 영상으로 가장 많이 다뤄졌습니다. ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.\n[내 채널] 7일 평균 57.0K회 · 지속률 31.3% / 경쟁사 평균 7.5K회 (격차 +661%)",
-  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 11/09\n\n📊 총 10개 | AI 핵심 10 · 인접 AI 0 · 일반 테크 보충 0\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 10 · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [조코딩 JoCoding] 32.1K뷰 · 참여율 1.2%\n   IT뉴스 - METR 리포트, 죽음은 선택사항, GPT Images 2.6, 신경망 가중치 업데이트 가능, GPT 6.2 Astra, Fa…\n   ↳ GPT 실시간 음성 기술의 발전과 함께 AI 모델 관련 버그 바운티 프로그램과 업계 동향을 다루며, 최신 AI 리포트 및 기술 출시 소식을 요약한다.\n   https://youtu.be/ekZIKu2rFOQ\n\n2. AI 핵심 · [조코딩 JoCoding] 21.8K뷰 · 참여율 1.3%\n   개발자는 끝났다\n   ↳ 단순히 개발만 하는 역량은 미래에 경쟁력이 낮아질 것을 지적하며, 특정 도메인 지식과 AI를 결합해 새로운 가치를 창출하는 융합형 인재의 중요성을 강조한다.\n   https://youtu.be/tb7fFBV3Pm0\n\n3. AI 핵심 · [조코딩 JoCoding] 12.8K뷰 · 참여율 0.5%\n   (광고) AI 6개에게 2주간 모의 투자를 맡겼더니? 결과 공개 LIVE\n   ↳ 6개 AI 모델을 활용한 2주간의 모의 투자 결과를 비교하며, 다양한 AI의 투자 성향과 전략을 분석하고 투자 실험 도구인 나무 플러그의 활용법을 소개한다.\n   https://youtu.be/ulvo0ophBNE\n\n4. AI 핵심 · [Matt Wolfe] 8.1K뷰 · 참여율 5.9%\n   This controls games characters AND robots\n   ↳ 게임 캐릭터와 유니트리 G1 로봇의 움직임을 제어하는 동일한 고성능 AI 제어 시스템의 기술적 진보를 다룬다.\n   https://youtu.be/jKjir4-HmQI\n\n5. AI 핵심 · [조코딩 JoCoding] 5.8K뷰 · 참여율 0.3%\n   삼일PwC 문제엔 정답이 없습니다 (출제 측 힌트)\n   ↳ 삼일PwC가 주최하는 채용 연계형 문제 해결 프로젝트의 출제 의도를 설명하며, 정답보다는 문제를 스스로 정의하고 AI 에이전트를 활용해 창의적으로 해결하는 역량을 중시한다고 강조한다.\n   https://youtu.be/e-YnU4rzWz4\n\n6. AI 핵심 · [빌더 조쉬 Builder Josh] 5.0K뷰 · 참여율 2.4%\n   클로드 코드 모드(mods) 무료 4개 — 캐시 키퍼·골 미터·콜리전 가드·레코딩 모드, 돈 새는 걸 막아 줍니다\n   ↳ 클로드 코드(Claude Code) 이용 시 비용 절감 및 보안 강화를 돕는 4가지 무료 플러그인 모드를 소개하고 설치 방법을 안내한다.\n   https://youtu.be/XLIPt6fOxCA\n\n7. AI 핵심 · [조코딩 JoCoding] 4.7K뷰 · 참여율 0.3%\n   해커톤 나갔다가 삼일PwC에서 일하게 된 사람들\n   ↳ 해커톤을 통해 입사한 수의사 출신과 게임 AI 엔지니어 사례를 통해, 회계법인에서도 전문 분야와 결합된 AI 활용 능력이 실무에 큰 경쟁력이 됨을 설명한다.\n   https://youtu.be/mMTOqXD1JOk\n\n8. AI 핵심 · [조코딩 JoCoding] 3.8K뷰 · 참여율 0.7%\n   AI가 회계사를 없앤다고요? 삼일PwC 답은 정반대\n   ↳ AI가 회계사의 일자리를 위협하기보다 회계사의 업무를 고도화할 것이며, 변화하는 산업 환경에 맞춰 기업 오퍼레이션을 이해하는 전문 인력에 대한 수요가 오히려 증가할 것이라고 전망한다.\n   https://youtu.be/FQHZgfJYxYA\n\n9. AI 핵심 · [조코딩 JoCoding] 1.6K뷰 · 참여율 0.6%\n   회계법인이 '회계 모르는 사람'을 찾는 이유\n   ↳ 삼일PwC가 회계 전공자뿐만 아니라 마케팅, 생산 등 다양한 도메인 지식을 갖춘 인재를 선호하는 이유를 설명하며, 실무를 통해 회계 역량은 자연스럽게 습득할 수 있음을 강조한다.\n   https://youtu.be/jQc3O2hbVF8\n\n10. AI 핵심 · [All About AI] 761뷰 · 참여율 0.9%\n   Could AI Have Predicted The November 5 Stock Market Crash?\n   ↳ 11월 5일 주식 시장 급락 사태를 AI 예측 모델이 사전에 어느 정도 반영했는지 분석하고, 정치적 정책 충격이 AI와 반도체 섹터에 미친 영향을 고찰한다.\n   https://youtu.be/rzSJ7qkXEjY\n\n📈 스마트대디 어제 실적\n조회수 76.7K (↑35% vs 7일 평균) | 구독 +194\n시청 지속률 31.9% | 평균 시청 2분 32초\n경쟁사 평균 7.5K회 대비 내 7일 평균 +661%\n\n💡 VS 각도: ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
-  "video_count": 14,
+  "digest_date": "2026-11-10",
+  "generated_at": "2026-11-10T04:37:58+00:00",
+  "summary": "최근 24시간 영상 19개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'Claude'입니다. 특히 '기존 대기업들의 위기 시작... AI 잘쓰는 회사 이미 변화 중, 구글이 야후를 무너뜨리고 아이폰이 피처폰을 파괴한 변화 진행중 | Vooy로 살펴본 AI 시대의 조직과 기업경쟁력'는 조회수 46.1K, 참여율 1.0%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "'Claude' 주제가 7개 영상으로 가장 많이 다뤄졌습니다. Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n[내 채널] 7일 평균 61.4K회 · 지속률 31.5% / 경쟁사 평균 12.0K회 (격차 +413%)",
+  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 11/10\n\n📊 총 10개 | AI 핵심 10 · 인접 AI 0 · 일반 테크 보충 0\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 10 · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [Matt Wolfe] 36.4K뷰 · 참여율 2.8%\n   Anthropic's Fable 5.2 is the World’s Best AI Model\n   ↳ Anthropic의 최신 AI 모델 Fable 5.2는 특정 고난도 작업에서 혁신적인 성능을 보여주지만, 일상적인 코딩이나 지식 작업에서는 이전 모델인 Opus 5.5도 충분하며, Fable 5.2는 높은 비용이…\n   https://youtu.be/2TM8W66NI_8\n\n2. AI 핵심 · [조코딩 JoCoding] 36.2K뷰 · 참여율 0.7%\n   AI뉴스 - METR 리포트, 죽음은 선택사항, GPT Images 2.6, 젠슨황 불륜, 신경망 가중치 업데이트, GPT 6.2 Astr…\n   ↳ AI 스스로 발전 속도를 두 배 가까이 가속시키고 있다는 METR 리포트와 함께, 죽음이 선택이 될 것이라는 오픈AI 창립자의 발언, GPT 이미지 2.6 출시, 신경망 가중치 직접 수정 기능 등 최신 AI 기술…\n   https://youtu.be/Ni0gE4LeSlc\n\n3. AI 핵심 · [조코딩 JoCoding] 14.4K뷰 · 참여율 0.8%\n   AI야, 네고해달라는 데 어떻게 거절해?\n   ↳ 헤이 AI 현장에서 만 원 깎아 달라는데 어떻게 거절해? 약속된 가격으로만 거래 가능하다고 정중히 말씀하세요. 헤이 AI 판매자가 내고 안 된다는데 어떻게 마음을 돌리지?\n   https://youtu.be/JsUBYmpSf7g\n\n4. AI 핵심 · [빌더 조쉬 Builder Josh] 9.5K뷰 · 참여율 7.2%\n   클로드 코드 인스타그램 에이전트 스킬 13개, 무료로 인스타 운영 통째로 맡기기\n   ↳ 여러분, 이제 클로드 코드한테 인스타 운영을 거의 통째로 맡길 수 있습니다. 인스타그램 에이전트 스킬이라고 하는데요. 게다가 스킬이 하나가 아니라 13개나 들어 있어서 각자 다른 일을 해 줍니다.\n   https://youtu.be/Wh-OLMqiyGc\n\n5. AI 핵심 · [성공지식백과] 5.4K뷰 · 참여율 2.1%\n   클로드 미친 신모델.. 오퍼스 5.5 넘어선 페이블 5.2.. ㄷㄷ\n   ↳ 새롭게 출시된 Claude Fable 5.2 모델이 기존 Opus 5.5, Astra 6.2 모델 대비 코딩, 과학 연구, 도구 사용 등 다양한 분야에서 월등히 향상된 성능을 보여주었으며, 게임 및 3D 그래픽 데…\n   https://youtu.be/jrlm0fGHEug\n\n6. AI 핵심 · [빌더 조쉬 Builder Josh] 4.5K뷰 · 참여율 3.0%\n   클로드 코드에 '더 좋게' 100번 시켰더니 사이트가 망가졌습니다 (오퍼스 2만 1천 줄)\n   ↳ AI에게 무한정 '더 좋게' 개선을 반복시키면 오히려 코드 품질이 저하되고 오류가 발생하며 비용이 증가하지만, 명확한 멈춤 지점과 조건을 제시하면 효율적인 개선이 가능하다는 실험 결과입니다.\n   https://youtu.be/-xndmu7r8Wg\n\n7. AI 핵심 · [The AI Advantage] 2.3K뷰 · 참여율 1.2%\n   ChatGPT Can Make GIFs Now!\n   ↳ 재미 삼아 입력 한 간단한 프롬프트 입니다. 보험 회사에 내가 백만 달러를 받을 권리가 있다는 내용의 이메일을 써주고 , 사안이 시급 하다는 걸 확실히 전달할 수 있는 맞춤형 GIF도 하나 만들어 달라고 했죠. 짠…\n   https://youtu.be/iZm0eJm-YNQ\n\n8. AI 핵심 · [The AI Advantage] 1.8K뷰 · 참여율 1.0%\n   Switch ChatGPT Accounts in Seconds!\n   ↳ 계정을 전환 하고 싶으시면 여기를 보세요. 로그 아웃 하고 2 단계 인증까지 거쳐야 했으니까요. 간단한 팁 이지만, 계정 두 개를 쓰시는 분들께 유용 할 겁니다.\n   https://youtu.be/YKsFWC39qok\n\n9. AI 핵심 · [The AI Automators] 1.7K뷰 · 참여율 1.5%\n   Claude Fable 5.2 Just Dropped (and it still blocks real work)\n   ↳ 법적인 문제가 생길까 봐 아예 생성을 하지 않기로 한 것이죠. 그러다 보니 곳곳에서 오 탐지가 발생 하고, 결국 AI는 정당한 작업까지 거부 하게 됩니다. Claude 3.5 (Fable 5.1) 에서도 보셨을 겁…\n   https://youtu.be/9UI7QIQ8X4Q\n\n10. AI 핵심 · [The AI Advantage] 1.2K뷰 · 참여율 1.2%\n   3 New Dots Updates You Should Know About\n   ↳ Dots를 사용 하시는 분들을 위해 몇 가지 새로운 기능이 추가 되었습니다. 첫째, iOS에서 알림 에 바로 답장을 보낼 수 있습니다. 앱을 굳이 열 필요가 없다는 뜻 이죠 .\n   https://youtu.be/k8zxn8OvTYU\n\n📈 스마트대디 어제 실적\n조회수 62.8K (↑2% vs 7일 평균) | 구독 +209\n시청 지속률 31.8% | 평균 시청 2분 33초\n경쟁사 평균 12.0K회 대비 내 7일 평균 +413%\n\n💡 VS 각도: Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+  "video_count": 19,
   "total_recent_video_count": 21,
   "focus_scope": "ai_priority_then_tech_fill",
-  "average_view_count": 7496.0,
-  "average_engagement_rate": 0.011625194799923856,
-  "average_like_count": 92.0,
-  "average_comment_count": 11.0,
-  "best_video_id": "ekZIKu2rFOQ",
-  "best_topic": "ChatGPT",
+  "average_view_count": 11976.0,
+  "average_engagement_rate": 0.029014138081800072,
+  "average_like_count": 173.0,
+  "average_comment_count": 40.0,
+  "best_video_id": "Yw-2DTNr_uo",
+  "best_topic": "Claude",
   "summary_points": [
-    "가장 겹친 주제는 'ChatGPT'이며 7개 영상, 평균 조회수 7.3K, 평균 참여율 0.7%입니다.",
-    "최고 실적 영상은 'IT뉴스 - METR 리포트, 죽음은 선택사항, GPT Images 2.6, 신경망 가중치 업데이트 가능, GPT 6.2 Astra, Fable 5.5 곧 출시 등'이며 긴급성 훅과 뉴스 분석 포맷 조합이 강했습니다.",
-    "반복 노출된 툴은 ChatGPT 7회, Claude 2회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
+    "가장 겹친 주제는 'Claude'이며 7개 영상, 평균 조회수 7.1K, 평균 참여율 2.7%입니다.",
+    "최고 실적 영상은 '기존 대기업들의 위기 시작... AI 잘쓰는 회사 이미 변화 중, 구글이 야후를 무너뜨리고 아이폰이 피처폰을 파괴한 변화 진행중 | Vooy로 살펴본 AI 시대의 조직과 기업경쟁력'이며 문제 해결 훅과 비교 포맷 조합이 강했습니다.",
+    "반복 노출된 툴은 Claude 8회, ChatGPT 4회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
   ],
   "action_chips": [
-    "주제: ChatGPT",
-    "훅: 긴급성",
-    "포맷: 뉴스 분석",
-    "기준 채널: 조코딩 JoCoding"
+    "주제: Claude",
+    "훅: 문제 해결",
+    "포맷: 비교",
+    "기준 채널: 안될공학 - IT 테크 신기술"
   ],
   "title_suggestions": [
-    "ChatGPT vs Claude vs Gemini, 일반인 업무 실전 대결 결과",
-    "GPT 최신 버전 직접 실험 — 이전이랑 진짜 달라?",
-    "GPT 써봤더니... 기대랑 다른 점 솔직하게 다 말해봄"
+    "Claude vs ChatGPT, 일반인이 직접 써보니 이게 달랐다",
+    "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
+    "AI 비서 대결: Claude가 진짜 강한 상황은 따로 있었다"
   ],
   "recommendations": [
     {
-      "title": "ChatGPT vs Claude vs Gemini, 일반인 업무 실전 대결 결과",
+      "title": "Claude vs ChatGPT, 일반인이 직접 써보니 이게 달랐다",
       "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'ChatGPT'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "ChatGPT 바로 해결",
-      "reason": "ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.",
-      "source_video_id": "tb7fFBV3Pm0",
-      "source": "개발자는 끝났다",
-      "my_channel_context": "내 7일 평균 57.0K회 · 지속률 31.3% / 경쟁사 대비 +661%"
+      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
+      "thumbnail_copy": "Claude 바로 해결",
+      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
+      "source_video_id": "2TM8W66NI_8",
+      "source": "Anthropic's Fable 5.2 is the World’s Best AI Model",
+      "my_channel_context": "내 7일 평균 61.4K회 · 지속률 31.5% / 경쟁사 대비 +413%"
     },
     {
-      "title": "GPT 최신 버전 직접 실험 — 이전이랑 진짜 달라?",
+      "title": "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
       "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'ChatGPT'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "ChatGPT 지금 봐야 함",
-      "reason": "ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.",
-      "source_video_id": "ulvo0ophBNE",
-      "source": "(광고) AI 6개에게 2주간 모의 투자를 맡겼더니? 결과 공개 LIVE",
-      "my_channel_context": "내 7일 평균 57.0K회 · 지속률 31.3% / 경쟁사 대비 +661%"
+      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
+      "thumbnail_copy": "Claude 바로 해결",
+      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
+      "source_video_id": "jrlm0fGHEug",
+      "source": "클로드 미친 신모델.. 오퍼스 5.5 넘어선 페이블 5.2.. ㄷㄷ",
+      "my_channel_context": "내 7일 평균 61.4K회 · 지속률 31.5% / 경쟁사 대비 +413%"
     },
     {
-      "title": "GPT 써봤더니... 기대랑 다른 점 솔직하게 다 말해봄",
+      "title": "AI 비서 대결: Claude가 진짜 강한 상황은 따로 있었다",
       "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'ChatGPT'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "ChatGPT 바로 해결",
-      "reason": "ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.",
-      "source_video_id": "e-YnU4rzWz4",
-      "source": "삼일PwC 문제엔 정답이 없습니다 (출제 측 힌트)",
-      "my_channel_context": "내 7일 평균 57.0K회 · 지속률 31.3% / 경쟁사 대비 +661%"
+      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
+      "thumbnail_copy": "Claude 바로 해결",
+      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
+      "source_video_id": "-xndmu7r8Wg",
+      "source": "클로드 코드에 '더 좋게' 100번 시켰더니 사이트가 망가졌습니다 (오퍼스 2만 1천 줄)",
+      "my_channel_context": "내 7일 평균 61.4K회 · 지속률 31.5% / 경쟁사 대비 +413%"
     }
   ],
   "topic_clusters": [
     {
-      "label": "ChatGPT",
-      "count": 7,
-      "avg_view_count": 7336,
-      "avg_engagement_rate": 0.00656722484957683,
-      "avg_like_count": 49,
-      "avg_comment_count": 11,
-      "source_titles": [
-        "개발자는 끝났다",
-        "(광고) AI 6개에게 2주간 모의 투자를 맡겼더니? 결과 공개 LIVE",
-        "삼일PwC 문제엔 정답이 없습니다 (출제 측 힌트)"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/tb7fFBV3Pm0/hqdefault.jpg",
-      "representative_video_id": "tb7fFBV3Pm0",
-      "representative_title": "개발자는 끝났다"
-    },
-    {
-      "label": "MCP",
-      "count": 1,
-      "avg_view_count": 32130,
-      "avg_engagement_rate": 0.011858076563958916,
-      "avg_like_count": 374,
-      "avg_comment_count": 7,
-      "source_titles": [
-        "IT뉴스 - METR 리포트, 죽음은 선택사항, GPT Images 2.6, 신경망 가중치 업데이트 가능, GPT 6.2 Astra, Fable 5.5 곧 출시 등"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/ekZIKu2rFOQ/hqdefault.jpg",
-      "representative_video_id": "ekZIKu2rFOQ",
-      "representative_title": "IT뉴스 - METR 리포트, 죽음은 선택사항, GPT Images 2.6, 신경망 가중치 업데이트 가능, GPT 6.2 Astra, Fable 5.5 곧 출시 등"
-    },
-    {
-      "label": "수익화",
-      "count": 1,
-      "avg_view_count": 8089,
-      "avg_engagement_rate": 0.059463468908394115,
-      "avg_like_count": 461,
-      "avg_comment_count": 20,
-      "source_titles": [
-        "This controls games characters AND robots"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/jKjir4-HmQI/hqdefault.jpg",
-      "representative_video_id": "jKjir4-HmQI",
-      "representative_title": "This controls games characters AND robots"
-    },
-    {
       "label": "Claude",
-      "count": 1,
-      "avg_view_count": 4996,
-      "avg_engagement_rate": 0.023819055244195357,
-      "avg_like_count": 74,
-      "avg_comment_count": 45,
+      "count": 7,
+      "avg_view_count": 7103,
+      "avg_engagement_rate": 0.02694818209646536,
+      "avg_like_count": 161,
+      "avg_comment_count": 36,
       "source_titles": [
-        "클로드 코드 모드(mods) 무료 4개 — 캐시 키퍼·골 미터·콜리전 가드·레코딩 모드, 돈 새는 걸 막아 줍니다"
+        "Anthropic's Fable 5.2 is the World’s Best AI Model",
+        "클로드 미친 신모델.. 오퍼스 5.5 넘어선 페이블 5.2.. ㄷㄷ",
+        "클로드 코드에 '더 좋게' 100번 시켰더니 사이트가 망가졌습니다 (오퍼스 2만 1천 줄)"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/XLIPt6fOxCA/hqdefault.jpg",
-      "representative_video_id": "XLIPt6fOxCA",
-      "representative_title": "클로드 코드 모드(mods) 무료 4개 — 캐시 키퍼·골 미터·콜리전 가드·레코딩 모드, 돈 새는 걸 막아 줍니다"
+      "thumbnail_url": "https://i.ytimg.com/vi/2TM8W66NI_8/hqdefault.jpg",
+      "representative_video_id": "2TM8W66NI_8",
+      "representative_title": "Anthropic's Fable 5.2 is the World’s Best AI Model"
     },
     {
-      "label": "휴머노이드",
-      "count": 1,
-      "avg_view_count": 4636,
-      "avg_engagement_rate": 0.0056082830025884385,
-      "avg_like_count": 26,
-      "avg_comment_count": 0,
+      "label": "ChatGPT",
+      "count": 3,
+      "avg_view_count": 13442,
+      "avg_engagement_rate": 0.009507584580900758,
+      "avg_like_count": 87,
+      "avg_comment_count": 9,
       "source_titles": [
-        "휴머노이드의 가는 나사가 큰 힘을 견디는 내부 구조"
+        "AI뉴스 - METR 리포트, 죽음은 선택사항, GPT Images 2.6, 젠슨황 불륜, 신경망 가중치 업데이트, GPT 6.2 Astra, Fable 5.5 곧 출시 등",
+        "ChatGPT Can Make GIFs Now!",
+        "Switch ChatGPT Accounts in Seconds!"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/Y1LBNMGaM80/hqdefault.jpg",
-      "representative_video_id": "Y1LBNMGaM80",
-      "representative_title": "휴머노이드의 가는 나사가 큰 힘을 견디는 내부 구조"
+      "thumbnail_url": "https://i.ytimg.com/vi/Ni0gE4LeSlc/hqdefault.jpg",
+      "representative_video_id": "Ni0gE4LeSlc",
+      "representative_title": "AI뉴스 - METR 리포트, 죽음은 선택사항, GPT Images 2.6, 젠슨황 불륜, 신경망 가중치 업데이트, GPT 6.2 Astra, Fable 5.5 곧 출시 등"
     },
     {
-      "label": "모터",
+      "label": "agents",
       "count": 1,
-      "avg_view_count": 2755,
-      "avg_engagement_rate": 0.005807622504537205,
-      "avg_like_count": 15,
-      "avg_comment_count": 1,
+      "avg_view_count": 46109,
+      "avg_engagement_rate": 0.010019735843327767,
+      "avg_like_count": 426,
+      "avg_comment_count": 36,
       "source_titles": [
-        "모터 속 베어링에 전기로 구멍이 생기는 과정"
+        "기존 대기업들의 위기 시작... AI 잘쓰는 회사 이미 변화 중, 구글이 야후를 무너뜨리고 아이폰이 피처폰을 파괴한 변화 진행중 | Vooy로 살펴본 AI 시대의 조직과 기업경쟁력"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/UNf11ZjtF6g/hqdefault.jpg",
-      "representative_video_id": "UNf11ZjtF6g",
-      "representative_title": "모터 속 베어링에 전기로 구멍이 생기는 과정"
+      "thumbnail_url": "https://i.ytimg.com/vi/Yw-2DTNr_uo/hqdefault.jpg",
+      "representative_video_id": "Yw-2DTNr_uo",
+      "representative_title": "기존 대기업들의 위기 시작... AI 잘쓰는 회사 이미 변화 중, 구글이 야후를 무너뜨리고 아이폰이 피처폰을 파괴한 변화 진행중 | Vooy로 살펴본 AI 시대의 조직과 기업경쟁력"
     },
     {
-      "label": "신재생에너지",
+      "label": "엔비디아",
       "count": 1,
-      "avg_view_count": 528,
-      "avg_engagement_rate": 0.003787878787878788,
-      "avg_like_count": 2,
-      "avg_comment_count": 0,
+      "avg_view_count": 35296,
+      "avg_engagement_rate": 0.011304397098821396,
+      "avg_like_count": 365,
+      "avg_comment_count": 34,
       "source_titles": [
-        "전기를 만들지 않는 발전기를 계속 돌리는 이유"
+        "젠슨 황 불륜 인정, 중국 스파이 의혹까지…엔비디아는 왜 고객사 GPU를 하나하나 세어 봤을까"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/Slg47XU0cig/hqdefault.jpg",
-      "representative_video_id": "Slg47XU0cig",
-      "representative_title": "전기를 만들지 않는 발전기를 계속 돌리는 이유"
+      "thumbnail_url": "https://i.ytimg.com/vi/7PQjUm9Fcvk/hqdefault.jpg",
+      "representative_video_id": "7PQjUm9Fcvk",
+      "representative_title": "젠슨 황 불륜 인정, 중국 스파이 의혹까지…엔비디아는 왜 고객사 GPU를 하나하나 세어 봤을까"
     },
     {
-      "label": "로봇",
+      "label": "Arc",
       "count": 1,
-      "avg_view_count": 466,
-      "avg_engagement_rate": 0.006437768240343348,
-      "avg_like_count": 2,
-      "avg_comment_count": 1,
+      "avg_view_count": 24722,
+      "avg_engagement_rate": 0.019415904862066177,
+      "avg_like_count": 441,
+      "avg_comment_count": 39,
       "source_titles": [
-        "휴머노이드 아틀라스가 몸을 거꾸로 비틀어 일어나는 이유"
+        "내일 \"두 가지\" 확인하면 폭등 할 수 있습니다."
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/AR25D-fszJw/hqdefault.jpg",
-      "representative_video_id": "AR25D-fszJw",
-      "representative_title": "휴머노이드 아틀라스가 몸을 거꾸로 비틀어 일어나는 이유"
+      "thumbnail_url": "https://i.ytimg.com/vi/K0j_jGHpHxM/hqdefault.jpg",
+      "representative_video_id": "K0j_jGHpHxM",
+      "representative_title": "내일 \"두 가지\" 확인하면 폭등 할 수 있습니다."
+    },
+    {
+      "label": "AI야",
+      "count": 1,
+      "avg_view_count": 14444,
+      "avg_engagement_rate": 0.008377180836333426,
+      "avg_like_count": 104,
+      "avg_comment_count": 17,
+      "source_titles": [
+        "AI야, 네고해달라는 데 어떻게 거절해?"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/JsUBYmpSf7g/hqdefault.jpg",
+      "representative_video_id": "JsUBYmpSf7g",
+      "representative_title": "AI야, 네고해달라는 데 어떻게 거절해?"
+    },
+    {
+      "label": "Notion",
+      "count": 1,
+      "avg_view_count": 9472,
+      "avg_engagement_rate": 0.07168496621621621,
+      "avg_like_count": 322,
+      "avg_comment_count": 357,
+      "source_titles": [
+        "클로드 코드 인스타그램 에이전트 스킬 13개, 무료로 인스타 운영 통째로 맡기기"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/Wh-OLMqiyGc/hqdefault.jpg",
+      "representative_video_id": "Wh-OLMqiyGc",
+      "representative_title": "클로드 코드 인스타그램 에이전트 스킬 13개, 무료로 인스타 운영 통째로 맡기기"
+    },
+    {
+      "label": "AI자동화",
+      "count": 1,
+      "avg_view_count": 4550,
+      "avg_engagement_rate": 0.0432967032967033,
+      "avg_like_count": 193,
+      "avg_comment_count": 4,
+      "source_titles": [
+        "Use my AI replacement ladder to decide what to automate"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/TasLZOkxh1w/hqdefault.jpg",
+      "representative_video_id": "TasLZOkxh1w",
+      "representative_title": "Use my AI replacement ladder to decide what to automate"
     }
   ],
   "video_highlights": [
     {
-      "video_id": "ekZIKu2rFOQ",
-      "channel_name": "조코딩 JoCoding",
-      "title": "IT뉴스 - METR 리포트, 죽음은 선택사항, GPT Images 2.6, 신경망 가중치 업데이트 가능, GPT 6.2 Astra, Fable 5.5 곧 출시 등",
-      "thumbnail_url": "https://i.ytimg.com/vi/ekZIKu2rFOQ/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=ekZIKu2rFOQ",
-      "published_at": "2026-11-08T11:18:21Z",
-      "view_count": 32130,
-      "like_count": 374,
-      "comment_count": 7,
-      "engagement_rate": 0.011858076563958916,
-      "topic_cluster": "MCP",
-      "summary": "GPT 실시간 음성 기술의 발전과 함께 AI 모델 관련 버그 바운티 프로그램과 업계 동향을 다루며, 최신 AI 리포트 및 기술 출시 소식을 요약한다.",
-      "comment_signal": "1빠🎉",
-      "hook_type": "긴급성"
-    },
-    {
-      "video_id": "tb7fFBV3Pm0",
-      "channel_name": "조코딩 JoCoding",
-      "title": "개발자는 끝났다",
-      "thumbnail_url": "https://i.ytimg.com/vi/tb7fFBV3Pm0/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=tb7fFBV3Pm0",
-      "published_at": "2026-11-08T14:20:31Z",
-      "view_count": 21767,
-      "like_count": 219,
-      "comment_count": 65,
-      "engagement_rate": 0.01304727339550696,
-      "topic_cluster": "ChatGPT",
-      "summary": "단순히 개발만 하는 역량은 미래에 경쟁력이 낮아질 것을 지적하며, 특정 도메인 지식과 AI를 결합해 새로운 가치를 창출하는 융합형 인재의 중요성을 강조한다.",
-      "comment_signal": "이 분의 말씀은 모든 개발자가 완전히 끝났다기보단 개발'만' 하는 사람이 끝났다고 말 한 것 같음. 더 이상 개발자는 코딩싸개 직업이 아니라, 의사소통 및 창의력 같은 서…",
+      "video_id": "Yw-2DTNr_uo",
+      "channel_name": "안될공학 - IT 테크 신기술",
+      "title": "기존 대기업들의 위기 시작... AI 잘쓰는 회사 이미 변화 중, 구글이 야후를 무너뜨리고 아이폰이 피처폰을 파괴한 변화 진행중 | Vooy로 살펴본 AI 시대의 조직과 기업경쟁력",
+      "thumbnail_url": "https://i.ytimg.com/vi/Yw-2DTNr_uo/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=Yw-2DTNr_uo",
+      "published_at": "2026-11-09T05:55:28Z",
+      "view_count": 46109,
+      "like_count": 426,
+      "comment_count": 36,
+      "engagement_rate": 0.010019735843327767,
+      "topic_cluster": "agents",
+      "summary": "경쟁사는 검증을 한 개선을 계속 내놓는데 이쪽은 그냥 전달이랑 대기 이거에 묶여 있다면 격차가 점점점 쌓이겠죠. 그리고 그런 차이가 고객이 서비스를 옮길 만큼 이제…",
+      "comment_signal": "부가가치가 데이터를 변환하거나 생성하는 것에서 발생하는 업은 쓸려나갈겁니다 물리세계를 직접 다루는 업은 좀 더 오래 버틸 거구요",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "ulvo0ophBNE",
-      "channel_name": "조코딩 JoCoding",
-      "title": "(광고) AI 6개에게 2주간 모의 투자를 맡겼더니? 결과 공개 LIVE",
-      "thumbnail_url": "https://i.ytimg.com/vi/ulvo0ophBNE/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=ulvo0ophBNE",
-      "published_at": "2026-11-08T12:35:41Z",
-      "view_count": 12823,
-      "like_count": 60,
-      "comment_count": 3,
-      "engagement_rate": 0.004913046868907432,
-      "topic_cluster": "ChatGPT",
-      "summary": "6개 AI 모델을 활용한 2주간의 모의 투자 결과를 비교하며, 다양한 AI의 투자 성향과 전략을 분석하고 투자 실험 도구인 나무 플러그의 활용법을 소개한다.",
-      "comment_signal": "나무플러그 바로가기: https://m.mynamuh.com/customer/event/eventView?mNo=1029&utm_source=youtube&utm_medi…",
-      "hook_type": "긴급성"
-    },
-    {
-      "video_id": "jKjir4-HmQI",
+      "video_id": "2TM8W66NI_8",
       "channel_name": "Matt Wolfe",
-      "title": "This controls games characters AND robots",
-      "thumbnail_url": "https://i.ytimg.com/vi/jKjir4-HmQI/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=jKjir4-HmQI",
-      "published_at": "2026-11-08T18:30:51Z",
-      "view_count": 8089,
-      "like_count": 461,
-      "comment_count": 20,
-      "engagement_rate": 0.059463468908394115,
-      "topic_cluster": "수익화",
-      "summary": "게임 캐릭터와 유니트리 G1 로봇의 움직임을 제어하는 동일한 고성능 AI 제어 시스템의 기술적 진보를 다룬다.",
-      "comment_signal": "This is awesome, but also a little scary lol",
+      "title": "Anthropic's Fable 5.2 is the World’s Best AI Model",
+      "thumbnail_url": "https://i.ytimg.com/vi/2TM8W66NI_8/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=2TM8W66NI_8",
+      "published_at": "2026-11-09T23:16:34Z",
+      "view_count": 36352,
+      "like_count": 886,
+      "comment_count": 141,
+      "engagement_rate": 0.028251540492957746,
+      "topic_cluster": "Claude",
+      "summary": "Anthropic의 최신 AI 모델 Fable 5.2는 특정 고난도 작업에서 혁신적인 성능을 보여주지만, 일상적인 코딩이나 지식 작업에서는 이전 모델인 Opus 5…",
+      "comment_signal": "Just hope this means Astra 6.2 is coming in days.",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "e-YnU4rzWz4",
+      "video_id": "Ni0gE4LeSlc",
       "channel_name": "조코딩 JoCoding",
-      "title": "삼일PwC 문제엔 정답이 없습니다 (출제 측 힌트)",
-      "thumbnail_url": "https://i.ytimg.com/vi/e-YnU4rzWz4/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=e-YnU4rzWz4",
-      "published_at": "2026-11-08T14:10:37Z",
-      "view_count": 5826,
-      "like_count": 15,
-      "comment_count": 1,
-      "engagement_rate": 0.0027463096464126332,
+      "title": "AI뉴스 - METR 리포트, 죽음은 선택사항, GPT Images 2.6, 젠슨황 불륜, 신경망 가중치 업데이트, GPT 6.2 Astra, Fable 5.5 곧 출시 등",
+      "thumbnail_url": "https://i.ytimg.com/vi/Ni0gE4LeSlc/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=Ni0gE4LeSlc",
+      "published_at": "2026-11-09T13:00:22Z",
+      "view_count": 36156,
+      "like_count": 217,
+      "comment_count": 26,
+      "engagement_rate": 0.006720876203119814,
       "topic_cluster": "ChatGPT",
-      "summary": "삼일PwC가 주최하는 채용 연계형 문제 해결 프로젝트의 출제 의도를 설명하며, 정답보다는 문제를 스스로 정의하고 AI 에이전트를 활용해 창의적으로 해결하는 역량을…",
-      "comment_signal": "💡 힌트 정리: 정답은 없어요. 문제를 어떻게 정의했는지가 핵심이에요. 🎁 AX인재전쟁 온라인 참가 신청하면 선착순 1,000명에게 ChatGPT Plus 1개월 이용권을…",
+      "summary": "AI 스스로 발전 속도를 두 배 가까이 가속시키고 있다는 METR 리포트와 함께, 죽음이 선택이 될 것이라는 오픈AI 창립자의 발언, GPT 이미지 2.6 출시,…",
+      "comment_signal": "맨날 2배 빨라졌다고 하는데 효응이 엄청 개선된 모델은 또 안나오는 아이러니.",
+      "hook_type": "긴급성"
+    },
+    {
+      "video_id": "7PQjUm9Fcvk",
+      "channel_name": "안될공학 - IT 테크 신기술",
+      "title": "젠슨 황 불륜 인정, 중국 스파이 의혹까지…엔비디아는 왜 고객사 GPU를 하나하나 세어 봤을까",
+      "thumbnail_url": "https://i.ytimg.com/vi/7PQjUm9Fcvk/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=7PQjUm9Fcvk",
+      "published_at": "2026-11-09T10:59:47Z",
+      "view_count": 35296,
+      "like_count": 365,
+      "comment_count": 34,
+      "engagement_rate": 0.011304397098821396,
+      "topic_cluster": "엔비디아",
+      "summary": "젠슨 황의 개인적인 스캔들과 관련된 중국 스파이 의혹을 파헤치며, 엔비디아가 GPU 공급망을 어떻게 관리하고 통제하는지, 특히 중국의 AI 칩 접근을 막기 위한 미…",
+      "comment_signal": "여기나 저기나 다 바꾸는구나 너만 바꾸지말고 내 그래픽카드도 좀 바꾸자",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "K0j_jGHpHxM",
+      "channel_name": "월텍남 - 월스트리트 테크남",
+      "title": "내일 \"두 가지\" 확인하면 폭등 할 수 있습니다.",
+      "thumbnail_url": "https://i.ytimg.com/vi/K0j_jGHpHxM/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=K0j_jGHpHxM",
+      "published_at": "2026-11-09T22:43:41Z",
+      "view_count": 24722,
+      "like_count": 441,
+      "comment_count": 39,
+      "engagement_rate": 0.019415904862066177,
+      "topic_cluster": "Arc",
+      "summary": "아 가성비가 중국이 더 좋지 않냐라고 말씀하실 텐데 GPT 6.1 솔 버전이 가성비도 나쁘지 않습니다. 그런데 실제 점수는 거의 두 배 가까이 올라고 있으니까 이게…",
+      "comment_signal": "오 상당히 인사이트있는 분석입니다ㅋㅋ진즉에 알았을것같은데 이제 왜? 가 궁금했는데",
       "hook_type": "문제 해결"
     }
   ]
