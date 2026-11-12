@@ -1,264 +1,266 @@
 {
-  "digest_date": "2026-11-11",
-  "generated_at": "2026-11-11T02:46:19+00:00",
-  "summary": "최근 24시간 영상 12개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'ChatGPT'입니다. 특히 '구글의 초대형 TPU 8i Max, 8tx 기습 출시, NVIDIA 대항 자체 칩 개발 가속 | 칩 두 개를 붙인 TPU가 노리는 것 | TPU Sync 활용'는 조회수 73.9K, 참여율 0.9%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "'ChatGPT' 주제가 3개 영상으로 가장 많이 다뤄졌습니다. ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.\n[내 채널] 7일 평균 66.8K회 · 지속률 31.7% / 경쟁사 평균 16.3K회 (격차 +310%)",
-  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 11/11\n\n📊 총 10개 | AI 핵심 10 · 인접 AI 0 · 일반 테크 보충 0\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 10 · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [Jeff Su] 40.4K뷰 · 참여율 2.0%\n   Top 6 AI Productivity Tips for Work!\n   ↳ 마크다운 단축키, 프롬프트 저장, AI와의 의도 확인 등을 통해 토큰 낭비를 줄이고 업무 효율을 높이는 6가지 실용적인 AI 생산성 팁을 소개합니다.\n   https://youtu.be/9Hwanevuhd8\n\n2. AI 핵심 · [조코딩 JoCoding] 21.2K뷰 · 참여율 0.7%\n   METR 리포트, 앤트로픽 RSI 실제로 하고 있다ㄷㄷ\n   ↳ METR 조사 결과, 앤트로픽의 AI 모델 발전 속도가 과거 대비 2배 가속화되었으며 AI가 스스로 차세대 모델을 연구 개발하는 추세가 확인되었습니다.\n   https://youtu.be/BOYoy8VtOoQ\n\n3. AI 핵심 · [AI Explained] 18.1K뷰 · 참여율 5.6%\n   Fable 5.2: The Self-Improvement Loop Keeps Loopin’ … (plus Gemini Carbon)\n   ↳ 앤트로픽의 Fable 5.2와 구글의 Gemini Carbon 모델을 비교 분석하며, AI의 자기 개선 속도와 벤치마크 성능 및 실제 현업 자동화 영향력을 고찰합니다.\n   https://youtu.be/583ThJIqQ7k\n\n4. AI 핵심 · [AI Samson] 13.8K뷰 · 참여율 2.5%\n   Fable 5.2 is a BEAST! (50+ Insane Uses You Have To Try)\n   ↳ 코드 기반 게임 개발, 애니메이션 제작 등 다양한 영역에서 강력한 성능을 보이는 Claude Fable 5.2를 50가지 사례로 테스트하며 이론 물리학 난제 해결 능력을 검증합니다.\n   https://youtu.be/rTMZ-O2skv0\n\n5. AI 핵심 · [조코딩 JoCoding] 7.5K뷰 · 참여율 0.6%\n   추측인 줄 알았는데… 젠슨 황 불륜 인정ㄷㄷ\n   ↳ 젠슨 황의 장녀가 방한을 취소한 사건과 관련하여 불륜설 등 근거 없는 루머가 퍼지고 있으나 실제로는 중국 스파이 연루 의혹과 관련된 추측이 제기되고 있습니다.\n   https://youtu.be/poEAGTNJ6K4\n\n6. AI 핵심 · [Matt Wolfe] 6.1K뷰 · 참여율 3.4%\n   This Airtaxi is Ready For Primetime!\n   ↳ 조비(Joby)의 에어택시가 공항 내 운영 지장 없이 운행 가능함을 시연 비행을 통해 증명하며 상용화 단계에 한 발 더 다가섰음을 보여줍니다.\n   https://youtu.be/GcFRheDNh5U\n\n7. AI 핵심 · [빌더 조쉬 Builder Josh] 5.4K뷰 · 참여율 6.5%\n   클로드 SEO(Claude SEO) 스킬 26개 전부 무료, 블로그·쇼핑몰이면 꼭 깔아야 할 클로드 코드 플러그인 (★2.7만)\n   ↳ Claude Code용 무료 SEO 플러그인을 사용하여 검색 노출, 콘텐츠 품질, 인용 가능성을 17명의 에이전트가 동시에 분석하고 효율적인 개선 계획표를 제공받는 방법을 안내합니다.\n   https://youtu.be/7YEG7DCiyRY\n\n8. AI 핵심 · [Matt Wolfe] 4.5K뷰 · 참여율 5.7%\n   When you give a humanoid roller skates\n   ↳ 보스턴 다이내믹스의 휴머노이드 로봇 아틀라스에 바퀴를 장착하여 창고 내에서 자유롭게 드리프트하고 회전하는 새로운 이동 성능을 선보입니다.\n   https://youtu.be/isqwXApzV5E\n\n9. AI 핵심 · [All About AI] 1.4K뷰 · 참여율 0.9%\n   AI Agentic Trading Will Change EVERYTHING About Investing | Public\n   ↳ Public API와 Claude Code를 연동하여 투자 전략을 수립하고, AI 에이전트를 통해 자동 거래 및 포트폴리오 관리, 대시보드 구축을 수행하는 실습을 다룹니다.\n   https://youtu.be/3FKdVJf-tUk\n\n10. AI 핵심 · [빌더 조쉬 Builder Josh] 171뷰 · 참여율 0.6%\n   클로드 페이블 5.2 나왔는데, 앤트로픽은 \"대부분 일은 오퍼스 5.5부터\" 쓰라고 합니다\n   ↳ 앤트로픽이 출시한 Claude Fable 5.2는 복잡하고 방대한 작업에 최적화되었으며, 일반적인 코딩 및 지식 작업은 Opus 5.5를 병행 사용하는 것이 효율적이라고 권장합니다.\n   https://youtu.be/vyrJeP7zeHc\n\n📈 스마트대디 어제 실적\n조회수 66.4K (↓1% vs 7일 평균) | 구독 +281\n시청 지속률 31.6% | 평균 시청 2분 31초\n경쟁사 평균 16.3K회 대비 내 7일 평균 +310%\n\n💡 VS 각도: ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
-  "video_count": 12,
-  "total_recent_video_count": 17,
+  "digest_date": "2026-11-12",
+  "generated_at": "2026-11-12T03:48:41+00:00",
+  "summary": "최근 24시간 영상 20개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'Claude'입니다. 특히 '코어위브 실적 \"충격\" AI인프라 모두 급등하는 이유 ㄷㄷ..'는 조회수 57.0K, 참여율 1.2%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "'Claude' 주제가 5개 영상으로 가장 많이 다뤄졌습니다. Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n[내 채널] 7일 평균 63.2K회 · 지속률 31.7% / 경쟁사 평균 17.4K회 (격차 +262%)",
+  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 11/12\n\n📊 총 10개 | AI 핵심 10 · 인접 AI 0 · 일반 테크 보충 0\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 10 · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [Matt Wolfe] 34.5K뷰 · 참여율 2.4%\n   He Built an AI System That Runs His Entire Business\n   ↳ AI 에이전트를 활용해 이메일, 일정 관리, 콘텐츠 제작 등 1인 기업 운영을 자동화하는 시스템을 소개한다. ChatGPT, Claude Code, GroqBot 등을 연결하여 반복 가능한 AI 워크플로우를 구축하…\n   https://youtu.be/pvl3z_GyU2Y\n\n2. AI 핵심 · [조코딩 JoCoding] 31.0K뷰 · 참여율 1.2%\n   AI가 핸드폰을 조작할 수 있게 해주는 오픈소스 MCP 등장\n   ↳ 클로드나 챗GPT를 스마트폰과 연동해 직접 기기를 조작할 수 있게 해주는 오픈소스 MCP 도구를 소개한다. 컴퓨터를 사용하듯 AI가 모바일 환경에서 작업을 수행하도록 돕는 커넥터 역할을 한다.\n   https://youtu.be/4gVtiH4M5Vs\n\n3. AI 핵심 · [성공지식백과] 29.6K뷰 · 참여율 1.0%\n   드디어 풀렸습니다.. 구글 최강 모델 제미나이 4 카본 정식 출시.. ㄷㄷ\n   ↳ 구글의 최신 모델 제미나이 4 카본이 정식 출시되었다. 이전 모델 대비 향상된 종합 지능 점수와 스웜 기능을 활용한 3D 결과물 생성, 타 모델 대비 경제적인 비용 효율성을 중심으로 성능을 분석한다.\n   https://youtu.be/v65FQ_za4fM\n\n4. AI 핵심 · [Matt Wolfe] 25.9K뷰 · 참여율 2.5%\n   Fable 5.2 Is Quite Insane!\n   ↳ 새롭게 출시된 클로드 페이블 5.2 모델의 비즈니스 자동화 작업 성능이 이전 대비 크게 향상되었음을 다룬다. 벤치마크 결과 41%라는 높은 수행률을 기록했으며, 가격 인하와 더불어 실제 실무에 활용 가능한 수준의…\n   https://youtu.be/Mt54ez7xsiI\n\n5. AI 핵심 · [조코딩 JoCoding] 25.9K뷰 · 참여율 0.8%\n   AI가 인터넷 암호의 취약점을 발견함ㄷㄷ\n   ↳ AI가 기존 암호 시스템의 취약점을 분석해 공격 효율을 크게 높이는 방법을 발견했다. RSA 알고리즘의 특정 서명 위조 조건에서 기존 대비 1,600배 빠른 속도를 보였으나, 실제 RSA 2048 이상 암호 체계에…\n   https://youtu.be/KUxNeE7BFXE\n\n6. AI 핵심 · [빌더 조쉬 Builder Josh] 11.1K뷰 · 참여율 4.9%\n   클로드 코드 구글 무료 플러그인 EGM, 코끼리·금붕어 모델로 설계 문서 리뷰 (★1.7만)\n   ↳ 구글이 무료로 공개한 클로드 코드 플러그인인 코끼리-금붕어 모델(EGM)을 소개한다. 대화 기록을 기반으로 설계 문서를 작성하는 코끼리 모델과 객관적인 관점에서 문서의 빈틈을 검토하는 금붕어 모델을 결합해 코드 리…\n   https://youtu.be/hkMaR4CYAdg\n\n7. AI 핵심 · [Matt Wolfe] 10.5K뷰 · 참여율 5.1%\n   The New Ring Camera Flies Around Your House\n   ↳ 클라우드 기반 AI 파일럿 기술을 활용해 하드웨어 무게를 줄이고 비행 성능을 극대화한 새로운 링(Ring) 카메라 드론을 소개한다. 온디바이스 연산 대신 클라우드 컴퓨팅을 사용하여 실시간 비행과 영상 전송을 효율적…\n   https://youtu.be/Xtb3Pua0e8s\n\n8. AI 핵심 · [조코딩 JoCoding] 8.7K뷰 · 참여율 0.8%\n   게임 '니케' PC 런처가 해킹으로 털림ㄷㄷ\n   ↳ 게임 '니케'의 PC 런처가 CDN 내 자바스크립트 파일에 공격자 코드가 삽입되어 해킹당한 사건을 다룬다. 보안 취약점 제보가 사전에 있었음에도 조치되지 않아 발생한 피해 사례를 강조한다.\n   https://youtu.be/c3VEmXeB9GU\n\n9. AI 핵심 · [조코딩 JoCoding] 6.7K뷰 · 참여율 1.0%\n   이제 움짤까지 만들어버리는 새로운 챗GPT 이미지 모델ㄷㄷㄷ\n   ↳ 챗GPT 이미지 2.6 모델 업데이트를 통해 이미지 생성 품질이 향상되고 GIF 제작 기능이 추가되었다. 고성능 모델과 빠른 속도의 모델을 선택할 수 있으며, 이전 버전과 동일한 가격으로 고품질 결과물을 생성한다.\n   https://youtu.be/lZTq_7H_hDk\n\n10. AI 핵심 · [빌더 조쉬 Builder Josh] 6.1K뷰 · 참여율 1.1%\n   한 달 프로젝트가 세 달이 되는 이유, AI 개발도 기준 문서에서 갈립니다 (Manyfast 허재혁 대표님)\n   ↳ AI와 협업하는 프로젝트에서 발생하는 기획서 괴리 문제를 해결하기 위해 '단일 진실 공급원(SSOT)' 기반 문서 관리 도구의 중요성을 강조한다. 매니패스트를 활용해 사람과 AI 에이전트가 동일한 기획서를 참조하고…\n   https://youtu.be/o44HQv1gWf8\n\n📈 스마트대디 어제 실적\n조회수 47.0K (↓26% vs 7일 평균) | 구독 +175\n시청 지속률 31.4% | 평균 시청 2분 32초\n경쟁사 평균 17.4K회 대비 내 7일 평균 +262%\n\n💡 VS 각도: Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+  "video_count": 20,
+  "total_recent_video_count": 24,
   "focus_scope": "ai_priority_then_tech_fill",
-  "average_view_count": 16305.0,
-  "average_engagement_rate": 0.029235112816780453,
-  "average_like_count": 295.0,
-  "average_comment_count": 41.0,
-  "best_video_id": "xYoJ1kePj9c",
-  "best_topic": "ChatGPT",
+  "average_view_count": 17442.0,
+  "average_engagement_rate": 0.02397285242309144,
+  "average_like_count": 263.0,
+  "average_comment_count": 43.0,
+  "best_video_id": "ZEnYDnZxt7w",
+  "best_topic": "Claude",
   "summary_points": [
-    "가장 겹친 주제는 'ChatGPT'이며 3개 영상, 평균 조회수 24.1K, 평균 참여율 3.4%입니다.",
-    "최고 실적 영상은 '구글의 초대형 TPU 8i Max, 8tx 기습 출시, NVIDIA 대항 자체 칩 개발 가속 | 칩 두 개를 붙인 TPU가 노리는 것 | TPU Sync 활용'이며 긴급성 훅과 비교 포맷 조합이 강했습니다.",
-    "반복 노출된 툴은 Claude 6회, Notion 3회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
+    "가장 겹친 주제는 'Claude'이며 5개 영상, 평균 조회수 5.9K, 평균 참여율 2.4%입니다.",
+    "최고 실적 영상은 '코어위브 실적 \"충격\" AI인프라 모두 급등하는 이유 ㄷㄷ..'이며 문제 해결 훅과 뉴스 분석 포맷 조합이 강했습니다.",
+    "반복 노출된 툴은 Claude 8회, MCP 5회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
   ],
   "action_chips": [
-    "주제: ChatGPT",
-    "훅: 긴급성",
-    "포맷: 비교",
-    "기준 채널: 안될공학 - IT 테크 신기술"
+    "주제: Claude",
+    "훅: 문제 해결",
+    "포맷: 뉴스 분석",
+    "기준 채널: 월텍남 - 월스트리트 테크남"
   ],
   "title_suggestions": [
-    "ChatGPT vs Claude vs Gemini, 일반인 업무 실전 대결 결과",
-    "GPT 최신 버전 직접 실험 — 이전이랑 진짜 달라?",
-    "GPT 써봤더니... 기대랑 다른 점 솔직하게 다 말해봄"
+    "Claude vs ChatGPT, 일반인이 직접 써보니 이게 달랐다",
+    "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
+    "AI 비서 대결: Claude가 진짜 강한 상황은 따로 있었다"
   ],
   "recommendations": [
     {
-      "title": "ChatGPT vs Claude vs Gemini, 일반인 업무 실전 대결 결과",
+      "title": "Claude vs ChatGPT, 일반인이 직접 써보니 이게 달랐다",
       "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'ChatGPT'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "ChatGPT 바로 해결",
-      "reason": "ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.",
-      "source_video_id": "9Hwanevuhd8",
-      "source": "Top 6 AI Productivity Tips for Work!",
-      "my_channel_context": "내 7일 평균 66.8K회 · 지속률 31.7% / 경쟁사 대비 +310%"
+      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
+      "thumbnail_copy": "Claude 바로 해결",
+      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
+      "source_video_id": "hkMaR4CYAdg",
+      "source": "클로드 코드 구글 무료 플러그인 EGM, 코끼리·금붕어 모델로 설계 문서 리뷰 (★1.7만)",
+      "my_channel_context": "내 7일 평균 63.2K회 · 지속률 31.7% / 경쟁사 대비 +262%"
     },
     {
-      "title": "GPT 최신 버전 직접 실험 — 이전이랑 진짜 달라?",
+      "title": "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
       "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'ChatGPT'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "ChatGPT 바로 해결",
-      "reason": "ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.",
-      "source_video_id": "583ThJIqQ7k",
-      "source": "Fable 5.2: The Self-Improvement Loop Keeps Loopin’ … (plus Gemini Carbon)",
-      "my_channel_context": "내 7일 평균 66.8K회 · 지속률 31.7% / 경쟁사 대비 +310%"
+      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
+      "thumbnail_copy": "Claude 바로 해결",
+      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
+      "source_video_id": "c3VEmXeB9GU",
+      "source": "게임 '니케' PC 런처가 해킹으로 털림ㄷㄷ",
+      "my_channel_context": "내 7일 평균 63.2K회 · 지속률 31.7% / 경쟁사 대비 +262%"
     },
     {
-      "title": "GPT 써봤더니... 기대랑 다른 점 솔직하게 다 말해봄",
+      "title": "AI 비서 대결: Claude가 진짜 강한 상황은 따로 있었다",
       "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
-      "angle": "'ChatGPT'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "ChatGPT 바로 해결",
-      "reason": "ChatGPT vs 경쟁 AI 일반인 업무 실전 대결 영상이 비어 있습니다. 스펙 비교 말고 실제 써보니 뭐가 달랐는지.",
-      "source_video_id": "rTMZ-O2skv0",
-      "source": "Fable 5.2 is a BEAST! (50+ Insane Uses You Have To Try)",
-      "my_channel_context": "내 7일 평균 66.8K회 · 지속률 31.7% / 경쟁사 대비 +310%"
+      "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
+      "thumbnail_copy": "Claude 핵심 3가지",
+      "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
+      "source_video_id": "V2mDC6JSbC8",
+      "source": "클로드 코드 영상 효과 51가지, 한 줄로 릴스 효과 넣기 (무료 스킬)",
+      "my_channel_context": "내 7일 평균 63.2K회 · 지속률 31.7% / 경쟁사 대비 +262%"
     }
   ],
   "topic_clusters": [
     {
-      "label": "ChatGPT",
-      "count": 3,
-      "avg_view_count": 24077,
-      "avg_engagement_rate": 0.033500257986868356,
-      "avg_like_count": 652,
-      "avg_comment_count": 65,
-      "source_titles": [
-        "Top 6 AI Productivity Tips for Work!",
-        "Fable 5.2: The Self-Improvement Loop Keeps Loopin’ … (plus Gemini Carbon)",
-        "Fable 5.2 is a BEAST! (50+ Insane Uses You Have To Try)"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/9Hwanevuhd8/hqdefault.jpg",
-      "representative_video_id": "9Hwanevuhd8",
-      "representative_title": "Top 6 AI Productivity Tips for Work!"
-    },
-    {
       "label": "Claude",
+      "count": 5,
+      "avg_view_count": 5879,
+      "avg_engagement_rate": 0.02421143762018959,
+      "avg_like_count": 111,
+      "avg_comment_count": 56,
+      "source_titles": [
+        "클로드 코드 구글 무료 플러그인 EGM, 코끼리·금붕어 모델로 설계 문서 리뷰 (★1.7만)",
+        "게임 '니케' PC 런처가 해킹으로 털림ㄷㄷ",
+        "클로드 코드 영상 효과 51가지, 한 줄로 릴스 효과 넣기 (무료 스킬)"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/hkMaR4CYAdg/hqdefault.jpg",
+      "representative_video_id": "hkMaR4CYAdg",
+      "representative_title": "클로드 코드 구글 무료 플러그인 EGM, 코끼리·금붕어 모델로 설계 문서 리뷰 (★1.7만)"
+    },
+    {
+      "label": "OpenAI",
       "count": 3,
-      "avg_view_count": 2306,
-      "avg_engagement_rate": 0.02688272448457156,
-      "avg_like_count": 62,
-      "avg_comment_count": 60,
+      "avg_view_count": 22153,
+      "avg_engagement_rate": 0.016271586785169354,
+      "avg_like_count": 358,
+      "avg_comment_count": 31,
       "source_titles": [
-        "클로드 SEO(Claude SEO) 스킬 26개 전부 무료, 블로그·쇼핑몰이면 꼭 깔아야 할 클로드 코드 플러그인 (★2.7만)",
-        "AI Agentic Trading Will Change EVERYTHING About Investing | Public",
-        "클로드 페이블 5.2 나왔는데, 앤트로픽은 \"대부분 일은 오퍼스 5.5부터\" 쓰라고 합니다"
+        "He Built an AI System That Runs His Entire Business",
+        "드디어 풀렸습니다.. 구글 최강 모델 제미나이 4 카본 정식 출시.. ㄷㄷ",
+        "How to use Microsoft Foundry to Build AI Apps on Azure"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/7YEG7DCiyRY/hqdefault.jpg",
-      "representative_video_id": "7YEG7DCiyRY",
-      "representative_title": "클로드 SEO(Claude SEO) 스킬 26개 전부 무료, 블로그·쇼핑몰이면 꼭 깔아야 할 클로드 코드 플러그인 (★2.7만)"
+      "thumbnail_url": "https://i.ytimg.com/vi/pvl3z_GyU2Y/hqdefault.jpg",
+      "representative_video_id": "pvl3z_GyU2Y",
+      "representative_title": "He Built an AI System That Runs His Entire Business"
     },
     {
-      "label": "구글의",
-      "count": 1,
-      "avg_view_count": 73877,
-      "avg_engagement_rate": 0.009258632592011045,
-      "avg_like_count": 632,
-      "avg_comment_count": 52,
+      "label": "AI인프라",
+      "count": 2,
+      "avg_view_count": 36146,
+      "avg_engagement_rate": 0.01744448546334854,
+      "avg_like_count": 449,
+      "avg_comment_count": 78,
       "source_titles": [
-        "구글의 초대형 TPU 8i Max, 8tx 기습 출시, NVIDIA 대항 자체 칩 개발 가속 | 칩 두 개를 붙인 TPU가 노리는 것 | TPU Sync 활용"
+        "코어위브 실적 \"충격\" AI인프라 모두 급등하는 이유 ㄷㄷ..",
+        "\"AI인프라 변곡점\" ... 앞으로 2개만 보면 됩니다."
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/xYoJ1kePj9c/hqdefault.jpg",
-      "representative_video_id": "xYoJ1kePj9c",
-      "representative_title": "구글의 초대형 TPU 8i Max, 8tx 기습 출시, NVIDIA 대항 자체 칩 개발 가속 | 칩 두 개를 붙인 TPU가 노리는 것 | TPU Sync 활용"
+      "thumbnail_url": "https://i.ytimg.com/vi/ZEnYDnZxt7w/hqdefault.jpg",
+      "representative_video_id": "ZEnYDnZxt7w",
+      "representative_title": "코어위브 실적 \"충격\" AI인프라 모두 급등하는 이유 ㄷㄷ.."
     },
     {
-      "label": "METR",
-      "count": 1,
-      "avg_view_count": 21192,
-      "avg_engagement_rate": 0.006889392223480559,
-      "avg_like_count": 133,
-      "avg_comment_count": 13,
+      "label": "MCP",
+      "count": 2,
+      "avg_view_count": 18570,
+      "avg_engagement_rate": 0.011888829774145293,
+      "avg_like_count": 206,
+      "avg_comment_count": 20,
       "source_titles": [
-        "METR 리포트, 앤트로픽 RSI 실제로 하고 있다ㄷㄷ"
+        "AI가 핸드폰을 조작할 수 있게 해주는 오픈소스 MCP 등장",
+        "한 달 프로젝트가 세 달이 되는 이유, AI 개발도 기준 문서에서 갈립니다 (Manyfast 허재혁 대표님)"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/BOYoy8VtOoQ/hqdefault.jpg",
-      "representative_video_id": "BOYoy8VtOoQ",
-      "representative_title": "METR 리포트, 앤트로픽 RSI 실제로 하고 있다ㄷㄷ"
+      "thumbnail_url": "https://i.ytimg.com/vi/4gVtiH4M5Vs/hqdefault.jpg",
+      "representative_video_id": "4gVtiH4M5Vs",
+      "representative_title": "AI가 핸드폰을 조작할 수 있게 해주는 오픈소스 MCP 등장"
     },
     {
-      "label": "추측인",
+      "label": "Gemini",
       "count": 1,
-      "avg_view_count": 7546,
-      "avg_engagement_rate": 0.0055658627087198514,
-      "avg_like_count": 39,
-      "avg_comment_count": 3,
+      "avg_view_count": 41389,
+      "avg_engagement_rate": 0.010824132015752977,
+      "avg_like_count": 355,
+      "avg_comment_count": 93,
       "source_titles": [
-        "추측인 줄 알았는데… 젠슨 황 불륜 인정ㄷㄷ"
+        "AI 신규 모델 대격돌 | 구글 카본 vs 클로드 페이블 5.2 | 새로 나온 두 AI의 코딩 실력과 실제 비용을 따져봤습니다"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/poEAGTNJ6K4/hqdefault.jpg",
-      "representative_video_id": "poEAGTNJ6K4",
-      "representative_title": "추측인 줄 알았는데… 젠슨 황 불륜 인정ㄷㄷ"
+      "thumbnail_url": "https://i.ytimg.com/vi/ijLTC-d1TMs/hqdefault.jpg",
+      "representative_video_id": "ijLTC-d1TMs",
+      "representative_title": "AI 신규 모델 대격돌 | 구글 카본 vs 클로드 페이블 5.2 | 새로 나온 두 AI의 코딩 실력과 실제 비용을 따져봤습니다"
     },
     {
-      "label": "코딩",
+      "label": "agents",
       "count": 1,
-      "avg_view_count": 6142,
-      "avg_engagement_rate": 0.03353956366004559,
-      "avg_like_count": 195,
-      "avg_comment_count": 11,
+      "avg_view_count": 25932,
+      "avg_engagement_rate": 0.02529693043344131,
+      "avg_like_count": 623,
+      "avg_comment_count": 33,
       "source_titles": [
-        "This Airtaxi is Ready For Primetime!"
+        "Fable 5.2 Is Quite Insane!"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/GcFRheDNh5U/hqdefault.jpg",
-      "representative_video_id": "GcFRheDNh5U",
-      "representative_title": "This Airtaxi is Ready For Primetime!"
+      "thumbnail_url": "https://i.ytimg.com/vi/Mt54ez7xsiI/hqdefault.jpg",
+      "representative_video_id": "Mt54ez7xsiI",
+      "representative_title": "Fable 5.2 Is Quite Insane!"
     },
     {
-      "label": "monetization",
+      "label": "AI가",
       "count": 1,
-      "avg_view_count": 4485,
-      "avg_engagement_rate": 0.056856187290969896,
-      "avg_like_count": 239,
-      "avg_comment_count": 16,
+      "avg_view_count": 25885,
+      "avg_engagement_rate": 0.0075719528684566354,
+      "avg_like_count": 178,
+      "avg_comment_count": 18,
       "source_titles": [
-        "When you give a humanoid roller skates"
+        "AI가 인터넷 암호의 취약점을 발견함ㄷㄷ"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/isqwXApzV5E/hqdefault.jpg",
-      "representative_video_id": "isqwXApzV5E",
-      "representative_title": "When you give a humanoid roller skates"
+      "thumbnail_url": "https://i.ytimg.com/vi/KUxNeE7BFXE/hqdefault.jpg",
+      "representative_video_id": "KUxNeE7BFXE",
+      "representative_title": "AI가 인터넷 암호의 취약점을 발견함ㄷㄷ"
     },
     {
-      "label": "주식",
+      "label": "인공지능",
       "count": 1,
-      "avg_view_count": 3266,
-      "avg_engagement_rate": 0.05756276791181874,
-      "avg_like_count": 160,
-      "avg_comment_count": 28,
+      "avg_view_count": 25144,
+      "avg_engagement_rate": 0.013044861597200128,
+      "avg_like_count": 266,
+      "avg_comment_count": 62,
       "source_titles": [
-        "물가 충격에 기술주 또 하락...앤트로픽 IPO 1.3조 규모"
+        "이제 게임, 포토샵, 엑셀도 AI가 만듭니다"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/cMSxaC3vpCQ/hqdefault.jpg",
-      "representative_video_id": "cMSxaC3vpCQ",
-      "representative_title": "물가 충격에 기술주 또 하락...앤트로픽 IPO 1.3조 규모"
+      "thumbnail_url": "https://i.ytimg.com/vi/BuNoq4qHL8U/hqdefault.jpg",
+      "representative_video_id": "BuNoq4qHL8U",
+      "representative_title": "이제 게임, 포토샵, 엑셀도 AI가 만듭니다"
     }
   ],
   "video_highlights": [
     {
-      "video_id": "xYoJ1kePj9c",
-      "channel_name": "안될공학 - IT 테크 신기술",
-      "title": "구글의 초대형 TPU 8i Max, 8tx 기습 출시, NVIDIA 대항 자체 칩 개발 가속 | 칩 두 개를 붙인 TPU가 노리는 것 | TPU Sync 활용",
-      "thumbnail_url": "https://i.ytimg.com/vi/xYoJ1kePj9c/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=xYoJ1kePj9c",
-      "published_at": "2026-11-10T10:12:50Z",
-      "view_count": 73877,
-      "like_count": 632,
-      "comment_count": 52,
-      "engagement_rate": 0.009258632592011045,
-      "topic_cluster": "구글의",
-      "summary": "구글이 발표한 TPU 8i Max는 기존 칩 두 개를 결합해 연산 능력과 대역폭을 두 배로 높인 장비로, 엔비디아 대항마로서 자체 칩 개발과 생태계 확장 의지를 보…",
-      "comment_signal": "구글이 크롬을 만들어서 마이크로소프트의 인터넷익스플로러 독주 시대를 끝냈다는 사실을 기억해야 한다. 그만큼 무서운 기업이다. 구글은",
-      "hook_type": "긴급성"
-    },
-    {
-      "video_id": "9Hwanevuhd8",
-      "channel_name": "Jeff Su",
-      "title": "Top 6 AI Productivity Tips for Work!",
-      "thumbnail_url": "https://i.ytimg.com/vi/9Hwanevuhd8/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=9Hwanevuhd8",
-      "published_at": "2026-11-10T13:00:14Z",
-      "view_count": 40356,
-      "like_count": 754,
-      "comment_count": 45,
-      "engagement_rate": 0.019798790762216276,
-      "topic_cluster": "ChatGPT",
-      "summary": "마크다운 단축키, 프롬프트 저장, AI와의 의도 확인 등을 통해 토큰 낭비를 줄이고 업무 효율을 높이는 6가지 실용적인 AI 생산성 팁을 소개합니다.",
-      "comment_signal": "✅ Get HubSpot’s free guide, Use Claude like an AI Expert - https://clickhubspot.com/89c42f TIME…",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "BOYoy8VtOoQ",
-      "channel_name": "조코딩 JoCoding",
-      "title": "METR 리포트, 앤트로픽 RSI 실제로 하고 있다ㄷㄷ",
-      "thumbnail_url": "https://i.ytimg.com/vi/BOYoy8VtOoQ/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=BOYoy8VtOoQ",
-      "published_at": "2026-11-10T10:00:12Z",
-      "view_count": 21192,
-      "like_count": 133,
-      "comment_count": 13,
-      "engagement_rate": 0.006889392223480559,
-      "topic_cluster": "METR",
-      "summary": "METR 조사 결과, 앤트로픽의 AI 모델 발전 속도가 과거 대비 2배 가속화되었으며 AI가 스스로 차세대 모델을 연구 개발하는 추세가 확인되었습니다.",
-      "comment_signal": "하네스 개선아님?",
-      "hook_type": "솔직 검증"
-    },
-    {
-      "video_id": "583ThJIqQ7k",
-      "channel_name": "AI Explained",
-      "title": "Fable 5.2: The Self-Improvement Loop Keeps Loopin’ … (plus Gemini Carbon)",
-      "thumbnail_url": "https://i.ytimg.com/vi/583ThJIqQ7k/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=583ThJIqQ7k",
-      "published_at": "2026-11-10T23:11:36Z",
-      "view_count": 18065,
-      "like_count": 896,
+      "video_id": "ZEnYDnZxt7w",
+      "channel_name": "월텍남 - 월스트리트 테크남",
+      "title": "코어위브 실적 \"충격\" AI인프라 모두 급등하는 이유 ㄷㄷ..",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZEnYDnZxt7w/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=ZEnYDnZxt7w",
+      "published_at": "2026-11-11T06:51:13Z",
+      "view_count": 56987,
+      "like_count": 603,
       "comment_count": 108,
-      "engagement_rate": 0.055577082756711874,
-      "topic_cluster": "ChatGPT",
-      "summary": "앤트로픽의 Fable 5.2와 구글의 Gemini Carbon 모델을 비교 분석하며, AI의 자기 개선 속도와 벤치마크 성능 및 실제 현업 자동화 영향력을 고찰합니…",
-      "comment_signal": "Its hard for me to put into words how much more excited I feel seeing one of your videos drop c…",
+      "engagement_rate": 0.012476529734851808,
+      "topic_cluster": "AI인프라",
+      "summary": "코어위브의 호실적과 AI 인프라 시장 전반의 상승세를 분석한다. GPU 활용 효율을 극대화하는 세 가지 핵심 전략을 통해 시장의 우려를 반박하고 AI 인프라 투자의…",
+      "comment_signal": "배경음이 자꾸 패닝걸려서 왼쪽으로만 들리는데 불편하네요",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "rTMZ-O2skv0",
-      "channel_name": "AI Samson",
-      "title": "Fable 5.2 is a BEAST! (50+ Insane Uses You Have To Try)",
-      "thumbnail_url": "https://i.ytimg.com/vi/rTMZ-O2skv0/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=rTMZ-O2skv0",
-      "published_at": "2026-11-10T19:06:01Z",
-      "view_count": 13811,
-      "like_count": 306,
-      "comment_count": 41,
-      "engagement_rate": 0.025124900441676923,
-      "topic_cluster": "ChatGPT",
-      "summary": "코드 기반 게임 개발, 애니메이션 제작 등 다양한 영역에서 강력한 성능을 보이는 Claude Fable 5.2를 50가지 사례로 테스트하며 이론 물리학 난제 해결…",
-      "comment_signal": "Some of the best fun I am having currently in my life is the excitement for the things to come.…",
+      "video_id": "ijLTC-d1TMs",
+      "channel_name": "안될공학 - IT 테크 신기술",
+      "title": "AI 신규 모델 대격돌 | 구글 카본 vs 클로드 페이블 5.2 | 새로 나온 두 AI의 코딩 실력과 실제 비용을 따져봤습니다",
+      "thumbnail_url": "https://i.ytimg.com/vi/ijLTC-d1TMs/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=ijLTC-d1TMs",
+      "published_at": "2026-11-11T07:43:53Z",
+      "view_count": 41389,
+      "like_count": 355,
+      "comment_count": 93,
+      "engagement_rate": 0.010824132015752977,
+      "topic_cluster": "Gemini",
+      "summary": "오른쪽에 클로드 페이블 5.2는 도시가 일어나는 모습을 손가락으로 돌려볼 수 있겠습니다. 해안선이랑 경계는 실제 지도 기반이고 건물은 가상으로 생성했다라는 안내가…",
+      "comment_signal": "클로드는 고집불통 제미나이는 미새친끼임 안전필터 컷 당하면 클로드는 필터감수성 풍부해서 저도 필터님 의견에 동의합니다. 이 작업은 더이상 하지 않겠습니다 하는데 제미나이…",
+      "hook_type": "비교"
+    },
+    {
+      "video_id": "pvl3z_GyU2Y",
+      "channel_name": "Matt Wolfe",
+      "title": "He Built an AI System That Runs His Entire Business",
+      "thumbnail_url": "https://i.ytimg.com/vi/pvl3z_GyU2Y/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=pvl3z_GyU2Y",
+      "published_at": "2026-11-11T16:00:07Z",
+      "view_count": 34508,
+      "like_count": 785,
+      "comment_count": 57,
+      "engagement_rate": 0.024400139098180132,
+      "topic_cluster": "OpenAI",
+      "summary": "AI 에이전트를 활용해 이메일, 일정 관리, 콘텐츠 제작 등 1인 기업 운영을 자동화하는 시스템을 소개한다. ChatGPT, Claude Code, GroqBot…",
+      "comment_signal": "I need a chief for all my chiefs of staff at this point",
       "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "4gVtiH4M5Vs",
+      "channel_name": "조코딩 JoCoding",
+      "title": "AI가 핸드폰을 조작할 수 있게 해주는 오픈소스 MCP 등장",
+      "thumbnail_url": "https://i.ytimg.com/vi/4gVtiH4M5Vs/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=4gVtiH4M5Vs",
+      "published_at": "2026-11-11T07:00:06Z",
+      "view_count": 31037,
+      "like_count": 362,
+      "comment_count": 20,
+      "engagement_rate": 0.012307890582208332,
+      "topic_cluster": "MCP",
+      "summary": "클로드나 챗GPT를 스마트폰과 연동해 직접 기기를 조작할 수 있게 해주는 오픈소스 MCP 도구를 소개한다. 컴퓨터를 사용하듯 AI가 모바일 환경에서 작업을 수행하도…",
+      "comment_signal": "지금도 되긴합니다. divice hub도 있고 mirroring으로도 되고",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "v65FQ_za4fM",
+      "channel_name": "성공지식백과",
+      "title": "드디어 풀렸습니다.. 구글 최강 모델 제미나이 4 카본 정식 출시.. ㄷㄷ",
+      "thumbnail_url": "https://i.ytimg.com/vi/v65FQ_za4fM/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=v65FQ_za4fM",
+      "published_at": "2026-11-11T09:59:16Z",
+      "view_count": 29561,
+      "like_count": 257,
+      "comment_count": 32,
+      "engagement_rate": 0.00977639457393187,
+      "topic_cluster": "OpenAI",
+      "summary": "구글의 최신 모델 제미나이 4 카본이 정식 출시되었다. 이전 모델 대비 향상된 종합 지능 점수와 스웜 기능을 활용한 3D 결과물 생성, 타 모델 대비 경제적인 비용…",
+      "comment_signal": "보나마나 한두번 쓰면 결제하세요 대화좀 하다보면 기억상실증 걸리고",
+      "hook_type": "긴급성"
     }
   ]
 }
