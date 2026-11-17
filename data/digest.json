@@ -1,28 +1,28 @@
 {
-  "digest_date": "2026-11-16",
-  "generated_at": "2026-11-16T02:43:45+00:00",
-  "summary": "최근 24시간 영상 10개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'Claude'입니다. 특히 'IT뉴스 - AI 부정행위 전문직 끝났다, Fable 5.2, MS 365, GPT-6.2 Astra, 젠슨 황 사임, Gemini 4 Carbon & Hydrogen 등'는 조회수 33.6K, 참여율 1.1%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "'Claude' 주제가 4개 영상으로 가장 많이 다뤄졌습니다. Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n[내 채널] 7일 평균 66.2K회 · 지속률 34.6% / 경쟁사 평균 6.9K회 (격차 +861%)",
-  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 11/16\n\n📊 총 10개 | AI 핵심 9 · 인접 AI 1 · 일반 테크 보충 0\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 10 · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [조코딩 JoCoding] 33.6K뷰 · 참여율 1.1%\n   IT뉴스 - AI 부정행위 전문직 끝났다, Fable 5.2, MS 365, GPT-6.2 Astra, 젠슨 황 사임, Gemini 4 C…\n   ↳ AI 기술의 급격한 발전과 함께 전문직의 위기, 새로운 AI 모델 및 플랫폼의 동향 등 최신 IT 소식을 다룬다.\n   https://youtu.be/um6UlsOP1M8\n\n2. AI 핵심 · [빌더 조쉬 Builder Josh] 13.2K뷰 · 참여율 4.9%\n   클로드 글 그대로 쓰지 마세요 — 카파시의 '비행기 정비 매뉴얼 문체' 요청문 (ASD-STE100, 문장 33자→21자)\n   ↳ 클로드의 글쓰기 품질을 높이기 위해 기술 영어 규격인 ASD-STE100을 활용해 문장을 간결하고 명확하게 다듬는 프롬프트 전략을 소개한다.\n   https://youtu.be/_g-ROA0W5DE\n\n3. AI 핵심 · [빌더 조쉬 Builder Josh] 6.1K뷰 · 참여율 4.1%\n   Astryx 아스트릭스 — 메타가 무료 공개한 디자인 시스템, 클로드 코드(Claude Code) MCP로 연결하기 (부품 150개+·테마…\n   ↳ 메타가 공개한 디자인 시스템 '아스트릭스'를 클로드 코드의 MCP로 연결하여 일관된 디자인 부품을 개발 환경에서 즉시 활용하는 방법을 설명한다.\n   https://youtu.be/6y6WEKpC8GA\n\n4. AI 핵심 · [Matt Wolfe] 4.8K뷰 · 참여율 2.9%\n   The Self-Driving Car With Balls\n   ↳ 최신 AI 기술 동향과 도구들을 소개하며 인공지능 분야의 전반적인 발전을 다룬다.\n   https://youtu.be/X3r-mZtPfP8\n\n5. AI 핵심 · [빌더 조쉬 Builder Josh] 3.9K뷰 · 참여율 1.2%\n   AI 영상 퀄리티 올리는 법 100점짜리와 비교시키기\n   ↳ 고품질 AI 영상 제작을 위해 100점짜리 예시와 비교하며 퀄리티를 향상할 수 있는 구체적인 방법을 제시한다.\n   https://youtu.be/BgNTPFLMok4\n\n6. AI 핵심 · [Futurepedia] 2.8K뷰 · 참여율 2.1%\n   Turn this on before Claude works overnight\n   ↳ 사용자가 자리를 비운 사이 클로드가 작업을 수행할 때 반드시 설정해야 할 두 가지 핵심 기능을 소개한다.\n   https://youtu.be/Pf8lwhokfp0\n\n7. AI 핵심 · [All About AI] 1.4K뷰 · 참여율 0.5%\n   Can AI Predict The Future Week 2: The Nvidia Affair\n   ↳ Sikt Intelligence의 AI 예측 모델을 사용하여 엔비디아와 같은 기업의 주가 및 주요 시장 지표를 분석하고 실제 예측 결과를 검증한다.\n   https://youtu.be/3mVxP-p_eAM\n\n8. AI 핵심 · [Futurepedia] 168뷰 · 참여율 2.4%\n   Claude Design exploder trick\n   ↳ 하나의 프롬프트를 활용하여 6가지 서로 다른 디자인 방향성을 동시에 생성하고 효율적으로 비교하는 기법을 공유한다.\n   https://youtu.be/hl2QYat81A4\n\n9. AI 핵심 · [빌더 조쉬 Builder Josh] 22뷰 · 참여율 0.0%\n   오픈코드(OpenCode) — 클로드 코드 대신 쓰는 무료 코딩 에이전트, 로그인 없이 무료 모델 12개\n   ↳ 무료 오픈소스 코딩 에이전트인 오픈코드를 소개하며, API 키 없이 12개의 모델을 활용해 웹 개발을 자동화하는 설치 및 사용법을 안내한다.\n   https://youtu.be/w9VyPaL-5AM\n\n10. AI 인접 · [Dan Martell] 2.9K뷰 · 참여율 6.2%\n   Don't make these 4 AI mistakes\n   ↳ 인공지능을 효율적으로 활용하기 위해 업무 과정에서 피해야 할 4가지 주요 실수와 예방책을 다룬다.\n   https://youtu.be/ltnbubBsrQk\n\n📈 스마트대디 어제 실적\n조회수 83.4K (↑26% vs 7일 평균) | 구독 +337\n시청 지속률 36.1% | 평균 시청 3분 22초\n경쟁사 평균 6.9K회 대비 내 7일 평균 +861%\n\n💡 VS 각도: Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
-  "video_count": 10,
-  "total_recent_video_count": 13,
+  "digest_date": "2026-11-17",
+  "generated_at": "2026-11-17T05:03:14+00:00",
+  "summary": "최근 24시간 영상 12개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'Claude'입니다. 특히 '수능 진짜 큰일났습니다. 한국 시험이 AI 커닝에 유독 잘 뚫리는 이유'는 조회수 585.6K, 참여율 1.9%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "'Claude' 주제가 3개 영상으로 가장 많이 다뤄졌습니다. Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n[내 채널] 7일 평균 76.6K회 · 지속률 34.2% / 경쟁사 평균 60.2K회 (격차 +27%)",
+  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 11/17\n\n📊 총 10개 | AI 핵심 9 · 인접 AI 1 · 일반 테크 보충 0\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 10 · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [조코딩 JoCoding] 74.8K뷰 · 참여율 1.1%\n   AI뉴스 - AI 부정행위 못 잡는다, 전문직 종말, Fable 5.2, MS365, GPT-6.2 Astra, 젠슨 황 사임, Gemin…\n   ↳ AI 기술의 급격한 발전과 함께 발생한 부정행위, 전문직의 위기, Anthropic IPO 로드쇼 정보, MS 장애, Gemini 및 GPT 최신 모델 유출 등을 포함한 글로벌 AI 산업 전반의 주간 주요 이슈를…\n   https://youtu.be/ZKKP6jbdNbg\n\n2. AI 핵심 · [빌더 조쉬 Builder Josh] 9.0K뷰 · 참여율 3.4%\n   클로드(Claude)로 뭐든 배우는 요청문 10개 — 새 업무 빨리 익히는 직장인 공부법\n   ↳ Claude를 활용해 새로운 업무와 지식을 빠르게 습득할 수 있는 10가지 효과적인 프롬프트를 소개하며, 특정 대상을 지정한 설명 요청이나 데이터 요약, HTML 파일 생성 등을 통해 직장인의 학습 효율을 높이는…\n   https://youtu.be/nP2lA3V57Cw\n\n3. AI 핵심 · [Matt Wolfe] 7.0K뷰 · 참여율 4.0%\n   3D Printing Entire Buildings is So Wild To Me\n   ↳ AI 분야의 최신 기술 뉴스 중 하나로 건물 전체를 3D 프린팅으로 건축하는 혁신적인 사례와 관련 기술 발전 소식을 다루었다.\n   https://youtu.be/ETw45WHQ6Z4\n\n4. AI 핵심 · [조코딩 JoCoding] 5.1K뷰 · 참여율 1.1%\n   NULL 번호판을 쓴 사람의 최후\n   ↳ 자동차 번호판에 'NULL'이라는 문자를 사용하여 시스템 오류를 유도해 단속을 피하려 했던 사례를 통해 전산 시스템의 취약점과 그 최후에 대해 다루었다.\n   https://youtu.be/1hg9POiarjE\n\n5. AI 핵심 · [Matt Wolfe] 4.1K뷰 · 참여율 5.7%\n   This had never been done before!\n   ↳ AI 도구와 기술 분야에서 이전에는 시도된 적 없던 혁신적인 성과와 최신 발전 사항을 소개했다.\n   https://youtu.be/btjS7OaffpM\n\n6. AI 핵심 · [빌더 조쉬 Builder Josh] 2.8K뷰 · 참여율 1.4%\n   자기 전에 AI한테 일 맡기는 법\n   ↳ 업무 효율성을 높이기 위해 퇴근 전 AI에게 작업을 위임하고 활용하는 구체적인 실천 방법을 소개한다.\n   https://youtu.be/hLeDXPW19Pk\n\n7. AI 핵심 · [Futurepedia] 1.8K뷰 · 참여율 2.7%\n   Claude goes 3D\n   ↳ Claude가 Three.js 코드를 직접 작성하여 로켓 발사 장면을 9가지 서로 다른 3D 스타일로 렌더링한 사례를 통해 AI의 코딩 및 시각화 능력을 보여주었다.\n   https://youtu.be/ImT902GtpUY\n\n8. AI 핵심 · [빌더 조쉬 Builder Josh] 856뷰 · 참여율 1.8%\n   클로드 코드(Claude Code) 비밀 코드 5개 직접 실험 — 진짜 기능은 울트라씽크(ultrathink) 하나뿐\n   ↳ 인터넷에 떠도는 Claude의 이른바 '비밀 코드' 5가지를 직접 실험한 결과, 대다수가 실효성이 없음을 확인했으며 공식 기능인 'ultrathink'을 통해 모델의 사고 과정을 심화시키는 방법을 설명했다.\n   https://youtu.be/Oukk8v8lNIY\n\n9. AI 핵심 · [빌더 조쉬 Builder Josh] 204뷰 · 참여율 0.5%\n   기준 문서가 없으면 한 달이 세 달 됩니다\n   ↳ 업무 수행 과정에서 기준 문서 부재가 초래하는 비효율과 프로젝트 지연 문제를 지적하고, 문서화의 중요성을 강조했다.\n   https://youtu.be/SKOTfLHJOL0\n\n10. AI 인접 · [테크몽 Techmong] 585.6K뷰 · 참여율 1.9%\n   수능 진짜 큰일났습니다. 한국 시험이 AI 커닝에 유독 잘 뚫리는 이유\n   ↳ AI를 활용한 부정행위 사례를 통해 수능 등 시험의 공정성 위기를 진단하고, 중국 가오카오의 보안 대책을 참고하여 우리 수능이 나아가야 할 대비책을 분석했다.\n   https://youtu.be/l8FsqgGKg2w\n\n📈 스마트대디 어제 실적\n조회수 104.7K (↑37% vs 7일 평균) | 구독 +405\n시청 지속률 34.1% | 평균 시청 3분 10초\n경쟁사 평균 60.2K회 대비 내 7일 평균 +27%\n\n💡 VS 각도: Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+  "video_count": 12,
+  "total_recent_video_count": 17,
   "focus_scope": "ai_priority_then_tech_fill",
-  "average_view_count": 6885.0,
-  "average_engagement_rate": 0.025529580635053874,
-  "average_like_count": 126.0,
-  "average_comment_count": 45.0,
-  "best_video_id": "um6UlsOP1M8",
+  "average_view_count": 60197.0,
+  "average_engagement_rate": 0.026341914151926268,
+  "average_like_count": 923.0,
+  "average_comment_count": 192.0,
+  "best_video_id": "l8FsqgGKg2w",
   "best_topic": "Claude",
   "summary_points": [
-    "가장 겹친 주제는 'Claude'이며 4개 영상, 평균 조회수 5.6K, 평균 참여율 3.4%입니다.",
-    "최고 실적 영상은 'IT뉴스 - AI 부정행위 전문직 끝났다, Fable 5.2, MS 365, GPT-6.2 Astra, 젠슨 황 사임, Gemini 4 Carbon & Hydrogen 등'이며 문제 해결 훅과 뉴스 분석 포맷 조합이 강했습니다.",
-    "반복 노출된 툴은 Claude 5회, Notion 3회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
+    "가장 겹친 주제는 'Claude'이며 3개 영상, 평균 조회수 3.9K, 평균 참여율 2.6%입니다.",
+    "최고 실적 영상은 '수능 진짜 큰일났습니다. 한국 시험이 AI 커닝에 유독 잘 뚫리는 이유'이며 솔직 검증 훅과 뉴스 분석 포맷 조합이 강했습니다.",
+    "반복 노출된 툴은 Claude 4회, ChatGPT 2회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
   ],
   "action_chips": [
     "주제: Claude",
-    "훅: 문제 해결",
+    "훅: 솔직 검증",
     "포맷: 뉴스 분석",
-    "기준 채널: 조코딩 JoCoding"
+    "기준 채널: 테크몽 Techmong"
   ],
   "title_suggestions": [
     "Claude vs ChatGPT, 일반인이 직접 써보니 이게 달랐다",
@@ -36,213 +36,228 @@
       "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
       "thumbnail_copy": "Claude 바로 해결",
       "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
-      "source_video_id": "_g-ROA0W5DE",
-      "source": "클로드 글 그대로 쓰지 마세요 — 카파시의 '비행기 정비 매뉴얼 문체' 요청문 (ASD-STE100, 문장 33자→21자)",
-      "my_channel_context": "내 7일 평균 66.2K회 · 지속률 34.6% / 경쟁사 대비 +861%"
+      "source_video_id": "nP2lA3V57Cw",
+      "source": "클로드(Claude)로 뭐든 배우는 요청문 10개 — 새 업무 빨리 익히는 직장인 공부법",
+      "my_channel_context": "내 7일 평균 76.6K회 · 지속률 34.2% / 경쟁사 대비 +27%"
     },
     {
       "title": "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
       "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
       "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "Claude 지금 봐야 함",
+      "thumbnail_copy": "Claude 바로 해결",
       "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
-      "source_video_id": "6y6WEKpC8GA",
-      "source": "Astryx 아스트릭스 — 메타가 무료 공개한 디자인 시스템, 클로드 코드(Claude Code) MCP로 연결하기 (부품 150개+·테마 7개)",
-      "my_channel_context": "내 7일 평균 66.2K회 · 지속률 34.6% / 경쟁사 대비 +861%"
+      "source_video_id": "ImT902GtpUY",
+      "source": "Claude goes 3D",
+      "my_channel_context": "내 7일 평균 76.6K회 · 지속률 34.2% / 경쟁사 대비 +27%"
     },
     {
       "title": "AI 비서 대결: Claude가 진짜 강한 상황은 따로 있었다",
       "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
       "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "Claude 바로 해결",
+      "thumbnail_copy": "Claude 핵심 3가지",
       "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
-      "source_video_id": "Pf8lwhokfp0",
-      "source": "Turn this on before Claude works overnight",
-      "my_channel_context": "내 7일 평균 66.2K회 · 지속률 34.6% / 경쟁사 대비 +861%"
+      "source_video_id": "Oukk8v8lNIY",
+      "source": "클로드 코드(Claude Code) 비밀 코드 5개 직접 실험 — 진짜 기능은 울트라씽크(ultrathink) 하나뿐",
+      "my_channel_context": "내 7일 평균 76.6K회 · 지속률 34.2% / 경쟁사 대비 +27%"
     }
   ],
   "topic_clusters": [
     {
       "label": "Claude",
-      "count": 4,
-      "avg_view_count": 5565,
-      "avg_engagement_rate": 0.03378238264969579,
-      "avg_like_count": 136,
-      "avg_comment_count": 104,
+      "count": 3,
+      "avg_view_count": 3889,
+      "avg_engagement_rate": 0.026355686025712765,
+      "avg_like_count": 84,
+      "avg_comment_count": 40,
       "source_titles": [
-        "클로드 글 그대로 쓰지 마세요 — 카파시의 '비행기 정비 매뉴얼 문체' 요청문 (ASD-STE100, 문장 33자→21자)",
-        "Astryx 아스트릭스 — 메타가 무료 공개한 디자인 시스템, 클로드 코드(Claude Code) MCP로 연결하기 (부품 150개+·테마 7개)",
-        "Turn this on before Claude works overnight"
+        "클로드(Claude)로 뭐든 배우는 요청문 10개 — 새 업무 빨리 익히는 직장인 공부법",
+        "Claude goes 3D",
+        "클로드 코드(Claude Code) 비밀 코드 5개 직접 실험 — 진짜 기능은 울트라씽크(ultrathink) 하나뿐"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/_g-ROA0W5DE/hqdefault.jpg",
-      "representative_video_id": "_g-ROA0W5DE",
-      "representative_title": "클로드 글 그대로 쓰지 마세요 — 카파시의 '비행기 정비 매뉴얼 문체' 요청문 (ASD-STE100, 문장 33자→21자)"
+      "thumbnail_url": "https://i.ytimg.com/vi/nP2lA3V57Cw/hqdefault.jpg",
+      "representative_video_id": "nP2lA3V57Cw",
+      "representative_title": "클로드(Claude)로 뭐든 배우는 요청문 10개 — 새 업무 빨리 익히는 직장인 공부법"
     },
     {
-      "label": "Gemini",
-      "count": 1,
-      "avg_view_count": 33643,
-      "avg_engagement_rate": 0.011354516541331034,
-      "avg_like_count": 361,
-      "avg_comment_count": 21,
+      "label": "코딩",
+      "count": 2,
+      "avg_view_count": 18186,
+      "avg_engagement_rate": 0.02406652039174567,
+      "avg_like_count": 234,
+      "avg_comment_count": 22,
       "source_titles": [
-        "IT뉴스 - AI 부정행위 전문직 끝났다, Fable 5.2, MS 365, GPT-6.2 Astra, 젠슨 황 사임, Gemini 4 Carbon & Hydrogen 등"
+        "엔비디아, 리벨리온이 뭉쳤다 | Groq가 있는데도 리벨리온 R200 선택 이유 | NVLink Fusion과 MGX 그리고 리벨리온의 토큰 수출 구상",
+        "3D Printing Entire Buildings is So Wild To Me"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/um6UlsOP1M8/hqdefault.jpg",
-      "representative_video_id": "um6UlsOP1M8",
-      "representative_title": "IT뉴스 - AI 부정행위 전문직 끝났다, Fable 5.2, MS 365, GPT-6.2 Astra, 젠슨 황 사임, Gemini 4 Carbon & Hydrogen 등"
+      "thumbnail_url": "https://i.ytimg.com/vi/YLBR7qz6JPs/hqdefault.jpg",
+      "representative_video_id": "YLBR7qz6JPs",
+      "representative_title": "엔비디아, 리벨리온이 뭉쳤다 | Groq가 있는데도 리벨리온 R200 선택 이유 | NVLink Fusion과 MGX 그리고 리벨리온의 토큰 수출 구상"
+    },
+    {
+      "label": "교육",
+      "count": 1,
+      "avg_view_count": 585647,
+      "avg_engagement_rate": 0.019148053349543327,
+      "avg_like_count": 9312,
+      "avg_comment_count": 1902,
+      "source_titles": [
+        "수능 진짜 큰일났습니다. 한국 시험이 AI 커닝에 유독 잘 뚫리는 이유"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/l8FsqgGKg2w/hqdefault.jpg",
+      "representative_video_id": "l8FsqgGKg2w",
+      "representative_title": "수능 진짜 큰일났습니다. 한국 시험이 AI 커닝에 유독 잘 뚫리는 이유"
+    },
+    {
+      "label": "OpenAI",
+      "count": 1,
+      "avg_view_count": 74838,
+      "avg_engagement_rate": 0.011224244367834523,
+      "avg_like_count": 626,
+      "avg_comment_count": 214,
+      "source_titles": [
+        "AI뉴스 - AI 부정행위 못 잡는다, 전문직 종말, Fable 5.2, MS365, GPT-6.2 Astra, 젠슨 황 사임, Gemini 4 Carbon & Hydrogen 등"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/ZKKP6jbdNbg/hqdefault.jpg",
+      "representative_video_id": "ZKKP6jbdNbg",
+      "representative_title": "AI뉴스 - AI 부정행위 못 잡는다, 전문직 종말, Fable 5.2, MS365, GPT-6.2 Astra, 젠슨 황 사임, Gemini 4 Carbon & Hydrogen 등"
+    },
+    {
+      "label": "NULL",
+      "count": 1,
+      "avg_view_count": 5147,
+      "avg_engagement_rate": 0.01088012434427822,
+      "avg_like_count": 51,
+      "avg_comment_count": 5,
+      "source_titles": [
+        "NULL 번호판을 쓴 사람의 최후"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/1hg9POiarjE/hqdefault.jpg",
+      "representative_video_id": "1hg9POiarjE",
+      "representative_title": "NULL 번호판을 쓴 사람의 최후"
     },
     {
       "label": "수익화",
       "count": 1,
-      "avg_view_count": 4785,
-      "avg_engagement_rate": 0.02946708463949843,
-      "avg_like_count": 131,
-      "avg_comment_count": 10,
+      "avg_view_count": 4096,
+      "avg_engagement_rate": 0.056640625,
+      "avg_like_count": 216,
+      "avg_comment_count": 16,
       "source_titles": [
-        "The Self-Driving Car With Balls"
+        "This had never been done before!"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/X3r-mZtPfP8/hqdefault.jpg",
-      "representative_video_id": "X3r-mZtPfP8",
-      "representative_title": "The Self-Driving Car With Balls"
+      "thumbnail_url": "https://i.ytimg.com/vi/btjS7OaffpM/hqdefault.jpg",
+      "representative_video_id": "btjS7OaffpM",
+      "representative_title": "This had never been done before!"
     },
     {
-      "label": "영상",
+      "label": "자기",
       "count": 1,
-      "avg_view_count": 3894,
-      "avg_engagement_rate": 0.012326656394453005,
-      "avg_like_count": 46,
-      "avg_comment_count": 2,
-      "source_titles": [
-        "AI 영상 퀄리티 올리는 법 100점짜리와 비교시키기"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/BgNTPFLMok4/hqdefault.jpg",
-      "representative_video_id": "BgNTPFLMok4",
-      "representative_title": "AI 영상 퀄리티 올리는 법 100점짜리와 비교시키기"
-    },
-    {
-      "label": "ChatGPT",
-      "count": 1,
-      "avg_view_count": 2855,
-      "avg_engagement_rate": 0.06199649737302977,
-      "avg_like_count": 172,
-      "avg_comment_count": 5,
-      "source_titles": [
-        "Don't make these 4 AI mistakes"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/ltnbubBsrQk/hqdefault.jpg",
-      "representative_video_id": "ltnbubBsrQk",
-      "representative_title": "Don't make these 4 AI mistakes"
-    },
-    {
-      "label": "코딩",
-      "count": 1,
-      "avg_view_count": 1394,
-      "avg_engagement_rate": 0.005021520803443328,
-      "avg_like_count": 7,
+      "avg_view_count": 2775,
+      "avg_engagement_rate": 0.014414414414414415,
+      "avg_like_count": 40,
       "avg_comment_count": 0,
       "source_titles": [
-        "Can AI Predict The Future Week 2: The Nvidia Affair"
+        "자기 전에 AI한테 일 맡기는 법"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/3mVxP-p_eAM/hqdefault.jpg",
-      "representative_video_id": "3mVxP-p_eAM",
-      "representative_title": "Can AI Predict The Future Week 2: The Nvidia Affair"
+      "thumbnail_url": "https://i.ytimg.com/vi/hLeDXPW19Pk/hqdefault.jpg",
+      "representative_video_id": "hLeDXPW19Pk",
+      "representative_title": "자기 전에 AI한테 일 맡기는 법"
     },
     {
-      "label": "Notion",
+      "label": "AI활용",
       "count": 1,
-      "avg_view_count": 22,
-      "avg_engagement_rate": 0.0,
-      "avg_like_count": 0,
-      "avg_comment_count": 0,
+      "avg_view_count": 1618,
+      "avg_engagement_rate": 0.07169344870210136,
+      "avg_like_count": 113,
+      "avg_comment_count": 3,
       "source_titles": [
-        "오픈코드(OpenCode) — 클로드 코드 대신 쓰는 무료 코딩 에이전트, 로그인 없이 무료 모델 12개"
+        "Ask yourself this before using AI"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/w9VyPaL-5AM/hqdefault.jpg",
-      "representative_video_id": "w9VyPaL-5AM",
-      "representative_title": "오픈코드(OpenCode) — 클로드 코드 대신 쓰는 무료 코딩 에이전트, 로그인 없이 무료 모델 12개"
+      "thumbnail_url": "https://i.ytimg.com/vi/ghfz6g-SUDg/hqdefault.jpg",
+      "representative_video_id": "ghfz6g-SUDg",
+      "representative_title": "Ask yourself this before using AI"
     }
   ],
   "video_highlights": [
     {
-      "video_id": "um6UlsOP1M8",
+      "video_id": "l8FsqgGKg2w",
+      "channel_name": "테크몽 Techmong",
+      "title": "수능 진짜 큰일났습니다. 한국 시험이 AI 커닝에 유독 잘 뚫리는 이유",
+      "thumbnail_url": "https://i.ytimg.com/vi/l8FsqgGKg2w/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=l8FsqgGKg2w",
+      "published_at": "2026-11-16T11:56:17Z",
+      "view_count": 585647,
+      "like_count": 9312,
+      "comment_count": 1902,
+      "engagement_rate": 0.019148053349543327,
+      "topic_cluster": "교육",
+      "summary": "AI를 활용한 부정행위 사례를 통해 수능 등 시험의 공정성 위기를 진단하고, 중국 가오카오의 보안 대책을 참고하여 우리 수능이 나아가야 할 대비책을 분석했다.",
+      "comment_signal": "교육부장관 : 그냥 올해 수능은 양심에 맡기고.. 수능연기는 불가능하다 이딴게 교육부장관?",
+      "hook_type": "솔직 검증"
+    },
+    {
+      "video_id": "ZKKP6jbdNbg",
       "channel_name": "조코딩 JoCoding",
-      "title": "IT뉴스 - AI 부정행위 전문직 끝났다, Fable 5.2, MS 365, GPT-6.2 Astra, 젠슨 황 사임, Gemini 4 Carbon & Hydrogen 등",
-      "thumbnail_url": "https://i.ytimg.com/vi/um6UlsOP1M8/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=um6UlsOP1M8",
-      "published_at": "2026-11-15T11:22:16Z",
-      "view_count": 33643,
-      "like_count": 361,
-      "comment_count": 21,
-      "engagement_rate": 0.011354516541331034,
-      "topic_cluster": "Gemini",
-      "summary": "AI 기술의 급격한 발전과 함께 전문직의 위기, 새로운 AI 모델 및 플랫폼의 동향 등 최신 IT 소식을 다룬다.",
-      "comment_signal": "안경이 문제가 아니라 렌즈를 옷깃이나 손이나 어떤 곳에든 부착해서 문제를 풀게하고 미세한 부착형 이어폰으로 듣는다면 거의 정답이겠네...",
+      "title": "AI뉴스 - AI 부정행위 못 잡는다, 전문직 종말, Fable 5.2, MS365, GPT-6.2 Astra, 젠슨 황 사임, Gemini 4 Carbon & Hydrogen 등",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZKKP6jbdNbg/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=ZKKP6jbdNbg",
+      "published_at": "2026-11-16T13:00:06Z",
+      "view_count": 74838,
+      "like_count": 626,
+      "comment_count": 214,
+      "engagement_rate": 0.011224244367834523,
+      "topic_cluster": "OpenAI",
+      "summary": "AI 기술의 급격한 발전과 함께 발생한 부정행위, 전문직의 위기, Anthropic IPO 로드쇼 정보, MS 장애, Gemini 및 GPT 최신 모델 유출 등을…",
+      "comment_signal": "(오늘의 교훈) 부정시험을 막지 못하면 수능시험과 대학 및 각종 고시의 가치는 사라진다.",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "_g-ROA0W5DE",
-      "channel_name": "빌더 조쉬 Builder Josh",
-      "title": "클로드 글 그대로 쓰지 마세요 — 카파시의 '비행기 정비 매뉴얼 문체' 요청문 (ASD-STE100, 문장 33자→21자)",
-      "thumbnail_url": "https://i.ytimg.com/vi/_g-ROA0W5DE/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=_g-ROA0W5DE",
-      "published_at": "2026-11-15T11:00:54Z",
-      "view_count": 13154,
-      "like_count": 334,
-      "comment_count": 313,
-      "engagement_rate": 0.04918655922152957,
-      "topic_cluster": "Claude",
-      "summary": "클로드의 글쓰기 품질을 높이기 위해 기술 영어 규격인 ASD-STE100을 활용해 문장을 간결하고 명확하게 다듬는 프롬프트 전략을 소개한다.",
-      "comment_signal": "매뉴얼 너무 감사합니다!",
+      "video_id": "YLBR7qz6JPs",
+      "channel_name": "안될공학 - IT 테크 신기술",
+      "title": "엔비디아, 리벨리온이 뭉쳤다 | Groq가 있는데도 리벨리온 R200 선택 이유 | NVLink Fusion과 MGX 그리고 리벨리온의 토큰 수출 구상",
+      "thumbnail_url": "https://i.ytimg.com/vi/YLBR7qz6JPs/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=YLBR7qz6JPs",
+      "published_at": "2026-11-16T14:36:09Z",
+      "view_count": 29374,
+      "like_count": 222,
+      "comment_count": 8,
+      "engagement_rate": 0.00783005378906516,
+      "topic_cluster": "코딩",
+      "summary": "엔비디아와 리벨리온이 협력하여 한국형 소버린 AI 인프라를 구축하는 구상을 다루며, R200 칩이 가진 처리 성능과 서버 확장성을 바탕으로 한 한국 AI 기술의 글…",
+      "comment_signal": "패치누나가 말아주는 리벨리온이라니 허겁지겁달려옴❤",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "6y6WEKpC8GA",
+      "video_id": "nP2lA3V57Cw",
       "channel_name": "빌더 조쉬 Builder Josh",
-      "title": "Astryx 아스트릭스 — 메타가 무료 공개한 디자인 시스템, 클로드 코드(Claude Code) MCP로 연결하기 (부품 150개+·테마 7개)",
-      "thumbnail_url": "https://i.ytimg.com/vi/6y6WEKpC8GA/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=6y6WEKpC8GA",
-      "published_at": "2026-11-15T14:11:44Z",
-      "view_count": 6101,
-      "like_count": 149,
-      "comment_count": 101,
-      "engagement_rate": 0.0409768890345845,
+      "title": "클로드(Claude)로 뭐든 배우는 요청문 10개 — 새 업무 빨리 익히는 직장인 공부법",
+      "thumbnail_url": "https://i.ytimg.com/vi/nP2lA3V57Cw/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=nP2lA3V57Cw",
+      "published_at": "2026-11-16T11:18:18Z",
+      "view_count": 9022,
+      "like_count": 195,
+      "comment_count": 113,
+      "engagement_rate": 0.03413877189093328,
       "topic_cluster": "Claude",
-      "summary": "메타가 공개한 디자인 시스템 '아스트릭스'를 클로드 코드의 MCP로 연결하여 일관된 디자인 부품을 개발 환경에서 즉시 활용하는 방법을 설명한다.",
-      "comment_signal": "메타 항상 감사해유",
-      "hook_type": "긴급성"
+      "summary": "Claude를 활용해 새로운 업무와 지식을 빠르게 습득할 수 있는 10가지 효과적인 프롬프트를 소개하며, 특정 대상을 지정한 설명 요청이나 데이터 요약, HTML…",
+      "comment_signal": "공부 좋아요!",
+      "hook_type": "문제 해결"
     },
     {
-      "video_id": "X3r-mZtPfP8",
+      "video_id": "ETw45WHQ6Z4",
       "channel_name": "Matt Wolfe",
-      "title": "The Self-Driving Car With Balls",
-      "thumbnail_url": "https://i.ytimg.com/vi/X3r-mZtPfP8/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=X3r-mZtPfP8",
-      "published_at": "2026-11-15T07:12:15Z",
-      "view_count": 4785,
-      "like_count": 131,
-      "comment_count": 10,
-      "engagement_rate": 0.02946708463949843,
-      "topic_cluster": "수익화",
-      "summary": "최신 AI 기술 동향과 도구들을 소개하며 인공지능 분야의 전반적인 발전을 다룬다.",
-      "comment_signal": "note to self: when the AI overlords take over, stand in between trees 🌲🌳",
-      "hook_type": "강한 주장"
-    },
-    {
-      "video_id": "BgNTPFLMok4",
-      "channel_name": "빌더 조쉬 Builder Josh",
-      "title": "AI 영상 퀄리티 올리는 법 100점짜리와 비교시키기",
-      "thumbnail_url": "https://i.ytimg.com/vi/BgNTPFLMok4/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=BgNTPFLMok4",
-      "published_at": "2026-11-15T09:00:22Z",
-      "view_count": 3894,
-      "like_count": 46,
-      "comment_count": 2,
-      "engagement_rate": 0.012326656394453005,
-      "topic_cluster": "영상",
-      "summary": "고품질 AI 영상 제작을 위해 100점짜리 예시와 비교하며 퀄리티를 향상할 수 있는 구체적인 방법을 제시한다.",
-      "comment_signal": "감사합니다 😊",
-      "hook_type": "비교"
+      "title": "3D Printing Entire Buildings is So Wild To Me",
+      "thumbnail_url": "https://i.ytimg.com/vi/ETw45WHQ6Z4/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=ETw45WHQ6Z4",
+      "published_at": "2026-11-16T05:35:39Z",
+      "view_count": 6997,
+      "like_count": 246,
+      "comment_count": 36,
+      "engagement_rate": 0.04030298699442618,
+      "topic_cluster": "코딩",
+      "summary": "AI 분야의 최신 기술 뉴스 중 하나로 건물 전체를 3D 프린팅으로 건축하는 혁신적인 사례와 관련 기술 발전 소식을 다루었다.",
+      "comment_signal": "But here's the problem that they found with printing concrete buildings, because the way they p…",
+      "hook_type": "실험"
     }
   ]
 }
