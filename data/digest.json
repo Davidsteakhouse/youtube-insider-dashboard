@@ -1,28 +1,28 @@
 {
-  "digest_date": "2026-11-17",
-  "generated_at": "2026-11-17T05:03:14+00:00",
-  "summary": "최근 24시간 영상 12개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'Claude'입니다. 특히 '수능 진짜 큰일났습니다. 한국 시험이 AI 커닝에 유독 잘 뚫리는 이유'는 조회수 585.6K, 참여율 1.9%로 가장 강하게 반응했습니다.",
-  "creator_takeaway": "'Claude' 주제가 3개 영상으로 가장 많이 다뤄졌습니다. Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n[내 채널] 7일 평균 76.6K회 · 지속률 34.2% / 경쟁사 평균 60.2K회 (격차 +27%)",
-  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 11/17\n\n📊 총 10개 | AI 핵심 9 · 인접 AI 1 · 일반 테크 보충 0\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 10 · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [조코딩 JoCoding] 74.8K뷰 · 참여율 1.1%\n   AI뉴스 - AI 부정행위 못 잡는다, 전문직 종말, Fable 5.2, MS365, GPT-6.2 Astra, 젠슨 황 사임, Gemin…\n   ↳ AI 기술의 급격한 발전과 함께 발생한 부정행위, 전문직의 위기, Anthropic IPO 로드쇼 정보, MS 장애, Gemini 및 GPT 최신 모델 유출 등을 포함한 글로벌 AI 산업 전반의 주간 주요 이슈를…\n   https://youtu.be/ZKKP6jbdNbg\n\n2. AI 핵심 · [빌더 조쉬 Builder Josh] 9.0K뷰 · 참여율 3.4%\n   클로드(Claude)로 뭐든 배우는 요청문 10개 — 새 업무 빨리 익히는 직장인 공부법\n   ↳ Claude를 활용해 새로운 업무와 지식을 빠르게 습득할 수 있는 10가지 효과적인 프롬프트를 소개하며, 특정 대상을 지정한 설명 요청이나 데이터 요약, HTML 파일 생성 등을 통해 직장인의 학습 효율을 높이는…\n   https://youtu.be/nP2lA3V57Cw\n\n3. AI 핵심 · [Matt Wolfe] 7.0K뷰 · 참여율 4.0%\n   3D Printing Entire Buildings is So Wild To Me\n   ↳ AI 분야의 최신 기술 뉴스 중 하나로 건물 전체를 3D 프린팅으로 건축하는 혁신적인 사례와 관련 기술 발전 소식을 다루었다.\n   https://youtu.be/ETw45WHQ6Z4\n\n4. AI 핵심 · [조코딩 JoCoding] 5.1K뷰 · 참여율 1.1%\n   NULL 번호판을 쓴 사람의 최후\n   ↳ 자동차 번호판에 'NULL'이라는 문자를 사용하여 시스템 오류를 유도해 단속을 피하려 했던 사례를 통해 전산 시스템의 취약점과 그 최후에 대해 다루었다.\n   https://youtu.be/1hg9POiarjE\n\n5. AI 핵심 · [Matt Wolfe] 4.1K뷰 · 참여율 5.7%\n   This had never been done before!\n   ↳ AI 도구와 기술 분야에서 이전에는 시도된 적 없던 혁신적인 성과와 최신 발전 사항을 소개했다.\n   https://youtu.be/btjS7OaffpM\n\n6. AI 핵심 · [빌더 조쉬 Builder Josh] 2.8K뷰 · 참여율 1.4%\n   자기 전에 AI한테 일 맡기는 법\n   ↳ 업무 효율성을 높이기 위해 퇴근 전 AI에게 작업을 위임하고 활용하는 구체적인 실천 방법을 소개한다.\n   https://youtu.be/hLeDXPW19Pk\n\n7. AI 핵심 · [Futurepedia] 1.8K뷰 · 참여율 2.7%\n   Claude goes 3D\n   ↳ Claude가 Three.js 코드를 직접 작성하여 로켓 발사 장면을 9가지 서로 다른 3D 스타일로 렌더링한 사례를 통해 AI의 코딩 및 시각화 능력을 보여주었다.\n   https://youtu.be/ImT902GtpUY\n\n8. AI 핵심 · [빌더 조쉬 Builder Josh] 856뷰 · 참여율 1.8%\n   클로드 코드(Claude Code) 비밀 코드 5개 직접 실험 — 진짜 기능은 울트라씽크(ultrathink) 하나뿐\n   ↳ 인터넷에 떠도는 Claude의 이른바 '비밀 코드' 5가지를 직접 실험한 결과, 대다수가 실효성이 없음을 확인했으며 공식 기능인 'ultrathink'을 통해 모델의 사고 과정을 심화시키는 방법을 설명했다.\n   https://youtu.be/Oukk8v8lNIY\n\n9. AI 핵심 · [빌더 조쉬 Builder Josh] 204뷰 · 참여율 0.5%\n   기준 문서가 없으면 한 달이 세 달 됩니다\n   ↳ 업무 수행 과정에서 기준 문서 부재가 초래하는 비효율과 프로젝트 지연 문제를 지적하고, 문서화의 중요성을 강조했다.\n   https://youtu.be/SKOTfLHJOL0\n\n10. AI 인접 · [테크몽 Techmong] 585.6K뷰 · 참여율 1.9%\n   수능 진짜 큰일났습니다. 한국 시험이 AI 커닝에 유독 잘 뚫리는 이유\n   ↳ AI를 활용한 부정행위 사례를 통해 수능 등 시험의 공정성 위기를 진단하고, 중국 가오카오의 보안 대책을 참고하여 우리 수능이 나아가야 할 대비책을 분석했다.\n   https://youtu.be/l8FsqgGKg2w\n\n📈 스마트대디 어제 실적\n조회수 104.7K (↑37% vs 7일 평균) | 구독 +405\n시청 지속률 34.1% | 평균 시청 3분 10초\n경쟁사 평균 60.2K회 대비 내 7일 평균 +27%\n\n💡 VS 각도: Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
-  "video_count": 12,
-  "total_recent_video_count": 17,
+  "digest_date": "2026-11-18",
+  "generated_at": "2026-11-18T04:11:23+00:00",
+  "summary": "최근 24시간 영상 18개를 기준으로 보면, 오늘 가장 먼저 볼 축은 'Claude'입니다. 특히 '수능 앞두고.. AI 치팅 논란? 꼭 알면 좋을 악질 수법들과 방지대안 찾아보기'는 조회수 432.5K, 참여율 0.8%로 가장 강하게 반응했습니다.",
+  "creator_takeaway": "'Claude' 주제가 5개 영상으로 가장 많이 다뤄졌습니다. Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n[내 채널] 7일 평균 104.7K회 · 지속률 36.1% / 경쟁사 평균 38.7K회 (격차 +171%)",
+  "telegram_preview": "📡 스마트대디 AI 유튜버 모니터링 | 11/18\n\n📊 총 10개 | AI 핵심 10 · 인접 AI 0 · 일반 테크 보충 0\n🎯 AI 핵심 → AI 인접 → 남은 자리만 일반 테크\n\n🔥 AI 우선 콘텐츠 TOP 10 · 같은 우선순위 안에서 조회수순\n1. AI 핵심 · [AI Samson] 90.2K뷰 · 참여율 2.4%\n   Claude Makes Insane Videos Now (It Can Replace Seedance)\n   ↳ Claude Fable 5.2를 사용하여 코드로 전체 애니메이션 영상을 생성하는 방법을 다룹니다. 코드 기반의 영상 제작 원리, 애니메이션 방법론, 비용, 단점 등을 분석하고 Seedance 2.5를 결합해 영상의…\n   https://youtu.be/tPiEPzy2JKU\n\n2. AI 핵심 · [조코딩 JoCoding] 28.7K뷰 · 참여율 1.0%\n   AI안경이 불러온 전문직의 종말? ㄷㄷ\n   ↳ AI 안경 등 최신 AI 기술이 전문직의 업무 환경과 직업 생태계에 미치는 영향에 대해 다룹니다.\n   https://youtu.be/pST7ArQkHC8\n\n3. AI 핵심 · [조코딩 JoCoding] 20.7K뷰 · 참여율 0.6%\n   엄청난 비용 절감을 이뤄낸 일론머스크\n   ↳ 일론 머스크의 스페이스X가 우주선 개발 및 운영 과정에서 어떻게 혁신적인 비용 절감을 달성했는지 분석합니다.\n   https://youtu.be/MmxwVEgvHxE\n\n4. AI 핵심 · [조코딩 JoCoding] 10.6K뷰 · 참여율 0.7%\n   MCP를 도입한 어도비..살아남을까?\n   ↳ 어도비가 MCP(Model Context Protocol)를 도입한 배경을 살펴보고, 이를 통해 어도비 생태계가 향후 AI 환경에서 경쟁력을 유지할 수 있을지 전망합니다.\n   https://youtu.be/HLp6DmC3C7Y\n\n5. AI 핵심 · [Matt Wolfe] 10.2K뷰 · 참여율 4.2%\n   ChatGPT 6.2 Astra is \"A Mess\"\n   ↳ 최신 AI 뉴스인 ChatGPT 6.2 Astra의 발표 내용을 다루며, 해당 모델이 겪고 있는 문제점과 현재 상태를 비판적으로 검토합니다.\n   https://youtu.be/LxKNPrXBuyU\n\n6. AI 핵심 · [Matt Wolfe] 9.8K뷰 · 참여율 5.0%\n   OpenAI GPT-6.2 Astra is Here - It's Not What You Think\n   ↳ OpenAI의 새로운 모델인 GPT-6.2 Astra 출시와 관련하여 기대와 다른 실제 성능 및 시장의 반응을 분석합니다.\n   https://youtu.be/JVHkb8PTMvc\n\n7. AI 핵심 · [조코딩 JoCoding] 7.5K뷰 · 참여율 0.8%\n   한국인이 설립해 구글, 메타와 경쟁하는 글로벌 유니콘 기업 몰로코 안익진 CEO, 전동환 CTO 인터뷰\n   ↳ 글로벌 AI 광고 유니콘 기업 몰로코의 CEO 및 CTO를 인터뷰하여 대규모 광고 입찰 처리 원리, AI 에이전트 시대의 광고 변화, 개발자와 창업자를 위한 실리콘밸리 진출 조언을 다룹니다.\n   https://youtu.be/iU4K3mN817I\n\n8. AI 핵심 · [MattVidPro] 7.4K뷰 · 참여율 2.9%\n   I Spent a Week Making 3 Games With Claude Fable 5.2 (Honest Review)\n   ↳ Claude Fable 5.2를 활용해 일주일간 3개의 게임을 개발한 경험을 바탕으로, 코드 생성 모델의 실질적인 개발 능력, API 비용 효율성 및 워크플로우를 솔직하게 리뷰합니다.\n   https://youtu.be/8fNfcx25q24\n\n9. AI 핵심 · [빌더 조쉬 Builder Josh] 5.4K뷰 · 참여율 3.4%\n   블렌더(Blender) × 클로드 코드 — 말로 3D 만드는 무료 스킬 94개, 커피잔 렌더까지 직접 해 봤습니다\n   ↳ 블렌더를 몰라도 클로드 코드(Claude Code)와 94개의 전용 스킬을 사용하여 말로 3D 모델링, 조명, 렌더링을 수행하는 방법을 실습합니다.\n   https://youtu.be/9TjaFjaVBO8\n\n10. AI 핵심 · [The AI Advantage] 2.2K뷰 · 참여율 1.9%\n   Claude Can Now Turn Ideas Into Visual Whiteboards\n   ↳ Claude가 텍스트 기반의 아이디어를 시각적인 화이트보드 형태로 구조화하고 변환하는 기능을 소개합니다.\n   https://youtu.be/hJH9TcNfrZY\n\n📈 스마트대디 어제 실적\n조회수 177.1K (↑69% vs 7일 평균) | 구독 +560\n시청 지속률 41.4% | 평균 시청 2분 51초\n경쟁사 평균 38.7K회 대비 내 7일 평균 +171%\n\n💡 VS 각도: Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.\n\n🔗 https://davidsteakhouse.github.io/youtube-insider-dashboard/",
+  "video_count": 18,
+  "total_recent_video_count": 22,
   "focus_scope": "ai_priority_then_tech_fill",
-  "average_view_count": 60197.0,
-  "average_engagement_rate": 0.026341914151926268,
-  "average_like_count": 923.0,
-  "average_comment_count": 192.0,
-  "best_video_id": "l8FsqgGKg2w",
+  "average_view_count": 38711.0,
+  "average_engagement_rate": 0.017865734095170296,
+  "average_like_count": 401.0,
+  "average_comment_count": 64.0,
+  "best_video_id": "tXnxfQ_3fvs",
   "best_topic": "Claude",
   "summary_points": [
-    "가장 겹친 주제는 'Claude'이며 3개 영상, 평균 조회수 3.9K, 평균 참여율 2.6%입니다.",
-    "최고 실적 영상은 '수능 진짜 큰일났습니다. 한국 시험이 AI 커닝에 유독 잘 뚫리는 이유'이며 솔직 검증 훅과 뉴스 분석 포맷 조합이 강했습니다.",
-    "반복 노출된 툴은 Claude 4회, ChatGPT 2회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
+    "가장 겹친 주제는 'Claude'이며 5개 영상, 평균 조회수 21.1K, 평균 참여율 2.6%입니다.",
+    "최고 실적 영상은 '수능 앞두고.. AI 치팅 논란? 꼭 알면 좋을 악질 수법들과 방지대안 찾아보기'이며 문제 해결 훅과 워크플로우 튜토리얼 포맷 조합이 강했습니다.",
+    "반복 노출된 툴은 Claude 6회, ChatGPT 3회 순이어서, 크리에이터 관점에서는 같은 툴을 다른 사용 장면으로 분화해 다루는 편이 좋습니다."
   ],
   "action_chips": [
     "주제: Claude",
-    "훅: 솔직 검증",
-    "포맷: 뉴스 분석",
-    "기준 채널: 테크몽 Techmong"
+    "훅: 문제 해결",
+    "포맷: 워크플로우 튜토리얼",
+    "기준 채널: ITSub잇섭"
   ],
   "title_suggestions": [
     "Claude vs ChatGPT, 일반인이 직접 써보니 이게 달랐다",
@@ -34,11 +34,11 @@
       "title": "Claude vs ChatGPT, 일반인이 직접 써보니 이게 달랐다",
       "hook": "기능 발표보다 '내 일에서 뭐가 바로 바뀌는지'를 질문형으로 던지는 훅",
       "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
-      "thumbnail_copy": "Claude 바로 해결",
+      "thumbnail_copy": "Claude 지금 봐야 함",
       "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
-      "source_video_id": "nP2lA3V57Cw",
-      "source": "클로드(Claude)로 뭐든 배우는 요청문 10개 — 새 업무 빨리 익히는 직장인 공부법",
-      "my_channel_context": "내 7일 평균 76.6K회 · 지속률 34.2% / 경쟁사 대비 +27%"
+      "source_video_id": "tPiEPzy2JKU",
+      "source": "Claude Makes Insane Videos Now (It Can Replace Seedance)",
+      "my_channel_context": "내 7일 평균 104.7K회 · 지속률 36.1% / 경쟁사 대비 +171%"
     },
     {
       "title": "Claude 실제 써봄 — 잘되는 것 3가지, 안되는 것 2가지 (솔직 후기)",
@@ -46,9 +46,9 @@
       "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
       "thumbnail_copy": "Claude 바로 해결",
       "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
-      "source_video_id": "ImT902GtpUY",
-      "source": "Claude goes 3D",
-      "my_channel_context": "내 7일 평균 76.6K회 · 지속률 34.2% / 경쟁사 대비 +27%"
+      "source_video_id": "8fNfcx25q24",
+      "source": "I Spent a Week Making 3 Games With Claude Fable 5.2 (Honest Review)",
+      "my_channel_context": "내 7일 평균 104.7K회 · 지속률 36.1% / 경쟁사 대비 +171%"
     },
     {
       "title": "AI 비서 대결: Claude가 진짜 강한 상황은 따로 있었다",
@@ -56,208 +56,209 @@
       "angle": "'Claude'를 제목 첫머리에 두고, 큰 트렌드 설명보다 지금 당장 써볼 수 있는 실무 장면 1개와 후속 변화 2개만 묶어 압축하는 포장이 좋습니다.",
       "thumbnail_copy": "Claude 핵심 3가지",
       "reason": "Claude vs ChatGPT 일반인 실무 직접 대결 영상이 비어 있습니다. '진짜 차이가 있긴 한 건가?' 실험 구도.",
-      "source_video_id": "Oukk8v8lNIY",
-      "source": "클로드 코드(Claude Code) 비밀 코드 5개 직접 실험 — 진짜 기능은 울트라씽크(ultrathink) 하나뿐",
-      "my_channel_context": "내 7일 평균 76.6K회 · 지속률 34.2% / 경쟁사 대비 +27%"
+      "source_video_id": "9TjaFjaVBO8",
+      "source": "블렌더(Blender) × 클로드 코드 — 말로 3D 만드는 무료 스킬 94개, 커피잔 렌더까지 직접 해 봤습니다",
+      "my_channel_context": "내 7일 평균 104.7K회 · 지속률 36.1% / 경쟁사 대비 +171%"
     }
   ],
   "topic_clusters": [
     {
       "label": "Claude",
+      "count": 5,
+      "avg_view_count": 21142,
+      "avg_engagement_rate": 0.02634761357897225,
+      "avg_like_count": 475,
+      "avg_comment_count": 53,
+      "source_titles": [
+        "Claude Makes Insane Videos Now (It Can Replace Seedance)",
+        "I Spent a Week Making 3 Games With Claude Fable 5.2 (Honest Review)",
+        "블렌더(Blender) × 클로드 코드 — 말로 3D 만드는 무료 스킬 94개, 커피잔 렌더까지 직접 해 봤습니다"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/tPiEPzy2JKU/hqdefault.jpg",
+      "representative_video_id": "tPiEPzy2JKU",
+      "representative_title": "Claude Makes Insane Videos Now (It Can Replace Seedance)"
+    },
+    {
+      "label": "ChatGPT",
       "count": 3,
-      "avg_view_count": 3889,
-      "avg_engagement_rate": 0.026355686025712765,
-      "avg_like_count": 84,
-      "avg_comment_count": 40,
+      "avg_view_count": 6718,
+      "avg_engagement_rate": 0.03044114308303351,
+      "avg_like_count": 275,
+      "avg_comment_count": 28,
       "source_titles": [
-        "클로드(Claude)로 뭐든 배우는 요청문 10개 — 새 업무 빨리 익히는 직장인 공부법",
-        "Claude goes 3D",
-        "클로드 코드(Claude Code) 비밀 코드 5개 직접 실험 — 진짜 기능은 울트라씽크(ultrathink) 하나뿐"
+        "ChatGPT 6.2 Astra is \"A Mess\"",
+        "OpenAI GPT-6.2 Astra is Here - It's Not What You Think",
+        "좋은 기획서는 살아있는 기획서입니다"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/nP2lA3V57Cw/hqdefault.jpg",
-      "representative_video_id": "nP2lA3V57Cw",
-      "representative_title": "클로드(Claude)로 뭐든 배우는 요청문 10개 — 새 업무 빨리 익히는 직장인 공부법"
+      "thumbnail_url": "https://i.ytimg.com/vi/LxKNPrXBuyU/hqdefault.jpg",
+      "representative_video_id": "LxKNPrXBuyU",
+      "representative_title": "ChatGPT 6.2 Astra is \"A Mess\""
     },
     {
-      "label": "코딩",
-      "count": 2,
-      "avg_view_count": 18186,
-      "avg_engagement_rate": 0.02406652039174567,
-      "avg_like_count": 234,
-      "avg_comment_count": 22,
-      "source_titles": [
-        "엔비디아, 리벨리온이 뭉쳤다 | Groq가 있는데도 리벨리온 R200 선택 이유 | NVLink Fusion과 MGX 그리고 리벨리온의 토큰 수출 구상",
-        "3D Printing Entire Buildings is So Wild To Me"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/YLBR7qz6JPs/hqdefault.jpg",
-      "representative_video_id": "YLBR7qz6JPs",
-      "representative_title": "엔비디아, 리벨리온이 뭉쳤다 | Groq가 있는데도 리벨리온 R200 선택 이유 | NVLink Fusion과 MGX 그리고 리벨리온의 토큰 수출 구상"
-    },
-    {
-      "label": "교육",
+      "label": "수능",
       "count": 1,
-      "avg_view_count": 585647,
-      "avg_engagement_rate": 0.019148053349543327,
-      "avg_like_count": 9312,
-      "avg_comment_count": 1902,
+      "avg_view_count": 432532,
+      "avg_engagement_rate": 0.008184365549832151,
+      "avg_like_count": 2884,
+      "avg_comment_count": 656,
       "source_titles": [
-        "수능 진짜 큰일났습니다. 한국 시험이 AI 커닝에 유독 잘 뚫리는 이유"
+        "수능 앞두고.. AI 치팅 논란? 꼭 알면 좋을 악질 수법들과 방지대안 찾아보기"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/l8FsqgGKg2w/hqdefault.jpg",
-      "representative_video_id": "l8FsqgGKg2w",
-      "representative_title": "수능 진짜 큰일났습니다. 한국 시험이 AI 커닝에 유독 잘 뚫리는 이유"
+      "thumbnail_url": "https://i.ytimg.com/vi/tXnxfQ_3fvs/hqdefault.jpg",
+      "representative_video_id": "tXnxfQ_3fvs",
+      "representative_title": "수능 앞두고.. AI 치팅 논란? 꼭 알면 좋을 악질 수법들과 방지대안 찾아보기"
     },
     {
-      "label": "OpenAI",
+      "label": "스마트기기",
       "count": 1,
-      "avg_view_count": 74838,
-      "avg_engagement_rate": 0.011224244367834523,
-      "avg_like_count": 626,
-      "avg_comment_count": 214,
+      "avg_view_count": 40937,
+      "avg_engagement_rate": 0.0038840169040232552,
+      "avg_like_count": 145,
+      "avg_comment_count": 14,
       "source_titles": [
-        "AI뉴스 - AI 부정행위 못 잡는다, 전문직 종말, Fable 5.2, MS365, GPT-6.2 Astra, 젠슨 황 사임, Gemini 4 Carbon & Hydrogen 등"
+        "요즘 AI 안경 수준ㄷㄷ"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/ZKKP6jbdNbg/hqdefault.jpg",
-      "representative_video_id": "ZKKP6jbdNbg",
-      "representative_title": "AI뉴스 - AI 부정행위 못 잡는다, 전문직 종말, Fable 5.2, MS365, GPT-6.2 Astra, 젠슨 황 사임, Gemini 4 Carbon & Hydrogen 등"
+      "thumbnail_url": "https://i.ytimg.com/vi/dImKpxcu7qM/hqdefault.jpg",
+      "representative_video_id": "dImKpxcu7qM",
+      "representative_title": "요즘 AI 안경 수준ㄷㄷ"
     },
     {
-      "label": "NULL",
+      "label": "AI안경이",
       "count": 1,
-      "avg_view_count": 5147,
-      "avg_engagement_rate": 0.01088012434427822,
-      "avg_like_count": 51,
-      "avg_comment_count": 5,
+      "avg_view_count": 28667,
+      "avg_engagement_rate": 0.010464994593086127,
+      "avg_like_count": 261,
+      "avg_comment_count": 39,
       "source_titles": [
-        "NULL 번호판을 쓴 사람의 최후"
+        "AI안경이 불러온 전문직의 종말? ㄷㄷ"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/1hg9POiarjE/hqdefault.jpg",
-      "representative_video_id": "1hg9POiarjE",
-      "representative_title": "NULL 번호판을 쓴 사람의 최후"
+      "thumbnail_url": "https://i.ytimg.com/vi/pST7ArQkHC8/hqdefault.jpg",
+      "representative_video_id": "pST7ArQkHC8",
+      "representative_title": "AI안경이 불러온 전문직의 종말? ㄷㄷ"
     },
     {
-      "label": "수익화",
+      "label": "엔비디아",
       "count": 1,
-      "avg_view_count": 4096,
-      "avg_engagement_rate": 0.056640625,
-      "avg_like_count": 216,
-      "avg_comment_count": 16,
+      "avg_view_count": 26587,
+      "avg_engagement_rate": 0.01933275661037349,
+      "avg_like_count": 461,
+      "avg_comment_count": 53,
       "source_titles": [
-        "This had never been done before!"
+        "엔비디아 충격적 실적... 바닥찍고 폭등각?"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/btjS7OaffpM/hqdefault.jpg",
-      "representative_video_id": "btjS7OaffpM",
-      "representative_title": "This had never been done before!"
+      "thumbnail_url": "https://i.ytimg.com/vi/3zmdPT8C7R8/hqdefault.jpg",
+      "representative_video_id": "3zmdPT8C7R8",
+      "representative_title": "엔비디아 충격적 실적... 바닥찍고 폭등각?"
     },
     {
-      "label": "자기",
+      "label": "엄청난",
       "count": 1,
-      "avg_view_count": 2775,
-      "avg_engagement_rate": 0.014414414414414415,
-      "avg_like_count": 40,
-      "avg_comment_count": 0,
+      "avg_view_count": 20733,
+      "avg_engagement_rate": 0.00573964211643274,
+      "avg_like_count": 115,
+      "avg_comment_count": 4,
       "source_titles": [
-        "자기 전에 AI한테 일 맡기는 법"
+        "엄청난 비용 절감을 이뤄낸 일론머스크"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/hLeDXPW19Pk/hqdefault.jpg",
-      "representative_video_id": "hLeDXPW19Pk",
-      "representative_title": "자기 전에 AI한테 일 맡기는 법"
+      "thumbnail_url": "https://i.ytimg.com/vi/MmxwVEgvHxE/hqdefault.jpg",
+      "representative_video_id": "MmxwVEgvHxE",
+      "representative_title": "엄청난 비용 절감을 이뤄낸 일론머스크"
     },
     {
-      "label": "AI활용",
+      "label": "MCP",
       "count": 1,
-      "avg_view_count": 1618,
-      "avg_engagement_rate": 0.07169344870210136,
-      "avg_like_count": 113,
-      "avg_comment_count": 3,
+      "avg_view_count": 10569,
+      "avg_engagement_rate": 0.00709622480840193,
+      "avg_like_count": 62,
+      "avg_comment_count": 13,
       "source_titles": [
-        "Ask yourself this before using AI"
+        "MCP를 도입한 어도비..살아남을까?"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/ghfz6g-SUDg/hqdefault.jpg",
-      "representative_video_id": "ghfz6g-SUDg",
-      "representative_title": "Ask yourself this before using AI"
+      "thumbnail_url": "https://i.ytimg.com/vi/HLp6DmC3C7Y/hqdefault.jpg",
+      "representative_video_id": "HLp6DmC3C7Y",
+      "representative_title": "MCP를 도입한 어도비..살아남을까?"
     }
   ],
   "video_highlights": [
     {
-      "video_id": "l8FsqgGKg2w",
-      "channel_name": "테크몽 Techmong",
-      "title": "수능 진짜 큰일났습니다. 한국 시험이 AI 커닝에 유독 잘 뚫리는 이유",
-      "thumbnail_url": "https://i.ytimg.com/vi/l8FsqgGKg2w/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=l8FsqgGKg2w",
-      "published_at": "2026-11-16T11:56:17Z",
-      "view_count": 585647,
-      "like_count": 9312,
-      "comment_count": 1902,
-      "engagement_rate": 0.019148053349543327,
-      "topic_cluster": "교육",
-      "summary": "AI를 활용한 부정행위 사례를 통해 수능 등 시험의 공정성 위기를 진단하고, 중국 가오카오의 보안 대책을 참고하여 우리 수능이 나아가야 할 대비책을 분석했다.",
-      "comment_signal": "교육부장관 : 그냥 올해 수능은 양심에 맡기고.. 수능연기는 불가능하다 이딴게 교육부장관?",
-      "hook_type": "솔직 검증"
-    },
-    {
-      "video_id": "ZKKP6jbdNbg",
-      "channel_name": "조코딩 JoCoding",
-      "title": "AI뉴스 - AI 부정행위 못 잡는다, 전문직 종말, Fable 5.2, MS365, GPT-6.2 Astra, 젠슨 황 사임, Gemini 4 Carbon & Hydrogen 등",
-      "thumbnail_url": "https://i.ytimg.com/vi/ZKKP6jbdNbg/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=ZKKP6jbdNbg",
-      "published_at": "2026-11-16T13:00:06Z",
-      "view_count": 74838,
-      "like_count": 626,
-      "comment_count": 214,
-      "engagement_rate": 0.011224244367834523,
-      "topic_cluster": "OpenAI",
-      "summary": "AI 기술의 급격한 발전과 함께 발생한 부정행위, 전문직의 위기, Anthropic IPO 로드쇼 정보, MS 장애, Gemini 및 GPT 최신 모델 유출 등을…",
-      "comment_signal": "(오늘의 교훈) 부정시험을 막지 못하면 수능시험과 대학 및 각종 고시의 가치는 사라진다.",
+      "video_id": "tXnxfQ_3fvs",
+      "channel_name": "ITSub잇섭",
+      "title": "수능 앞두고.. AI 치팅 논란? 꼭 알면 좋을 악질 수법들과 방지대안 찾아보기",
+      "thumbnail_url": "https://i.ytimg.com/vi/tXnxfQ_3fvs/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=tXnxfQ_3fvs",
+      "published_at": "2026-11-17T11:45:23Z",
+      "view_count": 432532,
+      "like_count": 2884,
+      "comment_count": 656,
+      "engagement_rate": 0.008184365549832151,
+      "topic_cluster": "수능",
+      "summary": "자막을 확보하지 못해 제목·댓글·메타데이터 기준으로 분석했습니다.",
+      "comment_signal": "오늘 인트로는 웃기지가 않네... 진짜 이번 수능 어떻게 되려나...",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "YLBR7qz6JPs",
-      "channel_name": "안될공학 - IT 테크 신기술",
-      "title": "엔비디아, 리벨리온이 뭉쳤다 | Groq가 있는데도 리벨리온 R200 선택 이유 | NVLink Fusion과 MGX 그리고 리벨리온의 토큰 수출 구상",
-      "thumbnail_url": "https://i.ytimg.com/vi/YLBR7qz6JPs/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=YLBR7qz6JPs",
-      "published_at": "2026-11-16T14:36:09Z",
-      "view_count": 29374,
-      "like_count": 222,
-      "comment_count": 8,
-      "engagement_rate": 0.00783005378906516,
-      "topic_cluster": "코딩",
-      "summary": "엔비디아와 리벨리온이 협력하여 한국형 소버린 AI 인프라를 구축하는 구상을 다루며, R200 칩이 가진 처리 성능과 서버 확장성을 바탕으로 한 한국 AI 기술의 글…",
-      "comment_signal": "패치누나가 말아주는 리벨리온이라니 허겁지겁달려옴❤",
-      "hook_type": "문제 해결"
-    },
-    {
-      "video_id": "nP2lA3V57Cw",
-      "channel_name": "빌더 조쉬 Builder Josh",
-      "title": "클로드(Claude)로 뭐든 배우는 요청문 10개 — 새 업무 빨리 익히는 직장인 공부법",
-      "thumbnail_url": "https://i.ytimg.com/vi/nP2lA3V57Cw/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=nP2lA3V57Cw",
-      "published_at": "2026-11-16T11:18:18Z",
-      "view_count": 9022,
-      "like_count": 195,
-      "comment_count": 113,
-      "engagement_rate": 0.03413877189093328,
+      "video_id": "tPiEPzy2JKU",
+      "channel_name": "AI Samson",
+      "title": "Claude Makes Insane Videos Now (It Can Replace Seedance)",
+      "thumbnail_url": "https://i.ytimg.com/vi/tPiEPzy2JKU/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=tPiEPzy2JKU",
+      "published_at": "2026-11-17T08:37:37Z",
+      "view_count": 90224,
+      "like_count": 2048,
+      "comment_count": 141,
+      "engagement_rate": 0.024261837205178223,
       "topic_cluster": "Claude",
-      "summary": "Claude를 활용해 새로운 업무와 지식을 빠르게 습득할 수 있는 10가지 효과적인 프롬프트를 소개하며, 특정 대상을 지정한 설명 요청이나 데이터 요약, HTML…",
-      "comment_signal": "공부 좋아요!",
+      "summary": "Claude Fable 5.2를 사용하여 코드로 전체 애니메이션 영상을 생성하는 방법을 다룹니다. 코드 기반의 영상 제작 원리, 애니메이션 방법론, 비용, 단점 등…",
+      "comment_signal": "someone asked what a 2 min video costs with claude plus higgsfield. i do the claude side and th…",
+      "hook_type": "긴급성"
+    },
+    {
+      "video_id": "dImKpxcu7qM",
+      "channel_name": "테크몽 Techmong",
+      "title": "요즘 AI 안경 수준ㄷㄷ",
+      "thumbnail_url": "https://i.ytimg.com/vi/dImKpxcu7qM/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=dImKpxcu7qM",
+      "published_at": "2026-11-17T11:00:26Z",
+      "view_count": 40937,
+      "like_count": 145,
+      "comment_count": 14,
+      "engagement_rate": 0.0038840169040232552,
+      "topic_cluster": "스마트기기",
+      "summary": "AI 안경이 길 안내, 실시간 번역, 카톡 등 다양한 기능을 탑재하고 앱 개발까지 가능하다는 것을 보여주며, 최신 AI 기술의 놀라운 발전 수준을 소개하는 영상입니…",
+      "comment_signal": "이 정도면 사볼만 한거 같은데??? 이거 근시용 도수도 있나요?",
       "hook_type": "문제 해결"
     },
     {
-      "video_id": "ETw45WHQ6Z4",
-      "channel_name": "Matt Wolfe",
-      "title": "3D Printing Entire Buildings is So Wild To Me",
-      "thumbnail_url": "https://i.ytimg.com/vi/ETw45WHQ6Z4/hqdefault.jpg",
-      "video_url": "https://www.youtube.com/watch?v=ETw45WHQ6Z4",
-      "published_at": "2026-11-16T05:35:39Z",
-      "view_count": 6997,
-      "like_count": 246,
-      "comment_count": 36,
-      "engagement_rate": 0.04030298699442618,
-      "topic_cluster": "코딩",
-      "summary": "AI 분야의 최신 기술 뉴스 중 하나로 건물 전체를 3D 프린팅으로 건축하는 혁신적인 사례와 관련 기술 발전 소식을 다루었다.",
-      "comment_signal": "But here's the problem that they found with printing concrete buildings, because the way they p…",
-      "hook_type": "실험"
+      "video_id": "pST7ArQkHC8",
+      "channel_name": "조코딩 JoCoding",
+      "title": "AI안경이 불러온 전문직의 종말? ㄷㄷ",
+      "thumbnail_url": "https://i.ytimg.com/vi/pST7ArQkHC8/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=pST7ArQkHC8",
+      "published_at": "2026-11-17T06:00:13Z",
+      "view_count": 28667,
+      "like_count": 261,
+      "comment_count": 39,
+      "engagement_rate": 0.010464994593086127,
+      "topic_cluster": "AI안경이",
+      "summary": "AI 안경 등 최신 AI 기술이 전문직의 업무 환경과 직업 생태계에 미치는 영향에 대해 다룹니다.",
+      "comment_signal": "맞말입니다. 막을게 아니라 AI를 활용하는 실무방식 시험으로 바꿔야죠 엄청난 인프라 비용이 들겠지만 결국 바뀔것같아요.",
+      "hook_type": "문제 해결"
+    },
+    {
+      "video_id": "3zmdPT8C7R8",
+      "channel_name": "월텍남 - 월스트리트 테크남",
+      "title": "엔비디아 충격적 실적... 바닥찍고 폭등각?",
+      "thumbnail_url": "https://i.ytimg.com/vi/3zmdPT8C7R8/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=3zmdPT8C7R8",
+      "published_at": "2026-11-17T22:16:19Z",
+      "view_count": 26587,
+      "like_count": 461,
+      "comment_count": 53,
+      "engagement_rate": 0.01933275661037349,
+      "topic_cluster": "엔비디아",
+      "summary": "엔비디아의 충격적인 실적 발표를 분석하며, AI 칩 시장의 독점적 지위와 향후 경쟁 심화 가능성을 바탕으로 주가 폭등 가능성을 진단합니다.",
+      "comment_signal": "아니 이형 오선형이랑 같이 자고 일어나나봄",
+      "hook_type": "문제 해결"
     }
   ]
 }
